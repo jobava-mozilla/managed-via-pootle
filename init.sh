@@ -28,5 +28,5 @@ IFS=$OLDIFS
 echo "*~" > .gitignore
 echo ".svn" >> .gitignore
 echo ".git" >> .gitignore
-echo "#$" >> .gitignore
+echo "*#" >> .gitignore
 
