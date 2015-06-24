@@ -1,0 +1,113 @@
+<!-- INCLUDE mcp_header.html -->
+
+<script type="text/javascript">
+// <![CDATA[
+
+	var ban_length = new Array();
+		ban_length[-1] = '';
+	<!-- BEGIN ban_length -->
+		ban_length['{ban_length.BAN_ID}'] = '{ban_length.A_LENGTH}';
+	<!-- END ban_length -->
+
+	var ban_reason = new Array();
+		ban_reason[-1] = '';
+	<!-- BEGIN ban_reason -->
+		ban_reason['{ban_reason.BAN_ID}'] = '{ban_reason.A_REASON}';
+	<!-- END ban_reason -->
+
+	var ban_give_reason = new Array();
+		ban_give_reason[-1] = '';
+	<!-- BEGIN ban_give_reason -->
+		ban_give_reason['{ban_give_reason.BAN_ID}'] = '{ban_give_reason.A_REASON}';
+	<!-- END ban_give_reason -->
+
+	function display_details(option) {
+		document.getElementById('unbangivereason').innerHTML = ban_give_reason[option];
+		document.getElementById('unbanreason').innerHTML = ban_reason[option];
+		document.getElementById('unbanlength').innerHTML = ban_length[option];
+	}
+
+// ]]>
+</script>
+
+<form id="mcp_ban" method="post" action="{U_ACTION}" class="user-input">
+  <h2 class="section-title">{L_TITLE}</h2>
+  <p>{L_EXPLAIN}</p>
+	
+	<fieldset>
+  	<p>
+  	  <label for="ban">{L_BAN_CELL}</label>
+  	  <textarea name="ban" id="ban" class="inputbox" cols="25" rows="3">{BAN_QUANTIFIER}</textarea>
+  	  <!-- IF S_USERNAME_BAN --><span class="find"><a href="{U_FIND_USERNAME}" onclick="find_username(this.href); return false;">{L_FIND_USERNAME}</a></span><!-- ENDIF -->
+  	</p>
+  	<p>
+  		<label for="banlength">{L_BAN_LENGTH}</label>
+  		<select name="banlength" id="banlength" onchange="if(this.value==-1){document.getElementById('banlengthother').style.display = 'block';}else{document.getElementById('banlengthother').style.display='none';}">{S_BAN_END_OPTIONS}</select>
+  		<span id="banlengthother" style="display: none;"><label><input type="text" name="banlengthother" class="inputbox" /><span class="note">{L_YEAR_MONTH_DAY}</span></label></span>
+  	</p>
+  	<p>
+  		<label for="banreason">{L_BAN_REASON}</label>
+  		<input name="banreason" id="banreason" type="text" class="inputbox" maxlength="255" />
+  	</p>
+  	<p>
+  		<label for="bangivereason">{L_BAN_GIVE_REASON}</label>
+  		<input name="bangivereason" id="bangivereason" type="text" class="inputbox" maxlength="255" />
+  	</p>
+  	<p>
+  		<label for="banexclude0">{L_BAN_EXCLUDE} <span class="note">{L_BAN_EXCLUDE_EXPLAIN}</span></label>
+  		<label for="banexclude1" class="check"><input type="radio" name="banexclude" id="banexclude1" value="1" /> {L_YES}</label> 
+  		<label for="banexclude0" class="check"><input type="radio" name="banexclude" id="banexclude0" value="0" checked="checked" /> {L_NO}</label>
+  	</p>
+	</fieldset>
+
+<fieldset class="submit-buttons">
+	{S_HIDDEN_FIELDS}
+	<button type="submit" name="bansubmit" value="{L_SUBMIT}" class="button1">{L_SUBMIT}</button>&nbsp;
+	<button type="reset" value="{L_RESET}" name="reset" class="button2">{L_RESET}</button>
+	{S_FORM_TOKEN}
+</fieldset>
+
+<hr />
+
+	<h3>{L_UNBAN_TITLE}</h3>
+	<p>{L_UNBAN_EXPLAIN}</p>
+
+	<!-- IF S_BANNED_OPTIONS -->
+  <fieldset>
+		<ul>
+  		<li>
+  			<label for="unban">{L_BAN_CELL}</label>
+  			<select name="unban[]" id="unban" multiple="multiple" size="5" onchange="if (this.selectedIndex != -1) {display_details(this.options[this.selectedIndex].value);}">{BANNED_OPTIONS}</select></dd>
+  		</li>
+  		<li>
+  			<span class="label">{L_BAN_LENGTH}</span>
+  			<span id="unbanlength"></span>
+  		</li>
+  		<li>
+  			<span class="label">{L_BAN_REASON}</span>
+  			<span id="unbanreason"></span>
+  		</li>
+  		<li>
+  			<span class="label">{L_BAN_GIVE_REASON}</span>
+  			<span id="unbangivereason"></span>
+  		</li>
+		</ul>
+  </fieldset>
+
+	<fieldset class="submit-buttons">
+		{S_HIDDEN_FIELDS} 
+		<input type="submit" name="unbansubmit" value="{L_SUBMIT}" class="button1" />&nbsp;
+		<input type="reset" value="{L_RESET}" name="reset" class="button2" />
+	</fieldset>
+
+	<!-- ELSE -->
+
+		<p><strong>{L_NO_BAN_CELL}</strong></p>
+
+		<span class="corners-bottom"><span></span></span></div>
+	</div>
+
+	<!-- ENDIF -->
+</form>
+
+<!-- INCLUDE mcp_footer.html -->

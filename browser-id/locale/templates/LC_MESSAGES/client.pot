@@ -1,0 +1,354 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr ""
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr ""
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr ""
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr ""
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr ""
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr ""
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr ""
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr ""
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr ""
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr ""
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr ""
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr ""
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr ""
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr ""
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr ""
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr ""
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr ""
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr ""
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr ""
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr ""
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr ""
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr ""
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr ""
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr ""
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr ""
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr ""
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr ""
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr ""
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr ""
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr ""
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr ""
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr ""
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr ""
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr ""
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr ""
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr ""
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr ""
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr ""
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr ""
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr ""
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr ""

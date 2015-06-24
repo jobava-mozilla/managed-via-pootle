@@ -1,0 +1,730 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-11-29 00:30+0000\n"
+"Last-Translator: Jordi <jordis@softcatala.cat>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1385685010.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"S'ha produït un problema amb l'enllaç per registrar-vos. Ja s'havia "
+"registrat aquesta adreça?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "s'ha produït un error intentant completar el registre."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "El Persona necessita galetes per a recordar-vos."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Tanqueu aquesta finestra, <a %s>habiliteu les galetes</a> i torneu-ho a "
+"provar"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "S'ha produït un error en la comunicació"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "S'està acabant l'inici de sessió..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "En un moment haureu iniciat la sessió al Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Lamentem que la sol·licitud trigui més del que esperàvem."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Si això no es resol en pocs segons, tanqueu la finestra i torneu a provar-ho."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "S'està consultant el proveïdor de correu electrònic."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "L'adreça electrònica que heu seleccionat no és vàlida o s'ha esborrat."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Voleu suprimir %(email)s del vostre compte de Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Eliminant la darrera adreça cancel·lareu el vostre compte del Persona.\n"
+"Esteu segur que voleu continuar?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Esteu segur que voleu suprimir el vostre compte de Persona?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Afegeix una adreça electrònica"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "adreça electrònica"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Ha de ser una adreça electrònica"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "El camp d'adreça electrònica és obligatori"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"S'ha envia una confirmació inicial &ndash;  espereu uns minuts abans de "
+"sol·licitar-ne una altra"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Ja s'ha afegit!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "afegeix"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "cancel·la"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "No s'ha pogut verificar %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s és una adreça obligatòria però no podem verificar que en sigueu el "
+"propietari."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "S'ha verificat %(email)s!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Iniciant-vos la sessió a&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Comproveu el vostre correu"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Feu clic a l'enllaç del correu de confirmació enviat a %s per iniciar "
+"immediatament la sessió a %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Error"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Ho sentim molt."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "El servidor està molt carregat."
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Actualitzeu la pàgina i torneu-ho a provar."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Tanqueu aquesta finestra i torneu-ho a provar."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Més informació"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Tanca"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "D'acord"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* no és una adreça electrònica vàlida."
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "Per continuar, tanqueu la finestra i introduïu una adreça vàlida."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Us recordem?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Quant de temps voleu mantenir la sessió iniciada amb el Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Un mes"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Confio en aquest ordinador."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Només aquesta sessió"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Aquest no és el meu ordinador."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Nota: podeu tancar la sessió del Persona en qualsevol moment."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Inicia la sessió amb Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Inicia la sessió a %s com&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Seleccioneu una adreça electrònica"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Afegeix un altra adreça electrònica"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "No sóc jo"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"En continuar, accepteu les <a %(terms)s>condicions d'ús</a> i la <a %"
+"(privacy)s>política de privadesa</a> de %(site)s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "inici de sessió"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "%(primary)s no respon. Espereu uns minuts i torneu-ho a provar."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "No s'ha pogut verificar %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Pot ser perquè el vostre navegador bloqui galetes de terceres parts. "
+"Assegureu-vos que les preferències de privadesa del navegador estan "
+"definides per acceptar galetes de terceres parts de %(idpName)s i torneu-ho "
+"a provar."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"També accepteu les <a %(terms)s>condicions d'ús</a> i la <a %"
+"(privacy)s>política de privadesa</a> de %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Crea una contrasenya"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s ja no us permet iniciar la sessió a Persona amb la contrasenya de %"
+"(idp)s. Creeu una contrasenya i utilitzeu-la amb el vostre compte de "
+"Persona."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"No coneixem la vostra adreça electrònica. Creeu una contrasenya per "
+"utilitzar-la amb el Firefox OS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"No coneixem la vostra adreça electrònica. Creeu una contrasenya per "
+"utilitzar-la amb el Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "crea una contrasenya"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "El camp de contrasenya és obligatori"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "La contrasenya ha de tenir entre 8 i 80 caràcters"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Verifica la contrasenya"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "verifica la contrasenya"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Cal verificar la contrasenya"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Les contrasenyes no coincideixen!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "fet"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Bones notícies!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s ja no requereix una contrasenya addicional. Verifiqueu el vostre "
+"compte i s'iniciarà immediatament la sessió a %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "Verifica"
+
+#~ msgid "signing in"
+#~ msgstr "inici de sessió"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Confirmeu l'adreça electrònica"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Inicieu una sessió com..."
+
+#~ msgid "Email"
+#~ msgstr "Adreça electrònica"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "S'ha verificat la vostra identitat amb el proveïdor de correu electrònic. "
+#~ "Ara intentarem iniciar la sessió."
+
+#~ msgid "Sign in using"
+#~ msgstr "Inicieu una sessió utilitzant"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "El lloc ha sol·licitat que inicieu una sessió utilitzant"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Cal que inicieu la sessió amb el vostre proveïdor de correu electrònic "
+#~ "per verificar que aquesta adreça és vostra. Aquesta finestra serà "
+#~ "redirigida a"
+
+#~ msgid "Enter password"
+#~ msgstr "Introduïu la contrasenya"
+
+#~ msgid "forgot your password?"
+#~ msgstr "heu oblidat la contrasenya?"
+
+#~ msgid "Password"
+#~ msgstr "Contrasenya"
+
+#~ msgid "Password incorrect"
+#~ msgstr "La contrasenya és incorrecta"
+
+#~ msgid "verify email"
+#~ msgstr "verifiqueu l'adreça electrònica"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s ho fa fàcil"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "El vostre compte de %(emailProvider)s s'ha actualitzat per funcionar "
+#~ "millor amb Persona. Us redirigirem a %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona us permet utilitzar el vostre compte de %(emailProvider)s per "
+#~ "iniciar una sessió en llocs com %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "inicia la sessió amb %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Utilitzeu una adreça electrònica diferent"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Cal que el camp contingui una adreça electrònica."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Acabem d'enviar un correu a aquesta adreça. Si realment en voleu enviar "
+#~ "un altre, espereu un minut o dos i torneu-ho a provar."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Ja heu afegit aquesta adreça al vostre compte."
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Trieu una adreça electrònica."
+
+#~ msgid "The password field is required."
+#~ msgstr "El camp de contrasenya és obligatori."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "L'adreça electrònica no coincideix amb la contrasenya."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Afegiu una altra adreça electrònica a la contrasenya del Persona."
+
+#~ msgid "There has been an error!"
+#~ msgstr "S'ha produït un error."
+
+#~ msgid "Reset your password"
+#~ msgstr "Reinicia la contrasenya"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Escolliu una nova contrasenya per fer servir amb %s"
+
+#~ msgid "reset password"
+#~ msgstr "Reinicia la contrasenya"
+
+#, fuzzy
+#~ msgid "Sign In"
+#~ msgstr "inici de sessió"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Espereu uns segons mentre iniciem la sessió al lloc."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "%s utilitza el Persona en lloc d'un nom d'usuari per iniciar la sessió."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Per iniciar la sessió amb el Persona, introduïu la vostra adreça "
+#~ "electrònica."
+
+#~ msgid "enter email address"
+#~ msgstr "introduïu la vostra adreça electrònica"
+
+#~ msgid "password"
+#~ msgstr "contrasenya"
+
+#~ msgid "next"
+#~ msgstr "següent"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Heu oblidat la contrasenya?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "En continuar, estareu confirmant a %s que accepteu les seves <a "
+#~ "%s>condicions</a> i la seva <a %s>política de privadesa</a>."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Aquest missatge marxarà quan s'hagi acabat la sol·licitud. En cas que "
+#~ "tardi massa, tanqueu aquesta finestra i torneu a provar-ho."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "Introduïu la vostra adreça electrònica per registrar-vos a <strong>%s</"
+#~ "strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Espereu mentre obtenim informació sobre el proveïdor de correu electrònic."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "No es pot iniciar una sessió al compte amb aquest nom d'usuari i "
+#~ "contrasenya."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Hem enviat un missatge de confirmació a <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Si això és un error, ignoreu el correu enviat i <a %s>cancel·leu-ho</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Si això és un error, ignoreu el correu enviat i <a %s>utilitzeu una altra "
+#~ "adreça electrònica</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "És el vostre, aquest ordinador?"
+
+#~ msgid "yes"
+#~ msgstr "Sí"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Si és així, us mantindrem la sessió iniciada durant dues setmanes."
+
+#~ msgid "no"
+#~ msgstr "no"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Si sou en un ordinador públic (p. ex. una biblioteca o un cibercafè) us "
+#~ "tornarem a demanar la contrasenya en una hora per a més seguretat."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Us donem la benvinguda al Persona"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "A continuació, escolliu una nova contrasenya per utilitzar quan inicieu "
+#~ "sessió amb el Persona"
+
+#~ msgid "Repeat Password"
+#~ msgstr "Repetiu la contrasenya"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "Disculpeu. El BrowserID necessita utilitzar galetes"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr ""
+#~ "Aquesta adreça electrònica sembla nova. Configurem el vostre compte."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Inicieu una sessió sempre amb aquesta adreça electrònica"
+
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "Per operar el BrowserID necessita que el vostre navegador tingui "
+#~ "habilitades les galetes. Habiliteu-les i torneu a provar-ho"
+
+#~ msgid "You are offline!"
+#~ msgstr "No esteu connectat"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr "El BrowserID no es pot comunicar si esteu connectat."
+
+#~ msgid "select email"
+#~ msgstr "seleccioneu l'adreça electrònica"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr "No podem comunicar-nos amb el BrowserID quan esteu desconnectat."
+
+#~ msgid "Authenticating User"
+#~ msgstr "S'està autenticant l'usuari"
+
+#~ msgid "Adding Address"
+#~ msgstr "S'està afegint l'adreça"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "S'està afegint l'adreça principal de correu electrònic a l'usuari"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "S'estan comprovant ĺes dades de l'adreça"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "Autenticació amb asserció"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "S'està cancel·lant el compte de l'usuari"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "S'està comprovant l'autenticació"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "S'està comprovant la versió de l'script"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "S'està finalitzant el registre de l'usuari"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "S'està comprovant si les galetes estan habilitades"
+
+#~ msgid "Creating Account"
+#~ msgstr "S'està creant el compte"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "S'està comprovant l'asserció"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "S'està comprovant el testimoni de registre"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "Comprovació de l'adreça electrònica"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "Comprovació de si l'usuari s'està autenticant amb IdP"
+
+#~ msgid "Logout Failed"
+#~ msgstr "Ha fallat la sortida de sessió"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "S'està autenticant amb el proveïdor d'identitat"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr ""
+#~ "Tenim problemes per comunicar-nos amb el vostre proveïdor de correu. "
+#~ "Torneu a provar-ho."
+
+#~ msgid "Provisioning with Identity Provider"
+#~ msgstr "S'està comprovant el proveïdor d'identitat"
+
+#~ msgid "Provisioning Unsupported Identity Provider"
+#~ msgstr "S'està provant un proveïdor d'identitat incompatible"
+
+#~ msgid ""
+#~ "Unfortunately, the email address provided cannot act as a Primary "
+#~ "Identity Provider"
+#~ msgstr ""
+#~ "Desafortunadament, l'adreça electrònica que heu indicat no pot actuar com "
+#~ "a proveïdor d'identitat primari."
+
+#~ msgid "Registration Failed"
+#~ msgstr "Ha fallat el registre"
+
+#~ msgid "Establishing Relay"
+#~ msgstr "S'està establint la comunicació"
+
+#~ msgid "Relay frame could not be found"
+#~ msgstr "No s'ha pogut trobar el marc de comunicacions"
+
+#~ msgid "Signin Failed"
+#~ msgstr "Ha fallat l'inici de sessió"
+
+#~ msgid "Signup Failed"
+#~ msgstr "Ha fallat el registre de l'usuari"
+
+#~ msgid "Syncing Address"
+#~ msgstr "S'estan sincronitzant les adreces"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "S'estan sincronitzant les adreces electròniques"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "Sincronitza les claus per l'adreça"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "S'està obtenint informació del testimoni"
+
+#~ msgid "Updating password"
+#~ msgstr "S'està actualitzant la contrasenya"

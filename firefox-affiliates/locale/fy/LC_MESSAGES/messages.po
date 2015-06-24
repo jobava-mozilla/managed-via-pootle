@@ -1,0 +1,2780 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 18:40+0000\n"
+"PO-Revision-Date: 2014-08-11 06:40:58\n"
+"Last-Translator: Wim <fryskefirefox@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 0.9.5\n"
+"X-Generator: Pontoon\n"
+
+#. This acts as a placeholder/label for a form selection
+#: affiliates/banners/forms.py:21
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:36
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:45
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:54
+#: affiliates/base/forms.py:22
+msgid "-- select --"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/banners.html:12
+#: affiliates/banners/templates/banners/generator/banners.html:20
+msgid "Choose a Banner"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/categories.html:12
+#: affiliates/banners/templates/banners/generator/categories.html:20
+msgid "Choose a Category"
+msgstr ""
+
+#. The "Category" step is when you pick a category to see a list of banners
+#. within it.
+#: affiliates/banners/templates/banners/generator/macros.html:8
+#: affiliates/banners/templates/banners/generator/macros.html:10
+msgid "Category"
+msgstr ""
+
+#. The "Choose" step is when you choose a banner to use.
+#: affiliates/banners/templates/banners/generator/macros.html:17
+#: affiliates/banners/templates/banners/generator/macros.html:19
+#: affiliates/banners/templates/banners/generator/macros.html:21
+msgid "Choose"
+msgstr ""
+
+#. The "Configure" step is when you select a specific variation of a banner.
+#: affiliates/banners/templates/banners/generator/macros.html:28
+#: affiliates/banners/templates/banners/generator/macros.html:30
+#: affiliates/banners/templates/banners/generator/macros.html:32
+msgid "Configure"
+msgstr ""
+
+#. The "Embed" step is when you copy HTML code to put in your webpage to embed
+#. the banner.
+#: affiliates/banners/templates/banners/generator/macros.html:39
+#: affiliates/banners/templates/banners/generator/macros.html:41
+msgid "Embed"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/macros.html:50
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+#: affiliates/base/templates/base/about.html:119
+#: affiliates/base/templates/base/dashboard.html:100
+msgid "What are smart banners?"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/macros.html:52
+#: affiliates/base/templates/base/about.html:122
+#: affiliates/base/templates/base/dashboard.html:102
+msgid ""
+"Smart Banners show visitors slightly different messages depending on their "
+"browser. For example, visitors on an older version of Firefox would be "
+"encouraged to upgrade, while visitors on Internet Explorer would be "
+"encouraged to switch."
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:12
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:25
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:14
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:22
+msgid "Configure Your Banner"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:33
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:29
+msgid "Language"
+msgstr "Taal"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:42
+msgid "Size"
+msgstr "Grutte"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:51
+msgid "Color"
+msgstr "Kleur"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:68
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:38
+#: affiliates/facebook/templates/facebook/banner_create.html:68
+#: affiliates/users/templates/users/profile.html:39
+msgid "Save"
+msgstr "Bewarje"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:7
+msgid "Up to date Firefox and other browsers"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:12
+#, fuzzy
+msgid "Out of date Firefox"
+msgstr "Oer Firefox"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:6
+msgid "No preview available."
+msgstr ""
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:10
+#, fuzzy
+msgid "Text banner"
+msgstr "Aktuele banners"
+
+#. Smart refers to a type of banner that changes the image depending on the
+#. user's Firefox version.
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+msgid "Smart"
+msgstr ""
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: affiliates/base/forms.py:18 affiliates/base/templates/base/base.html:126
+#: affiliates/facebook/forms.py:200
+msgid "Text"
+msgstr "Tekst"
+
+#: affiliates/base/milestones.py:21
+#, fuzzy
+msgid "Almost {0} clicks!"
+msgstr "Klikken totaal"
+
+#: affiliates/base/milestones.py:22
+msgid "Drove {0} clicks!"
+msgstr ""
+
+#: affiliates/base/milestones.py:23
+msgid "Drove {0} clicks. That's {1} clicks away from the next milestone!"
+msgstr ""
+
+#: affiliates/base/milestones.py:25
+msgid "Driven {0} clicks in total!"
+msgstr ""
+
+#: affiliates/base/milestones.py:26
+msgid "Drive {0} clicks!"
+msgstr ""
+
+#: affiliates/base/milestones.py:29
+msgid "Almost {0} downloads!"
+msgstr ""
+
+#: affiliates/base/milestones.py:30
+msgid "Drove {0} downloads!"
+msgstr ""
+
+#: affiliates/base/milestones.py:31
+msgid ""
+"Drove {0} downloads. That's {1} downloads away from the next milestone!"
+msgstr ""
+
+#: affiliates/base/milestones.py:33
+msgid "Driven {0} downloads in total!"
+msgstr ""
+
+#: affiliates/base/milestones.py:34
+msgid "Drive {0} downloads!"
+msgstr ""
+
+#: affiliates/base/milestones.py:37
+#, fuzzy
+msgid "Create a banner!"
+msgstr "In nije banner meitsje"
+
+#: affiliates/base/milestones.py:38
+msgid "Almost {0} banners created!"
+msgstr ""
+
+#: affiliates/base/milestones.py:39
+#, fuzzy
+msgid "Created {0} banners!"
+msgstr "In nije banner meitsje"
+
+#: affiliates/base/milestones.py:40
+#, fuzzy
+msgid "Created a banner."
+msgstr "In nije banner meitsje"
+
+#: affiliates/base/milestones.py:43
+#, fuzzy
+msgid "Create a text link!"
+msgstr "In nije banner meitsje"
+
+#: affiliates/base/milestones.py:44
+msgid "Almost {0} text links created!"
+msgstr ""
+
+#: affiliates/base/milestones.py:45
+msgid "Created {0} text links!"
+msgstr ""
+
+#: affiliates/base/milestones.py:46
+#, fuzzy
+msgid "Created a text link."
+msgstr "In nije banner meitsje"
+
+#: affiliates/base/templates/404.html:5 affiliates/base/templates/404.html:11
+msgid "Page not found"
+msgstr ""
+
+#: affiliates/base/templates/404.html:13
+msgid "Sorry, but we couldn’t find the page you’re looking for."
+msgstr ""
+
+#: affiliates/base/templates/500.html:5
+msgid "Server error"
+msgstr ""
+
+#: affiliates/base/templates/500.html:11
+msgid "D’oh! Something went wrong!"
+msgstr ""
+
+#: affiliates/base/templates/500.html:13
+msgid ""
+"Sorry, but something went wrong on our end and we couldn’t process your "
+"request. Please try again in a few minutes."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:6
+#: affiliates/base/templates/base/base.html:73
+msgid "About"
+msgstr "Oer"
+
+#: affiliates/base/templates/base/about.html:13
+#, fuzzy
+msgid "About Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+#: affiliates/base/templates/base/about.html:16
+#: affiliates/base/templates/base/about.html:46
+#, fuzzy
+msgid ""
+"Firefox Affiliate buttons are bits of HTML code that you put on your website"
+" or blog to encourage visitors to download Firefox. When someone clicks a "
+"button on your site and visits the Firefox download page, you get credit for"
+" that click."
+msgstr ""
+"Firefox Affiliate-knoppen binne in stikje html-koade dy't jo op jo webside "
+"of blog pleatse om besikers fan jo webside oan te setten ta it downloaden "
+"fan Firefox. Wannear't in besiker fan jo webside op in knop klikt en de "
+"Firefox downloadside besiket, wurde jo foar klik beleane."
+
+#: affiliates/base/templates/base/about.html:25
+#: affiliates/base/templates/base/about.html:55
+#, fuzzy
+msgid ""
+"Affiliates who get a lot of clicks will be featured on our leaderboard and "
+"be eligible for rewards, like Firefox T-shirts. While we do send out prizes "
+"and gifts to our affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox buttons."
+msgstr ""
+"Partners dy't fia harren webside in protte downloads opleverje sille op ús "
+"scoreboerd fermeld wurde en komme yn oanmerking foar leuk guod lykas "
+"Firefox-mouhimden. Hoewol't wy fan tiid ta tiid prizen en geskinken "
+"fuortjouwe oan ús partners, biedt Firefox Affiliates gjin finansjele "
+"fergoedingen foar it hosten fan Firefox-knoppen."
+
+#: affiliates/base/templates/base/about.html:39
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:41
+#, fuzzy
+msgid "Using Affiliate buttons"
+msgstr "Affiliate-knoppen brûke"
+
+#: affiliates/base/templates/base/about.html:43
+msgid "How do affiliate buttons work?"
+msgstr "Hoe wurkje Affiliate-knoppen?"
+
+#: affiliates/base/templates/base/about.html:65
+msgid "How do I add an affiliate button to my website?"
+msgstr "Hoe foegje ik in Affiliate-knop ta oan myn webside?"
+
+#: affiliates/base/templates/base/about.html:68
+#, fuzzy
+msgid ""
+"It’s super easy! To start, choose a button and select the Firefox product or"
+" campaign you’d like to support. From there, simply pick your button’s "
+"style, shape and color, and then copy and paste the code into the HTML of "
+"your site. Done! Your unique affiliate ID will be in the code to make sure "
+"you get credit for every click you send our way."
+msgstr ""
+"Simpel! Begjin by de knoppenkiezer, selektearje it Firefox-produkt of de "
+"kampanje dy't jo stypje wolle, kies jo knoppenstyl, -foarm en -kleur, en "
+"kopiearje en plak dêrnei de koade yn de html fan jo webside. Jo unike "
+"Affiliate-ID sit al yn dy koade, sadat jo foar eltse download dy't jo ús "
+"kant opstjoere beleane wurde."
+
+#: affiliates/base/templates/base/about.html:79
+msgid "How do I remove an affiliate button from my website?"
+msgstr "Hoe smyt ik in Affiliate-knop fan myn webside fuort?"
+
+#: affiliates/base/templates/base/about.html:82
+msgid ""
+"This is also easy. Simply delete the code. If you want to put it back in "
+"again, just copy and paste it from the button picker."
+msgstr ""
+"Dit is ek ienfâldich. Ferwiderje gewoan de koade. As jo de knop wer "
+"werompleatse wolle, kopiearje en plak dizze dan fanút de knoppenkiezer."
+
+#: affiliates/base/templates/base/about.html:89
+#, fuzzy
+msgid "How do text links work?"
+msgstr "Hoe wurkje Affiliate-knoppen?"
+
+#: affiliates/base/templates/base/about.html:92
+#, fuzzy
+msgid ""
+"Text links work very much like banners. You start by choosing the Firefox "
+"product or campaign you’d like to support, then select the text link you’d "
+"like to use. Copy and paste the link code into the HTML of your site, onto "
+"your email signature, or anywhere else you’d like to have it appear. Your "
+"unique affiliate ID will be in the code to make sure you get credit for "
+"every click you send our way."
+msgstr ""
+"Simpel! Begjin by de knoppenkiezer, selektearje it Firefox-produkt of de "
+"kampanje dy't jo stypje wolle, kies jo knoppenstyl, -foarm en -kleur, en "
+"kopiearje en plak dêrnei de koade yn de html fan jo webside. Jo unike "
+"Affiliate-ID sit al yn dy koade, sadat jo foar eltse download dy't jo ús "
+"kant opstjoere beleane wurde."
+
+#: affiliates/base/templates/base/about.html:104
+msgid "What happens when an affiliate button for a campaign is deactivated?"
+msgstr ""
+"Wat bart der as in Affiliate-knop foar in kampanje deaktivearre wurdt?"
+
+#: affiliates/base/templates/base/about.html:107
+#, fuzzy
+msgid ""
+"Sometimes we run special time-limited campaigns to encourage people to "
+"download Firefox. If you’re using an affiliate button for one of these "
+"campaigns, try to update your button as soon as you can. People who click on"
+" that button will be directed to a general Firefox download page. You’ll get"
+" credit for the click as an Affiliate, but you may not get credit for clicks"
+" for that specific campaign."
+msgstr ""
+"Somtiden hantearje wy spesjale tiidbeheinde kampanjes om minsken oan te "
+"setten ta it downloaden fan Firefox. As jo in Affiliate-knop foar ien fan "
+"dizze kampanjes brûke, probearje jo knop dan sa gau as mooglik by te "
+"wurkjen. Minsken dy't op dy knop klikke sille nei in algemiene downloadside "
+"foar Firefox laad wurde. Foar dy download sille jo as partner beleane wurde,"
+" mar mooglik wurde jo net beleane foar downloads foar dy spesifike kampanje."
+
+#: affiliates/base/templates/base/about.html:132
+#, fuzzy
+msgid "Leaderboard and user statistics"
+msgstr "Scoreboerd en brûkersstatistiken"
+
+#: affiliates/base/templates/base/about.html:134
+msgid "How often do leaderboard statistics update?"
+msgstr "Hoe faak wurde scoreboerdstatistiken bywurke?"
+
+#: affiliates/base/templates/base/about.html:137
+#, fuzzy
+msgid ""
+"Leaderboard stats update every night at midnight Pacific Time. No need to "
+"keep hitting refresh over and over again to see how you’re doing. Just check"
+" in the next day to see your progress."
+msgstr ""
+"Scoreboerdstatistiken wurde eltse nacht om middernacht PT bywurke. It is net"
+" nedich hieltyd op Fernije te drukken om te sjen hoe't jo it dogge. "
+"Kontrolearje jo foartgong gewoanwei de folgjende dei."
+
+#: affiliates/base/templates/base/about.html:145
+#: affiliates/facebook/templates/facebook/faq.html:177
+msgid "Is there a prize for getting the most Firefox clicks?"
+msgstr "Is der in priis foar it ferkrijen fan de measte Firefox-klikken?"
+
+#: affiliates/base/templates/base/about.html:147
+#, fuzzy
+msgid ""
+"From time to time we will be sending out T-shirts and other prizes. In "
+"future versions of Firefox Affiliates we will have a rewards program and "
+"more opportunities to participate in affiliate challenges."
+msgstr ""
+"Fan tiid ta tiid jouwe wy mouhimden en oare prizen fuort. Yn takomstige "
+"ferzjes fan Affiliates sil in beleaningsprogramma en mear gelegenheden foar "
+"dielname oan Affiliate-útdagingen tafoege wurde."
+
+#: affiliates/base/templates/base/about.html:156
+#: affiliates/facebook/templates/facebook/faq.html:194
+msgid "I think my click statistics are wrong. Is there any way to fix them?"
+msgstr ""
+"Ik tink dat myn klikstatistiken net goed binne. Is der in manier om se te "
+"reparearjen?"
+
+#: affiliates/base/templates/base/about.html:159
+#, fuzzy
+msgid ""
+"If you think there is an error with your click statistics, drop us a note at"
+" <a href=\"%(email)s\">affiliates@mozilla.org</a> and we’ll do our best to "
+"help you out."
+msgstr ""
+"As jo tinke dat der wat mis is mei jo klikstatistiken, lit it ús dan witte "
+"fia <a href=\"mailto:%(email)s\">%(email)s</a> en wy dogge ús bêst om jo te "
+"helpen."
+
+#: affiliates/base/templates/base/about.html:169
+#, fuzzy
+msgid "My profile"
+msgstr "Myn profyl"
+
+#: affiliates/base/templates/base/about.html:171
+msgid "How do I update my personal profile information?"
+msgstr "Hoe wurkje ik myn persoanlike profylgegevens by?"
+
+#: affiliates/base/templates/base/about.html:174
+#, fuzzy
+msgid ""
+"Moved? Changed your name? Grew a moustache? Just visit your profile page and"
+" click on the edit profile link at the top."
+msgstr ""
+"Ferhuze? Jo namme wizige? Klik ienfâldich op de knop Jo profyl bywurkje yn "
+"de linkerboppehoek fan de webside."
+
+#: affiliates/base/templates/base/about.html:178
+#: affiliates/users/templates/users/profile.html:44
+msgid ""
+"You can update your avatar picture at <a "
+"href=\"%(gravatar)s\">gravatar.com</a>."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:184
+msgid "How will you contact me if I win a prize?"
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:187
+msgid ""
+"If you qualify for an affiliates prize you will be notified that you have "
+"won via the email account in your affiliates profile."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:196
+#, fuzzy
+msgid "Getting involved With Firefox Affiliates"
+msgstr "Belutsen reitsje by Firefox Affiliates"
+
+#: affiliates/base/templates/base/about.html:198
+msgid "I have an idea of a button. How can I share it?"
+msgstr "Ik haw in idee foar in knop. Hoe kin ik dy diele?"
+
+#: affiliates/base/templates/base/about.html:201
+#, fuzzy
+msgid ""
+"Mozilla and Firefox are all about community. If you have an idea, we want to"
+" hear it. Send us a note at <a href=\"%(email)s\">affiliates@mozilla.org</a>"
+" and tell us your amazing idea for the program."
+msgstr ""
+"By Mozilla en Firefox draait alles om de mienskip. As jo in idee hawwe, "
+"heare wy dat graach. Stjoer ús in e-mail fia <a "
+"href=\"mailto:%(email)s\">%(email)s</a> en meld jo geweldige idee foar it "
+"programma."
+
+#: affiliates/base/templates/base/about.html:210
+msgid "Can I build my own button?"
+msgstr "Kin ik myn eigen knop meitsje?"
+
+#: affiliates/base/templates/base/about.html:213
+#, fuzzy
+msgid ""
+"Not yet… but soon. We're working on a way to make it easy for people to "
+"create their own Firefox buttons in their language. Look for this in future "
+"versions of Firefox Affiliates."
+msgstr ""
+"Noch net… mar letter wol. Wy wurkje noch oan in manier om it foar minsken "
+"ienfâldich te meitsjen har eigen Firefox-knoppen yn har taal te meitsjen. "
+"Let hjirop yn takomstige ferzjes fan Firefox Affiliates."
+
+#: affiliates/base/templates/base/about.html:221
+msgid "I want to help make Firefox Affiliates better. How can I get involved?"
+msgstr "Ik wol Firefox Affiliates helpe te ferbetterjen. Hoe kin ik meidwaan?"
+
+#: affiliates/base/templates/base/about.html:224
+#, fuzzy
+msgid ""
+"If you’d like to help out with the affiliates program, contact us at <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>. We’d love your help with "
+"everything from coding to marketing."
+msgstr ""
+"As jo ús helpe wolle mei it Affiliates-programma, nim dan kontakt op fia <a "
+"href=\"mailto:%(email)s\">%(email)s</a>. Jo help is wolkom!"
+
+#: affiliates/base/templates/base/base.html:12
+#: affiliates/base/templates/base/base.html:15
+#: affiliates/base/templates/base/base.html:21
+#: affiliates/base/templates/base/base.html:65
+#: affiliates/base/templates/base/home.html:15
+#: affiliates/facebook/templates/facebook/base.html:15
+#: affiliates/settings/base.py:152
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+#: affiliates/base/templates/base/base.html:49
+msgid "Close"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:50
+msgid "This field is required."
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:51
+msgid "Thanks for subscribing!"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:52
+#, fuzzy
+msgid "Sorry, there was an error. Please refresh and try again."
+msgstr "Der is in flater bard by de autentikaasje. Probearje it nochris."
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/base.html:60
+#: affiliates/base/templates/base/base.html:170
+#: affiliates/base/templates/base/strings.html:32
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: affiliates/base/templates/base/base.html:71
+msgid "Menu"
+msgstr ""
+
+#. clicks on their banners.
+#: affiliates/base/templates/base/base.html:74
+#: affiliates/facebook/templates/facebook/base.html:45
+msgid "Leaderboard"
+msgstr "Scoreboerd"
+
+#: affiliates/base/templates/base/base.html:75
+#: affiliates/statistics/templates/statistics/index.html:3
+#: affiliates/statistics/templates/statistics/index.html:17
+msgid "Performance"
+msgstr "Prestaasjes"
+
+#: affiliates/base/templates/base/base.html:84
+#: affiliates/base/templates/base/dashboard.html:14
+#: affiliates/base/templates/base/dashboard.html:22
+#: affiliates/links/templates/links/detail.html:52
+#, fuzzy
+msgid "Dashboard"
+msgstr "Scoreboerd"
+
+#: affiliates/base/templates/base/base.html:85
+#, fuzzy
+msgid "Profile"
+msgstr "Myn profyl"
+
+#: affiliates/base/templates/base/base.html:86
+#, fuzzy
+msgid "Sign out"
+msgstr "Oanmelde"
+
+#: affiliates/base/templates/base/base.html:90
+msgid "Sign in"
+msgstr "Oanmelde"
+
+#: affiliates/base/templates/base/base.html:108
+msgid "Get Firefox Affiliates News"
+msgstr "Krij Firefox Affiliates-nijs"
+
+#: affiliates/base/templates/base/base.html:111
+#: affiliates/facebook/forms.py:203
+#: affiliates/facebook/templates/facebook/base.html:159
+msgid "Your email address"
+msgstr "Jo e-mailadres"
+
+#: affiliates/base/templates/base/base.html:116
+msgid "Country"
+msgstr "Lân"
+
+#: affiliates/base/templates/base/base.html:121
+msgid "Format"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:132
+msgid "HTML"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:142
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr ""
+
+#. Label used for the newsletter signup button.
+#: affiliates/base/templates/base/base.html:150
+#: affiliates/facebook/templates/facebook/base.html:180
+msgid "Sign me up!"
+msgstr "Abonnearje my!"
+
+#: affiliates/base/templates/base/base.html:175
+msgid ""
+"Portions of this content are ©1998–%(thisyear)s by individual mozilla.org "
+"contributors. Content available under a <a href=\"%(license)s\">Creative "
+"Commons license</a>."
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:182
+msgid "Source code"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:187
+msgid "Contact Us"
+msgstr "Kontakt"
+
+#: affiliates/base/templates/base/base.html:188
+#, fuzzy
+msgid "Partner with Us"
+msgstr "Partners"
+
+#: affiliates/base/templates/base/base.html:189
+msgid "Donate"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:190
+msgid "Privacy Policy"
+msgstr "Privacybelied"
+
+#: affiliates/base/templates/base/base.html:191
+msgid "Legal Notices"
+msgstr "Juridyske betingsten"
+
+#: affiliates/base/templates/base/base.html:192
+msgid "Report Trademark Abuse"
+msgstr "Misbrûk fan hannelsmerk melde"
+
+#: affiliates/base/templates/base/base.html:196
+#, fuzzy
+msgid "Mozilla on Twitter"
+msgstr "Mozilla Firefox"
+
+#: affiliates/base/templates/base/base.html:197
+#, fuzzy
+msgid "Firefox on Twitter"
+msgstr "Diel op Twitter &raquo;"
+
+#: affiliates/base/templates/base/base.html:198
+#, fuzzy
+msgid "Mozilla on Facebook"
+msgstr "Firefox Affiliates op Facebook"
+
+#: affiliates/base/templates/base/base.html:199
+#, fuzzy
+msgid "Firefox on Facebook"
+msgstr "Firefox Affiliates op Facebook"
+
+#: affiliates/base/templates/base/dashboard.html:23
+msgid ""
+"See how your banners are performing and where you rank among other Firefox "
+"Affiliates. Thanks for supporting Firefox and the Mozilla mission to build a"
+" better Web for all!"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:26
+msgid "My stats"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:35
+#, fuzzy
+msgid "My Banners"
+msgstr "Myn banners"
+
+#: affiliates/base/templates/base/dashboard.html:36
+#: affiliates/facebook/templates/facebook/banner_list.html:76
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:7
+msgid "Create a new banner"
+msgstr "In nije banner meitsje"
+
+#: affiliates/base/templates/base/dashboard.html:47
+msgid "You don’t have any banners yet. Why not create one now?"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:52
+#: affiliates/base/templates/base/home.html:66
+msgid "1. Pick a banner"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:53
+#: affiliates/base/templates/base/home.html:67
+msgid ""
+"Choose from a number of designs that support Firefox and other Mozilla "
+"products."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:56
+#: affiliates/base/templates/base/home.html:70
+#, fuzzy
+msgid "2. Customize"
+msgstr "Oanpasse"
+
+#: affiliates/base/templates/base/dashboard.html:57
+#: affiliates/base/templates/base/home.html:71
+msgid ""
+"Select the size and color that suits your site. Banners and links are also "
+"available in over 30 languages."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:60
+#: affiliates/base/templates/base/home.html:74
+msgid "3. Post to your site"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:61
+#: affiliates/base/templates/base/home.html:75
+msgid ""
+"Copy and paste the HTML or text link into your site, email or wherever you’d"
+" like to share it."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:71
+msgid "My Milestones"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:79
+#, fuzzy
+msgid "Affiliates News"
+msgstr "Affiliates-gemiddelde"
+
+#: affiliates/base/templates/base/dashboard.html:84
+#, fuzzy
+msgid "Become a Mozillian"
+msgstr "Doch mei mei Mozilla"
+
+#: affiliates/base/templates/base/dashboard.html:86
+msgid ""
+"At Mozilla, doing good is part of our code. Our mission is to promote "
+"openness, innovation and opportunity on the Web, and we can only do it with "
+"awesome people like you. If you’d like to do even more to help our mission, "
+"we have volunteer opportunities available in a number of areas."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:93
+msgid "Learn more"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:24
+#, fuzzy
+msgid "So long, <strong>Firefox Affiliates</strong>."
+msgstr "Tank foar it oanmelden by <span>Firefox Affiliates!</span>"
+
+#: affiliates/base/templates/base/home.html:25
+msgid "Hello, <strong>Firefox Friends</strong>."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:27
+msgid ""
+"We’re moving our Affiliates program to Firefox Friends, an exciting new way "
+"to share what we do with the world. At Firefox Friends you’ll have "
+"opportunities to get recognized for making an impact — plus, you’ll be in "
+"the know for all the latest Mozilla news and announcements."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:33
+msgid ""
+"At the beginning of August, new banner creation for Affiliates will be "
+"disabled, so please join us at Firefox Friends to continue sharing Mozilla "
+"with world."
+msgstr ""
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/home.html:36
+#, fuzzy
+msgid "Join Firefox Friends"
+msgstr "Ynstekkers foar Firefox"
+
+#: affiliates/base/templates/base/home.html:38
+msgid "Click here for more information"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:49
+msgid "This site requires JavaScript."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:55
+#, fuzzy
+msgid "Become a Firefox Affiliate today!"
+msgstr "Wurd hjoed in <span>Firefox-partner!</span>"
+
+#: affiliates/base/templates/base/home.html:56
+msgid ""
+"Get everything you need to share Firefox – and the other Mozilla products "
+"you love – with the world. Climb the leaderboard to help us build a better "
+"Web."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:57
+msgid "Get started"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:63
+msgid "How it works"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:83
+msgid "Earn rewards!"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:84
+msgid ""
+"Climb the affiliates leaderboard for your chance to win awesome Firefox "
+"gear, and to get even more involved with Mozilla. The more you share, the "
+"higher you can climb."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:97
+#, fuzzy
+msgid "Top affiliates"
+msgstr "Oer Affiliates"
+
+#: affiliates/base/templates/base/macros.html:49
+msgid "Someday soon!"
+msgstr ""
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:64
+msgid "<strong>%(rank)s</strong> ranking"
+msgstr ""
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:69
+msgid "Not yet ranked"
+msgstr ""
+
+#: affiliates/base/templates/base/macros.html:78
+msgid "<strong>%(count)s</strong> affiliate"
+msgid_plural "<strong>%(count)s</strong> affiliates"
+msgstr[0] ""
+msgstr[1] ""
+
+#: affiliates/base/templates/base/macros.html:86
+msgid "<strong>%(count)s</strong> click"
+msgid_plural "<strong>%(count)s</strong> clicks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: affiliates/base/templates/base/macros.html:94
+msgid "<strong>%(count)s</strong> banner"
+msgid_plural "<strong>%(count)s</strong> banners"
+msgstr[0] ""
+msgstr[1] ""
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:31
+msgid "Firefox"
+msgstr "Firefox"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:33
+msgid "Firefox OS"
+msgstr "Firefox OS"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:38
+msgid "Mozilla Recruiting"
+msgstr "Mozilla-winne"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:39
+#, fuzzy
+msgid "Firefox for Mobile"
+msgstr "Firefox <span>foar</span> Mobyl"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:40
+#, fuzzy
+msgid "Firefox for Desktop"
+msgstr "Firefox <span>foar</span> buro-PC"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:41
+msgid "Firefox Plugins"
+msgstr "Ynstekkers foar Firefox"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:46
+msgid "Android"
+msgstr "Android"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:47
+msgid "Upgrade"
+msgstr "Fernije"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:48
+msgid "Download: Fast, Fun, Awesome"
+msgstr "Downloade: fluch, leuk, bjusterbaarlik"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:49
+#, fuzzy
+msgid "Work for Mozilla"
+msgstr "Wurkje <span>foar</span> Mozilla"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:50
+msgid "Plugin Checker"
+msgstr "Ynstekker-kontrole"
+
+#: affiliates/base/templates/base/strings.html:51
+msgid "Download Aurora"
+msgstr "Download Aurora"
+
+#: affiliates/base/templates/base/strings.html:52
+#, fuzzy
+msgid "Aurora for Android"
+msgstr "Aurora <span>foar</span> Android"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:53
+msgid "Download Beta"
+msgstr "Bèta ynlade"
+
+#. 3.6 refers to Firefox version 3.6
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:55
+msgid "3.6 Upgrade"
+msgstr "3.6 Fernije"
+
+#: affiliates/base/templates/base/strings.html:56
+msgid "Facebook Messenger for Firefox"
+msgstr "Facebook Messenger foar Firefox"
+
+#: affiliates/base/templates/base/strings.html:61
+msgid "Purple"
+msgstr "Pears"
+
+# Color for badge images.
+#: affiliates/base/templates/base/strings.html:62
+msgid "Blue"
+msgstr "Blau"
+
+#: affiliates/base/templates/base/strings.html:63
+msgid "Green"
+msgstr "Grien"
+
+#: affiliates/base/templates/base/strings.html:64
+msgid "Red"
+msgstr "Read"
+
+#: affiliates/base/templates/base/strings.html:65
+msgid "Orange"
+msgstr "Oranje"
+
+#: affiliates/base/templates/base/strings.html:66
+msgid "Yellow"
+msgstr "Giel"
+
+#: affiliates/base/templates/base/strings.html:67
+msgid "White"
+msgstr "Wyt"
+
+#: affiliates/base/templates/base/strings.html:68
+msgid "Black"
+msgstr "Swart"
+
+#: affiliates/base/templates/base/terms.html:6
+#: affiliates/base/templates/base/terms.html:14
+msgid "Terms of Service"
+msgstr ""
+
+#. L10n: &hellip; is an ellipses, the three dots like "I love Firefox
+#. because..."
+#: affiliates/facebook/forms.py:18
+msgid "I love Firefox because&hellip;"
+msgstr "Ik hâld fan Firefox omdat&hellip;"
+
+#: affiliates/facebook/forms.py:28
+msgid "Enter e-mail"
+msgstr "Fier e-mailadres yn"
+
+#: affiliates/facebook/forms.py:93
+msgid ""
+"Sorry. Your message is too long. Please tell the world why you love Firefox "
+"in 90 characters or less."
+msgstr ""
+"Sorry, jo berjocht is te lang. Fertel de wrâld yn 90 of minder tekens "
+"wêrom't jo hâlde fan Firefox."
+
+#. L10n: Used in a dropdown that lets users filter the Leaderboard by
+#. L10n: country. Refers to the default filter, which shows all countries
+#: affiliates/facebook/forms.py:179
+msgid "All"
+msgstr "Alle"
+
+#. Account linking lets a user associate an Affiliates account with their
+#. Facebook app account. Description is in another string. :D
+#: affiliates/facebook/managers.py:139
+#: affiliates/facebook/templates/facebook/base.html:86
+msgid "Link your Firefox Affiliates account"
+msgstr "Jo Firefox Affiliates-account keppelje"
+
+#: affiliates/facebook/models.py:313
+msgid "Way to go! You've had {0} clicks on your Firefox banner."
+msgstr "Goed dien! Jo hawwe {0} klikken op jo Firefox-banner ûntfongen."
+
+#: affiliates/facebook/models.py:315
+msgid ""
+"Amazing! You've had {0} clicks on your Firefox banner. Thanks for spreading "
+"the word."
+msgstr ""
+"Ungelooflik ! Jo hawwe {0} klikken op jo Firefox-banner ûntfongen. Tank foar"
+" it fersprieden fan de boadskip."
+
+#: affiliates/facebook/models.py:318
+msgid ""
+"Wow! Your banner has {0} clicks! It's ready to grow up and become a Firefox "
+"ad."
+msgstr ""
+"Wauw! Jo banner hat {0} klikken! It is folwoeksen genôch om in Firefox-"
+"advertinsje te wurden."
+
+#: affiliates/facebook/models.py:320
+msgid "Congratulations! Your Firefox banner has now become a Facebook ad!"
+msgstr "Lokwinske! Jo Firefox-banner is no in Facebook-advertinsje wurden!"
+
+#: affiliates/facebook/views.py:177
+msgid "Your banner has been deleted."
+msgstr "Jo banner is fuortsmiten."
+
+#: affiliates/facebook/views.py:211
+msgid "You have successfully posted a banner to your wall !"
+msgstr "Jo hawwe jo banner mei sukses oan jo muorre tafoege!"
+
+#: affiliates/facebook/views.py:303
+msgid "You have successfully sent a message to one of your friends!"
+msgstr "Jo hawwe mei sukses in berjocht nei ien fan jo freonen stjoerd!"
+
+#. Banner styles are images that will be used as the background of a banner
+#. that the user creates.
+#: affiliates/facebook/templates/facebook/banner_create.html:18
+msgid "First, choose one of the banner styles below."
+msgstr "Kies earst ien fan de ûndersteande bannerstilen."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:24
+msgid "Please correct the errors in the form below."
+msgstr "Korrisjearje de flaters yn it ûndersteande formulier."
+
+#. Used above a box showing what a banner will look like once it is created.
+#: affiliates/facebook/templates/facebook/banner_create.html:26
+msgid "Your banner preview"
+msgstr "Jo bannerfoarbyld"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:36
+msgid "Next, tell the world why you love Firefox in 90 characters or less."
+msgstr ""
+"Fertel de wrâld dêrnei yn 90 of minder tekens wêrom't jo sa hâlde fan "
+"Firefox."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:42
+msgid "Use my profile image"
+msgstr "Myn profylôfbylding brûke"
+
+#. Label for a checkbox that gives us permission to use the user's banner in a
+#. paid Facebook ad.
+#: affiliates/facebook/templates/facebook/banner_create.html:46
+msgid "Feature me in a paid Facebook ad."
+msgstr "Rikkemandearje my oan yn in betelle Facebook-advertinsje."
+
+#. Used on a link that, when clicked, pops up a text bubble with an
+#. explanation of a form field.
+#: affiliates/facebook/templates/facebook/banner_create.html:49
+msgid "What does this mean?"
+msgstr "Wat betsjut dit?"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:52
+msgid ""
+"If you get %(click_count)s clicks or more, we would like to have permission "
+"to turn your banner into a paid ad on Facebook in your region. By checking "
+"this box you are granting us permission to use your banner in a paid "
+"Facebook ad, including your profile photo if you checked the box to include "
+"it in the banner, and the text you added to the banner. For a full "
+"description of the rights you are granting and more information, see the "
+"FAQs. Don't want to be featured in an ad? Make sure you don't opt in. If you"
+" opted in and don't want to be featured anymore, send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure your ad is "
+"removed."
+msgstr ""
+"As jo %(click_count)s of mear klikken ûntfange, soenen wy graach tastimming "
+"hawwe om jo banner om te setten nei in betelle advertinsje op Facebook yn jo"
+" regio. Troch dit fekje oan te finkjen ferliene jo tastimming om jo banner "
+"yn in betelle Facebook-advertinsje te brûken, ynklusyf jo profylfoto as jo "
+"it fekje foar it tafoegjen yn de banner oanfinkt hawwe, en de tekst dy't jo "
+"oan de banner tafoege hawwe. Sjoch de FAQ’s foar in folsleine beskriuwing "
+"fan de rjochten dy't jo ferliene en foar mear ynformaasje. Wolle jo net yn "
+"in advertinsje oanrikkemandearre wurde? Soargje der dan foar dat jo jo net "
+"ynskriuwe. As jo jo ynskreaun hawwe en net mear oanrikkemandearre wurde "
+"wolle, stjoer dan in berjocht fia <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> en wy soargje derfoar dat jo "
+"advertinsje fuortsmiten wurdt."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:69
+msgid "Save and Share"
+msgstr "Bewarje en diele"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:14
+msgid "Are you sure?"
+msgstr "Binne jo wis?"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:15
+msgid "These are the banners you've created so far:"
+msgstr "Dit binne de banners dy't jo oant no ta makke hawwe:"
+
+#. Heading referring to when a banner was created.
+#: affiliates/facebook/templates/facebook/banner_list.html:26
+msgid "Creation date"
+msgstr "Oanmaakdatum"
+
+#. Heading above the number of clicks a banner has received.
+#: affiliates/facebook/templates/facebook/banner_list.html:30
+msgid "Clicks"
+msgstr "Klikken"
+
+#. Link that, when clicked, shows a dialog for posting a banner to a user's
+#. Facebook feed.
+#: affiliates/facebook/templates/facebook/banner_list.html:37
+msgid "Post to Feed"
+msgstr "Poste nei feed"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:45
+msgid "Delete"
+msgstr "Fuortsmite"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:67
+msgid "Click Goal: <span>%(count)s</span>"
+msgstr "Klikdoel: <span>%(count)s</span>"
+
+#: affiliates/facebook/templates/facebook/base.html:16
+msgid "Help us share Firefox with the world."
+msgstr "Help ús Firefox mei de wrâld te dielen."
+
+#: affiliates/facebook/templates/facebook/base.html:20
+#: affiliates/facebook/templates/facebook/base.html:148
+msgid "Invite your friends to Download Firefox!"
+msgstr "Freegje jo freonen Firefox te downloaden!"
+
+#: affiliates/facebook/templates/facebook/base.html:29
+msgid "My banners"
+msgstr "Myn banners"
+
+#. answers to common questions about the app.
+#. FAQs is an abbreviation for Frequently Asked Questions
+#: affiliates/facebook/templates/facebook/base.html:37
+#: affiliates/facebook/templates/facebook/faq.html:13
+msgid "FAQs"
+msgstr "FAQ’s"
+
+#: affiliates/facebook/templates/facebook/base.html:92
+msgid ""
+"Do you already have an account from affiliates.mozilla.org? You can link "
+"your account to this application and you'll get credit for any clicks that "
+"you drive through Facebook. To connect your account, just click here and "
+"fill in your information. We'll send you an email to confirm. If you'd like "
+"to sign up for an account, just visit <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"Hawwe jo al in account fan affiliates.mozilla.org? As jo jo account oan "
+"dizze applikaasje keppelje, sille jo beleand wurde foar elke klik dy't jo "
+"fia Facebook ûntfange. Klik hjir en folje jo gegevens yn om jo account te "
+"ferbinen. Wy stjoere jo in e-mailberjocht foar befestiging. As jo jo foar in"
+" account registrearje, besykje dan <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+
+#. Label used for the account linking button.
+#: affiliates/facebook/templates/facebook/base.html:103
+msgid "Submit"
+msgstr "Yntsjinje"
+
+#: affiliates/facebook/templates/facebook/base.html:107
+msgid "Thanks for linking your affiliates.mozilla.org account."
+msgstr "Tank foar it keppeljen fan jo affiliates.mozilla.org-account."
+
+#: affiliates/facebook/templates/facebook/base.html:108
+msgid ""
+"If the email address you entered has an account, you will receive a "
+"confirmation email."
+msgstr ""
+"As it ynfolle e-mailadres in account hat, ûntfange jo in "
+"ûntfangstbefestiging."
+
+#: affiliates/facebook/templates/facebook/base.html:113
+msgid "Linked to <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+msgstr "Keppele oan <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+
+#: affiliates/facebook/templates/facebook/base.html:120
+msgid ""
+"This account is linked to affiliates.mozilla.org. You are credited for "
+"clicks from Facebook. You can unlink accounts by clicking below."
+msgstr ""
+"Dizze account is oan affiliates.mozilla.org keppele. Jo wurde beleand foar "
+"klikken fanôf Facebook. Jo kinne accounts ûntkeppelje troch hjirûnder te "
+"klikken."
+
+#. Text on a button that lets a user unlink their Facebook and Affiliates
+#. accounts.
+#: affiliates/facebook/templates/facebook/base.html:125
+msgid "Remove %(email_address)s"
+msgstr "Jo e-mailadres"
+
+#: affiliates/facebook/templates/facebook/base.html:134
+msgid "Your Statistics Summary"
+msgstr "Jo statistikgearfetting"
+
+#: affiliates/facebook/templates/facebook/base.html:138
+msgid ""
+"You can filter results by selecting a specific month using the calendar "
+"above."
+msgstr ""
+"Jo kinne resultaten filterje troch fia de boppesteande kalinder in bepaalde "
+"moanne te selektearjen."
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/base.html:139
+#: affiliates/facebook/templates/facebook/leaderboard.html:27
+msgid "Total clicks"
+msgstr "Klikken totaal"
+
+#: affiliates/facebook/templates/facebook/base.html:140
+msgid "Statistics are currently unavailable."
+msgstr "Statistiken binne op dit stuit net beskikber."
+
+#: affiliates/facebook/templates/facebook/base.html:144
+msgid "Be a part of the Firefox movement"
+msgstr "Wês part fan de Firefox-beweging"
+
+#: affiliates/facebook/templates/facebook/base.html:145
+msgid "It's easy!"
+msgstr "It is maklik!"
+
+#: affiliates/facebook/templates/facebook/base.html:147
+msgid "Create your custom banner."
+msgstr "Meitsje jo eigen banner."
+
+#: affiliates/facebook/templates/facebook/base.html:149
+msgid "Get clicks and you could be featured in a paid Facebook ad."
+msgstr ""
+"Sammelje klikken en jo wurde mooglik yn in betelle Facebook-advertinsje "
+"oanrikkemandearre."
+
+#: affiliates/facebook/templates/facebook/base.html:155
+msgid "Get Firefox News"
+msgstr "Firefox-nijs ûntfange"
+
+#: affiliates/facebook/templates/facebook/base.html:171
+msgid "I agree to the <a href=\"%(link)s\">Privacy Policy</a>"
+msgstr "Ik gea akkoard mei it <a href=\"%(link)s\">Privacybelied</a>"
+
+#: affiliates/facebook/templates/facebook/base.html:175
+msgid "We will only send you Mozilla-related information."
+msgstr "Wy stjoere jo allinnich Mozilla-relatearre ynformaasje."
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/base.html:184
+#: affiliates/facebook/templates/facebook/link_activation_email.html:13
+msgid "Thanks!"
+msgstr "Tankewol!"
+
+#: affiliates/facebook/templates/facebook/error.html:10
+msgid "Whoops!"
+msgstr "Oeps!"
+
+#: affiliates/facebook/templates/facebook/error.html:11
+msgid "What are you doing here?"
+msgstr "Wat dogge jo hjir?"
+
+#: affiliates/facebook/templates/facebook/error.html:14
+msgid ""
+"Did you make a left at that last URL instead of a right? No problem. Here "
+"are some tips to get you back on your way:"
+msgstr ""
+"Binne jo by die lêste URL linksôf slein yn stee fan rjochts? Gjin probleem. "
+"Utsein jo wolle dat wy jo yndiele, binne hjir in oantal tips om jo wer op it"
+" goede paad te helpen:"
+
+#: affiliates/facebook/templates/facebook/error.html:21
+msgid ""
+"If you typed in the address, check your spelling. Could just be a typo."
+msgstr ""
+"As jo it adres yntypt hawwe, kontrolearje dan de stavering. It kin in "
+"typflater wêze."
+
+#: affiliates/facebook/templates/facebook/error.html:26
+msgid ""
+"If you followed a link, it’s probably broken. Please <a "
+"href=\"mailto:%(email)s\">contact us</a> and we’ll fix it."
+msgstr ""
+"As jo op in keppeling klikt hawwe, is dizze wierskienlik defekt. <a "
+"href=\"mailto:%(email)s\">Nim kontakt mei ús op</a> en wy meitsje it yn "
+"oarder."
+
+#: affiliates/facebook/templates/facebook/error.html:32
+msgid ""
+"If you're not sure what you're looking for, start at <a "
+"href=\"%(link)s\">mozilla.org</a>."
+msgstr ""
+"As jo net wis binne wêrnei jo op syk binne, begjin dan by <a "
+"href=\"%(href)s\">mozilla.org</a>."
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:18
+msgid "Using Affiliate banners"
+msgstr "Affiliate-knoppen brûke"
+
+#: affiliates/facebook/templates/facebook/faq.html:21
+msgid "What is Firefox Affiliates?"
+msgstr "Firefox Affiliates"
+
+#: affiliates/facebook/templates/facebook/faq.html:24
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"eligible for fun stuff like Firefox T-shirts and, if you opt in, we may "
+"feature your banner in a paid-ad on the Facebook ad network. While we do "
+"send out prizes and gifts to our Affiliates from time to time, Firefox "
+"Affiliates does not offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Firefox Affiliate-knoppen binne in stikje html-koade dy't jo op jo webside "
+"of blog pleatse om besikers fan jo webside oan te setten ta it downloaden "
+"fan Firefox. Wannear't in besiker fan jo webside op in knop klikt en Firefox"
+" downloadt, wurde jo foar dy download beleand. Partners dy't fia harren "
+"webside in protte downloads opleverje sille op ús scoreboerd fermeld wurde "
+"en komme yn oanmerking foar leuk guod lykas Firefox-mouhimden. Hoewol't wy "
+"fan tiid ta tiid prizen en geskenken fuortjaan oan ús partners, biedet "
+"Firefox Affiliates gjin finansjële fergoedingen foar it hosten fan Firefox-"
+"knoppen."
+
+#: affiliates/facebook/templates/facebook/faq.html:43
+msgid "How do I add a banner to my Facebook profile?"
+msgstr "Hoe foegje ik in Affiliate-knop ta oan myn webside?"
+
+#: affiliates/facebook/templates/facebook/faq.html:48
+msgid ""
+"Select a banner design that you like using the <a href=\"%(link)s\">banner "
+"builder</a>, add a personal message about why you love Firefox and then "
+"click \"share.\" This will post the banner to your Facebook timeline and "
+"into your friends' newsfeed."
+msgstr ""
+"Selektearje in bannerûntwerp dat jo befalt fia de <a "
+"href=\"%(link)s\">banner builder</a>, foegje in persoanlik berjocht ta oer "
+"wêrom't jo sa hâlde fan Firefox en klik dêrnei op “Diele”. Hjirtroch wurdt "
+"de banner op jo Facebook-tiidline en yn de nijsfeed fan jo freonen pleatst. "
+"Sa gau as der aktiviteit op jo banner is, ûntfange jo in fernijing op jo "
+"tidline."
+
+#: affiliates/facebook/templates/facebook/faq.html:60
+msgid "How do I invite a friend to use Firefox?"
+msgstr "Hoe noegje ik in freon út om Firefox te brûken?"
+
+#: affiliates/facebook/templates/facebook/faq.html:64
+msgid ""
+"If you'd like to personally invite someone to use Firefox, just select "
+"\"Share ad with friends\" from the side menu and you will be able to send a "
+"Facebook message with a custom Firefox download link. If your friend clicks "
+"on the link, you'll also get credit for the click."
+msgstr ""
+"As jo personlik ien útnoegje wolle ta it gebrûk fan Firefox, kies dan “Ad "
+"diele mei freonen” yn it menu oan de sydkant en jo kinne in Facebook-"
+"berjocht mei in oanpaste Firefox-downloadkeppeling stjoere. As jo freon op "
+"de keppeling klikt, wurde jo ek foar de klik beleand."
+
+#: affiliates/facebook/templates/facebook/faq.html:76
+msgid "Can my banner become a paid Facebook ad?"
+msgstr "Kin myn banner in betelle Facebook-advertinsje wurde?"
+
+#: affiliates/facebook/templates/facebook/faq.html:80
+msgid ""
+"If you checked the box to allow your banner to be featured in a paid "
+"Facebook ad, once you've reached %(click_count)s clicks on a Facebook "
+"banner, your banner will become eligible to be a paid Facebook ad. This "
+"means that Mozilla will pay to have an ad placed on the Facebook ad network "
+"sharing your message of why you love Firefox. We will notify you if your "
+"banner is chosen to be a paid ad in your region. If you do not want to "
+"participate in this, don't click the opt-in when you build your banner. If "
+"you've opted in by accident, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure you aren't "
+"included in the ad selection."
+msgstr ""
+"As jo it seleksjefekje foar tastimming fan it oanrikkemandearjen fan jo "
+"banner yn in betelle Facebook-advertinsje oanfinkt hawwe, komt jo banner by "
+"it beriken fan %(click_count)s klikken op in Facebook-banner yn oanmerking "
+"om in betelle Facebook-advertinsje te wurden. Dit betsjut dat Mozilla "
+"betelje sil om in advertinsje op it Facebook-advertinsjenetwurk pleatse te "
+"litten dy't jo boadskip oer wêrom't jo sa hâlde fan Firefox dielt. Wy litte "
+"jo witte wannear't jo banner te in betelle advertinsje yn jo regio ferkeazen"
+" is. As jo hjir net oan dielnimme wolle, klik dan net op de mooglikheid foar"
+" ynskriuwen wylst it bouwen fan jo banner. As jo jo per ûngelok  ynskreaun "
+"hawwe, nim dan kontakt op fia <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> en wy soargje derfoar dat jo "
+"net yn de advertinsjeseleksje meinommen wurde."
+
+#: affiliates/facebook/templates/facebook/faq.html:100
+msgid ""
+"If I opted in to having my banner become a paid Facebook ad, what exactly am"
+" I giving you permission to do?"
+msgstr ""
+"As ik my foar it oanrikkemandearjen fan myn banner foar in betelle Facebook-"
+"advertinsje ynskreaun haw, wêr jou ik dan presys tastimming foar?"
+
+#: affiliates/facebook/templates/facebook/faq.html:108
+msgid ""
+"You are giving us permission to use, reproduce, distribute, edit, and "
+"display your photo, if it is included in your banner, and your message about"
+" why you love Firefox, for commercial purposes, specifically in a paid ad on"
+" Facebook. You are also acknowledging that you will not be paid for the use "
+"of your banner."
+msgstr ""
+"Jo jouwe ús tastimming foar it brûken, reprodusearjen, fersprieden, "
+"bewurkjen en werjaan fan jo foto, as dizze yn jo banner sit, en jo boadskip "
+"oer wêromý jo sa hâlde fan Firefox, foar kommersjele doelen, mei nammen yn "
+"in betelle advertinsje op Facebook. Jo befestigje ek dat jo net foar it "
+"gebrûk fan jo banner betelle wurde sille."
+
+#: affiliates/facebook/templates/facebook/faq.html:119
+msgid "How do I remove the application?"
+msgstr "Hoe smyt ik de applikaasje fuort?"
+
+#: affiliates/facebook/templates/facebook/faq.html:122
+msgid ""
+"To remove the application, access your applications in the Facebook settings"
+" menu. Delete the application from your list of authorized apps and we'll "
+"delete your Affiliates profile on Facebook and the information associated "
+"with it. Note: Deleting the application on Facebook will not delete your "
+"affiliates.mozilla.org profile if you had one prior to installing the "
+"application. To delete that profile, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a>."
+msgstr ""
+"Benaderje jo applikaasjes yn it ynstellingenmenu fan Facebook om de "
+"applikaasje fuort te smiten. Smyt de applikaasje fuort út jo list fan "
+"autorisearre apps en wy sille jo Affiliates-profyl op Facebook en de dêrmei "
+"ferbûne gegevens fuortsmite. Noat: it fuortsmiten fan de applikaasje op "
+"Facebook sil jo affiliates.mozilla.org-profyl net fuortsmite as jo der al "
+"ien hienen foardat jo de applikaasje ynstalleerden. Nim kontakt mei ús op "
+"fia <a href=\"%(link)s\">affiliates@mozilla.org</a> om dat profyl fuort te "
+"smiten."
+
+#: affiliates/facebook/templates/facebook/faq.html:138
+msgid ""
+"How do I connect to my Firefox Affiliates account on affiliates.mozilla.org?"
+msgstr ""
+"Hoe meitsje ik ferbining mei myn Firefox Affiliates-account op "
+"affiliates.mozilla.org?"
+
+#: affiliates/facebook/templates/facebook/faq.html:146
+msgid ""
+"To connect your affiliates.mozilla.org account to this application, please "
+"use the connection wizard on the My Banners page. We'll send you an email to"
+" confirm that we've connected the accounts. If you'd like to sign up for an "
+"account, just visit <a href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"Gebrûk de ferbiningsassistint op de side Myn banners om jo "
+"affiliates.mozilla.org-account mei dizze applikaasje te ferbinen. Wy stjoere"
+" jo in e-mailberjocht foar befestiging dat de accounts ferbûn binne. As jo "
+"jo foar in account registrearje wolle, gean dan nei <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:159
+msgid "Leaderboard and User Statistics"
+msgstr "Scoreboerd en brûkersstatistiken"
+
+#: affiliates/facebook/templates/facebook/faq.html:163
+msgid "How often does the leaderboard get updated?"
+msgstr "Hoe faak wurde scoreboerdstatistiken bywurke?"
+
+#: affiliates/facebook/templates/facebook/faq.html:167
+msgid ""
+"The leaderboard updates every day at midnight Pacific Time, so be sure to "
+"check in to see where you stand."
+msgstr ""
+"It scoreboerd wurdt daagliks om middernacht (Pasifyske tiid) bywurke, dus "
+"kontrolearje jo posysje regelmjittich."
+
+#: affiliates/facebook/templates/facebook/faq.html:182
+msgid ""
+"No, though from time to time we may run contests to see who can get the most"
+" clicks for different Firefox products and campaigns. The winners will get "
+"Firefox T-shirts, hoodies and other awesome things we have at Mozilla HQ."
+msgstr ""
+"Nee, hoewol wy sa no en dan wedstriden hâlde om te sjen wa't de measte "
+"klikken foar ferskillende Firefox-produkten en -kampanjes sammelje kin. De "
+"winnaars krije Firefox-mouhimden, -sweatshirts en oare leuke dingen dy't der"
+" op it Mozilla-HK lizze."
+
+#: affiliates/facebook/templates/facebook/faq.html:202
+msgid ""
+"Let us know. Send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and tell us what the problem "
+"is."
+msgstr ""
+"Lit it ús witte. Stjoer in e-mailberjocht fia <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> en fertel ús wat it probleem "
+"is."
+
+#: affiliates/facebook/templates/facebook/first_run.html:8
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:17
+msgid "Welcome to Firefox Affiliates"
+msgstr "Wolkom by Firefox Affiliates."
+
+#: affiliates/facebook/templates/facebook/first_run.html:11
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:20
+msgid ""
+"This is your one stop shop for telling the world about the only browser that"
+" puts you first: Firefox! Start now by building a banner to post on your "
+"Facebook profile. Get a ton of clicks and we may feature you in a Firefox ad"
+" (with your permission, of course) or send you some great Firefox gear."
+msgstr ""
+"Dit is jo loket om de wrâld te ynformearjen oer de ienige browser dy't de "
+"brûker op it earste plak set: Firefox! Begjin no troch in banner te bouen om"
+" op jo Facebook-profyl te pleatsen. Sammelje tûzend klikken en wy kinne jo "
+"yn in Firefox-advertinsje oanrikkemandearje (mei jo tastimming natuerlik) of"
+" wat leuk Firefox-guod tastjoere."
+
+#: affiliates/facebook/templates/facebook/first_run.html:20
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:31
+msgid "Let's go!"
+msgstr "Oan it wurk!"
+
+#: affiliates/facebook/templates/facebook/leaderboard.html:11
+msgid "Affiliates with the most clicks"
+msgstr "Affiliates mei de measte klikken"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:23
+#: affiliates/links/templates/links/widgets/leaderboard.html:4
+msgid "Rank"
+msgstr "Posysje"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:25
+msgid "User"
+msgstr "Brûker"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:2
+msgid "Hi there!"
+msgstr "Hallo dêr!"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:5
+msgid ""
+"Thank you for linking your Firefox Affiliates account with the Affiliates "
+"Facebook application. Please click on the link below and you'll get credit "
+"for any clicks that you drive through Facebook on the main Affiliates "
+"leaderboard."
+msgstr ""
+"Tank foar it keppeljen fan jo Firefox Affiliates-account oan de Affiliates "
+"Facebook-applikaasje. Klik op de ûndersteande keppeling en jo krije punten "
+"foar eltse klik dy't jo fia Facebook ûntfange op it Affiliates-"
+"haadscoreboerd."
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:10
+msgid ""
+"If you didn't request to link your account, just ignore this e-mail and your"
+" account will not be linked."
+msgstr ""
+"As jo net om it keppeljen fan jo account frege hawwe, negearje dan dit "
+"e-mailberjocht en jo account wurdt net keppele."
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:15
+msgid "The Firefox Affiliates team"
+msgstr "It Firefox Affiliates-team"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:3
+msgid ""
+"Download Firefox (Large Firefox logo rising in front of an orange "
+"background)"
+msgstr ""
+"Download Firefox (Grut Firefox-logo dat opkomt foar in oranje achtergrûn)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:5
+msgid "Download Firefox (Small Firefox logo on a light blue background)"
+msgstr "Download Firefox (Lyts Firefox-logo op in ljochtblauwe achtergrûn)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:7
+msgid ""
+"Download Firefox (Large Firefox logo resting on a light blue background)"
+msgstr ""
+"Download Firefox (Grut Firefox-logo dat op in ljochtblauwe achtergrûn rêst)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:9
+msgid ""
+"Download Firefox (For Android. A mobile phone in front of a faded Firefox "
+"logo with a light blue background)"
+msgstr ""
+"Download Firefox (Foar Android. In mobile telefoan foar in ferfage Firefox-"
+"logo mei in ljochtblauwe achtergrûn)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:11
+msgid ""
+"Download Firefox (For Android. A mobile phone displaying a large Firefox "
+"logo on its screen, over a light blue background)"
+msgstr ""
+"Download Firefox (Foar Android. In mobile telefoan dy't in grut Firefox-logo"
+" op it skerm werjout, oer in ljochtblauwe achtergrûn)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:13
+msgid ""
+"Download Firefox (For Android. Firefox logo floating over a mobile phone "
+"resting on an orange background)"
+msgstr ""
+"Download Firefox (Foar Android. Firefox-logo dat foar in mobile telefoan "
+"sweeft, rêstend op in oranje achtergrûn)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:15
+msgid ""
+"Download Firefox (Person in a Firefox costume jumping happily on a beach)"
+msgstr ""
+"Download Firefox (Persoan yn in Firefox-kostuum, bliid springend op in "
+"strân)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:17
+msgid ""
+"Download Firefox (For Android. A mobile phone running Firefox for Android "
+"next to a coffee cup with the Firefox logo on it)"
+msgstr ""
+"Download Firefox (Foar Android. In mobile telefoan mei Firefox foar Android "
+"neist in kopke kofje mei it Firefox-logo)"
+
+#: affiliates/facebook/templates/facebook/strings.html:21
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"elegible for fun stuff like Firefox T-shirts. While we do send out prizes "
+"and gifts to our Affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Firefox Affiliate-knoppen binne in stikje html-koade dy't jo op jo webside "
+"of blog pleatse om besikers fan jo webside oan te setten ta it downloaden "
+"fan Firefox. Wannear't in besiker fan jo webside op in knop klikt en Firefox"
+" downloadt, wurde jo foar dy download beleand. Partners dy't fia harren "
+"webside in protte downloads opleverje sille op ús scoreboerd fermeld wurde "
+"en komme yn oanmerking foar leuk guod lykas Firefox-mouhimden. Hoewol't wy "
+"fan tiid ta tiid prizen en geskenken fuortjaan oan ús partners, biedet "
+"Firefox Affiliates gjin finansjële fergoedingen foar it hosten fan Firefox-"
+"knoppen."
+
+#: affiliates/facebook/templates/facebook/strings.html:22
+msgid "Mozilla Firefox"
+msgstr "Mozilla Firefox"
+
+#: affiliates/facebook/templates/facebook/strings.html:23
+msgid ""
+"Different by design. It's fast, flexible and secure. Share Firefox with your"
+" friends today."
+msgstr ""
+"Fan natoere oars. It is fluch, fleksibel en feilich. Diel Firefox hjoed noch"
+" mei jo freonen."
+
+#: affiliates/facebook/templates/facebook/strings.html:27
+msgid "You will lose credit for all your clicks on this banner."
+msgstr ""
+"Dit giet ten koste fan tegoedepunten foar al jo klikken op dizze banner."
+
+#: affiliates/facebook/templates/facebook/strings.html:31
+msgid "Newsletter subscription unavailable at this time."
+msgstr "Abonnearjen op de nijsbrief is op dit stuit net mooglik."
+
+#: affiliates/facebook/templates/facebook/strings.html:32
+msgid ""
+"I'd like to receive the Firefox Affiliate newsletter and periodic Firefox "
+"Affiliates updates via email."
+msgstr ""
+"Ik wil graach de Firefox Affiliate-nijsbrief en periodike fernijingen oer "
+"Firefox Affiliates ûntfange fia e-mail."
+
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:4
+msgid "Current banners"
+msgstr "Aktuele banners"
+
+#. L10n: "Woot" (w00t) as in internet slang expressing happiness.
+#: affiliates/links/middleware.py:19
+msgid ""
+"Woot! You've driven {num_downloads} downloads and {num_clicks} clicks since "
+"your last visit. Keep rockin'!"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:12
+#: affiliates/links/templates/links/detail.html:24
+msgid "Banner Details"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:31
+msgid "Created:"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:34
+#, fuzzy
+msgid "Clicks:"
+msgstr "Klikken"
+
+#: affiliates/links/templates/links/detail.html:36
+msgid "Linked URL:"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:40
+#, fuzzy
+msgid "Size:"
+msgstr "Grutte"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Embed code:"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Use this code to embed this banner on your website."
+msgstr ""
+
+#: affiliates/links/templates/links/leaderboard.html:15
+#, fuzzy
+msgid "Top Affiliates"
+msgstr "Oer Affiliates"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:5
+#: affiliates/users/models.py:18
+#, fuzzy
+msgid "Affiliate"
+msgstr "Oer Affiliates"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:6
+msgid "Number of clicks"
+msgstr ""
+
+#: affiliates/statistics/templates/statistics/category.html:8
+#, fuzzy
+msgid "{category} Metrics"
+msgstr "kategoryfoarbyld"
+
+#: affiliates/statistics/templates/statistics/category.html:26
+#, fuzzy
+msgid "Banners"
+msgstr "Myn banners"
+
+#: affiliates/statistics/templates/statistics/index.html:18
+msgid ""
+"Take a look at the impact our Affiliates make on increasing awareness of "
+"Mozilla and its products."
+msgstr ""
+
+#: affiliates/statistics/templates/statistics/index.html:22
+msgid "Key Metrics"
+msgstr ""
+
+#: affiliates/statistics/templates/statistics/index.html:36
+#, fuzzy
+msgid "Categories"
+msgstr "kategoryfoarbyld"
+
+#: affiliates/users/views.py:30
+#, fuzzy
+msgid "Your profile has been updated!"
+msgstr "Jo profyl is mei sukses bywurke!"
+
+#: affiliates/users/views.py:45
+msgid "You must be logged in to view that page."
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:21
+#, fuzzy
+msgid "Name: {display_name}"
+msgstr "Jo werjeftenamme"
+
+#: affiliates/users/templates/users/profile.html:26
+msgid "Biography: {biography_text}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:31
+msgid "Edit your profile"
+msgstr "Jo profyl bewurkje"
+
+#: affiliates/users/templates/users/profile.html:57
+msgid "Stats"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:65
+msgid "Milestones"
+msgstr ""
+
+#~ msgid "Website"
+#~ msgstr "Website-URL"
+
+#~ msgid ""
+#~ "Check out how many people have clicked to download Firefox. <br> Where are "
+#~ "you on the leaderboard? <br> Leaderboard statics are updated at midnight PT "
+#~ "each day."
+#~ msgstr ""
+#~ "Sjoch hoefolle minsken klikt hawwe om Firefox te downloaden. <br>Wêr steane "
+#~ "jo op it scoreboerd?<br>Scoreboerdstatistiken wurde daagliks om middernacht "
+#~ "(Pacific Time) bywurke."
+
+#~ msgid "TOP 5 AFFILIATES WITH THE MOST FIREFOX CLICKS"
+#~ msgstr "TOP 5 FAN AFFILIATES MEI DE MEASTE FIREFOX-KLIKKEN"
+
+#~ msgid "USER"
+#~ msgstr "BRÛKER"
+
+#~ msgid "CLICKS"
+#~ msgstr "KLIKKEN"
+
+#~ msgid "Follow these easy steps to create a new banner:"
+#~ msgstr "Folgje dizze ienfâldige stappen om in nije banner te meitsjen:"
+
+#~ msgid "Follow these easy steps to get started:"
+#~ msgstr "Folgje dizze ienfâldige stappen om te begjinnen:"
+
+#~ msgid "PICK A CATEGORY"
+#~ msgstr "KIES IN KATEGORY"
+
+#~ msgid "PICK A BANNER"
+#~ msgstr "KIES IN BANNER"
+
+#~ msgid "CONFIGURE &amp; POST"
+#~ msgstr "KONFIGUREAR &amp; PLEATS"
+
+#~ msgid "&laquo; Back"
+#~ msgstr "&laquo; Tebek"
+
+#~ msgid "CREATION DATE:"
+#~ msgstr "OANMAAKDATUM:"
+
+#~ msgid "CLICKS:"
+#~ msgstr "KLIKKEN:"
+
+#~ msgid "LINKED URL:"
+#~ msgstr "KEPPELE URL:"
+
+#~ msgid "EMBED CODE:"
+#~ msgstr "KOADE OPNIMME:"
+
+#~ msgid "You"
+#~ msgstr "Jo"
+
+#~ msgid "Your total"
+#~ msgstr "Jo totaal"
+
+#~ msgid "Start Spreading the Word!"
+#~ msgstr "Begjin it wurd te fersprieden!"
+
+#~ msgid "You have <span>0</span> banners posted."
+#~ msgstr "Jo hawwe <span>0</span> banners pleatst."
+
+#~ msgid "Category: <span>%(category_name)s</span>"
+#~ msgstr "Kategory: <span>%(category_name)s</span>"
+
+#~ msgid ""
+#~ "Now choose the type of <span>%(subcategory_name)s</span> banner you want to "
+#~ "display on your website or blog:"
+#~ msgstr ""
+#~ "Kies no it type <span>%(subcategory_name)s</span>-banner dat jo op jo "
+#~ "webside of blog werjaan wolle:"
+
+#~ msgid ""
+#~ "Finally, choose the size and color of your <span>%(subcategory_name)s</span>"
+#~ " banner, then you can copy its code onto your website or blog."
+#~ msgstr ""
+#~ "Kies ta beslút de grutte en kleur fan jo "
+#~ "<span>%(subcategory_name)s</span>-banner, en kopiearje de koade derfan nei "
+#~ "jo webside of blog."
+
+#~ msgid "%(width)sx%(height)s pixels"
+#~ msgstr "%(width)sx%(height)s pixels"
+
+#~ msgid "Save Banner &raquo;"
+#~ msgstr "Banner bewarje &raquo;"
+
+#~ msgid "SIZE"
+#~ msgstr "GRUTTE"
+
+#~ msgid "You're almost there!"
+#~ msgstr "Jo binne der hast!"
+
+#~ msgid ""
+#~ "Fill out the form below to finish your registration and begin creating "
+#~ "banners."
+#~ msgstr ""
+#~ "Folje it ûndersteande formulier yn om jo registraasje te foltôgjen en mei it"
+#~ " meitsjen fan banners te begjinnen."
+
+#~ msgid "Latest News"
+#~ msgstr "Lêste nijs"
+
+#~ msgid "The new Firefox Affiliates program is live!"
+#~ msgstr "It nije Firefox Affiliates-programma is live!"
+
+#~ msgid ""
+#~ "Welcome to the new Firefox Affiliates program. Have a look around the site, "
+#~ "grab some buttons and get on the leaderboard. Have feedback? Let us know at "
+#~ "affiliates@mozilla.org."
+#~ msgstr ""
+#~ "Wolkom by it nije Firefox Affiliates-programma. Sjoch ris rûn op it webstee,"
+#~ " pak in pear knoppen en kom op it scoreboerd. Hawwe jo kommentaar? Lit it ús"
+#~ " witte fia affiliates@mozilla.org."
+
+#~ msgid "Help us make Firefox Affiliates better"
+#~ msgstr "Help ús Firefox Affiliates te ferbetterjen"
+
+#~ msgid ""
+#~ "Firefox Affiliates has been live for a while now, but we need your help to "
+#~ "keep making improvements to the system. If you are a web developer familiar "
+#~ "with HTML, CSS, Python or Django and want to get involved with Mozilla, "
+#~ "please contact us at affiliates@mozilla.org ."
+#~ msgstr ""
+#~ "Firefox Affiliates is no al in tiid live, mar wy hawwe jo help nedich by it "
+#~ "oanbringen fan ferbetteringen oan it systeem. As jo in webûntwikkeler binne "
+#~ "dy't bekend is mei HTML, CSS, Python of Django en by Mozilla belutsen wurde "
+#~ "wol, nim dan kontakt op fia affiliates@mozilla.org."
+
+#~ msgid "Tell the world about Firefox for Android"
+#~ msgstr "Fertel de wrâld oer Firefox foar Android"
+
+#~ msgid ""
+#~ "Firefox for Android is here and we'd like your help in spreading the word. "
+#~ "Just create a Firefox for Android banner and add it to your site in one of "
+#~ "more than 30 languages. The affiliate responsible for the most Firefox for "
+#~ "Android clicks will get a Firefox hoodie. If you have ideas for other "
+#~ "buttons or want to help with Firefox Affiliates, please contact us at "
+#~ "affiliates@mozilla.org ."
+#~ msgstr ""
+#~ "Firefox foar Android is der, en jo help om dit nijs te fersprieden is "
+#~ "wolkom. Meitsje ienfâldich in Firefox foar Android-banner en foegje dizze ta"
+#~ " oan jo webstee yn ien fan mear as 30 talen. De affiliate dy't foar de "
+#~ "measte Firefox foar Android-kliks ferantwurdlik is krijt in Firefox-"
+#~ "sweatshirt. As jo ideeën foar oare knoppen hawwe of mei Firefox Affiliates "
+#~ "helpe wolle, nim dan kontakt op fia affiliates@mozilla.org."
+
+#~ msgid ""
+#~ "The Firefox Affiliates program is a great way to share your love of Mozilla "
+#~ "Firefox."
+#~ msgstr ""
+#~ "It Firefox Affiliates-programma is in geweldige manier om jo leafde foar "
+#~ "Mozilla Firefox te dielen."
+
+#~ msgid ""
+#~ "BrowserID could not verify your identity. Visit <a "
+#~ "href=\"{url}\">browserid.org</a> for more information."
+#~ msgstr ""
+#~ "BrowserID koe jo identiteit net ferifiearje. Besykje <a "
+#~ "href=\"{url}\">browserid.org</a> foar mear ynformaasje."
+
+#~ msgid ""
+#~ "Moved? Changed your name? Just click on the edit profile button in the upper"
+#~ " right corner of the site."
+#~ msgstr ""
+#~ "Ferhuze? Fan namme feroare? Klik ienfâldichwei op de knop Profyl bywurkje "
+#~ "rjochtsboppe yn de webstee."
+
+#~ msgid "Why should I share my mailing address with Firefox Affiliates?"
+#~ msgstr "Wêrom soa ik myn postadres mei Firefox Affiliates diele?"
+
+#~ msgid ""
+#~ "While you have our deepest gratitude for spreading the word about Firefox "
+#~ "every day, from time to time we like to thank our amazing Affiliates "
+#~ "community with things like Firefox T-shirts &mdash; if we have your address "
+#~ "on file, that is."
+#~ msgstr ""
+#~ "Hoewol't wy jo ús grutste tank ferskuldige binne foar it daagliks "
+#~ "fersprieden fan it wurd oer Firefox, wolle wy fan tiid ta tiid ús geweldige "
+#~ "Affiliates-mienskip betankje mei saken as Firefox-mouhimden &ndash; as wy op"
+#~ " syn minst oer jo adres beskikke."
+
+#~ msgid ""
+#~ "The Firefox Affiliates program is a great way to share your love of Firefox "
+#~ "and other Mozilla products. Host buttons on your site and climb your way to "
+#~ "fame on the leaderboard. <a href=\"#\" class=\"show_tooltip\" "
+#~ "target=\"tooltip_home\">Learn more &raquo;</a>"
+#~ msgstr ""
+#~ "It Firefox Affiliates-programma is in geweldige manier om jo leafde foar "
+#~ "Firefox en oare Mozilla/produkten te dielen. Sa kinne jo Firefox-knoppen op "
+#~ "jo webside hoste en bekendheid krije op it Affiliates-scoreboerd. <a "
+#~ "href=\"#\" class=\"show_tooltip\" target=\"tooltip_home\">Mear lêze "
+#~ "&raquo;</a>"
+
+#~ msgid ""
+#~ "Firefox Affiliates is the go-to place for Firefox fans and Mozillians to get"
+#~ " promotional buttons and links that encourage users to download Firefox. We "
+#~ "do send out prizes and gifts to our affiliates from time to time, but "
+#~ "Firefox Affiliates does not offer monetary rewards for hosting Firefox "
+#~ "buttons. That warm, fuzzy feeling in your heart will have to do."
+#~ msgstr ""
+#~ "Firefox Affiliates is it plak foar Firefox-fans en Mozillians om "
+#~ "promosjonele knoppen en keppelingen te krijen dy't brûkers oansette ta it "
+#~ "ynladen fan Firefox. Fan tiid ta tiid jouwe wy prizen en geskinken fuort oan"
+#~ " ús partners, mar Firefox Affiliates biedet gjin finansjele fergoedingen "
+#~ "foar it hosten fan Firefox-knoppen. Dat waarme, behaachlike gefoel yn jo "
+#~ "hert moat genôch wêze."
+
+#~ msgid "Sign up and become an affiliate today!"
+#~ msgstr "Skriuw jo yn en wurd hjoed in partner!"
+
+#~ msgid "Share on Facebook &raquo;"
+#~ msgstr "Diele op Facebook &raquo;"
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Oanmelde mei Persona"
+
+#~ msgid "Don't have an account?"
+#~ msgstr "Hawwe jo gjin account?"
+
+#~ msgid "Want to be a Firefox Affiliate?"
+#~ msgstr "Wolle jo in Mozilla-partner wurde?"
+
+#~ msgid "Sign up now and start spreading the word."
+#~ msgstr "Skriuw jo no yn en ferspried it wurd."
+
+#~ msgid ""
+#~ "Firefox Affiliates is now on Facebook. Install the Firefox Affiliates "
+#~ "Facebook app, link your account and you can earn clicks towards your "
+#~ "Affiliates total."
+#~ msgstr ""
+#~ "Firefox Affiliates is no berikber fia Facebook. Ynstallearje de Firefox "
+#~ "Affiliates Facebook-app, keppelje jo account en jo kinne klikken foar jo "
+#~ "Affiliates-totaal fertsjinje."
+
+#~ msgid "Click here to connect your Affiliates account with Facebook."
+#~ msgstr "Klik hjir om jo Affiliates-account mei Facebook te ferbinen."
+
+#~ msgid "Please enter a password."
+#~ msgstr "Fier in wachtwurd yn."
+
+#~ msgid "Passwords must match."
+#~ msgstr "Wachtwurden moatte itselde wêze."
+
+#~ msgid "Passwords must be at least 8 characters long."
+#~ msgstr "Wachtwurden moatte út op syn minst acht tekens bestean."
+
+#~ msgid "Passwords must contain at least 1 letter and 1 number."
+#~ msgstr "Wachtwurden moatte op syn minst 1 letter en 1 sifer befetsje."
+
+#~ msgid ""
+#~ "We are having trouble reaching your email address. Please try a different "
+#~ "address or contact an administrator."
+#~ msgstr ""
+#~ "Der is in probleem mei jo e-mailadres. Probearje in oar adres of nim kontakt"
+#~ " op mei in behearder."
+
+#~ msgid "Please enter an email address."
+#~ msgstr "Fier in e-mailadres yn."
+
+#~ msgid "A user with that email address already exists."
+#~ msgstr "Der bestiet al in brûker mei dat e-mailadres."
+
+#~ msgid "Email or password incorrect."
+#~ msgstr "E-mailadres of wachtwurd net goed."
+
+#~ msgid "This account is inactive."
+#~ msgstr "Dizze account is ynaktyf."
+
+#~ msgid "Please enter a display name."
+#~ msgstr "Fier in werjeftenamme yn."
+
+#~ msgid "You must agree to the terms of service and privacy policy to register."
+#~ msgstr ""
+#~ "Jo moatte mei ús brûkersbetingsten en ús privacybelied akkoard gean om te "
+#~ "registrearjen."
+
+#~ msgid "Password"
+#~ msgstr "Wachtwurd"
+
+#~ msgid "Email address"
+#~ msgstr "E-mailadres"
+
+#~ msgid "New Password"
+#~ msgstr "Nij wachtwurd"
+
+#~ msgid "Retype Password"
+#~ msgstr "Wachtwurd (nochris)"
+
+#~ msgid "Full Name"
+#~ msgstr "Folsleine namme"
+
+#~ msgid "Street"
+#~ msgstr "Strjitte"
+
+#~ msgid "Apartment or Unit # (optional)"
+#~ msgstr "Appartemint of ienheid-# (opsjoneel)"
+
+#~ msgid "City"
+#~ msgstr "Wenplak"
+
+#~ msgid "State or Province"
+#~ msgstr "Steat of provinsje"
+
+#~ msgid "ZIP or Postal Code"
+#~ msgstr "Postkoade"
+
+#~ msgid "Your password"
+#~ msgstr "Jo wachtwurd"
+
+#~ msgid "This email is already taken! Please try again."
+#~ msgstr "Dit e-mailadres is al yn gebrûk! Probearje it opnij."
+
+#~ msgid "Please activate your Firefox Affiliates account"
+#~ msgstr "Aktivearje jo Firefox Affiliates-account"
+
+#~ msgid "Display name"
+#~ msgstr "Werjeftenamme"
+
+#~ msgid "Address Line 1"
+#~ msgstr "Adresrigel 1"
+
+#~ msgid "Address Line 2"
+#~ msgstr "Adresrigel 2"
+
+#~ msgid "Please complete your user profile"
+#~ msgstr "Foltôgje jo brûkersprofyl"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Email verified"
+#~ msgstr "E-mailadres ferifiearre"
+
+#~ msgid ""
+#~ "Your email address has been verified. You may now <a href=\"%(href)s\">log "
+#~ "in from the homepage</a>."
+#~ msgstr ""
+#~ "Jo e-mailadres is ferifiearre. Jo kinne jo no <a href=\"%(href)s\">oanmelde "
+#~ "op de startside</a>."
+
+#~ msgid "Activation failed"
+#~ msgstr "Aktivearren mislearre"
+
+#~ msgid ""
+#~ "We could not activate your account. Please make sure that you have clicked "
+#~ "the correct link in your email or typed in the correct address."
+#~ msgstr ""
+#~ "Wy koenen jo account net aktivearje. Kontrolearje oft jo op de goede "
+#~ "keppeling yn jo e-mailberjocht klikt hawwe oft dat jo it goede adres yntypt "
+#~ "hawwe."
+
+#~ msgid "Edit your user profile"
+#~ msgstr "Jo brûkersprofyl bewurkje"
+
+#~ msgid ""
+#~ "We've just sent an activation email to: <span>%(email)s <a "
+#~ "href=\"%(homepage)s\">(Change)</a></span>"
+#~ msgstr ""
+#~ "Wy hawwe sa krekt in aktivearringsberjocht stjoerd nei: <span>%(email)s <a "
+#~ "href=\"%(homepage)s\">(Wizigje)</a></span>"
+
+#~ msgid ""
+#~ "Please click on the link provided in the email to verify that your email is "
+#~ "valid."
+#~ msgstr ""
+#~ "Klik op de keppeling yn it e-mailberjocht om de jildichheid fan jo "
+#~ "e-mailadres te ferifiearjen."
+
+#~ msgid "Welcome to Firefox Affiliates."
+#~ msgstr "Wolkom by Firefox Affiliates."
+
+#~ msgid ""
+#~ "Before you can use your new account you must activate it -- this ensures the"
+#~ " email address you used is valid and belongs to you. To activate your "
+#~ "account, click the link below or copy and paste the whole thing into your "
+#~ "browser's location bar:"
+#~ msgstr ""
+#~ "Eardat jo jo nije account brûke kinne moatte jo dizze aktivearje -- "
+#~ "hjirtroch binne wy wis dat it brûkte e-mailadres jildich is en oan jo "
+#~ "taheart. Klik op de ûndersteande keppeling of kopiearje en plak dizze yn de "
+#~ "lokaasjebalke fan jo browser om jo account te aktivearjen:"
+
+#~ msgid ""
+#~ "Once you've successfully activated your account, you can throw away this "
+#~ "email."
+#~ msgstr ""
+#~ "Sa gau as jo jo account mei sukses aktivearre hawwe, kinne jo dit "
+#~ "e-mailberjocht fuortsmite."
+
+#~ msgid "Firefox Affiliates Password Reset"
+#~ msgstr "Wachtwurdfernijing foar Firefox Affiliates"
+
+#~ msgid ""
+#~ "A request was received to reset the password for this account on Firefox "
+#~ "Affiliates. To change this password please click on the following link, or "
+#~ "paste it into your browser's location bar:"
+#~ msgstr ""
+#~ "Der is in fersyk ûntfongen foar it opnij ynstellen fan it wachtwurd foar "
+#~ "dizze account op Firefox Affiliates. Klik op de folgjende keppeling of plak "
+#~ "dizze yn de lokaasjebalke fan jo browser om dit wachtwurd te wizigjen."
+
+#~ msgid "If you did not request this email there is no need for further action."
+#~ msgstr "As jo net om dit e-mailberjocht frege hawwe, hoege jo neat te dwaan."
+
+#~ msgid "<span>*</span> Required"
+#~ msgstr "<span>*</span> Fereaske"
+
+#~ msgid "USERNAME <span class=\"required_star\">*</span>"
+#~ msgstr "BRÛKERSNAMME <span class=\"required_star\">*</span>"
+
+#~ msgid ""
+#~ "Your username is your online identity, so use somenthing you are comfortable"
+#~ " with everyone seeing. Take into account that you won't be able to change "
+#~ "your username in the future."
+#~ msgstr ""
+#~ "Jo brûkersnamme is jo online-identiteit, dus brûk wat wêrfan jo fine dat "
+#~ "elkenien dit sjen mei. Hâld der rekkening mei dat jo jo brûkersnamme yn de "
+#~ "takomst net wizigje kinne."
+
+#~ msgid "SUGGESTIONS"
+#~ msgstr "SUGGESTJES"
+
+#~ msgid "Save &raquo;"
+#~ msgstr "Bewarje &raquo;"
+
+#~ msgid "DISPLAY NAME"
+#~ msgstr "WERJEFTENAMME"
+
+#~ msgid ""
+#~ "This website will appear along with your username on the Affiliates "
+#~ "leaderboard and on your profile."
+#~ msgstr ""
+#~ "Dizze website ferskynt mei jo brûkersnamme op it Affiliates-skoreboerd en yn"
+#~ " jo profyl."
+
+#~ msgid "NEW PASSWORD"
+#~ msgstr "NIJ WACHTWURD"
+
+#~ msgid "RETYPE PASSWORD"
+#~ msgstr "WACHTWURD (OPNIJ)"
+
+#~ msgid ""
+#~ "8 or more characters, include Latin letters and numbers. Note: No one else "
+#~ "can see your password."
+#~ msgstr ""
+#~ "8 of mear tekens, wêrûnder Latin-letters en sifers. Noat: nearne oars kin jo"
+#~ " wachtwurd sjen."
+
+#~ msgid "ADDRESS"
+#~ msgstr "ADRES"
+
+#~ msgid ""
+#~ "Why should I provide my mailing address? <br/><br/> From time to time, we "
+#~ "may send you Mozilla T-shirts or other cool stuff in the mail. If you'd like"
+#~ " to get stuff from us, please share your mailing address, but it's not "
+#~ "mandatory to be part of the Firefox Affiliates program."
+#~ msgstr ""
+#~ "Wêrom soe ik myn postadres opjaan? <br/><br/> Fan tiid ta tiid kinne wy jo "
+#~ "per post Mozilla-mouhimden of oare leuk guod tastjoere. As jo dizze saken "
+#~ "fan ús ûntfange wolle, jou dan jo postadres op; dit is net ferplicht as jo "
+#~ "diel útmeitsje wolle fan it Firefox Affiliates-programma."
+
+#~ msgid "Save my changes &raquo;"
+#~ msgstr "Myn wizigingen bewarje &raquo;"
+
+#~ msgid "Cancel &raquo;"
+#~ msgstr "Annulearje &raquo;"
+
+#~ msgid "Log in &raquo;"
+#~ msgstr "Oanmelde &raquo;"
+
+#~ msgid "Remember me"
+#~ msgstr "My ûnthâlde"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Jo wachtwurd ferjitten?"
+
+#~ msgid "LANGUAGE"
+#~ msgstr "TAAL"
+
+#~ msgid ""
+#~ "Your country and language were automatically detected by your IP location, "
+#~ "but you are welcome to change them here."
+#~ msgstr ""
+#~ "Jo lân en taal binne automatysk detektearre troch jo IP-lokaasje, mar jo "
+#~ "kinne it hjir wizigje as jo dat winskje."
+
+#~ msgid "COUNTRY"
+#~ msgstr "LÂN"
+
+#~ msgid ""
+#~ "I wish to receive information and notifications about Firefox and Mozilla "
+#~ "via email."
+#~ msgstr ""
+#~ "Ik winskje ynformaasje en oankundigingen oer Firefox en Mozilla fia e-mail "
+#~ "te ûntfangen."
+
+#~ msgid ""
+#~ "I agree to the Firefox Affiliates <a href=\"%(tos)s\">terms of service</a> "
+#~ "and Mozilla <a href=\"%(privacy_policy)s\">Privacy Policy</a>"
+#~ msgstr ""
+#~ "Ik gean akkoard mei de <a href=\"%(tos)s\">brûkersfoarwearden</a> fan "
+#~ "Firefox Affiliates en it <a href=\"%(privacy_policy)s\">privacybelied</a> "
+#~ "fan Mozilla"
+
+#~ msgid "Register &raquo;"
+#~ msgstr "Registrearje &raquo;"
+
+#~ msgid "Password reset successful!"
+#~ msgstr "Fernijen fan wachtwurd slagge!"
+
+#~ msgid ""
+#~ "You have successfully changed your password. <a href=\"%(href)s\">Return to "
+#~ "the home page and log in using your new password</a>."
+#~ msgstr ""
+#~ "Jo hawwe jo wachtwurd mei sukses wizige. <a href=\"%(href)s\">Gean werom nei"
+#~ " de begjinside en meld jo oan mei jo nije wachtwurd</a>."
+
+#~ msgid "Password Reset"
+#~ msgstr "Wachtwurdfernijing"
+
+#~ msgid "CONFIRM PASSWORD"
+#~ msgstr "BEFESTIGJE WACHTWURD"
+
+#~ msgid "Reset password &raquo;"
+#~ msgstr "Wachtwurd fernije &raquo;"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Fernijen fan wachtwurd mislearre!"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used. <a href=\"%(href)s\">Please request a new password reset.</a>"
+#~ msgstr ""
+#~ "De keppeling om jo wachtwurd te fernijen is ûnjildich, mooglik omdat hy al "
+#~ "ris  brûkt is. <a href=\"%(href)s\">Freegje in nij wachtwurdfernijing "
+#~ "oan.</a>"
+
+#~ msgid ""
+#~ "We've sent an email to any account using this email address. Please follow "
+#~ "the link in the email to reset your password."
+#~ msgstr ""
+#~ "Wy hawwe in e-mailberjocht stjoerd nei alle accounts dy't dit e-mailadres "
+#~ "brûke. Folgje de keppeling yn it e-mailberjocht om jo wachtwurd opnij yn te "
+#~ "stellen."
+
+#~ msgid "Forgot password on Firefox Affiliates!"
+#~ msgstr "Wachtwurd op Firefox Affiliates ferjitten!"
+
+#~ msgid "Please enter your e-mail and we'll reset your password:"
+#~ msgstr "Fier jo e-mailadres yn en wy werinisjalisearje jo wachtwurd."
+
+#~ msgid "Send &raquo;"
+#~ msgstr "Ferstjoere &raquo;"
+
+#~ msgid ""
+#~ "Please click on the link provided in the e-mail to access your Affiliates "
+#~ "account."
+#~ msgstr ""
+#~ "Klik op de keppeling yn it e-mailberjocht om tagong ta jo Affiliates-account"
+#~ " te krijen."
+
+#~ msgid ""
+#~ "Did you make a left at that last URL instead of a right? No problem. Unless "
+#~ "you want us to deal you in, here are some tips to get you back on your way:"
+#~ msgstr ""
+#~ "Binne jo by die lêste URL linksôf slein yn stee fan rjochts? Gjin probleem. "
+#~ "Utsein jo wolle dat wy jo yndiele, binne hjir in oantal tips om jo wer op it"
+#~ " goede paad te helpen:"
+
+#~ msgid ""
+#~ "If you’re not sure what you’re looking for, start at <a "
+#~ "href=\"%(href)s\">mozilla.org</a>."
+#~ msgstr ""
+#~ "As jo net wis binne wêrnei jo op syk binne, begjin dan by <a "
+#~ "href=\"%(href)s\">mozilla.org</a>."
+
+#~ msgid "An Error Occurred"
+#~ msgstr "Der is in flater bard"
+
+#~ msgid ""
+#~ "Oh, no! It looks like an unexpected error occurred. We've already notified "
+#~ "the site administrators. Please try again now, or in a few minutes."
+#~ msgstr ""
+#~ "Oh nee, it liket dêrop dat der in ûnferwachte flater bard is. Wy hawwe de "
+#~ "behearders fan de webside al op de hichte brocht. Probearje it no of oer "
+#~ "inkele minuten opnij."
+
+#~ msgid "custom-css"
+#~ msgstr "custom-css"
+
+#~ msgid "Firefox<span>Affiliates</span>"
+#~ msgstr "Firefox<span>Affiliates</span>"
+
+#~ msgid "Everything you need to share Firefox with the world."
+#~ msgstr "Alles wat jo nedich hawwe om Firefox mei de wrâld te dielen."
+
+#~ msgid "Let’s be <span>friends!</span>"
+#~ msgstr "Litte wy <span>freonen</span> wurde!"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "More Ways to Connect"
+#~ msgstr "Mear manieren om te ferbinen"
+
+#~ msgid "Want us to keep in touch?"
+#~ msgstr "Wolle jo dat wy kontakt hâlde?"
+
+#~ msgid "Get Monthly News <span>»</span>"
+#~ msgstr "Eltse moanne nijs ûntfange <span>»</span>"
+
+#~ msgid "Back to home page"
+#~ msgstr "Werom nei begjinside"
+
+#~ msgid "Desktop"
+#~ msgstr "Buro-PC"
+
+#~ msgid "Features"
+#~ msgstr "Funksjes"
+
+#~ msgid "Security"
+#~ msgstr "Befeiliging"
+
+#~ msgid "Customization"
+#~ msgstr "Oanpasberheid"
+
+#~ msgid "Technology"
+#~ msgstr "Technology"
+
+#~ msgid "Videos"
+#~ msgstr "Fideo’s"
+
+#~ msgid "Tour"
+#~ msgstr "Rûnlieding"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobyl"
+
+#~ msgid "Mobile Overview"
+#~ msgstr "Oersicht foar Mobyl"
+
+#~ msgid "Download"
+#~ msgstr "Downloade"
+
+#~ msgid "Sync"
+#~ msgstr "Sync"
+
+#~ msgid "Develop"
+#~ msgstr "Untwikkelje"
+
+#~ msgid "Get Involved"
+#~ msgstr "Meihelpe"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Add-ons"
+#~ msgstr "Tafoegings"
+
+#~ msgid "Firefox Add-ons"
+#~ msgstr "Tafoegings foar Firefox"
+
+#~ msgid "Featured Add-ons"
+#~ msgstr "Oanrikkemandearre tafoegings"
+
+#~ msgid "Extensions"
+#~ msgstr "Utwreidings"
+
+#~ msgid "Themes"
+#~ msgstr "Tema's"
+
+#~ msgid "Personas"
+#~ msgstr "Persona’s"
+
+#~ msgid "Search Tools"
+#~ msgstr "Sykhelpmiddelen"
+
+#~ msgid "Language Support"
+#~ msgstr "Taalstipe"
+
+#~ msgid "Collections"
+#~ msgstr "Kolleksjes"
+
+#~ msgid "Mobile Add-ons"
+#~ msgstr "Tafoegings foar Mobyl"
+
+#~ msgid "Developer Hub"
+#~ msgstr "Yntwikkelaarshub"
+
+#~ msgid "Support"
+#~ msgstr "Stipe"
+
+#~ msgid "Firefox Support"
+#~ msgstr "Stipe foar Firefox"
+
+#~ msgid "Mobile Support"
+#~ msgstr "Stipe foar Mobyl"
+
+#~ msgid "Thunderbird Support"
+#~ msgstr "Stipe foar Thunderbird"
+
+#~ msgid "Participate"
+#~ msgstr "Dienlnimme"
+
+#~ msgid "Press Center"
+#~ msgstr "Parsesintrum"
+
+#~ msgid "Careers"
+#~ msgstr "Karriêres"
+
+#~ msgid "Legal"
+#~ msgstr "Juridysk"
+
+#~ msgid ""
+#~ "Except where otherwise <a href=\"%(legal_url)s\">noted</a>, content on this "
+#~ "site is licensed under the <br/> <a href=\"%(license_url)s\">Creative "
+#~ "Commons Attribution Share-Alike License v3.0</a> or any later version."
+#~ msgstr ""
+#~ "Utsein oars <a href=\"%(legal_url)s\">fermeld</a>, is op de ynhâld fan dit "
+#~ "webstee de <br/> <a href=\"%(license_url)s\">Creative Commons Attribution "
+#~ "Share-Alike License v3.0</a> of lettere ferzje fan tapassing."
+
+#~ msgid "VIEW CURRENT BANNERS"
+#~ msgstr "AKTUELE BANNERS BESJEN"
+
+#~ msgid "MY BANNERS"
+#~ msgstr "MYN BANNERS"
+
+#~ msgid "GET STARTED"
+#~ msgstr "OAN IT WURK"
+
+#~ msgid "LOG OUT"
+#~ msgstr "OFMELDE"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "PROFYL BEWURKJE"
+
+#~ msgid ""
+#~ "Firefox Affiliate buttons are a bit of html code that you put on your "
+#~ "website or blog to encourage visitors to your site to download Firefox. When"
+#~ " a visitor to your site clicks on a button on your site and visits the "
+#~ "Firefox download page, you get credit for that click."
+#~ msgstr ""
+#~ "Firefox Affiliate-knoppen binne in stikje html-koade dy't jo op jo webside "
+#~ "of blog pleatse om besikers fan jo webside oan te setten ta it downloaden "
+#~ "fan Firefox. Wannear't in besiker fan jo webside op in knop klikt en de "
+#~ "Firefox downloadside besiket, wurde jo foar klik beleane."
+
+#~ msgid "Zip or Postal Code"
+#~ msgstr "Postkoade"
+
+#~ msgid "New"
+#~ msgstr "Nij"
+
+#~ msgid "BrowserID is here!"
+#~ msgstr "BrowserID is hjir!"
+
+#~ msgid ""
+#~ "Firefox Affiliates has switched to <a "
+#~ "href=\"%(browserid_url)s\">BrowserID</a>. If you previously had an account, "
+#~ "use the login button below and sign up for BrowserID with the same email "
+#~ "address you used for signing up with Firefox Affiliates."
+#~ msgstr ""
+#~ "Firefox Affiliates is oerstapt op <a "
+#~ "href=\"%(browserid_url)s\">BrowserID</a>. As jo al in account hienen, brûk "
+#~ "dan de ûndersteande oanmeldknop en skriuw jo yn by BrowserID mei itselde "
+#~ "e-mailadres dat jo brûke foar it ynskriuwen by Firefox Affiliates."
+
+#~ msgid "Log In &raquo;"
+#~ msgstr "Oanmelde &raquo;"
+
+#~ msgid ""
+#~ "Want to be a Firefox Affiliate? Sign up using BrowserID by clicking the "
+#~ "registration button below."
+#~ msgstr ""
+#~ "Wolle jo in Firefox-partner wurde? Skriuw jo yn mei help fan BrowserID troch"
+#~ " op de ûndersteande registraasjeknop te klikken."
+
+#~ msgid "I love Firefox because &hellip;"
+#~ msgstr "Ik hâld fan Firefox omdat &hellip;"
+
+#~ msgid "Your current standing"
+#~ msgstr "Jo aktuele posysje"
+
+#~ msgid "Position"
+#~ msgstr "Posysje"
+
+#~ msgid ""
+#~ "Do you already have an account from affiliates.mozilla.org? You can link "
+#~ "your account to this application and you'll get credit for any clicks that "
+#~ "you drive through Facebook. To connect your account, just click here and "
+#~ "fill in your infomation. We'll send you an email to confirm. If you'd like "
+#~ "to sign up for an account, just visit <a "
+#~ "href=\"%(link)s\">affiliates.mozilla.org</a>."
+#~ msgstr ""
+#~ "Hawwe jo al in account fan affiliates.mozilla.org? Jo kinne jo account oan "
+#~ "dizze applikaasje keppelje en jo sille beleand wurde foar elke klik dy't jo "
+#~ "fia Facebook ûntfange. Klik hjir en folje jo gegevens yn om jo account te "
+#~ "ferbinen. Wy stjoere jo in e-mailberjocht ter befestiging. As jo jo foar in "
+#~ "account registrearje wolle, besykje dan <a "
+#~ "href=\"%(link)s\">affiliates.mozilla.org</a>."
+
+#~ msgid "Share you banner with friends."
+#~ msgstr "Diel jo banner mei freonen."
+
+#~ msgid "Firefox is different by design. It's fast, flexible and secure."
+#~ msgstr "Firefox is yn wêzen oars. It is fluch, fleksibel en feilich."
+
+#~ msgid "Download Firefox or Firefox for Android today."
+#~ msgstr "Download Firefox of Firefox foar Android hjoed noch."
+
+#~ msgid "Whoops! What are you doing here?"
+#~ msgstr "Wat dogge jo hjir?"
+
+#~ msgid "Is there a prize for getting the most clicks?"
+#~ msgstr "Is der in priis foar it ferkrijen fan de measte Firefox-klikken?"
+
+#~ msgid "Your Email Address"
+#~ msgstr "Jo e-mailadres"
+
+#~ msgid "Create a New Banner &raquo;"
+#~ msgstr "In nije banner meitsje &raquo;"
+
+#~ msgid "The Firefox Affiliates Team"
+#~ msgstr "It Firefox Affiliates-team"
+
+#~ msgid ""
+#~ "If you followed a link, it's probably broken. Please contact us and we'll "
+#~ "fix it."
+#~ msgstr ""
+#~ "As jo op in keppeling klikt hawwe, is dizze wierskienlik defekt. <a "
+#~ "href=\"mailto:%(email)s\">Nim kontakt mei ús op</a> en wy meitsje it yn "
+#~ "oarder."
+
+#~ msgid "CREATE A NEW BANNER"
+#~ msgstr "IN NIJE BANNER MEITSJE"
+
+#~ msgid "ABOUT AFFILIATES"
+#~ msgstr "OER AFFILIATES"
+
+#~ msgid "skip to navigation"
+#~ msgstr "nei navigaasje"
+
+#~ msgid "switch language"
+#~ msgstr "taal wizigje"
+
+#~ msgid "DOWNLOADS"
+#~ msgstr "DOWNLOADS"
+
+#~ msgid "DOWNLOADS:"
+#~ msgstr "DOWNLOADS:"
+
+#~ msgid "Directions"
+#~ msgstr "Ynstruksjes"
+
+#~ msgid ""
+#~ "Copy the code below and paste it anywhere on your website or blog to link to"
+#~ " the Firefox download page. Your Firefox Affiliates ID is embedded in this "
+#~ "code."
+#~ msgstr ""
+#~ "Kopiearje de ûndersteande koade en plak dizze earne op jo webside of blog om"
+#~ " nei de Firefox-downloadside te ferwizen. Jo Firefox Affiliates-ID wurdt yn "
+#~ "dizze koade opnommen."
+
+#~ msgid "Locale"
+#~ msgstr "Taal"
+
+#~ msgid "<span>1</span>PICK A CATEGORY"
+#~ msgstr "<span>1</span>KIES IN KATEGORY"
+
+#~ msgid "<span>2</span>PICK A BANNER"
+#~ msgstr "<span>2</span>KIES IN BANNER"
+
+#~ msgid "<span>3</span>CONFIGURE &amp; POST"
+#~ msgstr "<span>3</span>KONFIGUREAR &amp; PLEATS"
+
+#~ msgid "name"
+#~ msgstr "namme"
+
+#~ msgid "image size"
+#~ msgstr "ôfbyldingsgrutte"
+
+#~ msgid "image color"
+#~ msgstr "ôfbyldingskleur"
+
+#~ msgid "image file"
+#~ msgstr "ôfbyldingsbestân"
+
+#~ msgid "Receive emails"
+#~ msgstr "E-mails ûntfange"
+
+#~ msgid "Copy Code to Clipboard &raquo;"
+#~ msgstr "Koade nei klamboerd kopiearje &raquo;"
+
+#~ msgid "Username not available"
+#~ msgstr "Brûkersnamme net beskikber"
+
+#~ msgid ""
+#~ "Password must be 8 characters or longer and include at least one Latin "
+#~ "letter and one number."
+#~ msgstr ""
+#~ "Wachtwurd moat op syn minst 8 tekens en op syn minst ien Latin-letter en ien"
+#~ " sifer befetsje."
+
+#~ msgid "TOP 5 AFFILIATES WITH THE MOST DOWNLOADS"
+#~ msgstr "TOP 5 FAN AFFILIATES MEI DE MEASTE DOWNLOADS"
+
+#~ msgid ""
+#~ "Check out how many people are downloading Firefox. Where are you on the "
+#~ "leaderboard? Leaderboard statistics are updated at midnight PT each day."
+#~ msgstr ""
+#~ "Besjoch hoefolle minsken Firefox downloade. Wêr steane jo op it skoreboerd? "
+#~ "Skoreboerdstatistiken wurde daagliks om middernacht PT bywurke."
+
+#~ msgid "{{ size }} pixels"
+#~ msgstr "{{ size }} pixels"
+
+#~ msgid "New password"
+#~ msgstr "Nij wachtwurd"
+
+#~ msgid "Confirm password"
+#~ msgstr "Befêstigje wachtwurd"
+
+#~ msgid "Passwords do not match."
+#~ msgstr "Wachtwurden komme net oerien."
+
+#~ msgid "Field is too long."
+#~ msgstr "Fjild is te lang."
+
+#~ msgid "Name"
+#~ msgstr "Namme"
+
+#~ msgid "Please activate your account"
+#~ msgstr "Aktivearje jo account"
+
+#~ msgid "Activation Key"
+#~ msgstr "Aktivearringskaai"
+
+#~ msgid ""
+#~ "We've just sent you an email with your password to: <span>%(email)s <a "
+#~ "href=\"%(homepage)s\">(Change)</a></span>"
+#~ msgstr ""
+#~ "Wy hawwe sa krekt in e-mailberjocht mei jo wachtwurd ferstjoerd nei "
+#~ "<span>%(email)s <a href=\"%(homepage)s\">(Wizigje)</a></span>"
+
+#~ msgid "Username or password incorrect."
+#~ msgstr "Brûkersnamme of wachtwurd net goed."
+
+#~ msgid "FULL NAME"
+#~ msgstr "FOLSLEINE NAMME"
+
+#~ msgid "EMAIL"
+#~ msgstr "E-MAILADRES"
+
+#~ msgid "Your full name"
+#~ msgstr "Jo folsleine namme"

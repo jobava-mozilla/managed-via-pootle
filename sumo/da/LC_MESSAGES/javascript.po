@@ -1,0 +1,651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: support.mozilla.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2015-05-18 14:00+0100\n"
+"Last-Translator: Jørgen Rasmussen <joergenr@stofanet.dk>\n"
+"Language-Team: MozillaDanmark\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-POOTLE-MTIME: 1405944101.0\n"
+
+#~ msgid "An error occured."
+#~ msgstr "Der opstod en fejl."
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Der opstod en fejl under genereringen af forhåndsvisningen."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Der opstod en fejl under indsendelse af din stemme."
+
+#~ msgid "You replied"
+#~ msgstr "Du svarede"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Du og yderligere 1 svarede"
+
+#~ msgid "Account banned successfully!"
+#~ msgstr "Konto udelukket!"
+
+#~ msgid "Username not provided."
+#~ msgstr "Brugernavn ikke angivet."
+
+#~ msgid "This account is already banned!"
+#~ msgstr "Denne konto er allerede udelukket!"
+
+#~ msgid "Account is now being ignored!"
+#~ msgstr "Konto bliver nu ignoreret!"
+
+#~ msgid "This account is already being ignored!"
+#~ msgstr "Denne konto bliver allerede ignoreret!"
+
+#~ msgid "1 user unbanned successfully!"
+#~ msgid_plural "%s users unbanned sucessfully!"
+#~ msgstr[0] "Udelukkelse af 1 bruger ophævet!"
+#~ msgstr[1] "Udelukkelse af %s brugere ophævet!"
+
+#~ msgid "1 user removed from list!"
+#~ msgid_plural "%s users removed from list!"
+#~ msgstr[0] "1 bruger fjernet fra liste!"
+#~ msgstr[1] "%s brugere fjernet fra liste!"
+
+#~ msgid "No users selected!"
+#~ msgstr "Ingen brugere valgt!"
+
+#~ msgid "%(num)s <small>of %(total)s</small>"
+#~ msgstr "%(num)s <small>af %(total)s</small>"
+
+#~ msgid "No differences found"
+#~ msgstr "Ingen forskelle fundet"
+
+#~ msgid "Cancel"
+#~ msgstr "Fortryd"
+
+#~ msgid "You are not watching this thread"
+#~ msgstr "Du overvåger ikke denne tråd"
+
+#~ msgid "You are watching this thread"
+#~ msgstr "Du overvåger denne tråd"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Vedhæftet billede"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "Kunne ikke uploade fil. Prøv igen senere."
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Ugyldigt billede. Vælg en gyldig billedfil."
+
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Billedet er for stort. Vælg en mindre billedfil."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Upload annulleret. Vælg en billedfil."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Fil slettet. Vælg en billedfil."
+
+#~ msgid "Delete this image"
+#~ msgstr "Slet dette billede"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "Uploader \"%s\"..."
+
+#~ msgid "Loading..."
+#~ msgstr "Indlæser..."
+
+#~ msgid "Error loading graph"
+#~ msgstr "Fejl under indlæsning af diagram"
+
+#~ msgid "Votes"
+#~ msgstr "Stemmer"
+
+#~ msgid "Percent"
+#~ msgstr "Procent"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "No"
+#~ msgstr "Nej"
+
+#~ msgid "Questions"
+#~ msgstr "Spørgsmål"
+
+#~ msgid "Solved"
+#~ msgstr "Løst"
+
+#~ msgid "% Solved"
+#~ msgstr "% Løst"
+
+#~ msgid "Responded in 24 hours"
+#~ msgstr "Besvaret indenfor 24 timer"
+
+#~ msgid "% Responded in 24 hours"
+#~ msgstr "% Besvaret indenfor 24 timer"
+
+#~ msgid "Responded in 72 hours"
+#~ msgstr "Besvaret indenfor 72 timer"
+
+#~ msgid "% Responded in 72 hours"
+#~ msgstr "% Besvaret indenfor 72 timer"
+
+#~ msgid "Not responded in 24 hours"
+#~ msgstr "Ikke besvaret indenfor 24 timer"
+
+#~ msgid "Not responded in 72 hours"
+#~ msgstr "Ikke besvaret indenfor 72 timer"
+
+#~ msgid "en-US KB"
+#~ msgstr "en-US-vidensbase"
+
+#~ msgid "non en-US KB"
+#~ msgstr "ikke-en-US-vidensbase"
+
+#~ msgid "Support Forum"
+#~ msgstr "Supportforum"
+
+#~ msgid "Army of Awesome"
+#~ msgstr "Fantastiske Fæller"
+
+#~ msgid "Click Through Rate %"
+#~ msgstr "Klikfrekvens %"
+
+#~ msgid "Visitors"
+#~ msgstr "Besøgende"
+
+#~ msgid "L10n Coverage"
+#~ msgstr "L10n-dækning"
+
+#~ msgid "Percent Yes"
+#~ msgstr "Procent Ja"
+
+#~ msgid "I don't know"
+#~ msgstr "Det ved jeg ikke"
+
+#~ msgid "Bold"
+#~ msgstr "Fed"
+
+#~ msgid "bold text"
+#~ msgstr "fed tekst"
+
+#~ msgid "Italic"
+#~ msgstr "Kursiv"
+
+#~ msgid "italic text"
+#~ msgstr "kursiv tekst"
+
+#~ msgid "Numbered List"
+#~ msgstr "Nummereret liste"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Nummereret listepunkt"
+
+#~ msgid "Bulleted List"
+#~ msgstr "Unummereret liste"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "Unummereret listepunkt"
+
+#~ msgid "Heading 1"
+#~ msgstr "Overskrift 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "Overskrift 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "Overskrift 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Indsæt et link..."
+
+#~ msgid "link text"
+#~ msgstr "linktekst"
+
+#~ msgid "Link text:"
+#~ msgstr "Linktekst:"
+
+#~ msgid "Link target:"
+#~ msgstr "Linkmål:"
+
+#~ msgid "Support article:"
+#~ msgstr "Supportartikel:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Indtast artiklens navn"
+
+#~ msgid "External link:"
+#~ msgstr "Eksternt link:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Indtast det eksterne links URL"
+
+#~ msgid "No sections found"
+#~ msgstr "Ingen afsnit fundet"
+
+#~ msgid "Insert Link"
+#~ msgstr "Indsæt link"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Vidensbaseartikel"
+
+#~ msgid "Insert media..."
+#~ msgstr "Indsæt medie..."
+
+#~ msgid "media"
+#~ msgstr "medie"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Søg i galleriet"
+
+#~ msgid "Show:"
+#~ msgstr "Vis:"
+
+#~ msgid "Images"
+#~ msgstr "Billeder"
+
+#~ msgid "Videos"
+#~ msgstr "Videoer"
+
+#~ msgid "Show media for:"
+#~ msgstr "Vis medier for:"
+
+#~ msgid "Insert Media"
+#~ msgstr "Indsæt medie"
+
+#~ msgid "Upload Media"
+#~ msgstr "Upload medie"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Vælg et billede eller video at indsætte."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Ups, der opstod en fejl."
+
+#~ msgid "Common responses"
+#~ msgstr "Standardsvar"
+
+#~ msgid "cannedresponses"
+#~ msgstr "standardsvar"
+
+#~ msgid "Search for common responses"
+#~ msgstr "Søg efter standardsvar"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorier"
+
+#~ msgid "Responses"
+#~ msgstr "Svar"
+
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "Vælg en kategori fra den forrige kolonne, eller start en søgning."
+
+#~ msgid "Response editor"
+#~ msgstr "Svareditor"
+
+#~ msgid "Switch to preview mode"
+#~ msgstr "Skift til eksempeltilstand"
+
+#~ msgid "Insert Response"
+#~ msgstr "Indsæt svar"
+
+#~ msgid "Matching responses"
+#~ msgstr "Matchende svar"
+
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "Der opstod en fejl under søgning after standardsvar."
+
+#~ msgid "Response preview"
+#~ msgstr "Forhåndsvisning af svar"
+
+#~ msgid "Switch to edit mode"
+#~ msgstr "Skift til redigeringstilstand"
+
+#~ msgid "Quote previous message..."
+#~ msgstr "Citer forrige meddelelse..."
+
+#~ msgid " said"
+#~ msgstr " sagde"
+
+#~ msgid "Reply..."
+#~ msgstr "Svar..."
+
+#~ msgid "%s characters remaining"
+#~ msgstr "%s tegn tilbage"
+
+#~ msgid "There was an error."
+#~ msgstr "Der opstod en fejl."
+
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Der opstod en fejl. Prøv igen om lidt."
+
+#~ msgid "Daily"
+#~ msgstr "Dagligt"
+
+#~ msgid "Weekly"
+#~ msgstr "Ugentligt"
+
+#~ msgid "Monthly"
+#~ msgstr "Månedligt"
+
+#~ msgid "Week beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Uge startende %(year)s-%(month)s-%(date)s"
+
+#~ msgid "Month beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Måned startende %(year)s-%(month)s-%(date)s"
+
+#~ msgid "1m"
+#~ msgstr "1m"
+
+#~ msgid "3m"
+#~ msgstr "3m"
+
+#~ msgid "6m"
+#~ msgstr "6m"
+
+#~ msgid "YTD"
+#~ msgstr "ÅTD"
+
+#~ msgid "1y"
+#~ msgstr "1å"
+
+#~ msgid "All"
+#~ msgstr "Alle"
+
+#~ msgid "From %(from_input)s to %(to_input)s"
+#~ msgstr "Fra %(from_input)s til %(to_input)s"
+
+#~ msgid "Invalid tag entered: %s"
+#~ msgstr "Ugyldigt mærke indtastet: %s"
+
+#~ msgid "No tags entered."
+#~ msgstr "Intet mærke indtastet."
+
+#~ msgid "No, ignore"
+#~ msgstr "Nej, ignorér"
+
+#~ msgid "Did you mean %s?"
+#~ msgstr "Mente du %s?"
+
+#~ msgid "Error uploading image"
+#~ msgstr "Fejl under upload af billede"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Fejl under sletning af billede"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Undersøg om du er logget ind, og prøv igen."
+
+#~ msgid "Search for a user..."
+#~ msgstr "Søg efter en bruger..."
+
+#~ msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+#~ msgstr "ADVARSEL! Er du sikker på, at du vil deaktivere denne bruger? Dette kan ikke fortrydes!"
+
+#~ msgid "All Articles: % Localized"
+#~ msgstr "Alle artikler: % oversat"
+
+#~ msgid "Top 20 Articles: % Localized"
+#~ msgstr "Artikler i top 20: % oversat"
+
+#~ msgid "Top 100 Articles: % Localized"
+#~ msgstr "Artikler i top 100: % oversat"
+
+#~ msgid "Active Contributors"
+#~ msgstr "Aktive bidragsydere"
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Et dokument med denne titel findes allerede på dette sprog."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "Et dokument med denne slug findes allerede på dette sprog."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "Vælg revisioner til sammenligning"
+
+#~ msgid "Toggle syntax highlighting"
+#~ msgstr "Vis/skjul syntaksfremhævning"
+
+#~ msgid "Toggle Diff"
+#~ msgstr "Vis/skjul Diff"
+
+#~ msgid "Show for..."
+#~ msgstr "Vis for..."
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "Vis kun indhold for specifikke versioner af Firefox eller styresystemer."
+
+#~ msgid "Add Rule"
+#~ msgstr "Tilføj regel"
+
+#~ msgid "Installing..."
+#~ msgstr "Installerer..."
+
+#~ msgid "Answers"
+#~ msgstr "Svar"
+
+#~ msgid "Unhelpful Answers"
+#~ msgstr "Unyttige svar"
+
+#~ msgid "Solutions"
+#~ msgstr "Løsninger"
+
+#~ msgid "Helpful Answers"
+#~ msgstr "Nyttige svar"
+
+#~ msgid "First Answers"
+#~ msgstr "Første svar"
+
+#~ msgid "Signing you in..."
+#~ msgstr "Logger dig ind..."
+
+#~ msgid "Mozilla Support"
+#~ msgstr "Mozilla Support"
+
+#~ msgid "[missing header]"
+#~ msgstr "[manglende header]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Indhold"
+
+#~ msgid "Insert a canned response..."
+#~ msgstr "Indsæt et standardsvar..."
+
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "Ugyldig video. Vælg en gyldig FLV-video."
+
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "Upload annulleret. Vælg en  FLV-video."
+
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "Fil slettet. Vælg en  FLV-video."
+
+#~ msgid "Delete FLV video"
+#~ msgstr "Slet FLV-video"
+
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "Ugyldig video. Vælg en gyldig OGV-video."
+
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "Upload annulleret. Vælg en OGV-video."
+
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "Fil slettet. Vælg en OGV-video."
+
+#~ msgid "Delete OGV video"
+#~ msgstr "Slet OGV-video"
+
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "Ugyldig video. Vælg en gyldig WebM-video."
+
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "Upload annulleret. Vælg en WebM-video."
+
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "Fil slettet. Vælg en WebM-video."
+
+#~ msgid "Delete WebM video"
+#~ msgstr "Slet WebM-video"
+
+#~ msgid "Upgrade Firefox"
+#~ msgstr "Opdater Firefox"
+
+#~ msgid "Your Firefox is out of date and may contain a security risk!"
+#~ msgstr "Din Firefox er forældet og kan indeholde en sikkerhedsrisiko!"
+
+#~ msgid "January"
+#~ msgstr "Januar"
+
+#~ msgid "February"
+#~ msgstr "Februar"
+
+#~ msgid "March"
+#~ msgstr "Marts"
+
+#~ msgid "April"
+#~ msgstr "April"
+
+#~ msgid "May"
+#~ msgstr "Maj"
+
+#~ msgid "June"
+#~ msgstr "Juni"
+
+#~ msgid "July"
+#~ msgstr "Juli"
+
+#~ msgid "August"
+#~ msgstr "August"
+
+#~ msgid "September"
+#~ msgstr "September"
+
+#~ msgid "October"
+#~ msgstr "Oktober"
+
+#~ msgid "November"
+#~ msgstr "November"
+
+#~ msgid "December"
+#~ msgstr "December"
+
+#~ msgid "Sunday"
+#~ msgstr "Søndag"
+
+#~ msgid "Monday"
+#~ msgstr "Mandag"
+
+#~ msgid "Tuesday"
+#~ msgstr "Tirsdag"
+
+#~ msgid "Wednesday"
+#~ msgstr "Onsdag"
+
+#~ msgid "Thursday"
+#~ msgstr "Torsdag"
+
+#~ msgid "Friday"
+#~ msgstr "Fredag"
+
+#~ msgid "Saturday"
+#~ msgstr "Lørdag"
+
+#~ msgid "Jan"
+#~ msgstr "Jan"
+
+#~ msgid "Feb"
+#~ msgstr "Feb"
+
+#~ msgid "Mar"
+#~ msgstr "Mar"
+
+#~ msgid "Apr"
+#~ msgstr "Apr"
+
+#~ msgid "Jun"
+#~ msgstr "Jun"
+
+#~ msgid "Jul"
+#~ msgstr "Jul"
+
+#~ msgid "Aug"
+#~ msgstr "Aug"
+
+#~ msgid "Sep"
+#~ msgstr "Sep"
+
+#~ msgid "Oct"
+#~ msgstr "Okt"
+
+#~ msgid "Nov"
+#~ msgstr "Nov"
+
+#~ msgid "Dec"
+#~ msgstr "Dec"
+
+#~ msgid "From"
+#~ msgstr "Fra"
+
+#~ msgid "To"
+#~ msgstr "Til"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "Reset zoom"
+#~ msgstr "Nulstil zoom"
+
+#~ msgid "Reset zoom level 1:1"
+#~ msgstr "Nulstil zoom 1:1"
+
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "Fejl under indlæsning af diagram. (Er du logget ind?)"
+
+#~ msgid "Documents"
+#~ msgstr "Dokumenter"
+
+#~ msgid "%s Votes"
+#~ msgstr "%s stemmer"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Vores frivillige er klar til at hjælpe."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Hjælpere online: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "Ventende brugere:"
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Anslået ventetid:"
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Mindre end 2 minutter."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "Mere end 20 minutter."
+
+#~ msgid "Query took: "
+#~ msgstr "Forespørgsel tog: "
+
+#~ msgid " seconds"
+#~ msgstr " sekunder"
+
+#~ msgid "Number of Votes"
+#~ msgstr "Antal stemmer"
+
+#, fuzzy
+#~ msgid "External Link"
+#~ msgstr "eksternt link"
+
+#~ msgid "external link"
+#~ msgstr "eksternt link"
+
+#, fuzzy
+#~ msgid "Delete %s file"
+#~ msgstr "slet udvalgte filer"

@@ -1,0 +1,741 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-10-10 05:26+0000\n"
+"Last-Translator: Masahiko <chimantaea_mirabilis@yahoo.co.jp>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1381382774.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"サインアップのリンクに問題があります。このアドレスは登録されていますか？"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "登録の完了時にエラーが発生しました。"
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Persona を利用するには Cookie を有効にする必要があります"
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"このウィンドウを閉じ、<a %s>Cookie を有効にしてから</a>再度試してください"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "通信エラー"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "ログインが完了しました..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "間もなく Persona にログインします。"
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "申し訳ありません。リクエストに非常に長い時間がかかっています。"
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr "数秒で解決しない場合は、ウィンドウを閉じて再度試してください。"
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "メールプロバイダによる認証を行っています。"
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "選択したメールアドレスは無効もしくは削除されています。"
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Persona アカウントから %(email)s を削除しますか？"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"最後のメールアドレスを削除すると、あなたの Persona アカウントが取り消されま"
+"す。\n"
+"本当によろしいですか？"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "本当に Persona アカウントを削除してもよろしいですか？"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "別のメールアドレスを追加"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "メールアドレス"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "メールアドレスを入力してください"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "メールアドレスの入力が必要です"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"初期確認が送信されました &ndash; 次の確認作業が行われるまでしばらくお待ちくだ"
+"さい"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "すでに追加されています！"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "追加"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "キャンセル"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "%s を認証できません"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s は要求されたメールアドレスですが、あなたのこのメールアドレスは認証できませ"
+"ん。"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s が認証されました！"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "ログインします&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "認証用のメールを確認してください"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"%s へ送信されたメール内の確認用リンクをクリックしてください。すぐに %s にログ"
+"インできます。"
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "エラー"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "大変申し訳ありません。"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "申し訳ありません。サーバが高負荷の状態です。"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "ページを再度読み込んでから、もう一度お試しください。"
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "このウィンドウを閉じて、再度試してください。"
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "詳細情報を見る"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "閉じる"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* は正しいメールアドレスではありません！"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "続けるには、ウィンドウを閉じて正しいアドレスを入力してください。"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "ログイン情報を記憶させますか？"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "どれだけの期間 Persona のログイン状態を維持しますか？"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "1 か月"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "このコンピュータを信用します。"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "このセッションのみ"
+
+# 「私のアドレスではない」etcが正確だろうが、文字数的に適当なものが無いため。
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "私のコンピュータではありません。"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "補足: Persona のログアウトはいつでもできます。"
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Persona でログイン"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "%s にログインします&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "メールアドレスを選択してください"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "別のメールアドレスを追加"
+
+# 「私のアドレスではない」etcが正確だろうが、文字数的に適当なものが無いため。
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Persona をログアウト..."
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"手続きを進めると、%(site)s の <a %(terms)s>利用規約</a> および <a "
+"%(privacy)s>プライバシーポリシー</a> に同意されたものとみなされます。"
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "ログイン"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "%(primary)s が応答していません。数分待ってから再度お試しください。"
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "%(email)s を認証できません"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"ブラウザがサードパーティの Cookie をブロックしていることが原因となっている可"
+"能性があります。ブラウザのプライバシー設定で、%(idpName)s のサードパーティ "
+"Cookie を許可し、再度試してください。"
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"手続きを進めると、%(site)s の <a %(terms)s>利用規約</a> および <a "
+"%(privacy)s>プライバシーポリシー</a> に同意したものとみなされます。"
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "パスワードを作成する"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s は、あなたの %(idp)s パスワードを用いて Persona にログインすることを"
+"許可しません。Persona アカウントで使用する新しいパスワードを作成してくださ"
+"い。"
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"あなたのメールアドレスは初めて使用されます。 FirefoxOS で使用するパスワードを"
+"作成してください。"
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"あなたのメールアドレスは初めて使用されます。 Persona で使用するパスワードを作"
+"成してください。"
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "パスワードの作成"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "パスワードの入力が必要です"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "パスワードは 8 文字以上、80 文字以下でなくてはいけません"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "パスワードを検証しています"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "パスワードを検証しています"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "認証用のパスワードの入力が必要です"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "パスワードが一致しません！"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "完了"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "うれしいお知らせ！"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s に追加のパスワードは必要ありません。アカウントを認証するだけで、す"
+"ぐに %(aWebsite)s にログインできます"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "認証"
+
+#~ msgid "signing in"
+#~ msgstr "ログイン"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "メールアドレスを検証しています"
+
+# BrowserID 経由のログイン画面のラベル。
+#~ msgid "Sign in as..."
+#~ msgstr "ログイン情報の選択..."
+
+# BrowserIDによる認証ステップでメールアドレスを入力するフォームのラベル？
+#~ msgid "Email"
+#~ msgstr "メールアドレス"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "メールプロバイダにより、アドレスの所持者本人であることが認証されました。サ"
+#~ "イトにログインします。"
+
+# BrowserID 経由のログイン画面のラベル。
+#~ msgid "Sign in using"
+#~ msgstr "ログイン情報の選択"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "サイトへのログインに使うアドレス"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "メールプロバイダにログインし、このアドレスの所持者であることを認証しなけれ"
+#~ "ばなりません。このウィンドウはリダイレクトされます。"
+
+#~ msgid "Enter password"
+#~ msgstr "パスワードを入力してください"
+
+# サインイン画面
+#~ msgid "forgot your password?"
+#~ msgstr "パスワードを忘れた場合"
+
+#~ msgid "Password"
+#~ msgstr "パスワード"
+
+#~ msgid "Password incorrect"
+#~ msgstr "パスワードが違います"
+
+#~ msgid "verify email"
+#~ msgstr "メールアドレスを認証する"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s がこれを簡単にします"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "あなたの %(emailProvider)s のアカウントは、Persona でもうまく動作するよう"
+#~ "にアップグレードされました。 %(emailProvider)s にリダイレクトします。"
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona は、%(aWebsite)s のようなサイトへのログインに %(emailProvider)s の"
+#~ "アカウントを用います。"
+
+#~ msgid "sign in with %s"
+#~ msgstr "%s にログイン"
+
+#~ msgid "Use a different email address"
+#~ msgstr "別のメールアドレスを使う"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "この欄にはメールアドレスを入力してください。"
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "このアドレスに確認のメールを送信しました！ 他のメールアドレスに送信したい"
+#~ "ときは、数分待ってから再度行ってください。"
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "このアドレスは、すでにあなたのアカウントに追加されています！"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "メールアドレスを選んでください。"
+
+#~ msgid "The password field is required."
+#~ msgstr "パスワードの入力が必要です。"
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "このメールアドレスとパスワードの組み合わせは一致しません。"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "あなたの %(emailProvider)s のアカウントは、Persona でうまく動作するように"
+#~ "アップグレードされました。 %(emailProvider)s にリダイレクトします。そこで"
+#~ "アカウントを認証すると %(aWebsite)s にログインできるようになります。"
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Persona パスワードに他のメールアドレスを追加する。"
+
+#~ msgid "There has been an error!"
+#~ msgstr "申し訳ありません。エラーが発生しました！"
+
+#~ msgid "Reset your password"
+#~ msgstr "パスワードのリセット"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "%s で使用するパスワードを作成してください。"
+
+#~ msgid "reset password"
+#~ msgstr "パスワードのリセット"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "注意: このパスワードは、すべての Persona メールアドレスで使用されます。"
+
+#~ msgid "Sign In"
+#~ msgstr "ログイン"
+
+#~ msgid "Sign Up"
+#~ msgstr "サインアップ"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "サイトへのログイン処理の間、数秒お待ちください。"
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s はユーザ名の代わりに Persona を使ってログインします。"
+
+# アカウント仮登録後の確認作業を指示する画面
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Persona でログインするには、メールアドレスを入力してください。"
+
+#~ msgid "enter email address"
+#~ msgstr "メールアドレスを入力してください"
+
+#~ msgid "password"
+#~ msgstr "パスワード"
+
+#~ msgid "next"
+#~ msgstr "次へ"
+
+# サインイン画面
+#~ msgid "Forgot your password?"
+#~ msgstr "パスワードを忘れた場合"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "手続きを進めるには、%s の <a %s>利用規約</a> および <a %s>プライバシーポリ"
+#~ "シー</a> に同意をお願いします。"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "このメッセージはリクエストが完了した時に消えます (間もなく)。長い時間待っ"
+#~ "ている場合は、このウィンドウを閉じて再び試してください。"
+
+# BrowserIDログイン認証第1段階
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "<strong>%s</strong> へのログインに使うメールアドレスを入力してください"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "あなたのメールプロバイダから情報を取得しています。しばらくお待ちください。"
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "このユーザ名とパスワードではログインできません。"
+
+# アカウント仮登録後の確認作業を指示する画面
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "確認のためのメールを <strong>%s</strong> に送信しました。"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "これが間違いであった場合、送られてきたメールは無視して<a %s>キャンセル</a>"
+#~ "をお願いします。"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "これが間違いであった場合、送られてきたメールを無視して、<a %s>別のアドレス"
+#~ "を使用してください</a>。"
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "失礼ですが、これはあなたのコンピュータからですか？"
+
+#~ msgid "yes"
+#~ msgstr "はい"
+
+#, fuzzy
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "そうであれば、ログイン状態が 2 週間維持されます。"
+
+#~ msgid "no"
+#~ msgstr "いいえ"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "図書館やインターネットカフェなど共用のコンピュータから使用している場合は、"
+#~ "1 時間後にパスワードを尋ねられます。"
+
+#, fuzzy
+#~ msgid "Welcome to Persona!"
+#~ msgstr "BrowserID にようこそ！"
+
+#, fuzzy
+#~ msgid "Repeat Password"
+#~ msgstr "パスワードをリセットしています"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr ""
+#~ "申し訳ありませんが、BrowserID を利用するには Cookie を有効にする必要があり"
+#~ "ます"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "新しいメールアドレスの場合は、設定を完了してください。"
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "常にこのメールアドレスをログインに使う"
+
+#, fuzzy
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "BrowserID を利用するには、ブラウザの Cookie を有効にする必要があります。  "
+#~ "ブラウザの設定で Cookie を有効にして再度試してください。"
+
+#~ msgid "You are offline!"
+#~ msgstr "現在、あなたはオフラインです！"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr ""
+#~ "申し訳ありませんが、BorwserID はオフラインモードでは利用できません！"
+
+# BrowserID認証画面
+#~ msgid "select email"
+#~ msgstr "メールアドレスを選ぶ"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr ""
+#~ "申し訳ありません。オフライン状態にあるため BrowserID との通信ができませ"
+#~ "ん。"
+
+#~ msgid "Authenticating User"
+#~ msgstr "ユーザーを認証しています"
+
+#~ msgid "Adding Address"
+#~ msgstr "メールアドレスを追加しています"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "ユーザーがメインで使うアドレスを追加しています"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "メールアドレス情報を確認しています"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "検証結果を元に認証しています"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "あなたのユーザーアカウントを削除する"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "認証情報を確認しています"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "スクリプトのバージョンを確認しています"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "ユーザーの登録が完了しました"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "Cookie が有効かどうか確認しています"
+
+#~ msgid "Creating Account"
+#~ msgstr "アカウントを作成しています"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "検証結果を取得しています"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "登録トークンを確認しています"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "メールアドレスを確認しています"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "ユーザが ID プロバイダで認証されているか確認しています"
+
+#~ msgid "Logout Failed"
+#~ msgstr "ログアウトに失敗しました"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "ID プロバイダ と認証しています"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr ""
+#~ "あなたのメールプロバイダとの通信に問題が発生しました。もう一度やり直してく"
+#~ "ださい"
+
+#~ msgid "Provisioning with Identity Provider"
+#~ msgstr "ID プロバイダ を設定しています"
+
+#~ msgid "Provisioning Unsupported Identity Provider"
+#~ msgstr "未サポートの ID プロバイダを設定しています"
+
+#~ msgid "Registration Failed"
+#~ msgstr "登録に失敗しました"
+
+#~ msgid "Establishing Relay"
+#~ msgstr "中継を確立しています"
+
+#~ msgid "Relay frame could not be found"
+#~ msgstr "ログインの中継フレームが見つかりません"
+
+#~ msgid "Signin Failed"
+#~ msgstr "ログインに失敗しました"
+
+#~ msgid "Signup Failed"
+#~ msgstr "サインアップに失敗しました"
+
+#~ msgid "Syncing Address"
+#~ msgstr "アドレスを同期しています"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "メールアドレスを同期しています"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "それぞれのアドレスと対になるキーを同期します"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "トークン情報を取得しています"
+
+#~ msgid "Updating password"
+#~ msgstr "パスワードを更新しています"

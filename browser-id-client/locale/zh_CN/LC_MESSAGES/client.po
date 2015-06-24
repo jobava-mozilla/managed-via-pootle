@@ -1,0 +1,694 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-02-17 19:32+0000\n"
+"Last-Translator: yfdyh000 <yfdyh000@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1392665561.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr "您的注册链接有点问题。这个邮箱地址已被注册过了吗？"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "在完成注册时发生错误。"
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "您必须启用 Cookie 才能使用 Persona。"
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "请关闭此窗口，在<a %s>开启 Cookie</a> 后再试"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "传输错误"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "正在完成登录…"
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "稍等一下您就可以登录到 Persona 了。"
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "很抱歉，此请求花费了较长时间。"
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr "如果几秒钟后还是没有反应，请关闭此窗口并再试一次。"
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "正在向您的电子邮箱提供者检查。"
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "所选的电子邮箱无效或已被删除。"
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "从您的 Persona 账户中移除 %(email)s？"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"移除最后一个电子邮箱地址的同时也会取消您的 Persona 账户。\n"
+"您真的确定要移除吗？"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "您真的确定要删除您的 Persona 账户？"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "新增电子邮箱地址"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "电子邮箱地址"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "必须是电子邮箱的地址"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "必须填写电子邮箱"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr "已经发送初次确认 &ndash; 要再次请求发送请稍等几分钟"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "已添加！"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "新增"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "取消"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "无法验证 %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr "%s 是必要的电子邮箱地址，但我们无法确认该地址是归您所有。"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "已验证 %(email)s！"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "正在为您登录 &hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "请检查电子邮箱。"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr "请点击已发送到 %s 的确认邮件中的链接，之后您就可以登录 %s 了。"
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "错误"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "很抱歉。"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "服务器目前负载过重！"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "请重新载入页面并再试一次。"
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "请关闭窗口并重试。"
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "查看更多信息"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "关闭"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "确定"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* 是无效的电子邮箱地址！"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "请关闭窗口并输入有效的电子邮箱地址以继续。"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "要记住您的登录状态吗？"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "您想要 Persona 的登录状态被记住多久？"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "一个月"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "我信任此电脑。"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "只此一次"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "这不是我的电脑。"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "提示：您当然也可以随时登出 Persona。"
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "使用 Persona 登录"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "登录 %s 为&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "选择一个电子邮箱地址"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "新增更多电子邮箱地址"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "这不是我"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"若继续，就代表您接受 %(site)s 的<a %(terms)s>使用条款</a>和<a %(privacy)s>隐"
+"私权保护政策</a>。"
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "登录"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "%(primary)s 没有回应，请稍等几分钟后再试。"
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "取消"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "无法验证 %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"这可能是因为您的浏览器封锁第三方 Cookies 所造成的。请确定您的浏览器已设定接"
+"受 %(idpName)s 的第三方 Cookies 后再试一次。"
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr "也表示您接受 %(site)s 的<a %(terms)s>使用条款</a>和<a %(privacy)s>隐私权保护政策</a>。"
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "设定密码"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr "%(idp)s 不再允许您使用 %(idp)s 密码登入 Persona，请为您的 Persona 账户设置新密码。"
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr "您的电子邮箱地址看来还没注册过。请设置一个密码以便使用 Firefox OS。"
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr "您的电子邮箱地址看来还没注册过。请设置一个密码以便使用 Persona。"
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "设定密码"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "必须输入密码"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "密码长度必须在 8 至 80 字符之间"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "确认密码"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "确认密码"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "必须输入确认密码"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "两次输入的密码不同！"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "完成"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "好消息！"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr "%(email)s 不再需要密码就能登录。只须验证账户，即可登录至 %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "验证"
+
+#~ msgid "signing in"
+#~ msgstr "正在登录"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "确认您的电子邮箱地址"
+
+#~ msgid "Sign in as..."
+#~ msgstr "登录为…"
+
+#~ msgid "Email"
+#~ msgstr "电子邮箱"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr "已从您的电子邮箱提供商确认您的身份，我们现在将为您登录。"
+
+#~ msgid "Sign in using"
+#~ msgstr "登录方式"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "此网站要求您登录才能使用"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr "为了确认您拥有此电子邮箱，您必须到此邮箱中去确认。本窗口将转至"
+
+#~ msgid "Enter password"
+#~ msgstr "输入密码"
+
+#~ msgid "forgot your password?"
+#~ msgstr "忘记密码了吗？"
+
+#~ msgid "Password"
+#~ msgstr "密码"
+
+#~ msgid "Password incorrect"
+#~ msgstr "密码不正确"
+
+#~ msgid "verify email"
+#~ msgstr "验证电子邮箱"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s 让事情变得简单"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "您的账号 %(emailProvider)s 已被改良升级，以便您能更好地结合使用 Persona。"
+#~ "接下来页面将转到 %(emailProvider)s。"
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona 现在允许您使用您的 %(emailProvider)s 账号登录到 %(aWebsite)s 等网"
+#~ "站。"
+
+#~ msgid "sign in with %s"
+#~ msgstr "使用 %s 登录"
+
+#~ msgid "Use a different email address"
+#~ msgstr "使用其他电子邮箱地址"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "此域必须填写电子邮件地址。"
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "我们刚寄出电子邮件到该地址！ 如果您真的想要再寄一封，请稍等几分钟然后再"
+#~ "试。"
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "该地址已添加到帐号中了！"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "请选择电子邮件地址。"
+
+#~ msgid "The password field is required."
+#~ msgstr "请输入密码。"
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "电子邮件与密码不符合。"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "您的 %(emailProvider)s 账号已升级，以便您可以更好的结合 Persona 使用。接下"
+#~ "来我们将会把页面转到 %(emailProvider)s，当您在那边确认帐号后就会自动登录 "
+#~ "%(aWebsite)s。"
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "增加其他电子邮件地址到您的 Persona 密码。"
+
+#~ msgid "There has been an error!"
+#~ msgstr "出错了！"
+
+#~ msgid "Reset your password"
+#~ msgstr "重置密码"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "请设定您要用来登录 %s 的新密码。"
+
+#~ msgid "reset password"
+#~ msgstr "重置密码"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr "请注意，您所有关联到 Persona 的电子邮件地址都将使用这组密码。"
+
+#~ msgid "Sign In"
+#~ msgstr "登录"
+
+#~ msgid "Sign Up"
+#~ msgstr "注册帐号"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "请稍等几秒，正在登录此网站。"
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s 使用 Persona，而不是传统的帐号密码方式登录。"
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "请输入您的电子邮件地址以使用 Persona 登录。"
+
+#~ msgid "enter email address"
+#~ msgstr "输入电子邮件地址"
+
+#~ msgid "password"
+#~ msgstr "密码"
+
+#~ msgid "next"
+#~ msgstr "下一步"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "忘记密码了吗？"
+
+#, fuzzy
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "点击 %s 就代表您接受这个网站的<a %s>使用条款</a>以及<a %s>隐私权保护政策</"
+#~ "a>。"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "此消息将在请求完成时消失（希望很快）。如果您等很久了，请关闭此窗口并重试。"
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr "请输入您的电子邮件地址以登录 <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr "请稍候，我们正在从您的电子邮件服务提供商获取信息。"
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "无法使用该用户名和密码登录"
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "我们发送了一封确认信到 <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr "如果这是个错误，请忽略这封信并 <a %s>取消</a>。"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr "如果这是个错误，请忽略这封信并 <a %s>使用其他电子邮件地址</a>。"
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "这是您的电脑吗？"
+
+#~ msgid "yes"
+#~ msgstr "是"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "我们将会在两周内保持您的登录状态。"
+
+#~ msgid "no"
+#~ msgstr "否"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "如果您正在图书馆或者网咖上网，请选这个，我们将只会记住您的登入状态一个小"
+#~ "时，之后就需要重新登录。"
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "欢迎使用 Persona！"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr "下一步，请设置您要用来登录 Persona 的新密码。"
+
+#~ msgid "Repeat Password"
+#~ msgstr "重新输入密码"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID 必须启用 Cookie 才能使用"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "此电子邮件地址看来是新建的，让我们带您来进行初始设置吧。"
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "总是使用此电子邮件地址登录"
+
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "您必须启用 Cookie 才能使用 BrowserID。请启用您浏览器的 cookie 并重试。"
+
+#~ msgid "You are offline!"
+#~ msgstr "您已离线！"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr "不幸的是，BrowserID 无法在离线时使用！"
+
+#~ msgid "select email"
+#~ msgstr "选择电子邮件"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr "抱歉，我们无法在您离线时与 BrowserID 服务器通讯。"
+
+#~ msgid "Authenticating User"
+#~ msgstr "正在验证用户"
+
+#~ msgid "Adding Address"
+#~ msgstr "正在添加地址"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "正在为用户添加主要电子邮件地址"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "正在检查电子邮件地址信息"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "正在使用猜测的结果验证"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "正在取消用户帐号"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "正在检查授权"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "正在检查脚本版本"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "正在完成用户注册"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "正在检查 Cookie 是否已启用"
+
+#~ msgid "Creating Account"
+#~ msgstr "正在创建帐号"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "正在猜测"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "正在检查注册令牌（Token）"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "正在检查电子邮件地址"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "正在检查用户是否已完成服务商验证"
+
+#~ msgid "Logout Failed"
+#~ msgstr "登出失败"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "正在向身份提供者验证"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr "我们遇到问题，无法向您的电子邮件提供商进行验证，请重试！"
+
+#~ msgid "Provisioning with Identity Provider"
+#~ msgstr "正在供开通识别身份"
+
+#~ msgid "Provisioning Unsupported Identity Provider"
+#~ msgstr "正在开通不支持的识别身份"
+
+#~ msgid ""
+#~ "Unfortunately, the email address provided cannot act as a Primary "
+#~ "Identity Provider"
+#~ msgstr "非常不行，您提供的电子邮件地址无法当作主要识别身份"
+
+#~ msgid "Registration Failed"
+#~ msgstr "注册失败"
+
+#~ msgid "Establishing Relay"
+#~ msgstr "正在准备转发"
+
+#~ msgid "Relay frame could not be found"
+#~ msgstr "无法找到转发框架"
+
+#~ msgid "Signin Failed"
+#~ msgstr "登录失败"
+
+#~ msgid "Signup Failed"
+#~ msgstr "注册失败"
+
+#~ msgid "Syncing Address"
+#~ msgstr "正在同步电子邮件地址"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "正在同步电子邮件地址"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "同步电子邮件地址密钥"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "正在获取令牌（Token）信息"
+
+#~ msgid "Updating password"
+#~ msgstr "正在更新密码"

@@ -1,0 +1,795 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-02-16 00:13+0000\n"
+"Last-Translator: Inkbug <inkbug200@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1392509621.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr ""
+
+#: lib/email.js:49
+#, fuzzy
+msgid "%(site)s: Complete password reset"
+msgstr "איפוס ססמה במערכת פרסונה"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "דרך טובה יותר להתחבר לאתרים"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "דפדפן שאינו נתמך"
+
+#: lib/static/views.js:241
+#, fuzzy
+msgid "Unsupported Browser without Watch"
+msgstr "דפדפן שאינו נתמך"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "העוגיות כבויות"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "אודות"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "תנאי שימוש"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "מדיניות פרטיות"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "השלמת הרישום"
+
+#: resources/views/about.ejs:8
+#, fuzzy
+msgid "A simpler way to sign in."
+msgstr "דרך טובה יותר להתחבר לאתרים"
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "מערכת פרסונה מחליפה את הססמאות המרובות"
+
+#: resources/views/about.ejs:12
+#, fuzzy
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"אתרים כגון <a %(timesLink)s>%(timesName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> וגם <a %(voostLink)s>%(voostName)s</a> משתמשים בפרסונה "
+"ולא בשמות משתמש בשביל להכניס אותך."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr "זה אומר שעכשיו דרושה לך רק ססמה אחת כדי להיכנס לאתרים רבים."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "ססמה אחת לשלוט בכולם."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "שימוש בכתובות דואר אלקטרוני מרובות"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "מערכת פרסונה מציעה גמישות"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"בתוך מערכת פרסונה הזהות שלך היא כתובת הדואר האלקטרוני שלך. אפשר להשתמש במספר "
+"בלתי מוגבל של כתובות דואר אלקטרוני, אבל דרושה רק ססמה אחת."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "פרטיות אמתית."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "מערכת פרסונה גאה בכך שהיא פועלת בשבילך ללא מטרת רווח"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"את מערכת פרסונה מפתחת מוזילה, חברה ללא כוונת רווח שקהילת האינטרנט סומכת "
+"עליה. מטרתנו היא ליצור טכנולוגיות שמאזנות בין מערכת אינטרנט פתוחה לבין "
+"הפרטיות של האנשים."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "פרסונה שומרת על הפרטיות שלך"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"פרסונה אינה עוקבת אחרי הפעולות שלך ברחבי הרשת. היא יצורת חומה בין רישומך "
+"לבין הפעילויות שלך באתרים. ההיסטוריה של מה שאתה עושה שם נשמרת רק במחשב שלך."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "פרסונה בשביל מפתחים"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "איך ליישם את פרסונה באתר שלך"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "מדריכי מפתחים ותיעוד API"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "לסיים כניסה אל:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "צעד אחרון!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "כתובת דואר אלקטרוני"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "כתובת הדואר האלקטרוני שלך"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "ססמה"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "הססמה שלך"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+#, fuzzy
+msgid "Password field required"
+msgstr "נדרשת ססמה."
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+#, fuzzy
+msgid "Password incorrect"
+msgstr "נדרשת ססמה."
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "סיום"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "למערכת פרסונה נדרשות עוגיות כדי לזכור אותך."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "נא לסגור את החלון, <a %s>להפעיל עוגיות</a> ולנסות שוב"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr ""
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s כבר אינו מאפשר כניסה באמצעות פרסונה לחשבון עם הססמה של %(idp)s. צריך "
+"להשתמש בססמה הקיימת של פרסונה כדי להיכנס עם כתובת הדואר האלקטרוני הזאת."
+
+#: resources/views/dialog.ejs:43
+#, fuzzy
+msgid "Persona password"
+msgstr "איפוס ססמה במערכת פרסונה"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+#, fuzzy
+msgid "email address"
+msgstr "כתובת דואר אלקטרוני"
+
+#: resources/views/dialog.ejs:53
+#, fuzzy
+msgid "Must be an email address"
+msgstr "בשדה הזה צריכה להיות כתובת דואר אלקטרוני."
+
+#: resources/views/dialog.ejs:57
+#, fuzzy
+msgid "Email field required"
+msgstr "נדרש למלא את שדה הססמה."
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "שכחת את ססמתך?"
+
+#: resources/views/dialog.ejs:72
+#, fuzzy
+msgid "Enter password"
+msgstr "נא להכניס ססמה"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "ססמה"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"המשך התהליך הוא הסכמה ל<a %(terms)s>תנאים</a> ול<a %(privacy)s>מדיניות "
+"הפרטיות</a> של %(site)s."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "הבא"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr ""
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "ביטול"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "כניסה"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr ""
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "מוזילה פרסונה: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "התחברות אל פרסונה..."
+
+#: resources/views/dialog_layout.ejs:68
+#, fuzzy, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>פרסונה.</strong> כניסה פשוטה יותר, שנבנתה על־ידי מוסד ללא כוונת "
+"רווח. <a %s>מידע נוסף &larr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr "התחברות באמצעות מוזילה פרסונה, הדרך הבטוחה והקלה להיכנס לאתרים."
+
+#: resources/views/index.ejs:12
+#, fuzzy
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr ""
+"<a %(aboutLink)s>לעשות סיבוב</a> או <a %(signupButton)s>להיכנס &larr;</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "הסרה"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "הגעת רק עכשיו למוזילה פרסונה? <a %(learnMoreLink)s>מידע נוסף</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "מנהל החשבון"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "כתובת דואר אלקטרוני שלך"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "עריכה"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "בוצע"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "ססמה ישנה"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "ססמה חדשה"
+
+#: resources/views/index.ejs:72
+#, fuzzy
+msgid "Old password required"
+msgstr "נדרשת ססמה ישנה."
+
+#: resources/views/index.ejs:75
+#, fuzzy
+msgid "Old password incorrect"
+msgstr "נדרשת ססמה ישנה."
+
+#: resources/views/index.ejs:78
+#, fuzzy
+msgid "New password required"
+msgstr "נדרשת ססמה חדשה."
+
+#: resources/views/index.ejs:81
+#, fuzzy
+msgid "Passwords must be different"
+msgstr "נדרשת ססמה."
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+#, fuzzy
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "ססמאות חייבות להיות באורך שבין 8 ל־80 תווים."
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "בכל זמן אפשר <a %(cancelLink)s>לבטל את החשבון שלך</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "אתר הבית של פרסונה"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "כיצד זה עובד"
+
+#: resources/views/layout.ejs:36
+#, fuzzy
+msgid "Account"
+msgstr "מנהל החשבון"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "כניסה"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "יציאה"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "מאת <a %s>צוות זהות</a> של <a %s>מוזילה</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "פרטיות &larr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "תנאי שימוש &larr;"
+
+#: resources/views/layout.ejs:60
+#, fuzzy
+msgid "Developers &rarr;"
+msgstr "מפתחים"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "דרושה לך עזרה? &larr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr ""
+"אנו מצטערים, אבל יש להפעיל תמיכה ב־JavaScript כדי להשתמש במערכת פרסונה."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "איפוס ססמה"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "יצירת ססמה חדשה לשימוש עם %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "יצירת ססמה חדשה לשימוש עם %s"
+
+#: resources/views/reset_password.ejs:41
+#, fuzzy
+msgid "Verification password required"
+msgstr "נדרשת ססמת אימות."
+
+#: resources/views/reset_password.ejs:45
+#, fuzzy
+msgid "Passwords don&rsquo;t match!"
+msgstr "אין התאמה בין הססמאות!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">כתובת הדואר האלקטרוני שלך</strong> אומתה!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr "הכתובת החדשה שלך מוגדרת ומוכנה לשימוש. אנו נַפנה אותך אל %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "ההפניה תתבצע בעוד %s שניות"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "מצטערים, אבל כרגע אין תמיכה בדפדפן שלך."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "סמל פיירפוקס"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "מערכת פרסונה עובדת עם <a %(getFirefoxLink)s>פיירפוקס</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "ועם <a %(otherBrowserLink)s>דפדפנים מודרניים</a> אחרים."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr ""
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+
+#: resources/email_templates/_footer.html.ejs:17
+#, fuzzy, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<strong>פרסונה.</strong> כניסה פשוטה יותר, שנבנתה על־ידי מוסד ללא כוונת "
+"רווח. <a %s>מידע נוסף &larr;</a>"
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+#, fuzzy
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "נא ללחוץ כדי לאשר את כתובת הדואר האלקטרוני הזאת ולהיכנס בתור %s"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+#, fuzzy
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr "אם לא ניסית להיכנס לאתר זה, אפשר להתעלם מהודעה זו."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+#, fuzzy
+msgid "Mozilla Persona"
+msgstr "מוזילה פרסונה: %s"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+#, fuzzy
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr ""
+"<strong>פרסונה.</strong> כניסה פשוטה יותר, שנבנתה על־ידי מוסד ללא כוונת "
+"רווח. <a %s>מידע נוסף &larr;</a>"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr ""
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+#, fuzzy
+msgid "Confirm your address now"
+msgstr "אימות כתובת דואר אלקטרוני למערכת פרסונה"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr ""
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "שכחת את הססמה שלך במערכת פרסונה? זה קורה גם לטובים ביותר."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "נא ללחוץ כאן לאיפוס ססמתך:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+#, fuzzy
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr "אם לא ניסית להיכנס לאתר זה, אפשר להתעלם מהודעה זו."
+
+#: resources/email_templates/reset.html.ejs:17
+#, fuzzy
+msgid "Reset your password now"
+msgstr "איפוס הססמה שלך"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr "נראה שיש לספק הדואר האלקטרוני שלך בעיות עם התמיכה שלהם בפרסונה."
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr "אם לא ניסית להיכנס לאתר זה, אפשר להתעלם מהודעה זו."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "כניסה פשוטה יותר."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "אתר %s משתמש בפרסונה ולא בשמות משתמשים כדי להכניס אותך."
+
+#, fuzzy
+#~ msgid "Enter your email address"
+#~ msgstr "אימות הססמה שלך"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "נא להזין את הססמה שלך במערכת פרסונה."
+
+#~ msgid "enter email address"
+#~ msgstr "כתובת דואר אלקטרוני"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "תודה על השימוש בפרסונה."
+
+#~ msgid "Thank you,"
+#~ msgstr "תודה,"
+
+#~ msgid "The Persona team"
+#~ msgstr "צוות פרסונה"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "נא ללחוץ כאן לאיפוס ססמתך."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "כדי להמשיך יש לאשר מחדש את כתובת הדואר האלקטרונית הזאת ולספק ססמה ייחודית "
+#~ "לפרסונה."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "נא ללחוץ כאן לקביעת ססמתך החדשה:"
+
+#, fuzzy
+#~ msgid "The Persona Team"
+#~ msgstr "צוות פרסונה"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "נא ללחוץ כאן לקביעת ססמתך החדשה."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr "אפשר לאמת את החשבון הזה רק בעזרת שם המשתמש הזה והססמה הזאת."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "זה עתה שלחנו מכתב לכתובת הזאת! אם באמת רצית שנשלח עוד אחד, יש לחכות דקה "
+#~ "או שתיים ולנסות שוב."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "אין התאמה בין הססמה לבין כתובת הדואר האלקטרוני."
+
+#~ msgid "The password field is required."
+#~ msgstr "חובה למלא את שדה הססמה."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "הססמה הישנה אינה נכונה, הססמה לא עודכנה."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "הססמה הישנה זהה לחדשה."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "כדי להיכנס באמצעות מערכת פרסונה, נא לרשום את כתובת הדואר האלקטרוני שלך."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "מתבצעת בדיקה עם ספק הדואר האלקטרוני שלך."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "הכניסה הושלמה"
+
+#~ msgid "Forgot Password"
+#~ msgstr "שכחתי את הססמה"
+
+#~ msgid "Email Verification"
+#~ msgstr "אימות דואר אלקטרוני"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "נא לבדוק את ססמתך ב<strong %(checkId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr "נא ללחוץ על הקישור במכתב האימות. הססמה שלך תאופס אז."
+
+#~ msgid "Non existent user!"
+#~ msgstr "המשתמש אינו קיים!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "לא ניתן לאפס את הססמה של הכתובת הזאת."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "הססמה ידועה לך? אז אפשר להיכנס."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr "החלון הזה ייסכר עכשיו ויצירת החשבון תמשיך."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "נא לבדוק את הדואר שלך ב<strong %(emailId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr "נא ללחוץ על הקישור במכתב האימות. מיד תתבצע כניסה למערכת פרסונה."
+
+#~ msgid "forgot your password?"
+#~ msgstr "שכחת את ססמתך?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr "כתובת הדואר האלקטרוני שלך חדשה לנו. נא ליצור ססמה לשימוש עם פרסונה."
+
+#~ msgid "verify password"
+#~ msgstr "אימות ססמה"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "המשך העבודה כאן הוא הסכמה ל<a %(termsLink)s>תנאי השימוש</a> ול<a "
+#~ "%(privacyLink)s>מדיניות הפרטיות</a> של %(persona)s."
+
+#~ msgid "Next"
+#~ msgstr "הבא"
+
+#~ msgid "Verify Email"
+#~ msgstr "אימות הססמה"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "כדי לאמת ש<strong %(emailId)s>הכתובת הזאת</strong> שייכת לך, יש להיכנס "
+#~ "דרך הספק שלך. ייפתח חלון חדש."
+
+#~ msgid "Verify"
+#~ msgstr "אימות"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "תודה שנרשמת עם <strong>פרסונה</strong>. ניתן מעתה להשתמש בחשבון פרסונה "
+#~ "שלך כדי <em>להירשם</em> או <em>להיכנס</em> לאתרים בכל רחבי הרשת!"
+
+#, fuzzy
+#~ msgid "Sign Up"
+#~ msgstr "כניסה"
+
+#, fuzzy
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "השלמת הכניסה אל %s באמצעות BrowserID"
+
+#~ msgid "Communicating with server"
+#~ msgstr "מתבצעת תקשורת עם השרת"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "נא להמתין רק רגע בזמן שאנחנו מדברים עם השרת."
+
+#, fuzzy
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr "BrowserID היא הדרך המהירה והמאובטחת להיכנס – <a %s>מידע נוסף</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "תודה על אימות כתובת הדואר האלקטרוני. הודעה זו נשלחה אליך כדי להשלים את "
+#~ "כניסתך אל %s."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "נא לסיים את ההרשמה באמצעות לחיצה על הקישור הבא:"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "אירעה שגיאה בעת ניסיון לאמת את כתובתך. האם ייתכן שכתובת זו אומתה בעבר?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "אירעה שגיאה בעת ניסיון להשלים את הרישום."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "הכתובת החדשה שלך הוגדרה ואם הכול בסדר, נכנסת לחשבון. עכשיו אפשר לסגור את "
+#~ "החלון הזה ולחזור אל"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr "הייתה בעיה עם קישור הרישום שלך. האם הכתובת הזאת כבר נרשמה?"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "דף הבית של BrowserId"
+
+#~ msgid "TOS"
+#~ msgstr "תנאי שימוש"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "שגיאה בתקשורת עם השרת."

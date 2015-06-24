@@ -1,0 +1,119 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Michael Bauer <fios@akerbeltz.org>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-24 09:50+0200\n"
+"PO-Revision-Date: 2013-06-07 01:32+0100\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"Language-Team: Akerbeltz\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Virtaal 0.7.1-beta1\n"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/lib/email.js:40
+msgid "Confirm email address for Persona"
+msgstr "Dearbh an seòladh puist-d airson Persona"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/authentication.ejs:5
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/authentication.ejs:24
+msgid "Loading"
+msgstr "'Ga luchdadh"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:1
+msgid "Thank you for using Persona."
+msgstr "Gun robh math agad airson Person a chleachdadh."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:3
+msgid ""
+"Use the PIN code below to confirm this email address is linked to your Yahoo "
+"account."
+msgstr ""
+"Cleachd am PIN gu h-ìosail gus dearbhadh gu bheil am post-d seo ceangailte "
+"ris a' chunntas Yahoo agad."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:6
+msgid ""
+"Note: If you are NOT trying to sign into a website with Persona, please "
+"ignore this email."
+msgstr ""
+"An aire: MUR EIL thu a' feuchainn ri clàradh a-steach air làrach le Persona, "
+"cha leig thu leas ach am post-d seo a leigeil seachad."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:8
+msgid "Thank you,"
+msgstr "Gun robh math agad,"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:9
+msgid "The Persona team"
+msgstr "Sgioba Persona"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:5
+msgid "System Error, please try again later"
+msgstr "Mearachd an t-siostaim, feuch a-rithist an ceann greis"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:27
+msgid "Sorry, we are unable to log you in as %s"
+msgstr "Tha sinn duilich ach cha b' urrainn dhuinn do chlàradh a-steach mar %s"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:28
+msgid "Something went wrong, please try again later"
+msgstr "Chaidh rudeigin cearr, nach fheuch thu ris a-rithist?"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:29
+msgid "Try Again"
+msgstr "Feuch ris a-rithist"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:5
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:27
+msgid "Accounts don't match"
+msgstr "Chan eil an dà chunntas co-ionnann"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:35
+msgid "Go back"
+msgstr "Air ais"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:36
+msgid "Continue"
+msgstr "Lean air adhart"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:41
+msgid "Confirm your email address"
+msgstr "Dearbh an seòladh puist-d agad"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:43
+msgid "Check your email at %(claimed)s."
+msgstr "Thoir sùil air a' phost-d agad air %(claimed)s."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:47
+msgid "Please enter PIN from email:"
+msgstr "Cuir a-steach am PIN a bha sa phost-d:"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:48
+msgid "Sorry, PIN doesn't match"
+msgstr "Duilich, chan eil am PIN ceart"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:52
+msgid "Sign in"
+msgstr "Clàraich a-steach"
+
+#~ msgid "Authentication Error"
+#~ msgstr "Mearachd dearbhaidh"
+
+#~ msgid ""
+#~ "Sorry, it looks like you were trying to log in as %s, but were logged in "
+#~ "to %s as a different address."
+#~ msgstr ""
+#~ "Tha sinn duilich ach tha coltas gun do rinn thu oidhirp clàradh a-steach "
+#~ "mar %s ach gun robh thu clàraichte a-steach air %s air seòladh eile."
+
+#~ msgid "Please visit %s and ensure that you are logged in as %s."
+#~ msgstr ""
+#~ "Tadhail air %s is dèan cinnteach gu bheil thu clàraichte a-steach mar %s."

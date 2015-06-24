@@ -1,0 +1,1927 @@
+# Besnik Bleta <besnik@programeshqip.org>, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-10 10:56-0700\n"
+"PO-Revision-Date: 2014-10-02 10:11+0000\n"
+"Last-Translator: Besnik <besnik@programeshqip.org>\n"
+"Language-Team: sq\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1412244712.0\n"
+
+#. L10n: Label for the contest region in North America.
+#: flicks/base/regions.py:13
+#: flicks/videos/models.py:177
+#: flicks/videos/templates/videos/2013/winners.html:61
+msgid "North America"
+msgstr "Amerika e Veriut"
+
+#. L10n: Label for the contest region in Latin America.
+#: flicks/base/regions.py:15
+#: flicks/base/templates/faq.html:257
+#: flicks/videos/models.py:178
+#: flicks/videos/templates/videos/2013/winners.html:107
+msgid "Latin America"
+msgstr "Amerika Latine"
+
+#. L10n: Label for the contest region in Europe, the Middle East, and Africa.
+#: flicks/base/regions.py:17
+#: flicks/videos/templates/videos/2013/winners.html:153
+msgid "Europe, Middle East, Africa"
+msgstr "Europë, Lindje e Mesme, Afrikë"
+
+#. L10n: Label for the contest region in Asia and the Pacific region.
+#: flicks/base/regions.py:19
+#: flicks/videos/templates/videos/2013/winners.html:199
+msgid "Asia Pacific"
+msgstr "Azi Paqësor"
+
+#: flicks/base/templates/404.html:3
+#: flicks/base/templates/404.html:10
+msgid "Page not found"
+msgstr "Nuk u gjet faqe"
+
+#: flicks/base/templates/404.html:13
+msgid "Sorry, but we couldn't find the page you're looking for."
+msgstr "Na ndjeni, por nuk e gjetëm dot faqen që po kërkoni."
+
+#: flicks/base/templates/404.html:16
+#: flicks/base/templates/500.html:16
+msgid "<a href=\"%(home_url)s\">Go back</a> to the home page."
+msgstr "<a href=\"%(home_url)s\">Kthehuni mbrapsht</a> te faqja hyrëse."
+
+#: flicks/base/templates/500.html:3
+#: flicks/base/templates/500.html:10
+msgid "Something went wrong!"
+msgstr "Diçka shkoi ters!"
+
+#: flicks/base/templates/500.html:13
+msgid "Sorry, but something went wrong."
+msgstr "Na ndjeni, diçka shkoi ters."
+
+#: flicks/base/templates/bare.html:13
+#: flicks/base/templates/bare.html:25
+#: flicks/base/templates/bare.html:29
+#: flicks/base/templates/email_base.html:3
+#: flicks/base/templates/email_base.html:15
+#: flicks/base/templates/shared/header.html:6
+#: flicks/base/templates/shared/header_minimal.html:8
+#: flicks/settings/base.py:67
+#: flicks/videos/templates/videos/upload_complete.html:54
+msgid "Firefox Flicks"
+msgstr "Firefox Flicks"
+
+#. Meta Description - used for page description and og:description
+#: flicks/base/templates/bare.html:16
+msgid "Firefox Flicks is a contest that invites Firefox fans and filmmakers from all over the world to create short videos (or &#34;flicks&#34;) to help tell the Firefox story."
+msgstr "Firefox Flicks është një konkurs në të cilin ftohen dashamirësit e Firefox-it dhe prodhuesit e filmave nga e gjithë bota të krijojnë video të shkurtra (ose &#34;flicks&#34;-e) që ndihmojnë të rrëfehet historia e Firefox-it."
+
+#: flicks/base/templates/bare.html:45
+msgid "Close"
+msgstr "Mbylle"
+
+#: flicks/base/templates/bare.html:46
+#: flicks/base/templates/strings.html:29
+msgid "This field is required."
+msgstr "Kjo fushë është e domosdoshme."
+
+#: flicks/base/templates/base.html:23
+msgid "Our Partners"
+msgstr "Partnerët Tanë"
+
+#: flicks/base/templates/base.html:33
+msgid "More Partners"
+msgstr "Më tepër Partnerë"
+
+#: flicks/base/templates/base.html:38
+msgid "Share Firefox Flicks"
+msgstr "Ndajeni Firefox Flicks-in Me të Tjerët"
+
+#: flicks/base/templates/base.html:47
+msgid "Learn about Firefox OS"
+msgstr "Mësoni më tepër rreth Firefox OS-it"
+
+#: flicks/base/templates/base.html:48
+msgid "Firefox OS"
+msgstr "Firefox OS"
+
+#. Greeting in an email.
+#: flicks/base/templates/email_base.html:36
+#: flicks/base/templates/email_base.ltxt:2
+msgid "Hi %(name)s,"
+msgstr "Njatjeta %(name)s,"
+
+#. Part of the signature on an email.
+#: flicks/base/templates/email_base.html:43
+#: flicks/base/templates/email_base.ltxt:10
+msgid "Sincerely,"
+msgstr "Juaji sinqerisht,"
+
+#. Part of the signature on an email.
+#: flicks/base/templates/email_base.html:46
+#: flicks/base/templates/email_base.ltxt:12
+msgid "The Firefox Flicks Team"
+msgstr "Ekipi i Firefox Flicks-it"
+
+#. Please don't change the HTML, this string is in an email and the HTML is very fragile.
+#: flicks/base/templates/email_base.html:87
+msgid "Read the <a href=\"%(link)s\" target=\"_blank\" style=\"color: #349cd7; text-decoration: none; font-size: 11px; font-family: georgia, serif;\">Mozilla Privacy Policy</a>."
+msgstr "Lexoni <a href=\"%(link)s\" target=\"_blank\" style=\"color: #349cd7; text-decoration: none; font-size: 11px; font-family: georgia, serif;\">Rregullat e Privatësisë së Mozilla-s</a>."
+
+#: flicks/base/templates/faq.html:3
+msgid "FAQ"
+msgstr "FAQ"
+
+#: flicks/base/templates/faq.html:5
+#: flicks/base/templates/partners.html:5
+msgid "Firefox Flicks FAQ &#8212; Your questions answered. Our FAQ covers all the details on how to enter the video contest and win prizes."
+msgstr "FAQ rreth Firefox Flicks &#8212; Përgjigje për pyetjet tuaja. FAQ mbulojnë krejt hollësitë se si të paraqisni në konkurs një video dhe të fitoni çmime."
+
+#: flicks/base/templates/faq.html:13
+msgid "Frequently Asked Questions"
+msgstr "Pyetje të Bëra Shpesh"
+
+#: flicks/base/templates/faq.html:15
+#: flicks/base/templates/home.html:75
+msgid "What is Firefox Flicks?"
+msgstr "Çfarë është Firefox Flicks?"
+
+#: flicks/base/templates/faq.html:17
+msgid "Firefox Flicks is a global video competition encouraging filmmakers to educate people about the issues that affect our online lives. This year, we're focusing on the power that having access to the Web through mobile devices gives people and how that power can change the way you see the world and the way you function within it."
+msgstr "Firefox Flicks-i është një konkurs mbarëbotëror që i nxit krijuesit e filmave të edukojnë njerëzit rreth çështjeve që prekin jetën tonë online. Këtë vit, jemi përqendruar te fuqia që u jep njerëzve pasja e mundësisë së përdorimit të Web-it përmes pajisjesh celulare, dhe se si kjo fuqi mund të ndryshojë mënyrën se si e shihni botën dhe mënyrën se si funksiononi ju brenda saj."
+
+#: flicks/base/templates/faq.html:27
+msgid "With that in mind, the 2013 Firefox Flicks theme is \"Get Mobilized.\" That's where you come in: help us inspire people to get mobilized for individual and collective progress. <a href=\"%(link_brief)s\" class=\"ga_brief-dl\">Read the creative brief</a>."
+msgstr "Me këtë në mendje, tema e Firefox Flicks-it për 2013 është \"Mobilizohuni.\" Këtu fillon puna juaj: na ndihmoni të frymëzojmë njerëzit që të mobilizohen për përparim individual dhe kolektiv. <a href=\"%(link_brief)s\" class=\"ga_brief-dl\">Lexoni përshkrimin përmbledhës</a>."
+
+#: flicks/base/templates/faq.html:34
+msgid "What does Get Mobilized mean?"
+msgstr "Ç’do të thotë Mobilizohuni?"
+
+#: flicks/base/templates/faq.html:36
+msgid "It's about harnessing the power of the Web to discover new content; how that content connects you to new ideas; and how those ideas can enrich your life."
+msgstr "Bëhet fjalë për të shfrytëzuar fuqinë e Web-it për zbulim lënde të re; si ju lidh kjo lëndë e re me ide të reja; dhe se si këto ide jua bëjnë jetën më të pasur."
+
+#: flicks/base/templates/faq.html:42
+msgid "What do we want filmmakers to do?"
+msgstr "Çfarë duam që të bëjnë krijuesit e filmave?"
+
+#: flicks/base/templates/faq.html:44
+msgid "Write, produce and edit a video of no more than 60 seconds that demonstrates how mobile helps people discover content that connects them to new ideas and enriches their lives."
+msgstr "Shkruani, prodhoni dhe përpunoni një video jo më të gjatë se 60 sekonda, e cila demonstron se si celulari i ndihmon njerëzit të zbulojnë lëndë që i lidh ata me ide të reja dhe ua bën jetën më të pasur."
+
+#: flicks/base/templates/faq.html:51
+msgid "Where can I find out more about this year's theme and requirements?"
+msgstr "Ku mund të mësoj më tepër rreth temës dhe domosdoshmërive për këtë vit?"
+
+#: flicks/base/templates/faq.html:53
+msgid "Everything you need to know about creating a flick for the contest can be found in the filmmakers' <a href=\"%(link_brief)s\" class=\"ga_brief-dl\">creative brief</a>."
+msgstr "Krejt çka lypset të dini mbi krijim videosh për konkursin mund ta gjeni te <a href=\"%(link_brief)s\" class=\"ga_brief-dl\">përshkrimi përmbledhës</a>."
+
+#: flicks/base/templates/faq.html:60
+msgid "What are the entry categories for the 2013 Flicks contest?"
+msgstr "Cilat janë kategoritë për pjesëmarrje në konkursin Flicks 2013?"
+
+#: flicks/base/templates/faq.html:62
+msgid "There are no categories. Your flick can be a live-action film, an animation or a combination of both. You can shoot it in 3D or on your mobile device. It's up to you. It just has to be 60 seconds or less."
+msgstr "Nuk kategori. Videoja juaj mund të jetë një film i xhiruar, një film vizatimor, ose një ndërthurje e të dyve. Mund të filmoni në 3D ose të filmoni me pajisjen tuaj celulare. Është në dorën tuaj. Thjesht duhet të jetë 60 ose më pak sekonda."
+
+#: flicks/base/templates/faq.html:69
+msgid "When can I submit my flick to Firefox Flicks?"
+msgstr "Kur mund ta parashtroj videon time te Firefox Flicks?"
+
+#: flicks/base/templates/faq.html:71
+msgid "You can upload your video to the Firefox Flicks site beginning on February 13, 2013. You will also be able to view and share submitted entries at that time."
+msgstr "Videot tuaja mund t’i ngarkoni te sajti Firefox Flicks duke filluar nga 13 Shkurti 2013. Nga ajo kohë e më tej do të jeni në gjendje edhe të shihni, dhe të ndani me të tjerët, video të parashtruara."
+
+#: flicks/base/templates/faq.html:78
+msgid "How do I submit my flick to Firefox Flicks and enter the contest?"
+msgstr "Si mund ta parashtroj videon time te Firefox Flicks dhe të bëhem pjesëmarrës i konkursit?"
+
+#: flicks/base/templates/faq.html:81
+msgid "Fill out your filmmaker profile and submit your video <a href=\"%(link_submit)s\">here.</a> All flicks will be posted to the Firefox Flicks website using the Vimeo API. You'll need to provide your contact information, including your email, title your flick and select your country and region."
+msgstr "Plotësoni profilin tuaj si krijues filmi dhe parashtrojeni videon tuaj <a href=\"%(link_submit)s\">këtu.</a> Krejt videot do të postohen te sajti Firefox Flicks duke përdorur API-n e Vimeo-s. Do të duhet të jepni të dhënat tuaja të kontaktit, përfshi email-in tuaj, ta titulloni videon tuaj dhe të përzgjidhni vendin dhe rajonin tuaj."
+
+#: flicks/base/templates/faq.html:88
+msgid "Submissions closed on July 31 and Firefox Flicks is no longer accepting entries for this year."
+msgstr "Parashtrimet u mbyllën më 31 Korrik dhe Firefox Flicks nuk pranon më të tilla për këtë vit."
+
+#: flicks/base/templates/faq.html:94
+msgid "How does Flicks get and use my email address?"
+msgstr "Si e mbledh dhe e përdor Flicks-i adresën time email?"
+
+#: flicks/base/templates/faq.html:96
+msgid "Flicks receives your email address through Persona, our site registration system. We will use your email address for contest administration purposes, such eligibility feedback, sign in and voting. You can also opt in to receive additional email updates about Firefox Flicks."
+msgstr "Flicks-i e merr adresën tuaj email përmes Persona-s, sistemit tonë për regjistrim në sajte. Adresën tuaj email do ta përdorim për qëllime të administrimit të konkursit, të tilla si ato që lidhen me kandidimin, hyrje dhe votim. Mund të zgjidhni edhe marrjen e përditësimeve shtesë me email rreth Firefox Flicks."
+
+#: flicks/base/templates/faq.html:104
+msgid "What are the judging criteria?"
+msgstr "Cilat janë kriteret e vlerësimit?"
+
+#: flicks/base/templates/faq.html:106
+msgid "Videos will be judged on quality of shooting, editing and how closely they align with the creative brief. Entries can be animated or live action - get creative!"
+msgstr "Videot do të vlerësohen sipas cilësisë së xhirimit, montimit dhe të qenët sa më afër me përshkrimin përmbledhës të projektit. Videot pjesëmarrëse mund të jenë filma vizatimorë ose filmim real - jini sa më krijues!"
+
+#: flicks/base/templates/faq.html:114
+msgid "A panel of celebrity judges and film industry insiders will evaluate the films and choose the Grand Prize and Regional winners."
+msgstr "Një juri me anëtarë figura të shquara dhe njerëz të industrisë së filmit do të vlerësojë filmat dhe do të zgjedhë fituesit e Çmimit të Madh dhe atij Rajonal."
+
+#: flicks/base/templates/faq.html:120
+msgid "Are there any requirements?"
+msgstr "A ka domosdoshmëri?"
+
+#: flicks/base/templates/faq.html:122
+msgid "Yes, there are some. You'll be able to find a full list under Work Criteria in the Rules (coming soon), but here is a summary:"
+msgstr "Po, ka disa. Një listë të plotë do të mund ta gjeni te ndarja Kritere Pune, nën Rregullat (së shpejti), por ja një përmbledhje:"
+
+#: flicks/base/templates/faq.html:130
+msgid "Your flick must meet the requirements of the creative brief"
+msgstr "Videoja juaj duhet të pajtohet me domosdoshmëritë e përshkrimit përmbledhës të projektit"
+
+#: flicks/base/templates/faq.html:135
+msgid "Your flick must be submitted under a <a href=\"%(link_cclicense)s\" rel=\"external\">Creative Commons - NonCommercial-ShareAlike license</a>"
+msgstr "Videoja juaj duhet parashtruar nën një leje <a href=\"%(link_cclicense)s\" rel=\"external\">Creative Commons - NonCommercial-ShareAlike</a>"
+
+#: flicks/base/templates/faq.html:140
+msgid "Your flick must be original"
+msgstr "Videoja juaj duhet të jetë origjinale"
+
+#: flicks/base/templates/faq.html:145
+msgid "Non-English flicks must have subtitles or include a written English translation"
+msgstr "Videot jo në Anglisht duhet të kenë titra ose të përmbajnë një përkthim të shkruar në Anglisht"
+
+#: flicks/base/templates/faq.html:150
+msgid "Your flick must be submitted to the Flicks site"
+msgstr "Videoja juaj duhet parashtruar te sajti për Flicks-et"
+
+#: flicks/base/templates/faq.html:155
+msgid "Your flick must contain an accurate description"
+msgstr "Videoja juaj duhet të përmbajë një përshkrim të përpiktë"
+
+#: flicks/base/templates/faq.html:160
+msgid "Anyone that is not listed as a team member must sign a waiver granting you permission to film them"
+msgstr "Kushdo që nuk është anëtar i një ekipi duhet të nënshkruajë një deklaratë heqjeje dorë, që ju jep leje t’i filmoni"
+
+#: flicks/base/templates/faq.html:165
+msgid "Please keep it clean"
+msgstr "Ju lutemi, pa gjëra të ndyra"
+
+#: flicks/base/templates/faq.html:170
+msgid "You must be at least 18 years old, or the age of majority in your country of residence"
+msgstr "Duhet të jeni të paktën 18 vjeç, ose sa mosha e pjekurisë në vendin tuaj të qëndrimit"
+
+#: flicks/base/templates/faq.html:176
+msgid "Who are the judges?"
+msgstr "Cilët janë anëtarët e jurisë?"
+
+#: flicks/base/templates/faq.html:178
+msgid "See our <a href=\"%(link_home)s#judges\">Judges page</a> for a complete list."
+msgstr ""
+"Për një listë të plotë, shihni <a href=\"%(link_home)s#judges\">faqen e Jurisë "
+"tonë</a>."
+
+#: flicks/base/templates/faq.html:183
+msgid "Can I submit more than one flick?"
+msgstr "A mund të parashtroj më shumë se një video?"
+
+#: flicks/base/templates/faq.html:185
+msgid "You can submit as many as you like, but you have to submit a new entry each time."
+msgstr "Mund të parashtroni sa të doni, por duhet t’i parashtroni një në herë."
+
+#: flicks/base/templates/faq.html:190
+msgid "Can a team develop the flick?"
+msgstr "A mund të krijohet një video nga një ekip?"
+
+#: flicks/base/templates/faq.html:192
+msgid "Of course! Teams can be up to 3 people, but please appoint a team leader. All communication will be with this person and only one prize will be awarded per entry."
+msgstr "Sigurisht! Ekipet mund të kenë deri në 3 vetë, por, ju lutemi, caktoni një drejtues ekipi. Krejt ndërlidhja do të bëhet me këtë person dhe për çdo parashtrim jepet vetëm një çmim."
+
+#: flicks/base/templates/faq.html:199
+msgid "Is the contest open to international entries?"
+msgstr "A është e hapur gara ndaj parashtrimesh ndërkombëtare?"
+
+#: flicks/base/templates/faq.html:201
+msgid "Yes. This is an international film competition and entries can be submitted through the Flicks website. The Contest is void in Cuba, Iran, North Korea, Sudan, Syria and any other country subject to a U.S. boycott, where prohibited by law or restricted by law or regulations."
+msgstr "Po. Ky është një konkurs ndërkombëtar filmi dhe veprat pjesëmarrëse mund të parashtrohen përmes sajtit Flicks. Gara nuk vlen në Kubë, Iran, Kore të Veriut, Sudan, Siri dhe të tjera vende që janë subjekt i një bojkoti nga ana e SHBA-ve, ku ndalohet ose kufizohet me ligj ose me rregullore."
+
+#: flicks/base/templates/faq.html:209
+msgid "What can I win?"
+msgstr "Çfarë mund të fitoj?"
+
+#: flicks/base/templates/faq.html:211
+msgid "Your flick will be seen and voted on by millions of Firefox fans around the world, giving you exposure to a global audience. You'll also get your entry in front of international advertising executives and film luminaries while working on one of the world's biggest brands - a great piece to add to any portfolio."
+msgstr "Videoja juaj do të shihet dhe votohet nga miliona dashamirës të Firefox-it anembanë botës, duke ju dhënë ekspozim te një publik global. Videoja juaj do të jetë gjithashtu në tryeza drejtuesish të industrisë së reklamave dhe figura ndërkombëtare të shquara të filmit, ndërkohë që angazhoheni me një nga markat më të mëdha të botës - zë i fortë për ta shtuar te cilado CV."
+
+#: flicks/base/templates/faq.html:220
+msgid "This year, we've expanded our prizes:"
+msgstr "Këtë vit i kemi zgjeruar çmimet tona:"
+
+#: flicks/base/templates/faq.html:226
+msgid "<strong>Early Entry Awards</strong> - $1,000 awarded to the best flicks submitted before our film festival sponsorships. The top 3 early entry submission flicks from each film festival that Firefox sponsors are automatically included in the final round that will be submitted to and judged by our celebrity panel."
+msgstr ""
+"<strong>Çmimi për Pjesëmarrje të Hershme</strong> - 1000 dollarë amerikanë "
+"akorduar videove më të mira të parashtruara në konkurs përpara "
+"sponsorizimeve të festivalit. 3 zërat kryesues si pjesëmarrje e hershme për "
+"secilin festival filmi që sponsorizon Firefox-i përfshihen vetvetiu në "
+"finale dhe do të shqyrtohen dhe vlerësohen nga juria jonë."
+
+#: flicks/base/templates/faq.html:235
+msgid "<strong>People's Choice Award</strong> - The 3 winning flicks will be given exposure through our channels, be exposed to millions of Firefox website visitors and receive some great Firefox swag."
+msgstr ""
+"Çmimi <strong>Zgjedhja e Publikut</strong> - 3 videot fituese do të "
+"paraqiten në kanalet tona, për miliona vizitorë te sajtet të Firefox-it "
+"dhe do të marrin edhe disa gjëra të lezetshme Firefox-i."
+
+#: flicks/base/templates/faq.html:243
+msgid "<strong>Regional Winners</strong> - One winner from each contest region will win a $5,000 cash prize and one runner up from each contest region will win a $2,500 cash prize. Contest regions:"
+msgstr "<strong>Fituesit Rajonalë</strong> - Një fitues nga secili rajon do të fitojë një çmim prej 5000 dollarësh amerikanë dhe një vend i dytë për secilin rajon do të fitojë një çmim prej 2500 dollarësh amerikanë. Rajone:"
+
+#: flicks/base/templates/faq.html:252
+msgid "The U.S. and Canada"
+msgstr "SHBA dhe Kanada"
+
+#: flicks/base/templates/faq.html:262
+msgid "Europe, Middle East and Africa (EMEA)"
+msgstr "Europë, Lindje e Mesme dhe Afrikë (EMEA)"
+
+#: flicks/base/templates/faq.html:267
+msgid "Asia, Australia and New Zealand (APAC)"
+msgstr "Azia, Australi dhe Zelandë e RE (APAC)"
+
+#: flicks/base/templates/faq.html:274
+msgid "<strong>Grand Prize</strong><br/> The winner (or winning team) will fly to Los Angeles to work with producer (and Flicks judge) Couper Samuelson, CEO and Founder of The Black List Franklin Leonard and representatives from Panavision to professionally produce their winning entry using professional equipment."
+msgstr "<strong>Çmimi i Madh</strong><br/> Fituesi (ose ekipi fitues) do të fluturojë për në Los Anxheles për të punuar me producentin (dhe anëtarin e jurisë së Flicks-it) Couper Samuelson, CEO-n dhe Themeluesin e The Black List, Franklin Leonard, dhe përfaqësues nga Panavision për të prodhuar profesionalisht punën e tyre fituese duke përdorur pajisje profesionale."
+
+#: flicks/base/templates/faq.html:281
+msgid "Additionally, just for entering, everyone will get a little something from us to say thanks for being a part of Firefox Flicks."
+msgstr "Përveç kësaj, thjesht vetëm nga pjesëmarrja, kushdo do të marrë diçka të vogël prej nesh, për t’ju falënderuar që u bëtë pjesë e Firefox Flicks-it."
+
+#: flicks/base/templates/faq.html:288
+msgid "Continue to check our <a href=\"%(link_home)s#prizes\">prizes page</a> for updated information throughout the contest period."
+msgstr "Shihni vazhdimisht <a href=\"%(link_home)s#prizes\">faqen tonë të çmimeve</a> për të dhëna të përditësuara gjatë gjithë kohës së konkursit."
+
+#: flicks/base/templates/faq.html:302
+msgid "What are the deadlines for the Early Entry Awards?"
+msgstr "Cilat janë afatet për Çmimet e Pjesëmarrjes së Hershme?"
+
+#: flicks/base/templates/faq.html:304
+#: flicks/base/templates/home.html:534
+#: flicks/videos/templates/videos/2013/winners.html:457
+#: flicks/videos/templates/videos/2013/winners.html:533
+msgid "April 3"
+msgstr "3 Prill"
+
+#: flicks/base/templates/faq.html:304
+#: flicks/base/templates/home.html:534
+msgid "1st Early Entry Award"
+msgstr "Çmimi i Parë për Pjesëmarrje të Hershme"
+
+#: flicks/base/templates/faq.html:305
+#: flicks/base/templates/home.html:535
+#: flicks/base/templates/carousel/may29_earlyentry.html:4
+#: flicks/videos/templates/videos/2013/winners.html:388
+#: flicks/videos/templates/videos/2013/winners.html:534
+msgid "May 29"
+msgstr "29 Maj"
+
+#: flicks/base/templates/faq.html:305
+#: flicks/base/templates/home.html:535
+msgid "2nd Early Entry Award"
+msgstr "Çmimi i Dytë për Pjesëmarrje të Hershme"
+
+#: flicks/base/templates/faq.html:306
+#: flicks/base/templates/home.html:536
+#: flicks/base/templates/carousel/july3_earlyentry.html:4
+#: flicks/videos/templates/videos/2013/winners.html:319
+#: flicks/videos/templates/videos/2013/winners.html:535
+msgid "July 3"
+msgstr "3 Korrik"
+
+#: flicks/base/templates/faq.html:306
+#: flicks/base/templates/home.html:536
+msgid "3rd Early Entry Award"
+msgstr "Çmimi i Tretë për Pjesëmarrje të Hershme"
+
+#: flicks/base/templates/faq.html:317
+msgid "What is the deadline to submit my flick?"
+msgstr "Cili është afati i fundit për parashtrimin e videos sime?"
+
+#: flicks/base/templates/faq.html:319
+msgid "You can submit your flick to be eligible for our Early Entry Awards (above), but the deadline to submit your film to be eligible for the People's Choice Award and Regional Awards is July 31, 2013, at 11:59PM PST (7:59AM GMT)."
+msgstr "Mund t’i parashtroni videot tuaja si kandidate për Çmimet e Pjesëmarrjes së Hershme (më sipër), por afati i parashtrimit të filmit tuaj që të përzgjidhet si kandidat për Çmimin e Zgjedhjes së Publikut dhe Çmimet Rajonale është 31 Korrik, 2013, më 11:59PM PST (7:59AM GMT)."
+
+#: flicks/base/templates/faq.html:326
+msgid "How will the winners be announced?"
+msgstr "Si do të bëhen të ditur fituesit?"
+
+#: flicks/base/templates/faq.html:328
+msgid "The winners will be notified by email and phone (if contact information is available). Winners will also be announced on the Flicks site, Firefox Flicks social media properties and at Firefox sponsored film festivals."
+msgstr "Fituesit do të njoftohen me email dhe telefon (nëse ka të dhëna kontakti). Fituesit do të njoftohen gjithashtu edhe te sajti Flicks, te kanalet për media shoqërore te Firefox Flicks dhe te festivalet e filmave të sponsorizuar nga Firefox-i."
+
+#: flicks/base/templates/faq.html:335
+msgid "Is there a maximum video length?"
+msgstr "A ka ndonjë kufi maksimum për gjatësinë e videos?"
+
+#: flicks/base/templates/faq.html:337
+msgid "All videos must be no longer than 60 seconds."
+msgstr "Krejt videot nuk duhet të jenë më shumë se 60 sekonda."
+
+#: flicks/base/templates/faq.html:342
+msgid "Can I submit an entry as a university project?"
+msgstr "A mund të parashtroj një zë si një projekt universiteti?"
+
+#: flicks/base/templates/faq.html:344
+msgid "Absolutely! We think that Firefox Flicks is a great opportunity for students to participate in a real world, high visibility campaign with expert judges from the film, television and advertising industries. Talk to your professors about using the video as your project."
+msgstr "Pa dyshim! Mendojmë se Firefox Flicks është një mundësi e bukur që studentët të marrin pjesë në botën reale, në fushata me publik të shumtë, me anëtarë jurie ekspertë nga industria e filmave, televizioni dhe ajo e reklamave. Bisedojeni me profesorët tuaj punën e përdorimit të videos si një projekt tuajin."
+
+#: flicks/base/templates/faq.html:352
+msgid "Can I use the Firefox wordmark and logo in my flick?"
+msgstr "A mund ta përdor fjalën Firefox dhe logon e Firefox-it te videoja ime?"
+
+#: flicks/base/templates/faq.html:354
+msgid "Yes. For the purposes of this contest, you may use the <a href=\"%(link_fxbrand)s\" rel=\"external\">Firefox</a> and <a href=\"%(link_fxosbrand)s\" rel=\"external\">Firefox OS</a> wordmark and logo. For more information, see the <a href=\"%(link_tmpolicy)s\" rel=\"external\">Mozilla Trademark Policy</a>."
+msgstr "Po. Për qëllimet e këtij konkursi, mund të përdorni fjalët dhe logot për <a href=\"%(link_fxbrand)s\" rel=\"external\">Firefox</a> dhe <a href=\"%(link_fxosbrand)s\" rel=\"external\">Firefox OS</a>. Për më tepër të dhëna, shihni <a href=\"%(link_tmpolicy)s\" rel=\"external\">Rregulla Shenjash Tregtare të Mozilla-s</a>."
+
+#: flicks/base/templates/faq.html:365
+msgid "How do I get high resolution Firefox name and logo artwork?"
+msgstr "Si mund të gjej stemën dhe të tjera figura për logon e Firefox-it në cilësi të lartë grafike?"
+
+#: flicks/base/templates/faq.html:367
+msgid "To get high resolution copies of the Firefox and Firefox OS name and logo artwork, as well as guidance on how to use the Firefox logo and wordmarks, please <a href=\"%(link_styleguide)s\" rel=\"external\">visit our style guide</a>."
+msgstr "Për të pasur kopje cilësie të lartë të stemës dhe logos së Firefox-it dhe Firefox OS-it, si edhe udhëzime se si të përdoret fjala Firefox dhe logoja e tij, ju lutemi, <a href=\"%(link_styleguide)s\" rel=\"external\">vizitoni udhërrëfyesin tonë të stileve</a>."
+
+#: flicks/base/templates/faq.html:374
+msgid "Where can I find music or other materials to include in my flick?"
+msgstr "Ku mund të gjej muzikë dhe material tjetër për ta përfshirë në videon time?"
+
+#: flicks/base/templates/faq.html:376
+msgid "If you're looking for additional materials - music, video footage, artwork or graphics - we suggest you investigate public domain media. <a href=\"%(link_ccommons)s\" rel=\"external\">Creative Commons</a> has a nice search service for locating public domain work (<a href=\"%(link_pdwiki)s\">Read more about the public domain at Wikipedia</a>). You can also check out this list of <a href=\"%(link_tumblr_resources)s\" rel=\"external\">creative resources on the Flicks blog</a> (English only)."
+msgstr "Nëse po kërkoni materiale shtesë - muzikë, xhirime video, punë grafike apo grafikë - këshillojmë që të kërkoni në mediat nën përkatësi publike. <a href=\"%(link_ccommons)s\" rel=\"external\">Creative Commons</a> ka një shërbim të mirë kërkimesh me të cilin mund të gjeni vepra nën përkatësi publike (<a href=\"%(link_pdwiki)s\">Lexoni më tepër rreth përkatësisë publike te Wikipedia</a>). Mund t’i hidhni një sy kësaj liste <a href=\"%(link_tumblr_resources)s\" rel=\"external\">burimesh për krijues</a> te blogu i Flicks-eve (vetëm në Anglisht)."
+
+#: flicks/base/templates/faq.html:391
+msgid "Can I use third-party trademarks or copyrighted materials in my flick?"
+msgstr "A mund të përdor në videon time shenja tregtare apo materiale nën të drejta autori prej palësh të treta?"
+
+#: flicks/base/templates/faq.html:393
+msgid "No, not without permission from the owner of those materials."
+msgstr "Jo, jo pa leje nga të zotët e këtyre materialeve."
+
+#: flicks/base/templates/faq.html:398
+msgid "Can I submit a flick in a language other than English?"
+msgstr "A mund të parashtroj një video në një gjuhë tjetër nga Anglishtja?"
+
+#: flicks/base/templates/faq.html:400
+msgid "Yes. For non-English entries, you will need to submit a full and accurate script or subtitles. If you're having trouble getting your flick translated, <a href=\"%(link_flicksemail)s\">please contact us</a>. We can help."
+msgstr "Po. Për pjesëmarrje jo në Anglisht, do të duhet të parashtroni një skenar të plotë ose titra të plotë dhe të përpiktë. Nëse keni vështirësi me përkthimin e videos suaj, <a href=\"%(link_flicksemail)s\">ju lutemi, lidhuni me ne</a>. Mund t’ju ndihmojmë."
+
+#: flicks/base/templates/faq.html:407
+msgid "What if I want to withdraw my submission?"
+msgstr "Po sikur të dua ta tërheq parashtrimin tim?"
+
+#: flicks/base/templates/faq.html:409
+msgid "If you would like to withdraw your submission, please contact us at <a href=\"%(link_flicksemail)s\">firefoxflicks@mozilla.org</a> and we will remove your entry from the competition."
+msgstr "Nëse doni të tërhiqni mbrapsht pjesëmarrjen tuaj, ju lutemi, lidhuni me ne te <a href=\"%(link_flicksemail)s\">firefoxflicks@mozilla.org</a> dhe do ta heqim veprën tuaj prej konkursit."
+
+#: flicks/base/templates/faq.html:416
+msgid "What aspect ratio should I use for my entry?"
+msgstr "Ç’përpjesëtime figure do të duhej të përdorja për punën time?"
+
+#: flicks/base/templates/faq.html:418
+msgid "All aspect ratios will be accepted, but 16:9 is recommended and preferred."
+msgstr "Do të pranohen krejt përpjesëtimet për figurën, por 16:9 është ajo e këshillueshmja dhe e parapëlqyera."
+
+#: flicks/base/templates/faq.html:423
+msgid "Will entries be available to the general public?"
+msgstr "A do të jenë punët të dukshme për publikun e zakonshëm?"
+
+#: flicks/base/templates/faq.html:425
+msgid "Your flick will be posted to the Flicks gallery and the voting site, as well as the Firefox Flicks channel on Vimeo so that people can watch during the contest period and vote for their favorite flicks during the voting period. Your name will be displayed publicly along with your video."
+msgstr "Videoja juaj do të postohet te galeria e Flicks-it dhe te sajti i votimeve, si dhe te kanali Firefox Flicks në Vimeo, që njerëzit të mund ta shohin dhe të votojnë gjatë kohës së votimeve për videon e tyre më të dashur. Bashkë me videon tuaj, do të shfaqet publikisht edhe emri juaj."
+
+#: flicks/base/templates/faq.html:433
+#: flicks/base/templates/home.html:99
+msgid "What is Firefox OS?"
+msgstr "Çfarë është Firefox OS-i?"
+
+#: flicks/base/templates/faq.html:435
+msgid "<a href=\"%(link_firefoxos)s\" rel=\"external\">Firefox OS</a> is an operating system for smartphones that anyone can change, add to and share with the world, freeing them from the rules and restrictions of existing phones and the platforms they run on. What this means is that we're making smartphones more affordable and empowering, making it possible for more people to take advantage of the full power of the Web, giving individuals and communities the freedom to blaze their own trail, amplify their voice, control their destiny and transform the future."
+msgstr "<a href=\"%(link_firefoxos)s\" rel=\"external\">Firefox OS</a> është një sistem operativ për telefona të mençur, të cilin mund ta ndryshojë kushdo, të shtojë gjëra në të dhe t’i ndajë me botën, duke i çliruar përdoruesit nga rregullat dhe kufizimet e telefonave dhe platformave ekzistuese në të cilat xhirojnë. Kjo do të thotë që po i bëjmë telefonat e mençur më pak të shtrenjtë dhe më të fuqishëm, për t’u lejuar më shumë njerëzve të përfitojnë plotësisht prej fuqisë së Web-it, për t’u dhënë bashkësive dhe individëve lirinë që të çajnë vetë shtegun e tyre, të fuqizojnë zërin e tyre, ta kontrollojnë dhe transformojnë të ardhmen."
+
+#: flicks/base/templates/home.html:8
+msgid "A Global Video Contest to Mobilize the Web"
+msgstr "Një Konkurs Mbarëbotëror Videosh Për Mobilizimin e Web-it"
+
+#: flicks/base/templates/home.html:24
+msgid "You&#8217;re the director. Mobile is the star."
+msgstr "Regjisori jeni ju. Ylli është celulari."
+
+#: flicks/base/templates/home.html:28
+msgid "Enter Firefox Flicks, a global video contest about the power of the Web on mobile devices, and get your film seen by millions."
+msgstr "Merrni  pjesë te Firefox Flicks, një konkurs mbarëbotëror videosh mbi fuqinë e Web-it në pajisje celulare, dhe bëni që filmi juaj të shihet nga miliona vetë."
+
+#: flicks/base/templates/home.html:33
+msgid "Welcome to Firefox Flicks, the global video contest about the power of the Web on mobile devices."
+msgstr "Merrni  pjesë te Firefox Flicks, një konkurs mbarëbotëror videosh mbi fuqinë e Web-it në pajisje celulare."
+
+#: flicks/base/templates/home.html:79
+msgid "We're looking for videos that tell the story of how having access to the Web through a mobile device can change the way you see the world and how you function within it. You could win some <a href=\"#prizes\" class=\"scroll\">great prizes</a> and be seen by <a href=\"#judges\" class=\"scroll\">celebrity judges</a> who can make your moviemaking dreams come true."
+msgstr "Po kërkojmë video që rrëfejnë historinë se si përdorimi i Web-it përmes një pajisje celulare mund të ndryshojë mënyrën se si e shihni botën dhe se si funksiononi brenda saj. Mund të fitoni <a href=\"#prizes\" class=\"scroll\">çmime të vyera</a> dhe punët tuaja të shihen nga <a href=\"#judges\" class=\"scroll\">figura të famshme në rolin e anëtarëve të jurisë</a> që mund ta bëjnë realitet ëndrrën tuaj për t’u marrë me filma."
+
+#: flicks/base/templates/home.html:86
+msgid "Firefox Flicks is a global video competition encouraging filmmakers to educate others about the issues that affect our online lives. This year, it's all about the power that having access to the Web through mobile devices gives people and how that power can change the way we see the world and function within it."
+msgstr "Firefox Flicks-i është një konkurs mbarëbotëror që i nxit krijuesit e filmave të edukojnë njerëzit rreth çështjeve që prekin jetën tonë online. Këtë vit, jemi përqendruar te fuqia që u jep njerëzve pasja e mundësisë së përdorimit të Web-it përmes pajisjesh celulare, dhe se si kjo fuqi mund të ndryshojë mënyrën se si e shihni botën dhe mënyrën se si funksiononi ju brenda saj."
+
+#: flicks/base/templates/home.html:100
+msgid "How do I enter?"
+msgstr "Si të marr pjesë?"
+
+#: flicks/base/templates/home.html:101
+msgid "What is the deadline?"
+msgstr "Cili është afati i fundit?"
+
+#: flicks/base/templates/home.html:104
+#: flicks/base/templates/home.html:105
+msgid "Play a short introduction video"
+msgstr "Shihni një video të shkurtër hyrëse"
+
+#: flicks/base/templates/home.html:109
+msgid "Learn more about Firefox OS, the open, Web-based operating system for mobile devices, and get answers to all your other questions."
+msgstr "Mësoni më tepër rreth Firefox OS-it, sistemin operativ të hapur, me bazë Web, për pajisje celulare, dhe merrni përgjigje për krejt pyetjet tuaja."
+
+#: flicks/base/templates/home.html:114
+msgid "Read the FAQ"
+msgstr "Lexoni FAQ-et"
+
+#: flicks/base/templates/home.html:123
+#: flicks/base/templates/shared/header.html:16
+msgid "2013 Flicks"
+msgstr "Video të 2013-s"
+
+#: flicks/base/templates/home.html:126
+msgid "Use the materials below to get inspired and to help you make your flick."
+msgstr "Përdorni materialet më poshtë për frymëzim dhe ndihmë në krijimin e videos suaj."
+
+#: flicks/base/templates/home.html:131
+#: flicks/base/templates/home_cta.html:36
+msgid "See Early Entry Award winners"
+msgstr "Shihni fituesit e Çmimit të Pjesëmarrjes së Hershme"
+
+#: flicks/base/templates/home.html:132
+#: flicks/base/templates/home_cta.html:6
+#: flicks/base/templates/home_cta.html:61
+msgid "View the gallery of entries"
+msgstr "Shihni galerinë e punëve pjesëmarrëse"
+
+#: flicks/base/templates/home.html:133
+#: flicks/base/templates/home_cta.html:17
+msgid "Read the creative brief"
+msgstr "Lexoni përshkrimin përmbledhës të projektit"
+
+#: flicks/base/templates/home.html:134
+msgid "Download the creative assets"
+msgstr "Shkarkoni asete krijimi"
+
+#: flicks/base/templates/home.html:138
+msgid "See what last year's winners have to say about their experience."
+msgstr "Shihni se ç’thonë fituesit rreth përvojës së tyre."
+
+#: flicks/base/templates/home.html:142
+msgid "(Please note that last year's theme was Firefox. This year it's about the power of the Web on mobile devices.)"
+msgstr "(Ju lutemi, mbani parasysh që tema e vitit të shkuar qe Firefox-i. Këtë vit ajo lidhet me fuqinë e Web-it në pajisje celulare.)"
+
+#: flicks/base/templates/home.html:206
+#: flicks/base/templates/judges.html:15
+msgid "Meet the judges"
+msgstr "Njihuni me anëtarët e jurisë"
+
+#: flicks/base/templates/home.html:210
+msgid "Get to know our illustrious panel of celebrity judges &ndash; led by actor, director, producer and activist Edward Norton &ndash; who helped us choose this year's winners."
+msgstr "Njihuni me figurat e njohura, anëtarët e jurisë sonë të ndritur &ndash; të drejtuar nga aktori, regjisori, producenti dhe veprimtari Edward Norton &ndash; i cili na ndihmoi në zgjedhjen e fituesit të sivjetshëm."
+
+#: flicks/base/templates/home.html:216
+msgid "Get to know our illustrious panel of celebrity judges &ndash; led by actor, director, producer and activist Edward Norton &ndash; who will see your flick and help us choose this year's winner."
+msgstr "Njihuni me figurat e njohura, anëtarët e jurisë sonë të ndritur &ndash; të drejtuar nga aktori, regjisori, producenti dhe veprimtari Edward Norton &ndash; e cila do të shqyrtojë videot tuaja dhe do të na ndihmojë të zgjedhim fituesin e sivjetshëm."
+
+#: flicks/base/templates/home.html:225
+msgid "Click on each photo for a full bio."
+msgstr "Për jetëshkrim të plotë, klikoni mbi secilën foto."
+
+#: flicks/base/templates/home.html:236
+#: flicks/base/templates/home.html:347
+#: flicks/base/templates/home.html:397
+#: flicks/base/templates/judge_macros.html:6
+#: flicks/base/templates/judge_macros.html:170
+#: flicks/base/templates/judge_macros.html:242
+msgid "Producer"
+msgstr "Producent"
+
+#: flicks/base/templates/home.html:244
+msgid "<abbr title=\"Executive Vice President\">EVP</abbr>, Global Sales and Marketing, Panavision"
+msgstr "<abbr title=\"Executive Vice President\">Zëvendëspresident Ekzekutiv</abbr>, për Shitjet dhe Marketingun Global, Panavision"
+
+#: flicks/base/templates/home.html:250
+msgid "Panavision is excited to partner once again with the Firefox Flicks team. As partners, we are really interested in working with talented storytellers to share some of the 60-plus years of experience we have in filmmaking and stay at the forefront of the industry's transition to digital cinematography."
+msgstr ""
+"Panavision-i është i ngazëllyer të jetë edhe një herë partner i ekipit të "
+"Firefox Flicks-it. Si partnerë, jemi vërtet të interesuar të punojmë me "
+"rrëfimtarë të talentuar duke ndarë me ta një pjesë të përvojës gjashtëdhjetë "
+"e ca vjeçare së fituar në krijim filmash dhe të të qenit në pararojë të "
+"tranzicionit të industrisë së filmit drejt kinematografisë dixhitale."
+
+#: flicks/base/templates/home.html:269
+#: flicks/base/templates/judge_macros.html:51
+msgid "Founder, Black List"
+msgstr "Themelues i Black List-ës"
+
+#: flicks/base/templates/home.html:275
+msgid "My livelihood is built on spotting talent early and introducing them to Hollywood. Working with Firefox on the 2013 Flicks campaign is a natural extension of that work &ndash; creating access to the film industry for unknown but talented storytellers who will go on to make the films that will inspire the generation that follows behind them. We now live in a world where the only distance between that network and those storytellers can and should be a browser window, and I'm incredibly excited to be working with Firefox to make sure that's true."
+msgstr "Jetesën e fitoj duke zbuluar talente herët dhe duke i prezantuar ato në Hollivud. Puna me Firefox-in për fushatën Flicks 2013 është një zgjerim natyror i kësaj veprimtarie &ndash; hapja e rrugëve drejt industrisë së filmit për rrëfimtarë të panjohur, por të talentuar, të cilët do të ecin përpara për të krijuar filma që do të frymëzojnë brezin që vjen pas tyre. Tani rrojmë në një botë ku largësia e vetme mes këtij rrjeti dhe atyre rrëfimtarëve mund dhe duhet të jetë një dritare shfletuesi, dhe jam tej mase i ngazëllyer që do të punoj me Firefox-in për të siguruar realizimin e kësaj."
+
+#: flicks/base/templates/home.html:297
+#: flicks/base/templates/judge_macros.html:80
+msgid "Actor, Director, Producer, Activist"
+msgstr "Aktor, Regjisor, Producent, Veprimtar"
+
+#: flicks/base/templates/home.html:303
+msgid "What I think is really cool about Firefox Flicks is that it marries that core philosophy of liberating people to say what they want to say and connects it to something that's happening in the arts and film."
+msgstr "Ajo që mendoj se është vërtet e këndshme te Firefox Flicks është që puq filozofinë bazë të çlirimit të njerëzve që të thonë çka duan të thonë dhe e lidh këtë me diçka që po ndodh me artet dhe filmin."
+
+#: flicks/base/templates/home.html:321
+#: flicks/base/templates/judge_macros.html:127
+msgid "General Manager, <abbr title=\"Europe, the Middle East, and Africa\">EMEA</abbr> Marketing, Dolby"
+msgstr "Drejtor i Përgjithshëm, Marketingu për <abbr title=\"Europë, Lindje e Mesme, dhe Afrikë\">EMEA-n</abbr>, Dolby"
+
+#: flicks/base/templates/home.html:327
+msgid "Sound and cinema have been inextricably linked since the movies started talking to us. Partnering with Firefox Flicks is a natural fit for Dolby as we're passionate about using sound to tell great stories through the medium of film. We're looking forward to helping young filmmakers capture the power of sound to deliver unforgettable experiences in their films."
+msgstr "Tingulli dhe kinemaja kanë qenë pandashmërisht të lidhura, qëkur filmat zunë të na flasin. Partneriteti me Firefox Flicks është diçka natyrale për Dolby-n, sa kohë që e kemi me pasion përdorimin e tingullit për të rrëfyer shembuj të bukur përmes filmit si medium. Duam të ndihmojmë krijues të rinj të filmit të arrijnë të përdorin fuqinë e tingullit për të transmetuar përjetime të paharrueshme në filmat e tyre."
+
+#: flicks/base/templates/home.html:353
+msgid "I'm a firm believer that if you have the talent and you work hard all you need to succeed is the right forum. That's what excites me about Firefox Flicks. It gives aspiring film students and filmmakers a forum that showcases their talent to millions of people around the globe and gives them access to folks that can change the trajectory of their careers."
+msgstr "Besoj me vendosmëri që, nëse keni talent dhe punoni fort, krejt çka ju duhet për të arritur suksesin është forumi i duhur. Kjo është ajo që më ngazëllen te Firefox Flicks-i. U jep studentëve që aspirojnë për filmin dhe krijuesve të filmit një forum ku të shpalosin talentin e tyre për miliona njerëz anembanë globit dhe u hap dyert për te njerëz të cilët mund t’u ndryshojnë trajektoren e karrierës së tyre."
+
+#: flicks/base/templates/home.html:373
+#: flicks/base/templates/judge_macros.html:198
+msgid "Actor"
+msgstr "Aktor"
+
+#: flicks/base/templates/home.html:379
+msgid "I love working with companies that give opportunities to independent artist, by combining technology and art Firefox is doing just that! Thank you Firefox Flicks for opening doors and allowing me to be a part of the process!"
+msgstr "Më pëlqen shumë të punoj me kompani që u japin mundësi artistëve të pavarur, duke ndërthurur teknologjinë me artin Firefox-i po bën pikërisht këtë! Faleminderit Firefox Flicks që po hap dyert dhe po më lejon të jem pjesë e këtij procesi!"
+
+#: flicks/base/templates/home.html:403
+msgid "Now that technology has helped democratize film production, it's important for technology to democratize its distribution and there is no more democratic distribution mechanism than the web browser. I'm excited to work with Mozilla and its community of creators to help tell original stories and deliver them to audiences around the world."
+msgstr "Tani që teknologjia ndihmoi të demokratizohej prodhimi i filmit, është e rëndësishme për teknologjinë të demokratizojë shpërndarjen e tij dhe nuk ka mekanizëm më demokratik për shpërndarjen se sa shfletuesi web. Jam i ngazëllyer të punoj me Mozilla-n dhe bashkësinë e saj të krijuesve për të ndihmuar të rrëfehen shembuj origjinalë dhe për t’ua transmetuar ato audiencave anembanë botës."
+
+#: flicks/base/templates/home.html:423
+#: flicks/base/templates/judge_macros.html:266
+msgid "Cinematographer"
+msgstr "Operator"
+
+#: flicks/base/templates/home.html:429
+msgid "For over 30 years, I have been constantly engaged in filming the connections we all share, as humans, with the rest of our planet. The moments that make us inspired and connect us to the universe through the celebration of life. Firefox Flicks is all about connecting people through the mobile web and I'm more than happy to share my perspective with the filmmakers of tomorrow in this pursuit."
+msgstr "Për më shumë 30 vjet kam qenë përherë i zënë me filmimin e lidhjeve që krejt ne ndajmë me të tjerët, si qenie njerëzore, me pjesën tjetër të planetit. Çastet që na frymëzojnë dhe na lidhin me gjithësinë përmes kremtimit të jetës. Firefox Flicks-i merret me lidhjen e njerëzve përmes web-it për celular dhe jam i lumtur që ndaj me artistët e filmit të së nesërmes optikën time në këtë shteg."
+
+#: flicks/base/templates/home.html:449
+#: flicks/base/templates/judge_macros.html:307
+msgid "Producer, Director"
+msgstr "Producent, Regjisor"
+
+#: flicks/base/templates/home.html:463
+#: flicks/base/templates/shared/header.html:19
+msgid "Prizes"
+msgstr "Çmime"
+
+#: flicks/base/templates/home.html:467
+msgid "There are many chances and ways to win throughout the competition. That means you're not just in the running for the Grand Prize, but you could win a Regional Prize, People's Choice Award and Early Entry Award as well. Plus, the top three entries from each film festival automatically move on to the finals and a chance at the top prize (so get your flick in early). And just for entering, everyone gets a little something from us to say thanks."
+msgstr "Ka mjaft mundësi dhe mënyra që të fitoni në konkurs. Kjo do të thotë që nuk po përpiqeni të fitoni thjesht Çmimin e Madh, por mund të fitoni po ashtu edhe një Çmim Rajonal, Çmimin e Zgjedhjes së Publikut dhe Çmimin e Pjesëmarrjes së Hershme. Plus, tre zërat kryesues për secilin festival filmi kalojnë automatikisht në finalet dhe kanë shans për çmim më të lartë (ndaj parashtrojeni herët videon tuaj). Dhe, thjesht vetëm për pjesëmarrjen, do t’ju dërgojmë diçka të vogël si falënderim."
+
+#: flicks/base/templates/home.html:482
+msgid "Here's a more detailed look at what you can win, but check back for prize updates throughout the contest."
+msgstr "Ja një pamje më e hollësishme se çfarë mund të fitoni, por kontrolloni herë pas here për përditësime të tyre përgjatë periudhës së konkursit."
+
+#: flicks/base/templates/home.html:489
+#: flicks/videos/templates/videos/2013/winners.html:31
+msgid "Grand Prize"
+msgstr "Çmimi i Madh"
+
+#: flicks/base/templates/home.html:491
+msgid "The winner (or winning team) will fly to Los Angeles to work with producers (and Flicks judges) Franklin Leonard and Couper Samuelson, and representatives from Panavision to professionally produce their winning entry using professional equipment. The winning team will also get a one-day training session at the Dolby Institute in LA, as well as an invitation to a movie premiere and after-party at the Dolby Theater (if timing allows)."
+msgstr "Fituesi (ose ekipi fitues) do të fluturojë drejt Los Anxhelesit për të punuar me producentët (dhe anëtarët e jurisë së Flicks-it) Franklin Leonard dhe Couper Samuelson, dhe me përfaqësues të Panavision-it, për të prodhuar profesionalisht videon e tyre fituese duke përdorur pajisje profesionale. Ekipi fitues do të përfitojë edhe një sesion praktike njëditore në Dolby Institute në LA, si edhe një ftesë për në një premierë filmi dhe pritjen pas saj, në Dolby Theater (nëse e lejon koha)."
+
+#: flicks/base/templates/home.html:503
+#: flicks/videos/templates/videos/2013/winners.html:58
+msgid "Regional Prizes"
+msgstr "Çmimet Rajonale"
+
+#: flicks/base/templates/home.html:505
+msgid "A $5,000 top prize and $2,500 for the runner-up will go to the top two flicks from each of the contest regions: Latin America, North America, Asia Pacific and Europe, the Middle East and Africa."
+msgstr "Për dy videot kryesuese do të akordohet një çmim i parë prej 5000 dollarësh amerikanë dhe 2500 për vendin e dytë, për secilin rajon të konkursit: Amerikë e Jugut, Amerikë e Veriut, Azia Paqësor dhe Europë, Lindje e Mesme dhe Afrikë."
+
+#: flicks/base/templates/home.html:514
+msgid "People's Choice Awards"
+msgstr "Çmimi Zgjedhja e Publikut"
+
+#: flicks/base/templates/home.html:516
+msgid "All flicks submitted by July 31 are eligible. The 3 that earn the most votes in August win a Firefox Flicks swag bag and will be posted on our channels for millions to see."
+msgstr "Pranohen krejt videot e parashtruara deri më 31 Korrik. Ato 3 që fitojnë më tepër vota gjatë Gushtit, fitojnë një paketë gjërash Firefox Flicks dhe do të postohen te kanalet tona që të shihen nga miliona shikues."
+
+#: flicks/base/templates/home.html:525
+msgid "Early Entry Awards"
+msgstr "Çmimet e Pjesëmarrjes së Hershme"
+
+#: flicks/base/templates/home.html:527
+msgid "There will be multiple chances to win $1,000 for submitting your flick early. Enter before the deadlines listed below to be eligible:"
+msgstr "Do të ketë mundësi të shumëfishta për të fituar 1000 dollarë amerikanë nga parashtrimi herët i videos suaj. Merrni pjesë brenda afateve të festivaleve të filmave radhitur më poshtë, që të konsideroheni kandidat:"
+
+#: flicks/base/templates/home.html:546
+#: flicks/base/templates/shared/header.html:20
+msgid "Rules"
+msgstr "Rregulla"
+
+#: flicks/base/templates/home.html:549
+msgid "We want to give budding filmmakers the opportunity to create and submit short videos about letting people discover, access and enjoy more content that matters most to them and their future. The contest will run worldwide and winners will be chosen from four regions around the world: North America, Latin America, Asia Pacific and Europe, the Middle East and Africa. <a href=\"%(rules_link)s\">Read the complete official contest rules to learn more</a>. Your flick must be submitted under a <a href=\"%(link_cclicense)s\" rel=\"external\">Creative Commons - NonCommercial-ShareAlike license</a>"
+msgstr "Duam t’u japim krijuesve të ardhshëm të filmit mundësinë të krijojnë dhe parashtrojnë video të shkurtra lidhur me zbulimin, përdorimin dhe shijimin e lëndës që ka më tepër vlerë për ta dhe për të ardhmen e tyre. Konkursi vlen për mbarë botën dhe fituesit do të zgjidhen nga katër rajone të saj: Amerika e Veriut, Amerika e Jugut, Azia dhe Paqësori, dhe Europa, Lindja e Mesme dhe Afrika. <a href=\"%(rules_link)s\">Që të mësoni më tepër, lexoni rregullat e plota zyrtare të konkursit</a>. Videoja juaj duhet parashtruar sipas një licence <a href=\"%(link_cclicense)s\" rel=\"external\">Creative Commons - NonCommercial-ShareAlike</a>."
+
+#: flicks/base/templates/home.html:563
+msgid "Sponsor"
+msgstr "Sponsor"
+
+#: flicks/base/templates/home.html:565
+msgid "The sponsor of the contest is the Mozilla Corporation."
+msgstr "Sponsor i konkursit është Mozilla Corporation."
+
+#: flicks/base/templates/home.html:570
+msgid "Eligibility"
+msgstr "Kush mund të marrë pjesë"
+
+#: flicks/base/templates/home.html:572
+msgid "No purchase or fee is necessary to enter or claim any prize."
+msgstr "Nuk është e domosdoshme ndonjë pagesë, as nuk lypset blerja e diçkaje, për të pretenduar cilindo nga çmimet."
+
+#: flicks/base/templates/home.html:577
+msgid "Contest period"
+msgstr "Kohëzgjatje e konkursit"
+
+#: flicks/base/templates/home.html:579
+msgid "The Contest begins at 3:00 p.m. Pacific Standard Time (PST) (11:00 p.m. GMT) on Wednesday, February 13, 2013, and ends at 11:59 p.m. PST on Wednesday, July 31, 2013 (7:59 a.m. GMT on August 1, 2013)."
+msgstr "Konkursi fillon më 3:00 p.m. Pacific Standard Time (PST) (11:00 p.m. GMT) të Mërkurën, 13 Shkurt, 2013, dhe përfundon më 11:59 p.m. PST të Mërkurën, 31 Korrik, 2013 (7:59 a.m. GMT më 1 Gusht, 2013)."
+
+#: flicks/base/templates/home.html:586
+msgid "Privacy"
+msgstr "Privatësi"
+
+#: flicks/base/templates/home.html:588
+msgid "In order to enter, you'll have to provide your name, email address and country of residence (to determine your contest region). Your name and region will be posted along with your flick in the public galleries, where they can be viewed, liked and shared by everyone. <a href=\"%(rules_link)s\">Read the complete contest rules to learn more.</a>"
+msgstr "Që të mund të merrni pjesë, do t’ju duhet të jepni emrin tuaj, adresën email dhe vendin e banimit (për përcaktimin e rajonit të konkursit). Emri dhe rajoni juaj do të shfaqen bashkë me videon tuaj në galeri publike, prej nga mund të shihen, referohen dhe ndahen me të tjerët nga kushdo. <a href=\"%(rules_link)s\">Që të mësoni më tepër rreth kësaj, lexoni rregullat e plota të konkursit.</a>"
+
+#: flicks/base/templates/home.html:596
+msgid "How to enter"
+msgstr "Si të merret pjesë"
+
+#: flicks/base/templates/home.html:598
+msgid "Nice work! You made it all the way to the end. When you're ready, <a href=\"%(submit_url)s\" class=\"requires-auth\">start here to submit your flick.</a>"
+msgstr "Punë e bukur! Ia dolët të mbërrini deri në fund. Kur të jeni gati, <a href=\"%(submit_url)s\" class=\"requires-auth\">filloni të parashtroni videon tuaj këtu.</a>"
+
+#: flicks/base/templates/home.html:607
+msgid "The contest is now closed. The winners will be announced on September 12 at the Toronto International Film Festival."
+msgstr "Gara tani është mbyllur. Fituesit do të bëhen të ditur më 12 Shtator në Festivalin Ndërkombëtar të Filmit Në Toronto."
+
+#: flicks/base/templates/home.html:616
+msgid "The contest is now closed."
+msgstr "Gara tani është e mbyllur"
+
+#: flicks/base/templates/home_cta.html:3
+msgid "Meet your competition"
+msgstr "Njihuni me konkursin"
+
+#: flicks/base/templates/home_cta.html:14
+msgid "Start thinking about your flick"
+msgstr "Filloni të mendoni për videon tuaj"
+
+#: flicks/base/templates/home_cta.html:25
+msgid "Submit your flick today"
+msgstr "Parashtrojeni videon tuaj sot"
+
+#: flicks/base/templates/home_cta.html:28
+msgid "Start here"
+msgstr "Fillojani këtu"
+
+#: flicks/base/templates/home_cta.html:39
+msgid "View the winning flicks so far"
+msgstr "Shihni videot fituese deri më sot"
+
+#: flicks/base/templates/home_cta.html:47
+msgid "Vote for the People's Choice Award"
+msgstr "Votoni për Çmimin e Zgjedhjes së Publikut"
+
+#: flicks/base/templates/home_cta.html:50
+msgid "Choose your favorites here"
+msgstr "Zgjidhni të parapëlqyerat tuaja"
+
+#: flicks/base/templates/home_cta.html:58
+msgid "Explore 2013 Flicks"
+msgstr "Eksploroni Videot e 2013-s"
+
+#: flicks/base/templates/home_cta.html:69
+msgid "Meet our partners"
+msgstr "Njihuni me partnerët tanë"
+
+#: flicks/base/templates/home_cta.html:72
+msgid "Get to know our friends who made Flicks 2013 possible"
+msgstr "Njihuni me miqtë tanë që bënë të mundur Flicks 2013"
+
+#: flicks/base/templates/home_cta.html:80
+msgid "See Firefox Flicks 2013 winners"
+msgstr "Shihni fituesit për Firefox Flicks 2013"
+
+#: flicks/base/templates/home_cta.html:83
+msgid "Watch the winning entries"
+msgstr "Shihni zërat fitues"
+
+#: flicks/base/templates/judge_macros.html:9
+msgid "Helen Estabrook is the producing partner of director Jason Reitman and runs their production company, Right of Way Films. She most recently produced Reitman's upcoming film, <cite>Labor Day</cite>, starring Josh Brolin and Kate Winslet. Currently, they are producing a feature adaptation of the Sundance-winning short <cite>Whiplash</cite>, directed by Damien Chazelle. Helen also served as an executive producer on the Duplass Brothers' film <cite>Jeff, Who Lives at Home</cite> and Reitman's previous feature, <cite>Young Adult</cite>."
+msgstr "Helen Estabrook është partnere produksioni e regjisorit Jason Reitman dhe drejton kompaninë e tyre të produksionit, Right of Way Films. Tani së fundi punoi produksionin e filmit të ardhshëm të Reitman-it, <cite>Labor Day</cite>, me Josh Brolin dhe Kate Winslet në rolet kryesore. Tani po merren me një përshtatje të filmit të shkurtër <cite>Whiplash</cite>, të regjisorit Damien Chazelle, fitues i një çmimi Sundance. Estabrook ka qenë edhe producente ekzekutive në filmin e Vëllezërve Duplass, <cite>Jeff, Who Lives at Home</cite> dhe atë të mëparshëm të Reitman-it, <cite>Young Adult</cite>."
+
+#: flicks/base/templates/judge_macros.html:26
+msgid "<abbr title=\"Exectuve Vice President\">EVP</abbr>, Global Sales and Marketing, Panavision"
+msgstr "<abbr title=\"Executive Vice President\">Zëvendëspresident Ekzekutiv</abbr>, për Shitjet dhe Marketingun Global, Panavision"
+
+#: flicks/base/templates/judge_macros.html:29
+msgid "Bob Harvey, EVP Global Sales and Marketing for Panavision, the premier supplier of cinematography equipment to the motion picture industry for the second half of the 20th century, has been in the business for over 30 years. While working for Atari as Director of Sales for the coin op division, owned by Warner Communications, he became friendly with Clint Eastwood who helped him secure his SAG card in 1982. Warner transferred him to Panavision in 1984 where he started as Director of Marketing. He became very involved with production from start to finish of principal photography. He is a member of the American Society of Cinematographers, a charter member of the IFP for independent films, a recipient of a FINDI award for his work with new and independent filmmakers and is thought of as a mentor to many successful filmmakers today."
+msgstr "Bob Harvey, Zëvendëspresident Ekzekutiv për Shitjet dhe Marketingun Global për Panavision-in, furnizuesi cilësor i pajisjeve kinematografike për industrinë e filmit gjatë gjysmës së dytë të shekullit të 20-ë, ka mbi 30 vjet në biznes. Kur punonte për Atari-n si drejtor i shitjeve për degën e makinave të lojërave me pagesë me monedha, pronë e Warner Communications, u miqësua me Clint Eastwood-in që e ndihmoi të anëtarësohej në SAG më 1982-shin. Warner-i e transferoi te Panavision-i më 1984-n ku ia filloi si drejtor i marketingut. Aty u mor shumë me prodhimin nga fillimi në fund të fotografisë bazë. Është anëtar i American Society of Cinematographers, anëtar themelues i IFP-së për filmat e pavarur, vlerësuar me çmim nga FINDI për veprimtarinë e tij me krijues të rinj dhe të pavarur të filmit dhe konsiderohet si mësues i mjaft krijuesish të suksesshëm të filmit sot."
+
+#: flicks/base/templates/judge_macros.html:54
+msgid "Franklin Leonard is the founder of the Black List, the yearly publication highlighting Hollywood's most popular unproduced screenplays and the startup birthed to continue its mission. Over 200 Black List scripts have been produced as feature films earning more than 140 Academy Award nominations including two of the last four Best Pictures and five of the last ten screenwriting Oscars. Franklin has worked in development at Universal Pictures and the production companies of Will Smith, Sydney Pollack and Anthony Minghella, Leonardo DiCaprio, and John Goldwyn. Before Los Angeles and all things film related, Franklin was &ndash; at different times &ndash; a business analyst at McKinsey & Co., a weekly columnist for the Trinidad Guardian in Port-au-Spain, Trinidad, and the communications director for John Cranley's 2000 campaign for the U.S. House of Representatives in Ohio's first district. Since 2010, he has been named one of Hollywood Reporter's 30 Under 30, Black Enterprise magazine's \"40 Emerging Leaders for Our Future,\" AOL Black Voices \"30 Black Hollywood Game Changers\"\" and Fast Company's \"100 Most Creative People in Business.\""
+msgstr "Franklin Leonard është themeluesi i Black List-ës, botimi vjetor që nxjerr në pah skenarët më popullorë të paprodhuar të Hollivudit dhe i kompanisë së lindur për të vazhduar misionin e saj. Mbi 200 skenarë nga Black List-a janë prodhuar si filma, duke fituar më shumë se 140 kandidime për Çmime të Akademisë, përfshi 2 nga katër çmimet e fundit Filmi Më i Mirë dhe pesë nga dhjetë çmimet Oskar për skenarin. Franklin ka punuar në zhvillim te Universal Pictures dhe kompanitë producente të Will Smith-it, Sydney Pollack-ut dhe Anthony Minghella-s, Leonardo DiCaprio-s, dhe John Goldwyn-it. Para Los Angelesit dhe krejt punëve të lidhura me filmin, Franklin ka qenë &ndash; në kohë të ndryshme &ndash; analist biznesi te McKinsey & Co., autor i një artikulli të përjavshëm për Trinidad Guardian në Port-au-Spain, Trinidad, dhe drejtor i komunikacionit për fushatën e 2000-shit të John Cranley-it për Dhomën e Përfaqësuesve në SHBA, distrikti i parë i Ohajos. Prej 2010-s, është cilësuar si një nga Hollywood Reporter's 30 Under 30, \"40 Drejtuesit e të Ardhmes Sonë Në Ngritje e Sipër\" sipas revistës Black Enterprise, AOL Black Voices \"30 Black Hollywood Game Changers\"\" dhe \"100 Personat Më Krijues në Biznes\" sipas Fast Company-së."
+
+#: flicks/base/templates/judge_macros.html:84
+msgid "Edward Norton has acted in the films <cite>Primal Fear</cite>, <cite>Everyone Says I Love You</cite>, <cite>The People vs Larry Flynt</cite>, <cite>American History X</cite>, <cite>Rounders</cite>, <cite>Fight Club</cite>, <cite>Keeping the Faith</cite>, <cite>The Score</cite>, <cite>Death to Smoochy</cite>, <cite>Frida</cite>, <cite>Red Dragon</cite>, <cite>The 25th Hour</cite>, <cite>The Italian Job</cite>, <cite>Down in the Valley</cite>, <cite>The Kingdom of Heaven</cite>, <cite>The Illusionist</cite>, <cite>The Painted Veil</cite>, <cite>The Incredible Hulk</cite>, <cite>Pride & Glory</cite>, <cite>Leaves of Grass</cite>, <cite>Stone</cite> and <cite>Moonrise Kingdom</cite>."
+msgstr "Edward Norton ka luajtur në filmat <cite>Primal Fear</cite>, <cite>Everyone Says I Love You</cite>, <cite>The People vs Larry Flynt</cite>, <cite>American History X</cite>, <cite>Rounders</cite>, <cite>Fight Club</cite>, <cite>Keeping the Faith</cite>, <cite>The Score</cite>, <cite>Death to Smoochy</cite>, <cite>Frida</cite>, <cite>Red Dragon</cite>, <cite>The 25th Hour</cite>, <cite>The Italian Job</cite>, <cite>Down in the Valley</cite>, <cite>The Kingdom of Heaven</cite>, <cite>The Illusionist</cite>, <cite>The Painted Veil</cite>, <cite>The Incredible Hulk</cite>, <cite>Pride & Glory</cite>, <cite>Leaves of Grass</cite>, <cite>Stone</cite> dhe <cite>Moonrise Kingdom</cite>."
+
+#: flicks/base/templates/judge_macros.html:98
+msgid "He has been nominated for two Academy Awards &ndash; for <cite>Primal Fear</cite> and <cite>American History X</cite> &ndash; and won a Golden Globe along with numerous other awards for his performances. He produced and directed <cite>Keeping the Faith</cite> and also produced <cite>Down in the Valley</cite> (Cannes Film Festival selection), <cite>The Painted Veil</cite>, <cite>Leaves of Grass</cite> and the documentary <cite>By The People: The Election of Barack Obama</cite>."
+msgstr "Ka qenë pretendent dy herë për Çmimet e Akademisë, &ndash; për <cite>Primal Fear</cite> dhe <cite>American History X</cite> &ndash; dhe ka fituar Glob të Artë, përveç një numri të madh çmimesh të tjera për arritjet e veta. Është regjisor dhe producent i <cite>Keeping the Faith</cite> si dhe producent i <cite>Down in the Valley</cite> (i përzgjedhur në Festivalin e Filmit në Kanë), <cite>The Painted Veil</cite>, <cite>Leaves of Grass</cite> dhe i dokumentarit <cite>By The People: The Election of Barack Obama</cite>."
+
+#: flicks/base/templates/judge_macros.html:109
+msgid "Norton is also a committed social and environmental activist, supporting the UN Convention on Biological Diversity, the President's Committee for the Arts and Humanities, Enterprise Community Partners, the Maasai Wilderness Conservation Trust, the Libby Rouse Fund for Peace, the Signature Theater Company and Friends of the High Line. Recently Norton founded CrowdRise, an innovative new web platform that brings the power of crowd-sourcing and the fun of social networking to fundraising and volunteerism."
+msgstr "Norton-i është gjithashtu veprimtari i përkushtuar për çështje shoqërore dhe mjedisore, ka përkrahur Konventën e OKB-së për Larminë Biologjike, Komitetin Presidencial për Artet dhe Shkencat Humanitare, organizmat Enterprise Community Partners, Maasai Wilderness Conservation Trust, Libby Rouse Fund for Peace, Signature Theater Company and Friends of the High Line. Tani afër Norton-i themeloi CrowdRise, një platformë të re web, risore, që sjell te vullnetarizmi dhe mbledhja e fondeve fuqinë e pjesëmarrjes masive dhe argëtimin karakteristik të rrjeteve shoqërore."
+
+#: flicks/base/templates/judge_macros.html:130
+msgid "As General Manager, EMEA Marketing, Catherine Ogilvie is responsible for brand, product, and partner marketing throughout Europe, the Middle East, and Africa (<abbr>EMEA</abbr>). Catherine joined Dolby in 2009 as Vice President, Global Corporate Communications."
+msgstr "Si Drejtore e Përgjithshme, EMEA Marketing, Catherine Ogilvie është përgjegjëse e marketingut të markave, produkteve dhe partnerëve për Europën, Lindjen e Mesme, dhe Afrikën (<abbr>EMEA</abbr>). Catherine erdhi në Dolby më 2009-n si Zëvendëspresidente, Global Corporate Communications."
+
+#: flicks/base/templates/judge_macros.html:138
+msgid "Prior to starting at Dolby, Catherine was Executive Vice President and General Manager at Edelman, the world's largest independent PR agency, where she led the San Francisco office, building award-winning integrated communications programs for clients."
+msgstr "Para se të mbërrinte në Dolby, Katerina qe Nënpresidente Ekzekutive dhe Drejtore e Përgjithshme te Edelman, agjencia e pavarur PR më e madhe në botë, tek e cila drejtonte zyrën e San Franciskos, duke ndërtuar për klientët programe komunikimi të integruar të nderuar me çmime."
+
+#: flicks/base/templates/judge_macros.html:146
+msgid "Previously, Catherine served as Director, Global Marketing and Communications, for the Almond Board of California, and as Senior Director, Marketing, for Napster, the original peer-to-peer music service. Catherine has also worked as a management consultant based in Munich, Germany, working with international media clients such as Bertelsmann, Kirch Gruppe, and Universal Studios."
+msgstr "Më parë, Katerina ka punuar si Drejtore Marketingu dhe Komunikimi Global, te Almond Board of California, dhe Drejtore Marketingu te Napster, shërbimi fillestar peer-to-peer për muzikë. Katerina ka punuar si këshilltare administrimi në Mynih, Gjermani, duke punuar me klientë ndërkombëtarë të medias, të tillë si Bertelsmann, Kirch Gruppe, dhe Universal Studios."
+
+#: flicks/base/templates/judge_macros.html:156
+msgid "Catherine studied theatre at Dartington College of Arts in Devon, England, and pursued post-graduate business studies at the University of London earning a Master's degree in Marketing and Communication."
+msgstr "Katerina studioi për teatër në Dartington College of Arts në Devon, Angli, dhe ndoqi studime për biznes në Universitetin e Londrës, ku u diplomua për Marketing dhe Komunikim."
+
+#: flicks/base/templates/judge_macros.html:173
+msgid "Shauna Robertson has produced some of the best comedies of the last decade. Her list of credits include <cite>Meet the Parents</cite>, <cite>Elf</cite>, <cite>Anchorman</cite>, <cite>The Forty Year Old Virgin</cite>, <cite>Knocked Up</cite>, <cite>Superbad</cite>, <cite>Pineapple Express</cite> and <cite>Forgetting Sarah Marshall</cite>. Shauna is a Canadian who moved to Hollywood to start working in the movies at age 17."
+msgstr "Shauna Robertson ka prodhuar disa nga komeditë më të mira të dhjetëvjeçarit të fundit. Ndër to përfshihen <cite>Meet the Parents</cite>, <cite>Elf</cite>, <cite>Anchorman</cite>, <cite>The Forty Year Old Virgin</cite>, <cite>Knocked Up</cite>, <cite>Superbad</cite>, <cite>Pineapple Express</cite> dhe <cite>Forgetting Sarah Marshall</cite>. Shauna është një kanadeze e cila në moshën 17 vjeçe u vendos në Hollivud për të punuar në filma."
+
+#: flicks/base/templates/judge_macros.html:183
+msgid "Last year she left the movie business to pursue her dreams of working in the non profit sector. In March 2010 she and her boyfriend, Edward Norton, launched the new web based company Crowdrise that helps individuals and charities make fundraising impactful and fun."
+msgstr "Vitin e kaluar e la biznesin e filmave për të ndjekur ëndrrën e saj të punës në sektorë jofitimprurës. Në Mars 2010 ajo dhe i dashuri i saj, Edward Norton, krijuan kompaninë e re me bazë web, Crowdrise, që u ndih individëve dhe organizmave bamirëse për ta bërë mbledhjen e fondeve të efektshme dhe zbavitëse."
+
+#: flicks/base/templates/judge_macros.html:201
+msgid "Named the \"next big thing\" and one of the \"top 35 Latinos under 35,\" by <cite>The Hollywood Reporter</cite>, Gina Rodriguez's profile has been rising steadily since her breakout performance as the titular character in <cite>Filly Brown</cite> during the 2012 Sundance Film Festival. A 2012 Imagen award winner for \"Best Actress in a Feature Film: <cite>Filly Brown</cite>,\" Gina is steadily noticed by the public and entertainment industry due to her incredible acting chops and infectiously joyful personality."
+msgstr "E quajtur \"next big thing\" dhe një nga \"top 35 Latinos under 35,\" nga <cite>The Hollywood Reporter</cite>, profili i Gina Rodriguezit ka njohur ngjitje të vazhdueshme që prej debutimit të saj te <cite>Filly Brown</cite> nën rolin me të njëjtin titull, në Festivalin e Filmit Sundance 2012. Fituese e çmimit Imagen 2012 si \"Aktorja Më e Mirë në një Film me Metrazh të Gjatë: <cite>Filly Brown</cite>,\" Gina bie vazhdimisht në sy të publikut dhe botës së spektaklit për shkak të kurajës së pabesueshme në interpretim dhe personalitetit të hareshëm ngjitës."
+
+#: flicks/base/templates/judge_macros.html:212
+msgid "Growing up in Chicago, Gina Rodriguez started performing at age seven with the salsa dance company <i>Fantasia Juvenil</i>. At sixteen, Gina was one of thirteen teens to be accepted into Columbia University New York - Theatrical Collaboration, taught by Richard Niles. She was accepted into the Tisch School of the Arts, and the calling was clear; theatre was it. After the years of success in New York, Gina booked a lead role in a feature film <cite>Go For It</cite> (Lionsgate) in which she received a 2011 Imagen Awards nomination. After this, Gina booked her first co-star TV role on CBS' <cite>Eleventh Hour</cite>. She went on to book series regular roles on web series <cite>Eden's Court</cite> and <cite>No Names</cite>; her first studio film <cite>Our Family Wedding</cite> with America Ferrera; and a lead in film <cite>Superchicas</cite>. It was also recently announced that Gina has been cast in the highly coveted lead role of Pilar \"Maytag\" Robles in the Fox Navy drama pilot <cite>Wild Blue</cite>."
+msgstr "E rritur në Çikago, Gina Rodriguez ka filluar të interpretojë shtatë vjeçe me grupin e vallëzimit salsa <i>Fantasia Juvenil</i>. Gjashtëmbëdhjetë vjeçe, Gina qe një nga trembëdhjetë adoleshentët që u pranuan në kursin Theatrical Collaboration - Columbia University New York, dhënë nga Richard Niles. U pranua në Tisch School of the Arts, dhe rruga dukej qartë: teatri. Pas vitesh suksesi në Nju Jork, Gina mori një rol kryesor në filmin <cite>Go For It</cite> (Lionsgate) për të cilin fitoi kandidim për një çmim Imagen Awards 2011. Pas kësaj, Gina interpretoi një rolin e saj të parë në TV, <cite>Eleventh Hour</cite> e CBS-së. Vazhdoi me role në serialet web <cite>Eden's Court</cite> dhe <cite>No Names</cite>; filmin e parë studio <cite>Our Family Wedding</cite> me America Ferrera; dhe një rol kryesor në filmin <cite>Superchicas</cite>. Tani afër është njoftuar gjithashtu që Gina është në plan për rolin shumë të lakmuar të Pilar \"Maytag\" Robles në dramën e Fox Navy-it, <cite>Wild Blue</cite>."
+
+#: flicks/base/templates/judge_macros.html:228
+msgid "Gina is a supporter of Inspira, an organization that works to spotlight Latino leaders who shape their communities. She also works with the National Hispanic Foundation for the Arts and the Boyle Heights Learning Collaborative. She lives in Los Angeles, California."
+msgstr "Gina është një përkrahëse e Inspira-s, një organizëm që punon për të nxjerrë në pah lider Latino që u japin formë bashkësive të tyre. Ajo merret gjithashtu me veprimtari të National Hispanic Foundation-it për Arte dhe Boyle Heights Learning Collaborative. Banon në Los Anxheles, Kaliforni."
+
+#. Note: The French "Palm d'Or" is a proper name and should not be translated.
+#: flicks/base/templates/judge_macros.html:246
+msgid "Couper Samuelson runs Jason Blum's Universal-based production company Blumhouse, which in the last year has produced the horror hit <cite>Sinister</cite>, the fourth <cite>Paranormal Activity</cite> movie, and a sequel to the 2011 hit <cite>Insidious</cite>, due in the theaters this August. Prior to Blumhouse, Samuelson produced the forthcoming Paramount release, <cite>Destination Wedding</cite>. Made for $100,000, that film will be the lowest-budget feature produced and released theatrically by a major studio in the modern era. Samuelson began his career at Mark Cuban's 2929, where he co-produced movies including James Gray's <cite>We Own the Night</cite> and <cite>Two Lovers</cite>, both of which were nominated for the Cannes <i>Palme d'Or</i>."
+msgstr "Couper Samuelson drejton kompaninë e produksionit të Jason Blum-it, pjesë e Universal-it, Blumhouse, e cila vitin e kaluar prodhoi filmin e suksesshëm horror <cite>Sinister</cite>, filmin e katërt të serisë <cite>Paranormal Activity</cite>, dhe vazhdim i suksesit të 2011-s, <cite>Insidious</cite>, që do të shfaqet në sallat e kinemave në Gusht. Para Blumhouse-it, Samuelson është producent i filmit të ardhshëm të Paramount-it, <cite>Destination Wedding</cite>. I realizuar me 100 mijë dollarë, ky film do të jetë filmi me buxhetin më të vogël të prodhuar dhe hedhur në qarkullim në kohët moderne nga ndonjë studio me emër. Samuelsoni e filloi karrierën e vet me 2929-n e Mark Cuban-it, ku qe bashkëproducent filmash si <cite>We Own the Night</cite> dhe <cite>Two Lovers</cite> të James Gray-t, të kandiduar që të dy për <i>Palmën e Artë</i> në Kanë."
+
+#: flicks/base/templates/judge_macros.html:269
+msgid "Louie Schwartzberg is an award-winning producer, director, and cinematographer whose notable career spans more than three decades providing breathtaking imagery for feature films, television shows, documentaries and commercials."
+msgstr "Louie Schwartzberg është një producent i nderuar me çmime, regjisor dhe operator karriera e njohur e të cilit shtrihet në më shumë se tre dhjetëvjeçarë, duke ofruar fotografi të mahnitshme për filma, shfaqje televizive, dokumentarë dhe reklama."
+
+#: flicks/base/templates/judge_macros.html:277
+msgid "As a visual artist, Louie has created some of the most iconic and memorable film moments of our time. He is an innovator in the world of nature, aerial and \"slice-of-life\" photography &ndash; the only cinematographer in the world who has literally been shooting time-lapse 24 hours a day, 7 days a week continuously for more than 30 years."
+msgstr "Si artist pamor, Louie ka krijuar disa nga momentet filmikë më të paharrueshëm dhe ikonë të kohës sonë. Është një novator në fotografinë e natyrës, atë ajrore dhe \"copëza-jete\" &ndash; i vetmi operator në botë që ka xhiruar time-lapse literalisht 24 orë në ditë, 7 ditë në javë, vazhdimisht për më shumë se 30 vjet."
+
+#: flicks/base/templates/judge_macros.html:286
+msgid "He recently completed <cite>Wings of Life</cite>, a documentary feature for Disneynature, narrated by Meryl Streep. It won Best Theatrical Program at the Jackson Hole Science Media Awards 2012, a Best Cinematography Roscar Award, and the Best Cinematography Award at the 2013 Waimea Ocean Film Festival. The film reveals the fragile relationship between flowers, and their pollination partners. It is a love story that feeds the earth. The film will be released April 16 on Blu Ray. As a director, he is completing <cite>Mysteries of the Unseen World</cite>, a 3D-IMAX film with National Geographic, that is targeted for an October 2013 release. The film is a journey into invisible worlds that are too slow, too fast, too small and too vast for the human eye to see. He has received Clio Awards for Best Environmental PSA, an Emmy nomination for Best Cinematography for <cite>Oceans of Air</cite> on the Discovery Channel, and recognized as one of the top 70 Cinematographers for the On Film Kodak Salute Series."
+msgstr "Tani së fundi përfundoi <cite>Wings of Life</cite>, një dokumentar me metrazh të gjatë për Disneynature, me Meryl Streep-in si spikere. Fitoi çmimin Best Theatrical Program në Jackson Hole Science Media Awards 2012, një çmim Best Cinematography Roscar Award, dhe çmimin Best Cinematography Award në 2013 Waimea Ocean Film Festival. Filmi nxjerr në pah marrëdhëniet e brishta mes luleve dhe agjentëve në pajlmimin e tyre. Bëhet fjalë për një histori dashurie që ushqen tokën. Filmi do të hidhet në qarkullim më 16 Prill në format Blu Ray. Si regjisor, po përfundon <cite>Mysteries of the Unseen World</cite>, një film në 3D-IMAX me National Geographic, që pritet të hidhet në qarkullim në Tetor 2013. Filmi është një udhëtim në botë të padukshme që janë shumë të ngadalta, apo shumë të shpejta, shumë të vockla apo shumë të mëdha për t’i kapur syri njerëzor. Louie është fitues çmimesh Clio Awards për Best Environmental PSA, një kandidim Emmy për Operatorin Më të Mirë për <cite>Oceans of Air</cite> e Discovery Channel, dhe pranuar botërisht si një 70 Operatorët kryesues te On Film Kodak Salute Series."
+
+#: flicks/base/templates/judge_macros.html:310
+msgid "Andrzej Szajna has been in and out of the film and TV industry for 19 years. He started his career as an assistant director on low budget action movies such as <cite>Avalon</cite>, <cite>Derailed</cite>, and <cite>Out of Reach</cite> and worked for Independent producers such as Nu Image and Lucky 7 productions. At this point, Andrzej delved into stockbroking and entrepreneurship for 3 years. He went on to produce <cite>Snow White Russian Red</cite> which won best film in 2010 at the Polish Eagle awards, as well as the Polish Hollywood Eagle awards. Afterwards, he produced <cite>Londoners</cite>, a Polish TV series with a 13 million euro budget, which was nominated for Prix Europa and other awards internationally."
+msgstr "Andrzej Szajna hyn e del në industrinë e filmit dhe TV për 19 vjet. Karrierën e vet e filloi si asistent regjisor në filma me buxhet të vogël të tillë si <cite>Avalon</cite>, <cite>Derailed</cite>, dhe <cite>Out of Reach</cite> dhe ka punuar për producentë të pavarur të tillë si Nu Image dhe Lucky 7. Në një farë kohe, Andrzej për 3 vjet u hodh në bursë dhe sipërmarrjen. Prodhoi <cite>Snow White Russian Red</cite> që fitoi çmimin si filmi më i mirë më 2010 për çmimin e Shqiponjës Polake, si dhe për çmimin e Shqiponjë Polake të Hollivudit. Pas kësaj, qe producent i <cite>Londoners</cite>, një serial TV-je polake me buxhet 13 milionësh, që u kandidua për Prix Europa dhe të tjera çmime ndërkombëtare."
+
+#: flicks/base/templates/judge_macros.html:323
+msgid "Andrzej has spent the last couple of years fund raising for non profit organizations and is currently developing a slate of new projects for 2014."
+msgstr "Andrzej është marrë dy vitet e fundit me mbledhje fondesh për organizma jofitimprurës dhe po merret me një dorë projektesh të rinj për 2014-n."
+
+#: flicks/base/templates/judges.html:5
+#: flicks/base/templates/shared/header.html:18
+msgid "Judges"
+msgstr "Juria"
+
+#: flicks/base/templates/judges.html:7
+msgid "Get to know our illustrious panel of celebrity judges who will see your flick and help us choose this year's winner."
+msgstr "Njihuni me anëtarët e jurisë sonë të ndritur, figura të njohura, që do të shohin videot tuaja dhe do të na ndihmojnë të zgjedhim fituesin e këtij viti."
+
+#: flicks/base/templates/macros.html:12
+msgid "Previous page"
+msgstr "Faqja e mëparshme"
+
+#: flicks/base/templates/macros.html:20
+#: flicks/base/templates/macros.html:42
+#: flicks/base/templates/macros.html:57
+msgid "<span>Go to page</span> %(page_number)s"
+msgstr "<span>Shko te faqja</span> %(page_number)s"
+
+#: flicks/base/templates/macros.html:35
+msgid "<span>You're on page</span> %(page_number)s"
+msgstr "<span>Gjendeni te faqja</span> %(page_number)s"
+
+#: flicks/base/templates/macros.html:67
+msgid "Next page"
+msgstr "Faqja pasuese"
+
+#: flicks/base/templates/macros.html:93
+msgid "Share this video with your social network"
+msgstr "Ndajeni këtë video me të tjerët në rrjetin tuaj shoqëror"
+
+#: flicks/base/templates/macros.html:94
+msgid "Share Video"
+msgstr "Ndajeni Videon Me të Tjerë"
+
+#. Text is used in a tweet, please keep the length under 70 characters.
+#: flicks/base/templates/macros.html:105
+msgid "Vote For \"%s\" in the #FirefoxFlicks #FirefoxOS People's Choice Awards!"
+msgstr "Votoni \"%s\" si Zgjedhje e Publikut #FirefoxFlicks #FirefoxOS!"
+
+#. Text is used in a tweet, please keep the length under 110 characters.
+#: flicks/base/templates/macros.html:108
+msgid "Watch \"%s\" on Firefox Flicks"
+msgstr "Shiheni \"%s\" te Firefox Flicks"
+
+#. Text is used in a tweet, please keep the length under 110 characters.
+#: flicks/base/templates/macros.html:114
+#: flicks/videos/templates/videos/upload_complete.html:42
+msgid "You're the director. Mobile is the star."
+msgstr "Regjisori jeni ju. Ylli i trupës është celulari."
+
+#: flicks/base/templates/macros.html:121
+msgid "Share on Twitter"
+msgstr "Ndajeni me të tjerët në Twitter"
+
+#: flicks/base/templates/macros.html:126
+msgid "Share on Facebook"
+msgstr "Ndajeni me të tjerët në Facebook"
+
+#: flicks/base/templates/macros.html:131
+msgid "Share on Tumblr"
+msgstr "Ndajeni me të tjerët në Tumblr"
+
+#: flicks/base/templates/macros.html:136
+msgid "Embed"
+msgstr "Trupëzojeni"
+
+#: flicks/base/templates/partners.html:3
+msgid "Partners"
+msgstr "Partnerë"
+
+#: flicks/base/templates/partners.html:13
+msgid "Flicks Partners"
+msgstr "Partnerë Videosh"
+
+#: flicks/base/templates/partners.html:16
+msgid "We recognize our partners for their generous contributions to making the 2013 Firefox Flicks contest a hit."
+msgstr "U shprehim partnerëve tanë mirënjohjen për kontributet bujare që e bënë garën Firefox Flicks 2013 një sukses."
+
+#: flicks/base/templates/partners.html:22
+msgid "Major Partners"
+msgstr "Partnerë Kryesorë"
+
+#: flicks/base/templates/partners.html:33
+msgid "Media Partners"
+msgstr "Partnerë nga Media"
+
+#: flicks/base/templates/partners.html:39
+msgid "Festival Partners"
+msgstr "Partnerë Festivali"
+
+#. Copy For Slide Based (PDF), each line correspondes to a specific slide. If text is shorter, please make sure we have text per slide.
+#: flicks/base/templates/strings.html:5
+msgid "This year, we need your help to inspire others to Get Mobilized.<br> That means harnessing the power of the Web on mobile devices to discover new content...<br> ... exploring how that content connects you to new ideas...<br> ... and discovering how those ideas can enrich your life.<br> To that end, we're asking you to write, produce and edit a video of no more than 60 seconds...<br> ... that tells the story of how having access to the Web through a mobile device can change the way you see the world and how you function within it. Here are a few tips to get you started:<br> You don't have to use a mobile device to make your video.<br> Your video should be 60 seconds or less.<br> Please don't show any branded devices.<br> Don't focus on Firefox, but rather the power and potential of mobile.<br> It can be animated or live action. (Or both - get creative!)<br> It can be funny, quirky or serious. It's up to you!<br> But make it inspiring, dynamic, hopeful and optimistic.<br> Your video should talk to ordinary people, not geeks, hackers or expert coders. (Try thinking of people who aren't online yet.)<br> All in 60 seconds or less.<br> We've prepared a few things to help. Feel free to use them if you like. You can download them here: {URL TBD}<br> Together, we can bring the promise of the Web to the next billion people coming online.<br> Get ready.<br> Get creating.<br> Get Mobilized.<br>"
+msgstr "Këtë vit na duhet ndihma juaj që të frymëzojmë të tjerët të Mobilizohen.<br> Kjo do të thotë të shfrytëzohet fuqia e Web-it në pajisje celulare për të zbuluar lëndë të re...<br> ... të eksplorohet se si kjo lëndë ju lidh me ide të reja...<br> ... dhe të zbulohet se si këto ide mund të pasurojnë jetën tuaj.<br> Për këtë qëllim, ju kërkojmë të shkruani, prodhoni dhe përpunoni një video jo më shumë se 60 sekonda...<br> ... që rrëfen rastin se si pasja e hyrjes në Web përmes një pajisjeje celulare mund të ndryshojë mënyrën se si e shihni botën dhe se si funksiononi brenda saj. Ja pak këshilla sa për t’ia filluar:<br> Nuk keni pse të përdorni doemos një pajisje celulare që të krijoni videon tuaj.<br> Videoja juaj duhet të jetë 60 ose më pak sekonda e gjatë.<br> Ju lutemi, mos shfaqni pajisje të ndonjë marke.<br> Mos u përqendroni te Firefox-i, por më mirë te fuqia dhe potenciali i celularit.<br> Mund të jetë vizatimor ose xhirim real. (Ose të dyja bashkë - jini krijues!)<br> Mund të jetë zbavitëse, e çuditshme ose serioze. E keni ju në dorë!<br> Por bëjeni frymëzuese, dinamike, plot shpresë dhe optimiste.<br> Videoja juaj do të duhej të komunikonte me njerëz të rëndomtë, jo me geek-ër, hacker-a apo programues të sprovuar. (Provoni të mendoni për njerëz që nuk kanë filluar ende me Internetin.)<br> Kemi përgatitur pak gjëra për t’ju ndihmuar. Jini të lirë t’i përdorni, nëse dëshironi. Mund t’i shkarkoni prej këtej: {URL TBD}<br> Tok, mund ta sjellim premtimin për Web te njëmiliardëshi i ardhshëm i njerëzve që do t’i afrohen Internetit për herë të parë.<br> Bëhuni gati.<br> Jini krijues.<br> Mobilizohuni.<br>"
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:4
+msgid "Voting Starts August 1st"
+msgstr "Votimi Fillon Më 1 Gusht"
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:6
+msgid "You're not just competing for the Grand Prize. You could also win a People's Choice Award. Get tips to help your flick get votes."
+msgstr "Nuk po konkurroni thjesht për Çmimin e Madh. Mund të fitoni po ashtu një Çmim të Zgjedhjes së Publikut. Merrni këshilla rreth se si ta ndihmoni videon tuaj të marrë vota."
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:13
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:12
+#: flicks/base/templates/carousel/blogpost_getcreative.html:12
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:12
+#: flicks/base/templates/carousel/blogpost_judges.html:11
+#: flicks/base/templates/carousel/blogpost_july3winner.html:12
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:13
+#: flicks/base/templates/carousel/blogpost_may29winner.html:12
+#: flicks/base/templates/carousel/blogpost_recap_nowe.html:13
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:12
+#: flicks/base/templates/carousel/blogpost_shootingpeople.html:13
+#: flicks/base/templates/carousel/blogpost_winbig.html:13
+msgid "Read the blog post"
+msgstr "Lexoni postimin te blogu"
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:14
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:13
+#: flicks/base/templates/carousel/blogpost_getcreative.html:13
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:13
+#: flicks/base/templates/carousel/blogpost_judges.html:12
+#: flicks/base/templates/carousel/blogpost_july3winner.html:13
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:14
+#: flicks/base/templates/carousel/blogpost_may29winner.html:13
+#: flicks/base/templates/carousel/blogpost_recap_nowe.html:14
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:13
+#: flicks/base/templates/carousel/blogpost_shootingpeople.html:14
+#: flicks/base/templates/carousel/blogpost_winbig.html:14
+#: flicks/base/templates/carousel/sept13_winner.html:13
+msgid "English only"
+msgstr "Vetëm në Anglisht"
+
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:4
+msgid "Now playing: April 3 winners"
+msgstr "Tani po luhen: Fituesit e 3 Prillit"
+
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:6
+msgid "Help us congratulate our first group of Early Entry Award winners who automatically qualify for the Grand Prize."
+msgstr "Na ndihmoni të përgëzojmë grupin e parë të fituesve të Çmimit të Pjesëmarrjes së Hershme që kualifikohen automatikisht për Çmimin e Madh."
+
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:18
+#: flicks/base/templates/carousel/blogpost_july3winner.html:18
+#: flicks/base/templates/carousel/blogpost_may29winner.html:18
+#: flicks/base/templates/carousel/sept13_winner.html:18
+msgid "Watch the winning flick"
+msgstr "Shihni videon fituese"
+
+#: flicks/base/templates/carousel/blogpost_getcreative.html:4
+msgid "Get Creative (Commons)"
+msgstr ""
+
+#: flicks/base/templates/carousel/blogpost_getcreative.html:6
+msgid "Learn about our Creative Commons partnership and how you can use their licensed materials in your flick."
+msgstr "Njihuni me marrëdhëniet tona me Creative Commons dhe se si mund të përdorni në videot tuaja materiale të licencuara prej tyre."
+
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:4
+msgid "Tips for <br>winning flicks"
+msgstr "Ndihmëza për <br> video fituese"
+
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:6
+msgid "Take an in-depth look at the creative brief and get advice from the Flicks team to give your flick the best shot at the Grand Prize."
+msgstr "Shihni me kujdes përshkrimin përmbledhës dhe merrni këshilla prej ekipit Flicks që t’i jepni videos suaj shansin më të mirë për Çmimin e Madh."
+
+#: flicks/base/templates/carousel/blogpost_judges.html:4
+msgid "Meet The Judges"
+msgstr "Njihuni Me Anëtarët"
+
+#: flicks/base/templates/carousel/blogpost_judges.html:6
+msgid "Get your flick in front of Edward Norton and the rest of our all-star cast."
+msgstr "Videoja juaj do të jetë përpara syve të Edward Norton-it dhe yjesh të tjerë të jurisë sonë."
+
+#: flicks/base/templates/carousel/blogpost_july3winner.html:4
+msgid "Now playing: July 3 winners"
+msgstr "Tani po luhen: fituesit e 3 Korrikut"
+
+#: flicks/base/templates/carousel/blogpost_july3winner.html:6
+msgid "Help us congratulate our last group of Early Entry Award winners who automatically qualify for the Grand Prize."
+msgstr "Na ndihmoni të përgëzojmë grupin tonë të fundit të fituesve të Çmimit të Pjesëmarrjes së Hershme të cilët kualifikohen vetvetiu për Çmimin e Madh."
+
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:4
+msgid "Make your flick a winner"
+msgstr "Bëjeni videon tuaj një nga fitueset"
+
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:6
+msgid "We've partnered with some great brands to bring you a number of free assets that you can use to help your flick stand out."
+msgstr "Kemi bashkëpunuar me disa marka të mëdha për t’ju sjellë juve një numër burimesh të lira që mund t’i përdorni për ta bërë të veçantë videon tuaj."
+
+#: flicks/base/templates/carousel/blogpost_may29winner.html:4
+msgid "Now playing: May 29 winners"
+msgstr "Tani po luhen: Fituesit e 29 Majit"
+
+#: flicks/base/templates/carousel/blogpost_may29winner.html:6
+msgid "Help us congratulate our second group of Early Entry Award winners who automatically qualify for the Grand Prize."
+msgstr "Na ndihmoni të përgëzojmë grupin e dytë të fituesve të Çmimit të Pjesëmarrjes së Hershme që kualifikohen automatikisht për Çmimin e Madh."
+
+#: flicks/base/templates/carousel/blogpost_recap_nowe.html:4
+msgid "A look back at Warsaw and Manila"
+msgstr "Një vështrim pas në Varshavë dhe Manila"
+
+#: flicks/base/templates/carousel/blogpost_recap_nowe.html:6
+msgid "Flicks has been walking the red carpet this summer at the New Horizons and Cinemalaya film festivals. Catch up with our official recap."
+msgstr "Flicks shkeli mbi tapetin e kuq këtë verë në festivalet e filmit New Horizons dhe Cinemalaya. Informohuni përmes përmbledhjes sonë zyrtare."
+
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:4
+msgid "Meet Louie Schwartzberg"
+msgstr "Njihuni me Louie Schwartzberg"
+
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:6
+msgid "A Flicks judge and award-winning cinematographer, Louie is the brains and vision behind Moving Art."
+msgstr "Anëtar i jurisë së Flicks-it dhe kineast i vlerësuar me çmime, Louie përfaqëson trurin dhe vizionin pas Moving Art."
+
+#: flicks/base/templates/carousel/blogpost_shootingpeople.html:4
+msgid "Meet <br>Shooting People"
+msgstr "Njihuni me <br> Njerëzit që Xhirojnë"
+
+#: flicks/base/templates/carousel/blogpost_shootingpeople.html:6
+msgid "Learn more about this network of indie filmmakers, including your chance to get a free membership."
+msgstr "Mësoni më tepër rreth këtij rrjeti krijuesish të pavarur të filmit, përfshi mundësinë tuaj për të pasur një anëtarësim falas."
+
+#: flicks/base/templates/carousel/blogpost_winbig.html:4
+msgid "Win big, <br>win often"
+msgstr "Fitoni shumë, <br>fitoni shpesh"
+
+#: flicks/base/templates/carousel/blogpost_winbig.html:6
+msgid "There are many prizes and many chances to win throughout the competition. Learn more about this year's amazing awards."
+msgstr "Ka mjaft çmime dhe mjaft mundësi për të fituar gjatë konkursit. Mësoni më tepër rreth çmimeve mahnitëse të këtij viti."
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:4
+msgid "Enter by"
+msgstr "Merrni pjesë deri më"
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:4
+msgid "July 31"
+msgstr "31 Korrik"
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:6
+msgid "Time is running out! Get your flick in soon to qualify for the Grand Prize and People's Choice Awards."
+msgstr "Koha po mbaron! Futeni videon tuaj shpejt që të keni mundësi të fitoni Çmimin e Madh dhe Çmimin e Zgjedhjes së Publikut."
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:12
+#: flicks/base/templates/carousel/july3_earlyentry.html:12
+#: flicks/base/templates/carousel/may29_earlyentry.html:12
+msgid "Enter today"
+msgstr "Merrni pjesë që sot"
+
+#: flicks/base/templates/carousel/july3_earlyentry.html:4
+#: flicks/base/templates/carousel/may29_earlyentry.html:4
+msgid "Early entry deadline:"
+msgstr "Afat për pjesëmarrje të hershme:"
+
+#: flicks/base/templates/carousel/july3_earlyentry.html:6
+msgid "Submit your flick by July 3 to qualify for our final Early Entry Award. You could win $1,000 and automatically qualify for the Grand Prize."
+msgstr "Parashtrojeni videon tuaj deri më 3 Korrik që të mund të fitoni Çmimin final të Pjesëmarrjes së Hershme. Mund të fitoni 1000 dollarë amerikanë dhe të kualifikoheni automatikisht për Çmimin e Madh."
+
+#: flicks/base/templates/carousel/may29_earlyentry.html:6
+msgid "Submit your flick by May 29 to qualify for our second Early Entry Award. You could win $1,000 and automatically qualify for the Grand Prize."
+msgstr "Parashtrojeni videon tuaj deri më 29 Maj që të mund të fitoni Çmimin e dytë të Pjesëmarrjes së Hershme. Mund të fitoni 1000 dollarë amerikanë dhe të kualifikoheni automatikisht për Çmimin e Madh."
+
+#: flicks/base/templates/carousel/sept13_winner.html:4
+msgid "Congratulations to our winners"
+msgstr "Përgëzime fituesve tanë"
+
+#: flicks/base/templates/carousel/sept13_winner.html:6
+msgid "The votes are in and we're excited to present the winners of Firefox Flicks 2013. Thanks to everyone who entered!"
+msgstr "Votat u hodhën dhe jemi të ngazëllyer të paraqitim fituesit e Firefox Flicks 2013. Faleminderit kujto që mori pjesë!"
+
+#: flicks/base/templates/carousel/sept13_winner.html:12
+msgid "Watch the winning flicks"
+msgstr "Shihni videot fituese"
+
+#: flicks/base/templates/carousel/slide-three.html:4
+msgid "Now playing"
+msgstr "Tani po luhet"
+
+#: flicks/base/templates/carousel/slide-three.html:4
+#: flicks/base/templates/carousel/slide-three.html:11
+msgid "Directors&#8217; cuts"
+msgstr "Directors&#8217; cuts"
+
+#: flicks/base/templates/carousel/slide-three.html:6
+msgid "Learn more about last year's winners and get some advice on making your own winning flick."
+msgstr "Mësoni më tepër rreth fituesve të vitit të kaluar dhe merrni disa këshilla mbi realizimin e videos suaj fituese."
+
+#: flicks/base/templates/carousel/slide-two.html:4
+msgid "Enter by April 3"
+msgstr "Hyni deri më 3 Prill"
+
+#: flicks/base/templates/carousel/slide-two.html:6
+msgid "Submit your flick in time for the BAFICI film festival in Buenos Aires and you could win a $1000 Early Entry Award and be automatically qualified for the Grand Prize."
+msgstr "Parashtrojeni videon tuaj në afat për festivalin e filmit BAFICI në Buenos Aires dhe mund të fitoni një Çmim të Pjesëmarrjes së Hershme prej 1000 dollarësh amerikanë dhe të kualifikoheni automatikisht për Çmimin e Madh."
+
+#: flicks/base/templates/carousel/slide-two.html:12
+msgid "Get the creative brief"
+msgstr "Merrni përshkrimin përmbledhës"
+
+#: flicks/base/templates/carousel/tiff-teaser.html:4
+msgid "Winners announced"
+msgstr "Fituesit janë shpallur"
+
+#: flicks/base/templates/carousel/tiff-teaser.html:4
+msgid "Sept. 12"
+msgstr "12 Shtator"
+
+#: flicks/base/templates/carousel/tiff-teaser.html:6
+msgid "We're gearing up to present the final results at the Toronto International Film Festival. Get ready by watching our latest Early Entry Award winners."
+msgstr "Po bëhemi gati të shpallim përfundimet finale në Festivalin Ndërkombëtar të Filmit në Toronto. Bëhuni gati duke parë fituesit më të rinj të Çmimit Për Pjesëmarrje të Hershme."
+
+#: flicks/base/templates/carousel/tiff-teaser.html:12
+msgid "See the winning flicks"
+msgstr "Shihni videot fituese"
+
+#: flicks/base/templates/carousel/vote.html:4
+msgid "Choose your favorites"
+msgstr "Zgjidhni të parapëlqyerat tuaja"
+
+#: flicks/base/templates/carousel/vote.html:6
+msgid "August 31 is the last day to vote for the People's Choice Awards. Don't miss your chance."
+msgstr "31 Gushti është dita e fundit për të votuar për Çmimet e Zgjedhjes së Publikut. Mos e humbni shansin tuaj."
+
+#: flicks/base/templates/carousel/vote.html:12
+msgid "Vote now"
+msgstr "Votoni tani"
+
+#: flicks/base/templates/rules/en-US.html:5
+msgid "Firefox Flicks Contest Official Rules"
+msgstr "Rregullat Zyrtare të Konkursit Firefox Flicks"
+
+#: flicks/base/templates/shared/footer_fineprint.html:3
+msgid "Privacy Policy"
+msgstr "Rregulla Privatësie"
+
+#: flicks/base/templates/shared/footer_fineprint.html:4
+msgid "Legal"
+msgstr "Ligjore"
+
+#: flicks/base/templates/shared/footer_fineprint.html:7
+msgid "Other languages:"
+msgstr "Gjuhë të tjera:"
+
+#. This is a label for a form submit button
+#: flicks/base/templates/shared/footer_fineprint.html:16
+msgid "Submit"
+msgstr "Parashtrojeni"
+
+#: flicks/base/templates/shared/header.html:11
+msgid "Menu"
+msgstr "Menu"
+
+#: flicks/base/templates/shared/header.html:14
+msgid "About"
+msgstr "Rreth"
+
+#: flicks/base/templates/shared/header.html:22
+msgid "Vote Now!"
+msgstr "Votoni Tani!"
+
+#: flicks/base/templates/shared/header.html:24
+msgid "Blog"
+msgstr "Blog"
+
+#: flicks/base/templates/shared/header.html:35
+msgid "Sign out"
+msgstr "Dilni"
+
+#: flicks/base/templates/shared/header.html:39
+#: flicks/users/templates/users/profile.html:33
+#: flicks/users/templates/users/profile.html:38
+#: flicks/videos/templates/videos/upload.html:3
+#: flicks/videos/templates/videos/upload.html:25
+#: flicks/videos/templates/videos/upload.html:30
+#: flicks/videos/templates/videos/upload_complete.html:5
+#: flicks/videos/templates/videos/upload_complete.html:15
+#: flicks/videos/templates/videos/upload_complete.html:20
+#: flicks/videos/templates/videos/upload_error.html:3
+msgid "Submit your flick"
+msgstr "Parashtroni videon tuaj"
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: flicks/users/forms.py:12
+msgid "Text"
+msgstr "Tekst"
+
+#: flicks/users/templates/users/profile.html:3
+#: flicks/users/templates/users/profile.html:37
+#: flicks/videos/templates/videos/upload.html:29
+#: flicks/videos/templates/videos/upload_complete.html:19
+msgid "Enter your information"
+msgstr "Jepni të dhënat tuaja"
+
+#: flicks/users/templates/users/profile.html:36
+#: flicks/videos/templates/videos/upload.html:28
+#: flicks/videos/templates/videos/upload_complete.html:18
+msgid "Sign in to Flicks"
+msgstr "Hyni në Flicks"
+
+#: flicks/users/templates/users/profile.html:44
+msgid "Thanks for entering Firefox Flicks, the global video contest about the power of mobile. To submit your flick, please tell us who you are and where you're from."
+msgstr "Ju faleminderit për pjesëmarrjen në Firefox Flicks, konkursin mbarëbotëror të videove rreth fuqisë së celularit. Që të parashtroni videon tuaj, ju lutemi, na tregoni kush jeni dhe nga jeni."
+
+#: flicks/users/templates/users/profile.html:54
+msgid "Your name will be displayed publicly with your video."
+msgstr "Emri juaj do të shfaqet publikisht me videon tuaj."
+
+#: flicks/users/templates/users/profile.html:56
+msgid "Full Name"
+msgstr "Emër i Plotë"
+
+#. Form label for the nickname field. It is optional for users to fill out.
+#: flicks/users/templates/users/profile.html:60
+msgid "Nickname (optional)"
+msgstr "Nofkë (opsional)"
+
+#: flicks/users/templates/users/profile.html:64
+msgid "Some prizes are awarded by region, so let us know what part of the world your flick is representing."
+msgstr "Disa çmime jepen sipas rajonesh, ndaj na tregoni cilën pjesë të botës përfaqëson videoja juaj."
+
+#: flicks/users/templates/users/profile.html:66
+#: flicks/users/templates/users/profile.html:94
+msgid "Country"
+msgstr "Vend"
+
+#: flicks/users/templates/users/profile.html:69
+#: flicks/videos/models.py:217
+#: flicks/videos/models.py:259
+msgid "Region"
+msgstr "Rajon"
+
+#: flicks/users/templates/users/profile.html:76
+msgid "Mailing address (optional)"
+msgstr "Adresë postare (opsionale)"
+
+#: flicks/users/templates/users/profile.html:83
+msgid "We ask for your address so we can send you an awesome gift for participating. Providing it is completely optional and we won't use it or keep it for any other purpose."
+msgstr "Adresën tuaj e kërkojmë që të mund t’ju dërgojmë një dhuratë të bukur për pjesëmarrjen. Dhënia e saj është plotësisht në dëshirën tuaj dhe nuk do ta përdorim ose ruajmë për të tjera qëllime."
+
+#: flicks/users/templates/users/profile.html:85
+msgid "Address line 1"
+msgstr "Rreshti I i adresës"
+
+#: flicks/users/templates/users/profile.html:88
+msgid "Address line 2"
+msgstr "Rreshti II i adresës"
+
+#: flicks/users/templates/users/profile.html:91
+msgid "City"
+msgstr "Qytet"
+
+#: flicks/users/templates/users/profile.html:97
+msgid "State/Province"
+msgstr "Provincë/Shtet"
+
+#: flicks/users/templates/users/profile.html:100
+msgid "Postal Code"
+msgstr "Kod Postar"
+
+#: flicks/users/templates/users/profile.html:107
+msgid "I'm okay with you handling my info as you explain in your <a href=\"{link}\" rel=\"external\">privacy policy</a>"
+msgstr "E miratoj përdorimin e të dhënave të mia ashtu siç e shpjegoni te <a href=\"{link}\" rel=\"external\">rregullat tuaja të privatësisë</a>"
+
+#: flicks/users/templates/users/profile.html:112
+msgid "I want to receive email updates about Firefox Flicks"
+msgstr "Dëshiroj të marr përditësime me email rreth Firefox Flicks-it"
+
+#. Refers to the format of an email, either HTML or Text.
+#: flicks/users/templates/users/profile.html:116
+msgid "Email Format"
+msgstr "Format Email-i"
+
+#: flicks/users/templates/users/profile.html:123
+#: flicks/videos/templates/videos/upload.html:116
+msgid "Next"
+msgstr "Pasuesja"
+
+#: flicks/videos/forms.py:28
+msgid "All regions"
+msgstr "Krejt rajonet"
+
+#. L10n: Label for the order in which to sort a list of videos.
+#: flicks/videos/forms.py:31
+msgid "Random"
+msgstr "Kuturu"
+
+#. L10n: Label for the order in which to sort a list of videos.
+#: flicks/videos/forms.py:33
+msgid "by Title"
+msgstr "sipas Titujsh"
+
+#. L10n: Label for the order in which to sort a list of videos.
+#: flicks/videos/forms.py:64
+msgid "by Popularity"
+msgstr "sipas Popullaritetit"
+
+#: flicks/videos/models.py:170
+msgid ":30 Spot"
+msgstr ":30 Spot"
+
+#: flicks/videos/models.py:171
+msgid "Animation"
+msgstr "Animacion"
+
+#: flicks/videos/models.py:172
+msgid "New Technology"
+msgstr "Teknologji e Re"
+
+#: flicks/videos/models.py:173
+msgid "PSA"
+msgstr "PSA"
+
+#: flicks/videos/models.py:179
+msgid "Europe"
+msgstr "Europë"
+
+#: flicks/videos/models.py:180
+msgid "Asia, Africa & Australia"
+msgstr "Azi, Afrikë & Australi"
+
+#: flicks/videos/models.py:193
+msgid "30 Second Spot Winner"
+msgstr "Fitues Për Reklamën 30 Sekondëshe"
+
+#: flicks/videos/models.py:194
+msgid "Animation Winner"
+msgstr "Fitues Për Animacionet"
+
+#: flicks/videos/models.py:195
+msgid "New Technology Winner"
+msgstr "Fitues Për Teknologji të Re"
+
+#: flicks/videos/models.py:196
+msgid "PSA Winner"
+msgstr "Fitues i PSA"
+
+#: flicks/videos/models.py:203
+msgid "Title"
+msgstr "Titull"
+
+#: flicks/videos/models.py:205
+msgid "Description"
+msgstr "Përshkrim"
+
+#: flicks/videos/models.py:214
+#: flicks/videos/models.py:256
+msgid "Category"
+msgstr "Kategori"
+
+#: flicks/videos/models.py:221
+msgid "Video File URL"
+msgstr "URL Kartele Videoje"
+
+#: flicks/videos/models.py:268
+#: flicks/videos/models.py:277
+msgid "%(winner)s for %(region)s"
+msgstr "%(winner)s për %(region)s"
+
+#: flicks/videos/models.py:269
+msgid "Grand Prize Winner"
+msgstr "Fitues i Çmimit të Madh"
+
+#: flicks/videos/models.py:273
+msgid "Bay Area Video Coalition Prize Winner"
+msgstr "Fitues i Çmimit Bay Area Video Coalition"
+
+#: flicks/videos/models.py:275
+msgid "Panavision Prize Winner"
+msgstr "Fitues i Çmimit Panavision"
+
+#. L10n: Subject line for emails sent to users after their video has been moderated.
+#. L10n: Used for both approval and rejection emails.
+#: flicks/videos/util.py:46
+msgid "Firefox Flicks: Your Recent Submission"
+msgstr "Firefox Flicks: Parashtrimi Juaj Së Fundi"
+
+#: flicks/videos/views.py:180
+msgid "Noir"
+msgstr "E zezë"
+
+#: flicks/videos/views.py:181
+msgid "The fox meets a damsel in distress, but can he help her? Get inspired for your Firefox Flicks entry by checking out our video."
+msgstr "Kunadhja takoi një princeshë të pezmatuar, thua t’i ndihë dot? Frymëzohuni për videon tuaj Firefox Flicks përmes videos sonë."
+
+#: flicks/videos/views.py:184
+msgid "The fox meets a damsel in distress, but can he help her?"
+msgstr "Kunadhja takoi një princeshë të pezmatuar, thua t’i ndihë dot?"
+
+#: flicks/videos/views.py:194
+msgid "Dance"
+msgstr "Vallëzimi"
+
+#: flicks/videos/views.py:195
+msgid "He's got the moves, he's got ambition. How far can this fox's feet take him? Get inspired for your Firefox Flicks entry by checking out our video."
+msgstr "Është i hijshëm, është plot ambicie. Ku mund ta çojë ky vallëzim kunadheje? Frymëzohuni për videon tuaj Firefox Flicks përmes videos sonë."
+
+#: flicks/videos/views.py:199
+msgid "He's got the moves. He's got ambition. How far can this fox's feet take him?"
+msgstr "Është i hijshëm. Është plot ambicie. Ku mund ta çojë ky vallëzim kunadheje?"
+
+#: flicks/videos/views.py:209
+msgid "A teenage girl learns the truth about the fox. Get inspired for your Firefox Flicks entry by checking out our video."
+msgstr "Një çupkë mëson të vërtetën rreth kunadhes. Frymëzohuni për videon tuaj Firefox Flicks përmes videos sonë."
+
+#: flicks/videos/views.py:211
+msgid "Twilight"
+msgstr "Muzgu"
+
+#: flicks/videos/templates/videos/details_base.html:22
+#: flicks/videos/templates/videos/details_base.html:23
+msgid "Creative Commons Attribution - NonCommercial - ShareAlike license"
+msgstr "Licencë Creative Commons Attribution - NonCommercial - ShareAlike"
+
+#: flicks/videos/templates/videos/upload.html:17
+msgid "The file you've chosen doesn't look like a video file. Are you sure you want to upload it?"
+msgstr "Kartela që keni zgjedhur nuk duket si kartelë videoje. Jeni i sigurt se doni të ngarkohet?"
+
+#: flicks/videos/templates/videos/upload.html:18
+msgid "You haven't completed uploading your flick yet. Are you sure you want to quit?"
+msgstr "Nuk e keni plotësuar ende ngarkimin e videos suaj. Jeni i sigurt se doni ta braktisni?"
+
+#: flicks/videos/templates/videos/upload.html:36
+msgid "Rules for uploading"
+msgstr "Rregulla për ngarkimet"
+
+#: flicks/videos/templates/videos/upload.html:40
+msgid "Your entry may be no longer than 60 seconds."
+msgstr "Puna juaj pjesëmarrëse nuk duhet të jetë më shumë se 60 sekonda."
+
+#: flicks/videos/templates/videos/upload.html:46
+msgid "Your entry must be in a format that can be uploaded to Vimeo (see <a href=\"%(link_vimeoformat)s\" rel=\"external\">vimeo.com/help/compression</a> for details)."
+msgstr "Puna juaj duhet të jetë në një format të ngarkueshëm në Vimeo (shihni <a href=\"%(link_vimeoformat)s\" rel=\"external\">vimeo.com/help/compression</a> për më tepër hollësi)."
+
+#: flicks/videos/templates/videos/upload.html:54
+msgid "Your entry must be your original work and may not include any unauthorized third party intellectual property (such as a video clip, music or visible brand name or logo you do not have a license to use)."
+msgstr "Puna juaj duhet të jetë vepër origjinale dhe nuk mund të përmbajë asnjë pronë intelektuale palësh të treta të paautorizuar (të tilla si videoklipe, muzikë ose emër marke apo logo të dukshme, për të cilat nuk zotëroni licencë përdorimi)."
+
+#: flicks/videos/templates/videos/upload.html:62
+msgid "Your video will be posted to both the Firefox Flicks website and the Vimeo website under a Firefox Flicks account."
+msgstr "Videoja juaj do të postohet si te sajti i Firefox Flicks-it, ashtu edhe te ai Vimeo, në llogarinë Firefox Flicks."
+
+#: flicks/videos/templates/videos/upload.html:70
+msgid "Please read the <a href=\"%(link_rules)s\" rel=\"external\">official contest rules</a> before submitting your video."
+msgstr "Ju lutemi, lexoni <a href=\"%(link_rules)s\" rel=\"external\">rregullat zyrtare të konkursit</a> përpara parashtrimit të videos suaj."
+
+#: flicks/videos/templates/videos/upload.html:78
+msgid "Choose a video to upload"
+msgstr "Zgjidhni video për ngarkim"
+
+#: flicks/videos/templates/videos/upload.html:89
+msgid "Your flick"
+msgstr "Videoja juaj"
+
+#: flicks/videos/templates/videos/upload.html:94
+msgid "Remove"
+msgstr "Hiqe"
+
+#: flicks/videos/templates/videos/upload.html:101
+msgid "Name your flick"
+msgstr "Emërtoni videon tuaj"
+
+#: flicks/videos/templates/videos/upload.html:102
+msgid "Be concise, yet unique"
+msgstr "Jini i përmbledhur, por unik"
+
+#: flicks/videos/templates/videos/upload.html:105
+msgid "Describe your flick"
+msgstr "Përshkruani videon tuaj"
+
+#: flicks/videos/templates/videos/upload.html:107
+msgid "In 1-3 sentences. This is what people will see when they view or share your video."
+msgstr "Brenda 1-3 pohimesh. Kjo është çka do të shohin njerëzit kur të shikojnë apo ndajnë me të tjerët videon tuaj."
+
+#: flicks/videos/templates/videos/upload_complete.html:24
+msgid "Hooray! Your upload is complete."
+msgstr "Urraaa! Ngarkimi juaj është i plotë."
+
+#: flicks/videos/templates/videos/upload_complete.html:26
+msgid "Bonus: For getting your flick in early, you're eligible for an Early Entry Award and a chance to automatically qualify for the Grand Prize finals. <a href=\"%(link_home)s#prizes\" rel=\"external\">Learn more</a>."
+msgstr "Bonus: Nga parashtrimi i hershëm i videos suaj, jeni i kualifikueshëm për një Çmim të Pjesëmarrjes së Hershme dhe keni shans të kualifikoheni automatikisht për finalet e Çmimit të Madh. <a href=\"%(link_home)s#prizes\" rel=\"external\">Mësoni më tepër</a>."
+
+#: flicks/videos/templates/videos/upload_complete.html:34
+msgid "Your video is now processing. Once it's reviewed, we'll send you an email to let you know where to find it. Until then, spread the word about Firefox Flicks!"
+msgstr "Videoja juaj tani po merret në shqyrtim. Sapo të jetë shqyrtuar, do t’ju dërgojmë një email që t’ju bëjmë të ditur se ku mund ta gjeni. Deri atëherë, përhapni lajmin rreth Firefox Flicks-it!"
+
+#: flicks/videos/templates/videos/upload_complete.html:60
+msgid "Back to Flicks"
+msgstr "Mbrapsht te Videot"
+
+#: flicks/videos/templates/videos/upload_error.html:15
+msgid "Oh no, something went wrong!"
+msgstr "Mooos, diç shkoi ters!"
+
+#: flicks/videos/templates/videos/upload_error.html:17
+msgid "There was an error in the upload process. Please <a href=\"%(link_upload)s\">try again</a>, and be sure you're uploading a video in <a href=\"%(link_vimeoformat)s\" rel=\"external\">one of our supported file formats</a>."
+msgstr "Pati një gabim gjatë procesit të ngarkimit. Ju lutemi, <a href=\"%(link_upload)s\">riprovoni</a>, dhe sigurohuni që po ngarkoni një video në <a href=\"%(link_vimeoformat)s\" rel=\"external\">njërin nga formatet e mbuluara prej nesh</a>."
+
+#: flicks/videos/templates/videos/upload_error.html:25
+msgid "If you continue to see this message, please wait and try again later."
+msgstr "Nëse vazhdoni ta shihni këtë mesazh, ju lutemi, prisni dhe riprovoni më vonë."
+
+#: flicks/videos/templates/videos/2012/details.html:11
+msgid "Award"
+msgstr "Çmim"
+
+#. Shown below videos to indicate which category and country they were submitted under, such as ':30 Spot for Europe'
+#: flicks/videos/templates/videos/2012/details.html:37
+msgid "%(category_link)s <span>for</span> %(country_link)s"
+msgstr "%(category_link)s <span>për</span> %(country_link)s"
+
+#: flicks/videos/templates/videos/2013/approval_email.html:5
+#: flicks/videos/templates/videos/2013/approval_email.ltxt:4
+msgid "Your flick has been accepted and successfully added to the competition!"
+msgstr "Videoja juaj është pranuar dhe shtuar me sukses te konkursi!"
+
+#. Please don't change the HTML, this string is in an email and the HTML is very fragile.
+#: flicks/videos/templates/videos/2013/approval_email.html:12
+msgid "You can find your flick on the gallery and share it using this link: <a href=\"%(link)s\" style=\"color: #1677b9; text-decoration: none;\">%(title)s</a>"
+msgstr "Videon tuaj mund ta gjeni te galeria dhe ta ndani me të tjerët duke përdorur këtë lidhje: <a href=\"%(link)s\" style=\"color: #1677b9; text-decoration: none;\">%(title)s</a>"
+
+#: flicks/videos/templates/videos/2013/approval_email.html:17
+#: flicks/videos/templates/videos/2013/approval_email.ltxt:13
+msgid "Voting for the People's Choice Award starts on July 31, so be sure to let your friends know that you need their support."
+msgstr "Votimet për Çmimin e Zgjedhjes së Publikut fillojnë më 31 Korrik, ndaj mos harroni t’u bëni të ditur miqve se keni nevojë për mbështetjen e tyre."
+
+#: flicks/videos/templates/videos/2013/approval_email.html:19
+#: flicks/videos/templates/videos/2013/approval_email.ltxt:15
+msgid "Thanks again for taking the time to help us share the power of mobile with the world."
+msgstr "Faleminderit sërish që harxhoni kohë të na ndihmoni të ndajmë me botën fuqinë e celularit."
+
+#: flicks/videos/templates/videos/2013/approval_email.ltxt:8
+msgid "You can find your flick on the gallery and share it using this link: %(link)s"
+msgstr "Videon tuaj mund ta gjeni te galeria dhe ta ndani me të tjerët duke përdorur këtë lidhje: %(link)s"
+
+#: flicks/videos/templates/videos/2013/details.html:12
+msgid "An entry for Firefox Flicks 2013, a global video contest about the power of mobile."
+msgstr "Një vepër pjesëmarrëse te Firefox Flicks 2013, një konkurs mbarëbotëror videosh mbi fuqinë e celularit."
+
+#: flicks/videos/templates/videos/2013/details.html:26
+#: flicks/videos/templates/videos/2013/details.html:68
+msgid "No votes yet"
+msgstr "Ende pa vota"
+
+#. This shows the number of people who have voted for a video. This is NOT the number of views. <b> tag is used to place the number of votes, please do not remove it.
+#: flicks/videos/templates/videos/2013/details.html:27
+#: flicks/videos/templates/videos/2013/details.html:28
+#: flicks/videos/templates/videos/2013/details.html:71
+msgid "<b>%(vote_count)s</b> vote"
+msgid_plural "<b>%(vote_count)s</b> votes"
+msgstr[0] "<b>%(vote_count)s</b> votë"
+msgstr[1] "<b>%(vote_count)s</b> vota"
+
+#: flicks/videos/templates/videos/2013/details.html:37
+msgid "Thanks for voting!"
+msgstr "Faleminderit që e votuat!"
+
+#: flicks/videos/templates/videos/2013/details.html:83
+msgid "Voted"
+msgstr "Votuan"
+
+#: flicks/videos/templates/videos/2013/details.html:84
+msgid "Vote"
+msgstr "Voto"
+
+#: flicks/videos/templates/videos/2013/list.html:5
+#: flicks/videos/templates/videos/2013/list.html:7
+msgid "2013 gallery"
+msgstr "Galeria e 2013-s"
+
+#: flicks/videos/templates/videos/2013/list.html:19
+msgid "Voting is open!"
+msgstr "Votimi ka filluar!"
+
+#: flicks/videos/templates/videos/2013/list.html:21
+msgid "Welcome to the<br> Firefox Flicks 2013 gallery"
+msgstr "Mirë se vini te<br> galeria Firefox Flicks për 2013-n"
+
+#: flicks/videos/templates/videos/2013/list.html:27
+msgid "This year we're asking filmmakers and Firefox fans to inspire others to get mobilized by telling the world about the power and potential of mobile. Have a look at the entries and be sure to share your favorites with your friends."
+msgstr "Këtë vit po u kërkojmë krijuesve të filmit dhe dashamirësve të Firefox-it të frymëzojnë të tjerët që të mobilizohen, duke i treguar botës rreth fuqisë dhe potencialit të celularit. Hidhuni një sy punëve dhe mos harroni të ndani me shokët tuaj ato që ju pëlqejnë më shumë."
+
+#: flicks/videos/templates/videos/2013/list.html:36
+msgid "Welcome to the Firefox Flicks 2013 gallery. This year we asked filmmakers to tell stories about the power of the Web on mobile devices. Vote for your favorite flicks and be sure to share them with your friends."
+msgstr "Mirë se vini te galeria e Firefox Flicks 2013-s. Këtë vit u kërkuam krijuesve të filmit të tregojnë shembuj rreth fuqisë së Web-it në pajisjet celulare. Votoni për videot që ju pëlqejnë dhe mos harroni t’i ndani ato me miqtë tuaj."
+
+#: flicks/videos/templates/videos/2013/list.html:44
+msgid "This year we asked filmmakers and Firefox fans to inspire others to get mobilized by telling the world about the power and potential of mobile. Watch the flicks and be sure to share your favorites with your friends."
+msgstr "Këtë vit u kërkuam krijuesve të filmit dhe dashamirësve të Firefox-it të frymëzojnë të tjerët që të mobilizohen, duke i treguar botës rreth fuqisë dhe potencialit të celularit. Hidhuni një sy punëve dhe mos harroni të ndani me shokët tuaj ato që ju pëlqejnë më shumë."
+
+#: flicks/videos/templates/videos/2013/list.html:56
+msgid "Start voting by clicking on your favorite videos or <a href=\"%(sign_in)s\" class=\"requires-auth\">sign in</a> to view your votes."
+msgstr "Fillojani votimit duke klikuar mbi videot që ju pëlqejnë ose <a href=\"%(sign_in)s\" class=\"requires-auth\">hyni</a> që të shihni votat tuaja."
+
+#: flicks/videos/templates/videos/2013/list.html:60
+msgid "Hi there! It looks like you haven't voted yet. Start voting now by clicking on your favorite videos."
+msgstr "Njatjeta! Duket se nuk keni votuar ende. Fillojani votimit që tani duke klikuar mbi videot që ju pëlqejnë."
+
+#: flicks/videos/templates/videos/2013/list.html:64
+msgid "Hi there! You have voted for <a href=\"%(url)s\">%(vote_count)s flick</a> so far. Keep on voting!"
+msgid_plural "Hi there! You have voted for <a href=\"%(url)s\">%(vote_count)s flicks</a> so far. Keep on voting!"
+msgstr[0] "Njatjeta! Deri sot keni votuar për <a href=\"%(url)s\">%(vote_count)s video</a>. Vazhdoni të votoni!"
+msgstr[1] "Njatjeta! Deri sot keni votuar për <a href=\"%(url)s\">%(vote_count)s video</a>. Vazhdoni të votoni!"
+
+#: flicks/videos/templates/videos/2013/list.html:76
+msgid "Did you vote for the People's Choice Award? If so, you can <a href=\"%(sign_in)s\" class=\"requires-auth\">sign in</a> to see your selections."
+msgstr "Votuat për Çmimet e Zgjedhjes së Publikut? Nëse po, mund të <a href=\"%(sign_in)s\" class=\"requires-auth\">hyni</a> që të shihni përzgjedhjet tuaja."
+
+#: flicks/videos/templates/videos/2013/list.html:81
+msgid "Hi there! It looks like you did not vote for the People's Choice Award."
+msgstr "Njatjeta! Duket sikur nuk votuat për Çmimin e Zgjedhjes së Publikut."
+
+#: flicks/videos/templates/videos/2013/list.html:85
+msgid "You've voted for <a href=\"%(url)s\">%(vote_count)s flick</a> as a part of our People's Choice Awards."
+msgid_plural "You've voted for <a href=\"%(url)s\">%(vote_count)s flicks</a> as a part of our People's Choice Awards."
+msgstr[0] "Keni votuar për <a href=\"%(url)s\">%(vote_count)s video</a> si pjesë e Çmimeve tona të Zgjedhjes së Publikut."
+msgstr[1] "Keni votuar për <a href=\"%(url)s\">%(vote_count)s video</a> si pjesë e Çmimeve tona të Zgjedhjes së Publikut."
+
+#: flicks/videos/templates/videos/2013/list.html:103
+msgid "From region"
+msgstr "Prej rajonit"
+
+#: flicks/videos/templates/videos/2013/list.html:111
+msgid "<span>{query}</span> <small class=\"category\">in user name</small>"
+msgstr "<span>{query}</span> <small class=\"category\">te emra përdoruesish</small>"
+
+#: flicks/videos/templates/videos/2013/list.html:114
+msgid "<span>{query}</span> <small class=\"category\">in video title</small>"
+msgstr "<span>{query}</span> <small class=\"category\">te tituj videosh</small>"
+
+#: flicks/videos/templates/videos/2013/list.html:117
+msgid "<span>{query}</span> <small class=\"category\">in video description</small>"
+msgstr "<span>{query}</span> <small class=\"category\">te përshkrime videosh</small>"
+
+#: flicks/videos/templates/videos/2013/list.html:121
+msgid "Search for video name, user name, or description"
+msgstr "Kërkoni për emër videoje, emër përdoruesi, ose përshkrim"
+
+#: flicks/videos/templates/videos/2013/list.html:130
+msgid "update results"
+msgstr "përditëso përfundimet"
+
+#: flicks/videos/templates/videos/2013/list.html:141
+msgid "<i>%(count)s</i> videos for <i>%(query)s</i> in <i>%(region)s</i>"
+msgstr "<i>%(count)s</i> video për <i>%(query)s</i> në <i>%(region)s</i>"
+
+#: flicks/videos/templates/videos/2013/list.html:156
+msgid "Sort:"
+msgstr "Renditi:"
+
+#: flicks/videos/templates/videos/2013/list.html:177
+msgid "Submitted <time datetime=\"%(datetime)s\">%(date)s</time>"
+msgstr "Parashtruar më <time datetime=\"%(datetime)s\">%(date)s</time>"
+
+#: flicks/videos/templates/videos/2013/rejection_email.html:6
+msgid "Unfortunately, your flick does not meet one or more of the contest criteria and was not accepted to be part of the competition. Please refer to our <a href=\"%(link)s\" style=\"color: #1677b9; text-decoration: none;\">contest rules</a> for more information."
+msgstr "Mjerisht, videoja juaj nuk përputhet me një ose disa kritere të konkursit dhe nuk u pranua të jetë pjesë e garës. Ju lutemi, për më tepër informacion, shihni <a href=\"%(link)s\" style=\"color: #1677b9; text-decoration: none;\">rregullat tona të konkursit</a>."
+
+#: flicks/videos/templates/videos/2013/rejection_email.html:11
+#: flicks/videos/templates/videos/2013/rejection_email.ltxt:10
+msgid "All decisions regarding submissions are final."
+msgstr "Krejt vendimet lidhur me parashtrimet janë të formës së prerë."
+
+#: flicks/videos/templates/videos/2013/rejection_email.ltxt:5
+msgid "Unfortunately, your flick does not meet one or more of the contest criteria and was not accepted to be part of the competition. Please refer to our contest rules for more information: %(link)s"
+msgstr "Mjerisht, videoja juaj nuk përputhet me një ose disa kritere të konkursit dhe nuk u pranua të jetë pjesë e garës. Ju lutemi, për më tepër informacion mbi rregullat tona të konkursit, shihni: %(link)s"
+
+#: flicks/videos/templates/videos/2013/winners.html:3
+#: flicks/videos/templates/videos/2013/winners.html:4
+#: flicks/videos/templates/videos/2013/winners.html:13
+msgid "2013 Flicks Winners"
+msgstr "Fituesit e Videove për 2013-n"
+
+#: flicks/videos/templates/videos/2013/winners.html:17
+msgid "Submit your flick by July 31, 2013 and add your name to the growing list of Flicks winners."
+msgstr "Parashtrojeni videon tuaj deri më 31 Korrik, 2013 që të shtohet emri juaj te lista gjithnjë në rritje e fituesve të Flicks-it."
+
+#: flicks/videos/templates/videos/2013/winners.html:21
+msgid "Join us in congratulating this year's winners."
+msgstr "Bëhuni pjesë e jonë në përgëzimin e fituesve të këtij viti."
+
+#. Describes the date that a video was submitted to the contest.
+#: flicks/videos/templates/videos/2013/winners.html:47
+#: flicks/videos/templates/videos/2013/winners.html:78
+#: flicks/videos/templates/videos/2013/winners.html:98
+#: flicks/videos/templates/videos/2013/winners.html:124
+#: flicks/videos/templates/videos/2013/winners.html:144
+#: flicks/videos/templates/videos/2013/winners.html:170
+#: flicks/videos/templates/videos/2013/winners.html:190
+#: flicks/videos/templates/videos/2013/winners.html:216
+#: flicks/videos/templates/videos/2013/winners.html:236
+#: flicks/videos/templates/videos/2013/winners.html:265
+#: flicks/videos/templates/videos/2013/winners.html:286
+#: flicks/videos/templates/videos/2013/winners.html:307
+#: flicks/videos/templates/videos/2013/winners.html:337
+#: flicks/videos/templates/videos/2013/winners.html:358
+#: flicks/videos/templates/videos/2013/winners.html:379
+#: flicks/videos/templates/videos/2013/winners.html:406
+#: flicks/videos/templates/videos/2013/winners.html:427
+#: flicks/videos/templates/videos/2013/winners.html:448
+#: flicks/videos/templates/videos/2013/winners.html:475
+#: flicks/videos/templates/videos/2013/winners.html:496
+#: flicks/videos/templates/videos/2013/winners.html:517
+msgid "Submitted %(date)s"
+msgstr "Parashtruar më %(date)s"
+
+#: flicks/videos/templates/videos/2013/winners.html:65
+#: flicks/videos/templates/videos/2013/winners.html:111
+#: flicks/videos/templates/videos/2013/winners.html:157
+#: flicks/videos/templates/videos/2013/winners.html:203
+msgid "Winner"
+msgstr "Fitues"
+
+#: flicks/videos/templates/videos/2013/winners.html:85
+#: flicks/videos/templates/videos/2013/winners.html:131
+#: flicks/videos/templates/videos/2013/winners.html:177
+#: flicks/videos/templates/videos/2013/winners.html:223
+msgid "Runner Up"
+msgstr "Vendi i Dytë"
+
+#: flicks/videos/templates/videos/2013/winners.html:248
+#: flicks/videos/templates/videos/2013/winners.html:538
+msgid "People's Choice Award"
+msgstr "Çmimi Zgjedhja e Publikut"
+
+#: flicks/videos/templates/videos/2013/winners.html:252
+#: flicks/videos/templates/videos/2013/winners.html:324
+#: flicks/videos/templates/videos/2013/winners.html:393
+#: flicks/videos/templates/videos/2013/winners.html:462
+msgid "First Place"
+msgstr "Vendi i Parë"
+
+#: flicks/videos/templates/videos/2013/winners.html:273
+#: flicks/videos/templates/videos/2013/winners.html:345
+#: flicks/videos/templates/videos/2013/winners.html:414
+#: flicks/videos/templates/videos/2013/winners.html:483
+msgid "Second Place"
+msgstr "Vendi i Dytë"
+
+#: flicks/videos/templates/videos/2013/winners.html:294
+#: flicks/videos/templates/videos/2013/winners.html:366
+#: flicks/videos/templates/videos/2013/winners.html:435
+#: flicks/videos/templates/videos/2013/winners.html:504
+msgid "Third Place"
+msgstr "Vendi i Tretë"
+
+#: flicks/videos/templates/videos/2013/winners.html:319
+#: flicks/videos/templates/videos/2013/winners.html:388
+#: flicks/videos/templates/videos/2013/winners.html:457
+msgid "Early Entry Award"
+msgstr "Çmimi për Pjesëmarrje të Hershme"
+
+#: flicks/videos/templates/videos/2013/winners.html:529
+msgid "Don't miss your chance to win one of many upcoming awards"
+msgstr "Mos humbni rastin të fitoni një nga çmimet e sivjetshme"
+
+#: flicks/videos/templates/videos/2013/winners.html:531
+msgid "Early Entry Awards Deadlines"
+msgstr "Afatet për Çmimin e Pjesëmarrjes së Hershme"
+
+#: flicks/videos/templates/videos/2013/winners.html:540
+#: flicks/videos/templates/videos/2013/winners.html:545
+msgid "Submit by July 31"
+msgstr "Parashtrojini deri më 31 Korrik"
+
+#: flicks/videos/templates/videos/2013/winners.html:543
+msgid "Flicks Grand Prize and Regional awards"
+msgstr "Çmimi i Madh dhe Çmimet rajonale"
+
+#: flicks/videos/templates/videos/2013/winners.html:548
+#: flicks/videos/templates/videos/2013/winners.html:559
+msgid "Learn more about Flicks prizes"
+msgstr "Mësoni më tepër mbi çmimet për videot"
+
+#: flicks/videos/templates/videos/2013/winners.html:550
+msgid "Submit Your Flick Today!"
+msgstr "Parashtrojeni Videon Tuaj Që Sot!"
+
+#: flicks/videos/templates/videos/2013/winners.html:552
+msgid "Upcoming announcements"
+msgstr "Njoftime së afërmi"
+
+#: flicks/videos/templates/videos/2013/winners.html:554
+msgid "Flicks Grand Prize, Regional Awards &amp; People's Choice Award:"
+msgstr "Çmimi i Madh Flicks, Çmimet Rajonale &amp; Çmimi i Zgjedhjes së Publikut:"
+
+#: flicks/videos/templates/videos/2013/winners.html:556
+msgid "September 12 &mdash; Toronto International Film Festival"
+msgstr "12 Shtator &mdash; Festivali Ndërkombëtar i Filmit në Toronto"
+
+#: flicks/videos/templates/videos/2013/winners.html:563
+msgid "Vote now for the People's Choice Award"
+msgstr "Votoni tani për Çmimin e Zgjedhjes së Publikut"

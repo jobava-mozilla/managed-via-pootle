@@ -1,0 +1,584 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-08-11 15:43+0000\n"
+"Last-Translator: Enrique <eu@keko.me>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1407771798.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr "Produciuse un problema coa ligazón do seu rexistro. Xa rexistrou este enderezo?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Produciuse un erro ao tentar rematar o rexistro."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Mozilla Persona require cookies para lembralo."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Peche esta xanela, <a %s>active as cookies</a> e tente de novo"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Produciuse un erro na comunicación"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Finalizando a identificación..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Nuns segundos estará conectado a súa conta de Mozilla Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Sentimos que esta petición estea tardando máis do que debería."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr "Se non obtén resposta nuns segundos, peche a xanela e ténteo de novo."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Comprobar co provedor de correo."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "O correo seleccionado é incorrecto ou foi eliminado."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Retirar o enderezo %(email)s da súa conta de Mozilla Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr "Retirando o último enderezo de correo cancelarase a súa conta de Mozilla Persona.\n"
+"Confirma que quere continuar?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Confirma que quere eliminar a súa conta de Mozilla Persona?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Engadir un enderezo de correo"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "enderezo de correo"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Debe ser un enderezo de correo"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Requírese o campo do correo"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr "Enviouse a confirmación inicial &ndash; agarde uns minutos antes de solicitar outra"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Xa engadido!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "engadir"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "cancelar"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Non é posíbel comprobar %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr "%s é un enderezo correcto, pero non é posíbel comprobar que é seu."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "Comprobouse %(email)s!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Identificándoo en&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Comprobe o correo"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr "Prema a ligazón no correo de confirmación que se lle enviou a %s e inmediatamente será identificado en %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Erro"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Sentímolo."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "O servidor está sobrecargado!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Recargue a páxina e tente de novo."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Peche esta xanela e tente de novo."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Ver máis información"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Pechar"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "Aceptar"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* non é un enderezo de correo correcto!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "Para continuar, peche a xanela e escriba un enderezo correcto."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Lembrámolo?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Canto tempo lle gustaría permanecer identificado a través de Mozilla Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Un mes"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Confío neste equipo."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Só esta sesión"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Este non é meu equipo."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Nota: evidentemente pode saír de Mozilla Persona en calquera momento."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Identificarse con Mozilla Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Identificarse en %s como&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Seleccionar un enderezo de correo"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Engadir outro enderezo de correo"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Non son eu"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr "Ao continuar, vostede acepta os <a %(terms)s>Termos de uso</a> e a <a %(privacy)s>Política de privacidade</a> de %(site)s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "identificarse"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "%(primary)s non está respondendo. Agarde uns minutos e tente de novo."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Non é posíbel comprobar %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr "Isto pode ser debido a que o seu navegador bloquea as cookies de terceiros. Asegúrese de que as preferencias de privacidade do seu navegador están configuradas para aceptar cookies de terceiros para %(idpName)s e tente de novo."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr "Vostede acepta os <a %(terms)s>Termos</a> e a <a %(privacy)s>Política de privacidade</a> do sitio %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Crear un contrasinal"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s xa non lle permite identificarse con Mozilla Persona co seu "
+"contrasinal de %(idp)s. Cree un novo contrasinal para a súa conta de Mozilla "
+"Persona."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr "O enderezo de correo é novo para nós. Cree o contrasinal para usalo con FirefoxOS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr "O enderezo de correo é novo para nós. Cree o contrasinal para usalo con Mozilla Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "crear un contrasinal"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Requírese o campo do contrasinal"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Os contrasinais deben ter 8&ndash;80 caracteres"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Comprobar o contrasinal"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "comprobar o contrasinal"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Comprobación do contrasinal requirida"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Non coinciden os contrasinais!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "feito"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Boas novas!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s xa non require un contrasinal extra. Comprobe a súa conta e "
+"inmediatamente identificarase en %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "comprobar"
+
+#~ msgid "signing in"
+#~ msgstr "identificarse"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Confirme o enderezo de correo"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Identificarse como..."
+
+#~ msgid "Email"
+#~ msgstr "Correo"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Comprobouse a súa identidade co seu provedor de correo, agora tentaremos "
+#~ "identificalo no sitio."
+
+#~ msgid "Sign in using"
+#~ msgstr "Identificarse usando"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "O sitio solicitou que se identifique usando"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Debe identificarse co seu provedor de correo para comprobar que este "
+#~ "enderezo é seu. Redirixirase esta xanela a"
+
+#~ msgid "Enter password"
+#~ msgstr "crear un contrasinal"
+
+#~ msgid "forgot your password?"
+#~ msgstr "esqueceu o contrasinal?"
+
+#~ msgid "Password"
+#~ msgstr "Contrasinal"
+
+#~ msgid "Password incorrect"
+#~ msgstr "Requírese un contrasinal."
+
+#~ msgid "verify email"
+#~ msgstr "comprobar o correo"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s faino fácil"
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Mozilla Persona permítelle usar a súa conta %(emailProvider)s para "
+#~ "identificarse en sitios como %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "identificarse con %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Usar un enderezo de correo diferente"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Este campo debe ser un enderezo de correo."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Só lle enviaremos un correo a ese enderezo! Sé realmente quere envíalo a "
+#~ "outro correo, agarde un minuto ou dous e ténteo de novo."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Este enderezo xa está engadido na súa conta!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Escolla un enderezo de correo."
+
+#~ msgid "The password field is required."
+#~ msgstr "Requírese o campo do contrasinal."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Este enderezo de correo e o contrasinal non coinciden."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr ""
+#~ "Engada outro enderezo de correo ao seu contrasinal de Mozilla Persona."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Produciuse un erro!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Restabelecer o contrasinal"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Cree un novo contrasinal para usar con %s."
+
+#~ msgid "reset password"
+#~ msgstr "restabelecer o contrasinal"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Nota: usarase este contrasinal con todos os seus enderezos de correo de "
+#~ "Mozilla Persona."
+
+#~ msgid "Sign In"
+#~ msgstr "Identificarse"
+
+#~ msgid "Sign Up"
+#~ msgstr "Crear conta"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Agarde uns segundos mentres o conectamos ao sitio."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "%s usa Mozilla Persona no lugar de nomes de usuario para identificalo."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Para identificarse con Mozilla Persona, escriba o seu enderezo de correo."
+
+#~ msgid "enter email address"
+#~ msgstr "escriba o enderezo de correo"
+
+#~ msgid "password"
+#~ msgstr "contrasinal"
+
+#~ msgid "next"
+#~ msgstr "seguinte"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Esqueceu o contrasinal?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Ao continuar, vostede acepta os <a %s>Termos de uso</a> e a <a "
+#~ "%s>Política de privacidade</a> de %s."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Esta mensaxe desaparecerá cando remate a solicitude. Se ve que tarda "
+#~ "moito, peche a xanela e tente de novo."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "Escriba o seu enderezo de correo para conectarse a <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr "Espere mentres se obtén información sobre o seu provedor de correo."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "Non é posíbel iniciar sesión na conta con este nome de usuario e "
+#~ "contrasinal."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Enviarémoslle un correo de confirmación a <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Se isto é un erro, simplemente ignore o correo enviado e <a %s>cancele</"
+#~ "a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Se isto é un erro, simplemente ignore o correo enviado e <a %s>use outro "
+#~ "enderezo de correo</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Se non lle molesta a miña pregunta, é este o seu computador?"
+
+#~ msgid "yes"
+#~ msgstr "si"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Se é así, vamos a conservar a súa identificación un par de semanas."
+
+#~ msgid "no"
+#~ msgstr "non"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Se está nun computador de uso público, como nunha biblioteca ou nun bar "
+#~ "con internet, escolla esta opción. Pedirémoslle o contrasinal dentro "
+#~ "dunha hora para unha maior seguranza."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Benvida a Mozilla Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Seguinte, escoller un novo contrasinal que usará cando se identifique con "
+#~ "Mozilla Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Repetir o contrasinal"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID require cookies"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "Este correo semella novo. Configure a súa conta."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Usar sempre este correo para conectarse"

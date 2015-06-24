@@ -1,0 +1,1702 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-15 07:48-0700\n"
+"PO-Revision-Date: 2011-05-21 02:55+0200\n"
+"Last-Translator: Hùng. <loveleeyoungae@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: fjord/analytics/helpers.py:10 fjord/analytics/views.py:360 fjord/base/helpers.py:106 fjord/feedback/helpers.py:9
+msgid "Unknown"
+msgstr "Không rõ"
+
+#: fjord/analytics/views.py:123
+#, fuzzy
+msgid "Firefox Input: {query}"
+msgstr "Firefox Input: '{query}'"
+
+#: fjord/analytics/views.py:125 fjord/analytics/views.py:139 fjord/base/templates/500.html:8 fjord/base/templates/base.html:5 fjord/base/templates/mobile/base.html:4
+msgid "Firefox Input"
+msgstr "Firefox Input"
+
+#: fjord/analytics/views.py:138
+#, fuzzy
+msgid "Search Results From Firefox Input"
+msgstr "Kết quả Tìm kiếm trong Phản hồi Firefox Beta."
+
+#: fjord/analytics/views.py:143 fjord/analytics/views.py:367 fjord/analytics/views.py:435 fjord/analytics/templates/analytics/dashboard.html:13 fjord/analytics/templates/analytics/response.html:29
+#: fjord/analytics/templates/analytics/mobile/response.html:18 fjord/feedback/models.py:344
+#, fuzzy
+msgid "Happy"
+msgstr "vui"
+
+#: fjord/analytics/views.py:143 fjord/analytics/views.py:367 fjord/analytics/views.py:437 fjord/analytics/templates/analytics/dashboard.html:15 fjord/analytics/templates/analytics/response.html:31
+#: fjord/analytics/templates/analytics/mobile/response.html:20 fjord/feedback/models.py:345
+#, fuzzy
+msgid "Sad"
+msgstr "buồn"
+
+#: fjord/analytics/views.py:153 fjord/analytics/templates/analytics/response.html:24 fjord/analytics/templates/analytics/mobile/response.html:13
+msgid "Response id: {id}"
+msgstr ""
+
+#: fjord/analytics/views.py:281
+msgid "Bigram"
+msgstr ""
+
+#: fjord/analytics/views.py:366
+#, fuzzy
+msgid "Sentiment"
+msgstr "Cảm nghĩ:"
+
+#: fjord/analytics/views.py:373 fjord/analytics/templates/analytics/response.html:111
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: fjord/analytics/views.py:384 fjord/analytics/views.py:390 fjord/analytics/templates/analytics/response.html:115
+#, fuzzy
+msgid "Version"
+msgstr "Phiên bản:"
+
+#: fjord/analytics/views.py:391
+msgid "Select product to see version breakdown"
+msgstr ""
+
+#: fjord/analytics/views.py:399 fjord/analytics/templates/analytics/response.html:99
+msgid "Platform"
+msgstr "Nền tảng"
+
+#: fjord/analytics/views.py:405 fjord/analytics/templates/analytics/response.html:105
+msgid "Locale"
+msgstr "Bản địa"
+
+#: fjord/analytics/templates/analytics/dashboard.html:7
+#, fuzzy
+msgid "Atom feed for this search"
+msgstr "ATOM feed cho tìm kiếm này"
+
+#: fjord/analytics/templates/analytics/dashboard.html:45 fjord/analytics/templates/analytics/analyzer/search.html:78 fjord/analytics/templates/analytics/mobile/response.html:40
+msgid "Permalink"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/dashboard.html:100
+msgid "When"
+msgstr "Khi nào"
+
+#. Short for 1 day.
+#: fjord/analytics/templates/analytics/dashboard.html:102
+msgid "1d"
+msgstr "1d"
+
+#. Short for 7 days.
+#: fjord/analytics/templates/analytics/dashboard.html:104
+msgid "7d"
+msgstr "7d"
+
+#. Short for 30 days.
+#: fjord/analytics/templates/analytics/dashboard.html:106
+msgid "30d"
+msgstr "30d"
+
+#. Short for 90 days.
+#: fjord/analytics/templates/analytics/dashboard.html:108
+#, fuzzy
+msgid "90d"
+msgstr "30d"
+
+#: fjord/analytics/templates/analytics/dashboard.html:110
+#, fuzzy
+msgid "&raquo;"
+msgstr "tiếp &raquo;"
+
+#: fjord/analytics/templates/analytics/dashboard.html:114
+msgid "Start"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/dashboard.html:116
+msgid "End"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/dashboard.html:117
+#, fuzzy
+msgid "Set"
+msgstr "Thiết lập"
+
+#: fjord/analytics/templates/analytics/dashboard.html:136
+msgid "Note: All dates and times are in Pacific Time."
+msgstr ""
+
+#: fjord/analytics/templates/analytics/dashboard.html:141
+msgid "Feedback"
+msgstr "Phản hồi"
+
+#: fjord/analytics/templates/analytics/dashboard.html:145
+#, fuzzy
+msgid "Search by keyword"
+msgstr "Tìm kiếm theo từ khóa"
+
+#: fjord/analytics/templates/analytics/dashboard.html:163
+msgid "No feedback matches that criteria."
+msgstr ""
+
+#: fjord/analytics/templates/analytics/dashboard.html:169
+#, fuzzy
+msgid "Older Messages"
+msgstr "&laquo; Thông điệp Mới hơn"
+
+#: fjord/analytics/templates/analytics/dashboard.html:174
+#, fuzzy
+msgid "Newer Messages"
+msgstr "Thông điệp Cũ &raquo;"
+
+#: fjord/analytics/templates/analytics/dashboard.html:185
+msgid "Messages in specified time range"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/es_down.html:12
+#, fuzzy
+msgid "Dashboard unavailable"
+msgstr "Tìm kiếm Không hiện hữu"
+
+#: fjord/analytics/templates/analytics/es_down.html:14
+msgid "Dashboard is currently unavailable. Please try again in 10 minutes."
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:45
+msgid "Category"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:47 fjord/analytics/templates/analytics/response.html:125 fjord/analytics/templates/analytics/response.html:129
+#: fjord/analytics/templates/analytics/response.html:133 fjord/analytics/templates/analytics/response.html:137 fjord/analytics/templates/analytics/response.html:141
+#: fjord/analytics/templates/analytics/response.html:145
+msgid "None"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:49
+msgid "Description"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:53
+#, fuzzy
+msgid "Translated"
+msgstr "Dịch!"
+
+#: fjord/analytics/templates/analytics/response.html:64
+#, fuzzy
+msgid "Translate (machine)"
+msgstr "Dịch thông báo"
+
+#: fjord/analytics/templates/analytics/response.html:70
+#, fuzzy
+msgid "Translate (human)"
+msgstr "Dịch!"
+
+#: fjord/analytics/templates/analytics/response.html:85
+msgid "Created"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:119
+#, fuzzy
+msgid "Channel"
+msgstr "Kênh Beta"
+
+#: fjord/analytics/templates/analytics/response.html:123
+msgid "URL Domain"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:127
+#, fuzzy
+msgid "Source"
+msgstr "Mã nguồn"
+
+#: fjord/analytics/templates/analytics/response.html:131
+msgid "Campaign"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:135
+msgid "Browser"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:139
+msgid "Browser Ver."
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:143
+msgid "Browser Plat."
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:151
+msgid "Full URL"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:155 fjord/feedback/templates/feedback/fxos_feedback.html:94
+msgid "Country"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:159
+msgid "Manufacturer"
+msgstr "Nhà sản xuất"
+
+#: fjord/analytics/templates/analytics/response.html:163 fjord/feedback/templates/feedback/fxos_feedback.html:116
+#, fuzzy
+msgid "Device"
+msgstr "Thiết bị"
+
+#: fjord/analytics/templates/analytics/response.html:167
+#, fuzzy
+msgid "User agent"
+msgstr "Chuỗi Đại diện Người dùng"
+
+#: fjord/analytics/templates/analytics/response.html:171
+msgid "Email"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:179
+msgid "Browser data"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:182
+msgid "yes"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:187
+#, fuzzy
+msgid "API version"
+msgstr "Phiên bản:"
+
+#: fjord/analytics/templates/analytics/response.html:205
+msgid "Context"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/mobile/dashboard.html:4
+msgid "Dashboard is not available on mobile devices, yet."
+msgstr ""
+
+#: fjord/base/models.py:55
+msgid "JSON Object"
+msgstr ""
+
+#: fjord/base/templates/403.html:3 fjord/base/templates/403.html:9
+msgid "Forbidden"
+msgstr ""
+
+#: fjord/base/templates/403.html:12
+msgid "You do not have access to this page."
+msgstr ""
+
+#: fjord/base/templates/403.html:14
+msgid "You do not have access to this page. If you have an account, try signing in."
+msgstr ""
+
+#: fjord/base/templates/403.html:18 fjord/base/templates/404.html:14 fjord/base/templates/500.html:35 fjord/base/templates/includes/login_failure_text.html:8
+msgid "Return to the dashboard."
+msgstr ""
+
+#: fjord/base/templates/404.html:3 fjord/base/templates/404.html:9
+#, fuzzy
+msgid "Not Found"
+msgstr "Không tìm thấy kết quả"
+
+#: fjord/base/templates/404.html:11
+msgid "The document could not be found."
+msgstr ""
+
+#: fjord/base/templates/500.html:8
+msgid "Something has gone horribly wrong"
+msgstr ""
+
+#: fjord/base/templates/500.html:19 fjord/base/templates/base.html:44 fjord/base/templates/mobile/base.html:29
+#, fuzzy
+msgid "<strong>Firefox</strong> Input"
+msgstr "Bảng thống kê <strong>Firefox</strong> Input"
+
+#: fjord/base/templates/500.html:25 fjord/base/templates/base.html:50 fjord/base/templates/mobile/base.html:35
+msgid "Dashboard"
+msgstr "Bảng thống kê"
+
+#: fjord/base/templates/500.html:33
+msgid "Something has gone horribly wrong."
+msgstr ""
+
+#: fjord/base/templates/500.html:34
+#, fuzzy
+msgid "There was a problem on the server."
+msgstr "Mô tả vấn đề với trang."
+
+#: fjord/base/templates/about.html:3 fjord/base/templates/includes/common.html:23
+msgid "About Firefox Input"
+msgstr "Thông tin về Firefox Input"
+
+#: fjord/base/templates/about.html:9
+msgid "Hello!"
+msgstr "Xin chào!"
+
+#: fjord/base/templates/about.html:11
+#, fuzzy
+msgid ""
+"Firefox Input is Mozilla's primary feedback mechanism for products. It is set up to be a method of one-way communication about your experiences in using our products, the Internet you view it "
+"through, and what Mozilla can do to make that experience better. The system is available over a wide-variety of submission mechanisms and product builds."
+msgstr ""
+"<strong>Firefox Input</strong> là cơ chế phản hồi chính thức của Mozilla. Nó được thiết lập là phương thức liên lạc một chiều về trải nghiệm của bạn trong việc dùng Firefox, mạng Internet mà bạn "
+"xem, và những gì mà Mozilla có thể làm để làm trải nghiệm đó tốt hơn. Hệ thống này hiện hữu trên một khoảng lớn cơ chế gửi của tất cả ba kênh chính."
+
+#: fjord/base/templates/about.html:21
+#, fuzzy
+msgid "To submit feedback for a Mozilla product, please go to <a href=\"%(url)s\">the feedback submission page</a>!"
+msgstr "Để gửi phản hồi cho phiên bản Firefox của bạn, vui lòng vào <a href=\"%(url)s\">trang gửi phản hồi</a>!"
+
+#: fjord/base/templates/about.html:27 fjord/base/templates/includes/common.html:20
+msgid "Privacy Policy"
+msgstr "Chính sách Riêng tư"
+
+#: fjord/base/templates/about.html:29
+msgid "We adhere to the <a href=\"%(url)s\">Mozilla Privacy Policy</a>."
+msgstr ""
+
+#: fjord/base/templates/about.html:34
+msgid "Legal Disclaimers and Limitations"
+msgstr ""
+
+#: fjord/base/templates/about.html:36
+msgid "We are covered by the <a href=\"%(url)s\">Mozilla legal disclaimers and limitations</a> document."
+msgstr ""
+
+#: fjord/base/templates/about.html:42
+msgid "Data Retention Policy"
+msgstr ""
+
+#: fjord/base/templates/about.html:44
+msgid "We have a data retention policy that covers data stored on this site:"
+msgstr ""
+
+#: fjord/base/templates/about.html:51
+msgid "We keep feedback data forever, but only the last 6 months of data is available on the public dashboard."
+msgstr ""
+
+#: fjord/base/templates/about.html:57
+msgid "We keep email addresses and contextual data associated with feedback data for 6 months and then delete it."
+msgstr ""
+
+#: fjord/base/templates/about.html:64
+msgid "Open Data"
+msgstr "Dữ liệu Mở"
+
+#: fjord/base/templates/about.html:66
+msgid ""
+"We'd love to experiment more with this data, but we're only a few people. So, we need requests from you on questions you'd like to see answered! If you would like to experiment with our data, "
+"please contact us!"
+msgstr ""
+
+#: fjord/base/templates/about.html:74
+msgid "Source Code"
+msgstr "Mã nguồn"
+
+#: fjord/base/templates/about.html:76
+#, fuzzy
+msgid "The code for the Firefox Input site can be <a href=\"%(url)s\">found on GitHub</a>!"
+msgstr "Mã nguồn của ứng dụng web Firefox Input có thể được tìm thấy <a href=\"%(url)s\">trên GitHub</a>!"
+
+#: fjord/base/templates/base.html:5 fjord/base/templates/mobile/base.html:4
+msgid "Welcome"
+msgstr "Chào mừng"
+
+#: fjord/base/templates/base.html:32 fjord/base/templates/mobile/base.html:21
+msgid "Proceed to main content"
+msgstr "Đi tới nội dung chính"
+
+#: fjord/base/templates/base.html:33 fjord/base/templates/mobile/base.html:22
+msgid "Proceed to footer"
+msgstr "Đi tới chân trang"
+
+#: fjord/base/templates/base.html:51
+msgid "Give Feedback"
+msgstr "Gửi phản hồi"
+
+#: fjord/base/templates/base.html:53
+msgid "Analytics"
+msgstr ""
+
+#: fjord/base/templates/base.html:59
+msgid "Hello, {username}"
+msgstr ""
+
+#: fjord/base/templates/base.html:63
+msgid "Sign out"
+msgstr ""
+
+#: fjord/base/templates/base.html:65
+msgid "Sign in"
+msgstr ""
+
+#: fjord/base/templates/csrf_failure.html:3 fjord/base/templates/includes/csrf_failure_text.html:1 fjord/base/templates/mobile/csrf_failure.html:3
+msgid "CSRF Failure"
+msgstr ""
+
+#: fjord/base/templates/login_failure.html:3 fjord/base/templates/includes/login_failure_text.html:1 fjord/base/templates/mobile/login_failure.html:3
+msgid "Login Failure"
+msgstr ""
+
+#: fjord/base/templates/new_user.html:3 fjord/base/templates/mobile/new_user.html:3
+#, fuzzy
+msgid "Welcome to Input!"
+msgstr "Chào mừng!"
+
+#: fjord/base/templates/includes/common.html:7
+msgid "Other languages:"
+msgstr "Ngôn ngữ khác:"
+
+#: fjord/base/templates/includes/common.html:15
+msgid "Go"
+msgstr "Đi"
+
+#: fjord/base/templates/includes/common.html:21
+msgid "Legal Notices"
+msgstr "Lưu ý Pháp lí"
+
+#: fjord/base/templates/includes/common.html:22
+msgid "Report Trademark Abuse"
+msgstr "Báo cáo Lạm dụng Thương hiệu"
+
+#: fjord/base/templates/includes/common.html:26
+#, fuzzy
+msgid ""
+"Except where otherwise <a href=\"%(legal_url)s\">noted</a>, content on this site is licensed under the <a href=\"%(license_url)s\">Creative Commons Attribution Share-Alike License v3.0</a> or any "
+"later version."
+msgstr ""
+"Trừ khi có <a href=\"%(legal_url)s\">ghi chú</a> khác, nội dung trên trang này tuân theo <br/> <a href=\"%(license_url)s\">Giấy phép Chia sẻ Tương tự Tính chất Creative Commons v3.0</a> và bất kì "
+"phiên bản nào sau này của nó."
+
+#: fjord/base/templates/includes/csrf_failure_text.html:3
+msgid "Your submission failed a security check on our system."
+msgstr ""
+
+#: fjord/base/templates/includes/csrf_failure_text.html:8
+msgid "Please make sure you have cookies enabled, press the Back button in your browser, refresh the page, fill out the form, and try submitting your feedback again."
+msgstr ""
+
+#: fjord/base/templates/includes/login_failure_text.html:3
+msgid "You've failed to authenticate with Persona. Please try again."
+msgstr ""
+
+#: fjord/base/templates/includes/new_user_text.html:1
+msgid "Welcome!"
+msgstr "Chào mừng!"
+
+#: fjord/base/templates/includes/new_user_text.html:3
+msgid "The identity you just logged in to Persona with ties you to your account on Input. Please remember which Persona identity you used."
+msgstr ""
+
+#: fjord/base/templates/includes/new_user_text.html:10
+msgid "Continue"
+msgstr ""
+
+#: fjord/feedback/config.py:10
+msgid "Colombia"
+msgstr ""
+
+#: fjord/feedback/config.py:11
+msgid "Venezuela"
+msgstr ""
+
+#: fjord/feedback/config.py:12
+msgid "Poland"
+msgstr ""
+
+#: fjord/feedback/config.py:13
+msgid "Spain"
+msgstr ""
+
+#: fjord/feedback/config.py:14
+msgid "Brazil"
+msgstr ""
+
+#: fjord/feedback/config.py:15
+msgid "Germany"
+msgstr ""
+
+#: fjord/feedback/config.py:16
+msgid "Greece"
+msgstr ""
+
+#: fjord/feedback/config.py:17
+msgid "Hungary"
+msgstr ""
+
+#: fjord/feedback/config.py:18
+msgid "Serbia"
+msgstr ""
+
+#: fjord/feedback/config.py:19
+msgid "Montenegro"
+msgstr ""
+
+#: fjord/feedback/config.py:20
+msgid "Mexico"
+msgstr ""
+
+#: fjord/feedback/config.py:21
+msgid "Peru"
+msgstr ""
+
+#: fjord/feedback/config.py:22
+msgid "Uruguay"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/download_firefox.html:10 fjord/feedback/templates/feedback/mobile/download_firefox.html:7
+msgid "Download Firefox"
+msgstr "Tải xuống Firefox"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:16
+#, fuzzy
+msgid "Please Download Firefox"
+msgstr "Tải xuống Firefox"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:21 fjord/feedback/templates/feedback/mobile/download_firefox.html:21
+msgid "Oh! So, you want to offer us feedback on Firefox. Thank you, but you'll need to be on the latest version."
+msgstr "Ồ! Vậy là bạn muốn cung cấp phản hồi cho chúng tôi về Firefox. Cảm ơn, nhưng bạn sẽ cần dùng phiên bản mới nhất."
+
+#: fjord/feedback/templates/feedback/download_firefox.html:27 fjord/feedback/templates/feedback/mobile/download_firefox.html:27
+msgid "To do that, simply go to our download page and install/update to the <a href=\"%(url)s\">latest version of Firefox!</a>"
+msgstr "Để làm việc đó, chỉ cần vào trang tải xuống của chúng tôi và cài đặt/cập nhật <a href=\"%(url)s\">phiên bản Firefox mới nhất!</a>"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:7 fjord/feedback/templates/feedback/generic_feedback.html:7
+msgid "Submit Your Feedback"
+msgstr "Gửi Phản Hồi của Bạn"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:31 fjord/feedback/templates/feedback/generic_feedback.html:32
+#, fuzzy
+msgid "{product} feedback"
+msgstr "Gửi Phản Hồi"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:36 fjord/feedback/templates/feedback/generic_feedback.html:37 fjord/feedback/templates/feedback/picker.html:28
+msgid "JavaScript is required to leave feedback. Please enable JavaScript in your browser and refresh this page."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:43
+#, fuzzy
+msgid "Your feedback helps us improve Firefox OS."
+msgstr "Phản hồi của bạn giúp chúng tôi cải tiến Firefox."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:58 fjord/feedback/templates/feedback/generic_feedback.html:60
+#, fuzzy
+msgid "%(product)s makes me happy"
+msgstr "Firefox làm tôi vui ..."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:75 fjord/feedback/templates/feedback/generic_feedback.html:77
+#, fuzzy
+msgid "%(product)s makes me sad"
+msgstr "%(count)s thông điệp"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:84 fjord/feedback/templates/feedback/generic_feedback.html:86
+msgid "Is %(product)s not the product you want to give feedback on?<br /> <a href=\"%(url)s\">Pick a different product</a>."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:98
+msgid "In what country did you purchase your Firefox OS device?"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:106 fjord/feedback/templates/feedback/fxos_feedback.html:128
+msgid "Other"
+msgstr "Khác"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:110 fjord/feedback/templates/feedback/fxos_feedback.html:132
+msgid "Next"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:120
+msgid "What Firefox OS device are you using?"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:137 fjord/feedback/templates/feedback/generic_feedback.html:95
+msgid "Details"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:142 fjord/feedback/templates/feedback/generic_feedback.html:100
+msgid "Please describe what you like. The content of your feedback will be public, so please be sure not to include personal information such as email address, passwords or phone number."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:150 fjord/feedback/templates/feedback/generic_feedback.html:108
+msgid ""
+"Please describe your problem below and be as specific as you can. The content of your feedback will be public, so please be sure not to include personal information such as email address, passwords "
+"or phone number."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:167 fjord/feedback/templates/feedback/generic_feedback.html:125
+msgid "If your feedback is related to a website, you can include it here:"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:181 fjord/feedback/templates/feedback/generic_feedback.html:156
+msgid "(Optional) Check here to let us contact you to follow up on your feedback. Your email address will be kept private."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:192
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:198 fjord/feedback/templates/feedback/generic_feedback.html:170
+#, fuzzy
+msgid "Submit"
+msgstr "Đang gửi Phản hồi"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:204
+#, fuzzy
+msgid "Submitting...."
+msgstr "Đang gửi Phản hồi"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:212
+msgid "Success!"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:216
+#, fuzzy
+msgid "Thank you for your feedback! We will use it to help us create a better experience in future versions of Firefox OS."
+msgstr "trải nghiệm tốt hơn trong các bản phát hành tương lai của Firefox."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:222
+msgid "Learn how you can <a href=\"%(url)s\">make Firefox OS and Mozilla better</a>."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:231
+msgid "We're sorry!"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:234
+msgid "Something has happened and we can't submit your feedback. Feedback will be saved on your device so you can try sending it again later."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:240 fjord/feedback/templates/feedback/fxos_feedback.html:246 fjord/feedback/templates/feedback/fxos_feedback.html:255
+msgid "Try again"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:241 fjord/feedback/templates/feedback/fxos_feedback.html:256
+msgid "Cancel"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:249
+msgid "You have unsubmitted feedback data. Would you like to try submitting it again?"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/generic_feedback.html:43
+msgid "How does %(product)s make you feel?"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/generic_feedback.html:140
+msgid ""
+"Check here to provide technical information about your browser. This information helps us better understand our users and create better products. This information will be kept in accordance with "
+"our Privacy policy."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/picker.html:3
+#, fuzzy
+msgid "Select A Product"
+msgstr "Sản phẩm"
+
+#: fjord/feedback/templates/feedback/picker.html:14
+msgid "Select a product"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/picker.html:23
+#, fuzzy
+msgid "No products available."
+msgstr "Tìm kiếm Không hiện hữu"
+
+#: fjord/feedback/templates/feedback/picker.html:34
+msgid "Select a product to leave feedback for."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/thanks.html:3 fjord/feedback/templates/feedback/thanks_l10nized.html:3
+msgid "Thanks"
+msgstr "Cảm ơn"
+
+#: fjord/feedback/templates/feedback/thanks.html:16 fjord/feedback/templates/feedback/thanks_l10nized.html:16
+msgid "Thanks for Your Feedback"
+msgstr "Cảm ơn về Phản Hồi của Bạn"
+
+#: fjord/feedback/templates/feedback/thanks.html:25
+#, fuzzy
+msgid "Your feedback will be used to create a better experience in future releases of Firefox."
+msgstr "trải nghiệm tốt hơn trong các bản phát hành tương lai của Firefox."
+
+#: fjord/feedback/templates/feedback/thanks.html:33 fjord/feedback/templates/feedback/thanks_l10nized.html:33
+#, fuzzy
+msgid "Suggestions from your feedback:"
+msgstr "Xem phản hồi của bạn đi đâu."
+
+#: fjord/feedback/templates/feedback/thanks.html:49 fjord/feedback/templates/feedback/thanks_l10nized.html:49
+msgid "Having problems? Get help."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/thanks.html:51 fjord/feedback/templates/feedback/thanks_l10nized.html:51
+msgid "Go to our support forum where you can <a href=\"%(url)s\">get help and find answers</a>."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/thanks.html:60 fjord/feedback/templates/feedback/thanks_l10nized.html:64
+#, fuzzy
+msgid "Shape the future of Firefox."
+msgstr "Tìm hiểu tin tức mới nhất về Firefox."
+
+#: fjord/feedback/templates/feedback/thanks.html:62
+msgid "Download <a href=\"%(download_url)s\">the build that is right for you</a>."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/thanks.html:70 fjord/feedback/templates/feedback/thanks_l10nized.html:74
+#, fuzzy
+msgid "Contribute to Mozilla."
+msgstr "Planet Mozilla"
+
+#: fjord/feedback/templates/feedback/thanks.html:72
+msgid "Learn how you can <a href=\"%(url)s\">make Firefox and Mozilla better</a>."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/thanks.html:79
+msgid "Find the latest news about Firefox."
+msgstr "Tìm hiểu tin tức mới nhất về Firefox."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:25
+#, fuzzy
+msgid "Your feedback will be used to create a better experience in future releases of %(product)s."
+msgstr "trải nghiệm tốt hơn trong các bản phát hành tương lai của Firefox."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:66
+msgid "Download <a href=\"%(download_url)s\">the Firefox build that is right for you</a>."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:76
+msgid "Learn how you can <a href=\"%(url)s\">make %(product)s and Mozilla better</a>."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:84
+#, fuzzy
+msgid "Find the latest news about %(product)s."
+msgstr "Tìm hiểu tin tức mới nhất về Firefox."
+
+#: fjord/feedback/templates/feedback/mobile/download_firefox.html:16
+#, fuzzy
+msgid "Please Download Firefox!"
+msgstr "Tải xuống Firefox"
+
+#: fjord/suggest/providers/sumosuggest.py:180
+msgid "Ask a question in our support forum"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Submit feedback"
+#~ msgstr "Gửi Phản Hồi"
+
+#, fuzzy
+#~ msgid "Firefox OS made me happy"
+#~ msgstr "Firefox làm tôi vui"
+
+#, fuzzy
+#~ msgid "Firefox OS made me sad"
+#~ msgstr "Firefox làm tôi thất vọng"
+
+#, fuzzy
+#~ msgid "If you need help or have a problem with Firefox OS, please visit <a href=\"%(support_url)s\">Mozilla Support</a>."
+#~ msgstr "Nếu bạn cần trợ giúp hoặc có vấn đề với Firefox, vui lòng vào <a href=\"%(support_url)s\">Hỗ Trợ Firefox</a>."
+
+#~ msgid "Please describe what you liked."
+#~ msgstr "Vui lòng mô tả những điều bạn thích."
+
+#, fuzzy
+#~ msgid "Please describe your problem below and be as specific as you can."
+#~ msgstr "Vui lòng mô tả vấn đề của bạn bên dưới."
+
+#~ msgid "Send Feedback"
+#~ msgstr "Gửi phản hồi"
+
+#~ msgid "Your feedback helps us improve Firefox."
+#~ msgstr "Phản hồi của bạn giúp chúng tôi cải tiến Firefox."
+
+#~ msgid "Firefox made me happy"
+#~ msgstr "Firefox làm tôi vui"
+
+#~ msgid "Firefox made me sad"
+#~ msgstr "Firefox làm tôi thất vọng"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit <a href=\"%(support_url)s\">Firefox Support</a>."
+#~ msgstr "Nếu bạn cần trợ giúp hoặc có vấn đề với Firefox, vui lòng vào <a href=\"%(support_url)s\">Hỗ Trợ Firefox</a>."
+
+#~ msgid "Please describe your problem below."
+#~ msgstr "Vui lòng mô tả vấn đề của bạn bên dưới."
+
+#, fuzzy
+#~ msgid "Unknown product"
+#~ msgstr "Không rõ"
+
+#, fuzzy
+#~ msgid "If you are here by mistake and want to leave feedback, you can do so <a href=\"%(url)s\">on our feedback form</a>."
+#~ msgstr "Nếu bạn muốn biết góp ý của mình được gửi tới đâu, hãy nhìn trang <a href=\"%(url)s\">Bảng thống kê Firefox Input</a> của chúng tôi."
+
+#, fuzzy
+#~ msgid "<a href=\"%(feedback_url)s\">I want to give feedback about Firefox</a>"
+#~ msgstr "Vào <a href=\"%(dash_url)s\">Bảng thống kê Phản hồi Firefox</a>"
+
+#~ msgid "Latest Feedback"
+#~ msgstr "Phản hồi Mới nhất"
+
+#~ msgid "Messages"
+#~ msgstr "Thông điệp"
+
+#~ msgid "Firefox Made Me Happy"
+#~ msgstr "Firefox Làm Tôi Vui"
+
+#~ msgid "Firefox Made Me Sad"
+#~ msgstr "Firefox Làm Tôi Thất Vọng"
+
+#, fuzzy
+#~ msgid "Super! It's great to hear that you like our browser."
+#~ msgstr "Tuyệt! Thật vui khi biết rằng bạn thích trình duyệt thử nghiệm của chúng tôi."
+
+#~ msgid "We are sorry that you have not had a good experience with our browser. Please tell us why, so we can fix it."
+#~ msgstr "Chúng tôi rất tiếc là bạn đã không có trải nghiệm tốt với trình duyệt của chúng tôi. Vui lòng cho chúng tôi biết tại sao, để chúng tôi có thể sửa."
+
+#~ msgid "Go Back"
+#~ msgstr "Quay lại"
+
+#~ msgid "To protect your privacy, please ensure that no personally identifiable information is included in your feedback."
+#~ msgstr "Để bảo vệ sự riêng tư của bạn, vui lòng chắc chắn rằng không có thông tin nhận dạng cá nhân nào trong phản hồi của bạn"
+
+#~ msgid "Submitting Feedback"
+#~ msgstr "Đang gửi Phản hồi"
+
+#~ msgid "Submit Feedback"
+#~ msgstr "Gửi Phản Hồi"
+
+#~ msgid "Want to see where your feedback goes?"
+#~ msgstr "Muốn xem phản hồi của bạn đi đâu?"
+
+#, fuzzy
+#~ msgid "For support requests, please go to <a href=\"%(support_url)s\">Mozilla Support</a> instead."
+#~ msgstr "Nếu bạn cần trợ giúp hoặc có vấn đề với Firefox, vui lòng vào <a href=\"%(support_url)s\">Hỗ Trợ Firefox</a>."
+
+#, fuzzy
+#~ msgid "Thank you for your feedback!"
+#~ msgstr "Cảm ơn về Phản Hồi của Bạn"
+
+#, fuzzy
+#~ msgid "Thanks for the feedback! We will use it to help create a better experience in future releases of Firefox."
+#~ msgstr "trải nghiệm tốt hơn trong các bản phát hành tương lai của Firefox."
+
+#, fuzzy
+#~ msgid "Want to know what's going on with Firefox? We have many ways of staying in touch:"
+#~ msgstr "Muốn biết những gì đang diễn ra với Firefox cho Di động? Chúng tôi có nhiều cách để giữ kết nối:"
+
+#, fuzzy
+#~ msgid "Find the latest news about Mozilla."
+#~ msgstr "Tìm hiểu tin tức mới nhất về Firefox."
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Planet Mozilla"
+#~ msgstr "Planet Mozilla"
+
+#, fuzzy
+#~ msgid "Page not found"
+#~ msgstr "Không tìm thấy"
+
+#, fuzzy
+#~ msgid "Sorry, but we couldn't find the page you're looking for."
+#~ msgstr "Xin lỗi, tôi không thể tìm thấy cái bạn muốn."
+
+#~ msgid "We already got your feedback! Thanks."
+#~ msgstr "Chúng tôi đã nhận được phản hồi của bạn! Xin cảm ơn."
+
+#~ msgid "Describe your idea below."
+#~ msgstr "Mô tả ý kiến của bạn bên dưới."
+
+#~ msgid "Praise"
+#~ msgstr "Khen ngợi"
+
+#~ msgid "Issue"
+#~ msgstr "Vấn đề"
+
+#~ msgid "Your comment contains swear words (%s). In order to help us improve our products, please use words that help us create an action or to-do from your constructive feedback. Thanks!"
+#~ msgstr ""
+#~ "Bình luận của bạn có chứa từ ngữ chửi thề (%s). Để giúp chúng tôi cải tiến sản phẩm của mình, vui lòng dùng những lời lẽ có thể giúp chúng tôi tạo ra hành động cần thiết từ những phản hồi có "
+#~ "tính xây dựng của bạn. Cảm ơn!"
+
+#~ msgid "Feedback must not contain HTML."
+#~ msgstr "Phản hồi không được chứa HTML."
+
+#~ msgid "Your feedback seems to contain an email address. Please remove this and similar personal data from the text, then try again. Thanks!"
+#~ msgstr "Dường như phản hồi của bạn có chứa một địa chỉ email. Vui lòng xóa bỏ nó và những thông tin cá nhân tương tự khỏi văn bản, rồi thử lại. Cảm ơn!"
+
+#~ msgid "Your feedback seems to contain a URL. Please remove this and similar personal data from the text, then try again. Thanks!"
+#~ msgstr "Dường như phản hồi của bạn có chứa một URL. Vui lòng xóa bỏ nó và những thông tin cá nhân tương tự khỏi văn bản, rồi thử lại. Cảm ơn!"
+
+#~ msgid "User-Agent request header must be set."
+#~ msgstr "Đầu đề yêu cầu của chuỗi Đại diện Người dùng phải được thiết lập."
+
+#~ msgid "It's great to hear you want to help Mozilla make your experience better!"
+#~ msgstr "Thật tuyệt khi được biết bạn muốn giúp Mozilla làm cho trải nghiệm của bạn tốt hơn!"
+
+#~ msgid "Please choose one of the following types of feedback that you would like to submit to us:"
+#~ msgstr "Vui lòng chọn một trong các kiểu phản hồi mà bạn muốn gửi cho chúng tôi:"
+
+#~ msgid "Firefox makes me happy because ..."
+#~ msgstr "Firefox làm tôi vui vì ..."
+
+#~ msgid "Firefox makes me sad because ..."
+#~ msgstr "Firefox làm tôi chán vì ..."
+
+#~ msgid "Firefox Logo"
+#~ msgstr "Biểu trưng Firefox"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit our <a href=\"%(support_url)s\">support page</a>."
+#~ msgstr "Nếu bạn cần trợ giúp hoặc có vấn đề với Firefox, vui lòng vào <a href=\"%(support_url)s\">trang hỗ trợ</a> của chúng tôi."
+
+#~ msgid "I Have an Idea for Firefox"
+#~ msgstr "Tôi Có Một Ý Kiến Cho Firefox"
+
+#~ msgid "Have an idea how Firefox could be better? Let us know."
+#~ msgstr "Có sáng kiến giúp Firefox có thể trở nên tốt hơn? Xin hãy cho chúng tôi biết."
+
+#~ msgid "Include the URL of a site that worked better."
+#~ msgstr "Bao gồm URL của một trang đã hoạt động tốt hơn."
+
+#~ msgid "Include the URL of the site with the problem."
+#~ msgstr "Bao gồm URL của trang có vấn đề này."
+
+#~ msgid "If you have an idea to offer us instead, please use our"
+#~ msgstr "Nếu bạn có ý kiến cho chúng tôi, vui lòng dùng"
+
+#~ msgid "suggestion box"
+#~ msgstr "hộp đề xuất"
+
+#, fuzzy
+#~ msgid "Super! It's great to hear that you like our browser. Please explain what you specifically like!"
+#~ msgstr "Tuyệt! Thật vui khi biết rằng bạn thích trình duyệt thử nghiệm của chúng tôi. Vui lòng nêu lí do cho những điểm mà bạn đặc biệt thích nhé!"
+
+#~ msgid "We are sorry that you have not had a good experience with our browser. Please tell us why, so we can fix it!"
+#~ msgstr "Chúng tôi rất tiếc là bạn đã không có trải nghiệm tốt với trình duyệt của chúng tôi. Vui lòng cho chúng tôi biết tại sao, để chúng tôi có thể sửa nó!"
+
+#~ msgid "So, you'd like to make a suggestion on how to enhance Firefox? Awesome! Please enter your idea below:"
+#~ msgstr "Vậy là bạn muốn đề xuất cách cải tiến Firefox? Tuyệt! Vui lòng điền ý kiến bên dưới:"
+
+#~ msgid "Know of a website that works better in this beta than it did in earlier versions of Firefox? Please add the URL, so we can keep track!"
+#~ msgstr "Biết một trang web hoạt động tốt hơn trong bản beta này so với các phiên bản Firefox trước đây? Vui lòng thêm URL của nó vào, để chúng tôi có thể theo dõi!"
+
+#~ msgid "Had an issue with a specific website? Please add the URL, so we can find the issue faster!"
+#~ msgstr "Có vấn đề với trang web cụ thể nào đó? Vui lòng thêm URL, để chúng tôi có thể tìm ra vấn đề nhanh hơn!"
+
+#~ msgid "Please ensure that there is no personally identifiable information here."
+#~ msgstr "Vui lòng chắc chắn rằng không có thông tin nhận dạng cá nhân nào ở đây."
+
+#~ msgid "If you have an idea to offer us instead, please send it to us through our <a href=\"%(url_idea)s\">idea box</a>!"
+#~ msgstr "Nếu bạn có ý kiến cho chúng tôi, vui lòng gửi tới chúng tôi thông qua <a href=\"%(url_idea)s\">hộp ý kiến</a>!"
+
+#~ msgid "Your feedback will be used to create a"
+#~ msgstr "Phản hồi của bạn sẽ được dùng để tạo một"
+
+#~ msgid "Thanks for helping Mozilla make your experience better!"
+#~ msgstr "Cảm ơn đã giúp Mozilla làm cho trải nghiệm của bạn tốt hơn!"
+
+#~ msgid "Please choose the type of feedback that you would like to submit to us:"
+#~ msgstr "Vui lòng chọn kiểu phản hồi mà bạn muốn gửi cho chúng tôi:"
+
+#~ msgid "Firefox makes me sad ..."
+#~ msgstr "Firefox làm tôi chán ..."
+
+#~ msgid "Download Beta"
+#~ msgstr "Tải xuống Beta"
+
+#~ msgid "Oh! So, you want to offer us feedback. You'll need the latest Beta! Head over to our beta page and <a href=\"%(url)s\">download it!</a>"
+#~ msgstr "Ồ! Vậy là bạn muốn cung cấp phản hồi cho chúng tôi. Bạn sẽ cần bản Beta mới nhất! Hãy tới trang beta của chúng tôi và <a href=\"%(url)s\">tải xuống!</a>"
+
+#, fuzzy
+#~ msgid "Back to Dashboard"
+#~ msgstr "Bảng thống kê Phản hồi"
+
+#~ msgid "We're glad Firefox for Mobile made you happy! Please tell us what you liked."
+#~ msgstr "Chúng tôi mừng là Firefox cho Di động đã làm bạn vui! Xin vui lòng cho chúng tôi biết những điều bạn thích."
+
+#~ msgid "We're sorry Firefox for Mobile made you sad. Please tell us what happened so we can fix it."
+#~ msgstr "Chúng tôi rất tiếc là Firefox cho Di động đã làm bạn thất vọng. Vui lòng cho chúng tôi biết tại sao, để chúng tôi có thể sửa."
+
+#~ msgid "We love ideas for Firefox for Mobile! Please descibe your idea below."
+#~ msgstr "Chúng tôi quý trọng các ý kiến về Firefox cho Di động! Vui lòng mô tả ý kiến của bạn bên dưới."
+
+#~ msgid "Got an idea? <a href=\"%(url)s\">Submit it instead.</a>"
+#~ msgstr "Có ý kiến? <a href=\"%(url)s\">Hãy gửi nó lên.</a>"
+
+#~ msgid "Include your last visited site?"
+#~ msgstr "Bao gồm trang đã vào gần đây nhất của bạn?"
+
+#~ msgid "For your privacy, please don't include any personally identifiable information in your feedback."
+#~ msgstr "Vì sự riêng tư của bạn, vui lòng không gửi kèm bất kì thông tin nhận dạng cá nhân nào trong phản hồi của bạn."
+
+#~ msgid "Super! Please tell us more!"
+#~ msgstr "Quá hay! Vui lòng cho chúng tôi biết thêm!"
+
+#~ msgid "Ack! Please tell us what to fix!"
+#~ msgstr "Ôi! Vui lòng cho chúng tôi biết cần sửa cái gì!"
+
+#~ msgid "Awesome! Please enter your idea below:"
+#~ msgstr "Tuyệt! Vui lòng đưa ra đề nghị của bạn bên dưới:"
+
+#~ msgid "Add URL of last visited page?"
+#~ msgstr "Thêm URL của trang đã vào cuối cùng?"
+
+#~ msgid "Or submit your ideas with our <a href=\"%(url_idea)s\">idea box</a>!"
+#~ msgstr "Hoặc gửi ý kiến của bạn bằng <a href=\"%(url_idea)s\">hộp ý kiến</a> của chúng tôi!"
+
+#~ msgid "We love feedback about Firefox for Mobile! What would you like to tell us?"
+#~ msgstr "Chúng tôi quý trọng phản hồi về Firefox cho Di động! Bạn muốn nói cho chúng tôi những gì?"
+
+#~ msgid "I have an idea for Firefox"
+#~ msgstr "Tôi có một ý kiến cho Firefox"
+
+#, fuzzy
+#~ msgid "If you need help or have a problem with Firefox, please visit <a id=\"sumo-url\" href=\"%(url)s/\">Firefox Support</a>."
+#~ msgstr "Nếu bạn cần trợ giúp hoặc có vấn đề với Firefox, vui lòng vào <a href=\"%(url)s\">Hỗ Trợ Firefox</a>."
+
+#~ msgid "Tweet This"
+#~ msgstr "Tweet cái này"
+
+#~ msgid "Thanks for sharing your feedback!"
+#~ msgstr "Cảm ơn đã chia sẻ phản hồi của bạn!"
+
+#~ msgid "See where your feedback goes."
+#~ msgstr "Xem phản hồi của bạn đi đâu."
+
+#~ msgid "Feedback Dashboard"
+#~ msgstr "Bảng thống kê Phản hồi"
+
+#~ msgid "Follow us on Twitter."
+#~ msgstr "Theo đuôi chúng tôi trên Twitter."
+
+#~ msgid "Let's be friends."
+#~ msgstr "Làm bạn với nhau nhé."
+
+#~ msgid "Firefox on Facebook"
+#~ msgstr "Firefox trên Facebook"
+
+#~ msgid "Get the latest news on Firefox."
+#~ msgstr "Tìm hiểu tin tức mới nhất về Firefox."
+
+#~ msgid "Idea"
+#~ msgstr "Ý kiến"
+
+#~ msgid "Rating"
+#~ msgstr "Xếp hạng"
+
+#~ msgid "Broken Website"
+#~ msgstr "Trang web bị Lỗi"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Mobile"
+#~ msgstr "Di động"
+
+#~ msgid "Windows XP"
+#~ msgstr "Windows XP"
+
+#~ msgid "Windows 7"
+#~ msgstr "Windows 7"
+
+#~ msgid "Windows Vista"
+#~ msgstr "Windows Vista"
+
+#~ msgid "Mac OS X"
+#~ msgstr "Mac OS X"
+
+#~ msgid "Maemo"
+#~ msgstr "Maemo"
+
+#~ msgid "Android"
+#~ msgstr "Android"
+
+#~ msgid "Linux"
+#~ msgstr "Linux"
+
+#~ msgid "{0} day ago"
+#~ msgid_plural "{0} days ago"
+#~ msgstr[0] "{0} ngày trước"
+
+#~ msgid "{0} hour ago"
+#~ msgid_plural "{0} hours ago"
+#~ msgstr[0] "{0} giờ trước"
+
+#~ msgid "{0} minute ago"
+#~ msgid_plural "{0} minutes ago"
+#~ msgstr[0] "{0} phút trước"
+
+#~ msgid "just now"
+#~ msgstr "vừa mới đây"
+
+#~ msgid "Query has timed out."
+#~ msgstr "Truy vấn đã bị hết giờ."
+
+#~ msgid "Sphinx threw an unknown exception: %s"
+#~ msgstr "Sphinx đưa ra một lỗi ngoại lệ chưa biết: %s"
+
+#~ msgctxt "version_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- tất cả --"
+
+#~ msgctxt "sentiment_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- tất cả --"
+
+#~ msgid "Issues"
+#~ msgstr "Vấn đề"
+
+#~ msgid "Ideas"
+#~ msgstr "Ý kiến"
+
+#~ msgctxt "platform_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- tất cả --"
+
+#~ msgctxt "locale_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- tất cả --"
+
+#~ msgid "Product:"
+#~ msgstr "Sản phẩm:"
+
+#~ msgid "Version:"
+#~ msgstr "Phiên bản:"
+
+#~ msgid "Locale:"
+#~ msgstr "Bản địa:"
+
+#~ msgid "PLATFORM:"
+#~ msgstr "NỀN TẢNG:"
+
+#~ msgid "Date range:"
+#~ msgstr "Khoảng thời gian:"
+
+#~ msgid "to"
+#~ msgstr "tới"
+
+#~ msgid "Show/Hide Options"
+#~ msgstr "Hiện/Ẩn Tùy chọn"
+
+#~ msgid "Toggle"
+#~ msgstr "Bật tắt"
+
+#~ msgid "More Locales"
+#~ msgstr "Bản địa Khác"
+
+#~ msgid "More Options"
+#~ msgstr "Tùy chọn Khác"
+
+#~ msgid "Copy User Agent"
+#~ msgstr "Chép chuỗi Đại diện Người dùng"
+
+#~ msgid "No search results found."
+#~ msgstr "Không tìm thấy kết quả."
+
+#~ msgid "Type of Feedback"
+#~ msgstr "Kiểu Phản Hồi"
+
+#~ msgid "Search Results"
+#~ msgstr "Kết quả Tìm kiếm"
+
+#~ msgid "Search"
+#~ msgstr "Tìm kiếm"
+
+#~ msgid "Advanced"
+#~ msgstr "Nâng cao"
+
+#~ msgid "While Visiting"
+#~ msgstr "Trong khi Vào"
+
+#~ msgid "Often Mentioned"
+#~ msgstr "Thường được Nhắc tới"
+
+#~ msgid "I'm sorry, there was an error with your search."
+#~ msgstr "Xin lỗi, có lỗi với tìm kiếm của bạn."
+
+#~ msgid "Our search engine might be currently unavailable. You may start over on the <a href=\"%(url)s\">dashboard</a> and try again later."
+#~ msgstr "Máy tìm kiếm của chúng tôi hiện không sử dụng được. Bạn có thể bắt đầu trên <a href=\"%(url)s\">bảng thống kê</a> và thử lại sau."
+
+#~ msgid "If the problem persists, please <a href=\"%(bug_url)s\">file a bug</a>, mentioning the URL you were accessing."
+#~ msgstr "Nếu vấn đề vẫn còn, vui lòng <a href=\"%(bug_url)s\">báo cáo lỗi</a>, ghi rõ URL mà bạn đang truy cập."
+
+#~ msgid "Include the following error message in your bug report:"
+#~ msgstr "Bao gồm thông báo lỗi sau trong báo cáo lỗi của bạn:"
+
+#~ msgid "Thanks!"
+#~ msgstr "Cảm ơn!"
+
+#~ msgid "All"
+#~ msgstr "Tất cả"
+
+#~ msgid "Custom"
+#~ msgstr "Tùy biến"
+
+#~ msgid "{num} opinions on {day}"
+#~ msgstr "{num} ý kiến trong {day}"
+
+#~ msgid "Loading feedback history..."
+#~ msgstr "Đang mở lược sử phản hồi..."
+
+#~ msgid "Loading ratings history..."
+#~ msgstr "Đang mở lược sử xếp hạng..."
+
+#~ msgid "Last day"
+#~ msgstr "Hôm qua"
+
+#~ msgid "Last 7 days"
+#~ msgstr "7 ngày trước"
+
+#~ msgid "Last 30 days"
+#~ msgstr "30 ngày trước"
+
+#~ msgid "No date limit"
+#~ msgstr "Không giới hạn ngày"
+
+#~ msgid "&infin;"
+#~ msgstr "&infin;"
+
+#, fuzzy
+#~ msgid "Show More Locales"
+#~ msgstr "Bản địa Khác"
+
+#~ msgid "<strong>%(cnt)s</strong> message"
+#~ msgid_plural "<strong>%(cnt)s</strong> messages"
+#~ msgstr[0] "<strong>%(cnt)s</strong> thông điệp"
+
+#, fuzzy
+#~ msgid "Show More Platforms"
+#~ msgstr "Nền tảng"
+
+#, fuzzy
+#~ msgid "Clear Search"
+#~ msgstr "Tìm kiếm"
+
+#~ msgid "Feed"
+#~ msgstr "Feed"
+
+#~ msgid "Statistics"
+#~ msgstr "Thống kê"
+
+#~ msgid "Trends"
+#~ msgstr "Xu hướng"
+
+#~ msgid "&laquo; Newer Feedback"
+#~ msgstr "&laquo; Phản hồi Mới hơn"
+
+#~ msgid "Older Feedback &raquo;"
+#~ msgstr "Phản hồi Cũ &raquo;"
+
+#~ msgid "For last:"
+#~ msgstr "Cho lần cuối:"
+
+#~ msgid "All feedback"
+#~ msgstr "Tất cả phản hồi"
+
+#~ msgid "Praise only"
+#~ msgstr "Chỉ khen ngợi"
+
+#~ msgid "Issues only"
+#~ msgstr "Chỉ vấn đề"
+
+#~ msgid "Ideas only"
+#~ msgstr "Chỉ ý kiến"
+
+#~ msgid "All Platforms"
+#~ msgstr "Tất cả Nền tảng"
+
+#~ msgid "Themes"
+#~ msgstr "Giao diện"
+
+#~ msgid "Common Themes"
+#~ msgstr "Giao diện Chung"
+
+#~ msgid "Theme"
+#~ msgstr "Giao diện"
+
+#~ msgid "Back to all themes &raquo;"
+#~ msgstr "Trở lại tất cả các giao diện &raquo;"
+
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "&laquo; Trang Trước"
+
+#~ msgid "Next Page &raquo;"
+#~ msgstr "Trang Tiếp &raquo;"
+
+#~ msgid "See all opinions"
+#~ msgstr "Xem tất cả ý kiến"
+
+#~ msgid "%(count)s similar message"
+#~ msgid_plural "%(count)s similar messages"
+#~ msgstr[0] "%(count)s thông điệp tương tự"
+
+#~ msgctxt "website_issues_search"
+#~ msgid "Search for domain"
+#~ msgstr "Tìm kiếm tên miền"
+
+#~ msgid "Broken Sites"
+#~ msgstr "Trang bị Lỗi"
+
+#~ msgid "Sites"
+#~ msgstr "Trang"
+
+#~ msgctxt "sites_search_all_feedback"
+#~ msgid "All"
+#~ msgstr "Tất cả"
+
+#~ msgid "Platforms"
+#~ msgstr "Nền tảng"
+
+#~ msgctxt "sites_search_all_platforms"
+#~ msgid "All"
+#~ msgstr "Tất cả"
+
+#~ msgid "All platforms"
+#~ msgstr "Tất cả nền tảng"
+
+#~ msgid "Uncommon Sites"
+#~ msgstr "Trang không bình thường"
+
+#~ msgid "More sites..."
+#~ msgstr "Trang khác..."
+
+#~ msgid "Back to {domain} &raquo;"
+#~ msgstr "Trở lại {domain} &raquo;"
+
+#~ msgid "Theme for {domain}"
+#~ msgstr "Giao diện cho {domain}"
+
+#~ msgid "Back to all sites &raquo;"
+#~ msgstr "Trở lại tất cả các trang &raquo;"
+
+#~ msgid "Sites with only one message"
+#~ msgstr "Trang chỉ có một thông báo"
+
+#~ msgid "No results found!"
+#~ msgstr "Không tìm thấy kết quả!"
+
+#~ msgid "reset my search"
+#~ msgstr "thiết lập lại tìm kiếm của tôi"
+
+#~ msgid "{percentage}% praise"
+#~ msgstr "{percentage}% khen ngợi"
+
+#~ msgid "{percentage}% issues"
+#~ msgstr "{percentage}% vấn đề"
+
+#~ msgid "%(count)s similar"
+#~ msgid_plural "%(count)s similar"
+#~ msgstr[0] "%(count)s tương tự"
+
+#~ msgid "Please start over on the <a href=\"%(dashboard_url)s\">dashboard</a>."
+#~ msgstr "Vui lòng bắt đầu trên <a href=\"%(dashboard_url)s\">bảng thống kê</a>."
+
+#~ msgid "If you were following a broken link, please <a href=\"%(bug_url)s\">file a bug.</a> Thanks!"
+#~ msgstr "Nếu bạn gặp một liên kết hỏng, vui lòng <a href=\"%(bug_url)s\">báo cáo lỗi.</a> Cảm ơn!"
+
+#~ msgid "Internal Server Error"
+#~ msgstr "Lỗi nội bộ máy chủ"
+
+#~ msgid "An unhandled error occurred in the application. The error has been logged and an administrator was notified. We apologize for the inconvenience!"
+#~ msgstr "Một lỗi xảy ra trong chương trình. Lỗi này đã được lưu kí lại và thông báo tới một quản trị viên. Chúng tôi xin lỗi về sự bất tiện này!"
+
+#~ msgid "If you have additional information how to reproduce this problem, please <a href=\"%(bug_url)s\">file a bug.</a> Thanks!"
+#~ msgstr "Nếu bạn có thêm thông tin về cách tạo ra lỗi này, vui lòng <a href=\"%(bug_url)s\">báo cáo lỗi.</a> Cảm ơn!"
+
+#~ msgid "Input Dashboard"
+#~ msgstr "Bảng thống kê Đầu vào"
+
+#~ msgid "CSRF Protection Error"
+#~ msgstr "Lỗi Ngăn chặn CSRF"
+
+#~ msgid "There was an error verifying your CSRF token. Your request could not be processed. We apologize for the inconvenience!"
+#~ msgstr "Có lỗi khi đang xác minh token CSRF của bạn. Yêu cầu của bạn không thể xử lí được. Chúng tôi xin lỗi vì sự bất tiện này!"
+
+#~ msgid ""
+#~ "The most likely cause of this error is that your browser is set up <strong>not to accept cookies</strong> from us. Please follow <a href=\"%(cookies_url)s\">these instructions</a> to enable "
+#~ "cookies in Firefox, then try again."
+#~ msgstr ""
+#~ "Nhiều khả năng nguyên nhân của lỗi này do trình duyệt của bạn được thiết lập là <strong>không chấp nhận cookie</strong> từ chúng tôi. Vui lòng làm theo <a href=\"%(cookies_url)s\">những hướng "
+#~ "dẫn này</a> để bật cookie trong Firefox, rồi thử lại."
+
+#~ msgid "Clusters"
+#~ msgstr "Clusters"
+
+#~ msgid "Hit Ctrl+C (Cmd+C on Mac) to copy and close."
+#~ msgstr "Ấn Ctrl+C (Cmd+C trên Mac) để chép và đóng lại."
+
+#~ msgid "User agent copied"
+#~ msgstr "Đã chép chuỗi đại diện người dùng"
+
+#~ msgid "Close"
+#~ msgstr "Đóng"
+
+#~ msgid "<strong>Welcome to Firefox Input!</strong> This is Mozilla's primary user feedback application. <a href=\"%(about_url)s\">Learn more...</a>"
+#~ msgstr "<strong>Chào mừng đến Firefox Input!</strong> Đây là chương trình phản hồi người dùng chính của Mozilla. <a href=\"%(about_url)s\">Tìm hiểu thêm...</a>"
+
+#~ msgid "Have more to say?"
+#~ msgstr "Còn nhiều điều muốn nói?"
+
+#~ msgid "Feel free to <a href=\"%(fb_url)s\">submit more feedback</a>"
+#~ msgstr "Xin cứ thoải mái <a href=\"%(fb_url)s\">gửi thêm phản hồi</a>"
+
+#~ msgid "&laquo; Newer Messages"
+#~ msgstr "&laquo; Thông điệp Mới hơn"
+
+#~ msgid "Older Messages &raquo;"
+#~ msgstr "Thông điệp Cũ &raquo;"
+
+#~ msgid "Back to Feedback"
+#~ msgstr "Trở lại Phản hồi"
+
+#~ msgid "Invalid feedback type"
+#~ msgstr "Kiểu phản hồi không hợp lệ"
+
+#~ msgid "Find out the latest news from Mozilla:"
+#~ msgstr "Tìm hiểu tin tức mới nhất từ Mozilla."
+
+#~ msgid "<strong>Firefox Release</strong> Input Dashboard"
+#~ msgstr "<strong>Firefox Release</strong> Bảng thống kê Đầu vào"
+
+#~ msgid "@MozMobile"
+#~ msgstr "@MozMobile"
+
+#~ msgid "Average Ratings Over Time"
+#~ msgstr "Trung bình Xếp hạng Từ đầu Đến nay"
+
+#~ msgid "Describe the problem with the website."
+#~ msgstr "Mô tả vấn đề với trang web."
+
+#~ msgid "Does a website look or behave incorrectly in Firefox for Mobile? Provide us some details about the problem and we'll try to fix it."
+#~ msgstr "Có trang web nào trông hoặc vận hành không đúng trong Firefox cho Di động? Cung cấp cho chúng tôi chi tiết về vấn đề và chúng tôi sẽ cố gắng sửa nó."
+
+#~ msgid "Does a website look or behave incorrectly in Firefox?"
+#~ msgstr "Có trang web nào trông hoặc vận hành không đúng trong Firefox?"
+
+#~ msgid "Don't Care"
+#~ msgstr "Không quan tâm"
+
+#~ msgid "Enter your feedback here."
+#~ msgstr "Nhập phản hồi của bạn tại đây."
+
+#~ msgid "Enter your ideas here."
+#~ msgstr "Nhập ý kiến của bạn tại đây."
+
+#~ msgid "Example: Images were not loading, but the rest of the page was."
+#~ msgstr "Ví dụ: Hình ảnh không hiện, nhưng phần còn lại của trang thì vẫn hiện bình thường."
+
+#~ msgid "Excellent"
+#~ msgstr "Xuất sắc"
+
+#~ msgid "Experience"
+#~ msgstr "Trải nghiệm"
+
+#~ msgid "Experience Ratings"
+#~ msgstr "Xếp hạng Trải nghiệm"
+
+#~ msgid "Fair"
+#~ msgstr "Trung bình"
+
+#~ msgid "Features"
+#~ msgstr "Tính năng"
+
+#~ msgid "Frequent Ideas"
+#~ msgstr "Ý kiến Thường xuyên"
+
+#~ msgid "Good"
+#~ msgstr "Tốt"
+
+#~ msgid "Have an idea how Firefox for Mobile could be better? Let us know!"
+#~ msgstr "Có sáng kiến giúp Firefox cho Di động có thể trở nên tốt hơn? Hãy cho chúng tôi biết!"
+
+#~ msgid "How frequently Firefox crashes or loses data"
+#~ msgstr "Mức độ thường xuyên mà Firefox đổ vỡ hoặc mất dữ liệu"
+
+#~ msgid "How long Firefox takes to start running"
+#~ msgstr "Thời gian Firefox khởi động"
+
+#~ msgid "How long it takes for web pages to load"
+#~ msgstr "Thời gian trang web mở"
+
+#~ msgid "How quickly web pages respond once they have loaded"
+#~ msgstr "Tốc độ trang web phản ứng khi được mở"
+
+#~ msgid "How well Firefox's built-in features serve your needs"
+#~ msgstr "Tính năng sẵn có của Firefox phục vụ nhu cầu của bạn tốt tới mức nào"
+
+#~ msgid "How would you rate these aspects of Firefox for Mobile?"
+#~ msgstr "Bạn sẽ đánh giá những khía cạnh này của Firefox cho Di động như thế nào?"
+
+#~ msgid "How would you rate these aspects of Firefox?"
+#~ msgstr "Bạn sẽ đánh giá những khía cạnh này của Firefox như thế nào?"
+
+#~ msgid "Loading chart data."
+#~ msgstr "Đang mở dữ liệu biểu đồ."
+
+#~ msgid "Nightly Channel"
+#~ msgstr "Kênh Nightly"
+
+#~ msgid "Oh! So, you want to offer us feedback on the next version of Firefox. Thank you, but you'll need to be on our latest beta."
+#~ msgstr "Ồ! Vậy là bạn muốn cung cấp phản hồi cho chúng tôi về phiên bản tiếp theo của Firefox. Cảm ơn, nhưng bạn sẽ cần dùng bản beta mới nhất của chúng tôi."
+
+#~ msgid "Page Load Time"
+#~ msgstr "Thời gian Tải Trang"
+
+#~ msgid "Please rate at least one item."
+#~ msgstr "Vui lòng đánh giá ít nhất một mục."
+
+#~ msgid "Poor"
+#~ msgstr "Kém"
+
+#~ msgid "Provide us some details about the problem and we'll try to fix it."
+#~ msgstr "Cung cấp cho chúng tôi chi tiết về vấn đề và chúng tôi sẽ cố gắng sửa nó."
+
+#~ msgid "Rate Your Experience"
+#~ msgstr "Xếp hạng Trải nghiệm của Bạn"
+
+#~ msgid "Release Channel"
+#~ msgstr "Kênh Phát hành"
+
+#~ msgid "Report a Site Issue"
+#~ msgstr "Báo cáo một Vấn đề với Trang web"
+
+#~ msgid "Responsiveness"
+#~ msgstr "Phản ứng"
+
+#~ msgid "Share an Idea"
+#~ msgstr "Chia sẻ một Ý kiến"
+
+#~ msgid "Stability"
+#~ msgstr "Tính ổn định"
+
+#~ msgid "Start-Up Time"
+#~ msgstr "Thời gian Khởi động"
+
+#~ msgid "To do that, simply go to our download page and install/update to the <a href=\"%(url)s\">latest Firefox Beta!</a>"
+#~ msgstr "Để làm việc đó, chỉ cần vào trang tải xuống của chúng tôi và cài đặt/cập nhật lên <a href=\"%(url)s\">Firefox Beta mới nhất!</a>"
+
+#~ msgid "What is the URL of the broken site?"
+#~ msgstr "URL của trang bị lỗi là gì?"
+
+#~ msgid "What is the URL of the site?"
+#~ msgstr "URL của trang là gì?"
+
+#~ msgid "{day}<br/>Average of {num}"
+#~ msgstr "{day}<br/>Trung bình {num}"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page;"
+#~ msgstr "&laquo; trước"
+
+#~ msgid "&laquo; previous"
+#~ msgstr "&laquo; trước"
+
+#~ msgctxt "os_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- tất cả --"
+
+#, fuzzy
+#~ msgctxt "dashboard_period"
+#~ msgid "1 day"
+#~ msgstr "1 ngày"
+
+#, fuzzy
+#~ msgctxt "dashboard_period"
+#~ msgid "1 month"
+#~ msgstr "1 tháng"
+
+#, fuzzy
+#~ msgctxt "dashboard_period"
+#~ msgid "1 week"
+#~ msgstr "1 tuần"
+
+#~ msgid "<a href=\"%(url)s\">Total</a>: %(count)s"
+#~ msgstr "<a href=\"%(url)s\">Tổng</a>: %(count)s"
+
+#~ msgid "Dates: <span class=\"opt\">%(start_date)s &ndash; %(end_date)s</span>"
+#~ msgstr "Ngày: <span class=\"opt\">%(start_date)s &ndash; %(end_date)s</span>"
+
+#~ msgid "Demographics"
+#~ msgstr "Ảnh đồ họa mẫu"
+
+#~ msgid "Description: <span class=\"opt\">\"%(query)s\"</span>;"
+#~ msgstr "Mô tả: <span class=\"opt\">\"%(query)s\"</span>;"
+
+#~ msgid "Due to software constraints, we can only show the last 1000 messages for this search query."
+#~ msgstr "Vì hạn chế của phần mềm, chúng tôi chỉ có thể hiển thị 1000 thông điệp mới nhất cho truy vấn tìm kiếm này."
+
+#~ msgid "Enter your suggestions here."
+#~ msgstr "Nhập đề nghị của bạn tại đây."
+
+#~ msgid "Locale: <span class=\"opt\">%(locale)s</span>;"
+#~ msgstr "Bản địa: <span class=\"opt\">%(locale)s</span>;"
+
+#~ msgid "Locale: {locale}"
+#~ msgstr "Bản địa: {locale}"
+
+#~ msgid "OS"
+#~ msgstr "HĐH"
+
+#~ msgid "OS:"
+#~ msgstr "HĐH:"
+
+#~ msgid "OS: <span class=\"opt\">%(os)s</span>"
+#~ msgstr "HĐH: <span class=\"opt\">%(os)s</span>"
+
+#~ msgid "OS: {os_name}"
+#~ msgstr "HĐH: {os_name}"
+
+#~ msgid "Overview"
+#~ msgstr "Tổng quan"
+
+#~ msgid "Please enable JavaScript to view this page."
+#~ msgstr "Vui lòng bật JavaScript để xem trang này."
+
+#~ msgid "Show more"
+#~ msgstr "Hiện thêm"
+
+#~ msgid "Submitted User Agent is not the latest beta version."
+#~ msgstr "Chuỗi đại diện người dùng được gửi lên không phải là phiên bản beta."
+
+#~ msgid "Suggestions"
+#~ msgstr "Đề xuất"
+
+#~ msgid "Suggestions only"
+#~ msgstr "Chỉ đề xuất"
+
+#~ msgid "UA"
+#~ msgstr "UA"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "User agent string was not recognizable."
+#~ msgstr "Không thể nhận diện được chuỗi đại diện người dùng."
+
+#~ msgid "all"
+#~ msgstr "tất cả"
+
+#, fuzzy
+#~ msgctxt "dashboard_period"
+#~ msgid "all"
+#~ msgstr "tất cả"
+
+#~ msgid "happy face"
+#~ msgstr "mặt vui"
+
+#~ msgid "page %(pagenum)s of %(total)s"
+#~ msgstr "trang %(pagenum)s trên tổng %(total)s"
+
+#~ msgid "sad face"
+#~ msgstr "mặt buồn"
+
+#~ msgid "visit &rarr;"
+#~ msgstr "vào &rarr;"

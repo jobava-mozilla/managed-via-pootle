@@ -1,0 +1,725 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-08-10 14:58+0000\n"
+"Last-Translator: Channy <channy@mozilla.or.kr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1376146724.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr "가입 링크에 문제가 있습니다. 이미 가입을 완료하셨습니까?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "등록을 완료하는데 오류가 발생하였습니다."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Personas는 쿠키 사용이 필수적입니다."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"현재 창을 닫아 주시고, <a %s>쿠키 사용하기</a>를 설정한 후 다시 해 주십시오."
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "통신 에러"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "로그인 완료 중..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "곧 Persona에 로그인합니다."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "죄송합니다. 요청이 너무 오래 걸립니다."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr "수 초 내에 확인이 되지 않으면 창을 닫아 주십시오."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "메일 제공자에 확인 중"
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "이 메일은 실행불가능하거나 삭제되었습니다."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Persona 계정에서  %(email)s를 삭제하시겠습니까?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"마지막 주소를 삭제하면 Persona 계정이 취소될 것입니다.\n"
+"계속하시겠습니까?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "정말 Persona 계정을 삭제 하시겠습니까?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "이메일 추가"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "메일 주소"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "이메일 필수 항목임"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "이메일 필수 항목임"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr "확인 메일 전송 하였습니다. &ndash; 몇분 만 기다리세요. "
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "추가 완료!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "추가"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "취소"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "%s를 인증할 수 없습니다"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s 가 요구된 메일 주소이나 자신이 소유한 메일 주소인지 인증하기 어렵습니다."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s이 인증되었습니다!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "로그인 중 &hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "이메일을 확인하세요."
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr "인증 메일의 링크를 클릭하시면 %s로 연결되면서 %s에 로그인이 됩니다."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "오류"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "죄송합니다."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "서버 요청이 많아 처리하기 힘듭니다!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "페이지를 새로 고침하고 다시 시도해 주십시오."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "창을 닫고 다시 시도해 주십시오."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "자세히 보기"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "닫기"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "확인"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s*는 올바른 메일 주소가 아닙니다!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "계속하려면, 창을 닫고 올바른 메일 주소를 입력해 주세요."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "암호를 저장하시겠습니까?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "얼마동안 로그인을 유지하시겠습니까?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "한 달"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "컴퓨터를 신용합니다."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "유일한 세션"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "로그아웃."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "보충 : 로그아웃은 언제든지 할 수 있습니다."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Persona 로그인"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "%s로 로그인 중 &hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "이메일 선택"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "이메일 추가"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "로그 아웃"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"<a %(terms)s>사용자 약관</a> 및 <a %(privacy)s>개인 정보 정책</a>에 동의합니"
+"다."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "로그인"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "%(primary)s가 응답하지 않습니다. 몇 분 뒤에 다시 시도해주세요."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "취소"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "%(email)s를 인증할 수 없음"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"제 3자 쿠키를 차단하여 생긴 문제인 것 같습니다. 브라우저 개인 정보 설정에서 "
+"%(idpName)s에 대한 쿠키 차단을 해제하고 다시 시도해 보십시오."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"%(site)s의 <a %(terms)s>사용자 약관</a> 및 <a %(privacy)s>개인 정보 정책</a>"
+"에 동의합니다."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "암호 설정"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s는 여러분이 Persona에 여러분의 %(idp)s 비밀번호로 로그인하는 것을 더 "
+"이상 인정하지 않습니다. 여러분의 Persona 계정에 새로운 비밀번호를 만들어주세"
+"요."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr "새로운 이메일입니다. Firefox OS에 사용할 암호를 설정해주세요."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr "새로운 이메일입니다. 비밀번호를 설정해주세요."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "암호재설정"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "암호 항목 필수"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "암호는 8-80자 사이 "
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "암호 확인"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "암호확인"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "암호 재확인 필요"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "암호가 틀렸습니다!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "완료"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "좋은 소식!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s는 더이상 추가적인 비밀번호가 필요 없습니다. 계정을 확인하면 바로 "
+"%(aWebsite)s에 로그인 됩니다."
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "인증"
+
+#, fuzzy
+#~ msgid "signing in"
+#~ msgstr "로그인"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "메일 주소 확인"
+
+# BrowserID 경유의 로그인 화면의 라벨.
+#~ msgid "Sign in as..."
+#~ msgstr "로그인 정보 선택.."
+
+# BrowserID에 의한 인증 스텝에서 메일 주소를 입력하는 폼의 라벨?
+#~ msgid "Email"
+#~ msgstr "메일 주소"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "메일 서비스 제공자에 의해 본인인 소유임이 확인되었습니다. 이제 로그인할 "
+#~ "수 있습니다."
+
+# BrowserID 경유의 로그인 화면의 라벨.
+#~ msgid "Sign in using"
+#~ msgstr "로그인 정보 선택"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "로그인 사용 요청한 웹 사이트"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "이메일 주소 제공자에 로그인하여 소유권을 확인합니다. 그리고 아래 주소로 다"
+#~ "시 돌아갑니다."
+
+#, fuzzy
+#~ msgid "Enter password"
+#~ msgstr "암호재설정"
+
+# 싸인 인 화면
+#~ msgid "forgot your password?"
+#~ msgstr "암호를 찾으시겠습니까?"
+
+#~ msgid "Password"
+#~ msgstr "암호"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "암호 입력이 필요합니다."
+
+#~ msgid "verify email"
+#~ msgstr "이메일 주소 인증"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s 쉽게 사용할 수 있습니다"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "여러분의 %(emailProvider)s 계정이 업그레이드 되어서 Persona와 잘 동작합니"
+#~ "다. 여러분을 %(emailProvider)s 에 리다이렉트합니다."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona에서 %(emailProvider)s 계정을 사용해  %(aWebsite)s에 로그인할 수 있"
+#~ "습니다."
+
+#~ msgid "sign in with %s"
+#~ msgstr "%s 로그인"
+
+#~ msgid "Use a different email address"
+#~ msgstr "다른 메일 주소를 사용"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "이 란에는 메일 주소를 입력해 주세요."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "이 메일 주소로 확인 메일을 송신했습니다! 다른 메일 주소를 사용 하고 싶을 "
+#~ "때는몇 분 기다리고 나서 다시 시도해 주십시오."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "이 주소는 이미 여러분의 계정에 추가되었습니다!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "메일 주소를 선택해 주세요."
+
+#~ msgid "The password field is required."
+#~ msgstr "암호 입력이 필요합니다."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "메일 주소와 암호가 서로 맞지 않습니다."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "여러분의 %(emailProvider)s 계정이 업그레이드 되어서 Persona와 잘 동작합니"
+#~ "다. 여러분을 %(emailProvider)s 에 리다이렉트합니다. 일단 여러분이 계정을 "
+#~ "그곳에서 검증하면,  %(aWebsite)s로 로그인하게 됩니다."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Persona 암호에 다른 메일 주소 추가"
+
+#~ msgid "There has been an error!"
+#~ msgstr "에러가 있습니다!"
+
+#~ msgid "Reset your password"
+#~ msgstr "암호 재설정"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "%s 새 암호를 만들어주세요."
+
+#~ msgid "reset password"
+#~ msgstr "암호 재설정"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr "주의 : 사용하려는 암호는 모든 메일주소에 함께 적용됩니다."
+
+#~ msgid "Sign In"
+#~ msgstr "로그인"
+
+#~ msgid "Sign Up"
+#~ msgstr "회원 가입"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "웹 사이트로 로그인 처리 중... 잠시만 기다려 주세요!"
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s는 로그인 시 사용자명 대신 Persona를 사용합니다."
+
+# 어카운트가등록 후의 확인 작업을 지시하는 화면
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Persona에 로그인 하려면, 이메일주소를 입력하세요"
+
+#~ msgid "enter email address"
+#~ msgstr "메일 주소 입력"
+
+#~ msgid "password"
+#~ msgstr "암호"
+
+#~ msgid "next"
+#~ msgstr "다음"
+
+# 싸인 인 화면
+#~ msgid "Forgot your password?"
+#~ msgstr "암호를 분실하셨나요?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "수속을 진행시키려면 , %s\\s 의 <a %s>이용 규약</a>및 <a %s>프라이버시 폴리"
+#~ "시</a>에 동의를 부탁합니다."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "요청이 완료되려면 시간이 걸립니다. 만약 너무 오래 기다리시면, 창을 닫고 다"
+#~ "시 시도해 주십시오."
+
+# BrowserID 로그인 인증 제 1 단계
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr "<strong>%s</strong> 로그인에 사용하는 메일 주소를 입력해 주세요."
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "여러분의 메일 주소 제공자에 대한 정보를 얻는 동안 잠시 기다려 주십시오."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "현재 사용자명과 암호로 로그인할 수 없습니다."
+
+# 어카운트가등록 후의 확인 작업을 지시하는 화면
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "인증 확인을 위한 메일을 <strong>%s</strong>에 보냈습니다."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "만약 실수였을 경우, 보낸 메일은 무시하시고 <a %s>취소</a>를 선택하세요."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "만약 실수였을 경우, 보낸 메일은 무시하시고 <a %s>다른 이메일 사용</a>를 선"
+#~ "택하세요."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "현재 컴퓨터는 자신이 관리하는 것입니까?"
+
+#~ msgid "yes"
+#~ msgstr "예"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "그렇다면 몇 주간 로그인 가능합니다."
+
+#~ msgid "no"
+#~ msgstr "아니오"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "도서관이나 인터넷 카페 같은 공공 PC라면 선택하십시오. 주기적으로 암호를 물"
+#~ "어보고, 보안을 강화합니다."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Persona에 어서 오십시오!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr "그 다음 새 암호를 선택하시면 Persona에 로그인합니다."
+
+#~ msgid "Repeat Password"
+#~ msgstr "암호 재설정"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID 쿠키 사용 필수"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "새로운 메일 주소의 경우, 먼저 설정 해 주십시오."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "항상 현재 메일 주소를 사용"
+
+#, fuzzy
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "BrowserID 를 이용하려면 , 브라우저의 Cookie 를 유효하게 할 필요가 있습니"
+#~ "다.  브라우저의 설정으로 Cookie 를 유효하게 해 재차 시험해 주세요."
+
+#~ msgid "You are offline!"
+#~ msgstr "오프 라인입니다!"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr "죄송합니다만, BorwserID 는 오프 라인 모드에서는 이용할 수 없습니다!"
+
+# BrowserID 인증 화면
+#~ msgid "select email"
+#~ msgstr "메일 주소를 선택한다"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr "죄송합니다.오프 라인 상태에 있기 위해 BrowserID 와의 통신ヅ응."
+
+#~ msgid "Authenticating User"
+#~ msgstr "유저를 인증하고 있습니다"
+
+#~ msgid "Adding Address"
+#~ msgstr "메일 주소를 추가하고 있습니다"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "유저가 메인에서 사용하는 주소를 추가하고 있습니다"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "메일 주소 정보를 확인하고 있습니다"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "검증 결과를 바탕으로 인증하고 있습니다"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "당신의 유저 어카운트를 삭제한다"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "인증 정보를 확인하고 있습니다"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "스크립트의 버젼을 확인하고 있습니다"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "유저의 등록이 완료했습니다"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "Cookie 가 유효할지 확인하고 있습니다"
+
+#~ msgid "Creating Account"
+#~ msgstr "어카운트를 작성합니다"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "검증 결과를 취득하고 있습니다"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "등록 토큰을 확인하고 있습니다"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "메일 주소를 확인하고 있습니다"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "유저가 ID 프로바이더로 인증되고 있을까 확인하고 있습니다"
+
+#~ msgid "Logout Failed"
+#~ msgstr "로그아웃에 실패했습니다"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "ID 프로바이더와 인증하고 있습니다"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr ""
+#~ "당신의 메일 프로바이더와의 통신에 문제가 발생했습니다.한번 더 다시 해 간다"
+#~ "(이)다 차이"
+
+#~ msgid "Provisioning with Identity Provider"
+#~ msgstr "ID 프로바이더를 설정해 있습니다"
+
+#~ msgid "Provisioning Unsupported Identity Provider"
+#~ msgstr "미서포트의 ID 프로바이더를 설정해 있습니다"
+
+#~ msgid "Registration Failed"
+#~ msgstr "등록에 실패했습니다"
+
+#~ msgid "Establishing Relay"
+#~ msgstr "중계를 확립해 있습니다"
+
+#~ msgid "Relay frame could not be found"
+#~ msgstr "로그인의 중계 프레임이 발견되지 않습니다"
+
+#~ msgid "Signin Failed"
+#~ msgstr "로그인에 실패했습니다"
+
+#~ msgid "Signup Failed"
+#~ msgstr "싸인 업에 실패했습니다"
+
+#~ msgid "Syncing Address"
+#~ msgstr "주소를 동기 하고 있습니다"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "메일 주소를 동기 하고 있습니다"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "각각의 주소와 대가 되는 키를 동기 합니다"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "토큰 정보를 취득하고 있습니다"
+
+#~ msgid "Updating password"
+#~ msgstr "패스워드를 갱신하고 있습니다"

@@ -1,0 +1,844 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-10-22 13:46+0000\n"
+"Last-Translator: Alfredos-Panagiotis <fredy@freemail.gr>\n"
+"Language-Team: el locale <fiotakis@otenet.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-POOTLE-MTIME: 1382449615.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: Ολοκληρώστε την σύνδεσή σας"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: Ολοκληρώστε την επαναφορά του κωδικού σας"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Ένας καλύτερος τρόπος να συνδεθείς"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Μη υποστηριζόμενος περιηγητής"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "Μη υποστηριζόμενος περιηγητής, χωρίς Watch"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Τα cookies είναι απενεργοποιημένα"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Περί"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Όροι της Υπηρεσίας"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Πολιτική Απορρήτου"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Ολοκλήρωση εγγραφής"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "Ένας απλούστερος τρόπος να συνδεθείς."
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Το Persona αντικαθιστά τους πολλούς κωδικούς"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Ίστοσελίδες όπως οι <a %(webmakerLink)s>%(webmakerName)s</a>, <a "
+"%(openphotoLink)s>%(openphotoName)s</a> και <a %(voostLink)s>%(voostName)s</"
+"a> χρησιμοποιούν το Persona αντί για ονόματα χρήστη για να σας συνδέσουν."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr "Αυτό σημαίνει ότι με μόνο έναν κωδικό συνδέεστε σε πολλές ιστοσελίδες."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "Ένας κωδικός για τα πάντα."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Χρησιμοποιείστε πολλές ηλεκτρονικές διευθύνσεις"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Το Persona είναι ευέλικτο"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"Με το Persona, η ταυτότητά σας είναι η ηλεκτρονική σας διεύθυνση. Μπορείτε "
+"να χρησιμοποιήσετε όσες ηλεκτρονικές διευθύνσεις θέλετε, αλλά θα χρειάζεστε "
+"μόνο έναν κωδικό."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Πραγματική ιδιωτικότητα."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Το Persona μη κερδοσκοπικό για εσάς"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Το Persona αναπτύσσεται από την Mozilla, μία μη κερδοσκοπική εταιρεία, που "
+"την εμπιστεύεται η κοινότητα του Διαδικτύου. Ο σκοπός μας είναι η δημιουργία "
+"τεχνολογιών, που ισορροπούν μία ανοιχτή Διαδικτυακή πλατφόρμα με την "
+"ιδιωτικότητα των ανθρώπων."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Το Persona διατηρεί την ιδιωτικότητά σας"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Το Persona δεν καταγράφει την δραστηριότητά σας στο Διαδίκτυο. Δημιουργεί "
+"ένα τοίχος ανάμεσα στην διαδικασία σύνδεσης και στο που συνδέεστε. Το "
+"ιστορικό των σελίδων που επισκεφθήκατε αποθηκεύεται μόνο στον υπολογιστή σας."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Το Persona για προγραμματιστές"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Υλοποιήστε το Persona για την ιστοσελίδα σας"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Οδηγοί και τεκμηρίωση του API για προγραμματιστές"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Ολοκληρώστε την σύνδεσή σας στο:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Τελευταίο βήμα!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "Διεύθυνση ηλ. ταχυδρομείου"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Η διεύθυνση σας"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Κωδικός"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Ο κωδικός σας"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "Απαιτείται κωδικός"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "Εσφαλμένος κωδικός"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "Ολοκλήρωση"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Το Persona απαιτεί τη χρήση cookies για να σε θυμάται."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Παρακαλούμε κλείστε το παράθυρο, <a %s>ενεργοποιήστε τα cookies</a> και "
+"προσπαθήστε ξανά"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "Σύνδεση με την ιστοσελίδα %s με&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"Το %(idp)s δεν σας επιτρέπει να συνδεθείτε στο Persona με το %(idp)s κωδικό "
+"σας. Θα πρέπει να χρησιμοποιήσετε τον υπάρχοντα Persona κωδικό σας για να "
+"συνδεθείτε με αυτή την ηλ. διεύθυνση."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Κωδικός Persona"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "Διεύθυνση ηλ. ταχυδρομείου"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "Πρέπει να είναι μία ηλεκτρονική διεύθυνση"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "Το πεδίο ηλεκτρονικής διεύθυνσης απαιτείται"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "Ξεχάσατε τον κωδικό σας;"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "Εισαγωγή κωδικού"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "Κωδικός"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Η αρχική επιβεβαίωση έχει σταλεί &ndash; περιμένετε μερικά λεπτά πριν "
+"ζητήσετε μία νέα"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Συνεχίζοντας, συμφωνείτε με τους <a %(terms)s>Όρους Χρήσης</a> και την <a "
+"%(privacy)s>Πολιτική Απορρήτου</a> της ιστοσελίδας %(site)s."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "Επόμενο"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "Συνέχεια"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "Ακύρωση"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "Σύνδεση"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "ΟΚ"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Σύνδεση στο Persona..."
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona.</strong> Απλός τρόπος σύνδεσης, από τον μη "
+"κερδοσκοπικό οργανισμό που βρίσκεται πίσω από τον Firefox. <a %s>Μάθετε "
+"περισσότερα&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Συνδεθείτε με το Mozilla Persona, τον πιο ασφαλή &amp; εύκολο τρόπο σύνδεσης."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>Πάρτε μια γεύση</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "Αφαίρεση"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr ""
+"Πρώτη φορά στο Mozilla Persona; <a %(learnMoreLink)s>Μάθετε περισσότερα</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Διαχείριση λογαριασμού"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Η ηλεκτρονική σας διεύθυνση"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "Επεξεργασία"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "Ολοκλήρωση"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Παλιός κωδικός"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Νέος κωδικός"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "Ο παλιός κωδικός απαιτείται"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "Ο παλιός κωδικός απαιτείται"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "Ο νέος κωδικός απαιτείται"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "Οι κωδικοί πρέπει να είναι διαφορετικοί"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Ο κωδικός πρέπει να αποτελείται από 8&ndash;80 χαρακτήρες"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr ""
+"Μπορείτε, οποιαδήποτε στιγμή, <a %(cancelLink)s>να ακυρώσετε τον λογαριασμό "
+"σας</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Persona Αρχική Σελίδα"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Πώς λειτουργεί;"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "Λογαριασμός"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Σύνδεση"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Αποσύνδεση"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "Από την <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Ιδιωτικό απόρρητο &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "Όροι χρήσης &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "Προγραμματιστές &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Χρειάζεστε βοήθεια; &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "Λυπούμαστε, το Persona απαιτεί να είναι ενεργοποιημένη η javascript."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Επαναφορά κωδικού"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Δημιουργείστε ένα νέο κωδικό για το %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Επαλήθευση κωδικού"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "Απαιτείται κωδικός επαλήθευσης"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "Οι κωδικοί δεν ταιριάζουν!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">Η διεύθυνσή σας</strong> έχει επαληθευθεί!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"Η νέα σας διεύθυνση είναι ρυθμισμένη και έτοιμη για χρήση. Θα μεταφερθείτε "
+"στο %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Ανακατεύθυνση σε %s δευτερόλεπτα"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Λυπούμαστε, προς το παρόν ο περιηγητής σας δεν υποστηρίζεται."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Firefox logo"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Το Persona δουλεύει με τον <a %(getFirefoxLink)s>Firefox</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "και άλλους <a %(otherBrowserLink)s>σύγχρονους περιηγητές.</a>"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr ""
+"Λυπούμαστε, ο περιηγητής σας δεν υποστηρίζει τη σύνδεση σε αυτόν τον "
+"ιστότοπο."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"Ο ιδιοκτήτης του ιστοτόπου πρέπει να τον ενημερώσει προκειμένου να κάνει "
+"χρήση του Persona χαρακτηριστικού <a %s>navigator.id.watch()</a>."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona.</strong></a> Απλός τρόπος σύνδεσης, από τον "
+"μη κερδοσκοπικό οργανισμό που βρίσκεται πίσω από τον Firefox."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Κάντε κλικ για να επαληθεύσετε την σύνδεση με την ιστοσελίδα %(site)s:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr ""
+"Αν ΔΕΝ επιχειρήσατε αυτή την σύνδεση, παρακαλούμε αγνοήστε αυτό το μήνυμα."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr ""
+"Απλός τρόπος σύνδεσης, από το μη κερδοσκοπικό οργανισμό που βρίσκεται πίσω "
+"από τον Firefox"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "Μάθετε περισσότερα στο https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "Επαληθεύστε την διεύθυνση σας τώρα"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "Επαλήθευση του λογαριασμού σας τώρα"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr ""
+"Ξεχάσατε τον κωδικό σας για το Persona; Συμβαίνει και στις καλύτερες "
+"οικογένειες."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Κάντε κλικ για επαναφορά του κωδικού σας:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr ""
+"Αν ΔΕΝ ζητήσατε να επαναφέρετε τον κωδικό σας, παρακαλούμε αγνοήστε αυτό το "
+"μήνυμα."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "Επαναφέρετε των κωδικό σας τώρα"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"Ο πάροχος της ηλ. διεύθυνσής σας αντιμετωπίζει πρόβλημα με την υποστήριξη "
+"του Persona."
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Συνδεθείτε με το Persona"
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "Σημείωση: Αν ΔΕΝ ζητήσατε να επαναφέρετε τον κωδικό σας, παρακαλούμε "
+#~ "αγνοήστε αυτό το μήνυμα."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Απλούστερη σύνδεση."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "Αντί για όνομα χρήστη το %s για να σας συνδέσει χρησιμοποιεί το Persona."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Εισαγωγή της ηλ. διεύθυνσης σας"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Εισάγεται τον Persona κωδικό σας."
+
+#~ msgid "enter email address"
+#~ msgstr "Εισάγεται διεύθυνση ηλ. ταχυδρομείου"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Ευχαριστούμε που χρησιμοποιείτε το Persona."
+
+#~ msgid "Thank you,"
+#~ msgstr "Σας ευχαριστούμε,"
+
+#~ msgid "The Persona team"
+#~ msgstr "Η ομάδα του Persona"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Κάντε κλικ εδώ για επαναφορά του κωδικού σας."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "Για να συνεχίσετε, επιβεβαιώστε ξανά αυτή τη διεύθυνση και δημιουργήστε "
+#~ "ένα νέο Persona κωδικό."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "Κάντε κλικ για θέσετε το νέο σας κωδικό:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Η ομάδα του Persona"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "Κάντε κλικ εδώ για θέσετε το νέο σας κωδικό."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr ""
+#~ "Ο λογαριασμός δεν μπορεί να πιστοποιηθεί με αυτό το όνομα χρήστη και αυτό "
+#~ "τον κωδικό."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Μόλις στείλαμε ένα ηλεκτρονικό μήνυμα σε αυτή την διεύθυνση. Εάν θέλετε "
+#~ "να στείλετε άλλο, περιμένετε ένα δυο λεπτά και προσπαθήστε ξανά."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Αυτή η ηλεκτρονική διεύθυνση και ο κωδικός δεν ταιριάζουν."
+
+#~ msgid "The password field is required."
+#~ msgstr "Το πεδίο του κωδικού απαιτείται."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "Λανθασμένος παλιός κωδικός, ο κωδικός δεν ανανεώθηκε."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "Ο παλιός και ο νέος κωδικός είναι ίδιοι."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Για να συνδεθείτε με το Persona, εισάγετε την διεύθυνση του ηλ. "
+#~ "ταχυδρομείου σας."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "Γίνεται έλεγχος με τον πάροχο του ηλεκτρονικού σας ταχυδρομείου."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "Ολοκλήρωση σύνδεσης"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Ξέχασα τον κωδικό"
+
+#~ msgid "Email Verification"
+#~ msgstr "Επιβεβαίωση διεύθυνσης"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr ""
+#~ "Ελέγξτε το ηλεκτρονικό σας ταχυδρομείο στο <strong %(checkId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr ""
+#~ "Κάντε κλικ στο σύνδεσμο του μηνύματος επιβεβαίωσης. Έπειτα θα γίνει "
+#~ "επαναφορά του κωδικού σας."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Μη υπαρκτός χρήστης!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "Δεν μπορείτε να επαναφέρεται τον κωδικό αυτής της διεύθυνσης."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Ξέρετε τον κωδικό σας; Συνδεθείτε."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr ""
+#~ "Αυτό το παράθυρο θα κλείσει και η δημιουργία του λογαριασμού θα συνεχίσει."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr ""
+#~ "Ελέγξτε την ηλεκτρονική σας διεύθυνση στο <strong %(emailId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Κάντε κλικ στο σύνδεσμο του μηνύματος επιβεβαίωσης. Αμέσως μετά θα "
+#~ "συνδεθείτε στο Persona."
+
+#~ msgid "forgot your password?"
+#~ msgstr "Ξεχάσατε τον κωδικό;"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr ""
+#~ "Η διεύθυνσή σας είναι νέα για εμάς. Δημιουργείστε ένα κωδικό για χρήση "
+#~ "στο Persona."
+
+#~ msgid "verify password"
+#~ msgstr "Επαλήθευση κωδικού"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Συνεχίζοντας, συμφωνείτε με τους <a %(termsLink)s>Όρους Χρήσης</a> και "
+#~ "την <a %(privacyLink)s>Πολιτική Απορρήτου</a> της ιστοσελίδας %(persona)s."
+
+#~ msgid "Next"
+#~ msgstr "Επόμενο"
+
+#~ msgid "Verify Email"
+#~ msgstr "Επαλήθευση της διεύθυνσης"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "Για να επαληθεύσετε ότι σας ανήκει η <strong %(emailId)s>διεύθυνση αυτή</"
+#~ "strong>, πρέπει να συνδεθείτε στον πάροχό σας. Ένα νέο παράθυρο θα "
+#~ "ανοίξει."
+
+#~ msgid "Verify"
+#~ msgstr "Επαλήθευση"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Σας ευχαριστούμε που εγγραφήκατε στο <strong>Persona</strong>. Τώρα "
+#~ "μπορείτε να χρησιμοποιήσετε το λογαριασμό σας στο Persona για να "
+#~ "<em>συνδεθείτε</em> ή να <em>εγγραφείτε</em> σε όλους τους ιστότοπους του "
+#~ "παγκόσμιου ιστού!"
+
+#~ msgid "Sign Up"
+#~ msgstr "Εγγραφή"
+
+#~ msgid ""
+#~ "<strong %(emailId)s>Email</strong> is not registered. Would you like to "
+#~ "<a %(signUpLink)s>sign up</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s>Η διεύθυνση</strong> δεν είναι καταχωρημένη. Θα "
+#~ "θέλατε να την <a %(signUpLink)s>καταχωρήσετε</a>;"
+
+#~ msgid "New to Persona? Sign up today."
+#~ msgstr "Πρώτη φορά στο Persona; Εγγραφείτε σήμερα."
+
+#~ msgid ""
+#~ "To verify that you own <strong %(primaryId)s>address</strong>, you must "
+#~ "sign in with your provider.  A new window will be opened."
+#~ msgstr ""
+#~ "Για να επαληθεύσετε ότι σας ανήκει η <strong %(primaryId)s>διεύθυνση</"
+#~ "strong>, πρέπει να συνδεθείτε στον παροχέα σας. Ένα νέο παράθυρο θα "
+#~ "ανοίξει."
+
+#~ msgid ""
+#~ "<strong %(emailId)s></strong> is already registered. Would you like to <a "
+#~ "%(signInLink)s>sign in</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s></strong> είναι ήδη καταχωρημένη. Θα θέλατε να <a "
+#~ "%(signInLink)s>συνδεθείτε</a> με αυτή;"
+
+#~ msgid "Existing account? Sign in."
+#~ msgstr "Έχετε λογαριασμό; Συνδεθείτε."
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Ολοκλήρωση σύνδεσης στο %s μέσω του Persona"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Γίνεται επικοινωνία με τον διακομιστή"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Παρακαλούμε περιμένετε όσο επικοινωνούμε με το διακομιστή."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "Το Mozilla Persona είναι ο γρήγορος και ασφαλής τρόπος να συνδέεστε.  <a "
+#~ "%s>Μάθετε περισσότερα &rarr;</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Σας ευχαριστούμε που επαληθεύσατε τη διεύθυνση ηλ. ταχυδρομείου σας. Αυτό "
+#~ "το μήνυμα στάλθηκε για να μπορέσετε να ολοκληρώσετε τη σύνδεση σας στο %s."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Ολοκληρώστε την εγγραφή κάνοντας κλικ σε αυτό το δεσμό:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "Παρουσιάστηκε σφάλμα κατά την επικύρωση της διεύθυνσης σας. Την έχετε "
+#~ "επαληθεύσει;"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "Παρουσιάστηκε σφάλμα κατά την ολοκλήρωση της εγγραφής."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "Η νέα σας διεύθυνση ρυθμίστηκε και κανονικά έχετε συνδεθεί. Μπορείτε τώρα "
+#~ "να κλείσετε αυτό το παράθυρο και να πάτε πίσω στο"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "Παρουσιάστηκε σφάλμα με το δεσμό εγγραφής. Μήπως έχετε ήδη εγγραφεί με "
+#~ "αυτή τη διεύθυνση;"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "Αρχική σελίδα BrowserID"
+
+#~ msgid "TOS"
+#~ msgstr "Όροι υπηρεσίας"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "Σφάλμα επικοινωνίας με το διακομιστή."

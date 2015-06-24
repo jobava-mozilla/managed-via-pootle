@@ -1,0 +1,712 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-02-02 09:56+0000\n"
+"Last-Translator: Atte <attel0@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1391334993.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr "Rekisteröitymislinkissä oli virhe. Onko tämä osoite jo rekisteröity?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Virhe havaittiin rekisteröintiä viimeisteltäessä."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Persona vaatii evästeet muistaakseen sinut."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Sulje tämä ikkuna, <a %s>salli evästeet</a> ja yritä uudelleen"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Yhteysvirhe"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Viimeistellään kirjautumista..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Kirjaudut sisään Personaan hetken päästä."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Olemme pahoillamme, tämä kestää pidempään kuin oletimme."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Jos ongelma ei ratkea itsestään muutamassa sekunnissa, sulje ikkuna ja yritä "
+"uudelleen."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Vahvistetaan sähköposti palveluntarjoajalta."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Valittu sähköpostiosoite on virheellinen tai poistettu."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Poistetaanko %(email)s Persona-tililtäsi?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Viimeisen osoitteen poistaminen poistaa Persona-tilisi.\n"
+"Haluatko varmasti jatkaa?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Haluatko varmasti poistaa Persona-tilisi?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Lisää sähköpostiosoite"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "sähköpostiosoite"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Pitää olla sähköpostiosoite"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Sähköpostiosoite on pakollinen"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Alustava vahvistus on lähetetty &ndash; odota muutama minuutti, ennen kuin "
+"pyydät uuden"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Lisätty jo!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "lisää"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "peruuta"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Ei voida vahvistaa %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"Osoite %s vaaditaan, mutta emme kykene varmistamaan, että omistat kyseisen "
+"osoitteen."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s varmennettu!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Kirjataan sinua sisään&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Tarkista sähköpostisi"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Napsauta osoitteeseen %s lähetetyn vahvistusviestin linkkiä kirjautuaksesi "
+"välittömästi sisään palveluun %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Virhe"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Olemme pahoillamme."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Palvelin on kovassa kuormituksessa!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Yritä uudelleen päivittämällä sivu."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Sulje ikkuna ja yritä uudelleen."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Lisätietoja"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Sulje"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* ei ole kelvollinen sähköpostiosoite!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "Sulje ikkuna ja syötä toimiva osoite jatkaaksesi."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Muistetaanko sinut?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Kauanko haluat Personan muistavan kirjautumisesi?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Kuukauden"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Luotan tähän tietokoneeseen."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Vain tämän käyttökerran"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Tämä ei ole tietokoneeni."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Muistathan, että voit milloin tahansa kirjautua ulos Personasta."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Kirjaudu Personalla"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Kirjaudu palveluun %s&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Valitse sähköpostiosoite"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Lisää toinen sähköpostiosoite"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Tämä ei ole minä"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Jatkamalla hyväksyt sivuston %(site)s <a %(terms)s>käyttöehdot</a> ja <a "
+"%(privacy)s>tietosuojan</a>."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "Kirjaudu sisään"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "%(primary)s ei vastaa. Odota muutama minuutti ja yritä uudestaan."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Ei voida vahvistaa osoitetta %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Tämä voi johtua siitä, ettei selaimesi salli kolmannen osapuolen evästeitä. "
+"Tarkista, että selaimesi yksityisyysasetukset sallivat kolmannen osapuolen "
+"evästeet osoitteesta %(idpName), ja yritä uudestaan."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Hyväksyt myös sivuston %(site)s <a %(terms)s>käyttöehdot</a> ja <a "
+"%(privacy)s>tietosuojan</a>."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Luo salasana"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s ei salli enää kirjautumista Personaan %(idp)s -salasanalla. Luo uusi "
+"salasana, jota käytetään Personan kanssa."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Sähköpostiosoitteesi on meille uusi. Luo salasana, jota käytetään Firefox OS:"
+"n kanssa."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Sähköpostiosoitteesi ei ole vielä käytössä. Aloita Personan käyttäminen "
+"luomalla sille salasana."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "luo salasana"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Salasana vaaditaan"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Salasanan tulee olla 8&ndash;80 merkkiä pitkä"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Vahvista salasana"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "vahvista salasana"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Salasanan vahvistus vaaditaan"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Salasanat eivät täsmää!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "valmis"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Hyviä uutisia!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s ei enää vaadi ylimääräistä salasanaa. Vahvista tilisi ja kirjaudut "
+"välittömästi sisään sivulle %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "Vahvista"
+
+#~ msgid "signing in"
+#~ msgstr "kirjaudutaan sisään"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Vahvista sähköpostiosoitteesi"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Kirjaudu sisään käyttäjänä..."
+
+#~ msgid "Email"
+#~ msgstr "Sähköpostiosoite"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Sähköinen henkilöllisyytesi on varmistettu "
+#~ "sähköpostipalveluntarjoajaltasi, sinut kirjataan nyt sisään."
+
+#~ msgid "Sign in using"
+#~ msgstr "Kirjaudu sisään käyttäen"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Sivusto ehdotti kirjautumista käyttäen"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Todista omistavasi tämän sähköpostiosoitteen kirjautumalla sisään "
+#~ "sähköpostipalveluntarjoajasi sivustolla. Tämä ikkuna ohjautuu sivustolle"
+
+#~ msgid "Enter password"
+#~ msgstr "Anna salasana"
+
+#~ msgid "forgot your password?"
+#~ msgstr "unohtuiko salasanasi?"
+
+#~ msgid "Password"
+#~ msgstr "Salasana"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "Salasana vaaditaan."
+
+#~ msgid "verify email"
+#~ msgstr "vahvista sähköpostiosoite"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s tekee tästä helppoa"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "%(emailProvider)s -tilisi on päivitetty toimimaan entistä paremmin "
+#~ "Personan kanssa. Ohjaamme sinut palveluun %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Personalla voit käyttää %(emailProvider)s -tiliä kirjautuaksesi sivuille, "
+#~ "kuten %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "kirjaudu sisään palvelulla %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Käytä eri sähköpostiosoitetta"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Tämän kentän täytyy olla sähköpostiosoite."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Lähetimme hetki sitten viestin tähän osoitteeseen! Jos todella haluat "
+#~ "lähettää uuden viestin, yritä parin minuutin päästä uudelleen."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Tämä osoite on jo lisätty tiliisi!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Valitse sähköpostiosoite."
+
+#~ msgid "The password field is required."
+#~ msgstr "Salasana-kenttä on pakollinen."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Sähköpostiosoite ja salasana eivät täsmää."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "%(emailProvider)s -tilisi on päivitetty toimimaan entistä paremmin "
+#~ "Personan kanssa. Ohjaamme sinut palveluun %(emailProvider)s. Kun olet "
+#~ "vahvistanut siellä tilisi, sinut kirjataan sisään sivustolle %(aWebsite)s."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Lisää toinen sähköpostiosoite Persona-salasanallesi."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Tapahtui virhe!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Palauta salasanasi"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Luo uusi salasana palveluun %s."
+
+#~ msgid "reset password"
+#~ msgstr "palauta salasana"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Huomaathan, että tämä salasana on käytössä kaikilla Persona-"
+#~ "sähköpostiosoitteillasi."
+
+#~ msgid "Sign In"
+#~ msgstr "Kirjaudu"
+
+#~ msgid "Sign Up"
+#~ msgstr "Rekisteröidy"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Odota hetki, kun kirjaamme sinut sisään sivustolle."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "%s käyttää kirjautumiseen Personaa käyttäjänimen ja salasanan sijaan."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Kirjaudu sisään Personalla kirjoittamalla sähköpostiosoitteesi."
+
+#~ msgid "enter email address"
+#~ msgstr "kirjoita sähköpostiosoite"
+
+#~ msgid "password"
+#~ msgstr "salasana"
+
+#~ msgid "next"
+#~ msgstr "Seuraava"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "unohtuiko salasanasi?"
+
+#, fuzzy
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Painamalla %s, hyväksyt tämän sivuston <a %s>Käyttöehdot</a> ja <a "
+#~ "%s>Tietosuojakäytännön</a>."
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Tämä viesti häviää kun pyyntö valmistuu (toivottavasti pian). Jos olet "
+#~ "odottanut liian kauan, sulje tämä ikkuna ja yritä uudestaan."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "Syötä sähköpostiosoitteesi kirjautuaksesi <strong>%s</strong> -sivustolle"
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "Käyttäjätilille ei voida kirjautua tällä käyttäjänimellä ja salasanalla."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Lähetimme vahvistusviestin osoitteeseen <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Jos tämä on virhe, älä välitä lähetetystä sähköpostista ja valitse <a "
+#~ "%s>peruuta</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Jos tämä on virhe, älä välitä lähetetystä sähköpostista ja <a %s>käytä "
+#~ "toista sähköpostiosoitetta</a>."
+
+#, fuzzy
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Tervetuloa käyttämään BrowserID-palvelua!"
+
+#, fuzzy
+#~ msgid "Repeat Password"
+#~ msgstr "Nollataan salasana"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID-palvelu vaatii evästeet toimiakseen"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr ""
+#~ "Tämä sähköpostiosoite näyttää uudelta, joten luodaan sille asetukset."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Kirjaudu aina tällä sähköpostiosoitteella"
+
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "Toimiakseen BrowserID-palvelu vaatii, että selaimesi sallii evästeet. "
+#~ "Aseta evästeet sallituksi selaimessasi ja kokeile uudelleen"
+
+#~ msgid "You are offline!"
+#~ msgstr "Olet yhteydettömässä tilassa!"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr "Valitettavasti BrowserID-palvelu ei toimi yhteydettömässä tilassa!"
+
+#~ msgid "select email"
+#~ msgstr "Valitse sähköpostiosoite"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr ""
+#~ "Olemme pahoillamme, mutta emme voi keskustella BrowserID-palvelun kanssa "
+#~ "kun olet yhteydettömässä tilassa."
+
+#~ msgid "Authenticating User"
+#~ msgstr "Todennetaan käyttäjää"
+
+#~ msgid "Adding Address"
+#~ msgstr "Lisätään osoitetta"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "Lisätään ensisijaista sähköpostiosoitetta käyttäjälle"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "Tarkistetaan osoitetiedot"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "Varmennetaan vakuudella"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "Peruutetaan käyttäjätiliä"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "Tarkistetaan todennus"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "Tarkistetaan komentosarjan versiota"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "Viimeistellään käyttäjän rekisteröitymistä"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "Tarkistetaan, voidaanko asettaa evästeitä"
+
+#~ msgid "Creating Account"
+#~ msgstr "Luodaan käyttäjätiliä"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "Vastaanotetaan vakuutta"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "Tarkistetaan rekisteröintitunnistetta"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "Tarkistetaan sähköpostiosoitetta"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "Tarkistetaan, onko käyttäjä todennettu IdP:llä"
+
+#~ msgid "Logout Failed"
+#~ msgstr "Kirjautuminen ulos epäonnistui"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "Varmennetaan sähköisen henkilöllisyyden tarjoajalla"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr ""
+#~ "Keskustelu sähköpostin palveluntarjoajan kanssa epäonnistui, yritä "
+#~ "uudelleen!"
+
+#~ msgid "Provisioning with Identity Provider"
+#~ msgstr "Varmennetaan sähköisen henkilöllisyyden tarjoajan kanssa"
+
+#~ msgid "Provisioning Unsupported Identity Provider"
+#~ msgstr "Varmennetaan ei-tuetun sähköisen henkilöllisyyden tarjoajan kanssa"
+
+#~ msgid ""
+#~ "Unfortunately, the email address provided cannot act as a Primary "
+#~ "Identity Provider"
+#~ msgstr ""
+#~ "Valitettavasti annettu sähköpostiosoite ei voi toimia ensisijaisena "
+#~ "sähköisen henkilöllisyyden varmentajana."
+
+#~ msgid "Registration Failed"
+#~ msgstr "Rekisteröinti epäonnistui"
+
+#~ msgid "Establishing Relay"
+#~ msgstr "Muodostetaan välityskanavaa"
+
+#~ msgid "Relay frame could not be found"
+#~ msgstr "Välityskanavan kehystä ei löytynyt"
+
+#~ msgid "Signin Failed"
+#~ msgstr "Kirjautuminen epäonnistui"
+
+#~ msgid "Signup Failed"
+#~ msgstr "Rekisteröityminen epäonnistui"
+
+#~ msgid "Syncing Address"
+#~ msgstr "Synkronoidaan osoitetta"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "Synkronoidaan sähköpostiosoitteita"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "Synkronoi avaimet osoitteelle"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "Haetaan tunnistetietoja"
+
+#~ msgid "Updating password"
+#~ msgstr "Päivitetään salasana"

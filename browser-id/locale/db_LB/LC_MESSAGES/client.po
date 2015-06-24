@@ -1,0 +1,449 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-04 09:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"‮⊥ɥǝɹǝ ʍɐs ɐ dɹoqʅǝɯ ʍıʇɥ ʎonɹ sıƃund ʅıuʞ˙ Hɐs ʇɥıs ɐppɹǝss ɐʅɹǝɐpʎ qǝǝu "
+"ɹǝƃısʇǝɹǝp¿"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "‮Ǝɹɹoɹ ǝuɔonuʇǝɹǝp ʇɹʎıuƃ ʇo ɔoɯdʅǝʇǝ ɹǝƃısʇɹɐʇıou˙"
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "‮Ԁǝɹsouɐ ɹǝbnıɹǝs ɔooʞıǝs ʇo ɹǝɯǝɯqǝɹ ʎon˙"
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "‮Ԁʅǝɐsǝ ɔʅosǝ ʇɥıs ʍıupoʍ´ <ɐ %s‮>ǝuɐqʅǝ ɔooʞıǝs</a>‮ ɐup ʇɹʎ ɐƃɐıu"
+
+#: resources/static/common/js/error-messages.js:164
+msgid "Communication Error"
+msgstr "‮Ↄoɯɯnuıɔɐʇıou Ǝɹɹoɹ"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "‮Ⅎıuısɥıuƃ Sıƃu Iu˙˙˙"
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "‮Iu ɾnsʇ ɐ ɯoɯǝuʇ ʎon,ʅʅ qǝ sıƃuǝp ıuʇo Ԁǝɹsouɐ˙"
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "‮Ｍǝ ɐɹǝ soɹɹʎ´ ʇɥıs ıs ʇɐʞıuƃ ʅouƃǝɹ ʇɥɐu ıʇ sɥonʅp˙"
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"‮Iɟ ʇɥıs poǝsu,ʇ ɹǝsoʅʌǝ ıʇsǝʅɟ ʍıʇɥıu ɐ ɟǝʍ sǝɔoups´ dʅǝɐsǝ ɔʅosǝ ʇɥǝ "
+"ʍıupoʍ ɐup ʇɹʎ ɐƃɐıu˙"
+
+#: resources/static/dialog/js/modules/authenticate.js:97
+#: resources/static/dialog//js/modules/authenticate.js:97
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "‮Ↄɥǝɔʞıuƃ ʍıʇɥ ʎonɹ ǝɯɐıʅ dɹoʌıpǝɹ˙"
+
+#: resources/static/dialog/js/modules/generate_assertion.js:23
+#: resources/static/dialog//js/modules/generate_assertion.js:23
+msgid "signing in"
+msgstr "‮sıƃuıuƃ ıu"
+
+#: resources/static/dialog/js/modules/pick_email.js:52
+#: resources/static/dialog//js/modules/pick_email.js:52
+msgid "The selected email is invalid or has been deleted."
+msgstr "‮⊥ɥǝ sǝʅǝɔʇǝp ǝɯɐıʅ ıs ıuʌɐʅıp oɹ ɥɐs qǝǝu pǝʅǝʇǝp˙"
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "‮ᴚǝɯoʌǝ %(email)s‮ ɟɹoɯ ʎonɹ Ԁǝɹsouɐ ɐɔɔonuʇ¿"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"‮ᴚǝɯoʌıuƃ ʇɥǝ ʅɐsʇ ɐppɹǝss ʍıʅʅ ɔɐuɔǝʅ ʎonɹ Ԁǝɹsouɐ ɐɔɔonuʇ˙\n"
+"‮∀ɹǝ ʎon snɹǝ ʎon ʍɐuʇ ʇo ɔouʇıunǝ¿"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "‮∀ɹǝ ʎon snɹǝ ʎon ʍɐuʇ ʇo pǝʅǝʇǝ ʎonɹ Ԁǝɹsouɐ ɐɔɔonuʇ¿"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "‮∀pp ɐu ǝɯɐıʅ ɐppɹǝss"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "‮ǝɯɐıʅ ɐppɹǝss"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "This field must be an email address."
+msgstr "‮⊥ɥıs ɟıǝʅp ɯnsʇ qǝ ɐu ǝɯɐıʅ ɐppɹǝss˙"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "The email field is required."
+msgstr "‮⊥ɥǝ ǝɯɐıʅ ɟıǝʅp ıs ɹǝbnıɹǝp˙"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/required_email.ejs:18
+#: resources/static/dialog/views/set_password.ejs:36
+msgid ""
+"We just sent an email to that address! If you really want to send another, "
+"wait a minute or two and try again."
+msgstr ""
+"‮Ｍǝ ɾnsʇ sǝuʇ ɐu ǝɯɐıʅ ʇo ʇɥɐʇ ɐppɹǝss¡ Iɟ ʎon ɹǝɐʅʅʎ ʍɐuʇ ʇo sǝup ɐuoʇɥǝɹ´ "
+"ʍɐıʇ ɐ ɯıunʇǝ oɹ ʇʍo ɐup ʇɹʎ ɐƃɐıu˙"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "That address is already added to your account!"
+msgstr "‮⊥ɥɐʇ ɐppɹǝss ıs ɐʅɹǝɐpʎ ɐppǝp ʇo ʎonɹ ɐɔɔonuʇ¡"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "‮ɐpp"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/required_email.ejs:64
+#: resources/static/dialog/views/set_password.ejs:74
+#: resources/static/dialog/views/verify_primary_user.ejs:32
+msgid "cancel"
+msgstr "‮ɔɐuɔǝʅ"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "‮Ↄɐuuoʇ ʌǝɹıɟʎ %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s‮ ıs ɐ ɹǝbnıɹǝp ɐppɹǝss´ qnʇ ʍǝ ɔɐuuoʇ ʌǝɹıɟʎ ʇɥɐʇ ʎon oʍu ʇɥıs ɐppɹǝss˙"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Confirm your email address"
+msgstr "‮Ↄouɟıɹɯ ʎonɹ ǝɯɐıʅ ɐppɹǝss"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid "Check your email at %s."
+msgstr "‮Ↄɥǝɔʞ ʎonɹ ǝɯɐıʅ ɐʇ %s‮˙"
+
+#: resources/static/dialog/views/confirm_email.ejs:12
+#, php-format
+msgid ""
+"Click the link in the confirmation email. You'll then immediately be signed "
+"in to %s."
+msgstr ""
+"‮Ↄʅıɔʞ ʇɥǝ ʅıuʞ ıu ʇɥǝ ɔouɟıɹɯɐʇıou ǝɯɐıʅ˙ ⅄on,ʅʅ ʇɥǝu ıɯɯǝpıɐʇǝʅʎ qǝ sıƃuǝp "
+"ıu ʇo %s‮˙"
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "‮Ǝɹɹoɹ"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "‮Ｍǝ ɐɹǝ ʌǝɹʎ soɹɹʎ˙"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "‮⊥ɥǝ sǝɹʌǝɹ ıs nupǝɹ ǝxʇɹǝɯǝ ʅoɐp¡"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "‮Ԁʅǝɐsǝ ɹǝʅoɐp ʇɥǝ dɐƃǝ ɐup ʇɹʎ ɐƃɐıu˙"
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "‮Ԁʅǝɐsǝ ɔʅosǝ ʇɥıs ʍıupoʍ ɐup ʇɹʎ ɐƃɐıu˙"
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "‮Sǝǝ ɯoɹǝ ıuɟo"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "‮Ↄʅosǝ"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "‮OӼ"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "‮⁎%s‮⁎ ıs uoʇ ɐ ʌɐʅıp ǝɯɐıʅ ɐppɹǝss¡"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "‮⊥o ɔouʇıunǝ´ dʅǝɐsǝ ɔʅosǝ ʇɥǝ ʍıupoʍ ɐup ǝuʇǝɹ ɐ ʌɐʅıp ɐppɹǝss˙"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "‮ᴚǝɯǝɯqǝɹ ⅄on¿"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "‮Hoʍ ʅouƃ ʍonʅp ʎon ʅıʞǝ ʇo ɹǝɯɐıu sıƃuǝp ıu ʍıʇɥ Ԁǝɹsouɐ¿"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "‮Ouǝ ɯouʇɥ"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "‮I ʇɹnsʇ ʇɥıs ɔoɯdnʇǝɹ˙"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "‮⊥ɥıs sǝssıou ouʅʎ"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "‮⊥ɥıs ıs uoʇ ɯʎ ɔoɯdnʇǝɹ˙"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "‮Noʇǝ: ⅄on ɔɐu oɟ ɔonɹsǝ sıƃu onʇ oɟ Ԁǝɹsouɐ ɐʇ ɐuʎ ʇıɯǝ˙"
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "‮Sıƃu ıu ʍıʇɥ Ԁǝɹsouɐ"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+msgid "Sign in as..."
+msgstr "‮Sıƃu ıu ɐs˙˙˙"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Please choose an email address."
+msgstr "‮Ԁʅǝɐsǝ ɔɥoosǝ ɐu ǝɯɐıʅ ɐppɹǝss˙"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "‮∀pp ɐuoʇɥǝɹ ǝɯɐıʅ ɐppɹǝss"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "‮⊥ɥıs ıs uoʇ ɯǝ"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:22
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"‮Ԑʎ dɹoɔǝǝpıuƃ´ ʎon ɐƃɹǝǝ ʇo %(site)s‮,s <ɐ %(terms)s‮>⊥ǝɹɯs</a>‮ ɐup <ɐ %"
+"(privacy)s‮>Ԁɹıʌɐɔʎ Ԁoʅıɔʎ</a>‮˙"
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/required_email.ejs:58
+#: resources/static/dialog/views/verify_primary_user.ejs:31
+msgid "sign in"
+msgstr "‮sıƃu ıu"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"%(primary)s‮ ıs uoʇ ɹǝsdoupıuƃ˙ Ԁʅǝɐsǝ ʍɐıʇ ɐ ɟǝʍ ɯıunʇǝs ɐup ʇɹʎ ɐƃɐıu˙"
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "‮Ↄɐuɔǝʅ"
+
+#: resources/static/dialog/views/primary_user_verified.ejs:6
+msgid "Address Verified!"
+msgstr "‮∀ppɹǝss Ʌǝɹıɟıǝp¡"
+
+#: resources/static/dialog/views/primary_user_verified.ejs:11
+#: resources/static/dialog/views/required_email.ejs:15
+msgid "Email"
+msgstr "‮Ǝɯɐıʅ"
+
+#: resources/static/dialog/views/primary_user_verified.ejs:16
+msgid ""
+"Your identity has been verified with your email provider, we will now try to "
+"sign you in."
+msgstr ""
+"‮⅄onɹ ıpǝuʇıʇʎ ɥɐs qǝǝu ʌǝɹıɟıǝp ʍıʇɥ ʎonɹ ǝɯɐıʅ dɹoʌıpǝɹ´ ʍǝ ʍıʅʅ uoʍ ʇɹʎ "
+"ʇo sıƃu ʎon ıu˙"
+
+#: resources/static/dialog/views/required_email.ejs:7
+msgid "Sign in using"
+msgstr "‮Sıƃu ıu nsıuƃ"
+
+#: resources/static/dialog/views/required_email.ejs:9
+msgid "The site requested you sign in using"
+msgstr "‮⊥ɥǝ sıʇǝ ɹǝbnǝsʇǝp ʎon sıƃu ıu nsıuƃ"
+
+#: resources/static/dialog/views/required_email.ejs:24
+msgid ""
+"You must sign in with your email provider to verify ownership of this "
+"address. This window will be redirected to"
+msgstr ""
+"‮⅄on ɯnsʇ sıƃu ıu ʍıʇɥ ʎonɹ ǝɯɐıʅ dɹoʌıpǝɹ ʇo ʌǝɹıɟʎ oʍuǝɹsɥıd oɟ ʇɥıs "
+"ɐppɹǝss˙ ⊥ɥıs ʍıupoʍ ʍıʅʅ qǝ ɹǝpıɹǝɔʇǝp ʇo"
+
+#: resources/static/dialog/views/required_email.ejs:33
+msgid "Enter password"
+msgstr "‮Ǝuʇǝɹ dɐssʍoɹp"
+
+#: resources/static/dialog/views/required_email.ejs:34
+#: resources/static/dialog/views/required_email.ejs:53
+msgid "forgot your password?"
+msgstr "‮ɟoɹƃoʇ ʎonɹ dɐssʍoɹp¿"
+
+#: resources/static/dialog/views/required_email.ejs:35
+msgid "Password"
+msgstr "‮Ԁɐssʍoɹp"
+
+#: resources/static/dialog/views/required_email.ejs:40
+msgid "The password field is required."
+msgstr "‮⊥ɥǝ dɐssʍoɹp ɟıǝʅp ıs ɹǝbnıɹǝp˙"
+
+#: resources/static/dialog/views/required_email.ejs:44
+msgid "This email address and password do not match."
+msgstr "‮⊥ɥıs ǝɯɐıʅ ɐppɹǝss ɐup dɐssʍoɹp po uoʇ ɯɐʇɔɥ˙"
+
+#: resources/static/dialog/views/required_email.ejs:60
+msgid "verify email"
+msgstr "‮ʌǝɹıɟʎ ǝɯɐıʅ"
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a %(privacy)"
+"s>Privacy Policy</a>."
+msgstr ""
+"‮⅄on ɐʅso ɐƃɹǝǝ ʇo %(site)s‮,s <ɐ %(terms)s‮>⊥ǝɹɯs</a>‮ ɐup <ɐ %"
+"(privacy)s‮>Ԁɹıʌɐɔʎ Ԁoʅıɔʎ</a>‮˙"
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "‮Ↄɹǝɐʇǝ ɐ Ԁɐssʍoɹp"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:60
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s‮ uo ʅouƃǝɹ ɐʅʅoʍs ʎon ʇo ʅoƃ ıuʇo Ԁǝɹsouɐ ʍıʇɥ ʎonɹ %(idp)s‮ "
+"dɐssʍoɹp˙ Ԁʅǝɐsǝ ɔɹǝɐʇǝ ɐ uǝʍ dɐssʍoɹp ʇo nsǝ ʍıʇɥ ʎonɹ Ԁǝɹsouɐ ɐɔɔonuʇ˙"
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:62
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"‮⅄onɹ ǝɯɐıʅ ɐppɹǝss ıs uǝʍ ʇo ns˙ Ԁʅǝɐsǝ ɔɹǝɐʇǝ ɐ dɐssʍoɹp ʇo nsǝ ʍıʇɥ "
+"ℲıɹǝɟoxOS˙"
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:64
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"‮⅄onɹ ǝɯɐıʅ ɐppɹǝss ıs uǝʍ ʇo ns˙ Ԁʅǝɐsǝ ɔɹǝɐʇǝ ɐ dɐssʍoɹp ʇo nsǝ ʍıʇɥ "
+"Ԁǝɹsouɐ˙"
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "‮ɔɹǝɐʇǝ dɐssʍoɹp"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password is required."
+msgstr "‮Ԁɐssʍoɹp ıs ɹǝbnıɹǝp˙"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Password must be between 8 and 80 characters long."
+msgstr "‮Ԁɐssʍoɹp ɯnsʇ qǝ qǝʇʍǝǝu 8‮ ɐup 80‮ ɔɥɐɹɐɔʇǝɹs ʅouƃ˙"
+
+#: resources/static/dialog/views/set_password.ejs:40
+msgid "These passwords don't match!"
+msgstr "‮⊥ɥǝsǝ dɐssʍoɹps pou,ʇ ɯɐʇɔɥ¡"
+
+#: resources/static/dialog/views/set_password.ejs:46
+msgid "Verify Password"
+msgstr "‮Ʌǝɹıɟʎ Ԁɐssʍoɹp"
+
+#: resources/static/dialog/views/set_password.ejs:48
+msgid "verify password"
+msgstr "‮ʌǝɹıɟʎ dɐssʍoɹp"
+
+#: resources/static/dialog/views/set_password.ejs:51
+msgid "Verification password is required."
+msgstr "‮Ʌǝɹıɟıɔɐʇıou dɐssʍoɹp ıs ɹǝbnıɹǝp˙"
+
+#: resources/static/dialog/views/set_password.ejs:70
+msgid "done"
+msgstr "‮pouǝ"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:8
+#, php-format
+msgid "%s makes this easy"
+msgstr "%s‮ ɯɐʞǝs ʇɥıs ǝɐsʎ"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:14
+msgid ""
+"Your %(emailProvider)s account has been upgraded to work even better with "
+"Persona. We will redirect you to %(emailProvider)s."
+msgstr ""
+"‮⅄onɹ %(ǝɯɐıʅԀɹoʌıpǝɹ)s ɐɔɔonuʇ ɥɐs qǝǝu ndƃɹɐpǝp ʇo ʍoɹʞ ǝʌǝu qǝʇʇǝɹ ʍıʇɥ "
+"Ԁǝɹsouɐ˙ Ｍǝ ʍıʅʅ ɹǝpıɹǝɔʇ ʎon ʇo %(ǝɯɐıʅԀɹoʌıpǝɹ)s˙"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid ""
+"Persona lets you use your %(emailProvider)s account to sign into sites like "
+"%(aWebsite)s."
+msgstr ""
+"‮Ԁǝɹsouɐ ʅǝʇs ʎon nsǝ ʎonɹ %(ǝɯɐıʅԀɹoʌıpǝɹ)s ɐɔɔonuʇ ʇo sıƃu ıuʇo sıʇǝs ʅıʞǝ "
+"%(ɐＭǝqsıʇǝ)s˙"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:24
+msgid ""
+"Once you verify your account there, you will be signed in to %(aWebsite)s."
+msgstr ""
+"‮Ouɔǝ ʎon ʌǝɹıɟʎ ʎonɹ ɐɔɔonuʇ ʇɥǝɹǝ´ ʎon ʍıʅʅ qǝ sıƃuǝp ıu ʇo %(ɐＭǝqsıʇǝ)s˙"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:29
+#, php-format
+msgid "sign in with %s"
+msgstr "‮sıƃu ıu ʍıʇɥ %s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:30
+msgid "Use a different email address"
+msgstr "‮∩sǝ ɐ pıɟɟǝɹǝuʇ ǝɯɐıʅ ɐppɹǝss"

@@ -1,0 +1,791 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-10-11 07:17+0000\n"
+"Last-Translator: Peter <petercpg@mail.moztw.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1381475845.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: 完成登入"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: 完成 Persona 密碼重設"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "更好的登入方式"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "不支援的瀏覽器"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "沒有 Watch 無法支援的瀏覽器"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Cookie 已被停用"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "關於"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "使用條款"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "隱私權保護政策"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "完成註冊"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "更簡便的登入方式。"
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona 取代了不同網站的密碼"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"諸如 <a %(webmakerLink)s>%(webmakerName)s</a>、<a %(openphotoLink)s>"
+"%(openphotoName)s</a>、<a %(voostLink)s>%(voostName)s</a> 等網站都已經使用 "
+"Persona，您不需註冊帳號就可以直接登入。"
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr "這代表您只需要一組密碼，就可以登入不同網站。"
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "一組密碼就可征服其他網站。"
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "使用多組電子郵件地址"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Persona 很靈活"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"有了 Persona，您的電子郵件地址就是您的個人身分。您可以使用多組電子郵件地址，"
+"但還是只需要一組密碼。"
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "真正保護您的隱私。"
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "為了您，Persona 以非營利為榮"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Persona 是由 Mozilla，一個網路上多數的社群都信任的非營利組織所開發的。我們的"
+"目標是創造可以讓開放網路平台與人們的隱私保持平衡的技術。"
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona 保護您的隱私"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona 只是連結您登入過程的一座橋樑，不會追蹤您在網路上的行為。您的網頁瀏覽"
+"紀錄只會留在您自己的電腦當中。"
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona 的開發人員資訊"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "為您的網站加上 Persona 功能"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "開發者指南以及 API 文件"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "即將登入至:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "最後一步了！"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "電子郵件地址"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "您的電子郵件地址"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "密碼"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "您的密碼"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "必須輸入密碼"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "密碼不正確"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "完成"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona 需要 Cookie 功能才能記得您。"
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "請關閉此視窗然後 <a %s>開啟 Cookie 功能</a> 並再試一次"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "使用下列帳號登入 %s&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s 不再允許您使用 %(idp)s 密碼登入 Persona，您現在必須使用原有的 "
+"Persona 密碼才能使用此電子郵件地址登入。"
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Persona 密碼"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "電子郵件地址"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "必須為電子郵件地址"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "必須輸入電子郵件欄位"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "忘記密碼了嗎？"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "輸入密碼"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "密碼"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr "已寄出初始確認郵件，請稍待幾分鐘後再請求其他"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"若繼續，代表您接受 %(site)s 的 <a %(terms)s>使用條款</a> 與 <a %(privacy)s>隱"
+"私權保護政策</a>。"
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "下一步"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "繼續"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "取消"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "登入"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "確定"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "正在連線到 Persona…"
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona</strong>，由打造 Firefox 的非營利組織所打造。<a %s>了"
+"解更多資訊&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr "使用 Mozilla Persona: 最安全、便捷的登入方式。"
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>看看使用導覽</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "移除"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "您是 Mozilla Persona 新手？<a %(learnMoreLink)s>了解更多資訊</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "帳戶管理員"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "您的電子郵件地址"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "編輯"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "完成"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "舊密碼"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "新密碼"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "必須輸入舊密碼"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "舊密碼不正確"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "必須輸入新密碼"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "密碼必須不同"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "密碼長度必須在 8 到 80 個字元符號之間"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "您可以隨時 <a %(cancelLink)s>取消您的帳號</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Persona 首頁"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "運作原理"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "帳號"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "登入"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "登出"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "由 <a %s>Identity Team</a> @ <a %s>Mozilla</a> 打造"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "隱私 &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "服務條款 &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "開發者 &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "需要幫助嗎？&rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "抱歉，Persona 需要開啟 Javascript 才能使用。"
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "重設密碼"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "建立新密碼以使用 %s 登入。"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "驗證密碼"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "需要輸入兩次密碼"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "兩次輸入的密碼不同！"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "已驗證 <strong class=\"email\">您的電子郵件地址</strong>！"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr "您的新郵件地址已經設定完成，可以使用。您將會被重導到 %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "將在 %s 秒後重導"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "很抱歉，我們暫時不支援您的瀏覽器。"
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Firefox 圖示"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona 可在 <a %(getFirefoxLink)s>Firefox</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "與其他 <a %(otherBrowserLink)s>現代瀏覽器</a> 中使用。"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr "抱歉，您的瀏覽器不支援登入至此網站。"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"這個網站的管理員需要更新網站才能使用 Persona 的 <a %s>navigator.id.watch()</"
+"a> 功能。"
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona</strong></a>，簡化登入過程，由打造 Firefox 的非"
+"營利組織所打造。"
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "點下此鏈結以確認要前往 %(site)s:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr "若您並未打算登入，請直接忽略此電子郵件即可。"
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr "由打造 Firefox 的非營利組織所打造，簡化您的登入過程。"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "了解更多資訊: https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "立刻確認您的電子郵件地址"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "立刻確認您的帳號"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "忘記了您的 Persona 密碼？沒關係，我們有時也會這樣。"
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "點這裡重設您的密碼:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr "若您沒有要重設密碼，請忽略此電子郵件即可。"
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "立刻重設您的密碼"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr "看來您的電子郵件服務提供者的 Persona 支援有點問題。"
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "使用 Persona 登入"
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr "請注意: 若您沒有要重設密碼，請忽略此電子郵件即可。"
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "簡化登入流程。"
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s 使用 Persona 作為登入機制，讓您不需要多記憶帳號密碼就能登入。"
+
+#~ msgid "Enter your email address"
+#~ msgstr "輸入您的電子郵件地址"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "現在請輸入您的 Persona 密碼。"
+
+#~ msgid "enter email address"
+#~ msgstr "輸入電子郵件地址"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "感謝您使用 Persona。"
+
+#~ msgid "Thank you,"
+#~ msgstr "感謝您，"
+
+#~ msgid "The Persona team"
+#~ msgstr "Persona 團隊"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "點這裡重設您的密碼。"
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr "您必須重新確認此電子郵件地址，並設定新的 Persona 密碼才能繼續。"
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "點這裡設定您的新密碼:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Persona 團隊"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "點這裡設定您的新密碼。"
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr "無法使用此使用者名稱與密碼登入此帳號。"
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "我們剛送出電子郵件到該地址！若您真的需要再收一封，請稍待幾分鐘再試一次。"
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "輸入的電子郵件地址與密碼不符。"
+
+#~ msgid "The password field is required."
+#~ msgstr "必須輸入密碼。"
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "舊密碼不正確，密碼未更改。"
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "舊密碼與新密碼相同。"
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "請輸入您的電子郵件地址以使用 Persona 登入。"
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "正在向您的電子郵件服務供應商檢查。"
+
+#~ msgid "Sign In Complete"
+#~ msgstr "登入完成"
+
+#~ msgid "Forgot Password"
+#~ msgstr "忘記密碼"
+
+#~ msgid "Email Verification"
+#~ msgstr "電子郵件驗證"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "檢查您 <strong %(checkId)s></strong> 的信箱。"
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr "請點下確認郵件當中的鏈結。然後密碼就會被重設。"
+
+#~ msgid "Non existent user!"
+#~ msgstr "無此使用者！"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "無法重設該地址的密碼。"
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "記得您的密碼嗎？請登入。"
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr "此視窗即將關閉，帳號註冊過程將會繼續。"
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "請到 <strong %(emailId)s></strong> 收信。"
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr "請點下確認郵件當中的鏈結，您將會立刻登入至 Persona。"
+
+#~ msgid "forgot your password?"
+#~ msgstr "忘記密碼了嗎？"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr "您的電子郵件地址看來還沒註冊過，請設定 Persona 的密碼。"
+
+#~ msgid "verify password"
+#~ msgstr "驗證密碼"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "若繼續，代表您接受 %(persona)s 的 <a %(termsLink)s>使用條款</a> 與 <a "
+#~ "%(privacyLink)s>隱私權保護政策</a>。"
+
+#~ msgid "Next"
+#~ msgstr "下一步"
+
+#~ msgid "Verify Email"
+#~ msgstr "確認電子郵件"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "為了確認您真的擁有該 <strong %(emailId)s>電子郵件地址</strong>，您必須登入"
+#~ "到您的電子郵件服務提供者。將會開啟新視窗供您登入。"
+
+#~ msgid "Verify"
+#~ msgstr "確認"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "感謝您註冊 <strong>Persona</strong>。您現在可以使用 Persona 帳號 <em>登入"
+#~ "</em> 或 <em>註冊</em> 其他網站！"
+
+#~ msgid "Sign Up"
+#~ msgstr "註冊"
+
+#~ msgid ""
+#~ "<strong %(emailId)s>Email</strong> is not registered. Would you like to "
+#~ "<a %(signUpLink)s>sign up</a> instead?"
+#~ msgstr ""
+#~ "未註冊的 <strong %(emailId)s>電子郵件</strong>。您想要先 <a "
+#~ "%(signUpLink)s>註冊</a> 嗎？"
+
+#~ msgid "New to Persona? Sign up today."
+#~ msgstr "沒用過 Persona？今天就註冊吧！"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(primaryId)s>address</strong>, you must "
+#~ "sign in with your provider.  A new window will be opened."
+#~ msgstr ""
+#~ "為了確認您真的擁有該 <strong %(primaryId)s>電子郵件地址</strong>，您必須登"
+#~ "入到您的電子郵件服務提供者。將會開啟新視窗供您登入。"
+
+#~ msgid ""
+#~ "<strong %(emailId)s></strong> is already registered. Would you like to <a "
+#~ "%(signInLink)s>sign in</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s></strong> 已被註冊，您要 <a %(signInLink)s>登入</a> "
+#~ "嗎？"
+
+#~ msgid "Existing account? Sign in."
+#~ msgstr "已經有帳號了？請登入。"
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "使用 Persona 登入至 %s"
+
+#~ msgid "Communicating with server"
+#~ msgstr "正在與伺服器通訊"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "我們正在連絡伺服器，請稍候。"
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "Mozilla Persona 是個能讓您更快、更安全地登入網站的方式。<a %s>了解更多資"
+#~ "訊 &rarr;</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "感謝您驗證您的電子郵件地址。該訊息已寄送給您以完成登入至 %s 的過程。"
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "請點下此鏈結完成註冊:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr "嘗試確認您的電子郵件地址時發生錯誤。您曾經驗證過這個地址嗎？"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "嘗試完成註冊時發生錯誤。"
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "您新的電子郵件地址已經設定完成，現在應該也已經登入了。您現在可以關閉此視窗"
+#~ "並回到"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr "您的註冊鏈結有點問題。這個電子郵件地址註冊過了嗎？"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "BrowserID 首頁"
+
+#~ msgid "TOS"
+#~ msgstr "服務條款"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "與伺服器通訊時發生錯誤。"
+
+#~ msgid "Browser ID"
+#~ msgstr "Browser ID"

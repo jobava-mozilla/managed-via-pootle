@@ -1,0 +1,12 @@
+<div id="attach-panel">
+	<p>{L_ADD_ATTACHMENT_EXPLAIN}</p>
+	<ol>
+		<li><label for="fileupload">{L_FILENAME}</label>
+			<input type="file" name="fileupload" id="fileupload" maxlength="{FILESIZE}" value="" class="inputbox autowidth" /> 
+			<input type="submit" name="add_file" value="{L_ADD_FILE}" class="button2" onclick="upload = true;" />
+		</li>
+		<li><label for="filecomment">{L_FILE_COMMENT}</label>
+		  <textarea name="filecomment" id="filecomment" rows="1" cols="40" class="inputbox autowidth">{FILE_COMMENT}</textarea>
+		</li>
+	</ol>
+</div>

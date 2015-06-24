@@ -1,0 +1,615 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-09-28 16:09+0000\n"
+"Last-Translator: Håvard <havard.mork@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1380384593.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"Det oppstod et problem med registreringenslenken. Har denne adressen "
+"allerede blitt registrert?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Det oppstod en feil under forsøket på å fullføre registreringen."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Persona krever informasjonskapsler for å huske deg."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Lukk dette vinduet, <a %s>slå på informasjonskapsler</a>, og prøv igjen"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Kommunikasjonsfeil"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Fullfører innloggingen …"
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Om et øyeblikk vil du være innlogget med Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Beklager, dette tar lengre tid enn det burde."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Hvis dette ikke løser seg i løpet av få sekunder, må du lukke vinduet og "
+"prøv igjen."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Bekrefter med e-posttilbyder."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Den valgte e-postadressen er ugyldig eller har blitt slettet."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Fjern %(email)s fra din Persona-konto?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Fjerning av den siste adressen vil kansellere Persona-kontoen din.\n"
+"Er du sikker på at du vil fortsette?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Er du sikker på at du vil avslutte din Persona-konto?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Legg til en e-postadresse"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "e-postadresse"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Må være en e-postadresse"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "E-postfeltet er påkrevd"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Første bekreftelse sendt &ndash; vent noen minutter før du ber om en ny"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Allerede lagt til!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "legg til"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "avbryt"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Klarte ikke bekrefte %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s er en påkrevd adresse, men vi klarte ikke bekrefte at du eier denne "
+"adressen."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s bekreftet!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Logger deg inn &hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Sjekk e-posten din"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Klikk på lenken i e-postbekreftelsen sendt til %s for å bli direkte logget "
+"inn som %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Feil"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Vi er veldig lei for det."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Tjeneren er under ekstrem belastning!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Last inn siden på nytt, og prøv igjen."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Lukk dette vinduet og prøv igjen."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Se mer info"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Lukk"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* er ikke en gyldig e-postadresse!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"For å fortsette må du lukke vinduet og skrive inn en gyldig e-postadresse."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Husk deg?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Hvor lenge ønsker du å være logget på med Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "En måned"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Jeg stoler på denne datamaskinen."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Kun denne økten"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Dette er ikke min datamaskin."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Merk: Du kan selvfølgelig logge ut av Persona til enhver tid."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Logg inn med Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Logg inn på %s som &hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Velg en e-postadresse"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Legg til en ny e-postadresse"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Dette er ikke meg"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Ved å fortsette, bekrefter du at du godtar %(site)s sine <a "
+"%(terms)s>bruksbetingelser</a> og <a %(privacy)s>personvernbestemmelser</a>."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "logg inn"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "%(primary)s svarer ikke. Vent noen minutter og prøv igjen."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Klarte ikke bekrefte %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Dette kan være fordi nettleseren blokkerer tredjeparts infokapsler.   Sørg "
+"for at nettleserens personverninnstillinger er satt opp til å godkjenne "
+"tredjeparts infokapsler for %(idpName)s og prøv igjen."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Du bekrefter også at du godtar %(site)s sine <a %(terms)s>bruksbetingelser</"
+"a> og <a %(privacy)s>personvernbestemmelser</a>."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Opprett passord"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s lar deg ikke lenger logge inn på Persona med ditt %(idp)s passord. "
+"Du må opprette et nytt passord for å bruke sammen med din Persona-konto."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Din e-postadresse er ny for oss. Du må opprette et passord for å bruke med "
+"FirefoxOS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Din e-postadresse er ny for oss. Du må opprette et passord for å bruke med "
+"Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "opprett passord"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Passordfeltet er påkrevd"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Passordet må være 8&ndash;80 tegn langt"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Verifiser passord"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "verifiser passord"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Verifiseringspassord er påkrevd"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Passordene stemmer ikke overens!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "ferdig"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Gode nyheter!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s trenger ikke lenger et ekstra passord. Bekreft kontoen din, og du "
+"vil automatisk logges inn på %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "bekreft"
+
+#, fuzzy
+#~ msgid "signing in"
+#~ msgstr "logg inn"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Bekreft e-postadressen din"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Logg på som …"
+
+#~ msgid "Email"
+#~ msgstr "E-post"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Identiteten din er bekreftet med e-posttilbyderen, og vi vil nå forsøke å "
+#~ "logge deg inn."
+
+#~ msgid "Sign in using"
+#~ msgstr "Logg inn med"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Dette nettstedet krever at du logger inn med"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Du må logge inn med e-posttilbyderen din for å bekrefte eierskapet til "
+#~ "denne adressen. Vinduet vil omdirigeres til"
+
+#, fuzzy
+#~ msgid "Enter password"
+#~ msgstr "opprett passord"
+
+#~ msgid "forgot your password?"
+#~ msgstr "glemt passord?"
+
+#~ msgid "Password"
+#~ msgstr "Passord"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "Passord er påkrevd."
+
+#~ msgid "verify email"
+#~ msgstr "bekreft e-postadressen"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s gjør dette enkelt"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "Din %(emailProvider)s-konto har blitt oppgradert til å fungere enda bedre "
+#~ "med Persona. Vi vil videresende deg til %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona lar deg bruke din %(emailProvider)s-konto for å logge deg på "
+#~ "nettsteder som %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "logg inn med %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Bruk en annen e-postadresse"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Dette feltet må være en e-postadresse"
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Vi sendte nettopp en e-post til denne adressen! Dersom du ønsker å sende "
+#~ "en ny, vent et minutt eller to, og prøv igjen."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Kontoen din har allerede denne adressen!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Velg en e-postadresse."
+
+#~ msgid "The password field is required."
+#~ msgstr "Passordfeltet er påkrevd."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Denne e-postadressen og passordet stemmer ikke overens."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "Din %(emailProvider)s-konto har blitt oppgradert til å fungere enda bedre "
+#~ "med Persona. Vi vil videresende deg til %(emailProvider)s. Når du har "
+#~ "bekreftet kontoen din der, vil du være logget inn på %(aWebsite)s."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Legg til en annen e-postadresse til ditt Persona-passord."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Vi beklager, en feil oppstod!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Tilbakestill passord"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Opprett et nytt passord for å bruke med %s."
+
+#~ msgid "reset password"
+#~ msgstr "tilbakestill passord"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Merk: Dette passordet vil bli brukt med alle dine Persona-e-postadresser."
+
+#~ msgid "Sign In"
+#~ msgstr "Logg inn"
+
+#~ msgid "Sign Up"
+#~ msgstr "Registrer deg"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Vent noen sekunder mens vi logger deg inn på nettstedet."
+
+#, fuzzy
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "For å fullføre innloggingen, trykk på bekreftelseslenken som vi sendte "
+#~ "til e-postadressen din."
+
+#, fuzzy
+#~ msgid "enter email address"
+#~ msgstr "Ny e-postadresse"
+
+#, fuzzy
+#~ msgid "password"
+#~ msgstr "Passord"
+
+#~ msgid "next"
+#~ msgstr "neste"
+
+#, fuzzy
+#~ msgid "Forgot your password?"
+#~ msgstr "glemt passord?"
+
+#, fuzzy
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Ved å trykke %s bekrefter du at du godtar nettstedets <a "
+#~ "%s>bruksbetingelser</a> og <a %s>personvernbestemmelser</a>."
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Denne meldingen vil forsvinne når forespørselen fullfører "
+#~ "(forhåpentligvis snart). Dersom du må vente altfor lenge, lukk vinduet og "
+#~ "prøv igjen."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr "Skriv inn e-postadressen din for å logge inn på <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr "Vent mens vi henter info om e-posttilbyderen din."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "Klarte ikke logge inn på kontoen med dette brukernavnet og passordet."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Vi sendte en e-postbekreftelse til <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr "Dersom dette er feil, ignorer e-posten og <a %s>avbryt</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Dersom dette er feil, ignorer e-posten og <a %s>bruk en annen e-"
+#~ "postadresse</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Om du ikke har noe imot å fortelle de, er dette din datamaskin?"
+
+#~ msgid "yes"
+#~ msgstr "ja"
+
+#, fuzzy
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Hvis det er, lar vi deg være innlogget noen uker."
+
+#~ msgid "no"
+#~ msgstr "nei"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Dersom du bruker en offentlig datamaskin, for eksempel en på et bibliotek "
+#~ "eller nettkafe, vil vi be om passordet igjen om en time."
+
+#, fuzzy
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Velkommen til BrowserID!"
+
+#, fuzzy
+#~ msgid "Repeat Password"
+#~ msgstr "tilbakestill passord"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID krever cookies"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "E-postadressen ser ut til å være ny, så la oss komme i gang."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Alltid logg inn med denne e-postadressen"

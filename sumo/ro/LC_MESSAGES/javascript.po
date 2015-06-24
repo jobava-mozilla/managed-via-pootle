@@ -1,0 +1,371 @@
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# strainu <narro@strainu.ro>
+# manuelciosici <manuelrciosici@gmail.com>
+#
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: support.mozilla.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2014-04-02 21:12+0000\n"
+"Last-Translator: Catalina <cata19c@yahoo.com>\n"
+"Language-Team: Romanian <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1396473150.0\n"
+
+#~ msgid "An error occured."
+#~ msgstr "S-a produs o eroare."
+
+#~ msgid "You replied"
+#~ msgstr "Ați răspuns"
+
+#~ msgid "No differences found"
+#~ msgstr "Nu s-au găsit diferențe."
+
+#~ msgid "Cancel"
+#~ msgstr "Revocare"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "Fișierul nu s-a putut încărca. Încercați din nou."
+
+#, fuzzy
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Fișierul a fost șters. Selectați un fișier imagine."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Încărcare anulată. Vă rugăm selectați un fișier imagine."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Fișierul a fost șters. Selectați un fișier imagine."
+
+#~ msgid "Delete this image"
+#~ msgstr "Șterge această imagine"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "Se încarcă \"%s\"..."
+
+#~ msgid "Loading..."
+#~ msgstr "Încarc..."
+
+#~ msgid "No votes data"
+#~ msgstr "Nu sunt voturi exprimate"
+
+#~ msgid "Error loading graph"
+#~ msgstr "Eroare la încărcarea graficului"
+
+#~ msgid "Votes"
+#~ msgstr "Voturi"
+
+#~ msgid "Percent"
+#~ msgstr "Procente"
+
+#~ msgid "Yes"
+#~ msgstr "Da"
+
+#~ msgid "No"
+#~ msgstr "Nu"
+
+#~ msgid "Support Forum"
+#~ msgstr "Forum de suport"
+
+#~ msgid "Percent Yes"
+#~ msgstr "Procente Da"
+
+#~ msgid "Bold"
+#~ msgstr "Îngroșat"
+
+#~ msgid "bold text"
+#~ msgstr "text îngroșat"
+
+#~ msgid "Italic"
+#~ msgstr "Cursiv"
+
+#~ msgid "italic text"
+#~ msgstr "text înclinat"
+
+#~ msgid "Numbered List"
+#~ msgstr "Listă cu numerotare"
+
+#~ msgid "Heading 1"
+#~ msgstr "Subtitlu 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "Subtitlu 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "Subtitlu 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Inserează o legătură..."
+
+#~ msgid "Support article:"
+#~ msgstr "Articol ajutor:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Introduceți numele articolului"
+
+#~ msgid "External link:"
+#~ msgstr "Legătură externă:"
+
+#~ msgid "Insert Link"
+#~ msgstr "Adaugă legătură"
+
+#~ msgid "media"
+#~ msgstr "media"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Căutare în galerie"
+
+#~ msgid "Show:"
+#~ msgstr "Afișează:"
+
+#~ msgid "Images"
+#~ msgstr "Imagini"
+
+#~ msgid "Videos"
+#~ msgstr "Videoclipuri"
+
+#~ msgid "Show media for:"
+#~ msgstr "Afișează media pentru:"
+
+#~ msgid "Insert Media"
+#~ msgstr "Inserează media"
+
+#~ msgid "Upload Media"
+#~ msgstr "Încarcă media"
+
+#, fuzzy
+#~ msgid "Insert Response"
+#~ msgstr "Adaugă legătură"
+
+#, fuzzy
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "A apărut o eroare la verificarea cozii."
+
+#~ msgid "Reply..."
+#~ msgstr "Răspunde..."
+
+#~ msgid "There was an error."
+#~ msgstr "A apărut o eroare."
+
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "A apărut o eroare. Vă rugăm încercați din nou în câteva momente."
+
+#~ msgid "1m"
+#~ msgstr "1l"
+
+#~ msgid "3m"
+#~ msgstr "3l"
+
+#~ msgid "6m"
+#~ msgstr "6l"
+
+#~ msgid "1y"
+#~ msgstr "1a"
+
+#~ msgid "All"
+#~ msgstr "Toate"
+
+#~ msgid "No tags entered."
+#~ msgstr "Nicio etichetă introdusă."
+
+#~ msgid "Error uploading image"
+#~ msgstr "Eroare la încărcarea imaginii"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Eroare la ștergerea imaginii"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Verificați dacă sunteți autentificat și încercați din nou."
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Un document cu acest titlu deja există în această limbă."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "Alege reviziile pentru comparație"
+
+#~ msgid "Toggle Diff"
+#~ msgstr "Schimbă diferențele"
+
+#~ msgid "Show for..."
+#~ msgstr "Afișează pentru..."
+
+#~ msgid "Add Rule"
+#~ msgstr "Adaugă regulă"
+
+#~ msgid "Installing..."
+#~ msgstr "Instalez..."
+
+#~ msgid "Mozilla Support"
+#~ msgstr "Suport Mozilla"
+
+#, fuzzy
+#~ msgid "Table of Contents"
+#~ msgstr "Cuprins"
+
+#, fuzzy
+#~ msgid "Insert a canned response..."
+#~ msgstr "Inserează o legătură..."
+
+#~ msgid "Delete FLV video"
+#~ msgstr "Șterge fișierul video FLV"
+
+#~ msgid "January"
+#~ msgstr "ianuarie"
+
+#~ msgid "February"
+#~ msgstr "februarie"
+
+#~ msgid "March"
+#~ msgstr "martie"
+
+#~ msgid "April"
+#~ msgstr "aprilie"
+
+#~ msgid "May"
+#~ msgstr "mai"
+
+#~ msgid "June"
+#~ msgstr "iunie"
+
+#~ msgid "July"
+#~ msgstr "iulie"
+
+#~ msgid "August"
+#~ msgstr "august"
+
+#~ msgid "September"
+#~ msgstr "septembrie"
+
+#~ msgid "October"
+#~ msgstr "octombrie"
+
+#~ msgid "November"
+#~ msgstr "noiembrie"
+
+#~ msgid "December"
+#~ msgstr "decembrie"
+
+#~ msgid "Sunday"
+#~ msgstr "duminică"
+
+#~ msgid "Monday"
+#~ msgstr "luni"
+
+#~ msgid "Tuesday"
+#~ msgstr "marți"
+
+#~ msgid "Wednesday"
+#~ msgstr "miercuri"
+
+#~ msgid "Thursday"
+#~ msgstr "joi"
+
+#~ msgid "Friday"
+#~ msgstr "vineri"
+
+#~ msgid "Saturday"
+#~ msgstr "sâmbătă"
+
+#, fuzzy
+#~ msgid "Jan"
+#~ msgstr "ianuarie"
+
+#, fuzzy
+#~ msgid "Mar"
+#~ msgstr "martie"
+
+#, fuzzy
+#~ msgid "Apr"
+#~ msgstr "aprilie"
+
+#, fuzzy
+#~ msgid "Jun"
+#~ msgstr "iunie"
+
+#, fuzzy
+#~ msgid "Jul"
+#~ msgstr "iulie"
+
+#, fuzzy
+#~ msgid "Aug"
+#~ msgstr "august"
+
+#, fuzzy
+#~ msgid "Oct"
+#~ msgstr "octombrie"
+
+#, fuzzy
+#~ msgid "Nov"
+#~ msgstr "Nu"
+
+#~ msgid "From"
+#~ msgstr "de la"
+
+#~ msgid "To"
+#~ msgstr "către"
+
+#~ msgid "Zoom"
+#~ msgstr "Panoramare"
+
+#~ msgid "Documents"
+#~ msgstr "Documente"
+
+#~ msgid "%s Votes"
+#~ msgstr "%s voturi"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Voluntarii noștri sunt gata să te ajute."
+
+#~ msgid "Users waiting: "
+#~ msgstr "Utilizatori în așteptare: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Timp estimat de așteptare: "
+
+#~ msgid "The queue is full."
+#~ msgstr "Coada este plină."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "A apărut o eroare la verificarea cozii."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Mai puțin de 2 minute."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "Mai mult de 20 de minute."
+
+#~ msgid "Query took: "
+#~ msgstr "Interogarea a durat: "
+
+#~ msgid " seconds"
+#~ msgstr " secunde"
+
+#, fuzzy
+#~ msgid "Number of Votes"
+#~ msgstr "Număr de voturi"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#, fuzzy
+#~ msgid "Toggle L10n"
+#~ msgstr "Schimbă diferențele"
+
+#, fuzzy
+#~ msgid "Search: "
+#~ msgstr "Căutare în galerie"

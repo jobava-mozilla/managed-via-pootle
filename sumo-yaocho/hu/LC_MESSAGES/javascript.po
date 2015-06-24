@@ -1,0 +1,736 @@
+# Kalman Kemenczy <kkemenczy@gmail.com>, 2011.
+# Kalman Kemenczy <kkemenczy@opensuse.org>, 2011, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2015-05-10 17:47+0000\n"
+"Last-Translator: misibacsi <listas123@freemail.hu>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n !=1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1431280022.0\n"
+
+#~ msgid "An error occured."
+#~ msgstr "Hiba történt."
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Hiba történt az előnézet készítésekor."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Hiba történt a szavazat elküldésekor."
+
+#~ msgid "You replied"
+#~ msgstr "Válaszolt"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Ön és még egy ember válaszolt"
+
+#~ msgid "Account banned successfully!"
+#~ msgstr "Fiók sikeresen kitiltva!"
+
+#~ msgid "Username not provided."
+#~ msgstr "Nincs megadva felhasználónév."
+
+#~ msgid "This account is already banned!"
+#~ msgstr "Ez a fiók már ki van tiltva!"
+
+#~ msgid "Account is now being ignored!"
+#~ msgstr "A fiók mostantól figyelmen kívül marad!"
+
+#~ msgid "This account is already being ignored!"
+#~ msgstr "A fiók már figyelmen kívül van hagyva!"
+
+#~ msgid "1 user unbanned successfully!"
+#~ msgid_plural "%s users unbanned sucessfully!"
+#~ msgstr[0] "1 felhasználó kitiltása sikeresen visszavonva!"
+#~ msgstr[1] "%s felhasználó kitiltása sikeresen visszavonva!"
+
+#~ msgid "1 user removed from list!"
+#~ msgid_plural "%s users removed from list!"
+#~ msgstr[0] "1 felhasználó eltávolítva a listából!"
+#~ msgstr[1] "%s felhasználó eltávolítva a listából!"
+
+#~ msgid "No users selected!"
+#~ msgstr "Nincs kijelölve felhasználó"
+
+#~ msgid "%(num)s <small>of %(total)s</small>"
+#~ msgstr "%(num)s <small>összesen: %(total)s</small>"
+
+#~ msgid "No differences found"
+#~ msgstr "Nincs különbség"
+
+#~ msgid "Cancel"
+#~ msgstr "Mégsem"
+
+#~ msgid "You are not watching this thread"
+#~ msgstr "Nem követi ezt a témacsoportot"
+
+#~ msgid "You are watching this thread"
+#~ msgstr "Követi ezt a témacsoportot"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Képmelléklet"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "Nem sikerült a fájl feltöltése. Próbálja meg később."
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Hibás kép. Válasszon ki egy megfelelő képfájlt."
+
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Túl nagy méretű kép. Válasszon ki egy kisebb képfájlt."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Feltöltés megszakítva. Válasszon egy képfájlt."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "A fájl törölve. Válasszon egy képfájlt."
+
+#~ msgid "Delete this image"
+#~ msgstr "Kép törlése"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "„%s” feltöltése…"
+
+#~ msgid "Loading..."
+#~ msgstr "Betöltés..."
+
+#~ msgid "No votes data"
+#~ msgstr "Nincsenek szavazati adatok"
+
+#~ msgid "Error loading graph"
+#~ msgstr "Hiba a grafikon betöltésekor"
+
+#~ msgid "Votes"
+#~ msgstr "Szavazatok"
+
+#~ msgid "Percent"
+#~ msgstr "Százalék"
+
+#~ msgid "Yes"
+#~ msgstr "Igen"
+
+#~ msgid "No"
+#~ msgstr "Nem"
+
+#~ msgid "Questions"
+#~ msgstr "Kérdések"
+
+#~ msgid "Solved"
+#~ msgstr "Megoldva"
+
+#~ msgid "% Solved"
+#~ msgstr "% megoldva"
+
+#~ msgid "Responded in 24 hours"
+#~ msgstr "Megválaszolva 24 órán belül"
+
+#~ msgid "% Responded in 24 hours"
+#~ msgstr "% megválaszolt kérdés 24 órán belül"
+
+#~ msgid "Responded in 72 hours"
+#~ msgstr "Megválaszolva 72 órán belül"
+
+#~ msgid "% Responded in 72 hours"
+#~ msgstr "% megválaszolt kérdés 72 órán belül"
+
+#~ msgid "Not responded in 24 hours"
+#~ msgstr "Nincs megválaszolva 24 órán belül"
+
+#~ msgid "Not responded in 72 hours"
+#~ msgstr "Nincs megválaszolva 72 órán belül"
+
+#~ msgid "Article Votes: % Helpful"
+#~ msgstr "Leírásszavazatok: % hasznos"
+
+#~ msgid "Answer Votes: % Helpful"
+#~ msgstr "Válaszszavazatok: % hasznos"
+
+#~ msgid "en-US KB"
+#~ msgstr "en-US KB"
+
+#~ msgid "non en-US KB"
+#~ msgstr "nem en-US KB"
+
+#~ msgid "Support Forum"
+#~ msgstr "Támogatói fórum"
+
+#~ msgid "Army of Awesome"
+#~ msgstr "Szuperhősök"
+
+#~ msgid "Click Through Rate %"
+#~ msgstr "% átkattintási arány"
+
+#~ msgid "Visitors"
+#~ msgstr "Látogatók"
+
+#~ msgid "L10n Coverage"
+#~ msgstr "L10n lefedettség"
+
+#~ msgid "Percent Yes"
+#~ msgstr "Igen százalék"
+
+#~ msgid "I don't know"
+#~ msgstr "Nem tudom"
+
+#~ msgid "Bold"
+#~ msgstr "Félkövér"
+
+#~ msgid "bold text"
+#~ msgstr "félkövér szöveg"
+
+#~ msgid "Italic"
+#~ msgstr "Dőlt"
+
+#~ msgid "italic text"
+#~ msgstr "dőlt szöveg"
+
+#~ msgid "Numbered List"
+#~ msgstr "Számozott lista"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Számozott listaelem"
+
+#~ msgid "Bulleted List"
+#~ msgstr "Felsorolás lista"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "Felsorolás listaelem"
+
+#~ msgid "Heading 1"
+#~ msgstr "Címsor 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "Címsor 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "Címsor 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Hivatkozás beszúrása..."
+
+#~ msgid "link text"
+#~ msgstr "hivatkozás szövege"
+
+#~ msgid "Link text:"
+#~ msgstr "Hivatkozás szövege:"
+
+#~ msgid "Link target:"
+#~ msgstr "Hivatkozási cél:"
+
+#~ msgid "Support article:"
+#~ msgstr "Támogatási leírás:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Adja meg a leírás nevét"
+
+#~ msgid "External link:"
+#~ msgstr "Külső hivatkozás:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Adja meg a külső hivatkozás URL-jét"
+
+#~ msgid "No sections found"
+#~ msgstr "Nem található szakasz"
+
+#~ msgid "Insert Link"
+#~ msgstr "Hivatkozás beszúrása"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Tudásbázis-leírás"
+
+#~ msgid "Insert media..."
+#~ msgstr "Média beszúrása..."
+
+#~ msgid "media"
+#~ msgstr "média"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Galéria keresése"
+
+#~ msgid "Show:"
+#~ msgstr "Megjelenítés:"
+
+#~ msgid "Images"
+#~ msgstr "Képek"
+
+#~ msgid "Videos"
+#~ msgstr "Videók"
+
+#~ msgid "Show media for:"
+#~ msgstr "Média megjelenítése:"
+
+#~ msgid "Insert Media"
+#~ msgstr "Média beszúrása"
+
+#~ msgid "Upload Media"
+#~ msgstr "Média feltöltése"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Válassza ki a beszúrni kívánt képet vagy videót."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Hoppá, valami hiba történt."
+
+#~ msgid "Common responses"
+#~ msgstr "Általános válaszok"
+
+#~ msgid "cannedresponses"
+#~ msgstr "konzervválaszok"
+
+#~ msgid "Search for common responses"
+#~ msgstr "Általános válaszok keresése"
+
+#~ msgid "Categories"
+#~ msgstr "Kategóriák"
+
+#~ msgid "Responses"
+#~ msgstr "Válaszok"
+
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "Válasszon kategóriát az előző oszlopból vagy kezdjen keresni."
+
+#~ msgid "Response editor"
+#~ msgstr "Válaszszerkesztő"
+
+#~ msgid "Switch to preview mode"
+#~ msgstr "Váltás előnézeti módra"
+
+#~ msgid "Insert Response"
+#~ msgstr "Válasz beszúrása"
+
+#~ msgid "Matching responses"
+#~ msgstr "Összetartozó válaszok"
+
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "Hiba történt a konzervválaszok ellenőrzésekor."
+
+#~ msgid "Response preview"
+#~ msgstr "Válasz előnézete"
+
+#~ msgid "Switch to edit mode"
+#~ msgstr "Váltás szerkesztő módra"
+
+#~ msgid "Quote previous message..."
+#~ msgstr "Előző üzenet idézése..."
+
+#~ msgid " said"
+#~ msgstr " írta"
+
+#~ msgid "Reply..."
+#~ msgstr "Válasz..."
+
+#~ msgid "%s characters remaining"
+#~ msgstr "%s karakter van még"
+
+#~ msgid "There was an error."
+#~ msgstr "Hiba történt."
+
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Hiba történt, próbálja meg egy kicsit később."
+
+#~ msgid "Daily"
+#~ msgstr "Naponta"
+
+#~ msgid "Weekly"
+#~ msgstr "Hetente"
+
+#~ msgid "Monthly"
+#~ msgstr "Havonta"
+
+#~ msgid "Week beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Hét, kezdőnap: %(year)s-%(month)s-%(date)s"
+
+#~ msgid "Month beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Hónap, kezdőnap: %(year)s-%(month)s-%(date)s"
+
+#~ msgid "1m"
+#~ msgstr "1hó"
+
+#~ msgid "3m"
+#~ msgstr "3hó"
+
+#~ msgid "6m"
+#~ msgstr "6hó"
+
+#~ msgid "YTD"
+#~ msgstr "1év"
+
+#~ msgid "1y"
+#~ msgstr "1év"
+
+#~ msgid "All"
+#~ msgstr "Összes"
+
+#~ msgid "From %(from_input)s to %(to_input)s"
+#~ msgstr "Ettől: %(from_input)s eddig: %(to_input)s"
+
+#~ msgid "Invalid tag entered: %s"
+#~ msgstr "Érvénytelen címke: %s"
+
+#~ msgid "No tags entered."
+#~ msgstr "Nincs megadva címke."
+
+#~ msgid "No, ignore"
+#~ msgstr "Nem, figyelmen kívül hagy"
+
+#~ msgid "Did you mean %s?"
+#~ msgstr "Így értette: %s?"
+
+#~ msgid "Error uploading image"
+#~ msgstr "Hiba a kép feltöltésekor"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Hiba a kép törlésekor"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Ellenőrizze, hogy be van-e jelentkezve és próbálja újra."
+
+#~ msgid "Search for a user..."
+#~ msgstr "Felhasználó keresése..."
+
+#~ msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+#~ msgstr "FIGYELEM! Biztos, hogy letiltja ezt a felhasználót? Ez a művelet nem vonható vissza!"
+
+#~ msgid "All Articles: % Localized"
+#~ msgstr "Minden leírás: % lefordítva"
+
+#~ msgid "Top 20 Articles: % Localized"
+#~ msgstr "Top 20 leírás: % lefordítva"
+
+#, fuzzy
+#~ msgid "Top 100 Articles: % Localized"
+#~ msgstr "Top 20 leírás: % lefordítva"
+
+#~ msgid "Active Contributors"
+#~ msgstr "Aktív közreműködők"
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Ezen a nyelven már létezik ilyen című dokumentum."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "Ezen a nyelven már létezik ilyen SEO URL-lel dokumentum."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "Válasszon verziókat az összehasonlításra"
+
+#~ msgid "Toggle syntax highlighting"
+#~ msgstr "Váltás szintaxiskiemelésre"
+
+#~ msgid "Toggle Diff"
+#~ msgstr "Különbségek átváltása"
+
+#~ msgid "Show for..."
+#~ msgstr "Keresés..."
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "Csak meghatározott Firefox verzióra vagy operációs rendszerre vonatkozó tartalom megjelenítése."
+
+#~ msgid "Add Rule"
+#~ msgstr "Szabály hozzáadása"
+
+#~ msgid "Installing..."
+#~ msgstr "Telepítés..."
+
+#~ msgid "Answers"
+#~ msgstr "Válaszok"
+
+#~ msgid "Unhelpful Answers"
+#~ msgstr "Nem hasznos válaszok"
+
+#~ msgid "Solutions"
+#~ msgstr "Megoldások"
+
+#~ msgid "Helpful Answers"
+#~ msgstr "Hasznos válaszok"
+
+#~ msgid "First Answers"
+#~ msgstr "Első válaszok"
+
+#~ msgid "Signing you in..."
+#~ msgstr "Bejelentkezés…"
+
+#~ msgid "Mozilla Support"
+#~ msgstr "Mozilla támogatás"
+
+#~ msgid "[missing header]"
+#~ msgstr "[hiányzó fejléc]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Tartalomjegyzék"
+
+#~ msgid "Insert a canned response..."
+#~ msgstr "Konzervválasz beszúrása…"
+
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "Hibás videó. Válasszon egy érvényes FLV videófájlt."
+
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "Feltöltés megszakítva. Válasszon egy képfájlt."
+
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "A fájl törölve. Válasszon egy FLV videót."
+
+#~ msgid "Delete FLV video"
+#~ msgstr "FLV videó törlése"
+
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "Hibás videó. Válasszon egy érvényes OGV videót."
+
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "Feltöltés megszakítva. Válasszon egy OGV videót."
+
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "A fájl törölve. Válasszon egy OGV videót."
+
+#~ msgid "Delete OGV video"
+#~ msgstr "OGV videó törlése"
+
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "Hibás videó. Válasszon egy érvényes WebM videófájlt."
+
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "Feltöltés megszakítva. Válasszon egy WebM videót."
+
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "A fájl törölve. Válasszon egy WebM videót."
+
+#~ msgid "Delete WebM video"
+#~ msgstr "WebM videó törlése"
+
+#~ msgid "January"
+#~ msgstr "Január"
+
+#~ msgid "February"
+#~ msgstr "Február"
+
+#~ msgid "March"
+#~ msgstr "Március"
+
+#~ msgid "April"
+#~ msgstr "Április"
+
+#~ msgid "May"
+#~ msgstr "Május"
+
+#~ msgid "June"
+#~ msgstr "Június"
+
+#~ msgid "July"
+#~ msgstr "Július"
+
+#~ msgid "August"
+#~ msgstr "Augusztus"
+
+#~ msgid "September"
+#~ msgstr "Szeptember"
+
+#~ msgid "October"
+#~ msgstr "Október"
+
+#~ msgid "November"
+#~ msgstr "November"
+
+#~ msgid "December"
+#~ msgstr "December"
+
+#~ msgid "Sunday"
+#~ msgstr "Vasárnap"
+
+#~ msgid "Monday"
+#~ msgstr "Hétfő"
+
+#~ msgid "Tuesday"
+#~ msgstr "Kedd"
+
+#~ msgid "Wednesday"
+#~ msgstr "Szerda"
+
+#~ msgid "Thursday"
+#~ msgstr "Csütörtök"
+
+#~ msgid "Friday"
+#~ msgstr "Péntek"
+
+#~ msgid "Saturday"
+#~ msgstr "Szombat"
+
+#~ msgid "Jan"
+#~ msgstr "Jan"
+
+#~ msgid "Feb"
+#~ msgstr "Feb"
+
+#~ msgid "Mar"
+#~ msgstr "Márc"
+
+#~ msgid "Apr"
+#~ msgstr "Ápr"
+
+#~ msgid "Jun"
+#~ msgstr "Jún"
+
+#~ msgid "Jul"
+#~ msgstr "Júl"
+
+#~ msgid "Aug"
+#~ msgstr "Aug"
+
+#~ msgid "Sep"
+#~ msgstr "Szept"
+
+#~ msgid "Oct"
+#~ msgstr "Okt"
+
+#~ msgid "Nov"
+#~ msgstr "Nov"
+
+#~ msgid "Dec"
+#~ msgstr "Dec"
+
+#~ msgid "From"
+#~ msgstr "Ettől:"
+
+#~ msgid "To"
+#~ msgstr "Eddig:"
+
+#~ msgid "Zoom"
+#~ msgstr "Nagyítás"
+
+#~ msgid "Reset zoom"
+#~ msgstr "Nagyítás visszaállítása"
+
+#~ msgid "Reset zoom level 1:1"
+#~ msgstr "Nagyítás visszaállítása 1:1 méretre"
+
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "Hiba a grafikon betöltésekor. (Be van jelentkezve?)"
+
+#~ msgid "Helpfulness Votes over 1 Month"
+#~ msgstr "Segítő szavazatok 1 hónap után"
+
+#~ msgid "Current Percent of Helpfulness"
+#~ msgstr "Segeítőkészség százalékban"
+
+#~ msgid "Percent Change in Helpfulness"
+#~ msgstr "Segítőkészség váltazása százalékban"
+
+#~ msgid "Documents"
+#~ msgstr "Dokumentumok"
+
+#~ msgid "%s Votes"
+#~ msgstr "%s szavazat"
+
+#~ msgid "CTR %"
+#~ msgstr "CTR %"
+
+#~ msgid "We're open!"
+#~ msgstr "Nyitva vagyunk!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Közreműködőink szívesen segítenek."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Bejelentkezett segítők: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "Várakozók száma: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Becsült várakozási idő: "
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Csevegés megkezdése."
+
+#~ msgid "The queue is full."
+#~ msgstr "A várokozási sor megtelt."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Közreműködőink jelenleg más felhasználóknak segítenek."
+
+#~ msgid "We're closed."
+#~ msgstr "Zárva vagyunk."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "A csevegés jelenleg zárva."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "Hiba történt a várakozási sor ellenőrzésekor."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "Megpróbálhatja elindítani a csevegést."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Kevesebb, mint 2 perc."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "Több, mint 20 perc."
+
+#~ msgid "Daily Unique Visitors"
+#~ msgstr "Napi egyedi látogatók"
+
+#~ msgid "Query took: "
+#~ msgstr "Lekérdezés ideje: "
+
+#~ msgid " seconds"
+#~ msgstr " másodperc"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "Segítő szavazatok"
+
+#~ msgid "Number of Votes"
+#~ msgstr "Szavazatok száma"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Bejegyzés jelentése"
+
+#~ msgid "Toggle L10n"
+#~ msgstr "L10n váltása"
+
+#~ msgid "Search: "
+#~ msgstr "Keresés: "
+
+#~ msgid "Type here to filter the list of shown responses"
+#~ msgstr "A megjelenő válaszok listázásához kezdj el ide írni"
+
+#~ msgid "Active Support Forum Contributors"
+#~ msgstr "Aktív közreműködők a Támogatói fórumon"
+
+#~ msgid "Contributors"
+#~ msgstr "Közreműködők"
+
+#~ msgid "Report this Article"
+#~ msgstr "Leírás jelentése"
+
+#~ msgid "Article Link"
+#~ msgstr "Cikkhivatkozás"
+
+#~ msgid "External Link"
+#~ msgstr "Külső hivatkozás"
+
+#~ msgid "external link"
+#~ msgstr "külső hivatkozás"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Hibás videó. Válasszon egy érvényes videofájlt (%s)."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Feltöltés megszakítva. Válasszon agy videofájlt (%s)."
+
+#, fuzzy
+#~ msgid "Delete %s file"
+#~ msgstr "Kép törlése"
+
+#, fuzzy
+#~ msgid "There was an error :(."
+#~ msgstr "Hiba történt."

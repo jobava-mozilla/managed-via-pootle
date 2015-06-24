@@ -1,0 +1,825 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-12-05 17:18+0000\n"
+"Last-Translator: Sasa <sasa@tekovic.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1386263905.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr ""
+
+#: lib/email.js:49
+#, fuzzy
+msgid "%(site)s: Complete password reset"
+msgstr "Ponovno postavi lozinku za Personu"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Bolji način prijave"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Nepodržani preglednik"
+
+#: lib/static/views.js:241
+#, fuzzy
+msgid "Unsupported Browser without Watch"
+msgstr "Nepodržani preglednik"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Kolačići su onemogućeni"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Informacije"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Uvjeti pružanja usluge"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Pravila privatnosti"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Dovršite registraciju"
+
+#: resources/views/about.ejs:8
+#, fuzzy
+msgid "A simpler way to sign in."
+msgstr "Bolji način prijave"
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona zamjenjuje brojne lozinke"
+
+#: resources/views/about.ejs:12
+#, fuzzy
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Stranice kao <a %(timesLink)s>%(timesName)s</a>, <a %(openphotoLink)s>%"
+"(openphotoName)s</a> i <a %(voostLink)s>%(voostName)s</a> koriste Personu "
+"umjesto korisničkih imena za prijavu."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"To znači da Vam je potrebna samo jedna lozinka za prijavu na više stranica."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "Jedna lozinka da vlada nad svima."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Koristite više email adresa"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Persona je fleksibilna"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"Unutar Persone, Vaš identitet je Vaša e-mail adresa. Možete koristiti "
+"onoliko e-mail adresa koliko želite, ali će Vam i dalje biti potrebna samo "
+"jedna lozinka."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Stvarna privatnost."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Persona je ponosno neprofitna za Vas"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Persona je razvijena od strane Mozille, neprofitne kompanije pouzdane diljem "
+"cijele web zajednice. Naš cilj je stvaranje tehnologija koje otvorenu web "
+"platformu uravnotežuju s korisničkom privatnosti."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona štiti Vašu privatnost"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona ne prati vaše aktivnosti na internetu. Vaša prijava se odvaja od "
+"onoga što tamo radite. Povijest pregleda web stranica je pohranjena samo na "
+"Vašem računalu."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona za programere"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Primijenite Personu na Vašoj stranici"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Programerske upute i API dokumentacija"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Završi prijavu na:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Posljednji korak!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "Email adresa"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Vaš email"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Lozinka"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Vaša lozinka"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+#, fuzzy
+msgid "Password field required"
+msgstr "Lozinka je potrebna."
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+#, fuzzy
+msgid "Password incorrect"
+msgstr "Lozinka je potrebna."
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "kraj"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona zahtijeva uključene kolačiće da Vas zapamti."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Molimo zatvorite ovaj prozor, <a %s>omogućite kolačiće</a> i pokušajte "
+"ponovno"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "Prijavite se na %s sa &hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s više ne dopušta prijavu na Personu s Vašom %(idp)s lozinkom. Morate "
+"koristiti postojeću Persona lozinku za prijavu s ovom email adresom."
+
+#: resources/views/dialog.ejs:43
+#, fuzzy
+msgid "Persona password"
+msgstr "Ponovno postavi lozinku za Personu"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+#, fuzzy
+msgid "email address"
+msgstr "Email adresa"
+
+#: resources/views/dialog.ejs:53
+#, fuzzy
+msgid "Must be an email address"
+msgstr "Ovo polje mora biti email adresa."
+
+#: resources/views/dialog.ejs:57
+#, fuzzy
+msgid "Email field required"
+msgstr "Polje za email je obavezno."
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "Zaboravljena lozinka?"
+
+#: resources/views/dialog.ejs:72
+#, fuzzy
+msgid "Enter password"
+msgstr "Unesi lozinku"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "lozinka"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Nastavkom, slažete se s %(site)s's <a %(terms)s>Uvjetima</a> i <a %"
+"(privacy)s>Zaštitom privatnosti</a>."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "sljedeći"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr ""
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "otkaži"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "prijavite se"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr ""
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Spajanje na Personu..."
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+#, fuzzy, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Persona.</strong> Pojednostavljena prijava, načinjena "
+"naprofitabilno. <a %s>Saznajte više&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Povežite se s Mozilla Personom, najsigurniji &amp; najlakši način prijave."
+
+#: resources/views/index.ejs:12
+#, fuzzy
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr ""
+"<a %(aboutLink)s>Razgledavanje</a> ili <a %(signupButton)s>Registracija "
+"&rarr;</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "ukloni"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr ""
+"Niste još upoznati s Mozilla Personom? <a %(learnMoreLink)s>Saznajte "
+"više</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Upravitelj računa"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Vaše email adrese"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "uredi"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "gotovo"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Stara lozinka"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Nova lozinka"
+
+#: resources/views/index.ejs:72
+#, fuzzy
+msgid "Old password required"
+msgstr "Potrebna je stara lozinka."
+
+#: resources/views/index.ejs:75
+#, fuzzy
+msgid "Old password incorrect"
+msgstr "Potrebna je stara lozinka."
+
+#: resources/views/index.ejs:78
+#, fuzzy
+msgid "New password required"
+msgstr "Potrebna je nova lozinka."
+
+#: resources/views/index.ejs:81
+#, fuzzy
+msgid "Passwords must be different"
+msgstr "Lozinka je potrebna."
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+#, fuzzy
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Lozinka mora sadržavati najmanje 8, a najviše 80 znakova."
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr ""
+"Možete, u bilo kojem trenutku, <a %(cancelLink)s>otkazati svoj račun</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Persona početna stranica"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Kako radi"
+
+#: resources/views/layout.ejs:36
+#, fuzzy
+msgid "Account"
+msgstr "Upravitelj računa"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Prijavite se"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Odjavi se"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "Od strane <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Privatnost &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "TOS &rarr;"
+
+#: resources/views/layout.ejs:60
+#, fuzzy
+msgid "Developers &rarr;"
+msgstr "Programeri"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Trebate pomoć? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "Žao nam je, no Persona zahtijeva omogućen Javascript."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Resetirajte lozinku"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Stvorite novu lozinku za korištenje s %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Potvrdi lozinku"
+
+#: resources/views/reset_password.ejs:41
+#, fuzzy
+msgid "Verification password required"
+msgstr "Potrebna je potvrda lozinke."
+
+#: resources/views/reset_password.ejs:45
+#, fuzzy
+msgid "Passwords don&rsquo;t match!"
+msgstr "Unesene lozinke se ne podudaraju!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">Vaša adresa</strong> je potvrđena!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"Vaša nova adresa je postavljena i spremna za korištenje. Bit ćete "
+"preusmjereni na %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Preusmjeravanje u %s sekundi"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Žao nam je, ali trenutno preglednik koji koristite nije podržan."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Firefox logo"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona radi s <a %(getFirefoxLink)s>Firefoxom</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "o ostalim <a %(otherBrowserLink)s>modernim preglednicima.</a>"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr ""
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+#, fuzzy, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<strong>Persona.</strong> Pojednostavljena prijava, načinjena "
+"naprofitabilno. <a %s>Saznajte više&rarr;</a>"
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+#, fuzzy
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Kliknite kako biste potvrdili email adresu i prijavili se na %s"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+#, fuzzy
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr ""
+"Napomena: Ako se NE pokušavate prijaviti na ovu stranicu, molimo zanemarite "
+"ovaj email."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+#, fuzzy
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr ""
+"<strong>Persona.</strong> Pojednostavljena prijava, načinjena "
+"naprofitabilno. <a %s>Saznajte više&rarr;</a>"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr ""
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+#, fuzzy
+msgid "Confirm your address now"
+msgstr "Potvrdi email adresu za Personu"
+
+#: resources/email_templates/new.html.ejs:18
+#, fuzzy
+msgid "Confirm your account now"
+msgstr "Potvrdi email adresu za Personu"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "Zaboravili ste lozinku za Personu? Dešava se i najboljima."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Kliknite kako biste resetirali lozinku:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+#, fuzzy
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr ""
+"Napomena: Ako NISTE zatražiti ponovno postavljanje lozinke, molimo Vas da "
+"zanemarite ovaj email."
+
+#: resources/email_templates/reset.html.ejs:17
+#, fuzzy
+msgid "Reset your password now"
+msgstr "Resetirajte lozinku"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr "Izgleda da Vaš email dobavljač ima problema sa svojom Persona podrškom."
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "Napomena: Ako NISTE zatražiti ponovno postavljanje lozinke, molimo Vas da "
+#~ "zanemarite ovaj email."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Pojednostavljena prijava."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s koristi Personu umjesto korisničkog imena za prijavu."
+
+#, fuzzy
+#~ msgid "Enter your email address"
+#~ msgstr "Potvrdite email adresu"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Unesite lozinku za Personu."
+
+#~ msgid "enter email address"
+#~ msgstr "potvrdi email adresu"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Hvala Vam što koristite Personu."
+
+#~ msgid "Thank you,"
+#~ msgstr "Hvala Vam,"
+
+#~ msgid "The Persona team"
+#~ msgstr "Persona tim"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Kliknite kako biste resetirali lozinku."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "Za nastavak, morate ponovno potvrditi ovu email adresu i postaviti novu, "
+#~ "Persona-specifičnu lozinku."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "Kliknite kako biste postavili novu lozinku:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Persona tim"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "Kliknite ovdje kako biste postavili novu lozinku."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr "Račun ne može biti potvrđen s ovim korisničkim imenom i lozinkom."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Upravo smo poslali email na tu adresu! Ako stvarno želite poslati još "
+#~ "jedan, pričekajte minutu ili dvije i pokušajte ponovno."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Unesena email adresa i lozinka se ne podudaraju."
+
+#~ msgid "The password field is required."
+#~ msgstr "Polje za lozinku je obavezno."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "Neispravna stara lozinka, lozinka nije ažurirana."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "Stara i nova lozinka su identične."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Za prijavu s Personom, molimo unesite Vašu email adresu."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "Provjera s Vašim email dobavljačem."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "Prijava je dovršena"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Zaboravljena lozinka"
+
+#~ msgid "Email Verification"
+#~ msgstr "Email potvrda"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "Provjerite svoju poštu na <strong %(checkId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr ""
+#~ "Kliknite na link u emailu potvrde. Tada će Vaša lozinka biti resetirana."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Nepostojeći korisnik!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "Nije moguće resetirati lozinku te adrese."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Znate lozinku? Prijavite se."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr "Ovaj prozor će se sada zatvoriti i nastavit će se stvaranje računa."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "Provjerite svoj email na <strong %(emailId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Kliknite na link u emailu potvrde. Potom ćete odmah biti prijavljeni u "
+#~ "Personu."
+
+#~ msgid "forgot your password?"
+#~ msgstr "zaboravljena lozinka?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr ""
+#~ "Vaša email adresa je nova. Molimo izradite lozinku za korištenje s "
+#~ "Personom."
+
+#~ msgid "verify password"
+#~ msgstr "potvrdite lozinku"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Nastavkom, slažete se s %(persona)s's <a %(termsLink)s>Uvjetima</a> i <a "
+#~ "%(privacyLink)s>Zaštitom privatnosti</a>."
+
+#~ msgid "Next"
+#~ msgstr "Sljedeći"
+
+#~ msgid "Verify Email"
+#~ msgstr "Potvrdite email"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "Da biste potvrdili da ste vlasnik <strong %(emailId)s>ove adrese</"
+#~ "strong>, morate se prijaviti putem svog dobavljača. Otvorit će se novi "
+#~ "prozor."
+
+#~ msgid "Verify"
+#~ msgstr "Potvrdite"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Hvala Vam na registriraciji na <strong>Personu</strong>. Sada možete "
+#~ "koristiti svoj Persona korisnički račun za <em>prijavu</em> ili "
+#~ "<em>registraciju</em> na web stranice širom svijeta!"
+
+#, fuzzy
+#~ msgid "Sign Up"
+#~ msgstr "Prijavi se"
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Cijela prijava za %s korištenje Persone"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Komunikacija s poslužiteljem"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Samo trenutak dok se ne obavi razgovor s poslužiteljem."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "Mozilla Persona je brz i siguran način za prijavu.  <a %s>Saznajte više "
+#~ "&rarr;</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Hvala što ste potvrdili Vašu email adresu. Ova poruka bit će Vam poslana "
+#~ "da završite s prijavom na %s."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Završite registraciju klikom na ovaj link:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "Pri potvrdi Vaše adrese došlo je do pogreške. Jeste li već potvrdili ovu "
+#~ "adresu?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "Pri dovršenju registracije došlo je do pogreške."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "Vaša nova adresa je postavljena i trebali biste biti prijavljeni. Sada "
+#~ "možete zatvoriti ovaj prozor i vratiti se na"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "Došlo je do problema s Vašim linkom za prijavu. Je li ova adresa već "
+#~ "registrirana?"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "BrowserID Početna strana"
+
+#~ msgid "TOS"
+#~ msgstr "Uvjeti korištenja"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "Pogreška pri komunikaciji s poslužiteljem."

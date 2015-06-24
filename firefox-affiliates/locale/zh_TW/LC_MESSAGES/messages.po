@@ -1,0 +1,2535 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 18:40+0000\n"
+"PO-Revision-Date: 2014-09-06 09:26:31\n"
+"Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 0.9.5\n"
+"X-Generator: Pontoon\n"
+
+#. This acts as a placeholder/label for a form selection
+#: affiliates/banners/forms.py:21
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:36
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:45
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:54
+#: affiliates/base/forms.py:22
+msgid "-- select --"
+msgstr "-- 選擇 --"
+
+#: affiliates/banners/templates/banners/generator/banners.html:12
+#: affiliates/banners/templates/banners/generator/banners.html:20
+msgid "Choose a Banner"
+msgstr "挑選橫幅"
+
+#: affiliates/banners/templates/banners/generator/categories.html:12
+#: affiliates/banners/templates/banners/generator/categories.html:20
+msgid "Choose a Category"
+msgstr "選擇分類"
+
+#. The "Category" step is when you pick a category to see a list of banners
+#. within it.
+#: affiliates/banners/templates/banners/generator/macros.html:8
+#: affiliates/banners/templates/banners/generator/macros.html:10
+msgid "Category"
+msgstr "分類"
+
+#. The "Choose" step is when you choose a banner to use.
+#: affiliates/banners/templates/banners/generator/macros.html:17
+#: affiliates/banners/templates/banners/generator/macros.html:19
+#: affiliates/banners/templates/banners/generator/macros.html:21
+msgid "Choose"
+msgstr "選擇"
+
+#. The "Configure" step is when you select a specific variation of a banner.
+#: affiliates/banners/templates/banners/generator/macros.html:28
+#: affiliates/banners/templates/banners/generator/macros.html:30
+#: affiliates/banners/templates/banners/generator/macros.html:32
+msgid "Configure"
+msgstr "調整"
+
+#. The "Embed" step is when you copy HTML code to put in your webpage to embed
+#. the banner.
+#: affiliates/banners/templates/banners/generator/macros.html:39
+#: affiliates/banners/templates/banners/generator/macros.html:41
+msgid "Embed"
+msgstr "嵌入"
+
+#: affiliates/banners/templates/banners/generator/macros.html:50
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+#: affiliates/base/templates/base/about.html:119
+#: affiliates/base/templates/base/dashboard.html:100
+msgid "What are smart banners?"
+msgstr "智慧橫幅是什麼？"
+
+#: affiliates/banners/templates/banners/generator/macros.html:52
+#: affiliates/base/templates/base/about.html:122
+#: affiliates/base/templates/base/dashboard.html:102
+msgid ""
+"Smart Banners show visitors slightly different messages depending on their "
+"browser. For example, visitors on an older version of Firefox would be "
+"encouraged to upgrade, while visitors on Internet Explorer would be "
+"encouraged to switch."
+msgstr ""
+"智慧橫幅將會依使用者使用不同的瀏覽器顯示不同訊息。舉例來說，使用舊版 Firefox 的使用者將會被鼓勵升級至新版，而使用 Internet "
+"Explorer 的使用者將會被鼓勵使用其他瀏覽器。"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:12
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:25
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:14
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:22
+msgid "Configure Your Banner"
+msgstr "調整您的橫幅"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:33
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:29
+msgid "Language"
+msgstr "語言"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:42
+msgid "Size"
+msgstr "尺寸"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:51
+msgid "Color"
+msgstr "顏色"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:68
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:38
+#: affiliates/facebook/templates/facebook/banner_create.html:68
+#: affiliates/users/templates/users/profile.html:39
+msgid "Save"
+msgstr "儲存"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:7
+msgid "Up to date Firefox and other browsers"
+msgstr "升級 Firefox 與其他瀏覽器"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:12
+msgid "Out of date Firefox"
+msgstr "過時的 Firefox"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:6
+msgid "No preview available."
+msgstr "沒有可以使用的預覽。"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:10
+msgid "Text banner"
+msgstr "文字橫幅"
+
+#. Smart refers to a type of banner that changes the image depending on the
+#. user's Firefox version.
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+msgid "Smart"
+msgstr "智慧"
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: affiliates/base/forms.py:18 affiliates/base/templates/base/base.html:126
+#: affiliates/facebook/forms.py:200
+msgid "Text"
+msgstr "文字"
+
+#: affiliates/base/milestones.py:21
+msgid "Almost {0} clicks!"
+msgstr "快要有 {0} 次點擊了！"
+
+#: affiliates/base/milestones.py:22
+msgid "Drove {0} clicks!"
+msgstr "已帶來 {0} 次點擊！"
+
+#: affiliates/base/milestones.py:23
+msgid "Drove {0} clicks. That's {1} clicks away from the next milestone!"
+msgstr "已帶來 {0} 次點擊，還差 {1} 次就可以抵達下個里程碑！"
+
+#: affiliates/base/milestones.py:25
+msgid "Driven {0} clicks in total!"
+msgstr "共帶來 {0} 次點擊！"
+
+#: affiliates/base/milestones.py:26
+msgid "Drive {0} clicks!"
+msgstr "已帶來 {0} 次點擊！"
+
+#: affiliates/base/milestones.py:29
+msgid "Almost {0} downloads!"
+msgstr "快要有 {0} 次下載了！"
+
+#: affiliates/base/milestones.py:30
+msgid "Drove {0} downloads!"
+msgstr "已帶來 {0} 次下載！"
+
+#: affiliates/base/milestones.py:31
+msgid ""
+"Drove {0} downloads. That's {1} downloads away from the next milestone!"
+msgstr "已帶來 {0} 次下載，還差 {1} 次就可以抵達下個里程碑！"
+
+#: affiliates/base/milestones.py:33
+msgid "Driven {0} downloads in total!"
+msgstr "共帶來 {0} 次下載！"
+
+#: affiliates/base/milestones.py:34
+msgid "Drive {0} downloads!"
+msgstr "已帶來 {0} 次下載！"
+
+#: affiliates/base/milestones.py:37
+msgid "Create a banner!"
+msgstr "建立橫幅！"
+
+#: affiliates/base/milestones.py:38
+msgid "Almost {0} banners created!"
+msgstr "快要建立 {0} 張橫幅了！"
+
+#: affiliates/base/milestones.py:39
+msgid "Created {0} banners!"
+msgstr "已建立 {0} 張橫幅！"
+
+#: affiliates/base/milestones.py:40
+msgid "Created a banner."
+msgstr "已建立新橫幅。"
+
+#: affiliates/base/milestones.py:43
+msgid "Create a text link!"
+msgstr "建立文字鏈結！"
+
+#: affiliates/base/milestones.py:44
+msgid "Almost {0} text links created!"
+msgstr "快要建立 {0} 個文字鏈結了！"
+
+#: affiliates/base/milestones.py:45
+msgid "Created {0} text links!"
+msgstr "已建立 {0} 個文字鏈結！"
+
+#: affiliates/base/milestones.py:46
+msgid "Created a text link."
+msgstr "已建立新文字鏈結。"
+
+#: affiliates/base/templates/404.html:5 affiliates/base/templates/404.html:11
+msgid "Page not found"
+msgstr "找不到頁面"
+
+#: affiliates/base/templates/404.html:13
+msgid "Sorry, but we couldn’t find the page you’re looking for."
+msgstr "很抱歉，我們找不到您想看的頁面。"
+
+#: affiliates/base/templates/500.html:5
+msgid "Server error"
+msgstr "伺服器錯誤"
+
+#: affiliates/base/templates/500.html:11
+msgid "D’oh! Something went wrong!"
+msgstr "有些事情不對勁！"
+
+#: affiliates/base/templates/500.html:13
+msgid ""
+"Sorry, but something went wrong on our end and we couldn’t process your "
+"request. Please try again in a few minutes."
+msgstr "很抱歉，我們這邊發生了一些問題，無法處理您的請求。請稍候幾分鐘再試一次。"
+
+#: affiliates/base/templates/base/about.html:6
+#: affiliates/base/templates/base/base.html:73
+msgid "About"
+msgstr "關於"
+
+#: affiliates/base/templates/base/about.html:13
+msgid "About Firefox Affiliates"
+msgstr "關於 Firefox 夥伴計畫"
+
+#: affiliates/base/templates/base/about.html:16
+#: affiliates/base/templates/base/about.html:46
+msgid ""
+"Firefox Affiliate buttons are bits of HTML code that you put on your website"
+" or blog to encourage visitors to download Firefox. When someone clicks a "
+"button on your site and visits the Firefox download page, you get credit for"
+" that click."
+msgstr ""
+"Firefox 夥伴按鈕是一些可以讓您貼到網頁或部落格上的 HTML 碼以鼓勵您網站的使用者下載 Firefox。當使用者到了您的網站透過該按鈕下載 "
+"Firefox 後，您就會拿到該點積分。"
+
+#: affiliates/base/templates/base/about.html:25
+#: affiliates/base/templates/base/about.html:55
+msgid ""
+"Affiliates who get a lot of clicks will be featured on our leaderboard and "
+"be eligible for rewards, like Firefox T-shirts. While we do send out prizes "
+"and gifts to our affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox buttons."
+msgstr ""
+"透過夥伴們的網站下載最多次 Firefox 的前幾名將會被列在我們的領先者名單當中，將有機會得到一些像是 Firefox T "
+"恤之類的小贈品。雖然我們會一直送出獎品與禮物給我們的夥伴，但不會提供金錢回饋。"
+
+#: affiliates/base/templates/base/about.html:39
+msgid "Frequently Asked Questions"
+msgstr "常見問題"
+
+#: affiliates/base/templates/base/about.html:41
+msgid "Using Affiliate buttons"
+msgstr "使用夥伴按鈕"
+
+#: affiliates/base/templates/base/about.html:43
+msgid "How do affiliate buttons work?"
+msgstr "夥伴按鈕如何運作？"
+
+#: affiliates/base/templates/base/about.html:65
+msgid "How do I add an affiliate button to my website?"
+msgstr "我要如何把夥伴按鈕新增至我的網站？"
+
+#: affiliates/base/templates/base/about.html:68
+msgid ""
+"It’s super easy! To start, choose a button and select the Firefox product or"
+" campaign you’d like to support. From there, simply pick your button’s "
+"style, shape and color, and then copy and paste the code into the HTML of "
+"your site. Done! Your unique affiliate ID will be in the code to make sure "
+"you get credit for every click you send our way."
+msgstr ""
+"很簡單！只要先挑選按鈕，選擇您想要支持的 Firefox 產品或是行銷活動，然後挑選您喜愛的按鈕樣式、形狀、顏色，然後將代碼複製並貼到您網站的 HTML"
+" 當中。您專有的夥伴 ID 會被包含在貼上的代碼當中，這樣您就可以在每次的下載當中得到對應的記錄。"
+
+#: affiliates/base/templates/base/about.html:79
+msgid "How do I remove an affiliate button from my website?"
+msgstr "我要如何自我的網站移除夥伴按鈕？"
+
+#: affiliates/base/templates/base/about.html:82
+msgid ""
+"This is also easy. Simply delete the code. If you want to put it back in "
+"again, just copy and paste it from the button picker."
+msgstr "這也很簡單，只要把加進去的那一段代碼拿掉就好了。若您想要再把它放回去，請重新自按鈕挑選器複製過來貼上即可。"
+
+#: affiliates/base/templates/base/about.html:89
+msgid "How do text links work?"
+msgstr "文字鏈結如何運作？"
+
+#: affiliates/base/templates/base/about.html:92
+msgid ""
+"Text links work very much like banners. You start by choosing the Firefox "
+"product or campaign you’d like to support, then select the text link you’d "
+"like to use. Copy and paste the link code into the HTML of your site, onto "
+"your email signature, or anywhere else you’d like to have it appear. Your "
+"unique affiliate ID will be in the code to make sure you get credit for "
+"every click you send our way."
+msgstr ""
+"文字鏈結與橫幅很像，只要先挑選您想要支持的 Firefox 產品或是行銷活動，然後選擇您想要使用的文字鏈結，再將鏈結代碼貼到您網站的 "
+"HTML、電子信箱簽名檔，或任何您想要讓鏈結出現的地方。您專有的夥伴 ID 會被包含在貼上的代碼當中，這樣您就可以從每次的點擊得到對應的記錄。"
+
+#: affiliates/base/templates/base/about.html:104
+msgid "What happens when an affiliate button for a campaign is deactivated?"
+msgstr "若某個行銷活動的夥伴按鈕失效了會發生什麼事？"
+
+#: affiliates/base/templates/base/about.html:107
+msgid ""
+"Sometimes we run special time-limited campaigns to encourage people to "
+"download Firefox. If you’re using an affiliate button for one of these "
+"campaigns, try to update your button as soon as you can. People who click on"
+" that button will be directed to a general Firefox download page. You’ll get"
+" credit for the click as an Affiliate, but you may not get credit for clicks"
+" for that specific campaign."
+msgstr ""
+"有時我們會舉行一些限時的特殊行銷活動以鼓勵使用者下載 "
+"Firefox。若您使用這些行銷活動的夥伴按鈕，請記得及早更新您的按鈕。點下該按鈕的使用者將會被導引到普通的 Firefox "
+"下載頁面。您將會得到該下載的積分，但您可能無法取得該行銷活動的下載積分。"
+
+#: affiliates/base/templates/base/about.html:132
+msgid "Leaderboard and user statistics"
+msgstr "領先者名單與使用者統計"
+
+#: affiliates/base/templates/base/about.html:134
+msgid "How often do leaderboard statistics update?"
+msgstr "領先者名單多久會更新一次？"
+
+#: affiliates/base/templates/base/about.html:137
+msgid ""
+"Leaderboard stats update every night at midnight Pacific Time. No need to "
+"keep hitting refresh over and over again to see how you’re doing. Just check"
+" in the next day to see your progress."
+msgstr ""
+"領先者名單將於美西太平洋時間每天午夜（台灣時間每日下午三點或四點，依當地是否實行夏令時間而定）更新。您無須一直重新整理網頁看看現在做得如何。只需要明天再來看就能確認您的進度。"
+
+#: affiliates/base/templates/base/about.html:145
+#: affiliates/facebook/templates/facebook/faq.html:177
+msgid "Is there a prize for getting the most Firefox clicks?"
+msgstr "有最多次 Firefox 點擊次數的人有什麼獎品嗎？"
+
+#: affiliates/base/templates/base/about.html:147
+msgid ""
+"From time to time we will be sending out T-shirts and other prizes. In "
+"future versions of Firefox Affiliates we will have a rewards program and "
+"more opportunities to participate in affiliate challenges."
+msgstr "我們會一直送出 T 恤或其他獎品。在未來版本的夥伴計畫，我們將會有獎勵計畫並有更多機會能參與挑戰。"
+
+#: affiliates/base/templates/base/about.html:156
+#: affiliates/facebook/templates/facebook/faq.html:194
+msgid "I think my click statistics are wrong. Is there any way to fix them?"
+msgstr "我覺得我的統計次數錯了，有什麼辦法可以修正嗎？"
+
+#: affiliates/base/templates/base/about.html:159
+msgid ""
+"If you think there is an error with your click statistics, drop us a note at"
+" <a href=\"%(email)s\">affiliates@mozilla.org</a> and we’ll do our best to "
+"help you out."
+msgstr ""
+"若您覺得您的點擊次數統計有誤，歡迎寫信到 <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>，我們將會盡力幫助您。"
+
+#: affiliates/base/templates/base/about.html:169
+msgid "My profile"
+msgstr "我的個人資料"
+
+#: affiliates/base/templates/base/about.html:171
+msgid "How do I update my personal profile information?"
+msgstr "我要如何才能更新個人資料？"
+
+#: affiliates/base/templates/base/about.html:174
+msgid ""
+"Moved? Changed your name? Grew a moustache? Just visit your profile page and"
+" click on the edit profile link at the top."
+msgstr "改了名字？搬家了？您只要到個人資料頁面點一下網頁上方的編輯個人資料按鈕就可以修改。"
+
+#: affiliates/base/templates/base/about.html:178
+#: affiliates/users/templates/users/profile.html:44
+msgid ""
+"You can update your avatar picture at <a "
+"href=\"%(gravatar)s\">gravatar.com</a>."
+msgstr "您可以到 <a href=\"%(gravatar)s\">gravatar.com</a> 修改您的頭像。"
+
+#: affiliates/base/templates/base/about.html:184
+msgid "How will you contact me if I win a prize?"
+msgstr "當我得到獎品時你們會怎麼聯絡我？"
+
+#: affiliates/base/templates/base/about.html:187
+msgid ""
+"If you qualify for an affiliates prize you will be notified that you have "
+"won via the email account in your affiliates profile."
+msgstr "若您得到夥伴計畫的獎品，我們將會透過您在夥伴計畫所登記資料當中的電子郵件地址來寄信給您。"
+
+#: affiliates/base/templates/base/about.html:196
+msgid "Getting involved With Firefox Affiliates"
+msgstr "參與 Firefox 夥伴計畫"
+
+#: affiliates/base/templates/base/about.html:198
+msgid "I have an idea of a button. How can I share it?"
+msgstr "我有關於某個按鈕的點子。要怎麼分享給大家？"
+
+#: affiliates/base/templates/base/about.html:201
+msgid ""
+"Mozilla and Firefox are all about community. If you have an idea, we want to"
+" hear it. Send us a note at <a href=\"%(email)s\">affiliates@mozilla.org</a>"
+" and tell us your amazing idea for the program."
+msgstr ""
+"Mozilla 和 Firefox 都是由社群集合起來的。若您有什麼好點子，我們洗耳恭聽。請寫信到 <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a> 告訴我們您對計畫有什麼想法。"
+
+#: affiliates/base/templates/base/about.html:210
+msgid "Can I build my own button?"
+msgstr "我可以自己打造出我喜歡的按鈕嗎？"
+
+#: affiliates/base/templates/base/about.html:213
+msgid ""
+"Not yet… but soon. We're working on a way to make it easy for people to "
+"create their own Firefox buttons in their language. Look for this in future "
+"versions of Firefox Affiliates."
+msgstr "還不行，但快了。我們正在努力讓使用者可以簡單地以自己的語言建立按鈕。請在未來的 Firefox 夥伴計畫當中注意此功能。"
+
+#: affiliates/base/templates/base/about.html:221
+msgid "I want to help make Firefox Affiliates better. How can I get involved?"
+msgstr "我想要幫助讓 Firefox 夥伴計畫變得更好。我要如何參與？"
+
+#: affiliates/base/templates/base/about.html:224
+msgid ""
+"If you’d like to help out with the affiliates program, contact us at <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>. We’d love your help with "
+"everything from coding to marketing."
+msgstr ""
+"若您想幫忙夥伴計畫寫程式或進行行銷，請寫信到 <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>。我們感謝您的幫忙！"
+
+#: affiliates/base/templates/base/base.html:12
+#: affiliates/base/templates/base/base.html:15
+#: affiliates/base/templates/base/base.html:21
+#: affiliates/base/templates/base/base.html:65
+#: affiliates/base/templates/base/home.html:15
+#: affiliates/facebook/templates/facebook/base.html:15
+#: affiliates/settings/base.py:152
+msgid "Firefox Affiliates"
+msgstr "Firefox 夥伴計畫"
+
+#: affiliates/base/templates/base/base.html:49
+msgid "Close"
+msgstr "關閉"
+
+#: affiliates/base/templates/base/base.html:50
+msgid "This field is required."
+msgstr "必須輸入此欄位。"
+
+#: affiliates/base/templates/base/base.html:51
+msgid "Thanks for subscribing!"
+msgstr "感謝您的訂閱！"
+
+#: affiliates/base/templates/base/base.html:52
+msgid "Sorry, there was an error. Please refresh and try again."
+msgstr "抱歉，發生錯誤，請重新整理頁面後再試一次。"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/base.html:60
+#: affiliates/base/templates/base/base.html:170
+#: affiliates/base/templates/base/strings.html:32
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: affiliates/base/templates/base/base.html:71
+msgid "Menu"
+msgstr "選單"
+
+#. clicks on their banners.
+#: affiliates/base/templates/base/base.html:74
+#: affiliates/facebook/templates/facebook/base.html:45
+msgid "Leaderboard"
+msgstr "領先者名單"
+
+#: affiliates/base/templates/base/base.html:75
+#: affiliates/statistics/templates/statistics/index.html:3
+#: affiliates/statistics/templates/statistics/index.html:17
+msgid "Performance"
+msgstr "效能"
+
+#: affiliates/base/templates/base/base.html:84
+#: affiliates/base/templates/base/dashboard.html:14
+#: affiliates/base/templates/base/dashboard.html:22
+#: affiliates/links/templates/links/detail.html:52
+msgid "Dashboard"
+msgstr "儀錶板"
+
+#: affiliates/base/templates/base/base.html:85
+msgid "Profile"
+msgstr "個人資料"
+
+#: affiliates/base/templates/base/base.html:86
+msgid "Sign out"
+msgstr "登出"
+
+#: affiliates/base/templates/base/base.html:90
+msgid "Sign in"
+msgstr "登入"
+
+#: affiliates/base/templates/base/base.html:108
+msgid "Get Firefox Affiliates News"
+msgstr "訂閱 Firefox 夥伴計畫電子報"
+
+#: affiliates/base/templates/base/base.html:111
+#: affiliates/facebook/forms.py:203
+#: affiliates/facebook/templates/facebook/base.html:159
+msgid "Your email address"
+msgstr "您的電子郵件地址"
+
+#: affiliates/base/templates/base/base.html:116
+msgid "Country"
+msgstr "國家"
+
+#: affiliates/base/templates/base/base.html:121
+msgid "Format"
+msgstr "格式"
+
+#: affiliates/base/templates/base/base.html:132
+msgid "HTML"
+msgstr "HTML"
+
+#: affiliates/base/templates/base/base.html:142
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr "我同意 Mozilla 依照 <a href=\"%s\">這份隱私權保護政策</a> 當中描述的方式處理我的資訊"
+
+#. Label used for the newsletter signup button.
+#: affiliates/base/templates/base/base.html:150
+#: affiliates/facebook/templates/facebook/base.html:180
+msgid "Sign me up!"
+msgstr "我要註冊！"
+
+#: affiliates/base/templates/base/base.html:175
+msgid ""
+"Portions of this content are ©1998–%(thisyear)s by individual mozilla.org "
+"contributors. Content available under a <a href=\"%(license)s\">Creative "
+"Commons license</a>."
+msgstr ""
+"本頁的部分內容著作權為 ©1998–%(thisyear)s 由個別 mozilla.org 貢獻者所有，使用 <a "
+"href=\"%(license)s\">創用 CC 授權條款</a> 進行授權。"
+
+#: affiliates/base/templates/base/base.html:182
+msgid "Source code"
+msgstr "原始碼"
+
+#: affiliates/base/templates/base/base.html:187
+msgid "Contact Us"
+msgstr "聯絡我們"
+
+#: affiliates/base/templates/base/base.html:188
+msgid "Partner with Us"
+msgstr "成為我們的夥伴"
+
+#: affiliates/base/templates/base/base.html:189
+msgid "Donate"
+msgstr "捐款"
+
+#: affiliates/base/templates/base/base.html:190
+msgid "Privacy Policy"
+msgstr "隱私權保護政策"
+
+#: affiliates/base/templates/base/base.html:191
+msgid "Legal Notices"
+msgstr "法律聲明"
+
+#: affiliates/base/templates/base/base.html:192
+msgid "Report Trademark Abuse"
+msgstr "回報商標濫用"
+
+#: affiliates/base/templates/base/base.html:196
+msgid "Mozilla on Twitter"
+msgstr "Twitter 上的 Mozilla"
+
+#: affiliates/base/templates/base/base.html:197
+msgid "Firefox on Twitter"
+msgstr "Twitter 上的 Firefox"
+
+#: affiliates/base/templates/base/base.html:198
+msgid "Mozilla on Facebook"
+msgstr "Facebook 上的 Mozilla"
+
+#: affiliates/base/templates/base/base.html:199
+msgid "Firefox on Facebook"
+msgstr "Facebook 上的 Firefox"
+
+#: affiliates/base/templates/base/dashboard.html:23
+msgid ""
+"See how your banners are performing and where you rank among other Firefox "
+"Affiliates. Thanks for supporting Firefox and the Mozilla mission to build a"
+" better Web for all!"
+msgstr "看看您的橫幅表現如何，以及您在排行榜中的位置。感謝您支持 Firefox 與 Mozilla 的使命，為所有人打造更好的 Web 環境！"
+
+#: affiliates/base/templates/base/dashboard.html:26
+msgid "My stats"
+msgstr "我的統計資料"
+
+#: affiliates/base/templates/base/dashboard.html:35
+msgid "My Banners"
+msgstr "我的橫幅"
+
+#: affiliates/base/templates/base/dashboard.html:36
+#: affiliates/facebook/templates/facebook/banner_list.html:76
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:7
+msgid "Create a new banner"
+msgstr "建立新橫幅"
+
+#: affiliates/base/templates/base/dashboard.html:47
+msgid "You don’t have any banners yet. Why not create one now?"
+msgstr "您還沒有任何橫幅。不來做一張嗎？"
+
+#: affiliates/base/templates/base/dashboard.html:52
+#: affiliates/base/templates/base/home.html:66
+msgid "1. Pick a banner"
+msgstr "1. 挑選一張橫幅圖"
+
+#: affiliates/base/templates/base/dashboard.html:53
+#: affiliates/base/templates/base/home.html:67
+msgid ""
+"Choose from a number of designs that support Firefox and other Mozilla "
+"products."
+msgstr "從不同的設計中挑選一組設計，來展現您對 Firefox 及其他 Mozilla 產品的支持。"
+
+#: affiliates/base/templates/base/dashboard.html:56
+#: affiliates/base/templates/base/home.html:70
+msgid "2. Customize"
+msgstr "2. 自訂"
+
+#: affiliates/base/templates/base/dashboard.html:57
+#: affiliates/base/templates/base/home.html:71
+msgid ""
+"Select the size and color that suits your site. Banners and links are also "
+"available in over 30 languages."
+msgstr "選擇符合您的網站的尺寸及色彩。橫幅與鏈結已經翻譯成超過 30 種語言版本。"
+
+#: affiliates/base/templates/base/dashboard.html:60
+#: affiliates/base/templates/base/home.html:74
+msgid "3. Post to your site"
+msgstr "3. 貼到您的網站"
+
+#: affiliates/base/templates/base/dashboard.html:61
+#: affiliates/base/templates/base/home.html:75
+msgid ""
+"Copy and paste the HTML or text link into your site, email or wherever you’d"
+" like to share it."
+msgstr "將 HTML 或文字鏈結貼到您的網站、郵件或任何您想要分享的地方。"
+
+#: affiliates/base/templates/base/dashboard.html:71
+msgid "My Milestones"
+msgstr "我的里程碑"
+
+#: affiliates/base/templates/base/dashboard.html:79
+msgid "Affiliates News"
+msgstr "夥伴計畫新聞"
+
+#: affiliates/base/templates/base/dashboard.html:84
+msgid "Become a Mozillian"
+msgstr "成為摩茲人"
+
+#: affiliates/base/templates/base/dashboard.html:86
+msgid ""
+"At Mozilla, doing good is part of our code. Our mission is to promote "
+"openness, innovation and opportunity on the Web, and we can only do it with "
+"awesome people like you. If you’d like to do even more to help our mission, "
+"we have volunteer opportunities available in a number of areas."
+msgstr ""
+"在 Mozilla，做好事是我們的程式碼中的一部分。我們的使命是要推廣 Web "
+"上的開放、創新與機會。我們也只能和像您這樣的夥伴一起達成這個使命。若您想要做更多事情幫助達成我們的使命，我們還有其他不同領域的志工機會歡迎您來幫忙。"
+
+#: affiliates/base/templates/base/dashboard.html:93
+msgid "Learn more"
+msgstr "了解更多"
+
+#: affiliates/base/templates/base/home.html:24
+#, fuzzy
+msgid "So long, <strong>Firefox Affiliates</strong>."
+msgstr "感謝您加入 <span>Firefox 夥伴計畫！</span>"
+
+#: affiliates/base/templates/base/home.html:25
+msgid "Hello, <strong>Firefox Friends</strong>."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:27
+msgid ""
+"We’re moving our Affiliates program to Firefox Friends, an exciting new way "
+"to share what we do with the world. At Firefox Friends you’ll have "
+"opportunities to get recognized for making an impact — plus, you’ll be in "
+"the know for all the latest Mozilla news and announcements."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:33
+msgid ""
+"At the beginning of August, new banner creation for Affiliates will be "
+"disabled, so please join us at Firefox Friends to continue sharing Mozilla "
+"with world."
+msgstr ""
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/home.html:36
+#, fuzzy
+msgid "Join Firefox Friends"
+msgstr "Firefox 外掛程式"
+
+#: affiliates/base/templates/base/home.html:38
+msgid "Click here for more information"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:49
+msgid "This site requires JavaScript."
+msgstr "此網站需要 JavaScript 才能使用。"
+
+#: affiliates/base/templates/base/home.html:55
+msgid "Become a Firefox Affiliate today!"
+msgstr "快來成為 Firefox 的好夥伴！"
+
+#: affiliates/base/templates/base/home.html:56
+msgid ""
+"Get everything you need to share Firefox – and the other Mozilla products "
+"you love – with the world. Climb the leaderboard to help us build a better "
+"Web."
+msgstr "在此取得 Firefox 及其他您所喜愛的 Mozilla 產品的所有素材向世界宣傳。讓排名向前以幫助我們打造更好的 Web。"
+
+#: affiliates/base/templates/base/home.html:57
+msgid "Get started"
+msgstr "開始使用"
+
+#: affiliates/base/templates/base/home.html:63
+msgid "How it works"
+msgstr "該怎麼做？"
+
+#: affiliates/base/templates/base/home.html:83
+msgid "Earn rewards!"
+msgstr "取得獎賞！"
+
+#: affiliates/base/templates/base/home.html:84
+msgid ""
+"Climb the affiliates leaderboard for your chance to win awesome Firefox "
+"gear, and to get even more involved with Mozilla. The more you share, the "
+"higher you can climb."
+msgstr ""
+"進入夥伴計畫的排行榜後代表您與 Mozilla 的關係變得更緊密，也有機會贏得超棒的 Firefox 澎湃大禮包。您分享得越多，就能在排行榜中爬得越高。"
+
+#: affiliates/base/templates/base/home.html:97
+msgid "Top affiliates"
+msgstr "頂尖夥伴"
+
+#: affiliates/base/templates/base/macros.html:49
+msgid "Someday soon!"
+msgstr "很快就會！"
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:64
+msgid "<strong>%(rank)s</strong> ranking"
+msgstr "排名第 <strong>%(rank)s</strong> 名"
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:69
+msgid "Not yet ranked"
+msgstr "未進入排行榜"
+
+#: affiliates/base/templates/base/macros.html:78
+msgid "<strong>%(count)s</strong> affiliate"
+msgid_plural "<strong>%(count)s</strong> affiliates"
+msgstr[0] "<strong>%(count)s</strong> 位夥伴"
+msgstr[1] "<strong>%(count)s</strong> 位夥伴"
+
+#: affiliates/base/templates/base/macros.html:86
+msgid "<strong>%(count)s</strong> click"
+msgid_plural "<strong>%(count)s</strong> clicks"
+msgstr[0] "<strong>%(count)s</strong> 次點擊"
+msgstr[1] "<strong>%(count)s</strong> 次點擊"
+
+#: affiliates/base/templates/base/macros.html:94
+msgid "<strong>%(count)s</strong> banner"
+msgid_plural "<strong>%(count)s</strong> banners"
+msgstr[0] "<strong>%(count)s</strong> 張橫幅"
+msgstr[1] "<strong>%(count)s</strong> 張橫幅"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:31
+msgid "Firefox"
+msgstr "Firefox"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:33
+msgid "Firefox OS"
+msgstr "Firefox OS"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:38
+msgid "Mozilla Recruiting"
+msgstr "Mozilla 招募中"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:39
+msgid "Firefox for Mobile"
+msgstr "Firefox 行動版"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:40
+msgid "Firefox for Desktop"
+msgstr "Firefox 桌面版"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:41
+msgid "Firefox Plugins"
+msgstr "Firefox 外掛程式"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:46
+msgid "Android"
+msgstr "Android"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:47
+msgid "Upgrade"
+msgstr "升級"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:48
+msgid "Download: Fast, Fun, Awesome"
+msgstr "下載：更快、更棒、更好玩"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:49
+msgid "Work for Mozilla"
+msgstr "在 Mozilla 工作"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:50
+msgid "Plugin Checker"
+msgstr "外掛程式檢查"
+
+#: affiliates/base/templates/base/strings.html:51
+msgid "Download Aurora"
+msgstr "下載 Aurora"
+
+#: affiliates/base/templates/base/strings.html:52
+msgid "Aurora for Android"
+msgstr "Android 上的 Aurora"
+
+# Badge that user can display on their website.
+# 
+#: affiliates/base/templates/base/strings.html:53
+msgid "Download Beta"
+msgstr "下載 Beta 測試版"
+
+#. 3.6 refers to Firefox version 3.6
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:55
+msgid "3.6 Upgrade"
+msgstr "3.6 升級"
+
+#: affiliates/base/templates/base/strings.html:56
+msgid "Facebook Messenger for Firefox"
+msgstr "Firefox 專用 Facebook 即時通"
+
+#: affiliates/base/templates/base/strings.html:61
+msgid "Purple"
+msgstr "紫色"
+
+# Color for badge images.
+#: affiliates/base/templates/base/strings.html:62
+msgid "Blue"
+msgstr "藍色"
+
+#: affiliates/base/templates/base/strings.html:63
+msgid "Green"
+msgstr "綠色"
+
+#: affiliates/base/templates/base/strings.html:64
+msgid "Red"
+msgstr "紅色"
+
+#: affiliates/base/templates/base/strings.html:65
+msgid "Orange"
+msgstr "橘色"
+
+#: affiliates/base/templates/base/strings.html:66
+msgid "Yellow"
+msgstr "黃色"
+
+#: affiliates/base/templates/base/strings.html:67
+msgid "White"
+msgstr "白色"
+
+#: affiliates/base/templates/base/strings.html:68
+msgid "Black"
+msgstr "黑色"
+
+#: affiliates/base/templates/base/terms.html:6
+#: affiliates/base/templates/base/terms.html:14
+msgid "Terms of Service"
+msgstr "服務條款"
+
+#. L10n: &hellip; is an ellipses, the three dots like "I love Firefox
+#. because..."
+#: affiliates/facebook/forms.py:18
+msgid "I love Firefox because&hellip;"
+msgstr "我喜歡 Firefox，因為&hellip;"
+
+#: affiliates/facebook/forms.py:28
+msgid "Enter e-mail"
+msgstr "輸入電子郵件地址"
+
+#: affiliates/facebook/forms.py:93
+msgid ""
+"Sorry. Your message is too long. Please tell the world why you love Firefox "
+"in 90 characters or less."
+msgstr "抱歉，您的訊息太長了。請用 90 個字以內的篇幅告訴世界您為什麼喜愛 Firefox。"
+
+#. L10n: Used in a dropdown that lets users filter the Leaderboard by
+#. L10n: country. Refers to the default filter, which shows all countries
+#: affiliates/facebook/forms.py:179
+msgid "All"
+msgstr "全部"
+
+#. Account linking lets a user associate an Affiliates account with their
+#. Facebook app account. Description is in another string. :D
+#: affiliates/facebook/managers.py:139
+#: affiliates/facebook/templates/facebook/base.html:86
+msgid "Link your Firefox Affiliates account"
+msgstr "鏈結您的 Firefox 夥伴計畫帳號"
+
+#: affiliates/facebook/models.py:313
+msgid "Way to go! You've had {0} clicks on your Firefox banner."
+msgstr "加油！您的 Firefox 橫幅已經有 {0} 個點擊數了。"
+
+#: affiliates/facebook/models.py:315
+msgid ""
+"Amazing! You've had {0} clicks on your Firefox banner. Thanks for spreading "
+"the word."
+msgstr "加油！您的 Firefox 橫幅已經有 {0} 個點擊數，感謝您把資訊散播出去。"
+
+#: affiliates/facebook/models.py:318
+msgid ""
+"Wow! Your banner has {0} clicks! It's ready to grow up and become a Firefox "
+"ad."
+msgstr "哇噢！您的 Firefox 橫幅已經有 {0} 個點擊數，再更多一點就有機會成為 Firefox 廣告了！"
+
+#: affiliates/facebook/models.py:320
+msgid "Congratulations! Your Firefox banner has now become a Facebook ad!"
+msgstr "恭喜！您的廣告已經成為 Facebook 廣告了！"
+
+#: affiliates/facebook/views.py:177
+msgid "Your banner has been deleted."
+msgstr " 已刪除您的橫幅。"
+
+#: affiliates/facebook/views.py:211
+msgid "You have successfully posted a banner to your wall !"
+msgstr "您成功將橫幅張貼至塗鴉牆了！"
+
+#: affiliates/facebook/views.py:303
+msgid "You have successfully sent a message to one of your friends!"
+msgstr "您成功將訊息傳送給某位朋友了！"
+
+#. Banner styles are images that will be used as the background of a banner
+#. that the user creates.
+#: affiliates/facebook/templates/facebook/banner_create.html:18
+msgid "First, choose one of the banner styles below."
+msgstr "第一步，請從下方挑選一個橫幅樣式。"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:24
+msgid "Please correct the errors in the form below."
+msgstr "請修正下列表單中的錯誤。"
+
+#. Used above a box showing what a banner will look like once it is created.
+#: affiliates/facebook/templates/facebook/banner_create.html:26
+msgid "Your banner preview"
+msgstr "預覽您的徽章"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:36
+msgid "Next, tell the world why you love Firefox in 90 characters or less."
+msgstr "下一步，用不超過 90 個字的篇幅告訴世界您為什麼喜愛 Firefox。"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:42
+msgid "Use my profile image"
+msgstr "使用我的個人資料圖片"
+
+#. Label for a checkbox that gives us permission to use the user's banner in a
+#. paid Facebook ad.
+#: affiliates/facebook/templates/facebook/banner_create.html:46
+msgid "Feature me in a paid Facebook ad."
+msgstr "我要使用 Facebook 的收費廣告功能。"
+
+#. Used on a link that, when clicked, pops up a text bubble with an
+#. explanation of a form field.
+#: affiliates/facebook/templates/facebook/banner_create.html:49
+msgid "What does this mean?"
+msgstr "這是什麼意思？"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:52
+msgid ""
+"If you get %(click_count)s clicks or more, we would like to have permission "
+"to turn your banner into a paid ad on Facebook in your region. By checking "
+"this box you are granting us permission to use your banner in a paid "
+"Facebook ad, including your profile photo if you checked the box to include "
+"it in the banner, and the text you added to the banner. For a full "
+"description of the rights you are granting and more information, see the "
+"FAQs. Don't want to be featured in an ad? Make sure you don't opt in. If you"
+" opted in and don't want to be featured anymore, send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure your ad is "
+"removed."
+msgstr ""
+"若您的橫幅有了 %(click_count)s 以上的點擊數，我們可能會向您請求讓您的廣告成為在您的地區中的 Facebook "
+"付費廣告。勾選這個勾選框代表您授權我們將您的橫幅本身、個人資料圖片（若您勾選的話）、以及添加至橫幅上的文字轉為 Facebook "
+"付費廣告。若您想了解與此授權的完整描述及相關資訊，請參考常見問題集。不想在廣告中出現嗎？那請務必不要授權。在您同意後若想取消，請寄信到 <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> 告訴我們，我們會將您的廣告移除。"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:69
+msgid "Save and Share"
+msgstr "儲存並分享"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:14
+msgid "Are you sure?"
+msgstr "您確定嗎？"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:15
+msgid "These are the banners you've created so far:"
+msgstr "這些是您已經建立好的橫幅:"
+
+#. Heading referring to when a banner was created.
+#: affiliates/facebook/templates/facebook/banner_list.html:26
+msgid "Creation date"
+msgstr "建立日期"
+
+#. Heading above the number of clicks a banner has received.
+#: affiliates/facebook/templates/facebook/banner_list.html:30
+msgid "Clicks"
+msgstr "點擊數"
+
+#. Link that, when clicked, shows a dialog for posting a banner to a user's
+#. Facebook feed.
+#: affiliates/facebook/templates/facebook/banner_list.html:37
+msgid "Post to Feed"
+msgstr "張貼至動態時報"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:45
+msgid "Delete"
+msgstr "刪除"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:67
+msgid "Click Goal: <span>%(count)s</span>"
+msgstr "點擊目標: <span>%(count)s</span>"
+
+#: affiliates/facebook/templates/facebook/base.html:16
+msgid "Help us share Firefox with the world."
+msgstr "幫助我們把 Firefox 分享給全世界。"
+
+#: affiliates/facebook/templates/facebook/base.html:20
+#: affiliates/facebook/templates/facebook/base.html:148
+msgid "Invite your friends to Download Firefox!"
+msgstr "邀請您的朋友下載 Firefox！"
+
+#: affiliates/facebook/templates/facebook/base.html:29
+msgid "My banners"
+msgstr "我的橫幅"
+
+#. answers to common questions about the app.
+#. FAQs is an abbreviation for Frequently Asked Questions
+#: affiliates/facebook/templates/facebook/base.html:37
+#: affiliates/facebook/templates/facebook/faq.html:13
+msgid "FAQs"
+msgstr "常見問題"
+
+#: affiliates/facebook/templates/facebook/base.html:92
+msgid ""
+"Do you already have an account from affiliates.mozilla.org? You can link "
+"your account to this application and you'll get credit for any clicks that "
+"you drive through Facebook. To connect your account, just click here and "
+"fill in your information. We'll send you an email to confirm. If you'd like "
+"to sign up for an account, just visit <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"您已經在 affiliates.mozilla.org 有帳號了嗎？您可以將帳號鏈結到此應用程式，這樣就可以得到來自 Facebook "
+"的積分。若您想要鏈結帳號，請點下這裡並填寫您的資訊，我們將會發出確認信通知您。若您想要註冊帳號，請到 <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a> 註冊。"
+
+#. Label used for the account linking button.
+#: affiliates/facebook/templates/facebook/base.html:103
+msgid "Submit"
+msgstr "送出"
+
+#: affiliates/facebook/templates/facebook/base.html:107
+msgid "Thanks for linking your affiliates.mozilla.org account."
+msgstr "感謝您鏈結您的 affiliates.mozilla.org 帳號。"
+
+#: affiliates/facebook/templates/facebook/base.html:108
+msgid ""
+"If the email address you entered has an account, you will receive a "
+"confirmation email."
+msgstr "如果您輸入的電子郵件地址已經有帳號了，您將會直接收到確認郵件。"
+
+#: affiliates/facebook/templates/facebook/base.html:113
+msgid "Linked to <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+msgstr "已鏈結至 <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+
+#: affiliates/facebook/templates/facebook/base.html:120
+msgid ""
+"This account is linked to affiliates.mozilla.org. You are credited for "
+"clicks from Facebook. You can unlink accounts by clicking below."
+msgstr "此帳號已鏈結至 affiliates.mozilla.com。您將可以賺取來自 Facebook 的積分。您可以點下下面的網址取消鏈結。"
+
+#. Text on a button that lets a user unlink their Facebook and Affiliates
+#. accounts.
+#: affiliates/facebook/templates/facebook/base.html:125
+msgid "Remove %(email_address)s"
+msgstr "移除 %(email_address)s"
+
+#: affiliates/facebook/templates/facebook/base.html:134
+msgid "Your Statistics Summary"
+msgstr "您的統計概要"
+
+#: affiliates/facebook/templates/facebook/base.html:138
+msgid ""
+"You can filter results by selecting a specific month using the calendar "
+"above."
+msgstr "您可以透過上面的行事曆當中的某個月份來過濾結果。"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/base.html:139
+#: affiliates/facebook/templates/facebook/leaderboard.html:27
+msgid "Total clicks"
+msgstr "所有點擊"
+
+#: affiliates/facebook/templates/facebook/base.html:140
+msgid "Statistics are currently unavailable."
+msgstr "目前無法提供統計資料。"
+
+#: affiliates/facebook/templates/facebook/base.html:144
+msgid "Be a part of the Firefox movement"
+msgstr "成為 Firefox 運動的一員"
+
+#: affiliates/facebook/templates/facebook/base.html:145
+msgid "It's easy!"
+msgstr "很簡單！"
+
+#: affiliates/facebook/templates/facebook/base.html:147
+msgid "Create your custom banner."
+msgstr "建立您的自訂橫幅。"
+
+#: affiliates/facebook/templates/facebook/base.html:149
+msgid "Get clicks and you could be featured in a paid Facebook ad."
+msgstr "點擊數量越多，您就有機會出現在 Facebook 廣告當中。"
+
+#: affiliates/facebook/templates/facebook/base.html:155
+msgid "Get Firefox News"
+msgstr "訂閱 Firefox 新聞"
+
+#: affiliates/facebook/templates/facebook/base.html:171
+msgid "I agree to the <a href=\"%(link)s\">Privacy Policy</a>"
+msgstr "我同意 <a href=\"%(link)s\">隱私權保護政策</a>"
+
+#: affiliates/facebook/templates/facebook/base.html:175
+msgid "We will only send you Mozilla-related information."
+msgstr "我們只會傳送與 Mozilla 有關的資訊給您。"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/base.html:184
+#: affiliates/facebook/templates/facebook/link_activation_email.html:13
+msgid "Thanks!"
+msgstr "感謝！"
+
+#: affiliates/facebook/templates/facebook/error.html:10
+msgid "Whoops!"
+msgstr "喔喔！"
+
+#: affiliates/facebook/templates/facebook/error.html:11
+msgid "What are you doing here?"
+msgstr "您在這裡做什麼？"
+
+#: affiliates/facebook/templates/facebook/error.html:14
+msgid ""
+"Did you make a left at that last URL instead of a right? No problem. Here "
+"are some tips to get you back on your way:"
+msgstr "跑錯地方了嗎？沒問題，除非您想要加入我們，否則這邊有一些讓您能回到你想去的建議:"
+
+#: affiliates/facebook/templates/facebook/error.html:21
+msgid ""
+"If you typed in the address, check your spelling. Could just be a typo."
+msgstr "若您手動輸入了網址，請檢查看看有沒有拼錯。"
+
+#: affiliates/facebook/templates/facebook/error.html:26
+msgid ""
+"If you followed a link, it’s probably broken. Please <a "
+"href=\"mailto:%(email)s\">contact us</a> and we’ll fix it."
+msgstr "若您點了某個鏈結，也許有東西壞掉了。請 <a href=\"mailto:%(email)s\">聯絡我們</a>，我們會修正它。"
+
+#: affiliates/facebook/templates/facebook/error.html:32
+msgid ""
+"If you're not sure what you're looking for, start at <a "
+"href=\"%(link)s\">mozilla.org</a>."
+msgstr "若您不確定你要找的是什麼，請回到 <a href=\"%(link)s\">mozilla.org</a>。"
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:18
+msgid "Using Affiliate banners"
+msgstr "使用夥伴橫幅"
+
+#: affiliates/facebook/templates/facebook/faq.html:21
+msgid "What is Firefox Affiliates?"
+msgstr "Firefox 夥伴計畫是什麼？"
+
+#: affiliates/facebook/templates/facebook/faq.html:24
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"eligible for fun stuff like Firefox T-shirts and, if you opt in, we may "
+"feature your banner in a paid-ad on the Facebook ad network. While we do "
+"send out prizes and gifts to our Affiliates from time to time, Firefox "
+"Affiliates does not offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Firefox 夥伴計畫讓您可以製作橫幅，並將其張貼到您的 Facebook 個人資料頁面，鼓勵閱讀者下載 Firefox。當閱讀者透過該橫幅到達 "
+"Firefox 下載頁面之後，您會得到對應該點擊的積分。積分最高的前幾名夥伴將會被列於我們的領先者名單當中並有獲得一些像是 Firefox "
+"T-shirt 之類的酷玩意的機會，若您選擇加入的話，我們也可能將您的橫幅放入 Facebook "
+"的廣告網當中。雖然我們會一直送出獎品跟禮物，但本計畫將不會提供金錢作為獎賞。"
+
+#: affiliates/facebook/templates/facebook/faq.html:43
+msgid "How do I add a banner to my Facebook profile?"
+msgstr "我要如何把夥伴橫幅新增至我的 Facebook 個人資料頁面？"
+
+#: affiliates/facebook/templates/facebook/faq.html:48
+msgid ""
+"Select a banner design that you like using the <a href=\"%(link)s\">banner "
+"builder</a>, add a personal message about why you love Firefox and then "
+"click \"share.\" This will post the banner to your Facebook timeline and "
+"into your friends' newsfeed."
+msgstr ""
+"請選擇您想要放到 <a href=\"%(link)s\">banner builder</a> 裡面編輯的橫幅設計，並加上您喜愛 Firefox "
+"的理由，並點下「分享」。這樣將會把橫幅張貼到您與您朋友們的 Facebook 時間軸當中。"
+
+#: affiliates/facebook/templates/facebook/faq.html:60
+msgid "How do I invite a friend to use Firefox?"
+msgstr "我要如何邀請朋友使用 Firefox？"
+
+#: affiliates/facebook/templates/facebook/faq.html:64
+msgid ""
+"If you'd like to personally invite someone to use Firefox, just select "
+"\"Share ad with friends\" from the side menu and you will be able to send a "
+"Facebook message with a custom Firefox download link. If your friend clicks "
+"on the link, you'll also get credit for the click."
+msgstr ""
+"若您只想要邀請某個人使用 Firefox，只需要從側邊選單選擇「把廣告分享給朋友」，然後就可以傳送包含自訂下載鏈結的 Facebook "
+"訊息給朋友。若您的朋友點了那個連結，您也可以得到該次積分。"
+
+#: affiliates/facebook/templates/facebook/faq.html:76
+msgid "Can my banner become a paid Facebook ad?"
+msgstr "我的廣告可以成為 Facebook 的付費廣告嗎？"
+
+#: affiliates/facebook/templates/facebook/faq.html:80
+msgid ""
+"If you checked the box to allow your banner to be featured in a paid "
+"Facebook ad, once you've reached %(click_count)s clicks on a Facebook "
+"banner, your banner will become eligible to be a paid Facebook ad. This "
+"means that Mozilla will pay to have an ad placed on the Facebook ad network "
+"sharing your message of why you love Firefox. We will notify you if your "
+"banner is chosen to be a paid ad in your region. If you do not want to "
+"participate in this, don't click the opt-in when you build your banner. If "
+"you've opted in by accident, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure you aren't "
+"included in the ad selection."
+msgstr ""
+"若您勾選了同意讓您廣告成為 Facebook 付費廣告的勾選框，當您的橫幅有了 %(click_count)s 次以上的點擊數後就有資格成為 "
+"Facebook 的付費廣告。這代表 Mozilla 將會付費讓您的橫幅、訊息成為 Facebook "
+"付費廣告。當您的廣告被選擇成為您的區域中的付費廣告時我們將會通知您。若您不想加入 Facebook "
+"廣告網，那在建立橫幅時請務必不要加入。若您不小心加入了，或是想要取消，請寄信到 <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> 告訴我們，我們會將您的廣告移除。"
+
+#: affiliates/facebook/templates/facebook/faq.html:100
+msgid ""
+"If I opted in to having my banner become a paid Facebook ad, what exactly am"
+" I giving you permission to do?"
+msgstr "若我同意讓我的橫幅成為 Facebook 付費廣告，我到底要授出哪些權利？"
+
+#: affiliates/facebook/templates/facebook/faq.html:108
+msgid ""
+"You are giving us permission to use, reproduce, distribute, edit, and "
+"display your photo, if it is included in your banner, and your message about"
+" why you love Firefox, for commercial purposes, specifically in a paid ad on"
+" Facebook. You are also acknowledging that you will not be paid for the use "
+"of your banner."
+msgstr ""
+"除了您為什麼喜愛 Firefox "
+"的訊息本身，若您將照片放在橫幅中，代表您也將會授權我們作為商業情況使用、重製、散佈、修改、並公開展示您照片的權利，尤其是將成為 Facebook "
+"的付費廣告。您需了解我們將不會因為上述理由付費給您。"
+
+#: affiliates/facebook/templates/facebook/faq.html:119
+msgid "How do I remove the application?"
+msgstr "我要如何移除夥伴計畫的 Facebook 應用程式？"
+
+#: affiliates/facebook/templates/facebook/faq.html:122
+msgid ""
+"To remove the application, access your applications in the Facebook settings"
+" menu. Delete the application from your list of authorized apps and we'll "
+"delete your Affiliates profile on Facebook and the information associated "
+"with it. Note: Deleting the application on Facebook will not delete your "
+"affiliates.mozilla.org profile if you had one prior to installing the "
+"application. To delete that profile, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a>."
+msgstr ""
+"若想移除應用程式，請到您的 Facebook 設定選單內移除夥伴計畫的應用程式。刪除夥伴計畫的應用程式也將移除您在 Facebook "
+"上的夥伴計畫內容，以及相關資訊。請注意，若您在安裝應用程式前已註冊了夥伴計畫網站的帳號，只單純移除在 Facebook 上的應用程式，將不會刪除您在 "
+"affiliates.mozilla.org 上的資料。您若想要移除在 affiliates.mozilla.org 網站上的資料，請寫信到 <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> 通知我們。"
+
+#: affiliates/facebook/templates/facebook/faq.html:138
+msgid ""
+"How do I connect to my Firefox Affiliates account on affiliates.mozilla.org?"
+msgstr "我要如何連結到我在 affiliates.mozilla.org 上的夥伴計畫帳號？"
+
+#: affiliates/facebook/templates/facebook/faq.html:146
+msgid ""
+"To connect your affiliates.mozilla.org account to this application, please "
+"use the connection wizard on the My Banners page. We'll send you an email to"
+" confirm that we've connected the accounts. If you'd like to sign up for an "
+"account, just visit <a href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"若要將您在 affiliates.mozilla.org "
+"的帳號連結到此應用程式，請使用「我的橫幅」頁面中的連結精靈。連結帳號後，我們將會傳送確認信給您。若您想要註冊帳號，請到 <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a> 註冊。"
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:159
+msgid "Leaderboard and User Statistics"
+msgstr "領先者名單與使用者統計"
+
+#: affiliates/facebook/templates/facebook/faq.html:163
+msgid "How often does the leaderboard get updated?"
+msgstr "領先者名單多久會更新一次？"
+
+#: affiliates/facebook/templates/facebook/faq.html:167
+msgid ""
+"The leaderboard updates every day at midnight Pacific Time, so be sure to "
+"check in to see where you stand."
+msgstr "領先者名單在美國太平洋時間每日午夜（台灣每日下午三點）更新，請記得回來看看您的排名。"
+
+#: affiliates/facebook/templates/facebook/faq.html:182
+msgid ""
+"No, though from time to time we may run contests to see who can get the most"
+" clicks for different Firefox products and campaigns. The winners will get "
+"Firefox T-shirts, hoodies and other awesome things we have at Mozilla HQ."
+msgstr ""
+"沒有。雖然我們會持續進行比賽，看看誰可以針對不同的 Firefox 產品與行銷按得到最多的點擊數。有最多積分的人將可以得到 Firefox T "
+"恤、套頭衫，或是其它 Mozilla 總部的超棒獎品。"
+
+#: affiliates/facebook/templates/facebook/faq.html:202
+msgid ""
+"Let us know. Send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and tell us what the problem "
+"is."
+msgstr "請讓我們知道。請寫封信到 <a href=\"%(link)s\">affiliates@mozilla.org</a> 告訴我們您的問題。"
+
+#: affiliates/facebook/templates/facebook/first_run.html:8
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:17
+msgid "Welcome to Firefox Affiliates"
+msgstr "歡迎來到 Firefox 夥伴計畫"
+
+#: affiliates/facebook/templates/facebook/first_run.html:11
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:20
+msgid ""
+"This is your one stop shop for telling the world about the only browser that"
+" puts you first: Firefox! Start now by building a banner to post on your "
+"Facebook profile. Get a ton of clicks and we may feature you in a Firefox ad"
+" (with your permission, of course) or send you some great Firefox gear."
+msgstr ""
+"這是告訴世界您有多愛 Firefox 的單一窗口！現在就建立一個新橫幅並張貼在您 Facebook 的個人資料頁面中。我們可能會將點擊數最高的橫幅轉為 "
+"Firefox 廣告（當然需經您同意）或送一些超棒的 Firefox 禮物給您。"
+
+#: affiliates/facebook/templates/facebook/first_run.html:20
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:31
+msgid "Let's go!"
+msgstr "出發吧！"
+
+#: affiliates/facebook/templates/facebook/leaderboard.html:11
+msgid "Affiliates with the most clicks"
+msgstr "有最多點擊數的夥伴"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:23
+#: affiliates/links/templates/links/widgets/leaderboard.html:4
+msgid "Rank"
+msgstr "排名"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:25
+msgid "User"
+msgstr "使用者"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:2
+msgid "Hi there!"
+msgstr "嗨！"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:5
+msgid ""
+"Thank you for linking your Firefox Affiliates account with the Affiliates "
+"Facebook application. Please click on the link below and you'll get credit "
+"for any clicks that you drive through Facebook on the main Affiliates "
+"leaderboard."
+msgstr ""
+"感謝您將您的 Firefox 夥伴計畫帳號與 Facebook 應用程式鏈結起來。請點下下面的鏈結就可以得到來自 Firefox 的點擊積分。"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:10
+msgid ""
+"If you didn't request to link your account, just ignore this e-mail and your"
+" account will not be linked."
+msgstr "若您並未要求鏈結您的帳號，請忽略此郵件，您的帳號將不會被鏈結。"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:15
+msgid "The Firefox Affiliates team"
+msgstr "Firefox 夥伴計畫團隊"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:3
+msgid ""
+"Download Firefox (Large Firefox logo rising in front of an orange "
+"background)"
+msgstr "下載 Firefox（橘色背景前有 Firefox 的大型圖示）"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:5
+msgid "Download Firefox (Small Firefox logo on a light blue background)"
+msgstr "下載 Firefox（淡藍色背景前有 Firefox 的小型圖示）"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:7
+msgid ""
+"Download Firefox (Large Firefox logo resting on a light blue background)"
+msgstr "下載 Firefox（淡藍色背景前有 Firefox 的大型圖示）"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:9
+msgid ""
+"Download Firefox (For Android. A mobile phone in front of a faded Firefox "
+"logo with a light blue background)"
+msgstr "下載 Firefox（Andorid 版本。淡藍色背景前有淡化的 Firefox 圖示，最前面有一支手機）"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:11
+msgid ""
+"Download Firefox (For Android. A mobile phone displaying a large Firefox "
+"logo on its screen, over a light blue background)"
+msgstr "下載 Firefox（Andorid 版本。淡藍色背景前有一支手機，螢幕中顯示淡化的 Firefox 圖示）"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:13
+msgid ""
+"Download Firefox (For Android. Firefox logo floating over a mobile phone "
+"resting on an orange background)"
+msgstr "下載 Firefox（Andorid 版本。橘色背景前有一支手機，上方浮著一個 Firefox 圖示）"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:15
+msgid ""
+"Download Firefox (Person in a Firefox costume jumping happily on a beach)"
+msgstr "下載 Firefox（穿著 Firefox 衣服的人在沙灘上快樂地跳躍）"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:17
+msgid ""
+"Download Firefox (For Android. A mobile phone running Firefox for Android "
+"next to a coffee cup with the Firefox logo on it)"
+msgstr ""
+"下載 Firefox（Andorid 版本。咖啡杯旁邊有一支正在執行 Firefox for Android 的手機，當中有 Firefox 圖示）"
+
+#: affiliates/facebook/templates/facebook/strings.html:21
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"elegible for fun stuff like Firefox T-shirts. While we do send out prizes "
+"and gifts to our Affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Firefox 夥伴計畫讓您可以製作橫幅，並將其張貼到您的 Facebook 個人資料頁面，並鼓勵閱讀者下載 "
+"Firefox。當您頁面的閱讀者透過該橫幅到達 Firefox "
+"下載頁面之後，您會得到對應該點擊的積分。積分最高的前幾名夥伴將會被列於我們的領先者名單當中並有獲得一些像是 Firefox T-shirt "
+"之類的酷玩意的機會。雖然我們會一直送出獎品跟禮物，但本計畫將不會提供金錢作為獎賞。"
+
+#: affiliates/facebook/templates/facebook/strings.html:22
+msgid "Mozilla Firefox"
+msgstr "Mozilla Firefox"
+
+#: affiliates/facebook/templates/facebook/strings.html:23
+msgid ""
+"Different by design. It's fast, flexible and secure. Share Firefox with your"
+" friends today."
+msgstr "從設計開始就與眾不同。它超快、靈活、安全。今天就把 Firefox 分享給您的朋友。"
+
+#: affiliates/facebook/templates/facebook/strings.html:27
+msgid "You will lose credit for all your clicks on this banner."
+msgstr "您將會失去從此橫幅得到的所有點擊積分。"
+
+#: affiliates/facebook/templates/facebook/strings.html:31
+msgid "Newsletter subscription unavailable at this time."
+msgstr "目前暫時無法訂閱電子報。"
+
+#: affiliates/facebook/templates/facebook/strings.html:32
+msgid ""
+"I'd like to receive the Firefox Affiliate newsletter and periodic Firefox "
+"Affiliates updates via email."
+msgstr "我想要收到 Firefox 夥伴計畫的電子報"
+
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:4
+msgid "Current banners"
+msgstr "目前的橫幅"
+
+#. L10n: "Woot" (w00t) as in internet slang expressing happiness.
+#: affiliates/links/middleware.py:19
+msgid ""
+"Woot! You've driven {num_downloads} downloads and {num_clicks} clicks since "
+"your last visit. Keep rockin'!"
+msgstr "哇！從您上次瀏覽本網站已經帶來了 {num_downloads} 次下載與 {num_clicks} 次點擊。繼續加油！"
+
+#: affiliates/links/templates/links/detail.html:12
+#: affiliates/links/templates/links/detail.html:24
+msgid "Banner Details"
+msgstr "橫幅詳情"
+
+#: affiliates/links/templates/links/detail.html:31
+msgid "Created:"
+msgstr "建立於:"
+
+#: affiliates/links/templates/links/detail.html:34
+msgid "Clicks:"
+msgstr "點擊數:"
+
+#: affiliates/links/templates/links/detail.html:36
+msgid "Linked URL:"
+msgstr "鏈結網址:"
+
+#: affiliates/links/templates/links/detail.html:40
+msgid "Size:"
+msgstr "尺寸:"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Embed code:"
+msgstr "內嵌碼:"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Use this code to embed this banner on your website."
+msgstr "使用此代碼將橫幅嵌入您的網站。"
+
+#: affiliates/links/templates/links/leaderboard.html:15
+msgid "Top Affiliates"
+msgstr "頂尖夥伴"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:5
+#: affiliates/users/models.py:18
+msgid "Affiliate"
+msgstr "夥伴"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:6
+msgid "Number of clicks"
+msgstr "點擊次數"
+
+#: affiliates/statistics/templates/statistics/category.html:8
+msgid "{category} Metrics"
+msgstr "{category} 指標"
+
+#: affiliates/statistics/templates/statistics/category.html:26
+msgid "Banners"
+msgstr "橫幅"
+
+#: affiliates/statistics/templates/statistics/index.html:18
+msgid ""
+"Take a look at the impact our Affiliates make on increasing awareness of "
+"Mozilla and its products."
+msgstr "看看我們的夥伴對於增加 Mozilla 與其產品的知名度所帶來的影響。"
+
+#: affiliates/statistics/templates/statistics/index.html:22
+msgid "Key Metrics"
+msgstr "關鍵指標"
+
+#: affiliates/statistics/templates/statistics/index.html:36
+msgid "Categories"
+msgstr "分類"
+
+#: affiliates/users/views.py:30
+msgid "Your profile has been updated!"
+msgstr "成功更新您的個人資料！"
+
+#: affiliates/users/views.py:45
+msgid "You must be logged in to view that page."
+msgstr "您必須先登入才能檢視該頁面。"
+
+#: affiliates/users/templates/users/profile.html:21
+#, fuzzy
+msgid "Name: {display_name}"
+msgstr "您的顯示名稱"
+
+#: affiliates/users/templates/users/profile.html:26
+msgid "Biography: {biography_text}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:31
+msgid "Edit your profile"
+msgstr "編輯您的個人資料"
+
+#: affiliates/users/templates/users/profile.html:57
+msgid "Stats"
+msgstr "統計"
+
+#: affiliates/users/templates/users/profile.html:65
+msgid "Milestones"
+msgstr "里程碑"
+
+#~ msgid "<strong>{affiliate_count}</strong> Affiliates"
+#~ msgstr "<strong>{affiliate_count}</strong> 位夥伴"
+
+#~ msgid "<strong>{link_count}</strong> Banners"
+#~ msgstr "<strong>{link_count}</strong> 張橫幅"
+
+#~ msgid "<strong>{click_count}</strong> Clicks"
+#~ msgstr "<strong>{click_count}</strong> 次點擊"
+
+#~ msgid "Website"
+#~ msgstr "網站"
+
+#~ msgid ""
+#~ "Check out how many people have clicked to download Firefox. <br> Where are "
+#~ "you on the leaderboard? <br> Leaderboard statics are updated at midnight PT "
+#~ "each day."
+#~ msgstr ""
+#~ "看看有多少人已經點下 Firefox "
+#~ "的下載鏈結。<br>您在領先者名單中的哪裡？<br>美西太平洋時間每天午夜（台灣時間每日下午三點或四點，依美國是否實行夏令時間而定）都會更新領先者名單的統計。"
+
+#~ msgid "TOP 5 AFFILIATES WITH THE MOST FIREFOX CLICKS"
+#~ msgstr "有最多 FIREFOX 點擊數的夥伴的前五名"
+
+#~ msgid "USER"
+#~ msgstr "使用者"
+
+#~ msgid "CLICKS"
+#~ msgstr "點擊數"
+
+#~ msgid "Follow these easy steps to create a new banner:"
+#~ msgstr "依照下列簡單的步驟建立新橫幅："
+
+#~ msgid "Follow these easy steps to get started:"
+#~ msgstr "依照下列簡單步驟開始動手："
+
+#~ msgid "PICK A CATEGORY"
+#~ msgstr "挑選一個種類"
+
+#~ msgid "PICK A BANNER"
+#~ msgstr "挑選一個橫幅"
+
+#~ msgid "CONFIGURE &amp; POST"
+#~ msgstr "設定並貼出去吧"
+
+#~ msgid "&laquo; Back"
+#~ msgstr "&laquo; 上一步"
+
+#~ msgid "CREATION DATE:"
+#~ msgstr "建立日期："
+
+#~ msgid "CLICKS:"
+#~ msgstr "點擊數:"
+
+#~ msgid "LINKED URL:"
+#~ msgstr "鏈結網址："
+
+#~ msgid "EMBED CODE:"
+#~ msgstr "嵌入碼："
+
+#~ msgid "You"
+#~ msgstr "您的"
+
+#~ msgid "Your total"
+#~ msgstr "您的總計"
+
+#~ msgid "Start Spreading the Word!"
+#~ msgstr "開始口耳相傳！"
+
+#~ msgid "You have <span>0</span> banners posted."
+#~ msgstr "您已經貼出了 <span>0</span> 個橫幅。"
+
+#~ msgid "Category: <span>%(category_name)s</span>"
+#~ msgstr "分類: <span>%(category_name)s</span>"
+
+#~ msgid ""
+#~ "Now choose the type of <span>%(subcategory_name)s</span> banner you want to "
+#~ "display on your website or blog:"
+#~ msgstr "現在請選擇您想要顯示在網站或部落格上的 <span>%(subcategory_name)s</span> 子分類橫幅："
+
+#~ msgid ""
+#~ "Finally, choose the size and color of your <span>%(subcategory_name)s</span>"
+#~ " banner, then you can copy its code onto your website or blog."
+#~ msgstr ""
+#~ "最後，請選擇您的 <span>%(subcategory_name)s</span> 橫幅的尺寸與顏色，然後您就可以將它複製到網頁或部落格當中。"
+
+#~ msgid "%(width)sx%(height)s pixels"
+#~ msgstr "%(width)sx%(height)s 像素"
+
+#~ msgid "Save Banner &raquo;"
+#~ msgstr "儲存橫幅圖 &raquo;"
+
+#~ msgid "SIZE"
+#~ msgstr "尺寸"
+
+#~ msgid "You're almost there!"
+#~ msgstr "就快完成了！"
+
+#~ msgid ""
+#~ "Fill out the form below to finish your registration and begin creating "
+#~ "banners."
+#~ msgstr "請填入下列表單以完成您的註冊過程，並開始建立橫幅。"
+
+#~ msgid "Latest News"
+#~ msgstr "最新新聞"
+
+#~ msgid "The new Firefox Affiliates program is live!"
+#~ msgstr "全新的 Firefox 夥伴計畫來了！"
+
+#~ msgid ""
+#~ "Welcome to the new Firefox Affiliates program. Have a look around the site, "
+#~ "grab some buttons and get on the leaderboard. Have feedback? Let us know at "
+#~ "affiliates@mozilla.org."
+#~ msgstr ""
+#~ "歡迎來到全新的 Firefox 夥伴計畫。逛逛這個網站、作出一些按鈕並進入領先排行板吧。有什麼意見想告訴我們嗎？請寄信到 "
+#~ "affiliates@mozilla.org。"
+
+#~ msgid "Help us make Firefox Affiliates better"
+#~ msgstr "幫助我們把 Firefox 夥伴計畫變得更好"
+
+#~ msgid ""
+#~ "Firefox Affiliates has been live for a while now, but we need your help to "
+#~ "keep making improvements to the system. If you are a web developer familiar "
+#~ "with HTML, CSS, Python or Django and want to get involved with Mozilla, "
+#~ "please contact us at affiliates@mozilla.org ."
+#~ msgstr ""
+#~ "Firefox 伙伴計劃已經正式上線一陣子了，但我們需要您的幫助來改善系統。若您是一位熟悉 HTML、CSS、Python 或 Django "
+#~ "的網頁開發者，而且有興趣加入 Mozilla 的話，請寫信到 affiliates@mozilla.org 連絡我們。"
+
+#~ msgid "Tell the world about Firefox for Android"
+#~ msgstr "把 Android 版 Firefox 的資訊告訴全世界"
+
+#~ msgid ""
+#~ "Firefox for Android is here and we'd like your help in spreading the word. "
+#~ "Just create a Firefox for Android banner and add it to your site in one of "
+#~ "more than 30 languages. The affiliate responsible for the most Firefox for "
+#~ "Android clicks will get a Firefox hoodie. If you have ideas for other "
+#~ "buttons or want to help with Firefox Affiliates, please contact us at "
+#~ "affiliates@mozilla.org ."
+#~ msgstr ""
+#~ "Android 版 Firefox 已經釋出，希望您可以幫忙口耳相傳。您只要建立一組 Android 版 Firefox "
+#~ "的橫幅，並把它加入到超過三十種語言的的網站之中。夥伴計畫將會送出 Firefox 套頭衫給最多點擊數的夥伴。如果您有關於其他按鈕的意見，或是想要幫忙 "
+#~ "Firefox 夥伴計畫，請寄信到 affiliates@mozilla.org 聯絡我們。"
+
+#~ msgid ""
+#~ "The Firefox Affiliates program is a great way to share your love of Mozilla "
+#~ "Firefox."
+#~ msgstr "Firefox 夥伴計畫是一個讓您分享對 Mozilla Firefox 的喜愛的好方式。"
+
+#~ msgid ""
+#~ "BrowserID could not verify your identity. Visit <a "
+#~ "href=\"{url}\">browserid.org</a> for more information."
+#~ msgstr "BrowserID 無法確認您的身份。請到 <a href=\"{url}\">browserid.org</a> 取得更多詳細資訊。"
+
+#~ msgid ""
+#~ "Moved? Changed your name? Just click on the edit profile button in the upper"
+#~ " right corner of the site."
+#~ msgstr "搬家了？改了名字？只要點一下網站右上角的編輯個人資料按鈕就可以修改資料。"
+
+#~ msgid "Why should I share my mailing address with Firefox Affiliates?"
+#~ msgstr "為什麼我要把我的地址透露 Firefox 夥伴計畫知道？"
+
+#~ msgid ""
+#~ "While you have our deepest gratitude for spreading the word about Firefox "
+#~ "every day, from time to time we like to thank our amazing Affiliates "
+#~ "community with things like Firefox T-shirts &mdash; if we have your address "
+#~ "on file, that is."
+#~ msgstr ""
+#~ "我們對您每天散佈 Firefox 的消息致上最高的敬意，我們一直都想透過送出一些像是 Firefox T-Shirt "
+#~ "之類的小禮物來感謝我們超棒的夥伴社群 &mdash; 如果我們有您的地址的話。"
+
+#~ msgid ""
+#~ "The Firefox Affiliates program is a great way to share your love of Firefox "
+#~ "and other Mozilla products. Host buttons on your site and climb your way to "
+#~ "fame on the leaderboard. <a href=\"#\" class=\"show_tooltip\" "
+#~ "target=\"tooltip_home\">Learn more &raquo;</a>"
+#~ msgstr ""
+#~ "Firefox 夥伴計畫讓您能簡單地分享您對 Firefox 與其他 Mozilla "
+#~ "產品的喜愛。在您的網站上放上按鈕並努力成為夥伴排名板當中的第一名吧。<a href=\"#\" class=\"show_tooltip\" "
+#~ "target=\"tooltip_home\">了解更多資訊 &raquo;</a>"
+
+#~ msgid ""
+#~ "Firefox Affiliates is the go-to place for Firefox fans and Mozillians to get"
+#~ " promotional buttons and links that encourage users to download Firefox. We "
+#~ "do send out prizes and gifts to our affiliates from time to time, but "
+#~ "Firefox Affiliates does not offer monetary rewards for hosting Firefox "
+#~ "buttons. That warm, fuzzy feeling in your heart will have to do."
+#~ msgstr ""
+#~ "Firefox 夥伴計畫是所有 Firefox 粉絲與摩茲人要取得行銷按鈕與鏈結，並推廣使用者下載 Firefox "
+#~ "的好去處。我們會持續送出送出獎品與禮物給我們的夥伴，但不會提供金錢作為提供 Firefox 按鈕的獎品。"
+
+#~ msgid "Sign up and become an affiliate today!"
+#~ msgstr "今天就註冊，成為我們的夥伴吧！"
+
+#~ msgid "Share on Facebook &raquo;"
+#~ msgstr "分享到 Facebook &raquo;"
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "使用 Persona 登入"
+
+#~ msgid "Don't have an account?"
+#~ msgstr "沒有帳號嗎？"
+
+#~ msgid "Want to be a Firefox Affiliate?"
+#~ msgstr "想要成為 Firefox 的夥伴嗎？"
+
+#~ msgid "Sign up now and start spreading the word."
+#~ msgstr "立刻註冊，並開始口耳相傳。"
+
+#~ msgid ""
+#~ "Firefox Affiliates is now on Facebook. Install the Firefox Affiliates "
+#~ "Facebook app, link your account and you can earn clicks towards your "
+#~ "Affiliates total."
+#~ msgstr ""
+#~ "Firefox 夥伴計畫現在也到 Facebook 上了。請安裝 Firefox 夥伴計畫的 Facebook "
+#~ "應用程式，鏈結您的帳號，這樣就可以賺取夥伴積分。"
+
+#~ msgid "Click here to connect your Affiliates account with Facebook."
+#~ msgstr "點下此處將您的夥伴計畫帳號連結至 Facebook。"
+
+#~ msgid "Please enter a password."
+#~ msgstr "請輸入密碼。"
+
+#~ msgid "Passwords must match."
+#~ msgstr "密碼必須一樣。"
+
+#~ msgid "Passwords must be at least 8 characters long."
+#~ msgstr "密碼必須要有八個字元以上。"
+
+#~ msgid "Passwords must contain at least 1 letter and 1 number."
+#~ msgstr "密碼當中至少要有一個拉丁字母跟一個數字。"
+
+#~ msgid ""
+#~ "We are having trouble reaching your email address. Please try a different "
+#~ "address or contact an administrator."
+#~ msgstr "我們寄信給您時發生問題。請試著使用別的電子郵件地址，或聯絡您的管理員。"
+
+#~ msgid "Please enter an email address."
+#~ msgstr "請輸入一個電子郵件地址。"
+
+#~ msgid "A user with that email address already exists."
+#~ msgstr "使用該電子郵件地址的使用者已經存在。"
+
+#~ msgid "Email or password incorrect."
+#~ msgstr "電子郵件或密碼不正確。"
+
+#~ msgid "This account is inactive."
+#~ msgstr "此帳戶未啟用。"
+
+#~ msgid "Please enter a display name."
+#~ msgstr "請輸入顯示名稱。"
+
+#~ msgid "You must agree to the terms of service and privacy policy to register."
+#~ msgstr "您必須同意使用者條款與隱私權保護政策才能註冊。"
+
+#~ msgid "Password"
+#~ msgstr "密碼"
+
+#~ msgid "Email address"
+#~ msgstr "電子郵件地址"
+
+#~ msgid "New Password"
+#~ msgstr "新密碼"
+
+#~ msgid "Retype Password"
+#~ msgstr "重新輸入密碼"
+
+#~ msgid "Full Name"
+#~ msgstr "全名"
+
+#~ msgid "Street"
+#~ msgstr "街道"
+
+#~ msgid "Apartment or Unit # (optional)"
+#~ msgstr "公寓或單位號碼 (非必要)"
+
+#~ msgid "City"
+#~ msgstr "城市"
+
+#~ msgid "State or Province"
+#~ msgstr "州或省"
+
+#~ msgid "ZIP or Postal Code"
+#~ msgstr "郵遞區號"
+
+#~ msgid "Your password"
+#~ msgstr "您的密碼"
+
+#~ msgid "This email is already taken! Please try again."
+#~ msgstr "這個電子郵件地址已經有人用掉了！請再試一次。"
+
+#~ msgid "Please activate your Firefox Affiliates account"
+#~ msgstr "請啟用您的 Firefox 夥伴計畫帳號"
+
+#~ msgid "Display name"
+#~ msgstr "顯示名稱"
+
+#~ msgid "Address Line 1"
+#~ msgstr "第一行地址"
+
+#~ msgid "Address Line 2"
+#~ msgstr "第二行地址"
+
+#~ msgid "Please complete your user profile"
+#~ msgstr "請完成您的個人資料"
+
+#~ msgid "Email"
+#~ msgstr "電子郵件"
+
+#~ msgid "Email verified"
+#~ msgstr "已確認電子郵件地址"
+
+#~ msgid ""
+#~ "Your email address has been verified. You may now <a href=\"%(href)s\">log "
+#~ "in from the homepage</a>."
+#~ msgstr "已確認您的電子郵件地址。您現在可以 <a href=\"%(href)s\">自首頁登入</a>。"
+
+#~ msgid "Activation failed"
+#~ msgstr "啟用失敗"
+
+#~ msgid ""
+#~ "We could not activate your account. Please make sure that you have clicked "
+#~ "the correct link in your email or typed in the correct address."
+#~ msgstr "我們無法啟用您的帳號。請確定您自信件當中點擊了正確的鏈結或輸入了正確的網址。"
+
+#~ msgid "Edit your user profile"
+#~ msgstr "編輯您的個人資料"
+
+#~ msgid ""
+#~ "We've just sent an activation email to: <span>%(email)s <a "
+#~ "href=\"%(homepage)s\">(Change)</a></span>"
+#~ msgstr "我們已寄發啟用信到：<span>%(email)s <a href=\"%(homepage)s\">(變更)</a></span>"
+
+#~ msgid ""
+#~ "Please click on the link provided in the email to verify that your email is "
+#~ "valid."
+#~ msgstr "請點下信件中的鏈結以確認該信箱是有效的。"
+
+#~ msgid "Welcome to Firefox Affiliates."
+#~ msgstr "歡迎來到 Firefox 夥伴計畫！"
+
+#~ msgid ""
+#~ "Before you can use your new account you must activate it -- this ensures the"
+#~ " email address you used is valid and belongs to you. To activate your "
+#~ "account, click the link below or copy and paste the whole thing into your "
+#~ "browser's location bar:"
+#~ msgstr ""
+#~ "您必須先啟用才能開始可以使用您的新帳號 -- "
+#~ "如此將可以確保您註冊的電子郵件地址有效且是屬於您的。若要啟用您的帳號，請點一下下面的鏈結，或將其貼到您瀏覽器的網址列:"
+
+#~ msgid ""
+#~ "Once you've successfully activated your account, you can throw away this "
+#~ "email."
+#~ msgstr "您成功啟用帳號之後就可以把這封電子郵件丟掉了。"
+
+#~ msgid "Firefox Affiliates Password Reset"
+#~ msgstr "重設 Firefox 夥伴計畫密碼"
+
+#~ msgid ""
+#~ "A request was received to reset the password for this account on Firefox "
+#~ "Affiliates. To change this password please click on the following link, or "
+#~ "paste it into your browser's location bar:"
+#~ msgstr "我們收到了一個要重設此 Firefox 夥伴計畫帳號密碼的要求。若需要修改此密碼，請點一下下面的鏈結，或是將其貼到您瀏覽器的網址列:"
+
+#~ msgid "If you did not request this email there is no need for further action."
+#~ msgstr "若您沒有要求重設密碼的話即可忽略此訊息。"
+
+#~ msgid "<span>*</span> Required"
+#~ msgstr "<span>*</span> 必要的"
+
+#~ msgid "USERNAME <span class=\"required_star\">*</span>"
+#~ msgstr "使用者名稱 <span class=\"required_star\">*</span>"
+
+#~ msgid ""
+#~ "Your username is your online identity, so use somenthing you are comfortable"
+#~ " with everyone seeing. Take into account that you won't be able to change "
+#~ "your username in the future."
+#~ msgstr "您的使用者名稱就是您在線上的識別資訊，所以請使用您覺得可以讓所有人看起來舒服的名稱。請注意您未來將無法修改此使用者名稱。"
+
+#~ msgid "SUGGESTIONS"
+#~ msgstr "建議"
+
+#~ msgid "Save &raquo;"
+#~ msgstr "儲存 &raquo;"
+
+#~ msgid "DISPLAY NAME"
+#~ msgstr "顯示名稱："
+
+#~ msgid ""
+#~ "This website will appear along with your username on the Affiliates "
+#~ "leaderboard and on your profile."
+#~ msgstr "此網站將會在領先者名單與您的個人資料中與帳號名稱一起顯示。"
+
+#~ msgid "NEW PASSWORD"
+#~ msgstr "新密碼"
+
+#~ msgid "RETYPE PASSWORD"
+#~ msgstr "重新輸入密碼"
+
+#~ msgid ""
+#~ "8 or more characters, include Latin letters and numbers. Note: No one else "
+#~ "can see your password."
+#~ msgstr "八個字元以上，包含拉丁字母與數字。請注意：沒有其他人能知道您的密碼。"
+
+#~ msgid "ADDRESS"
+#~ msgstr "地址"
+
+#~ msgid ""
+#~ "Why should I provide my mailing address? <br/><br/> From time to time, we "
+#~ "may send you Mozilla T-shirts or other cool stuff in the mail. If you'd like"
+#~ " to get stuff from us, please share your mailing address, but it's not "
+#~ "mandatory to be part of the Firefox Affiliates program."
+#~ msgstr ""
+#~ "為什麼我需要提供我的地址？<br/><br/> 我們可能會透過實體郵件寄送 Mozilla T-shirt "
+#~ "或其他庫東西給您。若您想要得到這些東西，請在此提供您的地址給我們，但就算您不輸入也還是能參加 Firefox 夥伴計畫。"
+
+#~ msgid "Save my changes &raquo;"
+#~ msgstr "儲存我的修改 &raquo;"
+
+#~ msgid "Cancel &raquo;"
+#~ msgstr "取消 &raquo;"
+
+#~ msgid "Log in &raquo;"
+#~ msgstr "登入 &raquo;"
+
+#~ msgid "Remember me"
+#~ msgstr "記得我"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "忘了您的密碼？"
+
+#~ msgid "LANGUAGE"
+#~ msgstr "語言"
+
+#~ msgid ""
+#~ "Your country and language were automatically detected by your IP location, "
+#~ "but you are welcome to change them here."
+#~ msgstr "您的國家與語言資訊是由您的 IP 位置所自動偵測的，但您可以手動在此修改。"
+
+#~ msgid "COUNTRY"
+#~ msgstr "國家"
+
+#~ msgid ""
+#~ "I wish to receive information and notifications about Firefox and Mozilla "
+#~ "via email."
+#~ msgstr "我想要透過電子郵件收到關於 Firefox 與 Mozilla 的資訊與通知。"
+
+#~ msgid ""
+#~ "I agree to the Firefox Affiliates <a href=\"%(tos)s\">terms of service</a> "
+#~ "and Mozilla <a href=\"%(privacy_policy)s\">Privacy Policy</a>"
+#~ msgstr ""
+#~ "我同意 Firefox 夥伴計畫的 <a href=\"%(tos)s\">服務條款</a> 與 Mozilla 的 <a "
+#~ "href=\"%(privacy_policy)s\">隱私權保護政策</a>"
+
+#~ msgid "Register &raquo;"
+#~ msgstr "註冊 &raquo;"
+
+#~ msgid "Password reset successful!"
+#~ msgstr "完成密碼重設！"
+
+#~ msgid ""
+#~ "You have successfully changed your password. <a href=\"%(href)s\">Return to "
+#~ "the home page and log in using your new password</a>."
+#~ msgstr "您已經成功地修改了密碼。<a href=\"%(href)s\">回到首頁並使用新密碼登入</a>。"
+
+#~ msgid "Password Reset"
+#~ msgstr "重設密碼"
+
+#~ msgid "CONFIRM PASSWORD"
+#~ msgstr "確認密碼"
+
+#~ msgid "Reset password &raquo;"
+#~ msgstr "重設密碼 &raquo;"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "未完成密碼重設"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used. <a href=\"%(href)s\">Please request a new password reset.</a>"
+#~ msgstr "您點的密碼重設鏈結無效，可能是它已經被使用過了。<a href=\"%(href)s\">請重新要求重設密碼。</a>"
+
+#~ msgid ""
+#~ "We've sent an email to any account using this email address. Please follow "
+#~ "the link in the email to reset your password."
+#~ msgstr "我們已經送出了一封電子郵件到該信箱。請點下信上的鏈結來重設密碼。"
+
+#~ msgid "Forgot password on Firefox Affiliates!"
+#~ msgstr "忘記了 Firefox 夥伴計畫密碼！"
+
+#~ msgid "Please enter your e-mail and we'll reset your password:"
+#~ msgstr "請輸入您的電子郵件地址，我們將會重設您的密碼："
+
+#~ msgid "Send &raquo;"
+#~ msgstr "傳送 &raquo;"
+
+#~ msgid ""
+#~ "Please click on the link provided in the e-mail to access your Affiliates "
+#~ "account."
+#~ msgstr "請點下郵件當中的鏈結以存取您的夥伴計畫帳號。"
+
+#~ msgid ""
+#~ "Did you make a left at that last URL instead of a right? No problem. Unless "
+#~ "you want us to deal you in, here are some tips to get you back on your way:"
+#~ msgstr "跑錯地方了嗎？沒問題，除非您想要加入我們，否則這邊有一些讓您能回到你想去的網頁小技巧:"
+
+#~ msgid ""
+#~ "If you’re not sure what you’re looking for, start at <a "
+#~ "href=\"%(href)s\">mozilla.org</a>."
+#~ msgstr "若您不確定你要找的是什麼，請回到 <a href=\"%(href)s\">mozilla.org</a>。"
+
+#~ msgid "An Error Occurred"
+#~ msgstr "發生錯誤"
+
+#~ msgid ""
+#~ "Oh, no! It looks like an unexpected error occurred. We've already notified "
+#~ "the site administrators. Please try again now, or in a few minutes."
+#~ msgstr "喔喔，看來發生了一個未知的錯誤。我們已經通知了網站管理者。您可以現在再試一次，或稍候幾分鐘再試。"
+
+#~ msgid "custom-css"
+#~ msgstr "custom-css"
+
+#~ msgid "Firefox<span>Affiliates</span>"
+#~ msgstr "Firefox<span>Affiliates</span>"
+
+#~ msgid "Everything you need to share Firefox with the world."
+#~ msgstr "讓您能把 Firefox 分享給全世界。"
+
+#~ msgid "Let’s be <span>friends!</span>"
+#~ msgstr "讓我們當 <span>好朋友！</span>"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "More Ways to Connect"
+#~ msgstr "更多聯繫方式"
+
+#~ msgid "Want us to keep in touch?"
+#~ msgstr "想要與我們保持聯繫嗎？"
+
+#~ msgid "Get Monthly News <span>»</span>"
+#~ msgstr "訂閱每月新聞 <span>»</span>"
+
+#~ msgid "Back to home page"
+#~ msgstr "回到首頁"
+
+#~ msgid "Desktop"
+#~ msgstr "桌面"
+
+#~ msgid "Features"
+#~ msgstr "功能"
+
+#~ msgid "Security"
+#~ msgstr "安全性"
+
+#~ msgid "Customization"
+#~ msgstr "自訂"
+
+#~ msgid "Technology"
+#~ msgstr "技術"
+
+#~ msgid "Videos"
+#~ msgstr "影片"
+
+#~ msgid "Tour"
+#~ msgstr "導覽"
+
+#~ msgid "Mobile"
+#~ msgstr "行動"
+
+#~ msgid "Mobile Overview"
+#~ msgstr "行動概觀"
+
+#~ msgid "Download"
+#~ msgstr "下載"
+
+#~ msgid "Sync"
+#~ msgstr "同步"
+
+#~ msgid "Develop"
+#~ msgstr "開發"
+
+#~ msgid "Get Involved"
+#~ msgstr "參與其中"
+
+#~ msgid "FAQ"
+#~ msgstr "常見問題"
+
+#~ msgid "Blog"
+#~ msgstr "部落格"
+
+#~ msgid "Add-ons"
+#~ msgstr "附加元件"
+
+#~ msgid "Firefox Add-ons"
+#~ msgstr "Firefox 附加元件"
+
+#~ msgid "Featured Add-ons"
+#~ msgstr "精選附加元件"
+
+#~ msgid "Extensions"
+#~ msgstr "擴充套件"
+
+#~ msgid "Themes"
+#~ msgstr "佈景主題"
+
+#~ msgid "Personas"
+#~ msgstr "個性面板"
+
+#~ msgid "Search Tools"
+#~ msgstr "搜尋工具"
+
+#~ msgid "Language Support"
+#~ msgstr "語言支援"
+
+#~ msgid "Collections"
+#~ msgstr "收藏集"
+
+#~ msgid "Mobile Add-ons"
+#~ msgstr "行動版附加元件"
+
+#~ msgid "Developer Hub"
+#~ msgstr "開發者交流中心"
+
+#~ msgid "Support"
+#~ msgstr "技術支援"
+
+#~ msgid "Firefox Support"
+#~ msgstr "Firefox 技術支援"
+
+#~ msgid "Mobile Support"
+#~ msgstr "行動版技術支援"
+
+#~ msgid "Thunderbird Support"
+#~ msgstr "Thunderbird 技術支援"
+
+#~ msgid "Participate"
+#~ msgstr "參與"
+
+#~ msgid "Press Center"
+#~ msgstr "新聞中心"
+
+#~ msgid "Careers"
+#~ msgstr "工作"
+
+#~ msgid "Legal"
+#~ msgstr "法律聲明"
+
+#~ msgid ""
+#~ "Except where otherwise <a href=\"%(legal_url)s\">noted</a>, content on this "
+#~ "site is licensed under the <br/> <a href=\"%(license_url)s\">Creative "
+#~ "Commons Attribution Share-Alike License v3.0</a> or any later version."
+#~ msgstr ""
+#~ "除另有 <a href=\"%(legal_url)s\">註明</a> 外，本站內容皆採用<br/><a "
+#~ "href=\"%(license_url)s\">創用 CC 姓名標示—相同方式分享條款 3.0</a> 或更新版本授權大眾使用。"
+
+#~ msgid "VIEW CURRENT BANNERS"
+#~ msgstr "檢視目前的橫幅"
+
+#~ msgid "MY BANNERS"
+#~ msgstr "我的橫幅"
+
+#~ msgid "GET STARTED"
+#~ msgstr "開始使用"
+
+#~ msgid "LOG OUT"
+#~ msgstr "登出"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "編輯個人資料"
+
+#~ msgid ""
+#~ "Firefox Affiliate buttons are a bit of html code that you put on your "
+#~ "website or blog to encourage visitors to your site to download Firefox. When"
+#~ " a visitor to your site clicks on a button on your site and visits the "
+#~ "Firefox download page, you get credit for that click."
+#~ msgstr ""
+#~ "Firefox 夥伴按鈕是一些可以讓您貼到網頁或部落格上的 HTML 代碼以鼓勵您網站的使用者下載 Firefox。當使用者到了您的網站點下按鈕下載 "
+#~ "Firefox 後，您就會拿到該點積分。"
+
+#~ msgid "Zip or Postal Code"
+#~ msgstr "郵遞區號"
+
+#~ msgid "New"
+#~ msgstr "新增"
+
+#~ msgid "BrowserID is here!"
+#~ msgstr "BrowserID 來了！"
+
+#~ msgid ""
+#~ "Firefox Affiliates has switched to <a "
+#~ "href=\"%(browserid_url)s\">BrowserID</a>. If you previously had an account, "
+#~ "use the login button below and sign up for BrowserID with the same email "
+#~ "address you used for signing up with Firefox Affiliates."
+#~ msgstr ""
+#~ "Firefox 伙伴計劃已經開始使用 <a href=\"%(browserid_url)s\">BrowserID</a> "
+#~ "作為登入機制。若您先前已經註冊了帳號，請使用下列登入按鈕註冊一個與您先前註冊的電子郵件相同的 BrowserID。"
+
+#~ msgid "Log In &raquo;"
+#~ msgstr "登入 &raquo;"
+
+#~ msgid ""
+#~ "Want to be a Firefox Affiliate? Sign up using BrowserID by clicking the "
+#~ "registration button below."
+#~ msgstr "想要成為 Firefox 的好伙伴嗎？請點下下列按鈕透過 BrowserID 註冊一個帳號。"
+
+#~ msgid "I love Firefox because &hellip;"
+#~ msgstr "我喜歡 Firefox，因為&hellip;"
+
+#~ msgid "Your current standing"
+#~ msgstr "您目前的名次"
+
+#~ msgid "Position"
+#~ msgstr "位置"
+
+#~ msgid ""
+#~ "Do you already have an account from affiliates.mozilla.org? You can link "
+#~ "your account to this application and you'll get credit for any clicks that "
+#~ "you drive through Facebook. To connect your account, just click here and "
+#~ "fill in your infomation. We'll send you an email to confirm. If you'd like "
+#~ "to sign up for an account, just visit <a "
+#~ "href=\"%(link)s\">affiliates.mozilla.org</a>."
+#~ msgstr ""
+#~ "您已經在 affiliates.mozilla.org 有帳號了嗎？您可以將帳號鏈結到此應用程式，這樣就可以得到來自 Facebook "
+#~ "的積分。若您想要鏈結帳號，請點下這裡並填寫您的資訊。我們將會發出確認信通知您。若您想要註冊帳號，請到 <a "
+#~ "href=\"%(link)s\">affiliates.mozilla.org</a> 註冊。"
+
+#~ msgid "Share you banner with friends."
+#~ msgstr "與朋友分享您的橫幅。"
+
+#~ msgid "Firefox is different by design. It's fast, flexible and secure."
+#~ msgstr "Firefox 從設計開始就與眾不同。超快、超靈活、超安全。"
+
+#~ msgid "Download Firefox or Firefox for Android today."
+#~ msgstr "今天就下載 Android 版 Firefox。"
+
+#~ msgid "Whoops! What are you doing here?"
+#~ msgstr "嘿！您在這裡做什麼？"
+
+#~ msgid "Is there a prize for getting the most clicks?"
+#~ msgstr "有最多點擊次數的人有什麼獎品嗎？"
+
+#~ msgid "Your Email Address"
+#~ msgstr "您的電子郵件地址"
+
+#~ msgid "Create a New Banner &raquo;"
+#~ msgstr "建立新橫幅 &raquo;"
+
+#~ msgid "The Firefox Affiliates Team"
+#~ msgstr "Firefox 夥伴計畫團隊"
+
+#~ msgid ""
+#~ "If you followed a link, it's probably broken. Please contact us and we'll "
+#~ "fix it."
+#~ msgstr "若您點了某個鏈結，也許有東西壞掉了。請 <a href=\"mailto:%(email)s\">聯絡我們</a>，我們會修正它。"
+
+#~ msgid "CREATE A NEW BANNER"
+#~ msgstr "建立新橫幅"
+
+#~ msgid "ABOUT AFFILIATES"
+#~ msgstr "關於夥伴計畫"
+
+#~ msgid "skip to navigation"
+#~ msgstr "跳到導覽列"
+
+#~ msgid "switch language"
+#~ msgstr "切換語言"
+
+#~ msgid "DOWNLOADS"
+#~ msgstr "下載"
+
+#~ msgid "DOWNLOADS:"
+#~ msgstr "下載次數："
+
+#~ msgid "Directions"
+#~ msgstr "方法"
+
+#~ msgid ""
+#~ "Copy the code below and paste it anywhere on your website or blog to link to"
+#~ " the Firefox download page. Your Firefox Affiliates ID is embedded in this "
+#~ "code."
+#~ msgstr "請將下面的代碼複製並貼到您網頁或部落格的任何地方以鏈結到 Firefox 下載頁面。您的 Firefox 夥伴 ID 已經嵌入於代碼當中。"
+
+#~ msgid "Locale"
+#~ msgstr "語系"
+
+#~ msgid "<span>1</span>PICK A CATEGORY"
+#~ msgstr "<span>1</span> 挑選分類"
+
+#~ msgid "<span>2</span>PICK A BANNER"
+#~ msgstr "<span>2</span> 挑選橫幅"
+
+#~ msgid "<span>3</span>CONFIGURE &amp; POST"
+#~ msgstr "<span>3</span> 設定並轉貼"
+
+#~ msgid "name"
+#~ msgstr "名稱"
+
+#~ msgid "image size"
+#~ msgstr "圖片尺寸"
+
+#~ msgid "image color"
+#~ msgstr "圖片顏色"
+
+#~ msgid "image file"
+#~ msgstr "圖片檔案"
+
+#~ msgid "Receive emails"
+#~ msgstr "接收電子郵件"
+
+#~ msgid "Copy Code to Clipboard &raquo;"
+#~ msgstr "將代碼複製到剪貼簿 &raquo;"
+
+#~ msgid "Username not available"
+#~ msgstr "無法使用此使用者名稱"
+
+#~ msgid ""
+#~ "Password must be 8 characters or longer and include at least one Latin "
+#~ "letter and one number."
+#~ msgstr "密碼必須至少有八字元以上，並且至少包含拉丁字母與數字各一個。"
+
+#~ msgid "TOP 5 AFFILIATES WITH THE MOST DOWNLOADS"
+#~ msgstr "前五名有最多下載數的夥伴"
+
+#~ msgid ""
+#~ "Check out how many people are downloading Firefox. Where are you on the "
+#~ "leaderboard? Leaderboard statistics are updated at midnight PT each day."
+#~ msgstr "看看有多少人正在下載 Firefox。您在領先名單當中的哪裡？領先名單的統計資料將會於美洲太平洋時間每天午夜更新。"
+
+#~ msgid "{{ size }} pixels"
+#~ msgstr "{{ size }} 像素"
+
+#~ msgid "New password"
+#~ msgstr "新密碼"
+
+#~ msgid "Confirm password"
+#~ msgstr "確認密碼"
+
+#~ msgid "Passwords do not match."
+#~ msgstr "密碼不一樣。"
+
+#~ msgid "Field is too long."
+#~ msgstr "欄位太長。"
+
+#~ msgid "Name"
+#~ msgstr "姓名"
+
+#~ msgid "Please activate your account"
+#~ msgstr "請啟用您的帳號"
+
+#~ msgid "Activation Key"
+#~ msgstr "啟用金鑰"
+
+#~ msgid ""
+#~ "We've just sent you an email with your password to: <span>%(email)s <a "
+#~ "href=\"%(homepage)s\">(Change)</a></span>"
+#~ msgstr ""
+#~ "我們剛寄了一封包含您的密碼的電子郵件到：<span>%(email)s <a href=\"%(homepage)s\">(更改)</a></span>"
+
+#~ msgid "Username or password incorrect."
+#~ msgstr "使用者名稱或密碼不正確。"
+
+#~ msgid "FULL NAME"
+#~ msgstr "全名"
+
+#~ msgid "EMAIL"
+#~ msgstr "電子郵件"
+
+#~ msgid "Your full name"
+#~ msgstr "您的姓名"
+
+#~ msgid "CHANGE YOUR AVATAR"
+#~ msgstr "修改您的頭像"
+
+#~ msgid "Browse &raquo;"
+#~ msgstr "瀏覽 &raquo;"
+
+#~ msgid "Upload &raquo;"
+#~ msgstr "上傳 &raquo;"
+
+#~ msgid "Enable Avatars"
+#~ msgstr "啟用頭像"
+
+#~ msgid "John Doe"
+#~ msgstr "張三"
+
+#~ msgid ""
+#~ "You may filter results by selecting a specific month using the calendar "
+#~ "above."
+#~ msgstr "您可以透過上面的月曆選擇特定的月份進行篩選。"
+
+#~ msgid "What are you doing there?"
+#~ msgstr "您在這裡做什麼？"
+
+#~ msgid ""
+#~ "If you’re not sure what you’re looking for, start at <a "
+#~ "href=\"http://mozilla.org\">mozilla.org</a>."
+#~ msgstr "若您不知道您要看什麼，請回到 <a href=\"http://mozilla.org\">mozilla.org</a> 看看。"

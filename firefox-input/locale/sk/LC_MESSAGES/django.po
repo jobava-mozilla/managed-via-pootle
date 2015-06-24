@@ -1,0 +1,1783 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REPORTER 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-15 07:48-0700\n"
+"PO-Revision-Date: 2015-01-17 13:50+0000\n"
+"Last-Translator: Branislav <rozbora@mozilla.sk>\n"
+"Language-Team: Mozilla.sk <l10n@mozilla.sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1421502649.0\n"
+
+#: fjord/analytics/helpers.py:10 fjord/analytics/views.py:360 fjord/base/helpers.py:106 fjord/feedback/helpers.py:9
+msgid "Unknown"
+msgstr "Neznáme"
+
+#: fjord/analytics/views.py:123
+msgid "Firefox Input: {query}"
+msgstr "Firefox Input: {query}"
+
+#: fjord/analytics/views.py:125 fjord/analytics/views.py:139 fjord/base/templates/500.html:8 fjord/base/templates/base.html:5 fjord/base/templates/mobile/base.html:4
+msgid "Firefox Input"
+msgstr "Firefox Input"
+
+#: fjord/analytics/views.py:138
+msgid "Search Results From Firefox Input"
+msgstr "Výsledky vyhľadávania z Firefox Input"
+
+#: fjord/analytics/views.py:143 fjord/analytics/views.py:367 fjord/analytics/views.py:435 fjord/analytics/templates/analytics/dashboard.html:13 fjord/analytics/templates/analytics/response.html:29
+#: fjord/analytics/templates/analytics/mobile/response.html:18 fjord/feedback/models.py:344
+msgid "Happy"
+msgstr "Šťastní"
+
+#: fjord/analytics/views.py:143 fjord/analytics/views.py:367 fjord/analytics/views.py:437 fjord/analytics/templates/analytics/dashboard.html:15 fjord/analytics/templates/analytics/response.html:31
+#: fjord/analytics/templates/analytics/mobile/response.html:20 fjord/feedback/models.py:345
+msgid "Sad"
+msgstr "Smutní"
+
+#: fjord/analytics/views.py:153 fjord/analytics/templates/analytics/response.html:24 fjord/analytics/templates/analytics/mobile/response.html:13
+msgid "Response id: {id}"
+msgstr "ID odpovede: {id}"
+
+#: fjord/analytics/views.py:281
+msgid "Bigram"
+msgstr "Bigram"
+
+#: fjord/analytics/views.py:366
+msgid "Sentiment"
+msgstr "Pocit"
+
+#: fjord/analytics/views.py:373 fjord/analytics/templates/analytics/response.html:111
+msgid "Product"
+msgstr "Produkt"
+
+#: fjord/analytics/views.py:384 fjord/analytics/views.py:390 fjord/analytics/templates/analytics/response.html:115
+msgid "Version"
+msgstr "Verzia"
+
+#: fjord/analytics/views.py:391
+msgid "Select product to see version breakdown"
+msgstr "Vyberte produkt, pre ktorý chcete zobraziť rozpis verzií"
+
+#: fjord/analytics/views.py:399 fjord/analytics/templates/analytics/response.html:99
+msgid "Platform"
+msgstr "Platforma"
+
+#: fjord/analytics/views.py:405 fjord/analytics/templates/analytics/response.html:105
+msgid "Locale"
+msgstr "Jazyk"
+
+#: fjord/analytics/templates/analytics/dashboard.html:7
+msgid "Atom feed for this search"
+msgstr "Kanál ATOM pre toto hľadanie"
+
+#: fjord/analytics/templates/analytics/dashboard.html:45 fjord/analytics/templates/analytics/analyzer/search.html:78 fjord/analytics/templates/analytics/mobile/response.html:40
+msgid "Permalink"
+msgstr "Permanentný odkaz"
+
+#: fjord/analytics/templates/analytics/dashboard.html:100
+msgid "When"
+msgstr "Kedy"
+
+#. Short for 1 day.
+#: fjord/analytics/templates/analytics/dashboard.html:102
+msgid "1d"
+msgstr "1 deň"
+
+#. Short for 7 days.
+#: fjord/analytics/templates/analytics/dashboard.html:104
+msgid "7d"
+msgstr "7 dní"
+
+#. Short for 30 days.
+#: fjord/analytics/templates/analytics/dashboard.html:106
+msgid "30d"
+msgstr "30 dní"
+
+#. Short for 90 days.
+#: fjord/analytics/templates/analytics/dashboard.html:108
+msgid "90d"
+msgstr "90 dní"
+
+#: fjord/analytics/templates/analytics/dashboard.html:110
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: fjord/analytics/templates/analytics/dashboard.html:114
+msgid "Start"
+msgstr "Začiatok"
+
+#: fjord/analytics/templates/analytics/dashboard.html:116
+msgid "End"
+msgstr "Koniec"
+
+#: fjord/analytics/templates/analytics/dashboard.html:117
+msgid "Set"
+msgstr "Nastaviť"
+
+#: fjord/analytics/templates/analytics/dashboard.html:136
+msgid "Note: All dates and times are in Pacific Time."
+msgstr "Poznámka: všetky dátumy a časy používajú Pacifický čas."
+
+#: fjord/analytics/templates/analytics/dashboard.html:141
+msgid "Feedback"
+msgstr "Spätná väzba"
+
+#: fjord/analytics/templates/analytics/dashboard.html:145
+msgid "Search by keyword"
+msgstr "Hľadať podľa kľúčového slova"
+
+#: fjord/analytics/templates/analytics/dashboard.html:163
+msgid "No feedback matches that criteria."
+msgstr "Žiadna spätná väzba nezodpovedá zadaným kritériám."
+
+#: fjord/analytics/templates/analytics/dashboard.html:169
+msgid "Older Messages"
+msgstr "Staršie správy"
+
+#: fjord/analytics/templates/analytics/dashboard.html:174
+msgid "Newer Messages"
+msgstr "Novšie správy"
+
+#: fjord/analytics/templates/analytics/dashboard.html:185
+msgid "Messages in specified time range"
+msgstr "Správy v zadanom období"
+
+#: fjord/analytics/templates/analytics/es_down.html:12
+msgid "Dashboard unavailable"
+msgstr "Nástenka nie je dostupná"
+
+#: fjord/analytics/templates/analytics/es_down.html:14
+msgid "Dashboard is currently unavailable. Please try again in 10 minutes."
+msgstr "Nástenka aktuálne nie je dostupná. Skúste to o 10 minút."
+
+#: fjord/analytics/templates/analytics/response.html:45
+msgid "Category"
+msgstr "Kategória"
+
+#: fjord/analytics/templates/analytics/response.html:47 fjord/analytics/templates/analytics/response.html:125 fjord/analytics/templates/analytics/response.html:129
+#: fjord/analytics/templates/analytics/response.html:133 fjord/analytics/templates/analytics/response.html:137 fjord/analytics/templates/analytics/response.html:141
+#: fjord/analytics/templates/analytics/response.html:145
+msgid "None"
+msgstr "Žiadny"
+
+#: fjord/analytics/templates/analytics/response.html:49
+msgid "Description"
+msgstr "Popis"
+
+#: fjord/analytics/templates/analytics/response.html:53
+msgid "Translated"
+msgstr "Preložené"
+
+#: fjord/analytics/templates/analytics/response.html:64
+msgid "Translate (machine)"
+msgstr "Preložiť (strojovo)"
+
+#: fjord/analytics/templates/analytics/response.html:70
+msgid "Translate (human)"
+msgstr "Preložiť (človek)"
+
+#: fjord/analytics/templates/analytics/response.html:85
+msgid "Created"
+msgstr "Vytvorené"
+
+#: fjord/analytics/templates/analytics/response.html:119
+msgid "Channel"
+msgstr "Kanál"
+
+#: fjord/analytics/templates/analytics/response.html:123
+msgid "URL Domain"
+msgstr "URL adresa domény"
+
+#: fjord/analytics/templates/analytics/response.html:127
+msgid "Source"
+msgstr "Zdroj"
+
+#: fjord/analytics/templates/analytics/response.html:131
+msgid "Campaign"
+msgstr "Kampaň"
+
+#: fjord/analytics/templates/analytics/response.html:135
+msgid "Browser"
+msgstr "Prehliadač"
+
+#: fjord/analytics/templates/analytics/response.html:139
+msgid "Browser Ver."
+msgstr "Verzia prehliadača"
+
+#: fjord/analytics/templates/analytics/response.html:143
+msgid "Browser Plat."
+msgstr "Platforma prehliadača"
+
+#: fjord/analytics/templates/analytics/response.html:151
+msgid "Full URL"
+msgstr "Celá URL adresa"
+
+#: fjord/analytics/templates/analytics/response.html:155 fjord/feedback/templates/feedback/fxos_feedback.html:94
+msgid "Country"
+msgstr "Krajina"
+
+#: fjord/analytics/templates/analytics/response.html:159
+msgid "Manufacturer"
+msgstr "Výrobca"
+
+#: fjord/analytics/templates/analytics/response.html:163 fjord/feedback/templates/feedback/fxos_feedback.html:116
+msgid "Device"
+msgstr "Zariadenie"
+
+#: fjord/analytics/templates/analytics/response.html:167
+msgid "User agent"
+msgstr "Identifikácia prehliadača"
+
+#: fjord/analytics/templates/analytics/response.html:171
+msgid "Email"
+msgstr "E-mail"
+
+#: fjord/analytics/templates/analytics/response.html:179
+msgid "Browser data"
+msgstr "Údaje prehliadača"
+
+#: fjord/analytics/templates/analytics/response.html:182
+msgid "yes"
+msgstr "áno"
+
+#: fjord/analytics/templates/analytics/response.html:187
+msgid "API version"
+msgstr "Verzia API"
+
+#: fjord/analytics/templates/analytics/response.html:205
+msgid "Context"
+msgstr "Kontext"
+
+#: fjord/analytics/templates/analytics/mobile/dashboard.html:4
+msgid "Dashboard is not available on mobile devices, yet."
+msgstr "Nástenka zatiaľ nie je dostupná pre mobilné zariadenia."
+
+#: fjord/base/models.py:55
+msgid "JSON Object"
+msgstr "Objekt JSON"
+
+#: fjord/base/templates/403.html:3 fjord/base/templates/403.html:9
+msgid "Forbidden"
+msgstr "Zamietnuté"
+
+#: fjord/base/templates/403.html:12
+msgid "You do not have access to this page."
+msgstr "Na túto stránku nemáte prístup."
+
+#: fjord/base/templates/403.html:14
+msgid "You do not have access to this page. If you have an account, try signing in."
+msgstr "Na túto stránku nemáte prístup. Ak máte účet skúste sa prihlásiť."
+
+#: fjord/base/templates/403.html:18 fjord/base/templates/404.html:14 fjord/base/templates/500.html:35 fjord/base/templates/includes/login_failure_text.html:8
+msgid "Return to the dashboard."
+msgstr "Späť na nástenku"
+
+#: fjord/base/templates/404.html:3 fjord/base/templates/404.html:9
+msgid "Not Found"
+msgstr "Nebolo nájdené"
+
+#: fjord/base/templates/404.html:11
+msgid "The document could not be found."
+msgstr "Dokument nebol nájdený."
+
+#: fjord/base/templates/500.html:8
+msgid "Something has gone horribly wrong"
+msgstr "Niečo nefunguje dobre"
+
+#: fjord/base/templates/500.html:19 fjord/base/templates/base.html:44 fjord/base/templates/mobile/base.html:29
+msgid "<strong>Firefox</strong> Input"
+msgstr "<strong>Firefox</strong> Input"
+
+#: fjord/base/templates/500.html:25 fjord/base/templates/base.html:50 fjord/base/templates/mobile/base.html:35
+msgid "Dashboard"
+msgstr "Nástenka názorov"
+
+#: fjord/base/templates/500.html:33
+msgid "Something has gone horribly wrong."
+msgstr "Niečo nefunguje dobre."
+
+#: fjord/base/templates/500.html:34
+msgid "There was a problem on the server."
+msgstr "Na serveri nastal problém."
+
+#: fjord/base/templates/about.html:3 fjord/base/templates/includes/common.html:23
+msgid "About Firefox Input"
+msgstr "O aplikácii Firefox Input"
+
+#: fjord/base/templates/about.html:9
+msgid "Hello!"
+msgstr "Vitajte!"
+
+#: fjord/base/templates/about.html:11
+msgid ""
+"Firefox Input is Mozilla's primary feedback mechanism for products. It is set up to be a method of one-way communication about your experiences in using our products, the Internet you view it "
+"through, and what Mozilla can do to make that experience better. The system is available over a wide-variety of submission mechanisms and product builds."
+msgstr ""
+"Firefox Input je hlavný mechanizmus pre zber reakcií k produktom Mozilla. Je vytvorený pre jednostrannú komunikáciu o vašich zážitkoch pri používaní našich produktov, webových stránkach, ktoré cez "
+"ne navštevujete a o tom, čo môže Mozilla spraviť pre to, aby boli tieto zážitky ešte lepšie. Systém je dostupný pre širokú radu foriem odosielania reakcií k jednotlivým zostaveniam každého produktu."
+
+#: fjord/base/templates/about.html:21
+msgid "To submit feedback for a Mozilla product, please go to <a href=\"%(url)s\">the feedback submission page</a>!"
+msgstr "Ak chcete odoslať názor k produktu Mozilly, prejdite na <a href=\"%(url)s\">stránku odosielania názorov</a>!"
+
+#: fjord/base/templates/about.html:27 fjord/base/templates/includes/common.html:20
+msgid "Privacy Policy"
+msgstr "Zásady ochrany súkromia"
+
+#: fjord/base/templates/about.html:29
+msgid "We adhere to the <a href=\"%(url)s\">Mozilla Privacy Policy</a>."
+msgstr "Dodržujeme <a href=\"%(url)s\">Zásady ochrany súkromia Mozilly</a>."
+
+#: fjord/base/templates/about.html:34
+msgid "Legal Disclaimers and Limitations"
+msgstr "Právne prehlásenia a obmedzenia"
+
+#: fjord/base/templates/about.html:36
+msgid "We are covered by the <a href=\"%(url)s\">Mozilla legal disclaimers and limitations</a> document."
+msgstr "Na túto službu sa vzťahujú <a href=\"%(url)s\">Právne podmienky Mozilly a obmedzenia podľa tohoto dokumentu</a>."
+
+#: fjord/base/templates/about.html:42
+msgid "Data Retention Policy"
+msgstr "Zásady uchovávania údajov"
+
+#: fjord/base/templates/about.html:44
+msgid "We have a data retention policy that covers data stored on this site:"
+msgstr "Máme tiež zásady pre uchovávanie údajov, ktoré sú na tejto stránke ukladané:"
+
+#: fjord/base/templates/about.html:51
+msgid "We keep feedback data forever, but only the last 6 months of data is available on the public dashboard."
+msgstr "Údaje týkajúce sa reakcií uchovávame natrvalo, ale na verejnej nástenke sú dostupné údaje len za posledných 6 mesiacov."
+
+#: fjord/base/templates/about.html:57
+msgid "We keep email addresses and contextual data associated with feedback data for 6 months and then delete it."
+msgstr "E-mailové adresy a kontextové informácie pridružené k spätnej väzbe uchovávame 6 mesiacov a následne ich vymazávame."
+
+#: fjord/base/templates/about.html:64
+msgid "Open Data"
+msgstr "Otvorené údaje"
+
+#: fjord/base/templates/about.html:66
+msgid ""
+"We'd love to experiment more with this data, but we're only a few people. So, we need requests from you on questions you'd like to see answered! If you would like to experiment with our data, "
+"please contact us!"
+msgstr ""
+"Chceli by sme, aby sme sa týmito údajmi mohli zaoberať viac, ale je nás len pár. Dajte nám preto vedieť, na ktoré otázky by ste radi videli odpovede. Ak aj vy chcete pracovať s týmito údajmi, "
+"kontaktujte nás."
+
+#: fjord/base/templates/about.html:74
+msgid "Source Code"
+msgstr "Zdrojový kód"
+
+#: fjord/base/templates/about.html:76
+msgid "The code for the Firefox Input site can be <a href=\"%(url)s\">found on GitHub</a>!"
+msgstr "Zdrojový kód webovej aplikácie Firefox Input je možné nájsť v <a href=\"%(url)s\">repozitároch servera GitHub</a>!"
+
+#: fjord/base/templates/base.html:5 fjord/base/templates/mobile/base.html:4
+msgid "Welcome"
+msgstr "Vitajte"
+
+#: fjord/base/templates/base.html:32 fjord/base/templates/mobile/base.html:21
+msgid "Proceed to main content"
+msgstr "Pokračovať na hlavný obsah"
+
+#: fjord/base/templates/base.html:33 fjord/base/templates/mobile/base.html:22
+msgid "Proceed to footer"
+msgstr "Pokračovať na pätu"
+
+#: fjord/base/templates/base.html:51
+msgid "Give Feedback"
+msgstr "Poskytnúť spätnú väzbu"
+
+#: fjord/base/templates/base.html:53
+msgid "Analytics"
+msgstr "Analytika"
+
+#: fjord/base/templates/base.html:59
+msgid "Hello, {username}"
+msgstr "Vitajte, {username}"
+
+#: fjord/base/templates/base.html:63
+msgid "Sign out"
+msgstr "Odhlásiť"
+
+#: fjord/base/templates/base.html:65
+msgid "Sign in"
+msgstr "Prihlásiť"
+
+#: fjord/base/templates/csrf_failure.html:3 fjord/base/templates/includes/csrf_failure_text.html:1 fjord/base/templates/mobile/csrf_failure.html:3
+msgid "CSRF Failure"
+msgstr "Zlyhanie CSRF"
+
+#: fjord/base/templates/login_failure.html:3 fjord/base/templates/includes/login_failure_text.html:1 fjord/base/templates/mobile/login_failure.html:3
+msgid "Login Failure"
+msgstr "Prihlásenie zlyhalo"
+
+#: fjord/base/templates/new_user.html:3 fjord/base/templates/mobile/new_user.html:3
+msgid "Welcome to Input!"
+msgstr "Vitajte v Input!"
+
+#: fjord/base/templates/includes/common.html:7
+msgid "Other languages:"
+msgstr "Ďalšie jazyky:"
+
+#: fjord/base/templates/includes/common.html:15
+msgid "Go"
+msgstr "Prejsť"
+
+#: fjord/base/templates/includes/common.html:21
+msgid "Legal Notices"
+msgstr "Právne informácie"
+
+#: fjord/base/templates/includes/common.html:22
+msgid "Report Trademark Abuse"
+msgstr "Nahlásiť zneužitie ochrannej známky"
+
+#: fjord/base/templates/includes/common.html:26
+#, fuzzy
+msgid ""
+"Except where otherwise <a href=\"%(legal_url)s\">noted</a>, content on this site is licensed under the <a href=\"%(license_url)s\">Creative Commons Attribution Share-Alike License v3.0</a> or any "
+"later version."
+msgstr ""
+"Ak nie je <a href=\"%(legal_url)s\">uvedené</a> inak, obsah tejto stránky je vedený pod licenciou<br/><a href=\"%(license_url)s\">Creative Commons Attribution Share-Alike License v3.0</a> alebo "
+"ktorejkoľvek vyššej verzie."
+
+#: fjord/base/templates/includes/csrf_failure_text.html:3
+msgid "Your submission failed a security check on our system."
+msgstr "Vaše odoslanie neprešlo bezpečnostnou kontrolou nášho systému."
+
+#: fjord/base/templates/includes/csrf_failure_text.html:8
+msgid "Please make sure you have cookies enabled, press the Back button in your browser, refresh the page, fill out the form, and try submitting your feedback again."
+msgstr "Uistite sa prosím, či máte povolené cookies. Následne kliknite na tlačidlo Späť vo vašom prehliadači, obnovte stránku, vyplňte formulár a pokúste sa reakciu odoslať znova."
+
+#: fjord/base/templates/includes/login_failure_text.html:3
+msgid "You've failed to authenticate with Persona. Please try again."
+msgstr "Overenie pomocou služby Persona nebolo úspešné. Vyskúšajte to prosím znovu."
+
+#: fjord/base/templates/includes/new_user_text.html:1
+msgid "Welcome!"
+msgstr "Vitajte!"
+
+#: fjord/base/templates/includes/new_user_text.html:3
+msgid "The identity you just logged in to Persona with ties you to your account on Input. Please remember which Persona identity you used."
+msgstr "Účet Persona, cez ktorý ste sa práve prihlásili vás spája s účtom cez ktorý máte povolenie vstúpiť sem na Input. Zapamätajte si prosím, ktorý účet ste použili."
+
+#: fjord/base/templates/includes/new_user_text.html:10
+msgid "Continue"
+msgstr "Pokračovať"
+
+#: fjord/feedback/config.py:10
+msgid "Colombia"
+msgstr "Kolumbia"
+
+#: fjord/feedback/config.py:11
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: fjord/feedback/config.py:12
+msgid "Poland"
+msgstr "Poľsko"
+
+#: fjord/feedback/config.py:13
+msgid "Spain"
+msgstr "Španielsko"
+
+#: fjord/feedback/config.py:14
+msgid "Brazil"
+msgstr "Brazília"
+
+#: fjord/feedback/config.py:15
+msgid "Germany"
+msgstr "Nemecko"
+
+#: fjord/feedback/config.py:16
+msgid "Greece"
+msgstr "Grécko"
+
+#: fjord/feedback/config.py:17
+msgid "Hungary"
+msgstr "Maďarsko"
+
+#: fjord/feedback/config.py:18
+msgid "Serbia"
+msgstr "Srbsko"
+
+#: fjord/feedback/config.py:19
+msgid "Montenegro"
+msgstr "Čierna Hora"
+
+#: fjord/feedback/config.py:20
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: fjord/feedback/config.py:21
+msgid "Peru"
+msgstr "Peru"
+
+#: fjord/feedback/config.py:22
+msgid "Uruguay"
+msgstr "Uruguaj"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:10 fjord/feedback/templates/feedback/mobile/download_firefox.html:7
+msgid "Download Firefox"
+msgstr "Prevziať Firefox"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:16
+msgid "Please Download Firefox"
+msgstr "Nainštalujte si Firefox"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:21 fjord/feedback/templates/feedback/mobile/download_firefox.html:21
+msgid "Oh! So, you want to offer us feedback on Firefox. Thank you, but you'll need to be on the latest version."
+msgstr "Oh! Chcete nám napísať názor na prehliadač Firefox? Ďakujeme, ale musíte používať jeho najnovšiu verziu."
+
+#: fjord/feedback/templates/feedback/download_firefox.html:27 fjord/feedback/templates/feedback/mobile/download_firefox.html:27
+msgid "To do that, simply go to our download page and install/update to the <a href=\"%(url)s\">latest version of Firefox!</a>"
+msgstr "Ak tak chcete urobiť, jednoducho prejdite na stránku Na prevzatie a nainštalujte si alebo aktualizujte na <a href=\"%(url)s\">najnovšiu verziu Firefoxu</a>."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:7 fjord/feedback/templates/feedback/generic_feedback.html:7
+msgid "Submit Your Feedback"
+msgstr "Povedzte nám Váš názor"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:31 fjord/feedback/templates/feedback/generic_feedback.html:32
+msgid "{product} feedback"
+msgstr "Odoslať názor k aplikácií {product}"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:36 fjord/feedback/templates/feedback/generic_feedback.html:37 fjord/feedback/templates/feedback/picker.html:28
+msgid "JavaScript is required to leave feedback. Please enable JavaScript in your browser and refresh this page."
+msgstr "Pre odoslanie spätnej väzby je potrebný JavaScript. Prosím povoľte JavaScript na svojom prehliadači a obnovte túto stránku."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:43
+msgid "Your feedback helps us improve Firefox OS."
+msgstr "Vaša spätná väzba nám pomáha vylepšiť Firefox OS."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:58 fjord/feedback/templates/feedback/generic_feedback.html:60
+msgid "%(product)s makes me happy"
+msgstr "Som šťastný, keď používam %(product)s"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:75 fjord/feedback/templates/feedback/generic_feedback.html:77
+msgid "%(product)s makes me sad"
+msgstr "%(product)s ma sklamal"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:84 fjord/feedback/templates/feedback/generic_feedback.html:86
+msgid "Is %(product)s not the product you want to give feedback on?<br /> <a href=\"%(url)s\">Pick a different product</a>."
+msgstr "Nie je %(product)s produktom, pre ktorý chcete spätnú väzbu odoslať?<br /> <a href=\"%(url)s\">Vyberte iný</a>."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:98
+msgid "In what country did you purchase your Firefox OS device?"
+msgstr "V ktorej krajine ste si kúpili vaše zariadenie s Firefox OS?"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:106 fjord/feedback/templates/feedback/fxos_feedback.html:128
+msgid "Other"
+msgstr "Iný"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:110 fjord/feedback/templates/feedback/fxos_feedback.html:132
+msgid "Next"
+msgstr "Ďalej"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:120
+msgid "What Firefox OS device are you using?"
+msgstr "Aké zariadenie s Firefox OS používate?"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:137 fjord/feedback/templates/feedback/generic_feedback.html:95
+msgid "Details"
+msgstr "Detaily"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:142 fjord/feedback/templates/feedback/generic_feedback.html:100
+msgid "Please describe what you like. The content of your feedback will be public, so please be sure not to include personal information such as email address, passwords or phone number."
+msgstr "Popíšte prosím, čo potrebujete. Obsah vašej reakcie bude verejne prístupný, takže neuvádzajte žiadne osobné informácie ako sú e-mailová adresa, heslá ani telefónne číslo."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:150 fjord/feedback/templates/feedback/generic_feedback.html:108
+msgid ""
+"Please describe your problem below and be as specific as you can. The content of your feedback will be public, so please be sure not to include personal information such as email address, passwords "
+"or phone number."
+msgstr ""
+"Popíšte prosím svoj problém čo najpodrobnejšie ako len dokážete. Obsah vašej reakcie bude verejne prístupný, takže neuvádzajte žiadne osobné informácie ako sú e-mailová adresa, heslá ani telefónne "
+"číslo."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:167 fjord/feedback/templates/feedback/generic_feedback.html:125
+msgid "If your feedback is related to a website, you can include it here:"
+msgstr "Ak sa Váš komentár týka nejakej konkrétnej webovej stránky, môžete ju zadať tu:"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:181 fjord/feedback/templates/feedback/generic_feedback.html:156
+msgid "(Optional) Check here to let us contact you to follow up on your feedback. Your email address will be kept private."
+msgstr "(Nepovinné) Označte, ak si želáte, aby sme Vás mohli kontaktovať. Vaša e-mailová adresa ostane skrytá."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:192
+msgid "Please enter a valid email address."
+msgstr "Zadajte prosím platnú e-mailovú adresu."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:198 fjord/feedback/templates/feedback/generic_feedback.html:170
+msgid "Submit"
+msgstr "Odoslať"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:204
+msgid "Submitting...."
+msgstr "Prebieha odosielanie..."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:212
+msgid "Success!"
+msgstr "Úspech!"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:216
+msgid "Thank you for your feedback! We will use it to help us create a better experience in future versions of Firefox OS."
+msgstr "Ďakujeme za reakciu. Vaše názory budú využité pri vytváraní budúcich verzií Firefox OS."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:222
+msgid "Learn how you can <a href=\"%(url)s\">make Firefox OS and Mozilla better</a>."
+msgstr "Prečítajte si, ako môžete <a href=\"%(url)s\">urobiť Firefox OS a Mozillu lepšími</a>."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:231
+msgid "We're sorry!"
+msgstr "Ospravedlňujeme sa!"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:234
+msgid "Something has happened and we can't submit your feedback. Feedback will be saved on your device so you can try sending it again later."
+msgstr "Niečo nie je v poriadku a vašu reakciu nemožno odoslať. Vaša reakcia bude uložená vo vašom zariadení a vy ju budete mať možnosť odoslať neskôr."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:240 fjord/feedback/templates/feedback/fxos_feedback.html:246 fjord/feedback/templates/feedback/fxos_feedback.html:255
+msgid "Try again"
+msgstr "Skúsiť znova"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:241 fjord/feedback/templates/feedback/fxos_feedback.html:256
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:249
+msgid "You have unsubmitted feedback data. Would you like to try submitting it again?"
+msgstr "Vo vašom zariadení sa nachádzajú neodoslané reakcie. Chcete ich skúsiť znovu odoslať?"
+
+#: fjord/feedback/templates/feedback/generic_feedback.html:43
+msgid "How does %(product)s make you feel?"
+msgstr "Aký máte pocit z produktu %(product)s?"
+
+#: fjord/feedback/templates/feedback/generic_feedback.html:140
+msgid ""
+"Check here to provide technical information about your browser. This information helps us better understand our users and create better products. This information will be kept in accordance with "
+"our Privacy policy."
+msgstr ""
+"(Voliteľné) Poskytnite technické informácie o svojom prehliadači. Táto informácia nám pomôže lepšie porozumieť našim používateľom a vytvárať tak lepšie produkty. Údaje budú uložené a spracované v "
+"súlade s našimi Zásadami ochrany súkromia."
+
+#: fjord/feedback/templates/feedback/picker.html:3
+msgid "Select A Product"
+msgstr "Vyberte produkt"
+
+#: fjord/feedback/templates/feedback/picker.html:14
+msgid "Select a product"
+msgstr "Vyberte produkt"
+
+#: fjord/feedback/templates/feedback/picker.html:23
+msgid "No products available."
+msgstr "Žiadne produkty nie sú dostupné."
+
+#: fjord/feedback/templates/feedback/picker.html:34
+msgid "Select a product to leave feedback for."
+msgstr "Vyberte produkt pre odoslanie spätnej reakcie."
+
+#: fjord/feedback/templates/feedback/thanks.html:3 fjord/feedback/templates/feedback/thanks_l10nized.html:3
+msgid "Thanks"
+msgstr "Ďakujeme"
+
+#: fjord/feedback/templates/feedback/thanks.html:16 fjord/feedback/templates/feedback/thanks_l10nized.html:16
+msgid "Thanks for Your Feedback"
+msgstr "Ďakujeme za Váš názor"
+
+#: fjord/feedback/templates/feedback/thanks.html:25
+msgid "Your feedback will be used to create a better experience in future releases of Firefox."
+msgstr "Vaše názory budú využité pri vytváraní budúcich verzií prehliadača Firefox."
+
+#: fjord/feedback/templates/feedback/thanks.html:33 fjord/feedback/templates/feedback/thanks_l10nized.html:33
+#, fuzzy
+msgid "Suggestions from your feedback:"
+msgstr "Povedzte nám svoj názor."
+
+#: fjord/feedback/templates/feedback/thanks.html:49 fjord/feedback/templates/feedback/thanks_l10nized.html:49
+msgid "Having problems? Get help."
+msgstr "Narazili ste na problém? Tu je pomoc."
+
+#: fjord/feedback/templates/feedback/thanks.html:51 fjord/feedback/templates/feedback/thanks_l10nized.html:51
+msgid "Go to our support forum where you can <a href=\"%(url)s\">get help and find answers</a>."
+msgstr "Prejdite na naše fórum podpory, kde vám <a href=\"%(url)s\">pomôžeme a odpovieme</a> na vaše otázky."
+
+#: fjord/feedback/templates/feedback/thanks.html:60 fjord/feedback/templates/feedback/thanks_l10nized.html:64
+msgid "Shape the future of Firefox."
+msgstr "Určujte budúcnosť Firefoxu."
+
+#: fjord/feedback/templates/feedback/thanks.html:62
+msgid "Download <a href=\"%(download_url)s\">the build that is right for you</a>."
+msgstr "Nainštalujte si <a href=\"%(download_url)s\">zostavenie, ktoré je pre Vás to pravé</a>."
+
+#: fjord/feedback/templates/feedback/thanks.html:70 fjord/feedback/templates/feedback/thanks_l10nized.html:74
+msgid "Contribute to Mozilla."
+msgstr "Prispieť do projektu Mozilla."
+
+#: fjord/feedback/templates/feedback/thanks.html:72
+msgid "Learn how you can <a href=\"%(url)s\">make Firefox and Mozilla better</a>."
+msgstr "Pozrite sa, ako môžete <a href=\"%(url)s\">urobiť Firefox a Mozillu lepšími</a>."
+
+#: fjord/feedback/templates/feedback/thanks.html:79
+msgid "Find the latest news about Firefox."
+msgstr "Najnovšie správy o Firefoxe."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:25
+#, fuzzy
+msgid "Your feedback will be used to create a better experience in future releases of %(product)s."
+msgstr "Vaše názory budú využité pri vytváraní budúcich verzií prehliadača Firefox."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:66
+#, fuzzy
+msgid "Download <a href=\"%(download_url)s\">the Firefox build that is right for you</a>."
+msgstr "Nainštalujte si <a href=\"%(download_url)s\">zostavenie, ktoré je pre Vás to pravé</a>."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:76
+#, fuzzy
+msgid "Learn how you can <a href=\"%(url)s\">make %(product)s and Mozilla better</a>."
+msgstr "Pozrite sa, ako môžete <a href=\"%(url)s\">urobiť Firefox a Mozillu lepšími</a>."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:84
+#, fuzzy
+msgid "Find the latest news about %(product)s."
+msgstr "Najnovšie správy o Firefoxe."
+
+#: fjord/feedback/templates/feedback/mobile/download_firefox.html:16
+msgid "Please Download Firefox!"
+msgstr "Nainštalujte si Firefox."
+
+#: fjord/suggest/providers/sumosuggest.py:180
+msgid "Ask a question in our support forum"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Go to our support forum where you can get help and find answers."
+#~ msgstr "Prejdite na naše fórum podpory, kde vám <a href=\"%(url)s\">pomôžeme a odpovieme</a> na vaše otázky."
+
+#~ msgid "Submit feedback"
+#~ msgstr "Odoslať názor"
+
+#~ msgid "Firefox OS made me happy"
+#~ msgstr "Firefox OS mi zlepšil náladu"
+
+#~ msgid "Firefox OS made me sad"
+#~ msgstr "Firefox OS ma sklamal"
+
+#~ msgid "If you need help or have a problem with Firefox OS, please visit <a href=\"%(support_url)s\">Mozilla Support</a>."
+#~ msgstr "Ak potrebujete pomoc alebo máte problém s Firefox OS, navštívte naše <a href=\"%(support_url)s\">stránky podpory</a>."
+
+#~ msgid "Please describe what you liked."
+#~ msgstr "Popíšte, čo sa Vám páčilo."
+
+#~ msgid "Please describe your problem below and be as specific as you can."
+#~ msgstr "Prosím popíšte svoj problém a pokúste sa byť čo najviac konkrétny."
+
+#~ msgid "The content of your feedback will be public, so please be sure not to include any personal information."
+#~ msgstr "Obsah vašej reakcie bude verejne prístupný, takže neuvádzajte žiadne osobné informácie."
+
+#~ msgid "Can we contact you?"
+#~ msgstr "Môžeme vás kontaktovať?"
+
+#~ msgid "Check here to let us contact you to follow up on your feedback."
+#~ msgstr "Označte, ak si prajete, aby sme Vás mohli kontaktovať."
+
+#~ msgid "Email address (optional):"
+#~ msgstr "E-mailová adresa (voliteľné):"
+
+#~ msgid "Don't worry, your email will always be kept private."
+#~ msgstr "Nemusíte sa obávať, vaša e-mailová adresa bude vždy považovaná za súkromnú."
+
+#~ msgid "Send Feedback"
+#~ msgstr "Odoslať spätnú väzbu"
+
+#~ msgid "Your feedback helps us improve Firefox."
+#~ msgstr "Vaša spätná väzba nám pomáha vylepšiť Firefox."
+
+#~ msgid "Firefox made me happy"
+#~ msgstr "Firefox mi zlepšil náladu"
+
+#~ msgid "Firefox made me sad"
+#~ msgstr "Firefox ma sklamal"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit <a href=\"%(support_url)s\">Firefox Support</a>."
+#~ msgstr "Ak potrebujete pomoc alebo máte problém s prehliadačom Firefox, navštívte naše <a href=\"%(support_url)s\">stránky podpory Firefoxu</a>."
+
+#~ msgid "Please describe your problem below."
+#~ msgstr "Popíšte svoj problém."
+
+#~ msgid "Please be as specific as you can."
+#~ msgstr "Buďte, prosím, čo najviac konkrétny."
+
+#~ msgid "If your feedback is related to a website, you can include it here."
+#~ msgstr "Ak sa Váš komentár týka nejakej webovej stránky, môžete ju zadať tu."
+
+#~ msgid "While your feedback will be publicly visible, email addresses are kept private. We understand your privacy is important."
+#~ msgstr "Aj keď bude vaša správa zobrazená verejne, e-mailová adresa ostane vždy súkromná. Rozumieme, že ochrana Vášho súkromia je veľmi dôležitá."
+
+#~ msgid "Unknown product"
+#~ msgstr "Neznámy produkt"
+
+#~ msgid "Input doesn't know about \"<em>%(product)s</em>\". If you think this is an error, please let us know by <a href=\"%(url)s\">writing up a bug</a>."
+#~ msgstr "Input nepozná produkt \"<em>%(product)s</em>\". Ak si myslíte, že ide o chybu, <a href=\"%(url)s\">dajte nám prosím vedieť</a>."
+
+#~ msgid "If you are here by mistake and want to leave feedback, you can do so <a href=\"%(url)s\">on our feedback form</a>."
+#~ msgstr "Ak ste tu omylom a chcete zanechať spätnú väzbu, môžete tak urobiť <a href=\"%(url)s\">pomocou nášho formulára</a>."
+
+#, fuzzy
+#~ msgid "<a href=\"%(feedback_url)s\">I want to give feedback about Firefox</a>"
+#~ msgstr "Navštívte stránku <a href=\"%(dash_url)s\">Nástenka názorov na Firefox</a>"
+
+#~ msgid "Input Services Monitor"
+#~ msgstr "Monitor služieb stránky Input"
+
+#~ msgid "List of components that Input uses and whether they are functioning correctly."
+#~ msgstr "Zoznam komponentov, ktoré Input používa a či fungujú korektne."
+
+#~ msgid "Latest Feedback"
+#~ msgstr "Najnovšie názory"
+
+#~ msgid "Messages"
+#~ msgstr "Správy"
+
+#~ msgid "Either you don't have an account here or you used the wrong Persona account to log in."
+#~ msgstr "Buď tu nemáte účet alebo ste na prihlásenie použili nesprávny účet Persona."
+
+#~ msgid "Please enter a valid email address, or uncheck the box allowing us to contact you."
+#~ msgstr "Zadajte platnú e-mailovú adresu alebo zrušte políčko, ktoré nám povoľuje vás kontaktovať."
+
+#~ msgid "This field is required."
+#~ msgstr "Toto pole je povinné."
+
+#~ msgid "Firefox Made Me Happy"
+#~ msgstr "Firefox mi zlepšil náladu"
+
+#~ msgid "Firefox Made Me Sad"
+#~ msgstr "Firefox ma sklamal"
+
+#~ msgid "Super! It's great to hear that you like our browser."
+#~ msgstr "Super! Sme radi, že sa Vám náš prehliadač páči."
+
+#~ msgid "We are sorry that you have not had a good experience with our browser. Please tell us why, so we can fix it."
+#~ msgstr "Je nám ľúto, že sa Vám táto verzia prehliadača nepáči. Prosím, povedzte nám, prečo je to tak, aby sme ho mohli vylepšiť."
+
+#~ msgid "Go Back"
+#~ msgstr "Prejsť naspäť"
+
+#~ msgid ""
+#~ "Please be as specific as you can in the allotted space. For example, if you are giving feedback about slowness, please tell us about relevant websites, if you notice it at the beginning or later "
+#~ "in the browsing session and if there are any actions that you perform in Firefox that are particularly problematic."
+#~ msgstr ""
+#~ "Buďte čo najkonkrétnejší. Napríklad, ak komentujete rýchlosť Firefoxu, uveďte relevantné webové stránky, či hovoríte o rýchlosti na začiatku prehliadania alebo po hodine intenzívneho používania "
+#~ "prehliadača alebo či rýchlosť ovplyvňujú nejaké konkrétne kroky, ktoré ste vo Firefoxe vykonali."
+
+#~ msgid "For support requests, please go to <a href=\"%(url)s\">Mozilla Support</a> instead."
+#~ msgstr "Ohľadne podpory nás kontaktuje na stránkach <a href=\"%(url)s\">Mozilla Support</a>."
+
+#~ msgid "To protect your privacy, please ensure that no personally identifiable information is included in your feedback."
+#~ msgstr "Kvôli ochrane vášho súkromia sa uistite, že do spätnej väzby nezadávate žiadne osobné údaje."
+
+#~ msgid "Submitting Feedback"
+#~ msgstr "Odosiela sa názor"
+
+#~ msgid "Submit Feedback"
+#~ msgstr "Odoslať názor"
+
+#~ msgid "Tweet feedback to your followers"
+#~ msgstr "Odoslať spätnú väzbu na Twitter."
+
+#~ msgid "Want to see where your feedback goes?"
+#~ msgstr "Chcete vidieť, kam je váš názor odoslaný?"
+
+#~ msgid "For support requests, please go to <a href=\"%(support_url)s\">Mozilla Support</a> instead."
+#~ msgstr "Ak máte otázky ohľadne podpory, navštívte stránku <a href=\"%(support_url)s\">Mozilla Support</a>."
+
+#~ msgid "Thank you for your feedback!"
+#~ msgstr "Ďakujeme za váš názor!"
+
+#~ msgid "Thanks for the feedback! We will use it to help create a better experience in future releases of Firefox."
+#~ msgstr "Ďakujeme za reakciu! Vaše názory budú využité pri vytváraní budúcich verzií prehliadača Firefox."
+
+#~ msgid "Want to know what's going on with Firefox? We have many ways of staying in touch:"
+#~ msgstr "Chcete vedieť, čo sa chystá pre Firefox? Je veľa spôsobov, ako zostať stále informovaný:"
+
+#~ msgid "Download the build that is right for you"
+#~ msgstr "Nainštalujte si zostavenie, ktoré je pre Vás to pravé"
+
+#~ msgid "Learn how you can make Firefox and Mozilla better"
+#~ msgstr "Pozrite sa, ako môžete urobiť Firefox a Mozillu lepšími"
+
+#~ msgid "Visit the Firefox Feedback Dashboard"
+#~ msgstr "Navštívte stránku Nástenka názorov na Firefox"
+
+#~ msgid "Find the latest news about Mozilla."
+#~ msgstr "Pozrite si najnovšie správy o Firefoxe."
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Planet Mozilla"
+#~ msgstr "Planet Mozilla"
+
+#~ msgid "Page not found"
+#~ msgstr "Stránka nebola nájdená"
+
+#~ msgid "Sorry, but we couldn't find the page you're looking for."
+#~ msgstr "Ospravedlňujeme sa, hľadaná stránka sa tu nenachádza."
+
+#~ msgid "Sorry, but something went wrong."
+#~ msgstr "Ospravedlňujeme sa, ale niečo nevyšlo dobre."
+
+#~ msgid "We already got your feedback! Thanks."
+#~ msgstr "Svoj názor ste už odoslali! Ďakujeme."
+
+#~ msgid "Describe your idea below."
+#~ msgstr "Popíšte svoj nápad."
+
+#~ msgid "Praise"
+#~ msgstr "Pochvala"
+
+#~ msgid "Issue"
+#~ msgstr "Problém"
+
+#~ msgid "Your comment contains swear words (%s). In order to help us improve our products, please use words that help us create an action or to-do from your constructive feedback. Thanks!"
+#~ msgstr "Váš komentár obsahuje niektoré nevhodné slová (%s). Ak chcete pomôcť vylepšiť naše produkty, používajte slová, ktoré nám pomôžu pri opravovaním prípadných chýb a nedostatkov. Ďakujeme!"
+
+#~ msgid "Feedback must not contain HTML."
+#~ msgstr "Názor nesmie obsahovať kód HTML."
+
+#~ msgid "Your feedback seems to contain an email address. Please remove this and similar personal data from the text, then try again. Thanks!"
+#~ msgstr "Zdá sa, že Váš text obsahuje e-mailovú adresu. Prosím, odstráňte ju a podobné osobné údaje a skúste to znova. Ďakujeme!"
+
+#~ msgid "URLs with IP addresses must contain public IP addresses."
+#~ msgstr "Adresy IP nachádzajúce sa v adresách URL musia byť verejné adresy IP."
+
+#~ msgid "Your feedback seems to contain a URL. Please remove this and similar personal data from the text, then try again. Thanks!"
+#~ msgstr "Zdá sa, že Váš text obsahuje adresu URL. Prosím, odstráňte ju a podobné osobné údaje a skúste to znova. Ďakujeme!"
+
+#~ msgid "User-Agent request header must be set."
+#~ msgstr "Hlavička požiadavky musí obsahovať User-Agent."
+
+#~ msgid "It's great to hear you want to help Mozilla make your experience better!"
+#~ msgstr "Je úžasné počuť, že chcete pomôcť Mozille urobiť zážitok z prehliadania webu ešte lepším."
+
+#~ msgid "Please choose one of the following types of feedback that you would like to submit to us:"
+#~ msgstr "Zvoľte jednu kategóriu, do ktorej patrí názor, ktorý nám chcete odoslať:"
+
+#~ msgid "Firefox makes me happy because ..."
+#~ msgstr "Firefox mi zlepšil náladu, pretože..."
+
+#~ msgid "Firefox makes me sad because ..."
+#~ msgstr "Firefox ma rozosmutnil, pretože..."
+
+#~ msgid "Firefox Logo"
+#~ msgstr "Logo Firefoxu"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit our <a href=\"%(support_url)s\">support page</a>."
+#~ msgstr "Ak potrebujete pomoc alebo máte problém s prehliadačom Firefox, navštívte naše <a href=\"%(support_url)s\">stránky podpory</a>."
+
+#~ msgid "I Have an Idea for Firefox"
+#~ msgstr "Mám nápad pre Firefox"
+
+#~ msgid "Have an idea how Firefox could be better? Let us know."
+#~ msgstr "Máte nápad na vylepšenie Firefoxu? Dajte nám o ňom vedieť."
+
+#~ msgid "Include the URL of a site that worked better."
+#~ msgstr "Zahrnúť adresu stránky, ktorá fungovala lepšie."
+
+#~ msgid "Include the URL of the site with the problem."
+#~ msgstr "Zahrnúť adresu stránky, s ktorou je problém."
+
+#~ msgid "If you have an idea to offer us instead, please use our"
+#~ msgstr "Ak chcete ponúknuť nápad, využite naše"
+
+#~ msgid "suggestion box"
+#~ msgstr "pole návrhov"
+
+#~ msgid "Super! It's great to hear that you like our browser. Please explain what you specifically like!"
+#~ msgstr "Super! Sme radi, že sa Vám náš prehliadač páči. Teraz nám, prosím, povedzte, čo sa Vám páči najviac."
+
+#~ msgid "We are sorry that you have not had a good experience with our browser. Please tell us why, so we can fix it!"
+#~ msgstr "Je nám ľúto, že sa Vám táto verzia prehliadača nepáči. Prosím, povedzte nám, prečo je to tak, aby sme ho mohli vylepšiť."
+
+#~ msgid "So, you'd like to make a suggestion on how to enhance Firefox? Awesome! Please enter your idea below:"
+#~ msgstr "Chcete navrhnúť, ako vylepšiť Firefox? Úžasné. Nižšie zadajte svoj návrh:"
+
+#~ msgid "Know of a website that works better in this beta than it did in earlier versions of Firefox? Please add the URL, so we can keep track!"
+#~ msgstr "Viete o webovej stránke, ktorá v tejto verzii beta funguje lepšie ako v predchádzajúcich verziách Firefoxu? Dajte nám o tom vedieť. Prosím, zadajte jej adresu."
+
+#~ msgid "Had an issue with a specific website? Please add the URL, so we can find the issue faster!"
+#~ msgstr "Máte problém na konkrétnej stránke? Zadajte jej adresu, aby sme mohli opraviť chybu ešte rýchlejšie."
+
+#~ msgid "Please ensure that there is no personally identifiable information here."
+#~ msgstr "Uistite sa, že nezadávate žiadne osobné údaje."
+
+#~ msgid "If you have an idea to offer us instead, please send it to us through our <a href=\"%(url_idea)s\">idea box</a>!"
+#~ msgstr "Ak chcete ponúknuť nápad, využite <a href=\"%(url_idea)s\">pole návrhov</a>!"
+
+#~ msgid "Your feedback will be used to create a"
+#~ msgstr "Vaša spätná väzba bude použitá pri vylepšovaní"
+
+#~ msgid "Thanks for helping Mozilla make your experience better!"
+#~ msgstr "Ďakujeme, že pomáhate Mozille urobiť zážitok z prehliadania webu ešte lepším."
+
+#~ msgid "Please choose the type of feedback that you would like to submit to us:"
+#~ msgstr "Zvoľte názor, aký nám chcete poslať:"
+
+#~ msgid "Firefox makes me sad ..."
+#~ msgstr "Firefox ma rozosmutnil..."
+
+#~ msgid "Download Beta"
+#~ msgstr "Prevziať verziu beta"
+
+#~ msgid "Oh! So, you want to offer us feedback. You'll need the latest Beta! Head over to our beta page and <a href=\"%(url)s\">download it!</a>"
+#~ msgstr "Oh. Takže vy nám chcete napísať Váš názor? Super, ale potrebujete najnovšiu verziu beta. Prejdite na našu <a href=\"%(url)s\">stránku verzie beta</a> a nainštalujte si ju."
+
+#~ msgid "Back to Dashboard"
+#~ msgstr "Späť na Nástenku názorov"
+
+#~ msgid "We're glad Firefox for Mobile made you happy! Please tell us what you liked."
+#~ msgstr "Sme radi, že sa Vám mobilný Firefox páči. Prosím, povedzte nám, čo sa Vám páči."
+
+#~ msgid "We're sorry Firefox for Mobile made you sad. Please tell us what happened so we can fix it."
+#~ msgstr "Je nám ľúto, že sa Vám táto verzia mobilného prehliadača nepáči. Prosím, povedzte nám, prečo je to tak, aby sme ho mohli vylepšiť."
+
+#~ msgid "We love ideas for Firefox for Mobile! Please descibe your idea below."
+#~ msgstr "Máte radi nápady pre mobilný Firefox. Popíšte ten Váš."
+
+#~ msgid "Got an idea? <a href=\"%(url)s\">Submit it instead.</a>"
+#~ msgstr "Máte nápad? <a href=\"%(url)s\">Povedzte nám ho</a>."
+
+#~ msgid "Include your last visited site?"
+#~ msgstr "Pridať adresu naposledy prehliadanej stránky?"
+
+#~ msgid "For your privacy, please don't include any personally identifiable information in your feedback."
+#~ msgstr "Kvôli ochrane vášho súkromia sa uistite, že do spätnej väzby nezadávate žiadne osobné údaje."
+
+#~ msgid "Super! Please tell us more!"
+#~ msgstr "Super! Povedzte nám viac."
+
+#~ msgid "Ack! Please tell us what to fix!"
+#~ msgstr "Škoda. Povedzte nám, čo máme opraviť!"
+
+#~ msgid "Awesome! Please enter your idea below:"
+#~ msgstr "Super! Nižšie zadajte svoj návrh:"
+
+#~ msgid "Add URL of last visited page?"
+#~ msgstr "Pridať adresu naposledy prehliadanej stránky?"
+
+#~ msgid "Or submit your ideas with our <a href=\"%(url_idea)s\">idea box</a>!"
+#~ msgstr "Alebo odošlite svoje nápady cez naše <a href=\"%(url_idea)s\">pole návrhov</a>!"
+
+#~ msgid "We love feedback about Firefox for Mobile! What would you like to tell us?"
+#~ msgstr "Máme radi spätnú väzbu pre mobilný Firefox. Čo by ste nám chceli povedať?"
+
+#~ msgid "I have an idea for Firefox"
+#~ msgstr "Mám nápad pre Firefox"
+
+#, fuzzy
+#~ msgid "If you need help or have a problem with Firefox, please visit <a id=\"sumo-url\" href=\"%(url)s/\">Firefox Support</a>."
+#~ msgstr "Ak potrebujete pomoc alebo máte problém s prehliadačom Firefox, navštívte naše <a href=\"%(url)s\">stránky podpory Firefoxu</a>."
+
+#~ msgid "Tweet This"
+#~ msgstr "Napísať príspevok na Twitter"
+
+#~ msgid "Thanks for sharing your feedback!"
+#~ msgstr "Ďakujeme za odoslanie Vášho názoru!"
+
+#~ msgid "See where your feedback goes."
+#~ msgstr "Chcete vidieť, kam je váš názor odoslaný?"
+
+#~ msgid "Feedback Dashboard"
+#~ msgstr "Nástenka názorov"
+
+#~ msgid "Follow us on Twitter."
+#~ msgstr "Sledujte nás na Twitteri."
+
+#~ msgid "Let's be friends."
+#~ msgstr "Buďme priatelia."
+
+#~ msgid "Firefox on Facebook"
+#~ msgstr "Firefox na Facebooku"
+
+#~ msgid "Get the latest news on Firefox."
+#~ msgstr "Najnovšie správy o Firefoxe"
+
+#~ msgid "Idea"
+#~ msgstr "Nápad"
+
+#~ msgid "Rating"
+#~ msgstr "Hodnotenie"
+
+#~ msgid "Broken Website"
+#~ msgstr "Nefunkčná webová stránka"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobilný Firefox"
+
+#~ msgid "Windows XP"
+#~ msgstr "Windows XP"
+
+#~ msgid "Windows 7"
+#~ msgstr "Windows 7"
+
+#~ msgid "Windows Vista"
+#~ msgstr "Windows Vista"
+
+#~ msgid "Mac OS X"
+#~ msgstr "Mac OS X"
+
+#~ msgid "Maemo"
+#~ msgstr "Maemo"
+
+#~ msgid "Android"
+#~ msgstr "Android"
+
+#~ msgid "Linux"
+#~ msgstr "Linux"
+
+#~ msgid "{0} day ago"
+#~ msgid_plural "{0} days ago"
+#~ msgstr[0] "včera"
+#~ msgstr[1] "pred {0} dňami"
+#~ msgstr[2] "pred {0} dňami"
+
+#~ msgid "{0} hour ago"
+#~ msgid_plural "{0} hours ago"
+#~ msgstr[0] "{0} dozadu"
+#~ msgstr[1] "pred {0} hodinami"
+#~ msgstr[2] "pred {0} hodinami"
+
+#~ msgid "{0} minute ago"
+#~ msgid_plural "{0} minutes ago"
+#~ msgstr[0] "pred minútou"
+#~ msgstr[1] "pred {0} minútami"
+#~ msgstr[2] "pred {0} minútami"
+
+#~ msgid "just now"
+#~ msgstr "práve teraz"
+
+#~ msgid "Query has timed out."
+#~ msgstr "Časový limit požiadavky vypršal."
+
+#~ msgid "Sphinx threw an unknown exception: %s"
+#~ msgstr "Sphinx vyhodil neočakávanú výnimku: %s"
+
+#~ msgctxt "version_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- všetky --"
+
+#~ msgctxt "sentiment_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- všetky --"
+
+#~ msgid "Issues"
+#~ msgstr "Problémy"
+
+#~ msgid "Ideas"
+#~ msgstr "Nápady"
+
+#~ msgctxt "platform_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- všetky --"
+
+#~ msgctxt "locale_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- všetky --"
+
+#~ msgid "Product:"
+#~ msgstr "Produkt:"
+
+#~ msgid "Version:"
+#~ msgstr "Verzia:"
+
+#~ msgid "Locale:"
+#~ msgstr "Jazyk:"
+
+#~ msgid "PLATFORM:"
+#~ msgstr "PLATFORMA:"
+
+#~ msgid "Date range:"
+#~ msgstr "Dátum od:"
+
+#~ msgid "to"
+#~ msgstr "do:"
+
+#~ msgid "Show/Hide Options"
+#~ msgstr "Zobraziť/skryť možnosti"
+
+#~ msgid "Toggle"
+#~ msgstr "Prepnúť"
+
+#~ msgid "More Locales"
+#~ msgstr "Ďalšie jazyky"
+
+#~ msgid "More Options"
+#~ msgstr "Ďalšie možnosti"
+
+#~ msgid "Copy User Agent"
+#~ msgstr "Kopírovať reťazec User Agent"
+
+#~ msgid "No search results found."
+#~ msgstr "Neboli nájdené žiadne výsledky."
+
+#~ msgid "You can adjust your search criteria or use fewer filters to find more opinions."
+#~ msgstr "Ak chcete viac názorov, upravte výraz vyhľadávania alebo použite menej filtrov."
+
+#~ msgid "Note: Recently released versions of Firefox may have less feedback."
+#~ msgstr "Poznámka: nedávno vydané verzie Firefoxu môžu mať menej spätnej väzby."
+
+#~ msgid "Type of Feedback"
+#~ msgstr "Typ názoru"
+
+#~ msgid "Search Results"
+#~ msgstr "Výsledky vyhľadávania"
+
+#~ msgid "Search"
+#~ msgstr "Hľadať"
+
+#~ msgid "Advanced"
+#~ msgstr "Rozšírené"
+
+#~ msgid "While Visiting"
+#~ msgstr "Počas prehliadania"
+
+#~ msgid "Often Mentioned"
+#~ msgstr "Často spomínané"
+
+#~ msgid "I'm sorry, there was an error with your search."
+#~ msgstr "Ospravedlňujeme sa, pri vyhľadávaní sa vyskytla chyba."
+
+#~ msgid "Our search engine might be currently unavailable. You may start over on the <a href=\"%(url)s\">dashboard</a> and try again later."
+#~ msgstr "Naše vyhľadávanie nie je momentálne dostupné. Zatiaľ si pozrite <a href=\"%(url)s\">Nástenku názorov</a> a vyhľadávanie vyskúšajte neskôr."
+
+#~ msgid "If the problem persists, please <a href=\"%(bug_url)s\">file a bug</a>, mentioning the URL you were accessing."
+#~ msgstr "Ak problém pretrváva, prosím, <a href=\"%(bug_url)s\">založte bug</a> a spomeňte v ňom adresu stránky, ktorú sa snažíte navštíviť."
+
+#~ msgid "Include the following error message in your bug report:"
+#~ msgstr "Zahnúť nasledujúce chybové hlásenie do správy o chybe."
+
+#~ msgid "Thanks!"
+#~ msgstr "Ďakujeme!"
+
+#~ msgid "All"
+#~ msgstr "Všetko"
+
+#~ msgid "Custom"
+#~ msgstr "Vlastné"
+
+#~ msgid "{num} opinions on {day}"
+#~ msgstr "deň: {day}, počet názorov: {num}"
+
+#~ msgid "%e %B %Y"
+#~ msgstr "%e. %B %Y"
+
+#~ msgid "%e %b"
+#~ msgstr "%e. %b"
+
+#~ msgid "Loading feedback history..."
+#~ msgstr "Načítava sa história názorov"
+
+#~ msgid "Loading ratings history..."
+#~ msgstr "Načítava sa história názorov..."
+
+#~ msgid "Last day"
+#~ msgstr "Posledný deň"
+
+#~ msgid "Last 7 days"
+#~ msgstr "Posledných 7 dní"
+
+#~ msgid "Last 30 days"
+#~ msgstr "Posledných 30 dní"
+
+#~ msgid "No date limit"
+#~ msgstr "Bez časového obmedzenia"
+
+#~ msgid "&infin;"
+#~ msgstr "&infin;"
+
+#~ msgid "Show More Locales"
+#~ msgstr "Zobraziť ďalšie jazyky"
+
+#~ msgid "<strong>%(cnt)s</strong> message"
+#~ msgid_plural "<strong>%(cnt)s</strong> messages"
+#~ msgstr[0] "<strong>%(cnt)s</strong> správa"
+#~ msgstr[1] "<strong>%(cnt)s</strong> správy"
+#~ msgstr[2] "<strong>%(cnt)s</strong> správ"
+
+#~ msgid "Show More Platforms"
+#~ msgstr "Zobraziť ďalšie platformy"
+
+#~ msgid "Clear Search"
+#~ msgstr "Vymazať hľadanie"
+
+#~ msgid "Feed"
+#~ msgstr "Kanál"
+
+#~ msgid "Statistics"
+#~ msgstr "Štatistiky"
+
+#~ msgid "Trends"
+#~ msgstr "Trendy"
+
+#~ msgid "Settings"
+#~ msgstr "Nastavenia"
+
+#~ msgid "&laquo; Newer Feedback"
+#~ msgstr "&laquo; Novšie správy"
+
+#~ msgid "Older Feedback &raquo;"
+#~ msgstr "Staršie správy &raquo;"
+
+#~ msgid "Switch to Desktop Dashboard"
+#~ msgstr "Prenúť na nástenku pre PC verzie"
+
+#~ msgid "For last:"
+#~ msgstr "Za posledných:"
+
+#~ msgid "All feedback"
+#~ msgstr "Všetky názory"
+
+#~ msgid "Praise only"
+#~ msgstr "Len pochvaly"
+
+#~ msgid "Issues only"
+#~ msgstr "Len problémy"
+
+#~ msgid "Ideas only"
+#~ msgstr "Len nápady"
+
+#~ msgid "All Platforms"
+#~ msgstr "Všetky platformy"
+
+#~ msgid "Themes"
+#~ msgstr "Témy"
+
+#~ msgid "Common Themes"
+#~ msgstr "Bežné témy"
+
+#~ msgid "Theme"
+#~ msgstr "Téma"
+
+#~ msgid "Back to all themes &raquo;"
+#~ msgstr "Späť na všetky témy &raquo;"
+
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "&laquo; Predchádzajúca strana"
+
+#~ msgid "Next Page &raquo;"
+#~ msgstr "Nasledujúca strana &raquo;"
+
+#~ msgid "See all opinions"
+#~ msgstr "Zobraziť všetky názory"
+
+#~ msgid "%(count)s similar message"
+#~ msgid_plural "%(count)s similar messages"
+#~ msgstr[0] "%(count)s podobná správa"
+#~ msgstr[1] "%(count)s podobné správy"
+#~ msgstr[2] "%(count)s podobných správ"
+
+#~ msgctxt "website_issues_search"
+#~ msgid "Search for domain"
+#~ msgstr "Hľadať doménu"
+
+#~ msgid "Broken Sites"
+#~ msgstr "Nefunkčné webové stránky"
+
+#~ msgid "Sites"
+#~ msgstr "Stránky"
+
+#~ msgctxt "sites_search_all_feedback"
+#~ msgid "All"
+#~ msgstr "Všetko"
+
+#~ msgid "Platforms"
+#~ msgstr "Platformy"
+
+#~ msgctxt "sites_search_all_platforms"
+#~ msgid "All"
+#~ msgstr "Všetko"
+
+#~ msgid "All platforms"
+#~ msgstr "Všetky platformy"
+
+#~ msgid "Uncommon Sites"
+#~ msgstr "Nie bežné stránky"
+
+#~ msgid "More sites..."
+#~ msgstr "Ďalšie stránky..."
+
+#~ msgid "Back to {domain} &raquo;"
+#~ msgstr "Späť na {domain} &raquo;"
+
+#~ msgid "Theme for {domain}"
+#~ msgstr "Téma pre {domain}"
+
+#~ msgid "Back to all sites &raquo;"
+#~ msgstr "Späť na všetky stránky &raquo;"
+
+#~ msgid "Sites with only one message"
+#~ msgstr "Stránky len s jednou správou"
+
+#~ msgid "No results found!"
+#~ msgstr "Neboli nájdené žiadne výsledky."
+
+#~ msgid "reset my search"
+#~ msgstr "zrušiť hľadanie"
+
+#~ msgid "{percentage}% praise"
+#~ msgstr "{percentage}% pochvala"
+
+#~ msgid "{percentage}% issues"
+#~ msgstr "{percentage}% chyby"
+
+#~ msgid "%(count)s similar"
+#~ msgid_plural "%(count)s similar"
+#~ msgstr[0] "%(count)s podobná"
+#~ msgstr[1] "%(count)s podobné"
+#~ msgstr[2] "%(count)s podobných"
+
+#~ msgid "Please start over on the <a href=\"%(dashboard_url)s\">dashboard</a>."
+#~ msgstr "Začnite návštevou stránky <a href=\"%(dashboard_url)s\">Nástenka názorov</a>."
+
+#~ msgid "If you were following a broken link, please <a href=\"%(bug_url)s\">file a bug.</a> Thanks!"
+#~ msgstr "Ak ste klikli na nefunkčný odkaz, prosím, <a href=\"%(bug_url)s\">založte bug</a>. Ďakujeme!"
+
+#~ msgid "Internal Server Error"
+#~ msgstr "Vnútorná chyba servera"
+
+#~ msgid "An unhandled error occurred in the application. The error has been logged and an administrator was notified. We apologize for the inconvenience!"
+#~ msgstr "V aplikácii sa vyskytla nespracovaná chyba, ktorá bola zaznamenaná a bol o nej informovaný administrátor. Za prípadné problémy sa ospravedlňujeme!"
+
+#~ msgid "If you have additional information how to reproduce this problem, please <a href=\"%(bug_url)s\">file a bug.</a> Thanks!"
+#~ msgstr "Ak máte ďalšie informácie ako postupovať pri reprodukcii tohto problému, prosím, <a href=\"%(bug_url)s\">založte bug</a>. Ďakujeme!"
+
+#~ msgid "Input Dashboard"
+#~ msgstr "Nástenka názorov"
+
+#~ msgid "CSRF Protection Error"
+#~ msgstr "Chyba ochrany CSRF"
+
+#~ msgid "There was an error verifying your CSRF token. Your request could not be processed. We apologize for the inconvenience!"
+#~ msgstr "Pri overovaní tokenu CSRF sa vyskytla chyba. Vaša požiadavka nemohla byť spracovaná. Ospravedlňujeme sa."
+
+#~ msgid ""
+#~ "The most likely cause of this error is that your browser is set up <strong>not to accept cookies</strong> from us. Please follow <a href=\"%(cookies_url)s\">these instructions</a> to enable "
+#~ "cookies in Firefox, then try again."
+#~ msgstr ""
+#~ "Najpravdepodobnejším dôvodom tejto chyby je, že prehliadač je nastavený na <strong>neakceptovanie súborov cookies</strong>. Pomocou <a href=\"%(cookies_url)s\">týchto inštrukcií</a> povoľte "
+#~ "cookies vo Firefoxe a potom to skúste znova."
+
+#~ msgid "Not Implemented"
+#~ msgstr "Neimplementované"
+
+#~ msgid "Clusters"
+#~ msgstr "Skupiny"
+
+#~ msgid "Hit Ctrl+C (Cmd+C on Mac) to copy and close."
+#~ msgstr "Stlačte CTRL+C (Cmd+C v systéme Mac) na skopírovanie a môžete zavrieť."
+
+#~ msgid "User agent copied"
+#~ msgstr "Reťazec User Agent skopírovaný"
+
+#~ msgid "Close"
+#~ msgstr "Zavrieť"
+
+#~ msgid "<strong>Welcome to Firefox Input!</strong> This is Mozilla's primary user feedback application. <a href=\"%(about_url)s\">Learn more...</a>"
+#~ msgstr "<strong>Vítá vás Firefox Input!</strong> Toto je pre Mozillu hlavný zdroj spätnej väzby. <a href=\"%(about_url)s\">Ďalšie informácie...</a>"
+
+#~ msgid "Have more to say?"
+#~ msgstr "Chcete povedať ešte viac?"
+
+#~ msgid "Feel free to <a href=\"%(fb_url)s\">submit more feedback</a>"
+#~ msgstr "Môžete nám <a href=\"%(fb_url)s\">napísať ďalšie svoje návrhy a názory</a>"
+
+#~ msgid "&laquo; Newer Messages"
+#~ msgstr "&laquo; Novšie správy"
+
+#~ msgid "Older Messages &raquo;"
+#~ msgstr "Staršie správy &raquo;"
+
+#~ msgid "Back to Feedback"
+#~ msgstr "Naspäť na stránku názorov"
+
+#~ msgid "Invalid feedback type"
+#~ msgstr "Neplatný typ spätnej väzby"
+
+#~ msgid "Find out the latest news from Mozilla:"
+#~ msgstr "Najnovšie správy z Mozilly:"
+
+#~ msgid "<strong>Firefox Release</strong> Input Dashboard"
+#~ msgstr "Nástenka názorov pre finálne verzie <strong>Firefoxu</strong>"
+
+#~ msgid "@MozMobile"
+#~ msgstr "@MozMobile"
+
+#~ msgid "Average Ratings Over Time"
+#~ msgstr "Vývoj priemerných hodnôt hodnotení"
+
+#~ msgid "Describe the problem with the website."
+#~ msgstr "Popíšte problém s webovou stránkou."
+
+#~ msgid "Does a website look or behave incorrectly in Firefox for Mobile? Provide us some details about the problem and we'll try to fix it."
+#~ msgstr "Vyzerá alebo správa sa táto stránka nekorektne v mobilnom Firefoxe? Popíšte problém a my sa ho pokúsime opraviť. "
+
+#~ msgid "Does a website look or behave incorrectly in Firefox?"
+#~ msgstr "V"
+
+#~ msgid "Don't Care"
+#~ msgstr "Nezaujíma ma"
+
+#~ msgid "Enter your feedback here."
+#~ msgstr "sem zadajte svoj názor"
+
+#~ msgid "Enter your ideas here."
+#~ msgstr "sem zadajte vaše nápady"
+
+#~ msgid "Example: Images were not loading, but the rest of the page was."
+#~ msgstr "Príklad: obrázky sa nenačítali, zvyšok stránky áno."
+
+#~ msgid "Excellent"
+#~ msgstr "Výborné"
+
+#~ msgid "Experience"
+#~ msgstr "Skúsenosti"
+
+#~ msgid "Experience Ratings"
+#~ msgstr "Hodnotenie vlastností"
+
+#~ msgid "Fair"
+#~ msgstr "Priemerné"
+
+#~ msgid "Features"
+#~ msgstr "Funkcie"
+
+#~ msgid "Frequent Ideas"
+#~ msgstr "Časté nápady"
+
+#~ msgid "Good"
+#~ msgstr "Dobré"
+
+#~ msgid "Have an idea how Firefox for Mobile could be better? Let us know!"
+#~ msgstr "Máte nápad na vylepšenie mobilného Firefoxu? Dajte nám o ňom vedieť!"
+
+#~ msgid "How frequently Firefox crashes or loses data"
+#~ msgstr "Ako často Firefox zlyháva alebo stráca údaje?"
+
+#~ msgid "How long Firefox takes to start running"
+#~ msgstr "Ako dlho trvá Firefoxu spustenie?"
+
+#~ msgid "How long it takes for web pages to load"
+#~ msgstr "Ako dlho trvá načítanie stránky?"
+
+#~ msgid "How quickly web pages respond once they have loaded"
+#~ msgstr "Ako rýchlo reagujú stránku po svojom načítaní?"
+
+#~ msgid "How well Firefox's built-in features serve your needs"
+#~ msgstr "Ako spĺňajú zabudované funkcie Firefoxu vaše potreby?"
+
+#~ msgid "How would you rate these aspects of Firefox for Mobile?"
+#~ msgstr "Ako by ste ohodnotili tieto aspekty mobilného Firefoxu?"
+
+#~ msgid "How would you rate these aspects of Firefox?"
+#~ msgstr "Ako by ste ohodnotili tieto aspekty Firefoxu?"
+
+#~ msgid "Loading chart data."
+#~ msgstr "Načítavajú sa údaje grafu"
+
+#~ msgid "Nightly Channel"
+#~ msgstr "Kanál Nočné zostavenia"
+
+#~ msgid "Oh! So, you want to offer us feedback on the next version of Firefox. Thank you, but you'll need to be on our latest beta."
+#~ msgstr "Oh! Chcete nám napísať názor na najnovšiu verziu nadchádzajúcej generácie Firefoxu? Ďakujeme, ale musíte používať najnovšiu verziu beta."
+
+#~ msgid "Page Load Time"
+#~ msgstr "Čas načítania stránky"
+
+#~ msgid "Please rate at least one item."
+#~ msgstr "Prosím, ohodnoťte aspoň jednu položku"
+
+#~ msgid "Poor"
+#~ msgstr "Slabé"
+
+#~ msgid "Provide us some details about the problem and we'll try to fix it."
+#~ msgstr "Popíšte viac tento problém a my sa ho pokúsime vyriešiť."
+
+#~ msgid "Rate Your Experience"
+#~ msgstr "Ohodnoťte vašu skúsenosť"
+
+#~ msgid "Release Channel"
+#~ msgstr "Kanál Finálne verzie"
+
+#~ msgid "Report a Site Issue"
+#~ msgstr "Nahlásiť problém so stránkou"
+
+#~ msgid "Responsiveness"
+#~ msgstr "Odozva"
+
+#~ msgid "Share an Idea"
+#~ msgstr "Podeliť sa o nápad"
+
+#~ msgid "Stability"
+#~ msgstr "Stabilita"
+
+#~ msgid "Start-Up Time"
+#~ msgstr "Čas spustenia"
+
+#~ msgid "To do that, simply go to our download page and install/update to the <a href=\"%(url)s\">latest Firefox Beta!</a>"
+#~ msgstr "Ak sa chcete zapojiť, jednoducho prejdite na stránku <a href=\"%(url)s\">Na prevzatie</a> a nainštalujte si alebo aktualizujte na najnovšiu verziu Firefox beta."
+
+#~ msgid "What is the URL of the broken site?"
+#~ msgstr "Aká je adresa nefunkčnej stránky?"
+
+#~ msgid "What is the URL of the site?"
+#~ msgstr "Aká je adresa nefunkčnej stránky?"
+
+#~ msgid "{day}<br/>Average of {num}"
+#~ msgstr "{day}<br/>Priemer: {num}"
+
+#~ msgid "&laquo; Next Page"
+#~ msgstr "&laquo; Ďalšia stránka"
+
+#~ msgid "&laquo; Previous Page;"
+#~ msgstr "&laquo; Predchádzajúca strana"
+
+#~ msgid "&laquo; previous"
+#~ msgstr "&laquo; predchádzajúca"
+
+#~ msgctxt "os_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- všetky --"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "1 day"
+#~ msgstr "1 deň"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "1 month"
+#~ msgstr "1 mesiac"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "1 week"
+#~ msgstr "1 týždeň"
+
+#, fuzzy
+#~ msgctxt "version_choice"
+#~ msgid "7d"
+#~ msgstr "7 dní"
+
+#~ msgid "<a href=\"%(url)s\">Total</a>: %(count)s"
+#~ msgstr "<a href=\"%(url)s\">Celkom</a>: %(count)s"
+
+#~ msgid "Beta"
+#~ msgstr "Beta"
+
+#~ msgid "Clusters of Opinions"
+#~ msgstr "Skupiny názorov"
+
+#~ msgid "Dates: <span class=\"opt\">%(start_date)s &ndash; %(end_date)s</span>"
+#~ msgstr "Obdobie: <span class=\"opt\">%(start_date)s &ndash; %(end_date)s</span>"
+
+#~ msgid "Demographics"
+#~ msgstr "Demografia"
+
+#~ msgid "Description: <span class=\"opt\">\"%(query)s\"</span>;"
+#~ msgstr "Popis: <span class=\"opt\">\"%(query)s\"</span>;"
+
+#~ msgid "Due to software constraints, we can only show the last 1000 messages for this search query."
+#~ msgstr "Kvôli softvérovým obmedzeniam je možné pre toto vyhľadávanie zobraziť len 1000 správ."
+
+#~ msgid "Enter your suggestions here."
+#~ msgstr "sem zadajte svoj názor"
+
+#~ msgid "Latest Beta"
+#~ msgstr "Najnovšia verzia beta"
+
+#~ msgid "Locale: <span class=\"opt\">%(locale)s</span>;"
+#~ msgstr "Jazyk: <span class=\"opt\">%(locale)s</span>;"
+
+#~ msgid "Locale: {locale}"
+#~ msgstr "Jazyk: {locale}"
+
+#~ msgid "No clusters of opinions found."
+#~ msgstr "Neboli nájdené žiadne skupiny názorov."
+
+#~ msgid "OS"
+#~ msgstr "OS"
+
+#~ msgid "OS:"
+#~ msgstr "OS:"
+
+#~ msgid "OS: <span class=\"opt\">%(os)s</span>"
+#~ msgstr "OS: <span class=\"opt\">%(os)s</span>"
+
+#~ msgid "OS: {os_name}"
+#~ msgstr "OS: {os_name}"
+
+#~ msgid "Opinion"
+#~ msgstr "Názor"
+
+#~ msgid "Overview"
+#~ msgstr "Prehľad"
+
+#~ msgid "Please enable JavaScript to view this page."
+#~ msgstr "Ak chcete zobraziť túto stránku, musíte mať povolený JavaScript."
+
+#~ msgid "Previous Page &raquo;"
+#~ msgstr "Predchádzajúca stránka &raquo;"
+
+#~ msgid "Show more"
+#~ msgstr "Zobraziť ďalšie"
+
+#~ msgid "Showing the first {count}"
+#~ msgstr "Zobrazuje sa niekoľko prvých skupín (celkom {count})"
+
+#~ msgid "Submitted User Agent is not the latest beta version."
+#~ msgstr "Poskytnutý reťazec User Agent nepochádza z najnovšej verzie beta."
+
+#~ msgid "Suggestions"
+#~ msgstr "Návrhy"
+
+#~ msgid "Suggestions only"
+#~ msgstr "Len návrhy"
+
+#~ msgid "UA"
+#~ msgstr "UA"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "User agent string was not recognizable."
+#~ msgstr "Reťazec User agent nebol rozpoznaný."
+
+#~ msgid "all"
+#~ msgstr "všetky"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "all"
+#~ msgstr "všetky"
+
+#~ msgid "happy face"
+#~ msgstr "šťastná tvár"
+
+#~ msgid "page %(pagenum)s of %(total)s"
+#~ msgstr "strana %(pagenum)s z %(total)s"
+
+#~ msgid "sad face"
+#~ msgstr "smutná tvár"
+
+#~ msgid "visit &rarr;"
+#~ msgstr "navštíviť &rarr;"
+
+#~ msgid "{0} opinions for Firefox {1} {2}"
+#~ msgstr "{0} názorov na Firefox {1} {2}"
+
+#~ msgid "{0} opinions similar to <q>{1}</q>"
+#~ msgstr "{0} názorov podobných <q>{1}</q>"

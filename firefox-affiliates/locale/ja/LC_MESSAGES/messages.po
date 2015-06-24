@@ -1,0 +1,1668 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 18:40+0000\n"
+"PO-Revision-Date: 2014-12-12 07:00:42\n"
+"Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 0.9.5\n"
+"X-Generator: Pontoon\n"
+
+#. This acts as a placeholder/label for a form selection
+#: affiliates/banners/forms.py:21
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:36
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:45
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:54
+#: affiliates/base/forms.py:22
+msgid "-- select --"
+msgstr "-- 選択 --"
+
+#: affiliates/banners/templates/banners/generator/banners.html:12
+#: affiliates/banners/templates/banners/generator/banners.html:20
+msgid "Choose a Banner"
+msgstr "バナーを選択"
+
+#: affiliates/banners/templates/banners/generator/categories.html:12
+#: affiliates/banners/templates/banners/generator/categories.html:20
+msgid "Choose a Category"
+msgstr "カテゴリを選択"
+
+#. The "Category" step is when you pick a category to see a list of banners
+#. within it.
+#: affiliates/banners/templates/banners/generator/macros.html:8
+#: affiliates/banners/templates/banners/generator/macros.html:10
+msgid "Category"
+msgstr "カテゴリ"
+
+#. The "Choose" step is when you choose a banner to use.
+#: affiliates/banners/templates/banners/generator/macros.html:17
+#: affiliates/banners/templates/banners/generator/macros.html:19
+#: affiliates/banners/templates/banners/generator/macros.html:21
+msgid "Choose"
+msgstr "選択"
+
+#. The "Configure" step is when you select a specific variation of a banner.
+#: affiliates/banners/templates/banners/generator/macros.html:28
+#: affiliates/banners/templates/banners/generator/macros.html:30
+#: affiliates/banners/templates/banners/generator/macros.html:32
+msgid "Configure"
+msgstr "設定"
+
+#. The "Embed" step is when you copy HTML code to put in your webpage to embed
+#. the banner.
+#: affiliates/banners/templates/banners/generator/macros.html:39
+#: affiliates/banners/templates/banners/generator/macros.html:41
+msgid "Embed"
+msgstr "埋め込み"
+
+#: affiliates/banners/templates/banners/generator/macros.html:50
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+#: affiliates/base/templates/base/about.html:119
+#: affiliates/base/templates/base/dashboard.html:100
+msgid "What are smart banners?"
+msgstr "スマートバナーとは？"
+
+#: affiliates/banners/templates/banners/generator/macros.html:52
+#: affiliates/base/templates/base/about.html:122
+#: affiliates/base/templates/base/dashboard.html:102
+msgid ""
+"Smart Banners show visitors slightly different messages depending on their "
+"browser. For example, visitors on an older version of Firefox would be "
+"encouraged to upgrade, while visitors on Internet Explorer would be "
+"encouraged to switch."
+msgstr ""
+"スマートバナーとは、サイトを訪れた人のブラウザに応じて微妙に異なるメッセージを表示するものです。例えば、古いバージョンの Firefox "
+"を使っている人にはアップグレードを推奨し、Internet Explorer ユーザには乗り換えを促すようなメッセージが表示されるでしょう。"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:12
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:25
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:14
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:22
+msgid "Configure Your Banner"
+msgstr "バナーを設定"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:33
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:29
+msgid "Language"
+msgstr "言語"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:42
+msgid "Size"
+msgstr "サイズ"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:51
+msgid "Color"
+msgstr "色"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:68
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:38
+#: affiliates/facebook/templates/facebook/banner_create.html:68
+#: affiliates/users/templates/users/profile.html:39
+msgid "Save"
+msgstr "保存"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:7
+msgid "Up to date Firefox and other browsers"
+msgstr "最新の Firefox と他のブラウザ"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:12
+msgid "Out of date Firefox"
+msgstr "古い Firefox"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:6
+msgid "No preview available."
+msgstr "プレビューは使用できません。"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:10
+msgid "Text banner"
+msgstr "テキストバナー"
+
+#. Smart refers to a type of banner that changes the image depending on the
+#. user's Firefox version.
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+msgid "Smart"
+msgstr "スマート"
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: affiliates/base/forms.py:18 affiliates/base/templates/base/base.html:126
+#: affiliates/facebook/forms.py:200
+msgid "Text"
+msgstr "テキスト"
+
+#: affiliates/base/milestones.py:21
+msgid "Almost {0} clicks!"
+msgstr "もうすぐ {0} クリック！"
+
+#: affiliates/base/milestones.py:22
+msgid "Drove {0} clicks!"
+msgstr "{0} クリック獲得！"
+
+#: affiliates/base/milestones.py:23
+msgid "Drove {0} clicks. That's {1} clicks away from the next milestone!"
+msgstr "{0} クリック獲得しました。次のマイルストーンまで {1} クリックです！"
+
+#: affiliates/base/milestones.py:25
+msgid "Driven {0} clicks in total!"
+msgstr "合計 {0} クリック獲得！"
+
+#: affiliates/base/milestones.py:26
+msgid "Drive {0} clicks!"
+msgstr "{0} クリック獲得しよう！"
+
+#: affiliates/base/milestones.py:29
+msgid "Almost {0} downloads!"
+msgstr "もうすぐ {0} ダウンロード！"
+
+#: affiliates/base/milestones.py:30
+msgid "Drove {0} downloads!"
+msgstr "{0} ダウンロード獲得！"
+
+#: affiliates/base/milestones.py:31
+msgid ""
+"Drove {0} downloads. That's {1} downloads away from the next milestone!"
+msgstr "{0} ダウンロード獲得しました。次のマイルストーンまで {1} ダウンロードです！"
+
+#: affiliates/base/milestones.py:33
+msgid "Driven {0} downloads in total!"
+msgstr "合計 {0} ダウンロード獲得！"
+
+#: affiliates/base/milestones.py:34
+msgid "Drive {0} downloads!"
+msgstr "{0} ダウンロード獲得しよう！"
+
+#: affiliates/base/milestones.py:37
+msgid "Create a banner!"
+msgstr "バナーを作成しよう！"
+
+#: affiliates/base/milestones.py:38
+msgid "Almost {0} banners created!"
+msgstr "もうすぐ {0} 個のバナー作成！"
+
+#: affiliates/base/milestones.py:39
+msgid "Created {0} banners!"
+msgstr "{0} 個のバナーを作成しました！"
+
+#: affiliates/base/milestones.py:40
+msgid "Created a banner."
+msgstr "バナーを作成しました。"
+
+#: affiliates/base/milestones.py:43
+msgid "Create a text link!"
+msgstr "テキストリンクを作成しよう！"
+
+#: affiliates/base/milestones.py:44
+msgid "Almost {0} text links created!"
+msgstr "もうすぐ {0} 個のテキストリンク作成！"
+
+#: affiliates/base/milestones.py:45
+msgid "Created {0} text links!"
+msgstr "{0} 個のテキストリンクを作成しました！"
+
+#: affiliates/base/milestones.py:46
+msgid "Created a text link."
+msgstr "テキストリンクを作成しました。"
+
+#: affiliates/base/templates/404.html:5 affiliates/base/templates/404.html:11
+msgid "Page not found"
+msgstr "ページが見つかりません"
+
+#: affiliates/base/templates/404.html:13
+msgid "Sorry, but we couldn’t find the page you’re looking for."
+msgstr "申し訳ありませんが、お探しのページは見つかりませんでした。"
+
+#: affiliates/base/templates/500.html:5
+msgid "Server error"
+msgstr "サーバエラー"
+
+#: affiliates/base/templates/500.html:11
+msgid "D’oh! Something went wrong!"
+msgstr "何か問題が発生しました！"
+
+#: affiliates/base/templates/500.html:13
+msgid ""
+"Sorry, but something went wrong on our end and we couldn’t process your "
+"request. Please try again in a few minutes."
+msgstr "申し訳ありませんが、サーバ側で何らかの問題が発生し、リクエストを処理できませんでした。数分後に再度試してみてください。"
+
+#: affiliates/base/templates/base/about.html:6
+#: affiliates/base/templates/base/base.html:73
+msgid "About"
+msgstr "概要"
+
+#: affiliates/base/templates/base/about.html:13
+msgid "About Firefox Affiliates"
+msgstr "Firefox アフィリエイトについて"
+
+#: affiliates/base/templates/base/about.html:16
+#: affiliates/base/templates/base/about.html:46
+msgid ""
+"Firefox Affiliate buttons are bits of HTML code that you put on your website"
+" or blog to encourage visitors to download Firefox. When someone clicks a "
+"button on your site and visits the Firefox download page, you get credit for"
+" that click."
+msgstr ""
+"Firefox アフィリエイトボタンとは、あなたの Web サイトやブログに設置し、訪れた人に Firefox のダウンロードを促すための簡単な "
+"HTML コードです。あなたのサイト上で誰かがボタンをクリックして Firefox "
+"のダウンロードページを訪れると、そのクリックはあなたの実績として数えられます。"
+
+#: affiliates/base/templates/base/about.html:25
+#: affiliates/base/templates/base/about.html:55
+msgid ""
+"Affiliates who get a lot of clicks will be featured on our leaderboard and "
+"be eligible for rewards, like Firefox T-shirts. While we do send out prizes "
+"and gifts to our affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox buttons."
+msgstr ""
+"多くのクリック数を獲得したアフィリエイト参加者は順位表に載り、Firefox T シャツなどの報酬をもらうことができます。Firefox "
+"アフィリエイトでは、賞品やプレゼントを時々参加者へお届けしていますが、Firefox ボタンの設置に対する金銭的な報酬の提供は行いません。"
+
+#: affiliates/base/templates/base/about.html:39
+msgid "Frequently Asked Questions"
+msgstr "よくある質問"
+
+#: affiliates/base/templates/base/about.html:41
+msgid "Using Affiliate buttons"
+msgstr "アフィリエイトボタンの使用"
+
+#: affiliates/base/templates/base/about.html:43
+msgid "How do affiliate buttons work?"
+msgstr "アフィリエイトボタンはどのような仕組みですか？"
+
+#: affiliates/base/templates/base/about.html:65
+msgid "How do I add an affiliate button to my website?"
+msgstr "アフィリエイトボタンを自分のサイトへ追加するには？"
+
+#: affiliates/base/templates/base/about.html:68
+msgid ""
+"It’s super easy! To start, choose a button and select the Firefox product or"
+" campaign you’d like to support. From there, simply pick your button’s "
+"style, shape and color, and then copy and paste the code into the HTML of "
+"your site. Done! Your unique affiliate ID will be in the code to make sure "
+"you get credit for every click you send our way."
+msgstr ""
+"ボタンの追加はとても簡単です！ ボタンを選んで、あなたが応援したい Firefox "
+"製品やキャンペーンを選択します。それから、ボタンのスタイル、形状、色を選んで、生成されたコードをサイトの HTML "
+"ソース内にコピー＆ペーストします。以上！ あなたのサイト上のクリックがすべて実績として数えられるよう、固有のアフィリエイト ID がコードに含まれます。"
+
+#: affiliates/base/templates/base/about.html:79
+msgid "How do I remove an affiliate button from my website?"
+msgstr "アフィリエイトボタンをサイトから削除するには？"
+
+#: affiliates/base/templates/base/about.html:82
+msgid ""
+"This is also easy. Simply delete the code. If you want to put it back in "
+"again, just copy and paste it from the button picker."
+msgstr "これも簡単。追加したコードを削除するだけです。再び設置したい場合は、ボタンピッカーからコードをコピーし貼り付けてください。"
+
+#: affiliates/base/templates/base/about.html:89
+msgid "How do text links work?"
+msgstr "テキストリンクはどのような仕組みですか？"
+
+#: affiliates/base/templates/base/about.html:92
+msgid ""
+"Text links work very much like banners. You start by choosing the Firefox "
+"product or campaign you’d like to support, then select the text link you’d "
+"like to use. Copy and paste the link code into the HTML of your site, onto "
+"your email signature, or anywhere else you’d like to have it appear. Your "
+"unique affiliate ID will be in the code to make sure you get credit for "
+"every click you send our way."
+msgstr ""
+"テキストリンクはバナーとほとんど同じ仕組みです。まずあなたが応援したい Firefox "
+"製品やキャンペーンを選択し、使いたいテキストリンクを選択します。生成されたリンクコードをサイトの HTML "
+"ソース、メールの署名、その他どこでも追加したいところにコピー＆ペーストします。あなたのサイト上のクリックがすべて実績として数えられるよう、固有のアフィリエイト"
+" ID がコードに含まれます。"
+
+#: affiliates/base/templates/base/about.html:104
+msgid "What happens when an affiliate button for a campaign is deactivated?"
+msgstr "あるキャンペーンのアフィリエイトボタンが中止された場合、どうなりますか？"
+
+#: affiliates/base/templates/base/about.html:107
+msgid ""
+"Sometimes we run special time-limited campaigns to encourage people to "
+"download Firefox. If you’re using an affiliate button for one of these "
+"campaigns, try to update your button as soon as you can. People who click on"
+" that button will be directed to a general Firefox download page. You’ll get"
+" credit for the click as an Affiliate, but you may not get credit for clicks"
+" for that specific campaign."
+msgstr ""
+"人々に Firefox "
+"のダウンロードを促すため、私たちは時々特別な期間限定キャンペーンを行います。そうしたキャンペーンのためにアフィリエイトボタンを使う場合は、できるだけ速やかにボタンを更新するようにしてください。キャンペーン終了後、そのボタンをクリックした人たちは通常の"
+" Firefox "
+"ダウンロードページへ誘導されます。あなたはアフィリエイト参加者として引き続きクリック数の獲得はできますが、その特定のキャンペーンのためのクリック数を獲得することはできなくなります。"
+
+#: affiliates/base/templates/base/about.html:132
+msgid "Leaderboard and user statistics"
+msgstr "順位表とユーザ統計情報"
+
+#: affiliates/base/templates/base/about.html:134
+msgid "How often do leaderboard statistics update?"
+msgstr "順位表の更新頻度は？"
+
+#: affiliates/base/templates/base/about.html:137
+msgid ""
+"Leaderboard stats update every night at midnight Pacific Time. No need to "
+"keep hitting refresh over and over again to see how you’re doing. Just check"
+" in the next day to see your progress."
+msgstr ""
+"順位表の統計情報は毎日、太平洋標準時の真夜中に更新されます。ブラウザの再読み込みボタンを何度も押して頻繁に実績を確認する必要はありません。次の日に進捗を確認すれば大丈夫です。"
+
+#: affiliates/base/templates/base/about.html:145
+#: affiliates/facebook/templates/facebook/faq.html:177
+msgid "Is there a prize for getting the most Firefox clicks?"
+msgstr "最も多くクリック数を獲得した場合の賞などはありますか？"
+
+#: affiliates/base/templates/base/about.html:147
+msgid ""
+"From time to time we will be sending out T-shirts and other prizes. In "
+"future versions of Firefox Affiliates we will have a rewards program and "
+"more opportunities to participate in affiliate challenges."
+msgstr ""
+"私たちは時々 T シャツやその他の賞品を参加者に贈っています。将来的には、報酬プログラムとアフィリエイトの挑戦に参加するより多くの機会を Firefox"
+" アフィリエイトを通じて提供したいと考えています。"
+
+#: affiliates/base/templates/base/about.html:156
+#: affiliates/facebook/templates/facebook/faq.html:194
+msgid "I think my click statistics are wrong. Is there any way to fix them?"
+msgstr "私のクリック統計は間違っているようです。修正する方法はありますか？"
+
+#: affiliates/base/templates/base/about.html:159
+msgid ""
+"If you think there is an error with your click statistics, drop us a note at"
+" <a href=\"%(email)s\">affiliates@mozilla.org</a> and we’ll do our best to "
+"help you out."
+msgstr ""
+"クリック統計に何か問題があると思われる場合は、<a href=\"%(email)s\">affiliates@mozilla.org</a> "
+"までお知らせください。問題の解決に努力したいと思います。"
+
+#: affiliates/base/templates/base/about.html:169
+msgid "My profile"
+msgstr "自分のプロフィール"
+
+#: affiliates/base/templates/base/about.html:171
+msgid "How do I update my personal profile information?"
+msgstr "プロフィール情報を更新するには？"
+
+#: affiliates/base/templates/base/about.html:174
+msgid ""
+"Moved? Changed your name? Grew a moustache? Just visit your profile page and"
+" click on the edit profile link at the top."
+msgstr ""
+"サイトを移動しましたか？ 名前を変えましたか？ 口ひげを生やしましたか？ "
+"そんなときは、プロフィールページを開いて、上の方にあるプロフィール編集リンクをクリックしてください。"
+
+#: affiliates/base/templates/base/about.html:178
+#: affiliates/users/templates/users/profile.html:44
+msgid ""
+"You can update your avatar picture at <a "
+"href=\"%(gravatar)s\">gravatar.com</a>."
+msgstr "アバター写真は <a href=\"%(gravatar)s\">gravatar.com</a> で更新できます。"
+
+#: affiliates/base/templates/base/about.html:184
+msgid "How will you contact me if I win a prize?"
+msgstr "賞を獲得した場合の連絡方法は？"
+
+#: affiliates/base/templates/base/about.html:187
+msgid ""
+"If you qualify for an affiliates prize you will be notified that you have "
+"won via the email account in your affiliates profile."
+msgstr "あなたがアフィリエイト賞を獲得した場合、アフィリエイトプロフィールに登録されているメールアドレスを通じて受賞をお知らせします。"
+
+#: affiliates/base/templates/base/about.html:196
+msgid "Getting involved With Firefox Affiliates"
+msgstr "Firefox アフィリエイトに参加しよう"
+
+#: affiliates/base/templates/base/about.html:198
+msgid "I have an idea of a button. How can I share it?"
+msgstr "ボタンについての提案がある場合、どのように伝えたら良いですか？"
+
+#: affiliates/base/templates/base/about.html:201
+msgid ""
+"Mozilla and Firefox are all about community. If you have an idea, we want to"
+" hear it. Send us a note at <a href=\"%(email)s\">affiliates@mozilla.org</a>"
+" and tell us your amazing idea for the program."
+msgstr ""
+"Mozilla と Firefox "
+"ではコミュニティがすべてです。何かアイデアをお持ちなら、ぜひ聞かせてください。このプログラムをもっと良くする素晴らしいアイデアがあれば、<a "
+"href=\"%(email)s\">affiliates@mozilla.org</a> までメールを送ってください。"
+
+#: affiliates/base/templates/base/about.html:210
+msgid "Can I build my own button?"
+msgstr "独自のボタンを作れますか？"
+
+#: affiliates/base/templates/base/about.html:213
+msgid ""
+"Not yet… but soon. We're working on a way to make it easy for people to "
+"create their own Firefox buttons in their language. Look for this in future "
+"versions of Firefox Affiliates."
+msgstr ""
+"まだできませんが、もうすぐできるようになる予定です。皆さんが自分の言語で簡単に独自の Firefox "
+"ボタンを作成できるようにする方法を模索中です。Firefox アフィリエイトの今後に期待してください。"
+
+#: affiliates/base/templates/base/about.html:221
+msgid "I want to help make Firefox Affiliates better. How can I get involved?"
+msgstr "Firefox アフィリエイトを良くするために協力したいです。どうすれば参加できますか？"
+
+#: affiliates/base/templates/base/about.html:224
+msgid ""
+"If you’d like to help out with the affiliates program, contact us at <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>. We’d love your help with "
+"everything from coding to marketing."
+msgstr ""
+"アフィリエイトプログラムの改善にご協力いただける場合は、<a href=\"%(email)s\">affiliates@mozilla.org</a>"
+" までご連絡ください。コーディングからマーケティングまであらゆる形での参加をお待ちしています。"
+
+#: affiliates/base/templates/base/base.html:12
+#: affiliates/base/templates/base/base.html:15
+#: affiliates/base/templates/base/base.html:21
+#: affiliates/base/templates/base/base.html:65
+#: affiliates/base/templates/base/home.html:15
+#: affiliates/facebook/templates/facebook/base.html:15
+#: affiliates/settings/base.py:152
+msgid "Firefox Affiliates"
+msgstr "Firefox アフィリエイト"
+
+#: affiliates/base/templates/base/base.html:49
+msgid "Close"
+msgstr "閉じる"
+
+#: affiliates/base/templates/base/base.html:50
+msgid "This field is required."
+msgstr "この項目は必ず入力してください。"
+
+#: affiliates/base/templates/base/base.html:51
+msgid "Thanks for subscribing!"
+msgstr "購読ありがとうございます！"
+
+#: affiliates/base/templates/base/base.html:52
+msgid "Sorry, there was an error. Please refresh and try again."
+msgstr "申し訳ありませんが、問題が発生しました。ページを再読み込みしてもう一度試してください。"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/base.html:60
+#: affiliates/base/templates/base/base.html:170
+#: affiliates/base/templates/base/strings.html:32
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: affiliates/base/templates/base/base.html:71
+msgid "Menu"
+msgstr "メニュー"
+
+#. clicks on their banners.
+#: affiliates/base/templates/base/base.html:74
+#: affiliates/facebook/templates/facebook/base.html:45
+msgid "Leaderboard"
+msgstr "順位表"
+
+#: affiliates/base/templates/base/base.html:75
+#: affiliates/statistics/templates/statistics/index.html:3
+#: affiliates/statistics/templates/statistics/index.html:17
+msgid "Performance"
+msgstr "実績"
+
+#: affiliates/base/templates/base/base.html:84
+#: affiliates/base/templates/base/dashboard.html:14
+#: affiliates/base/templates/base/dashboard.html:22
+#: affiliates/links/templates/links/detail.html:52
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: affiliates/base/templates/base/base.html:85
+msgid "Profile"
+msgstr "プロフィール"
+
+#: affiliates/base/templates/base/base.html:86
+msgid "Sign out"
+msgstr "ログアウト"
+
+#: affiliates/base/templates/base/base.html:90
+msgid "Sign in"
+msgstr "ログイン"
+
+#: affiliates/base/templates/base/base.html:108
+msgid "Get Firefox Affiliates News"
+msgstr "Firefox アフィリエイトの最新情報を入手"
+
+#: affiliates/base/templates/base/base.html:111
+#: affiliates/facebook/forms.py:203
+#: affiliates/facebook/templates/facebook/base.html:159
+msgid "Your email address"
+msgstr "メールアドレス"
+
+#: affiliates/base/templates/base/base.html:116
+msgid "Country"
+msgstr "国"
+
+#: affiliates/base/templates/base/base.html:121
+msgid "Format"
+msgstr "形式"
+
+#: affiliates/base/templates/base/base.html:132
+msgid "HTML"
+msgstr "HTML"
+
+#: affiliates/base/templates/base/base.html:142
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr "Mozilla が <a href=\"%s\">プライバシーポリシー</a> に従って私の個人情報を扱うことに同意します"
+
+#. Label used for the newsletter signup button.
+#: affiliates/base/templates/base/base.html:150
+#: affiliates/facebook/templates/facebook/base.html:180
+msgid "Sign me up!"
+msgstr "購読開始"
+
+#: affiliates/base/templates/base/base.html:175
+msgid ""
+"Portions of this content are ©1998–%(thisyear)s by individual mozilla.org "
+"contributors. Content available under a <a href=\"%(license)s\">Creative "
+"Commons license</a>."
+msgstr ""
+"© 1998–%(thisyear)s このコンテンツの一部は mozilla.org の個別貢献者によって提供されたものです。コンテンツは <a "
+"href=\"%(license)s\">Creative Commons ライセンス</a> で公開されています。"
+
+#: affiliates/base/templates/base/base.html:182
+msgid "Source code"
+msgstr "ソースコード"
+
+#: affiliates/base/templates/base/base.html:187
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: affiliates/base/templates/base/base.html:188
+msgid "Partner with Us"
+msgstr "パートナーシップ"
+
+#: affiliates/base/templates/base/base.html:189
+msgid "Donate"
+msgstr "寄付"
+
+#: affiliates/base/templates/base/base.html:190
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#: affiliates/base/templates/base/base.html:191
+msgid "Legal Notices"
+msgstr "法的事項"
+
+#: affiliates/base/templates/base/base.html:192
+msgid "Report Trademark Abuse"
+msgstr "商標不正使用報告"
+
+#: affiliates/base/templates/base/base.html:196
+msgid "Mozilla on Twitter"
+msgstr "Mozilla の Twitter"
+
+#: affiliates/base/templates/base/base.html:197
+msgid "Firefox on Twitter"
+msgstr "Firefox の Twitter"
+
+#: affiliates/base/templates/base/base.html:198
+msgid "Mozilla on Facebook"
+msgstr "Mozilla の Facebook"
+
+#: affiliates/base/templates/base/base.html:199
+msgid "Firefox on Facebook"
+msgstr "Firefox の Facebook"
+
+#: affiliates/base/templates/base/dashboard.html:23
+msgid ""
+"See how your banners are performing and where you rank among other Firefox "
+"Affiliates. Thanks for supporting Firefox and the Mozilla mission to build a"
+" better Web for all!"
+msgstr ""
+"あなたのバナーの実績と、他の Firefox アフィリエイト参加者と比べた順位を見てみましょう。Firefox と、すべての人のためにより良い Web "
+"を創るという Mozilla のミッションを支えていただきありがとうございます！"
+
+#: affiliates/base/templates/base/dashboard.html:26
+msgid "My stats"
+msgstr "自分の統計情報"
+
+#: affiliates/base/templates/base/dashboard.html:35
+msgid "My Banners"
+msgstr "自分のバナー"
+
+#: affiliates/base/templates/base/dashboard.html:36
+#: affiliates/facebook/templates/facebook/banner_list.html:76
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:7
+msgid "Create a new banner"
+msgstr "新しいバナーを作成"
+
+#: affiliates/base/templates/base/dashboard.html:47
+msgid "You don’t have any banners yet. Why not create one now?"
+msgstr "あなたはまだバナーを作成していません。今すぐ作成しましょう。"
+
+#: affiliates/base/templates/base/dashboard.html:52
+#: affiliates/base/templates/base/home.html:66
+msgid "1. Pick a banner"
+msgstr "1. バナーを選択"
+
+#: affiliates/base/templates/base/dashboard.html:53
+#: affiliates/base/templates/base/home.html:67
+msgid ""
+"Choose from a number of designs that support Firefox and other Mozilla "
+"products."
+msgstr "Firefox やその他の Mozilla 製品を支える様々なデザインから好きなものを選んでください。"
+
+#: affiliates/base/templates/base/dashboard.html:56
+#: affiliates/base/templates/base/home.html:70
+msgid "2. Customize"
+msgstr "2. カスタマイズ"
+
+#: affiliates/base/templates/base/dashboard.html:57
+#: affiliates/base/templates/base/home.html:71
+msgid ""
+"Select the size and color that suits your site. Banners and links are also "
+"available in over 30 languages."
+msgstr "あなたのサイトに合ったサイズと色を選んでください。バナーとリンクは 30 以上の言語に対応しています。"
+
+#: affiliates/base/templates/base/dashboard.html:60
+#: affiliates/base/templates/base/home.html:74
+msgid "3. Post to your site"
+msgstr "3. サイトへ投稿"
+
+#: affiliates/base/templates/base/dashboard.html:61
+#: affiliates/base/templates/base/home.html:75
+msgid ""
+"Copy and paste the HTML or text link into your site, email or wherever you’d"
+" like to share it."
+msgstr "HTML もしくはテキストリンクを、サイト、メール署名、その他どこでも共有したいところにコピー＆ペーストしてください。"
+
+#: affiliates/base/templates/base/dashboard.html:71
+msgid "My Milestones"
+msgstr "自分のマイルストーン"
+
+#: affiliates/base/templates/base/dashboard.html:79
+msgid "Affiliates News"
+msgstr "アフィリエイト最新情報"
+
+#: affiliates/base/templates/base/dashboard.html:84
+msgid "Become a Mozillian"
+msgstr "Mozillian になる"
+
+#: affiliates/base/templates/base/dashboard.html:86
+msgid ""
+"At Mozilla, doing good is part of our code. Our mission is to promote "
+"openness, innovation and opportunity on the Web, and we can only do it with "
+"awesome people like you. If you’d like to do even more to help our mission, "
+"we have volunteer opportunities available in a number of areas."
+msgstr ""
+"Mozilla では、善いことをするという精神が製品に刻み込まれています。私たちのミッションは、Web "
+"の公開性、革新、機会を推進することであり、それはあなたのような素晴らしい人たちの協力があってこそ成し遂げられるものです。私たちのミッションを支えるため他にも何かしたいという人は、様々な分野でボランティアとして協力できます。"
+
+#: affiliates/base/templates/base/dashboard.html:93
+msgid "Learn more"
+msgstr "詳しくはこちら"
+
+#: affiliates/base/templates/base/home.html:24
+#, fuzzy
+msgid "So long, <strong>Firefox Affiliates</strong>."
+msgstr "Firefox アフィリエイトへようこそ"
+
+#: affiliates/base/templates/base/home.html:25
+msgid "Hello, <strong>Firefox Friends</strong>."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:27
+msgid ""
+"We’re moving our Affiliates program to Firefox Friends, an exciting new way "
+"to share what we do with the world. At Firefox Friends you’ll have "
+"opportunities to get recognized for making an impact — plus, you’ll be in "
+"the know for all the latest Mozilla news and announcements."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:33
+msgid ""
+"At the beginning of August, new banner creation for Affiliates will be "
+"disabled, so please join us at Firefox Friends to continue sharing Mozilla "
+"with world."
+msgstr ""
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/home.html:36
+#, fuzzy
+msgid "Join Firefox Friends"
+msgstr "Firefox プラグイン"
+
+#: affiliates/base/templates/base/home.html:38
+msgid "Click here for more information"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:49
+msgid "This site requires JavaScript."
+msgstr "このサイトは JavaScript を必要とします。"
+
+#: affiliates/base/templates/base/home.html:55
+msgid "Become a Firefox Affiliate today!"
+msgstr "今日から Firefox アフィリエイトを始めよう！"
+
+#: affiliates/base/templates/base/home.html:56
+msgid ""
+"Get everything you need to share Firefox – and the other Mozilla products "
+"you love – with the world. Climb the leaderboard to help us build a better "
+"Web."
+msgstr ""
+"Firefox、そしてあなたが好きな他の Mozilla 製品を世界に広めるために必要なものをすべて手に入れましょう。順位表を駆け上がって、より良い "
+"Web を創るという私たちのミッションを支えてください。"
+
+#: affiliates/base/templates/base/home.html:57
+msgid "Get started"
+msgstr "はじめよう"
+
+#: affiliates/base/templates/base/home.html:63
+msgid "How it works"
+msgstr "仕組み"
+
+#: affiliates/base/templates/base/home.html:83
+msgid "Earn rewards!"
+msgstr "報酬を獲得しよう！"
+
+#: affiliates/base/templates/base/home.html:84
+msgid ""
+"Climb the affiliates leaderboard for your chance to win awesome Firefox "
+"gear, and to get even more involved with Mozilla. The more you share, the "
+"higher you can climb."
+msgstr ""
+"アフィリエイト順位表の上位に入れば、素敵な Firefox グッズなどをもらえて、より深く Mozilla に関われるチャンスがあります。Firefox"
+" を広めれば広めるほど順位が上がります。"
+
+#: affiliates/base/templates/base/home.html:97
+msgid "Top affiliates"
+msgstr "上位アフィリエイト参加者"
+
+#: affiliates/base/templates/base/macros.html:49
+msgid "Someday soon!"
+msgstr "もうまもなく！"
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:64
+msgid "<strong>%(rank)s</strong> ranking"
+msgstr "<strong>%(rank)s</strong> 位"
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:69
+msgid "Not yet ranked"
+msgstr "まだ順位が付いていません"
+
+#: affiliates/base/templates/base/macros.html:78
+msgid "<strong>%(count)s</strong> affiliate"
+msgid_plural "<strong>%(count)s</strong> affiliates"
+msgstr[0] "<strong>%(count)s</strong> 人の参加者"
+
+#: affiliates/base/templates/base/macros.html:86
+msgid "<strong>%(count)s</strong> click"
+msgid_plural "<strong>%(count)s</strong> clicks"
+msgstr[0] "<strong>%(count)s</strong> クリック"
+
+#: affiliates/base/templates/base/macros.html:94
+msgid "<strong>%(count)s</strong> banner"
+msgid_plural "<strong>%(count)s</strong> banners"
+msgstr[0] "<strong>%(count)s</strong> 個のバナー"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:31
+msgid "Firefox"
+msgstr "Firefox"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:33
+msgid "Firefox OS"
+msgstr "Firefox OS"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:38
+msgid "Mozilla Recruiting"
+msgstr "Mozilla 採用情報"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:39
+msgid "Firefox for Mobile"
+msgstr "モバイル版 Firefox"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:40
+msgid "Firefox for Desktop"
+msgstr "デスクトップ版 Firefox"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:41
+msgid "Firefox Plugins"
+msgstr "Firefox プラグイン"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:46
+msgid "Android"
+msgstr "Android"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:47
+msgid "Upgrade"
+msgstr "アップグレード"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:48
+msgid "Download: Fast, Fun, Awesome"
+msgstr "ダウンロード: 高速で、楽しく、素晴らしい"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:49
+msgid "Work for Mozilla"
+msgstr "Mozilla で働く"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:50
+msgid "Plugin Checker"
+msgstr "プラグインチェッカー"
+
+#: affiliates/base/templates/base/strings.html:51
+msgid "Download Aurora"
+msgstr "Aurora をダウンロード"
+
+#: affiliates/base/templates/base/strings.html:52
+msgid "Aurora for Android"
+msgstr "Android 版 Aurora"
+
+#: affiliates/base/templates/base/strings.html:53
+msgid "Download Beta"
+msgstr "Beta をダウンロード"
+
+#. 3.6 refers to Firefox version 3.6
+#: affiliates/base/templates/base/strings.html:55
+msgid "3.6 Upgrade"
+msgstr "3.6 へのアップグレード"
+
+#: affiliates/base/templates/base/strings.html:56
+msgid "Facebook Messenger for Firefox"
+msgstr "Firefox 用 Facebook メッセンジャー"
+
+#: affiliates/base/templates/base/strings.html:61
+msgid "Purple"
+msgstr "紫"
+
+# Color for badge images.
+#: affiliates/base/templates/base/strings.html:62
+msgid "Blue"
+msgstr "青"
+
+#: affiliates/base/templates/base/strings.html:63
+msgid "Green"
+msgstr "緑"
+
+#: affiliates/base/templates/base/strings.html:64
+msgid "Red"
+msgstr "赤"
+
+#: affiliates/base/templates/base/strings.html:65
+msgid "Orange"
+msgstr "オレンジ"
+
+#: affiliates/base/templates/base/strings.html:66
+msgid "Yellow"
+msgstr "黄"
+
+#: affiliates/base/templates/base/strings.html:67
+msgid "White"
+msgstr "白"
+
+#: affiliates/base/templates/base/strings.html:68
+msgid "Black"
+msgstr "黒"
+
+#: affiliates/base/templates/base/terms.html:6
+#: affiliates/base/templates/base/terms.html:14
+msgid "Terms of Service"
+msgstr "利用規約"
+
+#. L10n: &hellip; is an ellipses, the three dots like "I love Firefox
+#. because..."
+#: affiliates/facebook/forms.py:18
+msgid "I love Firefox because&hellip;"
+msgstr "私は Firefox が好きです。その理由は..."
+
+#: affiliates/facebook/forms.py:28
+msgid "Enter e-mail"
+msgstr "メールアドレスを入力"
+
+#: affiliates/facebook/forms.py:93
+msgid ""
+"Sorry. Your message is too long. Please tell the world why you love Firefox "
+"in 90 characters or less."
+msgstr "申し訳ありませんが、メッセージが長すぎます。あなたが Firefox を好きな理由を 90 文字以内で世界中の人たちに伝えてください。"
+
+#. L10n: Used in a dropdown that lets users filter the Leaderboard by
+#. L10n: country. Refers to the default filter, which shows all countries
+#: affiliates/facebook/forms.py:179
+msgid "All"
+msgstr "すべて"
+
+#. Account linking lets a user associate an Affiliates account with their
+#. Facebook app account. Description is in another string. :D
+#: affiliates/facebook/managers.py:139
+#: affiliates/facebook/templates/facebook/base.html:86
+msgid "Link your Firefox Affiliates account"
+msgstr "あなたの Firefox アフィリエイトアカウントを関連付ける"
+
+#: affiliates/facebook/models.py:313
+msgid "Way to go! You've had {0} clicks on your Firefox banner."
+msgstr "その調子！ あなたの Firefox バナーは {0} クリック獲得しました。"
+
+#: affiliates/facebook/models.py:315
+msgid ""
+"Amazing! You've had {0} clicks on your Firefox banner. Thanks for spreading "
+"the word."
+msgstr "素晴らしい！ あなたのバナーは {0} クリック獲得しました。Firefox の認知度向上にご協力ありがとうございます。"
+
+#: affiliates/facebook/models.py:318
+msgid ""
+"Wow! Your banner has {0} clicks! It's ready to grow up and become a Firefox "
+"ad."
+msgstr "すごい！ あなたのバナーは {0} クリック獲得しました。さらに成長し Firefox の広告になるチャンスが見えています。"
+
+#: affiliates/facebook/models.py:320
+msgid "Congratulations! Your Firefox banner has now become a Facebook ad!"
+msgstr "おめでとう！ あなたの Firefox バナーはついに Facebook 広告になりました！"
+
+#: affiliates/facebook/views.py:177
+msgid "Your banner has been deleted."
+msgstr "バナーは削除されました。"
+
+#: affiliates/facebook/views.py:211
+msgid "You have successfully posted a banner to your wall !"
+msgstr "ウォールへのバナー投稿が完了しました！"
+
+#: affiliates/facebook/views.py:303
+msgid "You have successfully sent a message to one of your friends!"
+msgstr "友達のひとりへのメッセージ送信が完了しました！"
+
+#. Banner styles are images that will be used as the background of a banner
+#. that the user creates.
+#: affiliates/facebook/templates/facebook/banner_create.html:18
+msgid "First, choose one of the banner styles below."
+msgstr "まず最初に、以下のバナースタイルの中からひとつを選択してください。"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:24
+msgid "Please correct the errors in the form below."
+msgstr "以下のフォームの間違いを訂正してください。"
+
+#. Used above a box showing what a banner will look like once it is created.
+#: affiliates/facebook/templates/facebook/banner_create.html:26
+msgid "Your banner preview"
+msgstr "バナーのプレビュー"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:36
+msgid "Next, tell the world why you love Firefox in 90 characters or less."
+msgstr "次に、90 文字以内であなたが Firefox を好きな理由を世界に伝えてください。"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:42
+msgid "Use my profile image"
+msgstr "自分のプロフィール画像を使用"
+
+#. Label for a checkbox that gives us permission to use the user's banner in a
+#. paid Facebook ad.
+#: affiliates/facebook/templates/facebook/banner_create.html:46
+msgid "Feature me in a paid Facebook ad."
+msgstr "有料 Facebook 広告として私のバナーを取り上げてください。"
+
+#. Used on a link that, when clicked, pops up a text bubble with an
+#. explanation of a form field.
+#: affiliates/facebook/templates/facebook/banner_create.html:49
+msgid "What does this mean?"
+msgstr "これはどういう意味ですか？"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:52
+msgid ""
+"If you get %(click_count)s clicks or more, we would like to have permission "
+"to turn your banner into a paid ad on Facebook in your region. By checking "
+"this box you are granting us permission to use your banner in a paid "
+"Facebook ad, including your profile photo if you checked the box to include "
+"it in the banner, and the text you added to the banner. For a full "
+"description of the rights you are granting and more information, see the "
+"FAQs. Don't want to be featured in an ad? Make sure you don't opt in. If you"
+" opted in and don't want to be featured anymore, send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure your ad is "
+"removed."
+msgstr ""
+"もしあなたのバナーが %(click_count)s 回以上のクリック数を獲得した場合、Mozilla "
+"はあなたの許可を得た上で、それをあなたの地域向けの有料 Facebook "
+"広告として使いたいと思います。このボックスにチェックを入れることで、プロフィール写真 (バナーに含めるボックスにチェックを入れた場合) "
+"やバナーへ追加したテキストを含めて、あなたのバナーを有料 Facebook 広告に使うことを Mozilla "
+"に許可します。あなたが与えることになる権利の詳しい説明やその他の情報は FAQ "
+"を参照してください。広告として取り上げて欲しくない場合は、このボックスにチェックを入れないでください。チェックを入れて広告として取り上げられたものの、今後取り上げて欲しくないという場合は、あなたの広告を削除しますので、<a"
+" href=\"%(link)s\">affiliates@mozilla.org</a> までお知らせください。"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:69
+msgid "Save and Share"
+msgstr "保存して共有"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:14
+msgid "Are you sure?"
+msgstr "本当によろしいですか？"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:15
+msgid "These are the banners you've created so far:"
+msgstr "あなたがこれまでに作ったバナーはこちら:"
+
+#. Heading referring to when a banner was created.
+#: affiliates/facebook/templates/facebook/banner_list.html:26
+msgid "Creation date"
+msgstr "作成日"
+
+#. Heading above the number of clicks a banner has received.
+#: affiliates/facebook/templates/facebook/banner_list.html:30
+msgid "Clicks"
+msgstr "クリック数"
+
+#. Link that, when clicked, shows a dialog for posting a banner to a user's
+#. Facebook feed.
+#: affiliates/facebook/templates/facebook/banner_list.html:37
+msgid "Post to Feed"
+msgstr "フィードに投稿"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:45
+msgid "Delete"
+msgstr "削除"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:67
+msgid "Click Goal: <span>%(count)s</span>"
+msgstr "目標クリック数: <span>%(count)s</span>"
+
+#: affiliates/facebook/templates/facebook/base.html:16
+msgid "Help us share Firefox with the world."
+msgstr "Firefox の世界中への普及にご協力ください。"
+
+#: affiliates/facebook/templates/facebook/base.html:20
+#: affiliates/facebook/templates/facebook/base.html:148
+msgid "Invite your friends to Download Firefox!"
+msgstr "友達を招待して Firefox をダウンロードしてもらいましょう！"
+
+#: affiliates/facebook/templates/facebook/base.html:29
+msgid "My banners"
+msgstr "自分のバナー"
+
+#. answers to common questions about the app.
+#. FAQs is an abbreviation for Frequently Asked Questions
+#: affiliates/facebook/templates/facebook/base.html:37
+#: affiliates/facebook/templates/facebook/faq.html:13
+msgid "FAQs"
+msgstr "FAQ"
+
+#: affiliates/facebook/templates/facebook/base.html:92
+msgid ""
+"Do you already have an account from affiliates.mozilla.org? You can link "
+"your account to this application and you'll get credit for any clicks that "
+"you drive through Facebook. To connect your account, just click here and "
+"fill in your information. We'll send you an email to confirm. If you'd like "
+"to sign up for an account, just visit <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"既に affiliates.mozilla.org のアカウントをお持ちですか？ そのアカウントとこのアプリケーションを関連付ければ、Facebook "
+"を通じて獲得したクリックもすべて実績として数えられます。アカウントを関連付けるには、ここをクリックして必要な情報を入力してください。確認のため、追ってメールをお送りします。まだアカウントをお持ちでない場合は"
+" <a href=\"%(link)s\">affiliates.mozilla.org</a> を訪れてください。"
+
+#. Label used for the account linking button.
+#: affiliates/facebook/templates/facebook/base.html:103
+msgid "Submit"
+msgstr "送信"
+
+#: affiliates/facebook/templates/facebook/base.html:107
+msgid "Thanks for linking your affiliates.mozilla.org account."
+msgstr "affiliates.mozilla.org アカウントを関連付けていただき、ありがとうございます。"
+
+#: affiliates/facebook/templates/facebook/base.html:108
+msgid ""
+"If the email address you entered has an account, you will receive a "
+"confirmation email."
+msgstr "入力されたメールアドレスに該当するアカウントがある場合、確認のメールが送られます。"
+
+#: affiliates/facebook/templates/facebook/base.html:113
+msgid "Linked to <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+msgstr "<a href=\"%(link)s\">affiliates.mozilla.org</a> へ関連付けられました"
+
+#: affiliates/facebook/templates/facebook/base.html:120
+msgid ""
+"This account is linked to affiliates.mozilla.org. You are credited for "
+"clicks from Facebook. You can unlink accounts by clicking below."
+msgstr ""
+"このアカウントは affiliates.mozilla.org へ関連付けられています。あなたは Facebook "
+"からのクリックも獲得できます。関連付けを取り消すには以下のリンクをクリックしてください。"
+
+#. Text on a button that lets a user unlink their Facebook and Affiliates
+#. accounts.
+#: affiliates/facebook/templates/facebook/base.html:125
+msgid "Remove %(email_address)s"
+msgstr "%(email_address)s を削除"
+
+#: affiliates/facebook/templates/facebook/base.html:134
+msgid "Your Statistics Summary"
+msgstr "統計情報の概要"
+
+#: affiliates/facebook/templates/facebook/base.html:138
+msgid ""
+"You can filter results by selecting a specific month using the calendar "
+"above."
+msgstr "上のカレンダーを使って特定の月を選択すると、結果を絞り込むことができます。"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/base.html:139
+#: affiliates/facebook/templates/facebook/leaderboard.html:27
+msgid "Total clicks"
+msgstr "合計クリック数"
+
+#: affiliates/facebook/templates/facebook/base.html:140
+msgid "Statistics are currently unavailable."
+msgstr "統計情報は現在利用できません。"
+
+#: affiliates/facebook/templates/facebook/base.html:144
+msgid "Be a part of the Firefox movement"
+msgstr "Firefox の社会活動に参加しましょう"
+
+#: affiliates/facebook/templates/facebook/base.html:145
+msgid "It's easy!"
+msgstr "簡単です！"
+
+#: affiliates/facebook/templates/facebook/base.html:147
+msgid "Create your custom banner."
+msgstr "あなたのカスタムバナーを作成しましょう。"
+
+#: affiliates/facebook/templates/facebook/base.html:149
+msgid "Get clicks and you could be featured in a paid Facebook ad."
+msgstr "多くのクリック数を獲得すれば、有料 Facebook 広告として取り上げられる可能性があります。"
+
+#: affiliates/facebook/templates/facebook/base.html:155
+msgid "Get Firefox News"
+msgstr "Firefox の最新情報を入手"
+
+#: affiliates/facebook/templates/facebook/base.html:171
+msgid "I agree to the <a href=\"%(link)s\">Privacy Policy</a>"
+msgstr "<a href=\"%(link)s\">プライバシーポリシー</a> に同意します"
+
+#: affiliates/facebook/templates/facebook/base.html:175
+msgid "We will only send you Mozilla-related information."
+msgstr "Mozilla に関する情報のみお届けします。"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/base.html:184
+#: affiliates/facebook/templates/facebook/link_activation_email.html:13
+msgid "Thanks!"
+msgstr "ありがとうございます！"
+
+#: affiliates/facebook/templates/facebook/error.html:10
+msgid "Whoops!"
+msgstr "おっと！"
+
+#: affiliates/facebook/templates/facebook/error.html:11
+msgid "What are you doing here?"
+msgstr "ここで何をしていますか？"
+
+#: affiliates/facebook/templates/facebook/error.html:14
+msgid ""
+"Did you make a left at that last URL instead of a right? No problem. Here "
+"are some tips to get you back on your way:"
+msgstr "最後に見たページから間違った方向に進んでしまったようですね。でも問題ありません。元に戻るためのいくつかのヒントを紹介します。"
+
+#: affiliates/facebook/templates/facebook/error.html:21
+msgid ""
+"If you typed in the address, check your spelling. Could just be a typo."
+msgstr "直接アドレスを入力した場合は、スペルを確認してください。単なる入力ミスである可能性があります。"
+
+#: affiliates/facebook/templates/facebook/error.html:26
+msgid ""
+"If you followed a link, it’s probably broken. Please <a "
+"href=\"mailto:%(email)s\">contact us</a> and we’ll fix it."
+msgstr ""
+"リンクを辿ってきた場合、そのリンクが間違っている可能性があります。修正しますので <a "
+"href=\"mailto:%(email)s\">ご連絡ください</a>。"
+
+#: affiliates/facebook/templates/facebook/error.html:32
+msgid ""
+"If you're not sure what you're looking for, start at <a "
+"href=\"%(link)s\">mozilla.org</a>."
+msgstr ""
+"何を探しているかよく分からない場合は、<a href=\"%(link)s\">mozilla.org のトップページ</a> から始めてください。"
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:18
+msgid "Using Affiliate banners"
+msgstr "アフィリエイトバナーの使用"
+
+#: affiliates/facebook/templates/facebook/faq.html:21
+msgid "What is Firefox Affiliates?"
+msgstr "Firefox アフィリエイトとは？"
+
+#: affiliates/facebook/templates/facebook/faq.html:24
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"eligible for fun stuff like Firefox T-shirts and, if you opt in, we may "
+"feature your banner in a paid-ad on the Facebook ad network. While we do "
+"send out prizes and gifts to our Affiliates from time to time, Firefox "
+"Affiliates does not offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Firefox アフィリエイトでは、Firefox のバナーを作成し、あなたの Facebook プロフィールに追加して、訪れた人に Firefox "
+"のダウンロードを促すことができます。あなたのページや近況を見た人がバナーをクリックして Firefox "
+"のダウンロードページを訪れると、そのクリックはあなたの実績として数えられます。プロフィールを通じて多くのクリック数を獲得したアフィリエイト参加者は順位表に載り、Firefox"
+" T シャツなどのグッズをもらうことができます。また、あなたが望めば、Facebook "
+"広告ネットワーク上の有料広告としてあなたのバナーが取り上げられる可能性もあります。Firefox "
+"アフィリエイトでは、賞品やプレゼントを時々参加者へお届けしていますが、Firefox ボタンの設置に対する金銭的な報酬の提供は行いません。"
+
+#: affiliates/facebook/templates/facebook/faq.html:43
+msgid "How do I add a banner to my Facebook profile?"
+msgstr "私の Facebook のプロフィールにバナーを追加するには？"
+
+#: affiliates/facebook/templates/facebook/faq.html:48
+msgid ""
+"Select a banner design that you like using the <a href=\"%(link)s\">banner "
+"builder</a>, add a personal message about why you love Firefox and then "
+"click \"share.\" This will post the banner to your Facebook timeline and "
+"into your friends' newsfeed."
+msgstr ""
+"<a href=\"%(link)s\">バナービルダー</a> を使ってお好みのバナーデザインを選択し、あなたが Firefox "
+"を好きな理由について個人的なメッセージを追加してから「シェア」をクリックします。そうすると、あなたの Facebook "
+"タイムラインと友達のニュースフィードにバナーが投稿されます。"
+
+#: affiliates/facebook/templates/facebook/faq.html:60
+msgid "How do I invite a friend to use Firefox?"
+msgstr "友達を招待して Firefox を使ってもらうには？"
+
+#: affiliates/facebook/templates/facebook/faq.html:64
+msgid ""
+"If you'd like to personally invite someone to use Firefox, just select "
+"\"Share ad with friends\" from the side menu and you will be able to send a "
+"Facebook message with a custom Firefox download link. If your friend clicks "
+"on the link, you'll also get credit for the click."
+msgstr ""
+"誰かを個人的に招待して Firefox を使ってもらいたい場合は、サイドメニューから「友達とこの広告をシェア」を選択すれば、独自の Firefox "
+"ダウンロードリンクとともに Facebook メッセージを送信できます。その友達がリンクをクリックすれば、そのクリックはあなたの実績として数えられます。"
+
+#: affiliates/facebook/templates/facebook/faq.html:76
+msgid "Can my banner become a paid Facebook ad?"
+msgstr "自分のバナーを有料 Facebook 広告にすることはできますか？"
+
+#: affiliates/facebook/templates/facebook/faq.html:80
+msgid ""
+"If you checked the box to allow your banner to be featured in a paid "
+"Facebook ad, once you've reached %(click_count)s clicks on a Facebook "
+"banner, your banner will become eligible to be a paid Facebook ad. This "
+"means that Mozilla will pay to have an ad placed on the Facebook ad network "
+"sharing your message of why you love Firefox. We will notify you if your "
+"banner is chosen to be a paid ad in your region. If you do not want to "
+"participate in this, don't click the opt-in when you build your banner. If "
+"you've opted in by accident, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure you aren't "
+"included in the ad selection."
+msgstr ""
+"あなたのバナーを有料 Facebook 広告として取り上げることに同意するボックスにチェックを入れた上で、Facebook バナー上のクリックが "
+"%(click_count)s 回に達すると、そのバナーは有料 Facebook 広告になる資格を得ます。つまり、Mozilla がそれを "
+"Facebook 広告ネットワーク上に掲載するために広告料を払い、あなたがなぜ Firefox "
+"を好きかというメッセージを広めます。あなたのバナーがあなたの地域向けの有料広告に選ばれた場合はメールでお知らせします。このプログラムに参加したくない場合は、バナー作成時にボックスにチェックを入れないでください。間違ってチェックを入れてしまった場合は、広告の選択肢から除外しますので、<a"
+" href=\"%(link)s\">affiliates@mozilla.org</a> までご連絡ください。"
+
+#: affiliates/facebook/templates/facebook/faq.html:100
+msgid ""
+"If I opted in to having my banner become a paid Facebook ad, what exactly am"
+" I giving you permission to do?"
+msgstr ""
+"自分のバナーを有料 Facebook 広告にすることに同意した場合、正確にはどのような許可を Mozilla に与えることになるのでしょうか？"
+
+#: affiliates/facebook/templates/facebook/faq.html:108
+msgid ""
+"You are giving us permission to use, reproduce, distribute, edit, and "
+"display your photo, if it is included in your banner, and your message about"
+" why you love Firefox, for commercial purposes, specifically in a paid ad on"
+" Facebook. You are also acknowledging that you will not be paid for the use "
+"of your banner."
+msgstr ""
+"あなたは、あなたの写真 (バナーに含まれていた場合) となぜ Firefox を好きかというメッセージを、商用目的で、具体的には Facebook "
+"上の有料広告の中で、使用、複製、配布、編集、表示する許可を Mozilla に対して与えることになります。また同時に、あなたのバナーを使用する対価を "
+"Mozilla があなたに支払わないことも認めることになります。"
+
+#: affiliates/facebook/templates/facebook/faq.html:119
+msgid "How do I remove the application?"
+msgstr "アプリケーションを削除するには？"
+
+#: affiliates/facebook/templates/facebook/faq.html:122
+msgid ""
+"To remove the application, access your applications in the Facebook settings"
+" menu. Delete the application from your list of authorized apps and we'll "
+"delete your Affiliates profile on Facebook and the information associated "
+"with it. Note: Deleting the application on Facebook will not delete your "
+"affiliates.mozilla.org profile if you had one prior to installing the "
+"application. To delete that profile, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a>."
+msgstr ""
+"アプリケーションを削除するには、Firefox "
+"の設定メニューからあなたのアプリケーションにアクセスしてください。承認済みアプリの一覧からアプリケーションを削除すれば、Facebook "
+"上にあるあなたのアフィリエイトプロフィールとそれに関連付けられている情報も削除されます。注: Facebook "
+"上でアプリケーションを削除しても、アプリケーションのインストール前に作成された affiliates.mozilla.org "
+"上のプロフィールは削除されません。そのプロフィールを削除するには、<a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> までお問い合わせください。"
+
+#: affiliates/facebook/templates/facebook/faq.html:138
+msgid ""
+"How do I connect to my Firefox Affiliates account on affiliates.mozilla.org?"
+msgstr "affiliates.mozilla.org で自分の Firefox アフィリエイトアカウントを関連付けるには？"
+
+#: affiliates/facebook/templates/facebook/faq.html:146
+msgid ""
+"To connect your affiliates.mozilla.org account to this application, please "
+"use the connection wizard on the My Banners page. We'll send you an email to"
+" confirm that we've connected the accounts. If you'd like to sign up for an "
+"account, just visit <a href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"あなたの affiliates.mozilla.org "
+"アカウントをこのアプリケーションへ関連付けるには、「自分のバナー」ページにある接続ウィザードを使ってください。アカウントの関連付けを確認するメールをお送りします。まだアカウントをお持ちでない場合は"
+" <a href=\"%(link)s\">affiliates.mozilla.org</a> を訪れてください。"
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:159
+msgid "Leaderboard and User Statistics"
+msgstr "順位表とユーザ統計情報"
+
+#: affiliates/facebook/templates/facebook/faq.html:163
+msgid "How often does the leaderboard get updated?"
+msgstr "順位表の更新頻度は？"
+
+#: affiliates/facebook/templates/facebook/faq.html:167
+msgid ""
+"The leaderboard updates every day at midnight Pacific Time, so be sure to "
+"check in to see where you stand."
+msgstr "順位表は毎日、太平洋標準時の真夜中に更新されますので、時々現在のあなたの順位を確認してみてください。"
+
+#: affiliates/facebook/templates/facebook/faq.html:182
+msgid ""
+"No, though from time to time we may run contests to see who can get the most"
+" clicks for different Firefox products and campaigns. The winners will get "
+"Firefox T-shirts, hoodies and other awesome things we have at Mozilla HQ."
+msgstr ""
+"いいえ、私たちは時々、Firefox "
+"の製品やキャンペーンごとに誰が最も多くクリック数を獲得できるかを競うコンテストを開催することがあります。受賞者には、Mozilla の本社にある "
+"Firefox T シャツ、バーカー、その他素敵なグッズが贈られます。"
+
+#: affiliates/facebook/templates/facebook/faq.html:202
+msgid ""
+"Let us know. Send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and tell us what the problem "
+"is."
+msgstr ""
+"Mozilla までお問い合わせください。<a href=\"%(link)s\">affiliates@mozilla.org</a> "
+"へメールを送って、何が問題かを知らせてください。"
+
+#: affiliates/facebook/templates/facebook/first_run.html:8
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:17
+msgid "Welcome to Firefox Affiliates"
+msgstr "Firefox アフィリエイトへようこそ"
+
+#: affiliates/facebook/templates/facebook/first_run.html:11
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:20
+msgid ""
+"This is your one stop shop for telling the world about the only browser that"
+" puts you first: Firefox! Start now by building a banner to post on your "
+"Facebook profile. Get a ton of clicks and we may feature you in a Firefox ad"
+" (with your permission, of course) or send you some great Firefox gear."
+msgstr ""
+"これは、ユーザのことを第一に考えて作られている唯一のブラウザ、Firefox を世界に広めるための総合サービスです。今すぐバナーを作成し、あなたの "
+"Facebook プロフィールに投稿することから始めましょう。たくさんクリック数を獲得すれば、それが (もちろんあなたの許可を得た上で) Firefox"
+" の正式な広告として取り上げられたり、素敵な Firefox グッズがもらえたりする可能性があります。"
+
+#: affiliates/facebook/templates/facebook/first_run.html:20
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:31
+msgid "Let's go!"
+msgstr "さあ始めよう！"
+
+#: affiliates/facebook/templates/facebook/leaderboard.html:11
+msgid "Affiliates with the most clicks"
+msgstr "クリック数上位のアフィリエイト参加者"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:23
+#: affiliates/links/templates/links/widgets/leaderboard.html:4
+msgid "Rank"
+msgstr "順位"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:25
+msgid "User"
+msgstr "ユーザ"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:2
+msgid "Hi there!"
+msgstr "こんにちは！"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:5
+msgid ""
+"Thank you for linking your Firefox Affiliates account with the Affiliates "
+"Facebook application. Please click on the link below and you'll get credit "
+"for any clicks that you drive through Facebook on the main Affiliates "
+"leaderboard."
+msgstr ""
+"Firefox アフィリエイトアカウントを Facebook "
+"上のアフィリエイトアプリケーションと関連付けていただき、ありがとうございます。以下のリンクをクリックすれば、Facebook "
+"を通じて獲得したクリックも、メインのアフィリエイトサイトの実績として数えられます。"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:10
+msgid ""
+"If you didn't request to link your account, just ignore this e-mail and your"
+" account will not be linked."
+msgstr "アカウントの関連付けを申請していない場合は、単純にこのメールを無視してください。あなたのアカウントが関連付けられることはありません。"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:15
+msgid "The Firefox Affiliates team"
+msgstr "Firefox アフィリエイトチーム"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:3
+msgid ""
+"Download Firefox (Large Firefox logo rising in front of an orange "
+"background)"
+msgstr "Firefox をダウンロード (オレンジの背景に、下からせり上がってくる大きな Firefox ロゴ)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:5
+msgid "Download Firefox (Small Firefox logo on a light blue background)"
+msgstr "Firefox をダウンロード (明るい青の背景に、小さな Firefox ロゴ)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:7
+msgid ""
+"Download Firefox (Large Firefox logo resting on a light blue background)"
+msgstr "Firefox をダウンロード (明るい青の背景に、静止した大きな Firefox ロゴ)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:9
+msgid ""
+"Download Firefox (For Android. A mobile phone in front of a faded Firefox "
+"logo with a light blue background)"
+msgstr "Firefox をダウンロード (Android 向け。明るい青の背景に、フェードアウトする Firefox ロゴに被さる携帯電話)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:11
+msgid ""
+"Download Firefox (For Android. A mobile phone displaying a large Firefox "
+"logo on its screen, over a light blue background)"
+msgstr "Firefox をダウンロード (Android 向け。明るい青の背景に、画面上に大きな Firefox ロゴを表示した携帯電話)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:13
+msgid ""
+"Download Firefox (For Android. Firefox logo floating over a mobile phone "
+"resting on an orange background)"
+msgstr "Firefox をダウンロード (Android 向け。オレンジの背景に、静止した携帯電話の上に浮かび上がる Firefox ロゴ)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:15
+msgid ""
+"Download Firefox (Person in a Firefox costume jumping happily on a beach)"
+msgstr "Firefox をダウンロード (ビーチで Firefox の着ぐるみを着て楽しそうに飛び跳ねている人)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:17
+msgid ""
+"Download Firefox (For Android. A mobile phone running Firefox for Android "
+"next to a coffee cup with the Firefox logo on it)"
+msgstr ""
+"Firefox をダウンロード (Android 向け。Android 版 Firefox が動いている携帯電話と、その隣に Firefox "
+"ロゴの付いたコーヒーカップ)"
+
+#: affiliates/facebook/templates/facebook/strings.html:21
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"elegible for fun stuff like Firefox T-shirts. While we do send out prizes "
+"and gifts to our Affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Firefox アフィリエイトでは、Firefox のバナーを作成し、あなたの Facebook プロフィールに追加して、訪れた人に Firefox "
+"のダウンロードを促すことができます。あなたのページや近況を見た人がバナーをクリックして Firefox "
+"のダウンロードページを訪れると、そのクリックはあなたの実績として数えられます。プロフィールを通じて多くのクリック数を獲得したアフィリエイト参加者は順位表に載り、Firefox"
+" T シャツなどのグッズをもらうことができます。Firefox アフィリエイトでは、賞品やプレゼントを時々参加者へお届けしていますが、Firefox "
+"ボタンの設置に対する金銭的な報酬の提供は行いません。"
+
+#: affiliates/facebook/templates/facebook/strings.html:22
+msgid "Mozilla Firefox"
+msgstr "Mozilla Firefox"
+
+#: affiliates/facebook/templates/facebook/strings.html:23
+msgid ""
+"Different by design. It's fast, flexible and secure. Share Firefox with your"
+" friends today."
+msgstr "根本的な違い。高速、柔軟、安全。今すぐ友達に Firefox を教えてあげましょう。"
+
+#: affiliates/facebook/templates/facebook/strings.html:27
+msgid "You will lose credit for all your clicks on this banner."
+msgstr "このバナーで獲得したクリック数をすべて失うことになります。"
+
+#: affiliates/facebook/templates/facebook/strings.html:31
+msgid "Newsletter subscription unavailable at this time."
+msgstr "ニュースレターの購読受付は現在休止しています。"
+
+#: affiliates/facebook/templates/facebook/strings.html:32
+msgid ""
+"I'd like to receive the Firefox Affiliate newsletter and periodic Firefox "
+"Affiliates updates via email."
+msgstr "Firefox アフィリエイトニュースレターを購読し、Firefox アフィリエイトの最新情報をメールで定期的に受け取ります。"
+
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:4
+msgid "Current banners"
+msgstr "現在のバナー"
+
+#. L10n: "Woot" (w00t) as in internet slang expressing happiness.
+#: affiliates/links/middleware.py:19
+msgid ""
+"Woot! You've driven {num_downloads} downloads and {num_clicks} clicks since "
+"your last visit. Keep rockin'!"
+msgstr ""
+"やりましたね！ あなたは最後に訪問してから {num_downloads} ダウンロードと {num_clicks} "
+"クリックを獲得しました。その調子でがんばって！"
+
+#: affiliates/links/templates/links/detail.html:12
+#: affiliates/links/templates/links/detail.html:24
+msgid "Banner Details"
+msgstr "バナーの詳細"
+
+#: affiliates/links/templates/links/detail.html:31
+msgid "Created:"
+msgstr "作成日:"
+
+#: affiliates/links/templates/links/detail.html:34
+msgid "Clicks:"
+msgstr "クリック数:"
+
+#: affiliates/links/templates/links/detail.html:36
+msgid "Linked URL:"
+msgstr "リンクされた URL:"
+
+#: affiliates/links/templates/links/detail.html:40
+msgid "Size:"
+msgstr "サイズ:"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Embed code:"
+msgstr "埋め込みコード:"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Use this code to embed this banner on your website."
+msgstr "このコードを使って、あなたのサイトにバナーを埋め込んでください。"
+
+#: affiliates/links/templates/links/leaderboard.html:15
+msgid "Top Affiliates"
+msgstr "上位アフィリエイト参加者"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:5
+#: affiliates/users/models.py:18
+msgid "Affiliate"
+msgstr "名前"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:6
+msgid "Number of clicks"
+msgstr "クリック数"
+
+#: affiliates/statistics/templates/statistics/category.html:8
+msgid "{category} Metrics"
+msgstr "{category} の指標"
+
+#: affiliates/statistics/templates/statistics/category.html:26
+msgid "Banners"
+msgstr "バナー"
+
+#: affiliates/statistics/templates/statistics/index.html:18
+msgid ""
+"Take a look at the impact our Affiliates make on increasing awareness of "
+"Mozilla and its products."
+msgstr "Mozilla とその製品の認知度向上にアフィリエイト参加者がどれほど影響を及ぼしているか見てみましょう。"
+
+#: affiliates/statistics/templates/statistics/index.html:22
+msgid "Key Metrics"
+msgstr "主要指標"
+
+#: affiliates/statistics/templates/statistics/index.html:36
+msgid "Categories"
+msgstr "カテゴリ"
+
+#: affiliates/users/views.py:30
+msgid "Your profile has been updated!"
+msgstr "プロフィールを更新しました"
+
+#: affiliates/users/views.py:45
+msgid "You must be logged in to view that page."
+msgstr "このページを表示するにはログインしてください。"
+
+#: affiliates/users/templates/users/profile.html:21
+msgid "Name: {display_name}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:26
+msgid "Biography: {biography_text}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:31
+msgid "Edit your profile"
+msgstr "プロフィールを編集"
+
+#: affiliates/users/templates/users/profile.html:57
+msgid "Stats"
+msgstr "統計情報"
+
+#: affiliates/users/templates/users/profile.html:65
+msgid "Milestones"
+msgstr "マイルストーン"

@@ -1,0 +1,119 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-24 09:50+0200\n"
+"PO-Revision-Date: 2013-10-06 14:48+0000\n"
+"Last-Translator: Inma <inma.barrios@mozilla-hispano.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1381070883.0\n"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/lib/email.js:40
+msgid "Confirm email address for Persona"
+msgstr "Confirma la dirección de correo para Mozilla Persona"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/authentication.ejs:5
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/authentication.ejs:24
+msgid "Loading"
+msgstr "Cargando"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:1
+msgid "Thank you for using Persona."
+msgstr "Gracias por usar Mozilla Persona."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:3
+msgid ""
+"Use the PIN code below to confirm this email address is linked to your Yahoo "
+"account."
+msgstr ""
+"Usa el código PIN inferior para confirmar que esta dirección de correo está "
+"vinculada a tu cuenta de Yahoo."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:6
+msgid ""
+"Note: If you are NOT trying to sign into a website with Persona, please "
+"ignore this email."
+msgstr ""
+"Nota: Si NO estás intentado entrar en un sitio con Mozilla Persona, ignora "
+"este correo."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:8
+msgid "Thank you,"
+msgstr "Gracias,"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:9
+msgid "The Persona team"
+msgstr "El equipo de Mozilla Persona"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:5
+msgid "System Error, please try again later"
+msgstr "Error del sistema, inténtalo de nuevo pasados unos minutos"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:27
+msgid "Sorry, we are unable to log you in as %s"
+msgstr "Lo sentimos, no podemos identificarte como %s"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:28
+msgid "Something went wrong, please try again later"
+msgstr "Algo no salió bien, inténtalo de nuevo pasados unos minutos"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:29
+msgid "Try Again"
+msgstr "Intentar de nuevo"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:5
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:27
+msgid "Accounts don't match"
+msgstr "Las cuentas no coinciden"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:35
+msgid "Go back"
+msgstr "Volver"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:36
+msgid "Continue"
+msgstr "Continuar"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:41
+msgid "Confirm your email address"
+msgstr "Confirma tu dirección de correo electrónico"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:43
+msgid "Check your email at %(claimed)s."
+msgstr "Verifica tu correo en %(claimed)s."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:47
+msgid "Please enter PIN from email:"
+msgstr "Escribe el PIN del correo:"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:48
+msgid "Sorry, PIN doesn't match"
+msgstr "Perdón, el PIN no coincide"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:52
+msgid "Sign in"
+msgstr "Conectar"
+
+#~ msgid "Authentication Error"
+#~ msgstr "Error de autenticación"
+
+#~ msgid ""
+#~ "Sorry, it looks like you were trying to log in as %s, but were logged in "
+#~ "to %s as a different address."
+#~ msgstr ""
+#~ "Lo sentimos, parece que intentabas identificarte como %s, pero %s te "
+#~ "identificó con una dirección diferente."
+
+#~ msgid "Please visit %s and ensure that you are logged in as %s."
+#~ msgstr "Visita %s y asegúrate de que estás identificado/a como %s."

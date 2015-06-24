@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2015-03-26 11:21+0000\n"
+"Last-Translator: Amir <amir_farsi@ymail.com>\n"
+"Language-Team: none\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1427368868.0\n"
+
+#~ msgid "An error occured."
+#~ msgstr "یک خطا رخ داده است."
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "در هنگام ایجاد پیش‌نمایش یک خطا به وجود آمد."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "در هنگام ارسال رأی شما یک خطا به وجود آمد."
+
+#~ msgid "You replied"
+#~ msgstr "شما پاسخ داده‌اید"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "شما و 1 نفر دیگر پاسخ داده‌اید"
+
+#~ msgid "No differences found"
+#~ msgstr "تفاوتی یافت نشد"
+
+#~ msgid "Cancel"
+#~ msgstr "انصراف"
+
+#~ msgid "Image Attachment"
+#~ msgstr "الصاق تصویر"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "نتوانست فایل را آپلود کند. لطفاً بعداً دوباره تلاش کنید."
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "تصویر نادرست. لطفاً یک فایل تصویر درست را انتخاب کنید."
+
+#, fuzzy
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "تصویر نادرست. لطفاً یک فایل تصویر درست را انتخاب کنید."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "آپلود لغو شد. لطفاً یک فایل تصویر انتخاب کنید."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "فایل حذف شد. لطفاً یک فایل تصویر انتخاب کنید."
+
+#~ msgid "Delete this image"
+#~ msgstr "حذف این تصویر"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "در حال آپلود \"%s\"..."
+
+#~ msgid "Loading..."
+#~ msgstr "در حال بارگذاری..."
+
+#~ msgid "No votes data"
+#~ msgstr "فاقد داده‌ی آراء"
+
+#~ msgid "Error loading graph"
+#~ msgstr "خطا در بارگذاری گراف"
+
+#~ msgid "Votes"
+#~ msgstr "آراء"
+
+#~ msgid "Percent"
+#~ msgstr "درصد"
+
+#~ msgid "Yes"
+#~ msgstr "بله"
+
+#~ msgid "No"
+#~ msgstr "خیر"
+
+#~ msgid "Questions"
+#~ msgstr "سؤال‌ها"
+
+#, fuzzy
+#~ msgid "Solved"
+#~ msgstr "% حل شده"
+
+#~ msgid "% Solved"
+#~ msgstr "% حل شده"
+
+#~ msgid "Responded in 24 hours"
+#~ msgstr "در 24 ساعت پاسخ داده شد"
+
+#~ msgid "% Responded in 24 hours"
+#~ msgstr "% در 24 ساعت پاسخ داده شد"
+
+#~ msgid "Responded in 72 hours"
+#~ msgstr "در 72 ساعت پاسخ داده شد"
+
+#~ msgid "% Responded in 72 hours"
+#~ msgstr "% در 72 ساعت پاسخ داده شد"
+
+#~ msgid "Not responded in 24 hours"
+#~ msgstr "در 24 ساعت پاسخ داده نشد"
+
+#~ msgid "Not responded in 72 hours"
+#~ msgstr "در 72 ساعت پاسخ داده نشد"
+
+#~ msgid "Article Votes: % Helpful"
+#~ msgstr "آرای مقاله: % مفید"
+
+#~ msgid "Answer Votes: % Helpful"
+#~ msgstr "آرای پاسخ: % مفید"
+
+#~ msgid "Support Forum"
+#~ msgstr "انجمن پشتیبانی"
+
+#~ msgid "Click Through Rate %"
+#~ msgstr "درصد نرخ کلیک: %"
+
+#~ msgid "Visitors"
+#~ msgstr "بازدید کنندگان"
+
+#~ msgid "L10n Coverage"
+#~ msgstr "پوشش L10n"
+
+#~ msgid "Percent Yes"
+#~ msgstr "درصد بله"
+
+#~ msgid "I don't know"
+#~ msgstr "من نمیدانم"
+
+#~ msgid "Bold"
+#~ msgstr "ضخیم"
+
+#~ msgid "bold text"
+#~ msgstr "متن ضخیم"
+
+#~ msgid "Italic"
+#~ msgstr "کج"
+
+#~ msgid "italic text"
+#~ msgstr "متن کج"
+
+#~ msgid "Numbered List"
+#~ msgstr "لیست شماره گذاری شده"
+
+#~ msgid "Numbered list item"
+#~ msgstr "ردیف لیست شماره گذاری شده"
+
+#~ msgid "Bulleted List"
+#~ msgstr "لیست علامت گذاری شده"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "ردیف لیست علامت گذاری شده"
+
+#~ msgid "Insert a link..."
+#~ msgstr "درج یک پیوند..."
+
+#~ msgid "link text"
+#~ msgstr "متن پیوند"
+
+#~ msgid "Link text:"
+#~ msgstr "متن پیوند:"
+
+#~ msgid "Link target:"
+#~ msgstr "مقصد پیوند:"
+
+#~ msgid "Support article:"
+#~ msgstr "مقاله‌ی پشتیبانی:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "نام مقاله را وارد کنید"
+
+#~ msgid "External link:"
+#~ msgstr "پيوند خارجی:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "URL پیوند خارجی را وارد کنید"
+
+#~ msgid "No sections found"
+#~ msgstr "هیچ بخشی یافت نشد"
+
+#~ msgid "Insert Link"
+#~ msgstr "درج پیوند"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "مقاله پایگاه دانش"
+
+#~ msgid "Insert media..."
+#~ msgstr "درج رسانه..."
+
+#~ msgid "media"
+#~ msgstr "رسانه"
+
+#~ msgid "Search Gallery"
+#~ msgstr "جستجوی گالری"
+
+#~ msgid "Show:"
+#~ msgstr "نمایش:"
+
+#~ msgid "Images"
+#~ msgstr "تصاوير"
+
+#~ msgid "Videos"
+#~ msgstr "ویدئوها"
+
+#~ msgid "Show media for:"
+#~ msgstr "نمایش رسانه برای:"
+
+#~ msgid "Insert Media"
+#~ msgstr "درج رسانه"
+
+#~ msgid "Upload Media"
+#~ msgstr "آپلود رسانه"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "لطفاً یک تصویر یا ویدئو برای درج کردن انتخاب کنید."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "متأسّفیم، یک خطا وجود دارد."
+
+#~ msgid "Common responses"
+#~ msgstr "پاسخ‌های متداول"
+
+#~ msgid "cannedresponses"
+#~ msgstr "پاسخ‌های سربسته"
+
+#~ msgid "Search for common responses"
+#~ msgstr "جستجو برای پاسخ‌های متداول"
+
+#~ msgid "Categories"
+#~ msgstr "دسته‌بندی‌ها"
+
+#~ msgid "Responses"
+#~ msgstr "پاسخ‌ها"
+
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "لطفاً یک دسته‌بندی از ستون قبلی انتخاب کنید یا یک جستجو را آغاز کنید."
+
+#~ msgid "Response editor"
+#~ msgstr "ویرایشگر پاسخ"
+
+#~ msgid "Switch to preview mode"
+#~ msgstr "سوییچ به حالت پیش‌نمایش"
+
+#~ msgid "Insert Response"
+#~ msgstr "درج پاسخ"
+
+#~ msgid "Matching responses"
+#~ msgstr "در حال تطبیق پاسخ‌ها"
+
+#~ msgid "Response preview"
+#~ msgstr "پیش‌نمایش پاسخ"
+
+#~ msgid "Switch to edit mode"
+#~ msgstr "سوییچ به حالت ویرایش"
+
+#~ msgid "Quote previous message..."
+#~ msgstr "نقل قول پیام قبلی..."
+
+#~ msgid " said"
+#~ msgstr " گفت"
+
+#~ msgid "Reply..."
+#~ msgstr "پاسخ..."
+
+#~ msgid "There was an error."
+#~ msgstr "یک خطا وجود دارد."
+
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "یک خطا وجود دارد. لطفاً چند لحظه‌ی دیگر دوباره امتحان کنید."
+
+#~ msgid "Daily"
+#~ msgstr "روزانه"
+
+#~ msgid "Weekly"
+#~ msgstr "هفتگی"
+
+#~ msgid "Monthly"
+#~ msgstr "ماهانه"
+
+#~ msgid "Week beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "آغاز هفته از %(year)s-%(month)s-%(date)s"
+
+#~ msgid "Month beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "آغاز ماه از %(year)s-%(month)s-%(date)s"
+
+#~ msgid "1m"
+#~ msgstr "1م"
+
+#~ msgid "3m"
+#~ msgstr "3م"
+
+#~ msgid "6m"
+#~ msgstr "6م"
+
+#~ msgid "1y"
+#~ msgstr "1س"
+
+#~ msgid "All"
+#~ msgstr "همه"
+
+#~ msgid "From %(from_input)s to %(to_input)s"
+#~ msgstr "از %(from_input)s تا %(to_input)s"
+
+#~ msgid "Invalid tag entered: %s"
+#~ msgstr "برچسب نادرست وارد شده: %s"
+
+#~ msgid "No tags entered."
+#~ msgstr "هیچ برچسبی وارد نشده."
+
+#~ msgid "Error uploading image"
+#~ msgstr "خطا در آپلود تصویر"
+
+#~ msgid "Error deleting image"
+#~ msgstr "خطا در حذف تصویر"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "لطفاً بررسی کنید که آیا وارد شده‌اید، و دوباره تلاش کنید."
+
+#~ msgid "Search for a user..."
+#~ msgstr "جستجو برای یک کاربر..."
+
+#~ msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+#~ msgstr "هشدار! مطمئن هستید که میخواهید این کاربر را غیر فعّال کنید؟ این قابل برگشت نیست!"
+
+#~ msgid "All Articles: % Localized"
+#~ msgstr "همه مقاله‌ها: % محلّی شده"
+
+#~ msgid "Top 20 Articles: % Localized"
+#~ msgstr "20 مقاله‌ی برتر: % محلّی شده"
+
+#, fuzzy
+#~ msgid "Top 100 Articles: % Localized"
+#~ msgstr "20 مقاله‌ی برتر: % محلّی شده"
+
+#~ msgid "Active Contributors"
+#~ msgstr "مشارکت کنندگان فعّال"
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "یک سند با این عنوان از قبل در این محل وجود دارد."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "یک سند با این slug از قبل در این محل وجود دارد."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "بازبینی‌ها را برای مقایسه انتخاب کنید"
+
+#~ msgid "Show for..."
+#~ msgstr "نمایش برای..."
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "نمایش محتوا فقط برای نسخه‌های خاص از فایرفاکس یا سیستم عامل‌ها."
+
+#~ msgid "Add Rule"
+#~ msgstr "افزودن قاعده"
+
+#~ msgid "Installing..."
+#~ msgstr "در حال نصب..."
+
+#~ msgid "Answers"
+#~ msgstr "پاسخ‌ها"
+
+#~ msgid "Unhelpful Answers"
+#~ msgstr "پاسخهای غیر مفید"
+
+#~ msgid "Solutions"
+#~ msgstr "راه‌کارها"
+
+#~ msgid "Helpful Answers"
+#~ msgstr "پاسخهای مفید"
+
+#~ msgid "First Answers"
+#~ msgstr "اوّلین پاسخها"
+
+#~ msgid "Signing you in..."
+#~ msgstr "شما در حال ورود هستید..."
+
+#~ msgid "Mozilla Support"
+#~ msgstr "پشتیبانی Mozilla"
+
+#~ msgid "Table of Contents"
+#~ msgstr "فهرست مطالب"
+
+#, fuzzy
+#~ msgid "Delete FLV video"
+#~ msgstr "پرونده‌هاي انتخاب شده را حذف كن"
+
+#, fuzzy
+#~ msgid "Delete OGV video"
+#~ msgstr "پرونده‌هاي انتخاب شده را حذف كن"
+
+#, fuzzy
+#~ msgid "Delete WebM video"
+#~ msgstr "پرونده‌هاي انتخاب شده را حذف كن"
+
+#, fuzzy
+#~ msgid "Number of Votes"
+#~ msgstr "فهرست"
+
+#, fuzzy
+#~ msgid "External Link"
+#~ msgstr "پيوند خارجي"
+
+#~ msgid "external link"
+#~ msgstr "پيوند خارجي"
+
+#, fuzzy
+#~ msgid "Delete %s file"
+#~ msgstr "پرونده‌هاي انتخاب شده را حذف كن"

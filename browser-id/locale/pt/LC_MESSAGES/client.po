@@ -1,0 +1,509 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2015-06-04 00:40+0000\n"
+"Last-Translator: Cláudio <cesperanc@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1433378421.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"Houve um problema com a ligação de início de sessão. Este endereço já foi "
+"registado?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Erro ao tentar finalizar o registo."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "O Persona necessita de cookies para se lembrar de si."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Por favor feche esta janela, <a %s>ative os cookies</a> e tente de novo"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Erro de comunicação"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "A finalizar início de sessão..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Dentro de momento estará ligado no Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Pedimos desculpa, está a demorar mais que o previsto."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Se isto não se resolver por si dentro de alguns segundos, por favor feche a "
+"janela e tente de novo."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "A verificar com o seu fornecedor de correio."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "O endereço de correio selecionado é inválido ou foi eliminado."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Remover %(email)s da conta do Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Remover o último endereço irá cancelar a sua conta do Persona.\n"
+"Tem a certeza que deseja continuar?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Tem a certeza que deseja eliminar a sua conta do Persona?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Adicionar um endereço de e-mail"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "endereço de correio"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Tem de ser um endereço de correio"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "O campo do endereço de correio é obrigatório"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Confirmação inicial enviada - espere alguns minutos antes de realizar outro "
+"pedido"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Já adicionado!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "adicionar"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "cancelar"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Não é possível verificar %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s é um endereço necessário, mas não podemos verificar que é um endereço seu."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s verificado!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "A iniciar sessão&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Verifique o seu endereço de correio"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Clique na ligação na mensagem de correio enviado para %s para iniciar sessão "
+"como %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Erro"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Pedimos desculpa"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "O servidor está com demasiadas ligações!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Por favor, recarregue a página e tente de novo."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Por favor, feche esta janela e tente de novo."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Ver mais informações"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Fechar"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* não é um endereço de correio válido!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"Para continuar, feche a janela e escreva um endereço de correio válido."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Memorizar?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Quanto tempo deseja ficar ligado com o Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Um mês"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Eu confio neste computador."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Apenas esta sessão"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Este não é o meu computador."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Nota: Pode terminar sessão no Persona a qualquer momento."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Iniciar sessão com o Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Iniciar sessão em %s como&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Selecione um endereço de correio"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Adicionar outro endereço de correio"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Este não sou eu"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Ao continuar, concorda com os <a %(terms)s>termos</a> e a <a %"
+"(privacy)s>política de privacidade</a> do %(site)s's."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "iniciar sessão"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"%(primary)s não está a responder. Por favor aguarde alguns minutos e tente "
+"novamente."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Não é possível verificar %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Isso pode ser devido ao seu navegador estar a bloquear cookies de terceiros. "
+"Por favor, verifique se as preferências de privacidade do seu navegador "
+"estão ajustadas para aceitar cookies de terceiros para %(idpName)s e tente "
+"novamente."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Você também concorda com os <a %(terms)s>Termos</a> e <a "
+"%(privacy)s>Política de privacidade</a> de %(site)s's."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Crie uma senha"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"O %(idp)s já não permite iniciar sessão no Persona com a sua senha %(idp)s. "
+"Por favor crie uma nova senha e use a sua conta do Persona."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"O seu endereço de correio é novo para nós. Por favor crie uma senha para "
+"usar com o FirefoxOS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"O seu endereço de correio é novo para nós. Por favor crie uma senha para "
+"usar com o Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "criar senha"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "A senha é obrigatória"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "A senha tem de ter entre 8 e 80 caracteres"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Verificar senha"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "verificar senha"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "É necessária a verificação da senha"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "As senhas não correspondem!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "feito"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Boas notícias!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"O %(email)s já não exige uma senha adicional. Verifique a sua conta e ficará "
+"imediatamente com sessão iniciada em %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "verificar"
+
+#, fuzzy
+#~ msgid "signing in"
+#~ msgstr "iniciar sessão"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Confirme o seu endereço de correio"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Iniciar sessão como..."
+
+#~ msgid "Email"
+#~ msgstr "Endereço de correio"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "A sua identidade foi verificada com o seu fornecedor de correio, vamos "
+#~ "tentar iniciar-lhe a sessão."
+
+#~ msgid "Sign in using"
+#~ msgstr "Iniciar sessão usando"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "O sítio pediu que inicie sessão usando"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Tem de iniciar sessão com o seu fornecedor de correio para verificar que "
+#~ "é o proprietário deste endereço. Esta janela será redirecionada para"
+
+#, fuzzy
+#~ msgid "Enter password"
+#~ msgstr "criar senha"
+
+#~ msgid "forgot your password?"
+#~ msgstr "esqueceu a sua senha?"
+
+#~ msgid "Password"
+#~ msgstr "Senha"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "É necessária a senha."
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s torna mais fácil"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "A sua conta %(emailProvider)s foi atualizada para funcionar ainda melhor "
+#~ "com o Persona. Vamos redirecioná-lo para %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "O Persona deixa-o usar a sua conta do %(emailProvider)s para iniciar "
+#~ "sessão em sítios como %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "iniciar sessão com %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Usar um endereço de correio diferente"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "O campo tem de ser um endereço de correio."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Enviámos uma mensagem de correio para o seu endereço! Se desejar enviar "
+#~ "outro, aguarde um minuto ou dois e volte a tentar."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Esse endereço já foi adicionado à sua conta!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Por favor escolha o seu endereço de correio."
+
+#~ msgid "The password field is required."
+#~ msgstr "O campo de senha é obrigatório."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Este endereço ed correio e senha não correspondem."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "A sua conta %(emailProvider)s fou atualizada para funcionar ainda melhor "
+#~ "com o Persona. Vamos redirecioná-lo para %(emailProvider)s. Assim que "
+#~ "verificar a sua conta, será iniciada a sessão em %(aWebsite)s. "
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Adicione outro endereço de correio à sua senha do Persona."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Houve um erro!"
+
+#~ msgid "Reset your password"
+#~ msgstr "reiniciar a sua senha"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Criar uma nova senha para usar com %s."
+
+#~ msgid "reset password"
+#~ msgstr "reiniciar senha"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Nota: Esta senha será usada com todos os seu endereços de correio do "
+#~ "Persona."

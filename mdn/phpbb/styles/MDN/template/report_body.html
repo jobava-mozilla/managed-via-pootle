@@ -1,0 +1,36 @@
+<!-- INCLUDE overall_header.html -->
+
+<h2 class="page-title"><!-- IF S_REPORT_POST -->{L_REPORT_POST}<!-- ELSE -->{L_REPORT_MESSAGE}<!-- ENDIF --></h2>
+
+<form method="post" action="{S_REPORT_ACTION}" id="report" class="panel user-input">
+	<p><!-- IF S_REPORT_POST -->{L_REPORT_POST_EXPLAIN}<!-- ELSE -->{L_REPORT_MESSAGE_EXPLAIN}<!-- ENDIF --></p>
+	
+	<fieldset>
+	<ul>
+	<li>
+		<label for="reason_id">{L_REASON}</label>
+		<select name="reason_id" id="reason_id"><!-- BEGIN reason --><option value="{reason.ID}"<!-- IF reason.S_SELECTED --> selected="selected"<!-- ENDIF -->>{reason.DESCRIPTION}</option><!-- END reason --></select>
+	</li>
+	<!-- IF S_CAN_NOTIFY -->
+		<li>
+			<label for="notify1">{L_REPORT_NOTIFY} <span class="note">{L_REPORT_NOTIFY_EXPLAIN}</span></label>
+			<fieldset class="inline">
+				<label for="notify1"><input type="radio" name="notify" id="notify1" value="1" <!-- IF not S_NOTIFY -->checked="checked"<!-- ENDIF --> /> {L_YES}</label> 
+				<label for="notify0"><input type="radio" name="notify" id="notify0" value="0" <!-- IF S_NOTIFY -->checked="checked"<!-- ENDIF --> /> {L_NO}</label>
+			</fieldset>
+		</li>
+	<!-- ENDIF -->
+	<li>
+		<label for="report_text">{L_MORE_INFO} <span class="note">{L_CAN_LEAVE_BLANK}</span></label>
+		<textarea name="report_text" id="report_text" rows="5" cols="70">{REPORT_TEXT}</textarea>
+	</li>
+	</fieldset>
+
+	<fieldset class="submit-buttons">
+		<button type="submit" class="button1" name="submit" value="{L_SUBMIT}">{L_SUBMIT}</button>&nbsp;
+		<button type="submit" class="button2" name="cancel" value="{L_CANCEL}">{L_CANCEL}</button>
+		{S_FORM_TOKEN}
+	</fieldset>
+</form>
+
+<!-- INCLUDE overall_footer.html -->

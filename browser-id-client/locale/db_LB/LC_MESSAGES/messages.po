@@ -1,0 +1,560 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-04 09:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lib/email.js:41 lib/email.js:53 lib/email.js:59
+msgid "Confirm email address for Persona"
+msgstr "‮Ↄouɟıɹɯ ǝɯɐıʅ ɐppɹǝss ɟoɹ Ԁǝɹsouɐ"
+
+#: lib/email.js:47
+msgid "Reset Persona password"
+msgstr "‮ᴚǝsǝʇ Ԁǝɹsouɐ dɐssʍoɹp"
+
+#: lib/static/views.js:204 lib/static/views.js:250
+msgid "A Better Way to Sign In"
+msgstr "‮∀ Ԑǝʇʇǝɹ Ｍɐʎ ʇo Sıƃu Iu"
+
+#: lib/static/views.js:221
+msgid "Unsupported Browser"
+msgstr "‮∩usnddoɹʇǝp Ԑɹoʍsǝɹ"
+
+#: lib/static/views.js:232
+msgid "Cookies Are Disabled"
+msgstr "‮Ↄooʞıǝs ∀ɹǝ ᗡısɐqʅǝp"
+
+#: lib/static/views.js:254
+msgid "About"
+msgstr "‮∀qonʇ"
+
+#: lib/static/views.js:270 lib/static/views.js:278
+msgid "Terms of Service"
+msgstr "‮⊥ǝɹɯs oɟ Sǝɹʌıɔǝ"
+
+#: lib/static/views.js:286 lib/static/views.js:294
+msgid "Privacy Policy"
+msgstr "‮Ԁɹıʌɐɔʎ Ԁoʅıɔʎ"
+
+#: lib/static/views.js:302
+msgid "Complete Registration"
+msgstr "‮Ↄoɯdʅǝʇǝ ᴚǝƃısʇɹɐʇıou"
+
+#: resources/views/about.ejs:8
+msgid "Simplified sign-on."
+msgstr "‮Sıɯdʅıɟıǝp sıƃu-ou˙"
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "‮Ԁǝɹsouɐ ɹǝdʅɐɔǝs ɯnʅʇıdʅǝ dɐssʍoɹps"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(timesLink)s>%(timesName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"‮Sıʇǝs snɔɥ ɐs <ɐ %(ʇıɯǝs⅂ıuʞ)s>%(ʇıɯǝsNɐɯǝ)s</a>‮´ <ɐ %(odǝudɥoʇo⅂ıuʞ)s>%"
+"(odǝudɥoʇoNɐɯǝ)s</a>‮ ɐup <ɐ %(ʌoosʇ⅂ıuʞ)s>%(ʌoosʇNɐɯǝ)s</a>‮ nsǝ Ԁǝɹsouɐ "
+"ıusʇǝɐp oɟ nsǝɹuɐɯǝs ʇo sıƃu ʎon ıu˙"
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr "‮⊥ɥıs ɯǝɐus ʎon ouʅʎ uǝǝp ouǝ dɐssʍoɹp ʇo sıƃu ıu ʇo ɯɐuʎ sıʇǝs˙"
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "‮Ouǝ dɐssʍoɹp ʇo ɹnʅǝ ʇɥǝɯ ɐʅʅ˙"
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "‮∩sǝ ɯnʅʇıdʅǝ ǝɯɐıʅ ɐppɹǝssǝs"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "‮Ԁǝɹsouɐ ıs ɟʅǝxıqʅǝ"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"‮Ｍıʇɥıu Ԁǝɹsouɐ´ ʎonɹ ıpǝuʇıʇʎ ıs ʎonɹ ǝɯɐıʅ ɐppɹǝss˙ ⅄on ɔɐu nsǝ ɐs ɯɐuʎ "
+"ǝɯɐıʅ ɐppɹǝssǝs ɐs ʎon ʍɐuʇ´ qnʇ ʎon sʇıʅʅ ouʅʎ uǝǝp ouǝ dɐssʍoɹp˙"
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "‮ᴚǝɐʅ dɹıʌɐɔʎ˙"
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "‮Ԁǝɹsouɐ ıs dɹonpʅʎ uou-dɹoɟıʇ ɟoɹ ʎon"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"‮Ԁǝɹsouɐ ıs pǝʌǝʅodǝp qʎ Wozıʅʅɐ´ ɐ uoʇ-ɟoɹ-dɹoɟıʇ ɔoɯdɐuʎ ʇɹnsʇǝp "
+"ʇɥɹonƃɥonʇ ʇɥǝ Ｍǝq ɔoɯɯnuıʇʎ˙ Onɹ ƃoɐʅ ıs ʇo ɔɹǝɐʇǝ ʇǝɔɥuoʅoƃıǝs ʇɥɐʇ "
+"qɐʅɐuɔǝ ɐu odǝu Ｍǝq dʅɐʇɟoɹɯ ʍıʇɥ dǝodʅǝ,s dɹıʌɐɔʎ˙"
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "‮Ԁǝɹsouɐ dɹǝsǝɹʌǝs ʎonɹ dɹıʌɐɔʎ"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"‮Ԁǝɹsouɐ poǝs uoʇ ʇɹɐɔʞ ʎonɹ ɐɔʇıʌıʇʎ ɐɹonup ʇɥǝ Ｍǝq˙ Iʇ ɔɹǝɐʇǝs ɐ ʍɐʅʅ "
+"qǝʇʍǝǝu sıƃuıuƃ ʎon ıu ɐup ʍɥɐʇ ʎon po ouɔǝ ʎon,ɹǝ ʇɥǝɹǝ˙ ⊥ɥǝ ɥısʇoɹʎ oɟ "
+"ʍɥɐʇ sıʇǝs ʎon ʌısıʇ ıs sʇoɹǝp ouʅʎ ou ʎonɹ oʍu ɔoɯdnʇǝɹ˙"
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "‮Ԁǝɹsouɐ ɟoɹ pǝʌǝʅodǝɹs"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "‮Iɯdʅǝɯǝuʇ Ԁǝɹsouɐ ou ʎonɹ sıʇǝ"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "‮ᗡǝʌǝʅodǝɹ ƃnıpǝs ɐup ∀ԀI poɔnɯǝuʇɐʇıou"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "‮Ⅎıuısɥ sıƃuıuƃ ıuʇo:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "‮⅂ɐsʇ sʇǝd¡"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "‮Ǝɯɐıʅ ∀ppɹǝss"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "‮⅄onɹ Ǝɯɐıʅ"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:64
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "‮Ԁɐssʍoɹp"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "‮⅄onɹ Ԁɐssʍoɹp"
+
+#: resources/views/confirm.ejs:25 resources/views/reset_password.ejs:28
+msgid "Password is required."
+msgstr "‮Ԁɐssʍoɹp ıs ɹǝbnıɹǝp˙"
+
+#: resources/views/confirm.ejs:29
+msgid "The account cannot be verified with this username and password."
+msgstr "‮⊥ɥǝ ɐɔɔonuʇ ɔɐuuoʇ qǝ ʌǝɹıɟıǝp ʍıʇɥ ʇɥıs nsǝɹuɐɯǝ ɐup dɐssʍoɹp˙"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "‮ɟıuısɥ"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "‮Ԁǝɹsouɐ ɹǝbnıɹǝs ɔooʞıǝs ʇo ɹǝɯǝɯqǝɹ ʎon˙"
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "‮Ԁʅǝɐsǝ ɔʅosǝ ʇɥıs ʍıupoʍ´ <ɐ %s‮>ǝuɐqʅǝ ɔooʞıǝs</a>‮ ɐup ʇɹʎ ɐƃɐıu"
+
+#: resources/views/dialog.ejs:24
+#, php-format
+msgid "%s uses Persona instead of usernames to sign you in."
+msgstr "%s‮ nsǝs Ԁǝɹsouɐ ıusʇǝɐp oɟ nsǝɹuɐɯǝs ʇo sıƃu ʎon ıu˙"
+
+#: resources/views/dialog.ejs:30
+msgid "Sign in with Persona"
+msgstr "‮Sıƃu ıu ʍıʇɥ Ԁǝɹsouɐ"
+
+#: resources/views/dialog.ejs:38
+msgid "Enter your email address"
+msgstr "‮Ǝuʇǝɹ ʎonɹ ǝɯɐıʅ ɐppɹǝss"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s‮ uo ʅouƃǝɹ ɐʅʅoʍs ʎon ʇo ʅoƃ ıuʇo Ԁǝɹsouɐ ʍıʇɥ ʎonɹ %(idp)s‮ "
+"dɐssʍoɹp˙ ⅄on ɯnsʇ uoʍ nsǝ ʎonɹ ǝxısʇıuƃ Ԁǝɹsouɐ dɐssʍoɹp ʇo ʅoƃ ıu ʍıʇɥ "
+"ʇɥıs ǝɯɐıʅ ɐppɹǝss˙"
+
+#: resources/views/dialog.ejs:40
+msgid "Now enter your Persona password."
+msgstr "‮Noʍ ǝuʇǝɹ ʎonɹ Ԁǝɹsouɐ dɐssʍoɹp˙"
+
+#: resources/views/dialog.ejs:41
+msgid "enter email address"
+msgstr "‮ǝuʇǝɹ ǝɯɐıʅ ɐppɹǝss"
+
+#: resources/views/dialog.ejs:44
+msgid "This field must be an email address."
+msgstr "‮⊥ɥıs ɟıǝʅp ɯnsʇ qǝ ɐu ǝɯɐıʅ ɐppɹǝss˙"
+
+#: resources/views/dialog.ejs:48
+msgid "The email field is required."
+msgstr "‮⊥ɥǝ ǝɯɐıʅ ɟıǝʅp ıs ɹǝbnıɹǝp˙"
+
+#: resources/views/dialog.ejs:52
+msgid ""
+"We just sent an email to that address! If you really want to send another, "
+"wait a minute or two and try again."
+msgstr ""
+"‮Ｍǝ ɾnsʇ sǝuʇ ɐu ǝɯɐıʅ ʇo ʇɥɐʇ ɐppɹǝss¡ Iɟ ʎon ɹǝɐʅʅʎ ʍɐuʇ ʇo sǝup ɐuoʇɥǝɹ´ "
+"ʍɐıʇ ɐ ɯıunʇǝ oɹ ʇʍo ɐup ʇɹʎ ɐƃɐıu˙"
+
+#: resources/views/dialog.ejs:56
+msgid "This email address and password do not match."
+msgstr "‮⊥ɥıs ǝɯɐıʅ ɐppɹǝss ɐup dɐssʍoɹp po uoʇ ɯɐʇɔɥ˙"
+
+#: resources/views/dialog.ejs:66
+msgid "Enter password"
+msgstr "‮Ǝuʇǝɹ dɐssʍoɹp"
+
+#: resources/views/dialog.ejs:67
+msgid "password"
+msgstr "‮dɐssʍoɹp"
+
+#: resources/views/dialog.ejs:70
+msgid "The password field is required."
+msgstr "‮⊥ɥǝ dɐssʍoɹp ɟıǝʅp ıs ɹǝbnıɹǝp˙"
+
+#: resources/views/dialog.ejs:79 resources/views/dialog.ejs:119
+msgid "Forgot your password?"
+msgstr "‮Ⅎoɹƃoʇ ʎonɹ dɐssʍoɹp¿"
+
+#: resources/views/dialog.ejs:85
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"‮Ԑʎ dɹoɔǝǝpıuƃ´ ʎon ɐƃɹǝǝ ʇo %(site)s‮,s <ɐ %(terms)s‮>⊥ǝɹɯs</a>‮ ɐup <ɐ %"
+"(privacy)s‮>Ԁɹıʌɐɔʎ Ԁoʅıɔʎ</a>‮˙"
+
+#: resources/views/dialog.ejs:99
+msgid "next"
+msgstr "‮uǝxʇ"
+
+#: resources/views/dialog.ejs:103
+msgid "continue"
+msgstr "‮ɔouʇıunǝ"
+
+#: resources/views/dialog.ejs:107 resources/views/dialog.ejs:115
+#: resources/views/index.ejs:59
+msgid "cancel"
+msgstr "‮ɔɐuɔǝʅ"
+
+#: resources/views/dialog.ejs:111
+msgid "sign in"
+msgstr "‮sıƃu ıu"
+
+#: resources/views/dialog.ejs:154
+msgid "OK"
+msgstr "‮OӼ"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "‮Wozıʅʅɐ Ԁǝɹsouɐ: %s"
+
+#: resources/views/dialog_layout.ejs:56
+msgid "Connecting to Persona..."
+msgstr "‮Ↄouuǝɔʇıuƃ ʇo Ԁǝɹsouɐ˙˙˙"
+
+#: resources/views/dialog_layout.ejs:64
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simplified sign-in by the non-profit "
+"behind Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>‮Wozıʅʅɐ Ԁǝɹsouɐ˙</strong>‮ Sıɯdʅıɟıǝp sıƃu-ıu qʎ ʇɥǝ uou-dɹoɟıʇ "
+"qǝɥıup Ⅎıɹǝɟox˙ <ɐ %s‮>⅂ǝɐɹu ɯoɹǝ&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"‮Ↄouuǝɔʇ ʍıʇɥ Wozıʅʅɐ Ԁǝɹsouɐ´ ʇɥǝ sɐɟǝsʇ &amp;‮ ǝɐsıǝsʇ ʍɐʎ ʇo sıƃu ıu˙"
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "‮<ɐ %(ɐqonʇ⅂ıuʞ)s>⊥ɐʞǝ ʇɥǝ ʇonɹ</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "‮ɹǝɯoʌǝ"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "‮Nǝʍ ʇo Wozıʅʅɐ Ԁǝɹsouɐ¿ <ɐ %(ʅǝɐɹuWoɹǝ⅂ıuʞ)s>⅂ǝɐɹu ɯoɹǝ</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "‮∀ɔɔonuʇ Wɐuɐƃǝɹ"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "‮⅄onɹ Ǝɯɐıʅ ∀ppɹǝssǝs"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "‮ǝpıʇ"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "‮pouǝ"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "‮Oʅp Ԁɐssʍoɹp"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "‮Nǝʍ Ԁɐssʍoɹp"
+
+#: resources/views/index.ejs:71
+msgid "Old password is required."
+msgstr "‮Oʅp dɐssʍoɹp ıs ɹǝbnıɹǝp˙"
+
+#: resources/views/index.ejs:72
+msgid "Incorrect old password, password not updated."
+msgstr "‮Iuɔoɹɹǝɔʇ oʅp dɐssʍoɹp´ dɐssʍoɹp uoʇ ndpɐʇǝp˙"
+
+#: resources/views/index.ejs:73
+msgid "New password is required."
+msgstr "‮Nǝʍ dɐssʍoɹp ıs ɹǝbnıɹǝp˙"
+
+#: resources/views/index.ejs:74
+msgid "Old and new passwords are the same."
+msgstr "‮Oʅp ɐup uǝʍ dɐssʍoɹps ɐɹǝ ʇɥǝ sɐɯǝ˙"
+
+#: resources/views/index.ejs:75 resources/views/reset_password.ejs:32
+msgid "Password must be between 8 and 80 characters long."
+msgstr "‮Ԁɐssʍoɹp ɯnsʇ qǝ qǝʇʍǝǝu 8‮ ɐup 80‮ ɔɥɐɹɐɔʇǝɹs ʅouƃ˙"
+
+#: resources/views/index.ejs:80
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "‮⅄on ɯɐʎ´ ɐʇ ɐuʎ ʇıɯǝ´ <ɐ %(ɔɐuɔǝʅ⅂ıuʞ)s>ɔɐuɔǝʅ ʎonɹ ɐɔɔonuʇ</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "‮Ԁǝɹsouɐ Hoɯǝ"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "‮Hoʍ ıʇ ʍoɹʞs"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "‮∀ɔɔonuʇ"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "‮Sıƃu Iu"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "‮Sıƃu Onʇ"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "‮Ԑʎ ʇɥǝ <ɐ %s‮>Ipǝuʇıʇʎ ⊥ǝɐɯ</a>‮ @ <ɐ %s‮>Wozıʅʅɐ</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "‮Ԁɹıʌɐɔʎ &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "‮⊥OS &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "‮ᗡǝʌǝʅodǝɹs &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "‮Nǝǝp Hǝʅd¿ &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "‮Ｍǝ,ɹǝ soɹɹʎ´ Ԁǝɹsouɐ ɹǝbnıɹǝs ʇɥɐʇ ſɐʌɐsɔɹıdʇ ıs ǝuɐqʅǝp˙"
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "‮ᴚǝsǝʇ Ԁɐssʍoɹp"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "‮Ↄɹǝɐʇǝ ɐ uǝʍ dɐssʍoɹp ʇo nsǝ ʍıʇɥ %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "‮Ʌǝɹıɟʎ Ԁɐssʍoɹp"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password is required."
+msgstr "‮Ʌǝɹıɟıɔɐʇıou dɐssʍoɹp ıs ɹǝbnıɹǝp˙"
+
+#: resources/views/reset_password.ejs:45
+msgid "These passwords don't match!"
+msgstr "‮⊥ɥǝsǝ dɐssʍoɹps pou,ʇ ɯɐʇɔɥ¡"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">‮⅄onɹ ɐppɹǝss</strong>‮ ɥɐs qǝǝu ʌǝɹıɟıǝp¡"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"‮⅄onɹ uǝʍ ɐppɹǝss ıs sǝʇ nd ɐup ɹǝɐpʎ ʇo ƃo˙ ⅄on ʍıʅʅ qǝ ɹǝpıɹǝɔʇǝp ʇo %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "‮ᴚǝpıɹǝɔʇıuƃ ıu %s‮ sǝɔoups"
+
+#: resources/views/unsupported_dialog.ejs:7
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "‮Ｍǝ ɐɹǝ soɹɹʎ´ qnʇ ɔnɹɹǝuʇʅʎ ʎonɹ qɹoʍsǝɹ ıs uoʇ snddoɹʇǝp˙"
+
+#: resources/views/unsupported_dialog.ejs:12
+msgid "Firefox logo"
+msgstr "‮Ⅎıɹǝɟox ʅoƃo"
+
+#: resources/views/unsupported_dialog.ejs:16
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "‮Ԁǝɹsouɐ ʍoɹʞs ʍıʇɥ <ɐ %(ƃǝʇℲıɹǝɟox⅂ıuʞ)s>Ⅎıɹǝɟox</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "‮ɐup oʇɥǝɹ <ɐ %(oʇɥǝɹԐɹoʍsǝɹ⅂ıuʞ)s>ɯopǝɹu qɹoʍsǝɹs˙</a>"
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:84
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:84
+msgid "Thank you for using Persona."
+msgstr "‮⊥ɥɐuʞ ʎon ɟoɹ nsıuƃ Ԁǝɹsouɐ˙"
+
+#: resources/email_templates/confirm.ejs:3
+#: resources/email_templates/confirm.html.ejs:86
+#: resources/email_templates/new.ejs:3
+#: resources/email_templates/new.html.ejs:86
+#, php-format
+msgid "Click to confirm this email address and sign in to %s"
+msgstr "‮Ↄʅıɔʞ ʇo ɔouɟıɹɯ ʇɥıs ǝɯɐıʅ ɐppɹǝss ɐup sıƃu ıu ʇo %s"
+
+#: resources/email_templates/confirm.ejs:6
+#: resources/email_templates/confirm.html.ejs:88
+#: resources/email_templates/new.ejs:6
+#: resources/email_templates/new.html.ejs:88
+msgid ""
+"Note: If you are NOT trying to sign into this website, please ignore this "
+"email."
+msgstr ""
+"‮Noʇǝ: Iɟ ʎon ɐɹǝ NO⊥ ʇɹʎıuƃ ʇo sıƃu ıuʇo ʇɥıs ʍǝqsıʇǝ´ dʅǝɐsǝ ıƃuoɹǝ ʇɥıs "
+"ǝɯɐıʅ˙"
+
+#: resources/email_templates/confirm.ejs:8
+#: resources/email_templates/confirm.html.ejs:90
+#: resources/email_templates/new.ejs:8
+#: resources/email_templates/new.html.ejs:90
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/reset.html.ejs:90
+#: resources/email_templates/transition.ejs:8
+#: resources/email_templates/transition.html.ejs:89
+msgid "Thank you,"
+msgstr "‮⊥ɥɐuʞ ʎon´"
+
+#: resources/email_templates/confirm.ejs:9
+#: resources/email_templates/confirm.html.ejs:91
+#: resources/email_templates/new.ejs:9
+#: resources/email_templates/new.html.ejs:91
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/reset.html.ejs:91
+#: resources/email_templates/transition.html.ejs:90
+msgid "The Persona team"
+msgstr "‮⊥ɥǝ Ԁǝɹsouɐ ʇǝɐɯ"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:84
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "‮Ⅎoɹƃoʇ ʎonɹ dɐssʍoɹp ɟoɹ Ԁǝɹsouɐ¿ Iʇ ɥɐddǝus ʇo ʇɥǝ qǝsʇ oɟ ns˙"
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "‮Ↄʅıɔʞ ʇo ɹǝsǝʇ ʎonɹ dɐssʍoɹp:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:88
+msgid ""
+"Note: If you did NOT ask to reset your password, please ignore this email."
+msgstr ""
+"‮Noʇǝ: Iɟ ʎon pıp NO⊥ ɐsʞ ʇo ɹǝsǝʇ ʎonɹ dɐssʍoɹp´ dʅǝɐsǝ ıƃuoɹǝ ʇɥıs ǝɯɐıʅ˙"
+
+#: resources/email_templates/reset.html.ejs:86
+msgid "Click here to reset your password."
+msgstr "‮Ↄʅıɔʞ ɥǝɹǝ ʇo ɹǝsǝʇ ʎonɹ dɐssʍoɹp˙"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:84
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"‮Iʇ ʅooʞs ʅıʞǝ ʎonɹ ǝɯɐıʅ dɹoʌıpǝɹ ıs ɥɐʌıuƃ ʇɹonqʅǝ ʍıʇɥ ʇɥǝıɹ Ԁǝɹsouɐ "
+"snddoɹʇ˙"
+
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:85
+msgid ""
+"To continue, you need to re-confirm this email address and set up a new, "
+"Persona-specific password."
+msgstr ""
+"‮⊥o ɔouʇıunǝ´ ʎon uǝǝp ʇo ɹǝ-ɔouɟıɹɯ ʇɥıs ǝɯɐıʅ ɐppɹǝss ɐup sǝʇ nd ɐ uǝʍ´ "
+"Ԁǝɹsouɐ-sdǝɔıɟıɔ dɐssʍoɹp˙"
+
+#: resources/email_templates/transition.ejs:5
+msgid "Click to set your new password:"
+msgstr "‮Ↄʅıɔʞ ʇo sǝʇ ʎonɹ uǝʍ dɐssʍoɹp:"
+
+#: resources/email_templates/transition.ejs:9
+msgid "The Persona Team"
+msgstr "‮⊥ɥǝ Ԁǝɹsouɐ ⊥ǝɐɯ"
+
+#: resources/email_templates/transition.html.ejs:87
+msgid "Click here to set your new password."
+msgstr "‮Ↄʅıɔʞ ɥǝɹǝ ʇo sǝʇ ʎonɹ uǝʍ dɐssʍoɹp˙"

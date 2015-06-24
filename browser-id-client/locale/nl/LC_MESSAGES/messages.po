@@ -1,0 +1,835 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-10-12 06:13+0000\n"
+"Last-Translator: Ton <tonnes.mb@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1381558418.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: aanmelding voltooien"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: wachtwoordherinitialisatie voltooien"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Een betere manier van aanmelden"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Niet-ondersteunde browser"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "Niet-ondersteunde browser zonder Volgen"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Cookies zijn uitgeschakeld"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Over"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Servicevoorwaarden"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Registratie voltooien"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "Een eenvoudiger manier van aanmelden."
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona vervangt meerdere wachtwoorden"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Websites zoals <a %(webmakerLink)s>%(webmakerName)s</a>, <a "
+"%(openphotoLink)s>%(openphotoName)s</a> en <a %(voostLink)s>%(voostName)s</"
+"a> gebruiken Persona in plaats van gebruikersnamen om u aan te melden."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"Dit houdt in dat u maar één wachtwoord nodig hebt om u bij meerdere websites "
+"aan te melden."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "Een wachtwoord om alle te regeren."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Meerdere e-mailadressen gebruiken"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Persona is flexibel"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"Binnen Persona is uw identiteit uw e-mailadres. U kunt zo veel e-"
+"mailadressen gebruiken als u wilt, maar u hebt nog maar één wachtwoord nodig."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Echte privacy."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Persona is met trots non-profit voor u"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Persona is ontwikkeld door Mozilla, een door de internetgemeenschap "
+"vertrouwde organisatie zonder winstoogmerk. Ons doel is het creëren van "
+"technologieën die een open Web-platform met privacy van mensen in balans "
+"brengen."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona handhaaft uw privacy"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona volgt uw activiteiten op het internet niet. Het creëert een muur "
+"tussen het aanmelden van u en wat u doet als u daar eenmaal bent. De "
+"geschiedenis van welke websites u bezoekt wordt alleen op uw eigen computer "
+"bewaard."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona voor ontwikkelaars"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Persona op uw website implementeren"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Ontwikkelaarsgidsen en API-documentatie"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Aanmelden voltooien bij:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Laatste stap!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Uw e-mailadres"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Uw wachtwoord"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "Wachtwoordveld vereist"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "Wachtwoord onjuist"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "voltooien"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona vereist cookies om u te onthouden."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Sluit dit venster, <a %s>schakel cookies in</a> en probeer het nogmaals"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "Aanmelden bij %s met&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s accepteert niet langer aanmeldingen bij Persona met uw %(idp)s-"
+"wachtwoord. U moet nu uw bestaande Persona-wachtwoord gebruiken om u met dit "
+"e-mailadres aan te melden."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Persona-wachtwoord"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "e-mailadres"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "Moet een e-mailadres zijn"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "E-mailveld vereist"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "Uw wachtwoord vergeten?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "Voer wachtwoord in"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "wachtwoord"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Eerste bevestiging verzonden &ndash; wacht enkele minuten voordat u er nog "
+"een vraagt"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Door verder te gaan gaat u akkoord met de <a %(terms)s>Voorwaarden</a> en "
+"het <a %(privacy)s>Privacybeleid</a> van %(site)s."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "volgende"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "doorgaan"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "annuleren"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "aanmelden"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "OK"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Verbinden met Persona…"
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona.</strong> Eenvoudig aanmelden, ontwikkeld door de "
+"non-profitorganisatie achter Firefox. <a %s>Meer info&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Maak verbinding met Mozilla Persona, de veiligste en eenvoudigste manier van "
+"aanmelden."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>Volg de rondleiding</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "verwijderen"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "Nieuw met Mozilla Persona? <a %(learnMoreLink)s>Lees meer</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Accountbeheerder"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Uw e-mailadressen"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "bewerken"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "klaar"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Oude wachtwoord"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Nieuwe wachtwoord"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "Oude wachtwoord vereist"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "Oude wachtwoord onjuist"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "Nieuwe wachtwoord vereist"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "Wachtwoorden moeten verschillen"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Wachtwoord moet 8&ndash;80 tekens lang zijn"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "U kunt te allen tijde <a %(cancelLink)s>uw account annuleren</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Persona Start"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Hoe het werkt"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "Account"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Aanmelden"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Afmelden"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "Door het <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Privacy &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "TOS &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "Ontwikkelaars &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Hulp nodig? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "Het spijt ons, Persona vereist dat JavaScript is ingeschakeld."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Wachtwoord herinitialiseren"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Maak een nieuw wachtwoord aan voor het gebruik met %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Wachtwoord verifiëren"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "Verificatiewachtwoord vereist"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "Wachtwoorden komen niet overeen!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">Uw adres</strong> is geverifieerd!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"Uw nieuwe adres is ingesteld en klaar voor gebruik. U wordt omgeleid naar %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Omleiden over %s seconden"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Het spijt ons, maar uw browser wordt momenteel niet ondersteund."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Firefox-logo"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona werkt met <a %(getFirefoxLink)s>Firefox</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "en andere <a %(otherBrowserLink)s>moderne browsers.</a>"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr "Sorry, uw browser ondersteunt geen aanmelding bij deze website."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"De eigenaar van deze website dient deze bij te werken om de functie <a "
+"%s>navigator.id.watch()</a> van Persona te gebruiken."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona.</strong></a> Eenvoudig aanmelden, ontwikkeld "
+"door de non-profitorganisatie achter Firefox."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Klik op deze koppeling om toegang tot %(site)s te bevestigen:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr ""
+"Als u zich NIET hebt geprobeerd aan te melden, kunt u dit e-mailbericht "
+"negeren."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr ""
+"Eenvoudig aanmelden, ontwikkeld door de non-profitorganisatie achter Firefox"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "Lees meer op https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "E-mailadres nu bevestigen"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "Account nu bevestigen"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "Uw wachtwoord voor Persona vergeten? Het kan de beste overkomen."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Klik om uw wachtwoord opnieuw in te stellen:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr ""
+"Als u NIET hebt geprobeerd uw wachtwoord te herinitialiseren, kunt u dit e-"
+"mailbericht negeren."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "Uw wachtwoord nu herinitialiseren"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"Het lijkt erop dat uw e-mailprovider problemen heeft met zijn ondersteuning "
+"van Persona."
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Aanmelden met Persona"
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "Noot: negeer dit e-mailbericht als u NIET om herinitialisatie van uw "
+#~ "wachtwoord hebt gevraagd."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Vereenvoudigd aanmelden."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "%s gebruikt Persona in plaats van gebruikersnamen om u aan te melden."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Voer uw e-mailadres in"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Voer nu uw Persona-wachtwoord in."
+
+#~ msgid "enter email address"
+#~ msgstr "voer e-mailadres in"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Bedankt voor het gebruiken van Persona."
+
+#~ msgid "Thank you,"
+#~ msgstr "Dank u,"
+
+#~ msgid "The Persona team"
+#~ msgstr "Het Persona-team"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Klik hier om uw wachtwoord opnieuw in te stellen."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "Om verder te gaan dient u dit e-mailadres opnieuw te bevestigen en een "
+#~ "nieuw Persona-specifiek wachtwoord in te stellen."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "Klik om uw nieuwe wachtwoord in te stellen:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Het Persona-team"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "Klik hier om uw nieuwe wachtwoord in te stellen."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr ""
+#~ "De account kan met deze gebruikersnaam en dit wachtwoord niet worden "
+#~ "geverifieerd."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "We hebben zojuist een e-mailbericht naar dat adres gestuurd! Als u er "
+#~ "echt nog een wilt sturen, wacht dan enkele minuten en probeer het nog "
+#~ "eens."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Dit e-mailadres en wachtwoord komen niet overeen."
+
+#~ msgid "The password field is required."
+#~ msgstr "Het wachtwoordveld is vereist."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "Onjuist oud wachtwoord, wachtwoord niet bijgewerkt."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "Oude en nieuwe wachtwoord zijn hetzelfde."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Voer uw e-mailadres in om u met Persona aan te melden."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "Controleren bij uw e-mailprovider."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "Aanmelden voltooid"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Wachtwoord vergeten"
+
+#~ msgid "Email Verification"
+#~ msgstr "E-mailverificatie"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "Controleer uw e-mail bij <strong %(checkId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr ""
+#~ "Klik op de koppeling in de bevestigings-e-mail. Uw wachtwoord wordt dan "
+#~ "opnieuw ingesteld."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Niet-bestaande gebruiker!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "Kan het wachtwoord van dat adres niet opnieuw instellen."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Weet u uw wachtwoord? Meld u aan."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr ""
+#~ "Dit venster wordt nu gesloten en het accountaanmaakproces zal verdergaan."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "Controleer uw e-mail bij <strong %(emailId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Klik op de koppeling in de bevestigings-e-mail. U wordt dan direct "
+#~ "aangemeld bij Persona."
+
+#~ msgid "forgot your password?"
+#~ msgstr "uw wachtwoord vergeten?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr ""
+#~ "Uw e-mailadres is nieuw voor ons. Maak een wachtwoord aan voor het "
+#~ "gebruik met Persona."
+
+#~ msgid "verify password"
+#~ msgstr "wachtwoord verifiëren"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Door verder te gaan gaat u akkoord met %(persona)s’s <a "
+#~ "%(termsLink)s>Voorwaarden</a> en <a %(privacyLink)s>Privacybeleid</a>."
+
+#~ msgid "Next"
+#~ msgstr "Volgende"
+
+#~ msgid "Verify Email"
+#~ msgstr "E-mailadres verifiëren"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "Om te verifiëren dat <strong %(emailId)s>dit adres</strong> van u is, "
+#~ "moet u zich aanmelden bij uw provider. Er zal een nieuw venster worden "
+#~ "geopend."
+
+#~ msgid "Verify"
+#~ msgstr "Verifiëren"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Bedankt voor het registreren bij <strong>Persona</strong>. U kunt uw "
+#~ "Persona-account nu gebruiken om u bij allerlei websites <em>aan te "
+#~ "melden</em> of te <em>registreren</em>!"
+
+#~ msgid "Sign Up"
+#~ msgstr "Registreren"
+
+#~ msgid ""
+#~ "<strong %(emailId)s>Email</strong> is not registered. Would you like to "
+#~ "<a %(signUpLink)s>sign up</a> instead?"
+#~ msgstr ""
+#~ "Het <strong %(emailId)s>e-mailadres</strong> is niet geregistreerd. Wilt "
+#~ "u zich in plaats hiervan <a %(signUpLink)s>registreren</a>?"
+
+#~ msgid "New to Persona? Sign up today."
+#~ msgstr "Nieuw met Persona? Registreer u direct."
+
+#~ msgid ""
+#~ "To verify that you own <strong %(primaryId)s>address</strong>, you must "
+#~ "sign in with your provider.  A new window will be opened."
+#~ msgstr ""
+#~ "Om te verifiëren dat dit <strong %(primaryId)s>adres</strong> van u is, "
+#~ "moet u zich aanmelden bij uw provider. Er zal een nieuw venster worden "
+#~ "geopend."
+
+#~ msgid ""
+#~ "<strong %(emailId)s></strong> is already registered. Would you like to <a "
+#~ "%(signInLink)s>sign in</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s></strong> is al geregistreerd. Wilt u zich in plaats "
+#~ "hiervan <a %(signInLink)s>aanmelden</a>?"
+
+#~ msgid "Existing account? Sign in."
+#~ msgstr "Bestaande account? Meld u aan."
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Aanmelden bij %s met Persona voltooien"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Communiceren met server"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Even geduld, er wordt gewacht op de server."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "Mozilla Persona is de snelle en veilige manier van aanmelden. <a %s>Meer "
+#~ "info &rarr;</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Bedankt voor het verifiëren van uw e-mailadres. Dit bericht wordt naar u "
+#~ "verzonden om uw aanmelding bij %s te voltooien."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Voltooi de registratie door op de volgende koppeling te klikken:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "Er is een fout opgetreden bij het bevestigen van uw e-mailadres. Hebt u "
+#~ "dit adres eerder geverifieerd?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "Er is een fout opgetreden bij het voltooien van de registratie."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "Uw nieuwe e-mailadres is ingesteld en u bent nu aangemeld. U kunt dit "
+#~ "venster nu sluiten en teruggaan naar"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "Er is een probleem met uw registratiekoppeling. Is dit adres al "
+#~ "geregistreerd?"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "BrowserID Home"
+
+#~ msgid "TOS"
+#~ msgstr "TOS"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "Fout bij communicatie met server."
+
+#~ msgid "Browser ID"
+#~ msgstr "Browser ID"

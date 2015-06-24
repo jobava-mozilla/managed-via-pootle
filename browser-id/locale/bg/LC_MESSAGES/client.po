@@ -1,0 +1,589 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2015-04-06 11:13+0000\n"
+"Last-Translator: Стоян <stoyan@gmx.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1428318836.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"Има проблем с тази препратка за регистрация. Дали този адрес не е вече "
+"регистриран?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Грешка при завършване на регистрацията."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Persona изисква бисквитки, за да ви помни."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Моля, затворете прозореца, <a %s>включете бисквитките</a> и пробвайте отново"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Грешка при комуникацията"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Завършване на вписването…"
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "След малко ще влезете чрез Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Съжаляваме, но тази заявка отнема повече време, отколкото би трябвало."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Ако този проблем не се разреши от самосебе си, моля затворете прозореца и "
+"пробвайте отново."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Проверка с вашия доставчик на поща."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Избраният адрес на ел. поща е невалиден или е бил изтрит."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Премахване на %(email)s от вашия профил в Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Премахването на последния адрес ще изтрие вашия профил в Persona.\n"
+"Сигурни ли сте, че искате да продължите?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Сигурни ли сте, че искате да закриете своя профил в Persona?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Добавяне на адрес на ел. поща"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "електронна поща"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Трябва да бъде адрес на ел. поща"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Полето за ел. поща е задължително"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Първоначално потвърждение беше изпратено &ndash; изчакайте няколко минути "
+"преди да направите повторно"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Вече е добавен!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "добавяне"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "отказ"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "%s не може да бъде потвърден"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s е задължителен адрес, но не можем да потвърдим, че вие сте собственик на "
+"този адрес."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s е потвърден!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Вписване&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Проверете своята ел. поща"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"За се впишете в %s посетете препратката в потвърждаващото писмо, изпратено "
+"на %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Грешка"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Много съжаляваме."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Сървърът е под голямо натоварване!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Моля, презаредете страницата и опитайте отново."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Моля, затворете този прозорец и опитайте отново."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Вижте повече информация"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Затваряне"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "Добре"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* е невалиден адрес на ел. поща!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"За да продължите, моля затворете прозореца и въведете валиден адрес на ел. "
+"поща."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Да ви запомним ли?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Колко дълго искате да останете вписан чрез Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Един месец"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Този компютър е надежден."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Само тази сесия"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Това не е мой компютър."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Забележка: Разбира се, можете да излезете от Persona по всяко време."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Вписване чрез Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Вписване в %s като&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Избор на адрес на ел. поща"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Добавяне на друг адрес на ел. поща"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Това не съм аз"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Продължавайки, вие се съгласявате с <a %(terms)s>условията на услугата</a> и "
+"с <a %(privacy)s>декларацията за поверителност</a> на страницата %(site)s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "вписване"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "%(primary)s не отговаря. Моля, пробвайте отново след няколко минути."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Отказ"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "%(email)s не може да бъде потвърден"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Това може да е породено от браузъра ви, който блокира бисквитки, пуснати от "
+"трети страници. Моля, уверете се, че браузъра ви приема бисквитки от трети "
+"страници за %(idpName)s и опитайте отново."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Вие също се съгласявате с <a %(terms)s>условията на услугата</a> и с <a %"
+"(privacy)s>декларацията за поверителност</a> на страницата %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Задаване на парола"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s вече не ви разрешава да се вписвате в Persona с паролата си за %"
+"(idp)s. Моля, създайте нова парола, която да използвате за вписване в "
+"Persona."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Вашият адрес на ел. поща е нов за нас. Моля, задайте парола, за да го "
+"използвате с FirefoxOS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Вашият адрес на ел. поща е нов за нас. Моля, задайте парола, за да го "
+"използвате с Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "задаване на парола"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Въведете парола"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Паролата трябва да е дълга между 8 и 80 знака"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Потвърждаване на парола"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "потвърждаване на парола"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Необходимо е потвърждение на паролата"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Паролите не съвпадат!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "готово"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Добри новини!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"За %(email)s вече не е нужна втора парола. Потвърдете профила си и веднага "
+"ще бъдете вписани в %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "потвърждаване"
+
+#, fuzzy
+#~ msgid "signing in"
+#~ msgstr "влизане"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Потвърдете вашия мейл адрес"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Влизане като..."
+
+#~ msgid "Email"
+#~ msgstr "Мейл"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Вашата идентичност е проверена с вашия доставчик на поща, сега ще влезете."
+
+#~ msgid "Sign in using"
+#~ msgstr "Влизане като"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Сайтът заяви вашето влизане, използвайки"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Трябва да се влезете във вашия доставчик на поща, за да се провери "
+#~ "собствеността на този мейл. Този прозорец ще се пренасочи към"
+
+#, fuzzy
+#~ msgid "Enter password"
+#~ msgstr "анулиране на паролата"
+
+#~ msgid "forgot your password?"
+#~ msgstr "забравили сте паролата?"
+
+#~ msgid "Password"
+#~ msgstr "Парола"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "Паролата е задължителна."
+
+#~ msgid "verify email"
+#~ msgstr "проверка на мейла"
+
+#, fuzzy
+#~ msgid "sign in with %s"
+#~ msgstr "влизане"
+
+#, fuzzy
+#~ msgid "Use a different email address"
+#~ msgstr "Нов мейл адрес"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Това поле трябва да е мейл."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Току-що пратихме писмо до този мейл! Ако наистина искате да изпратите още "
+#~ "един, изчакайте минута-две и опитайте отново."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Този мейл е добавен към вашата регистрация!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Това поле трябва да е мейл адрес."
+
+#~ msgid "The password field is required."
+#~ msgstr "Попълването на полето за парола е задължително."
+
+#, fuzzy
+#~ msgid "This email address and password do not match."
+#~ msgstr "Паролите не съвпадат."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Получи се грешка!"
+
+#, fuzzy
+#~ msgid "Reset your password"
+#~ msgstr "анулиране на паролата"
+
+#, fuzzy
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Изберете нова парола, която ще използвате за влизане чрез Persona."
+
+#~ msgid "reset password"
+#~ msgstr "анулиране на паролата"
+
+#, fuzzy
+#~ msgid "Sign In"
+#~ msgstr "влизане"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Моля, изчакайте няколко секунди, докато влизате в сайта."
+
+#, fuzzy
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "За да завършите влизането, просто щракнете на проверяващата препратка, "
+#~ "която сме пратили до вашия мейл."
+
+#, fuzzy
+#~ msgid "enter email address"
+#~ msgstr "Нов мейл адрес"
+
+#, fuzzy
+#~ msgid "password"
+#~ msgstr "Парола"
+
+#~ msgid "next"
+#~ msgstr "напред"
+
+#, fuzzy
+#~ msgid "Forgot your password?"
+#~ msgstr "забравили сте паролата?"
+
+#, fuzzy
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Щраквайки върху %s, вие потвърждавате, че приемате <a %s>Условията за "
+#~ "ползване</a> на този сайт и неговата <a %s>Политика за поверителност</a>."
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Това съобщение ще изчезне, когато заявката бъде изпълнена (надяваме се "
+#~ "скоро). Ако чакате прекалено много, затворете този прозорец и пробвайте "
+#~ "отново."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr "Въведете вашия мейл, за да влезете в <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Моля, изчакайте, докато получим информация от вашия доставчик на мейл."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "Не може да се влезе в регистрацията чрез този потребител и парола."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Пратихме писмо за потвърждение до <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Ако това е грешка, просто пренебрегнете този мейл и <a %s>прекъснете</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Ако това е грешка, просто пренебрегнете този мейл и <a %s>използвайте "
+#~ "друг мейл</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Ако не възразявате да попитаме: това вашият компютър ли е?"
+
+#~ msgid "yes"
+#~ msgstr "да"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Ако да, ще ви ви държим влезли за две седмици."
+
+#~ msgid "no"
+#~ msgstr "не"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Ако сте в публичен компютър като в библиотека или Интернет кафене, "
+#~ "изберете това. След час ще ви попитаме пак за вашата парола, за по-голяма "
+#~ "безопасност."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Добре дошли в Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Сега изберете нова парола, която ще използвате за влизане чрез Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Повтаряне на паролата"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID изисква бисквитки"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "Този мейл изглежда нов, така че нека го настроим."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Вписването да е винаги чрез този мейл"

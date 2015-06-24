@@ -1,0 +1,1481 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-15 07:48-0700\n"
+"PO-Revision-Date: 2015-01-23 19:57+0000\n"
+"Last-Translator: Joseph <sirios2222@yahoo.gr>\n"
+"Language-Team: LANGUAGE <fiotakis@otenet.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1422043065.0\n"
+
+#: fjord/analytics/helpers.py:10 fjord/analytics/views.py:360 fjord/base/helpers.py:106 fjord/feedback/helpers.py:9
+msgid "Unknown"
+msgstr "Άγνωστη"
+
+#: fjord/analytics/views.py:123
+msgid "Firefox Input: {query}"
+msgstr "Firefox Input: '{query}'"
+
+#: fjord/analytics/views.py:125 fjord/analytics/views.py:139 fjord/base/templates/500.html:8 fjord/base/templates/base.html:5 fjord/base/templates/mobile/base.html:4
+msgid "Firefox Input"
+msgstr "Firefox Input"
+
+#: fjord/analytics/views.py:138
+msgid "Search Results From Firefox Input"
+msgstr "Αποτελέσματα αναζήτησης στο Firefox Input"
+
+#: fjord/analytics/views.py:143 fjord/analytics/views.py:367 fjord/analytics/views.py:435 fjord/analytics/templates/analytics/dashboard.html:13 fjord/analytics/templates/analytics/response.html:29
+#: fjord/analytics/templates/analytics/mobile/response.html:18 fjord/feedback/models.py:344
+msgid "Happy"
+msgstr "ευτυχισμένος"
+
+#: fjord/analytics/views.py:143 fjord/analytics/views.py:367 fjord/analytics/views.py:437 fjord/analytics/templates/analytics/dashboard.html:15 fjord/analytics/templates/analytics/response.html:31
+#: fjord/analytics/templates/analytics/mobile/response.html:20 fjord/feedback/models.py:345
+msgid "Sad"
+msgstr "λυπημένος"
+
+#: fjord/analytics/views.py:153 fjord/analytics/templates/analytics/response.html:24 fjord/analytics/templates/analytics/mobile/response.html:13
+msgid "Response id: {id}"
+msgstr "Id Απάντησης: {id}"
+
+#: fjord/analytics/views.py:281
+msgid "Bigram"
+msgstr ""
+
+#: fjord/analytics/views.py:366
+msgid "Sentiment"
+msgstr "Άποψη:"
+
+#: fjord/analytics/views.py:373 fjord/analytics/templates/analytics/response.html:111
+msgid "Product"
+msgstr "Προϊόν:"
+
+#: fjord/analytics/views.py:384 fjord/analytics/views.py:390 fjord/analytics/templates/analytics/response.html:115
+msgid "Version"
+msgstr "Έκδοση:"
+
+#: fjord/analytics/views.py:391
+msgid "Select product to see version breakdown"
+msgstr "Επιλέξτε ένα προϊόν για να δείτε αναλυτικά τις εκδόσεις του"
+
+#: fjord/analytics/views.py:399 fjord/analytics/templates/analytics/response.html:99
+msgid "Platform"
+msgstr "Πλατφόρμα"
+
+#: fjord/analytics/views.py:405 fjord/analytics/templates/analytics/response.html:105
+msgid "Locale"
+msgstr "Γλώσσα"
+
+#: fjord/analytics/templates/analytics/dashboard.html:7
+msgid "Atom feed for this search"
+msgstr "Ροή ΑΤΟΜ της αναζήτησης"
+
+#: fjord/analytics/templates/analytics/dashboard.html:45 fjord/analytics/templates/analytics/analyzer/search.html:78 fjord/analytics/templates/analytics/mobile/response.html:40
+msgid "Permalink"
+msgstr "Μόνιμος δεσμός"
+
+#: fjord/analytics/templates/analytics/dashboard.html:100
+msgid "When"
+msgstr "Χρονική περίοδος"
+
+#. Short for 1 day.
+#: fjord/analytics/templates/analytics/dashboard.html:102
+msgid "1d"
+msgstr "1ημ."
+
+#. Short for 7 days.
+#: fjord/analytics/templates/analytics/dashboard.html:104
+msgid "7d"
+msgstr "7ημ."
+
+#. Short for 30 days.
+#: fjord/analytics/templates/analytics/dashboard.html:106
+msgid "30d"
+msgstr "30ημ."
+
+#. Short for 90 days.
+#: fjord/analytics/templates/analytics/dashboard.html:108
+msgid "90d"
+msgstr "90ημ."
+
+#: fjord/analytics/templates/analytics/dashboard.html:110
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: fjord/analytics/templates/analytics/dashboard.html:114
+msgid "Start"
+msgstr "αρχή"
+
+#: fjord/analytics/templates/analytics/dashboard.html:116
+msgid "End"
+msgstr "τέλος"
+
+#: fjord/analytics/templates/analytics/dashboard.html:117
+msgid "Set"
+msgstr "Ορισμός"
+
+#: fjord/analytics/templates/analytics/dashboard.html:136
+msgid "Note: All dates and times are in Pacific Time."
+msgstr "Σημείωση: Όλες οι ημερομηνίες και ώρες είναι σε ώρα ΗΠΑ-Ειρηνικού."
+
+#: fjord/analytics/templates/analytics/dashboard.html:141
+msgid "Feedback"
+msgstr "Σχόλιο"
+
+#: fjord/analytics/templates/analytics/dashboard.html:145
+msgid "Search by keyword"
+msgstr "Αναζήτηση με λέξεις - κλειδιά"
+
+#: fjord/analytics/templates/analytics/dashboard.html:163
+msgid "No feedback matches that criteria."
+msgstr "Δε βρέθηκαν σχόλια με αυτά τα κριτήρια."
+
+#: fjord/analytics/templates/analytics/dashboard.html:169
+msgid "Older Messages"
+msgstr "Νεότερα μηνύματα"
+
+#: fjord/analytics/templates/analytics/dashboard.html:174
+msgid "Newer Messages"
+msgstr "Παλαιότερα μηνύματα"
+
+#: fjord/analytics/templates/analytics/dashboard.html:185
+msgid "Messages in specified time range"
+msgstr "Μηνύματα για την καθορισμένη χρονική περίοδο"
+
+# Χωρίς τόνους λόγω του text-transform: uppercase
+#: fjord/analytics/templates/analytics/es_down.html:12
+msgid "Dashboard unavailable"
+msgstr "Δεν είναι διαθέσιμη η αναζήτηση"
+
+#: fjord/analytics/templates/analytics/es_down.html:14
+msgid "Dashboard is currently unavailable. Please try again in 10 minutes."
+msgstr "Το ταμπλό δεν είναι διαθέσιμο προς το παρόν. Δοκιμάστε ξανά σε 10 λεπτά."
+
+#: fjord/analytics/templates/analytics/response.html:45
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: fjord/analytics/templates/analytics/response.html:47 fjord/analytics/templates/analytics/response.html:125 fjord/analytics/templates/analytics/response.html:129
+#: fjord/analytics/templates/analytics/response.html:133 fjord/analytics/templates/analytics/response.html:137 fjord/analytics/templates/analytics/response.html:141
+#: fjord/analytics/templates/analytics/response.html:145
+msgid "None"
+msgstr "Κανένα"
+
+#: fjord/analytics/templates/analytics/response.html:49
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: fjord/analytics/templates/analytics/response.html:53
+#, fuzzy
+msgid "Translated"
+msgstr "Μετάφραση μηνύματος"
+
+#: fjord/analytics/templates/analytics/response.html:64
+#, fuzzy
+msgid "Translate (machine)"
+msgstr "Μετάφραση μηνύματος"
+
+#: fjord/analytics/templates/analytics/response.html:70
+#, fuzzy
+msgid "Translate (human)"
+msgstr "Μετάφραση μηνύματος"
+
+#: fjord/analytics/templates/analytics/response.html:85
+msgid "Created"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:119
+msgid "Channel"
+msgstr "Κανάλι"
+
+#: fjord/analytics/templates/analytics/response.html:123
+msgid "URL Domain"
+msgstr ""
+
+# Xωρίς τόνους λόγω του text-transform: uppercase
+#: fjord/analytics/templates/analytics/response.html:127
+msgid "Source"
+msgstr "Πηγαιος κωδικας"
+
+#: fjord/analytics/templates/analytics/response.html:131
+msgid "Campaign"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:135
+msgid "Browser"
+msgstr "Περιηγητής"
+
+#: fjord/analytics/templates/analytics/response.html:139
+msgid "Browser Ver."
+msgstr "Έκδοση Περιηγητή"
+
+#: fjord/analytics/templates/analytics/response.html:143
+msgid "Browser Plat."
+msgstr ""
+
+#: fjord/analytics/templates/analytics/response.html:151
+msgid "Full URL"
+msgstr "Πλήρης URL"
+
+#: fjord/analytics/templates/analytics/response.html:155 fjord/feedback/templates/feedback/fxos_feedback.html:94
+msgid "Country"
+msgstr "Χώρα"
+
+#: fjord/analytics/templates/analytics/response.html:159
+msgid "Manufacturer"
+msgstr "Κατασκευαστής"
+
+#: fjord/analytics/templates/analytics/response.html:163 fjord/feedback/templates/feedback/fxos_feedback.html:116
+msgid "Device"
+msgstr "Συσκευή"
+
+#: fjord/analytics/templates/analytics/response.html:167
+msgid "User agent"
+msgstr "User agent"
+
+#: fjord/analytics/templates/analytics/response.html:171
+msgid "Email"
+msgstr "Email"
+
+#: fjord/analytics/templates/analytics/response.html:179
+msgid "Browser data"
+msgstr "Δεδομένα περιηγητή"
+
+#: fjord/analytics/templates/analytics/response.html:182
+msgid "yes"
+msgstr "ναι"
+
+#: fjord/analytics/templates/analytics/response.html:187
+msgid "API version"
+msgstr "Έκδοση API"
+
+#: fjord/analytics/templates/analytics/response.html:205
+msgid "Context"
+msgstr ""
+
+#: fjord/analytics/templates/analytics/mobile/dashboard.html:4
+msgid "Dashboard is not available on mobile devices, yet."
+msgstr "Το ταμπλό δεν είναι διαθέσιμο σε κινητές συσκευές, ακόμα."
+
+#: fjord/base/models.py:55
+msgid "JSON Object"
+msgstr "JSON Object"
+
+#: fjord/base/templates/403.html:3 fjord/base/templates/403.html:9
+msgid "Forbidden"
+msgstr "Απαγορευμένη"
+
+#: fjord/base/templates/403.html:12
+msgid "You do not have access to this page."
+msgstr "Δεν έχετε πρόσβαση σε αυτή τη σελίδα."
+
+#: fjord/base/templates/403.html:14
+msgid "You do not have access to this page. If you have an account, try signing in."
+msgstr "Δεν έχετε πρόσβαση σε αυτή τη σελίδα. Αν έχετε λογαριασμό, δοκιμάστε να συνδεθείτε."
+
+#: fjord/base/templates/403.html:18 fjord/base/templates/404.html:14 fjord/base/templates/500.html:35 fjord/base/templates/includes/login_failure_text.html:8
+msgid "Return to the dashboard."
+msgstr "Επιστροφή στο ταμπλό."
+
+# χωρίς τόνους λόγω του text-transform:uppercase
+#: fjord/base/templates/404.html:3 fjord/base/templates/404.html:9
+msgid "Not Found"
+msgstr "Δεν βρέθηκαν αποτελέσματα!"
+
+#: fjord/base/templates/404.html:11
+msgid "The document could not be found."
+msgstr "Δεν βρέθηκε το έγγραφο."
+
+#: fjord/base/templates/500.html:8
+msgid "Something has gone horribly wrong"
+msgstr "Κάτι έχει πάει στραβά"
+
+#: fjord/base/templates/500.html:19 fjord/base/templates/base.html:44 fjord/base/templates/mobile/base.html:29
+msgid "<strong>Firefox</strong> Input"
+msgstr "<strong>Firefox</strong> - Input"
+
+#: fjord/base/templates/500.html:25 fjord/base/templates/base.html:50 fjord/base/templates/mobile/base.html:35
+msgid "Dashboard"
+msgstr "Ταμπλό"
+
+#: fjord/base/templates/500.html:33
+msgid "Something has gone horribly wrong."
+msgstr "Κάτι έχει πάει στραβά."
+
+#: fjord/base/templates/500.html:34
+msgid "There was a problem on the server."
+msgstr "Παρουσιάστηκε πρόβλημα στο διακομιστή."
+
+#: fjord/base/templates/about.html:3 fjord/base/templates/includes/common.html:23
+msgid "About Firefox Input"
+msgstr "Περί Firefox Input"
+
+# Xωρίς τόνους λόγω του text-transform: uppercase
+#: fjord/base/templates/about.html:9
+msgid "Hello!"
+msgstr "Χαιρετε!"
+
+#: fjord/base/templates/about.html:11
+msgid ""
+"Firefox Input is Mozilla's primary feedback mechanism for products. It is set up to be a method of one-way communication about your experiences in using our products, the Internet you view it "
+"through, and what Mozilla can do to make that experience better. The system is available over a wide-variety of submission mechanisms and product builds."
+msgstr ""
+"Το Firefox Input είναι το βασικό σύστημα υποβολής σχολίων του Mozilla. Έχει ρυθμιστεί ώστε να είναι ο ευκολότερος τρόπος επικοινωνίας σχετικά με την εμπειρία σας στη χρήση των προϊόντων μας, τις "
+"σελίδες που βλέπετε και του τι μπορεί να κάνει το ίδρυμα Mozilla για τη βελτίωσή τους. Το σύστημα αυτό είναι διαθέσιμο με ένα μεγάλο εύρος μηχανισμών και εκδόσεων προϊόντων."
+
+#: fjord/base/templates/about.html:21
+msgid "To submit feedback for a Mozilla product, please go to <a href=\"%(url)s\">the feedback submission page</a>!"
+msgstr "Για να υποβάλετε σχόλια για κάποιο προϊόν του Mozilla, παρακαλούμε πηγαίνετε στη <a href=\"%(url)s\">σελίδα υποβολής σχολίων</a>!"
+
+#: fjord/base/templates/about.html:27 fjord/base/templates/includes/common.html:20
+msgid "Privacy Policy"
+msgstr "Πολιτική απορρήτου"
+
+#: fjord/base/templates/about.html:29
+msgid "We adhere to the <a href=\"%(url)s\">Mozilla Privacy Policy</a>."
+msgstr "Τηρούμε την <a href=\"%(url)s\">Πολιτική Απορρήτου του Mozilla</a>."
+
+#: fjord/base/templates/about.html:34
+msgid "Legal Disclaimers and Limitations"
+msgstr "Αποποίηση Ευθυνών και Περιορισμοί"
+
+#: fjord/base/templates/about.html:36
+msgid "We are covered by the <a href=\"%(url)s\">Mozilla legal disclaimers and limitations</a> document."
+msgstr "Καλυπτόμαστε από το έγγραφο <a href=\"%(url)s\">αποποίησης ευθυνών και περιορισμών του Mozilla</a> ."
+
+#: fjord/base/templates/about.html:42
+msgid "Data Retention Policy"
+msgstr "Πολιτική Διατήρησης Δεδομένων"
+
+#: fjord/base/templates/about.html:44
+msgid "We have a data retention policy that covers data stored on this site:"
+msgstr "Έχουμε μια πολιτική διατήρησης δεδομένων που καλύπτει τα δεδομένα που αποθηκεύονται σε αυτόν τον ιστότοπο:"
+
+#: fjord/base/templates/about.html:51
+msgid "We keep feedback data forever, but only the last 6 months of data is available on the public dashboard."
+msgstr "Κρατάμε τα δεδομένα των σχολίων για πάντα, αλλά μόνο δεδομένα των 6 τελευταίων μηνών είναι δημοσίως διαθέσιμα."
+
+#: fjord/base/templates/about.html:57
+msgid "We keep email addresses and contextual data associated with feedback data for 6 months and then delete it."
+msgstr "Διατηρούμε τις διευθύνσεις email και τα δεδομένα που σχετίζονται με τα σχόλια για 6 μήνες και στη συνέχεια τα διαγράφουμε."
+
+# Xωρίς τόνους λόγω του text-transform: uppercase
+#: fjord/base/templates/about.html:64
+msgid "Open Data"
+msgstr "Ανοικτά δεδομένα"
+
+#: fjord/base/templates/about.html:66
+msgid ""
+"We'd love to experiment more with this data, but we're only a few people. So, we need requests from you on questions you'd like to see answered! If you would like to experiment with our data, "
+"please contact us!"
+msgstr ""
+"Θα θέλαμε να πειραματιστούμε περισσότερο με αυτά τα δεδομένα, αλλά η ομάδα μας είναι μικρή. Χρειαζόμαστε τα δικά σας αιτήματα για ερωτήσεις που θα θέλατε να δείτε απαντημένες. Αν θέλετε να "
+"πειραματιστείτε με τα δεδομένα μας, σας παρακαλούμε να έρθετε σε επαφή μαζί μας!"
+
+# Xωρίς τόνους λόγω του text-transform: uppercase
+#: fjord/base/templates/about.html:74
+msgid "Source Code"
+msgstr "Πηγαίος κώδικας"
+
+#: fjord/base/templates/about.html:76
+msgid "The code for the Firefox Input site can be <a href=\"%(url)s\">found on GitHub</a>!"
+msgstr "Ο κώδικας της δικτυακής εφαρμογής Firefox Input είναι διαθέσιμος στο <a href=\"%(url)s\">GitHub</a>!"
+
+#: fjord/base/templates/base.html:5 fjord/base/templates/mobile/base.html:4
+msgid "Welcome"
+msgstr "Καλώς ορίσατε!"
+
+#: fjord/base/templates/base.html:32 fjord/base/templates/mobile/base.html:21
+msgid "Proceed to main content"
+msgstr "Μετάβαση στο κυρίως περιεχόμενο"
+
+#: fjord/base/templates/base.html:33 fjord/base/templates/mobile/base.html:22
+msgid "Proceed to footer"
+msgstr "Μετάβαση στο υποσέλιδο"
+
+#: fjord/base/templates/base.html:51
+msgid "Give Feedback"
+msgstr "Πείτε μας σχόλια"
+
+#: fjord/base/templates/base.html:53
+msgid "Analytics"
+msgstr ""
+
+#: fjord/base/templates/base.html:59
+msgid "Hello, {username}"
+msgstr "Χαίρετε, {username}"
+
+#: fjord/base/templates/base.html:63
+msgid "Sign out"
+msgstr "Αποσύνδεση"
+
+#: fjord/base/templates/base.html:65
+msgid "Sign in"
+msgstr "Σύνδεση"
+
+#: fjord/base/templates/csrf_failure.html:3 fjord/base/templates/includes/csrf_failure_text.html:1 fjord/base/templates/mobile/csrf_failure.html:3
+#, fuzzy
+msgid "CSRF Failure"
+msgstr "Αποτυχία σύνδεσης"
+
+#: fjord/base/templates/login_failure.html:3 fjord/base/templates/includes/login_failure_text.html:1 fjord/base/templates/mobile/login_failure.html:3
+msgid "Login Failure"
+msgstr "Αποτυχία σύνδεσης"
+
+#: fjord/base/templates/new_user.html:3 fjord/base/templates/mobile/new_user.html:3
+msgid "Welcome to Input!"
+msgstr "Καλώς ορίσατε στο Input!"
+
+#: fjord/base/templates/includes/common.html:7
+msgid "Other languages:"
+msgstr "Άλλες γλώσσες:"
+
+#: fjord/base/templates/includes/common.html:15
+msgid "Go"
+msgstr "Εμπρός"
+
+#: fjord/base/templates/includes/common.html:21
+msgid "Legal Notices"
+msgstr "Νομικές σημειώσεις"
+
+#: fjord/base/templates/includes/common.html:22
+msgid "Report Trademark Abuse"
+msgstr "Αναφορά παραβίασης εμπορικών σημάτων"
+
+#: fjord/base/templates/includes/common.html:26
+#, fuzzy
+msgid ""
+"Except where otherwise <a href=\"%(legal_url)s\">noted</a>, content on this site is licensed under the <a href=\"%(license_url)s\">Creative Commons Attribution Share-Alike License v3.0</a> or any "
+"later version."
+msgstr ""
+"Εκτός από όπου <a href=\"%(legal_url)s\">ορίζεται</a> διαφορετικά, το περιεχόμενο του ιστότοπου παρέχεται σύμφωνα με την άδεια <br/> <a href=\"%(license_url)s\">Creative Commons αναφορά προέλευσης "
+"- παρόμοια διανομή 3.0</a> ή μεταγενέστερη."
+
+#: fjord/base/templates/includes/csrf_failure_text.html:3
+msgid "Your submission failed a security check on our system."
+msgstr "Η υποβολή σας απέτυχε τον έλεγχο ασφαλείας στο σύστημά μας."
+
+#: fjord/base/templates/includes/csrf_failure_text.html:8
+msgid "Please make sure you have cookies enabled, press the Back button in your browser, refresh the page, fill out the form, and try submitting your feedback again."
+msgstr "Παρακαλούμε βεβαιωθείτε ότι έχετε τα cookies ενεργοποιημένα, πατήστε το κουμπί Πίσω στον περιηγητή σας, ανανεώστε τη σελίδα σας, συμπληρώστε τη φόρμα και δοκιμάστε να την υποβάλετε ξανά."
+
+#: fjord/base/templates/includes/login_failure_text.html:3
+msgid "You've failed to authenticate with Persona. Please try again."
+msgstr "Η είσοδος με το Persona απέτυχε. Παρακαλούμε δοκιμάστε ξανά."
+
+#: fjord/base/templates/includes/new_user_text.html:1
+msgid "Welcome!"
+msgstr "Καλώς ορίσατε!"
+
+#: fjord/base/templates/includes/new_user_text.html:3
+msgid "The identity you just logged in to Persona with ties you to your account on Input. Please remember which Persona identity you used."
+msgstr "Η ταυτότητα Persona με την οποία κάνατε είσοδο, συνδέεται με τον λογαριασμό σας στο Input. Παρακαλούμε να θυμάστε με ποια ταυτότητα Persona συνδεθήκατε."
+
+#: fjord/base/templates/includes/new_user_text.html:10
+msgid "Continue"
+msgstr "Συνέχεια"
+
+#: fjord/feedback/config.py:10
+msgid "Colombia"
+msgstr "Κολομβία"
+
+#: fjord/feedback/config.py:11
+msgid "Venezuela"
+msgstr "Βενεζουέλα"
+
+#: fjord/feedback/config.py:12
+msgid "Poland"
+msgstr "Πολωνία"
+
+#: fjord/feedback/config.py:13
+msgid "Spain"
+msgstr "Ισπανία"
+
+#: fjord/feedback/config.py:14
+msgid "Brazil"
+msgstr "Βραζιλία"
+
+#: fjord/feedback/config.py:15
+msgid "Germany"
+msgstr "Γερμανία"
+
+#: fjord/feedback/config.py:16
+msgid "Greece"
+msgstr "Ελλάδα"
+
+#: fjord/feedback/config.py:17
+msgid "Hungary"
+msgstr "Ουγγαρία"
+
+#: fjord/feedback/config.py:18
+msgid "Serbia"
+msgstr "Σερβία"
+
+#: fjord/feedback/config.py:19
+msgid "Montenegro"
+msgstr "Μαυροβούνιο"
+
+#: fjord/feedback/config.py:20
+msgid "Mexico"
+msgstr "Μεξικό"
+
+#: fjord/feedback/config.py:21
+msgid "Peru"
+msgstr "Περού"
+
+#: fjord/feedback/config.py:22
+msgid "Uruguay"
+msgstr "Ουρουγουάη"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:10 fjord/feedback/templates/feedback/mobile/download_firefox.html:7
+msgid "Download Firefox"
+msgstr "Λήψη του Firefox"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:16
+msgid "Please Download Firefox"
+msgstr "Λήψη του Firefox"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:21 fjord/feedback/templates/feedback/mobile/download_firefox.html:21
+msgid "Oh! So, you want to offer us feedback on Firefox. Thank you, but you'll need to be on the latest version."
+msgstr "Σας ευχαριστούμε που θέλετε να μας προσφέρετε τα σχόλια σας για τον Firefox, αλλά για να το κάνετε αυτό, θα πρέπει να χρησιμοποιείτε την πιο πρόσφατη έκδοση του."
+
+#: fjord/feedback/templates/feedback/download_firefox.html:27 fjord/feedback/templates/feedback/mobile/download_firefox.html:27
+msgid "To do that, simply go to our download page and install/update to the <a href=\"%(url)s\">latest version of Firefox!</a>"
+msgstr "Για να το κάνετε αυτό, απλά πηγαίνετε στη σελίδα λήψεων και εγκαταστήστε/ενημερώστε την <a href=\"%(url)s\">πιο πρόσφατη έκδοση του Firefox!</a>"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:7 fjord/feedback/templates/feedback/generic_feedback.html:7
+msgid "Submit Your Feedback"
+msgstr "Υποβολή σχολίου"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:31 fjord/feedback/templates/feedback/generic_feedback.html:32
+msgid "{product} feedback"
+msgstr "Υποβολή σχολίου για {product}"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:36 fjord/feedback/templates/feedback/generic_feedback.html:37 fjord/feedback/templates/feedback/picker.html:28
+msgid "JavaScript is required to leave feedback. Please enable JavaScript in your browser and refresh this page."
+msgstr "Απαιτείται η χρήση JavaScript για να υποβάλετε το σχόλιό σας. Παρακαλούμε ενεργοποιήστε τη JavaScript στον περιηγητή σας και κάντε ανανέωση της σελίδας."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:43
+msgid "Your feedback helps us improve Firefox OS."
+msgstr "Τα σχόλιά σας μας βοηθούν να βελτιώσουμε το Firefox OS."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:58 fjord/feedback/templates/feedback/generic_feedback.html:60
+msgid "%(product)s makes me happy"
+msgstr "Ο %(product)s με ευχαριστεί"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:75 fjord/feedback/templates/feedback/generic_feedback.html:77
+msgid "%(product)s makes me sad"
+msgstr "Ο %(product)s με δυσαρεστεί"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:84 fjord/feedback/templates/feedback/generic_feedback.html:86
+msgid "Is %(product)s not the product you want to give feedback on?<br /> <a href=\"%(url)s\">Pick a different product</a>."
+msgstr "Ο %(product)s δεν είναι το προϊόν για το οποίο θέλετε να υποβάλετε σχόλια;<br /> <a href=\"%(url)s\">Διαλέξτε κάποιο άλλο προϊόν</a>."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:98
+msgid "In what country did you purchase your Firefox OS device?"
+msgstr "Σε ποια χώρα έχετε αγοράσει τη συσκευή σας με Firefox OS;"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:106 fjord/feedback/templates/feedback/fxos_feedback.html:128
+msgid "Other"
+msgstr "Άλλη"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:110 fjord/feedback/templates/feedback/fxos_feedback.html:132
+msgid "Next"
+msgstr "Επόμενο"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:120
+msgid "What Firefox OS device are you using?"
+msgstr "Ποια συσκευή Firefox OS χρησιμοποιείτε;"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:137 fjord/feedback/templates/feedback/generic_feedback.html:95
+msgid "Details"
+msgstr "Λεπτομέρειες"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:142 fjord/feedback/templates/feedback/generic_feedback.html:100
+msgid "Please describe what you like. The content of your feedback will be public, so please be sure not to include personal information such as email address, passwords or phone number."
+msgstr "Παρακαλούμε πείτε μας τι σας ευχαριστεί. Το περιεχόμενο των σχολίων σας θα είναι δημόσια διαθέσιμο, γι 'αυτό παρακαλούμε να βεβαιωθείτε πως δεν περιλαμβάνει προσωπικά δεδομένα."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:150 fjord/feedback/templates/feedback/generic_feedback.html:108
+msgid ""
+"Please describe your problem below and be as specific as you can. The content of your feedback will be public, so please be sure not to include personal information such as email address, passwords "
+"or phone number."
+msgstr ""
+"Παρακαλούμε περιγράψτε το πρόβλημά σας παρακάτω με όσο περισσότερες λεπτομέρειες μπορείτε. Το περιεχόμενο των σχολίων σας θα είναι δημόσια διαθέσιμο, γι 'αυτό παρακαλούμε να βεβαιωθείτε πως δεν "
+"περιλαμβάνει προσωπικά δεδομένα."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:167 fjord/feedback/templates/feedback/generic_feedback.html:125
+msgid "If your feedback is related to a website, you can include it here:"
+msgstr "Εάν τα σχόλιά σας σχετίζονται με μια ιστοσελίδα, μπορείτε να τη συμπεριλάβετε εδώ:"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:181 fjord/feedback/templates/feedback/generic_feedback.html:156
+msgid "(Optional) Check here to let us contact you to follow up on your feedback. Your email address will be kept private."
+msgstr "(Προαιρετικό) Επιλέξτε εδώ για να μας επιτρέψετε να επικοινωνήσουμε μαζί σας σχετικά με τα σχόλιά σας. Το email σας θα παραμείνει απόρρητο."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:192
+msgid "Please enter a valid email address."
+msgstr "Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:198 fjord/feedback/templates/feedback/generic_feedback.html:170
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:204
+msgid "Submitting...."
+msgstr "Υποβολή..."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:212
+msgid "Success!"
+msgstr "Επιτυχία!"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:216
+msgid "Thank you for your feedback! We will use it to help us create a better experience in future versions of Firefox OS."
+msgstr "Ευχαριστούμε για τα σχόλια! Θα τα χρησιμοποιήσουμε για τη βελτίωση της εμπειρίας σε επόμενες εκδόσεις του Firefox OS."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:222
+msgid "Learn how you can <a href=\"%(url)s\">make Firefox OS and Mozilla better</a>."
+msgstr "Μάθετε πώς μπορείτε να <a href=\"%(url)s\">κάνετε το Firefox OS και το έργο Mozilla καλύτερα</a>."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:231
+msgid "We're sorry!"
+msgstr "Λυπούμαστε!"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:234
+msgid "Something has happened and we can't submit your feedback. Feedback will be saved on your device so you can try sending it again later."
+msgstr "Κάτι έχει συμβεί και δεν μπορούμε να υποβάλλουμε τα σχόλιά σας. Θα αποθηκευθούν στη συσκευή σας ώστε να μπορείτε να δοκιμάσετε την αποστολή τους αργότερα."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:240 fjord/feedback/templates/feedback/fxos_feedback.html:246 fjord/feedback/templates/feedback/fxos_feedback.html:255
+msgid "Try again"
+msgstr "Δοκιμάστε ξανά"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:241 fjord/feedback/templates/feedback/fxos_feedback.html:256
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:249
+msgid "You have unsubmitted feedback data. Would you like to try submitting it again?"
+msgstr "Έχετε σχόλια που δεν έχουν υποβληθεί. Θέλετε να δοκιμάσετε ξανά να τα υποβάλετε;"
+
+#: fjord/feedback/templates/feedback/generic_feedback.html:43
+msgid "How does %(product)s make you feel?"
+msgstr "Πως αισθάνεστε για τον %(product)s ;"
+
+#: fjord/feedback/templates/feedback/generic_feedback.html:140
+msgid ""
+"Check here to provide technical information about your browser. This information helps us better understand our users and create better products. This information will be kept in accordance with "
+"our Privacy policy."
+msgstr ""
+"Επιλέξτε το κουτάκι για να μας παρέχετε τεχνικές πληροφορίες για τον περιηγητή σας. Αυτές οι πληροφορίες θα μας βοηθήσουν να κατανοήσουμε καλύτερα τους χρήστες μας και να δημιουργούμε καλύτερα "
+"προϊόντα. Οι πληροφορίες θα αποθηκευτούν σύμφωνα με την πολιτική απορρήτου μας."
+
+#: fjord/feedback/templates/feedback/picker.html:3
+msgid "Select A Product"
+msgstr "Επιλέξτε προϊόν"
+
+#: fjord/feedback/templates/feedback/picker.html:14
+msgid "Select a product"
+msgstr "Επιλέξτε ένα προϊόν"
+
+# Χωρίς τόνους λόγω του text-transform: uppercase
+#: fjord/feedback/templates/feedback/picker.html:23
+msgid "No products available."
+msgstr "Δεν ειναι διαθεσιμη η αναζητηση"
+
+#: fjord/feedback/templates/feedback/picker.html:34
+msgid "Select a product to leave feedback for."
+msgstr "Επιλέξτε ένα προϊόν για το οποίο θέλετε να υποβάλετε σχόλια."
+
+#: fjord/feedback/templates/feedback/thanks.html:3 fjord/feedback/templates/feedback/thanks_l10nized.html:3
+msgid "Thanks"
+msgstr "Σας ευχαριστούμε!"
+
+#: fjord/feedback/templates/feedback/thanks.html:16 fjord/feedback/templates/feedback/thanks_l10nized.html:16
+msgid "Thanks for Your Feedback"
+msgstr "Σας ευχαριστούμε για τα σχόλιά σας"
+
+#: fjord/feedback/templates/feedback/thanks.html:25
+msgid "Your feedback will be used to create a better experience in future releases of Firefox."
+msgstr "Τα σχόλιά σας θα βοηθήσουν στη δημιουργία μιας καλύτερης εμπειρίας σε επόμενες εκδόσεις του Firefox."
+
+#: fjord/feedback/templates/feedback/thanks.html:33 fjord/feedback/templates/feedback/thanks_l10nized.html:33
+#, fuzzy
+msgid "Suggestions from your feedback:"
+msgstr "Μοιραστείτε τα σχόλιά σας."
+
+#: fjord/feedback/templates/feedback/thanks.html:49 fjord/feedback/templates/feedback/thanks_l10nized.html:49
+msgid "Having problems? Get help."
+msgstr "Αντιμετωπίζετε κάποιο πρόβλημα; Λάβετε βοήθεια."
+
+#: fjord/feedback/templates/feedback/thanks.html:51 fjord/feedback/templates/feedback/thanks_l10nized.html:51
+msgid "Go to our support forum where you can <a href=\"%(url)s\">get help and find answers</a>."
+msgstr "Επισκεφτείτε το φόρουμ υποστήριξης όπου μπορείτε να  <a href=\"%(url)s\">λάβετε βοήθεια και να βρείτε απαντήσεις</a>."
+
+#: fjord/feedback/templates/feedback/thanks.html:60 fjord/feedback/templates/feedback/thanks_l10nized.html:64
+msgid "Shape the future of Firefox."
+msgstr "Διαμορφώστε το μέλλον του Firefox."
+
+#: fjord/feedback/templates/feedback/thanks.html:62
+msgid "Download <a href=\"%(download_url)s\">the build that is right for you</a>."
+msgstr "Λήψη <a href=\"%(download_url)s\"> της έκδοσης που προτιμάτε</a>."
+
+#: fjord/feedback/templates/feedback/thanks.html:70 fjord/feedback/templates/feedback/thanks_l10nized.html:74
+msgid "Contribute to Mozilla."
+msgstr "Συνεισφέρετε στο Mozilla."
+
+#: fjord/feedback/templates/feedback/thanks.html:72
+msgid "Learn how you can <a href=\"%(url)s\">make Firefox and Mozilla better</a>."
+msgstr "Μάθετε πώς μπορείτε <a href=\"%(url)s\">να κάνετε τον Firefox και το έργο Mozilla καλύτερο</a>"
+
+#: fjord/feedback/templates/feedback/thanks.html:79
+msgid "Find the latest news about Firefox."
+msgstr "Δείτε τα πιο πρόσφατα νέα του Firefox:"
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:25
+#, fuzzy
+msgid "Your feedback will be used to create a better experience in future releases of %(product)s."
+msgstr "Τα σχόλιά σας θα βοηθήσουν στη δημιουργία μιας καλύτερης εμπειρίας σε επόμενες εκδόσεις του Firefox."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:66
+#, fuzzy
+msgid "Download <a href=\"%(download_url)s\">the Firefox build that is right for you</a>."
+msgstr "Λήψη <a href=\"%(download_url)s\"> της έκδοσης που προτιμάτε</a>."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:76
+#, fuzzy
+msgid "Learn how you can <a href=\"%(url)s\">make %(product)s and Mozilla better</a>."
+msgstr "Μάθετε πώς μπορείτε <a href=\"%(url)s\">να κάνετε τον Firefox και το έργο Mozilla καλύτερο</a>"
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:84
+#, fuzzy
+msgid "Find the latest news about %(product)s."
+msgstr "Δείτε τα πιο πρόσφατα νέα του Firefox:"
+
+#: fjord/feedback/templates/feedback/mobile/download_firefox.html:16
+msgid "Please Download Firefox!"
+msgstr "Λήψη του Firefox"
+
+#: fjord/suggest/providers/sumosuggest.py:180
+msgid "Ask a question in our support forum"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Go to our support forum where you can get help and find answers."
+#~ msgstr "Επισκεφτείτε το φόρουμ υποστήριξης όπου μπορείτε να  <a href=\"%(url)s\">λάβετε βοήθεια και να βρείτε απαντήσεις</a>."
+
+#~ msgid "Submit feedback"
+#~ msgstr "Υποβολή σχολίου"
+
+#~ msgid "Firefox OS made me happy"
+#~ msgstr "Το Firefox OS με ευχαριστεί..."
+
+#~ msgid "Firefox OS made me sad"
+#~ msgstr "Το Firefox OS με δυσαρεστεί..."
+
+#~ msgid "If you need help or have a problem with Firefox OS, please visit <a href=\"%(support_url)s\">Mozilla Support</a>."
+#~ msgstr "Αν χρειάζεστε βοήθεια ή έχετε κάποιο πρόβλημα με το Firefox OS, επισκεφθείτε τις σελίδες <a href=\"%(support_url)s\">υποστήριξης του Mozilla</a>."
+
+#~ msgid "Please describe what you liked."
+#~ msgstr "Παρακαλούμε περιγράψτε τι σας άρεσε."
+
+#~ msgid "Please describe your problem below and be as specific as you can."
+#~ msgstr "Παρακαλούμε περιγράψτε το πρόβλημά σας παρακάτω με όσο πιο πολλές λεπτομέρειες."
+
+#~ msgid "The content of your feedback will be public, so please be sure not to include any personal information."
+#~ msgstr "Το περιεχόμενο των σχολίων σας θα είναι δημόσια διαθέσιμο, γι 'αυτό παρακαλούμε να βεβαιωθείτε πως δεν περιλαμβάνει προσωπικά δεδομένα."
+
+#~ msgid "Can we contact you?"
+#~ msgstr "Μπορούμε να επικοινωνήσουμε μαζί σας;"
+
+#~ msgid "Check here to let us contact you to follow up on your feedback."
+#~ msgstr "Επιλέξτε εδώ για να μας επιτρέψετε να επικοινωνήσουμε μαζί σας σχετικά με τα σχόλιά σας."
+
+#~ msgid "Email address (optional):"
+#~ msgstr "E-mail (προαιρετικό):"
+
+#~ msgid "Don't worry, your email will always be kept private."
+#~ msgstr "Μην ανησυχείτε, το email σας θα μείνει πάντα ιδιωτικό."
+
+#~ msgid "Send Feedback"
+#~ msgstr "Αποστολή σχολίου"
+
+#~ msgid "Your feedback helps us improve Firefox."
+#~ msgstr "Τα σχόλιά σας μας βοηθούν να βελτιώσουμε τον Firefox."
+
+#~ msgid "Firefox made me happy"
+#~ msgstr "Ο Firefox με ευχαριστεί..."
+
+#~ msgid "Firefox made me sad"
+#~ msgstr "Ο Firefox με δυσαρεστεί..."
+
+#~ msgid "If you need help or have a problem with Firefox, please visit <a href=\"%(support_url)s\">Firefox Support</a>."
+#~ msgstr "Αν χρειάζεστε βοήθεια ή έχετε κάποιο πρόβλημα με τον Firefox, επισκεφθείτε τις σελίδες <a href=\"%(support_url)s\">υποστήριξης του Firefox</a>."
+
+#~ msgid "Please describe your problem below."
+#~ msgstr "Παρακαλούμε περιγράψτε το πρόβλημα σας παρακάτω."
+
+#~ msgid "Please be as specific as you can."
+#~ msgstr "Παρακαλούμε να είστε όσο πιο συγκεκριμένοι μπορείτε ."
+
+#~ msgid "If your feedback is related to a website, you can include it here."
+#~ msgstr "Εάν τα σχόλιά σας σχετίζονται με μια ιστοσελίδα, μπορείτε να τη συμπεριλάβετε εδώ."
+
+#~ msgid "While your feedback will be publicly visible, email addresses are kept private. We understand your privacy is important."
+#~ msgstr "Αν και τα σχόλιά σας θα είναι δημόσια διαθέσιμα, οι διευθύνσεις ηλεκτρονικού ταχυδρομείου είναι εμπιστευτικές. Σεβόμαστε τα προσωπικά σας δεδομένα."
+
+#, fuzzy
+#~ msgid "Unknown product"
+#~ msgstr "Άγνωστη"
+
+#, fuzzy
+#~ msgid "<a href=\"%(feedback_url)s\">I want to give feedback about Firefox</a>"
+#~ msgstr "Επισκεφθείτε το <a href=\"%(dash_url)s\">ταμπλό υποβολής σχολίων για τον Firefox</a>"
+
+#~ msgid "Input Services Monitor"
+#~ msgstr "Παρακολούθηση συστατικών του Input"
+
+#~ msgid "List of components that Input uses and whether they are functioning correctly."
+#~ msgstr "Κατάλογος των συστατικών που χρησιμοποιεί το Input και αν λειτουργούν σωστά."
+
+#~ msgid "Latest Feedback"
+#~ msgstr "Τελευταία σχόλια"
+
+#~ msgid "Messages"
+#~ msgstr "Μηνύματα"
+
+#~ msgid "Either you don't have an account here or you used the wrong Persona account to log in."
+#~ msgstr "Είτε δεν έχετε λογαριασμό εδώ ή χρησιμοποιήσατε λάθος λογαριασμό Persona για να συνδεθείτε"
+
+#~ msgid "Please enter a valid email address, or uncheck the box allowing us to contact you."
+#~ msgstr "Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση e-mail, ή απενεργοποιήστε το πλαίσιο που μας επιτρέπει να επικοινωνήσουμε μαζί σας."
+
+#~ msgid "This field is required."
+#~ msgstr "Αυτό το πεδίο είναι υποχρεωτικό."
+
+#~ msgid "Firefox Made Me Happy"
+#~ msgstr "Ο Firefox με ευχαριστεί"
+
+#~ msgid "Firefox Made Me Sad"
+#~ msgstr "Ο Firefox με δυσαρεστεί"
+
+#~ msgid "Super! It's great to hear that you like our browser."
+#~ msgstr "Θαυμάσια! Μας αρέσει που είστε ευχαριστημένοι με τον περιηγητή μας."
+
+#~ msgid "We are sorry that you have not had a good experience with our browser. Please tell us why, so we can fix it."
+#~ msgstr "Λυπούμαστε που δεν ήταν καλή η εμπειρία σας με τον περιηγητή μας. Σας παρακαλούμε να μας πείτε γιατί, ώστε να τον βελτιώσουμε!"
+
+#~ msgid "Go Back"
+#~ msgstr "Μετάβαση πίσω"
+
+#~ msgid ""
+#~ "Please be as specific as you can in the allotted space. For example, if you are giving feedback about slowness, please tell us about relevant websites, if you notice it at the beginning or later "
+#~ "in the browsing session and if there are any actions that you perform in Firefox that are particularly problematic."
+#~ msgstr ""
+#~ "Παρακαλούμε να είστε όσο πιο συγκεκριμένοι μπορείτε στον καθορισμένο χώρο. Αν για παράδειγμα τα σχόλια σας είναι για καθυστέρηση φόρτωσης ιστοσελίδας, πείτε τις σχετικές σελίδες, αν παρατηρείτε "
+#~ "καθυστέρηση στην αρχή της συνεδρίας ή αργότερα και αν κάποιες λειτουργίες είναι ιδιαίτερα προβληματικές στον Firefox"
+
+#~ msgid "For support requests, please go to <a href=\"%(url)s\">Mozilla Support</a> instead."
+#~ msgstr "Για αιτήματα υποστήριξης , επισκεφθείτε την <a href=\"%(url)s\">υποστήριξη Mozilla</a>."
+
+#~ msgid "To protect your privacy, please ensure that no personally identifiable information is included in your feedback."
+#~ msgstr "Για την προστασία του ιδιωτικού σας απορρήτου, παρακαλούμε βεβαιωθείτε ότι δεν συμπεριλαμβάνετε πληροφορίες ταυτοποίησης στα σχόλια σας."
+
+#~ msgid "Submitting Feedback"
+#~ msgstr "Υποβολή σχολίου"
+
+#~ msgid "Submit Feedback"
+#~ msgstr "Υποβολή σχολίου"
+
+#~ msgid "Tweet feedback to your followers"
+#~ msgstr "Αναρτήστε τα σχόλιά σας σε όσους σας ακολουθούν στο Twitter"
+
+#~ msgid "Want to see where your feedback goes?"
+#~ msgstr "Θέλετε να δείτε που καταχωρούνται τα σχόλια σας;"
+
+#~ msgid "For support requests, please go to <a href=\"%(support_url)s\">Mozilla Support</a> instead."
+#~ msgstr "Για αιτήματα υποστήριξης, παρακαλούμε να επισκεφθείτε τις σελίδες <a href=\"%(support_url)s\">υποστήριξης του Mozilla</a>."
+
+#~ msgid "Thank you for your feedback!"
+#~ msgstr "Σας ευχαριστούμε για τα σχόλιά σας!"
+
+#~ msgid "Thanks for the feedback! We will use it to help create a better experience in future releases of Firefox."
+#~ msgstr "Ευχαριστούμε για τα σχόλια! Θα τα χρησιμοποιήσουμε ώστε να κάνουμε καλύτερες τις επόμενες εκδόσεις του Firefox."
+
+#~ msgid "Want to know what's going on with Firefox? We have many ways of staying in touch:"
+#~ msgstr "Θέλετε να ξέρετε τι γίνεται με τον Firefox; Υπάρχουν πολλοί τρόποι να είστε ενήμεροι:"
+
+#~ msgid "Download the build that is right for you"
+#~ msgstr "Κατεβάστε την έκδοση που χρειάζεστε"
+
+#~ msgid "Learn how you can make Firefox and Mozilla better"
+#~ msgstr "Μάθετε πώς μπορείτε να κάνετε τον Firefox και το έργο Mozilla καλύτερα"
+
+#~ msgid "Visit the Firefox Feedback Dashboard"
+#~ msgstr "Επισκεφθείτε το ταμπλό σχολίων του Firefox"
+
+#~ msgid "Find the latest news about Mozilla."
+#~ msgstr "Δείτε τα πιο πρόσφατα νέα του Firefox:"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Planet Mozilla"
+#~ msgstr "Planet Mozilla"
+
+#~ msgid "Page not found"
+#~ msgstr "Δεν βρέθηκε"
+
+#~ msgid "Sorry, but we couldn't find the page you're looking for."
+#~ msgstr "Λυπούμαστε αλλά δεν βρέθηκε αυτό που ζητήσατε."
+
+#~ msgid "We already got your feedback! Thanks."
+#~ msgstr "Έχουμε ήδη λάβει το σχόλιο σας! Σας ευχαριστούμε."
+
+#~ msgid "Describe your idea below."
+#~ msgstr "Περιγράψτε την ιδέα σας παρακάτω."
+
+#~ msgid "Praise"
+#~ msgstr "Έπαινοι"
+
+#~ msgid "Issue"
+#~ msgstr "Πρόβλημα"
+
+#~ msgid "Your comment contains swear words (%s). In order to help us improve our products, please use words that help us create an action or to-do from your constructive feedback. Thanks!"
+#~ msgstr ""
+#~ "Το σχόλιο σας περιέχει υβριστικές εκφράσεις (%s). Για να μας βοηθήσετε να βελτιώσουμε τα προϊόντα μας, σας παρακαλούμε να χρησιμοποιείτε εκφράσεις που να μας επιτρέπουν να προβούμε σε ενέργειες "
+#~ "ή στο σχεδιασμό ενεργειών με βάση τα σχόλια σας. Σας ευχαριστούμε!"
+
+#~ msgid "Feedback must not contain HTML."
+#~ msgstr "Τα σχόλια δεν μπορούν να περιέχουν κώδικα HTML."
+
+#~ msgid "Your feedback seems to contain an email address. Please remove this and similar personal data from the text, then try again. Thanks!"
+#~ msgstr ""
+#~ "Το σχόλιο σας μάλλον περιέχει μια διεύθυνση ηλεκτρονικού ταχυδρομείου. Σας παρακαλούμε να την αφαιρέσετε καθώς και όσα άλλα προσωπικά δεδομένα έχετε εισάγει στο κείμενο και να προσπαθήσετε ξανά. "
+#~ "Σας ευχαριστούμε!"
+
+#~ msgid "Your feedback seems to contain a URL. Please remove this and similar personal data from the text, then try again. Thanks!"
+#~ msgstr "Το σχόλιο σας περιέχει ένα URL. Σας παρακαλούμε να το αφαιρέσετε καθώς και όσα άλλα προσωπικά δεδομένα έχετε εισάγει στο κείμενο και να προσπαθήσετε ξανά. Σας ευχαριστούμε!"
+
+#~ msgid "User-Agent request header must be set."
+#~ msgstr "Θα πρέπει να έχει οριστεί η κεφαλίδα απόκρισης του User-Agent."
+
+#~ msgid "It's great to hear you want to help Mozilla make your experience better!"
+#~ msgstr "Είναι ευχάριστο που ακούμε ότι θέλετε να βοηθήσετε το ίδρυμα Mozilla να βελτιώσει την εμπειρία σας!"
+
+#~ msgid "Please choose one of the following types of feedback that you would like to submit to us:"
+#~ msgstr "Σας παρακαλούμε να επιλέξετε ένα από τους παρακάτω τύπους σχολίων που θέλετε να υποβάλετε:"
+
+#~ msgid "Firefox makes me happy because ..."
+#~ msgstr "Ο Firefox με ευχαριστεί γιατί..."
+
+#~ msgid "Firefox makes me sad because ..."
+#~ msgstr "Ο Firefox με δυσαρεστεί γιατί..."
+
+#~ msgid "Firefox Logo"
+#~ msgstr "Λογότυπο Firefox"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit our <a href=\"%(support_url)s\">support page</a>."
+#~ msgstr "Αν χρειάζεστε βοήθεια ή έχετε κάποιο πρόβλημα με τον Firefox, επισκεφθείτε τις <a href=\"%(support_url)s\">σελίδες υποστήριξης</a> μας."
+
+#~ msgid "I Have an Idea for Firefox"
+#~ msgstr "Έχω μια ιδέα για τον Firefox"
+
+#~ msgid "Have an idea how Firefox could be better? Let us know."
+#~ msgstr "Έχετε μια ιδέα που θα έκανε τον Firefox καλύτερο; Πείτε μας!"
+
+#~ msgid "Include the URL of a site that worked better."
+#~ msgstr "Συμπεριλάβετε το URL μιας ιστοσελίδας που δούλεψε καλύτερα."
+
+#~ msgid "Include the URL of the site with the problem."
+#~ msgstr "Συμπεριλάβετε το URL της ιστοσελίδας με το πρόβλημα."
+
+#~ msgid "If you have an idea to offer us instead, please use our"
+#~ msgstr "Αν θέλετε να μας προτείνετε μια καλύτερη ιδέα, σας παρακαλούμε να την υποβάλετε μέσω του "
+
+#~ msgid "suggestion box"
+#~ msgstr "πλαισίου προτάσεων"
+
+#~ msgid "Super! It's great to hear that you like our browser. Please explain what you specifically like!"
+#~ msgstr "Θαυμάσια! Μας αρέσει που είστε ευχαριστημένοι από την προ-έκδοση του περιηγητή μας. Σας παρακαλούμε μόνο να μας πείτε τι ακριβώς σας αρέσει!"
+
+#~ msgid "We are sorry that you have not had a good experience with our browser. Please tell us why, so we can fix it!"
+#~ msgstr "Λυπούμαστε που δεν ήταν καλή η εμπειρία σας με τον περιηγητή μας. Σας παρακαλούμε να μας πείτε γιατί, για να τον βελτιώσουμε!"
+
+#~ msgid "So, you'd like to make a suggestion on how to enhance Firefox? Awesome! Please enter your idea below:"
+#~ msgstr "Θέλετε να κάνετε μια πρόταση για να βελτιώσουμε τον Firefox; Θαυμάσια! Παρακαλούμε υποβάλετε την στο παρακάτω πεδίο:"
+
+#~ msgid "Know of a website that works better in this beta than it did in earlier versions of Firefox? Please add the URL, so we can keep track!"
+#~ msgstr "Βρήκατε κάποια σελίδα που δουλεύει καλύτερα στη δοκιμαστική έκδοση απ' ό,τι στις παλιότερες εκδόσεις του Firefox; Σας παρακαλούμε να προσθέσετε το URL για να το καταγράψουμε."
+
+#~ msgid "Had an issue with a specific website? Please add the URL, so we can find the issue faster!"
+#~ msgstr "Εντοπίσατε κάποιο πρόβλημα σε συγκεκριμένη σελίδα; Παρακαλούμε εισάγετε και το URL, ώστε να εντοπίσουμε το πρόβλημα γρηγορότερα!"
+
+#~ msgid "Please ensure that there is no personally identifiable information here."
+#~ msgstr "Σας παρακαλούμε να βεβαιωθείτε ότι δεν αποστέλλετε πληροφορίες που να σας ταυτοποιούν."
+
+#~ msgid "If you have an idea to offer us instead, please send it to us through our <a href=\"%(url_idea)s\">idea box</a>!"
+#~ msgstr "Αν θέλετε να μας προτείνετε μια καλύτερη ιδέα, σας παρακαλούμε να την υποβάλετε μέσω του <a href=\"%(url_idea)s\">πλαισίου προτάσεων</a>!"
+
+#~ msgid "Your feedback will be used to create a"
+#~ msgstr "Τα σχόλια σας θα χρησιμοποιηθούν για να κάνουμε"
+
+#~ msgid "Thanks for helping Mozilla make your experience better!"
+#~ msgstr "Σας ευχαριστούμε που βοηθάτε το ίδρυμα Mozilla  να βελτιώσει την εμπειρία σας με τα προϊόντα του!"
+
+#~ msgid "Please choose the type of feedback that you would like to submit to us:"
+#~ msgstr "Παρακαλούμε επιλέξτε τον τύπο σχολίων που θέλετε να υποβάλετε:"
+
+#~ msgid "Download Beta"
+#~ msgstr "Λήψη δοκιμαστικής έκδοσης"
+
+#~ msgid "Oh! So, you want to offer us feedback. You'll need the latest Beta! Head over to our beta page and <a href=\"%(url)s\">download it!</a>"
+#~ msgstr ""
+#~ "Θέλετε λοιπόν να μας προσφέρετε τα σχόλια σας, θαυμάσια! Θα χρειαστείτε όμως την πιο πρόσφατη δοκιμαστική έκδοση. Απλά <a href=\"%(url)s\">κάντε λήψη</a> από τη σελίδα των δοκιμαστικών μας "
+#~ "εκδόσεων. "
+
+#~ msgid "Back to Dashboard"
+#~ msgstr "Ταμπλό σχολίων"
+
+#~ msgid "We're glad Firefox for Mobile made you happy! Please tell us what you liked."
+#~ msgstr "Χαιρόμαστε που σας ευχαριστεί ο Firefox για κινητά! Σας παρακαλούμε πείτε μας τι σας αρέσει."
+
+#~ msgid "We're sorry Firefox for Mobile made you sad. Please tell us what happened so we can fix it."
+#~ msgstr "Λυπούμαστε που δεν σας άρεσε ο Firefox για κινητά. Σας παρακαλούμε να μας πείτε γιατί, για να τον βελτιώσουμε!"
+
+#~ msgid "We love ideas for Firefox for Mobile! Please descibe your idea below."
+#~ msgstr "Μας αρέσει να ακούμε ιδέες για τον Firefox για κινητά! Σας παρακαλούμε να μας περιγράψετε την ιδέα σας."
+
+#~ msgid "Got an idea? <a href=\"%(url)s\">Submit it instead.</a>"
+#~ msgstr "Έχετε να προτείνετε μια ιδέα; <a href=\"%(url)s\">Υποβάλετε την.</a>"
+
+#~ msgid "Include your last visited site?"
+#~ msgstr "Να προστεθεί η τελευταία σελίδα που επισκεφθήκατε;"
+
+#~ msgid "For your privacy, please don't include any personally identifiable information in your feedback."
+#~ msgstr "Για την προστασία του ιδιωτικού σας απορρήτου, παρακαλούμε βεβαιωθείτε ότι δεν συμπεριλαμβάνετε πληροφορίες ταυτοποίησης στα σχόλια σας."
+
+#~ msgid "Super! Please tell us more!"
+#~ msgstr "Θαυμάσια! Σας παρακαλούμε να μας πείτε λεπτομέρειες!"
+
+#~ msgid "Ack! Please tell us what to fix!"
+#~ msgstr "Λυπούμαστε! Σας παρακαλούμε  πείτε μας τι θέλετε να διορθώσουμε!"
+
+#~ msgid "Awesome! Please enter your idea below:"
+#~ msgstr "Θαυμάσια, υποβάλετε την πρόταση σας παρακάτω:"
+
+#~ msgid "Add URL of last visited page?"
+#~ msgstr "Να προστεθεί το URL της τελευταίας σελίδας που επισκεφθείκατε;"
+
+#~ msgid "Or submit your ideas with our <a href=\"%(url_idea)s\">idea box</a>!"
+#~ msgstr "Ή υποβάλετε τις προτάσεις σας μέσω του <a href=\"%(url_idea)s\">πλαισίου προτάσεων</a> μας!"
+
+#~ msgid "We love feedback about Firefox for Mobile! What would you like to tell us?"
+#~ msgstr "Μας αρέσουν τα σχόλια για τον Firefox για κινητά! Τι θα θέλατε να μας πείτε;"
+
+#~ msgid "I have an idea for Firefox"
+#~ msgstr "Έχω μια ιδέα για τον Firefox"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit <a id=\"sumo-url\" href=\"%(url)s/\">Firefox Support</a>."
+#~ msgstr "Αν χρειάζεστε βοήθεια ή έχετε κάποιο πρόβλημα με τον Firefox, επισκεφθείτε τις σελίδες <a href=\"%(url)s\">υποστήριξης του Firefox</a>."
+
+#~ msgid "Tweet This"
+#~ msgstr "Δημοσίευση στο tweeter"
+
+#~ msgid "Thanks for sharing your feedback!"
+#~ msgstr "Σας ευχαριστούμε που μας στείλατε τα σχόλια σας!"
+
+#~ msgid "See where your feedback goes."
+#~ msgstr "Δείτε που καταχωρούνται τα σχόλια σας."
+
+#~ msgid "Feedback Dashboard"
+#~ msgstr "Ταμπλό σχολίων"
+
+#~ msgid "Follow us on Twitter."
+#~ msgstr "Ακολουθήστε μας στο Twitter."
+
+#~ msgid "Let's be friends."
+#~ msgstr "Ελάτε να γίνουμε φίλοι!"
+
+#~ msgid "Firefox on Facebook"
+#~ msgstr "Ο Firefox στο Facebook"
+
+#~ msgid "Get the latest news on Firefox."
+#~ msgstr "Δείτε τα νέα του Firefox."
+
+#~ msgid "Idea"
+#~ msgstr "Πρόταση"
+
+#~ msgid "Rating"
+#~ msgstr "Βαθμολόγηση"
+
+#~ msgid "Broken Website"
+#~ msgstr "Προβληματικός ιστότοπος"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Mobile"
+#~ msgstr "Κινητό"
+
+#~ msgid "Windows XP"
+#~ msgstr "Windows XP"
+
+#~ msgid "Windows 7"
+#~ msgstr "Windows 7"
+
+#~ msgid "Windows Vista"
+#~ msgstr "Windows Vista"
+
+#~ msgid "Mac OS X"
+#~ msgstr "Mac OS X"
+
+#~ msgid "Maemo"
+#~ msgstr "Maemo"
+
+#~ msgid "Android"
+#~ msgstr "Android"
+
+#~ msgid "Linux"
+#~ msgstr "Linux"
+
+#~ msgid "{0} day ago"
+#~ msgid_plural "{0} days ago"
+#~ msgstr[0] "Πριν {0} ημέρα"
+#~ msgstr[1] "Πριν {0} ημέρες"
+
+#~ msgid "{0} hour ago"
+#~ msgid_plural "{0} hours ago"
+#~ msgstr[0] "Πριν {0} ώρα"
+#~ msgstr[1] "Πριν {0} ώρες"
+
+#~ msgid "{0} minute ago"
+#~ msgid_plural "{0} minutes ago"
+#~ msgstr[0] "Πριν {0} λεπτό"
+#~ msgstr[1] "Πριν {0} λεπτά"
+
+#~ msgid "just now"
+#~ msgstr "μόλις τώρα"
+
+#~ msgid "Query has timed out."
+#~ msgstr "Τέλος χρόνου αναζήτησης."
+
+#~ msgid "Sphinx threw an unknown exception: %s"
+#~ msgstr "Το Sphinx επέστρεψε μια άγνωστη εξαίρεση: %s"
+
+#~ msgctxt "version_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- όλες --"
+
+#~ msgctxt "sentiment_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- όλες --"
+
+#~ msgid "Issues"
+#~ msgstr "Προβλήματα"
+
+#~ msgid "Ideas"
+#~ msgstr "Προτάσεις"
+
+#~ msgctxt "platform_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- όλες --"
+
+#~ msgctxt "locale_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- όλες --"
+
+#~ msgid "Product:"
+#~ msgstr "Προϊον:"
+
+#~ msgid "Version:"
+#~ msgstr "Έκδοση:"
+
+#~ msgid "Locale:"
+#~ msgstr "Γλώσσα:"
+
+#~ msgid "PLATFORM:"
+#~ msgstr "ΠΛΑΤΦΟΡΜΑ:"
+
+#~ msgid "Date range:"
+#~ msgstr "Εύρος ημερομηνιών:"
+
+#~ msgid "to"
+#~ msgstr "ως"
+
+#~ msgid "Show/Hide Options"
+#~ msgstr "Προβολή/απόκρυψη επιλογών"
+
+#~ msgid "Toggle"
+#~ msgstr "Εναλλαγή"
+
+#~ msgid "More Locales"
+#~ msgstr "Περισσότερες γλώσσες"
+
+#~ msgid "More Options"
+#~ msgstr "Περισσότερες επιλογές"
+
+#~ msgid "Copy User Agent"
+#~ msgstr "Αντιγραφή User Agent"
+
+#~ msgid "No search results found."
+#~ msgstr "Δεν βρέθηκαν αποτελέσματα."
+
+#~ msgid "Type of Feedback"
+#~ msgstr "Τυπος σχολιων"
+
+#~ msgid "Search Results"
+#~ msgstr "Αποτελεσματα αναζητησης"
+
+#~ msgid "Search"
+#~ msgstr "Αναζήτηση"
+
+#~ msgid "Advanced"
+#~ msgstr "Για προχωρημένους"
+
+#~ msgid "While Visiting"
+#~ msgstr "Κατα την επισκεψη"
+
+#~ msgid "Often Mentioned"
+#~ msgstr "Συχνα αναφερομενα"
+
+#~ msgid "I'm sorry, there was an error with your search."
+#~ msgstr "Λυπούμαστε αλλά παρουσιάστηκε σφάλμα στην αναζήτηση σας."
+
+#~ msgid "Our search engine might be currently unavailable. You may start over on the <a href=\"%(url)s\">dashboard</a> and try again later."
+#~ msgstr "Η μηχανή αναζήτησης μας ίσως δεν είναι προσωρινά διαθέσιμη. Μπορείτε να ξεκινήσετε πάλι από το <a href=\"%(url)s\">ταμπλό</a> και να προσπαθήσετε ξανά αργότερα."
+
+#~ msgid "If the problem persists, please <a href=\"%(bug_url)s\">file a bug</a>, mentioning the URL you were accessing."
+#~ msgstr "Αν το πρόβλημα εξακολουθεί να εμφανίζεται, παρακαλούμε να <a href=\"%(bug_url)s\">καταχωρίσετε ένα bug</a>, αναφέροντας το URL που επισκεφθήκατε."
+
+#~ msgid "Include the following error message in your bug report:"
+#~ msgstr "Συμπεριλάβετε το ακόλουθο μήνυμα σφάλματος στην αναφορά του bug που θα κάνετε:"
+
+#~ msgid "Thanks!"
+#~ msgstr "Σας ευχαριστούμε!"
+
+#~ msgid "All"
+#~ msgstr "Όλα"
+
+#~ msgid "Custom"
+#~ msgstr "Προσαρμοσμένη"
+
+#~ msgid "{num} opinions on {day}"
+#~ msgstr "{num} σχόλια στις {day}"
+
+#~ msgid "%e %B %Y"
+#~ msgstr "%e %B %Y"
+
+#~ msgid "%e %b"
+#~ msgstr "%e %b"
+
+#~ msgid "Loading feedback history..."
+#~ msgstr "Γίνεται φόρτωση του ιστορικού σχολίων..."
+
+#~ msgid "Loading ratings history..."
+#~ msgstr "Γίνεται φόρτωση του ιστορικού βαθμολόγησης..."
+
+#~ msgid "Last day"
+#~ msgstr "Τελευταία ημέρα"
+
+#~ msgid "Last 7 days"
+#~ msgstr "Τελευταίες 7 ημέρες"
+
+#~ msgid "Last 30 days"
+#~ msgstr "Τελευταίες 30 ημέρες"
+
+#~ msgid "No date limit"
+#~ msgstr "Χωρίς όριο ημερομηνίας"
+
+#~ msgid "&infin;"
+#~ msgstr "&infin;"
+
+#~ msgid "Show More Locales"
+#~ msgstr "Περισσότερες γλώσσες"
+
+#~ msgid "<strong>%(cnt)s</strong> message"
+#~ msgid_plural "<strong>%(cnt)s</strong> messages"
+#~ msgstr[0] "<strong>%(cnt)s</strong> μήνυμα"
+#~ msgstr[1] "<strong>%(cnt)s</strong> μηνύματα"
+
+#~ msgid "Show More Platforms"
+#~ msgstr "Πλατφορμες"
+
+#~ msgid "Clear Search"
+#~ msgstr "Αναζήτηση"
+
+#~ msgid "Feed"
+#~ msgstr "Σχόλιο"
+
+#~ msgid "Statistics"
+#~ msgstr "Στατιστικά"
+
+#~ msgid "Trends"
+#~ msgstr "Τάσεις"
+
+#~ msgid "&laquo; Newer Feedback"
+#~ msgstr "&laquo; Νεότερα σχόλια"
+
+#~ msgid "Older Feedback &raquo;"
+#~ msgstr "Παλιότερα σχόλια &raquo;"
+
+#~ msgid "For last:"
+#~ msgstr "Για τις τελευταίες:"
+
+#~ msgid "All feedback"
+#~ msgstr "Όλα τα σχόλια"
+
+#~ msgid "Praise only"
+#~ msgstr "Μόνο έπαινοι"
+
+#~ msgid "Issues only"
+#~ msgstr "Μόνο προβλήματα"
+
+#~ msgid "Ideas only"
+#~ msgstr "Μόνο προτάσεις"
+
+#~ msgid "All Platforms"
+#~ msgstr "ολες οι πλατφορμες"
+
+#~ msgid "Themes"
+#~ msgstr "Θέματα"
+
+#~ msgid "Common Themes"
+#~ msgstr "Συχνα θεματα"
+
+#~ msgid "Theme"
+#~ msgstr "Θεμα"
+
+#~ msgid "Back to all themes &raquo;"
+#~ msgstr "Πίσω σε όλα τα θέματα &raquo;"
+
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "&laquo; προηγούμενη σελίδα"
+
+#~ msgid "Next Page &raquo;"
+#~ msgstr "Επόμενη σελίδα &raquo;"
+
+#~ msgid "See all opinions"
+#~ msgstr "Δείτε όλα τα σχόλια"
+
+#~ msgctxt "website_issues_search"
+#~ msgid "Search for domain"
+#~ msgstr "Αναζήτηση για τομέα δικτύου"
+
+#~ msgid "Broken Sites"
+#~ msgstr "«Σπασμένες» σελίδες"
+
+#~ msgid "Sites"
+#~ msgstr "Ιστοτοποι"
+
+#~ msgctxt "sites_search_all_feedback"
+#~ msgid "All"
+#~ msgstr "Όλα"
+
+#~ msgid "Platforms"
+#~ msgstr "Πλατφορμες"
+
+#~ msgctxt "sites_search_all_platforms"
+#~ msgid "All"
+#~ msgstr "Όλα"
+
+#~ msgid "All platforms"
+#~ msgstr "ολες οι πλατφορμες"
+
+#~ msgid "Uncommon Sites"
+#~ msgstr "Ιστοτοποι μιας αναφορας"
+
+#~ msgid "More sites..."
+#~ msgstr "Περισσότεροι ιστότοποι"
+
+#~ msgid "Back to {domain} &raquo;"
+#~ msgstr "Πίσω σε {domain} &raquo;"
+
+#~ msgid "Theme for {domain}"
+#~ msgstr "Θέμα για το {domain}"
+
+#~ msgid "Back to all sites &raquo;"
+#~ msgstr "Πίσω σε όλους τους ιστότοπους &raquo;"
+
+#~ msgid "Sites with only one message"
+#~ msgstr "Ιστοτοποι με ενα μονο μηνυμα"
+
+#~ msgid "reset my search"
+#~ msgstr "Επαναφορά αναζήτησης"
+
+#~ msgid "{percentage}% praise"
+#~ msgstr "{percentage}% έπαινοι"
+
+#~ msgid "{percentage}% issues"
+#~ msgstr "{percentage}% προβλήματα"
+
+#~ msgid "Please start over on the <a href=\"%(dashboard_url)s\">dashboard</a>."
+#~ msgstr "Παρακαλούμε ξεκινήστε από την αρχή στο <a href=\"%(dashboard_url)s\">ταμπλό</a>."
+
+#~ msgid "If you were following a broken link, please <a href=\"%(bug_url)s\">file a bug.</a> Thanks!"
+#~ msgstr "Αν ακολουθήσατε ένα προβληματικό δεσμό, σας παρακαλούμε να <a href=\"%(bug_url)s\">καταχωρίσετε ένα δεσμό.</a> Ευχαριστούμε!"
+
+#~ msgid "Internal Server Error"
+#~ msgstr "Εσωτερικό σφάλμα διακομιστή"
+
+#~ msgid "An unhandled error occurred in the application. The error has been logged and an administrator was notified. We apologize for the inconvenience!"
+#~ msgstr "Παρουσίαστηκε ένα μη αναμενόμενο σφάλμα στην εφαρμογή. το σφάλμα καταγράφηκε και ειδοποιήθηκαν οι διαχειριστές. Ζητούμε συγνώμη για το πρόβλημα!"
+
+#~ msgid "If you have additional information how to reproduce this problem, please <a href=\"%(bug_url)s\">file a bug.</a> Thanks!"
+#~ msgstr "Αν έχετε πρόσθετες πληροφορίες για το πως μπορούμε να αναπαράγουμε το πρόβλημα, σας παρακαλούμε να <a href=\"%(bug_url)s\">καταχωρίσετε ένα bug.</a> Ευχαριστούμε!"
+
+#~ msgid "Input Dashboard"
+#~ msgstr "Ταμπλό εισαγωγής"
+
+#~ msgid "CSRF Protection Error"
+#~ msgstr "Σφάλμα προστασίας CSRF"
+
+#~ msgid "There was an error verifying your CSRF token. Your request could not be processed. We apologize for the inconvenience!"
+#~ msgstr "Παρουσιάστηκε σφάλμα κατά την επαλήθευση του CSRF token. Δεν ήταν δυνατή η επεξεργασία του αιτήματος σας. Λυπούμαστε για την ταλαιπωρία!"
+
+#~ msgid ""
+#~ "The most likely cause of this error is that your browser is set up <strong>not to accept cookies</strong> from us. Please follow <a href=\"%(cookies_url)s\">these instructions</a> to enable "
+#~ "cookies in Firefox, then try again."
+#~ msgstr ""
+#~ "Η πιο πιθανή αιτία στην οποία οφείλεται αυτό το σφάλμα, είναι το ότι ο περιηγητής σας <strong>δεν μας επιτρέπει την αποθήκευση cookie</strong>. Σας παρακαλούμε να ακολουθήσετε <a href="
+#~ "\"%(cookies_url)s\">αυτές τις οδηγίες</a> για να ενεργοποιήσετε την αποδοχή cookies στον Firefox και να προσπαθήσετε ξανά."
+
+#~ msgid "Clusters"
+#~ msgstr "Ομαδοποίηση"
+
+#~ msgid "Hit Ctrl+C (Cmd+C on Mac) to copy and close."
+#~ msgstr "Πατήστε  Ctrl+C (Cmd+C σεMac) για αντιγραφή και κλείσιμο."
+
+#~ msgid "User agent copied"
+#~ msgstr "Αντιγράφηκε το user agent"
+
+#~ msgid "Close"
+#~ msgstr "Κλείσιμο"
+
+#~ msgid "<strong>Welcome to Firefox Input!</strong> This is Mozilla's primary user feedback application. <a href=\"%(about_url)s\">Learn more...</a>"
+#~ msgstr "<strong>Καλώς ορίσατε στο Firefox Input!</strong> Αυτή  είναι η πρωτεύουσα εφαρμογή υποβολής σχολίων χρηστών του Mozilla. <a href=\"%(about_url)s\">Μάθετε περισσότερα...</a>"
+
+#~ msgid "Have more to say?"
+#~ msgstr "Έχετε κι άλλα να μας πείτε;"
+
+#~ msgid "Feel free to <a href=\"%(fb_url)s\">submit more feedback</a>"
+#~ msgstr "Μπορείτε φυσικά <a href=\"%(fb_url)s\">να μας δώσετε κι άλλα σχόλια</a>"
+
+#~ msgid "&laquo; Newer Messages"
+#~ msgstr "&laquo; Νεότερα μηνύματα"
+
+#~ msgid "Older Messages &raquo;"
+#~ msgstr "Παλιότερα μηνύματα &raquo;"
+
+#~ msgid "Back to Feedback"
+#~ msgstr "Πίσω στα σχόλια"
+
+#~ msgid "Invalid feedback type"
+#~ msgstr "Μη έγκυρος τύπος σχολίου"

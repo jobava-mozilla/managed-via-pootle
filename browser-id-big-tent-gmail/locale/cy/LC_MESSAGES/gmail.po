@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-24 09:50+0200\n"
+"PO-Revision-Date: 2013-06-30 21:52+0200\n"
+"Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
+"11) ? 2 : 3 ;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js:235 /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js
+msgid "Loading..."
+msgstr "Llwytho..."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js:245 /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js
+msgid "Error"
+msgstr "Gwall"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js:294
+msgid "Accounts don't match"
+msgstr "Nid yw'r cyfrifon yn cydweddu"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error.ejs:3
+msgid "Something went wrong. Please try again later."
+msgstr "Aeth rhywbeth o'i le. Ceisiwch eto."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error_mismatch.ejs:3
+msgid "You're currently signed into Google as %s."
+msgstr "Rydych wedi mewngofnodi i Google fel %s."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error_mismatch.ejs:6
+msgid "If you want to use %s, log out of Google and sign in again."
+msgstr "Os ydych eisiau defnyddio %s, allgofnodwch o Google a mewngofnodi eto."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error_mismatch.ejs:10
+msgid "Force Google logout"
+msgstr "Gorfodi allgofnodi o Google"

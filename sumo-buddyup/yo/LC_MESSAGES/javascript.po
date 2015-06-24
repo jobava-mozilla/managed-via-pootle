@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2015-06-01 22:30+0000\n"
+"Last-Translator: Tersha <tersha.smith@rubric.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: yo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1433197803.0\n"
+
+#~ msgid "An error occured."
+#~ msgstr "Àṣiṣe wáyé."
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Àṣìṣẹ kan ń wáyé ní àkọ́gbéyẹ̀wò."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Àṣìṣẹ kan wáyé nígbà ìfi ìbò sílẹ̀."
+
+#~ msgid "You replied"
+#~ msgstr "O dáhùn"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Ìwọ àti ènìyàn 1 dáhùn"
+
+#~ msgid "Account banned successfully!"
+#~ msgstr "A dènà àkọ́ọ́lẹ̀ dáradára!"
+
+#~ msgid "Username not provided."
+#~ msgstr "Kò pesè orúkọ aṣàmúlò."
+
+#~ msgid "This account is already banned!"
+#~ msgstr "Ati dènà àkọ́ọ́lẹ̀ yí náà!"
+
+#~ msgid "Account is now being ignored!"
+#~ msgstr "Atipa àkọ́ọ́lẹ̀ tì!"
+
+#~ msgid "This account is already being ignored!"
+#~ msgstr "Ati ńpa àkọ́ọ́lẹ̀ tì náà!"
+
+#~ msgid "1 user unbanned successfully!"
+#~ msgid_plural "%s users unbanned sucessfully!"
+#~ msgstr[0] "Ati ṣí olùṣàmúlò 1 dáradára!"
+#~ msgstr[1] "Àwọn olùṣàmúlò %s tiṣí dáradára!"
+
+#~ msgid "1 user removed from list!"
+#~ msgid_plural "%s users removed from list!"
+#~ msgstr[0] "Ati yọ olùṣàmúlò 1 kúrò ní àtòkọ!"
+#~ msgstr[1] "Ati yọ olùṣàmúlò %s kúrò ní àtòkọ!"
+
+#~ msgid "No users selected!"
+#~ msgstr "Akòyan àwọn olùṣàmúlò kankan!"
+
+#~ msgid "%(num)s <small>of %(total)s</small>"
+#~ msgstr "%(num)s <small>ti %(total)s</small>"
+
+#~ msgid "No differences found"
+#~ msgstr "Akòrí àwọn ìyàtọ̀"
+
+#~ msgid "Cancel"
+#~ msgstr "Parẹ́"
+
+#~ msgid "You are not watching this thread"
+#~ msgstr "O kò wo èròjà atẹ̀lélànà yíì"
+
+#~ msgid "You are watching this thread"
+#~ msgstr "O ńwo èròjà atẹ̀lélànà yíì"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Ìsomọ́ Àwòrán"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "Kòleṣe igbàsókè fáìlì. Jọ̀wọ́ gbìyànjúsi bóyá."
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Àwòrán àìfẹsẹ̀múlẹ̀. Jọ̀wọ́ yan àwòrán fáìlì àfẹsẹ̀múlẹ̀."
+
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Àwòrán tóbijù. Jọ̀wọ́ yan àwòrán fáìlì tó kéré."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Ìgbàsókè ti pa rẹ́. Jọ̀wọ́ yan àwòrán fáìlì."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Pa fáìlì rẹ́. Jọ̀wọ́ yan àwòrán fáìlì."
+
+#~ msgid "Delete this image"
+#~ msgstr "Pa àwòrán yii rẹ́"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "Ń gbàsókè \"%s\"..."
+
+#~ msgid "Loading..."
+#~ msgstr "Ń gbáradì..."
+
+#~ msgid "No votes data"
+#~ msgstr "Kòsí àwọn ìdìbò dátà"
+
+#~ msgid "Error loading graph"
+#~ msgstr "Àṣìṣe ajẹmáwòrán ń gbáradì"
+
+#~ msgid "Votes"
+#~ msgstr "Àwọn ibò"
+
+#~ msgid "Percent"
+#~ msgstr "Ìdá ọgọ́rùn ún"
+
+#~ msgid "Yes"
+#~ msgstr "Bẹ́ẹ̀ni"
+
+#~ msgid "No"
+#~ msgstr "Rárá"
+
+#~ msgid "Questions"
+#~ msgstr "Àwọn ìbéèrè"
+
+#~ msgid "Solved"
+#~ msgstr "Ìyanjú"
+
+#~ msgid "% Solved"
+#~ msgstr "% Ìyanjú"
+
+#~ msgid "Responded in 24 hours"
+#~ msgstr "Fèsì láarín wákàtí 24"
+
+#~ msgid "% Responded in 24 hours"
+#~ msgstr "% Fèsì láarín wákàtí 24"
+
+#~ msgid "Responded in 72 hours"
+#~ msgstr "Fèsì láarín wákàtí 72"
+
+#~ msgid "% Responded in 72 hours"
+#~ msgstr "% Fèsì láarín wákàtí 72"
+
+#~ msgid "Not responded in 24 hours"
+#~ msgstr "Kò fèsì láarín wákàtí 24"
+
+#~ msgid "Not responded in 72 hours"
+#~ msgstr "Kò fèsì láarín wákàtí 72"
+
+#~ msgid "Article Votes: % Helpful"
+#~ msgstr "Àwọn Ìbò Àròkọ: % Ṣèrànlọ́wọ́"
+
+#~ msgid "Answer Votes: % Helpful"
+#~ msgstr "Àwọn Ìbò Ìdáhùn: % Ṣèrànlọ́wọ́"
+
+#~ msgid "en-US KB"
+#~ msgstr "en-US KB"
+
+#~ msgid "non en-US KB"
+#~ msgstr "en-US KB"
+
+#~ msgid "Support Forum"
+#~ msgstr "Àtìlẹ́yìn Àpérò"
+
+#~ msgid "Army of Awesome"
+#~ msgstr "Ọmọ-ogun ti Ìyalẹ́nu"
+
+#~ msgid "Click Through Rate %"
+#~ msgstr "Ṣíra tẹ̀ Nípasẹ̀ Òsùwọ̀n %"
+
+#~ msgid "Visitors"
+#~ msgstr "Àwọn olùbẹ̀wò"
+
+#~ msgid "L10n Coverage"
+#~ msgstr "L10n Alásopọ̀"
+
+#~ msgid "Percent Yes"
+#~ msgstr "Ìdá Ọgọ́rùn ún Bẹ́ẹ̀ni"
+
+#~ msgid "I don't know"
+#~ msgstr "Mí o mọ̀"
+
+#~ msgid "Bold"
+#~ msgstr "Nípọn"
+
+#~ msgid "bold text"
+#~ msgstr "ọ̀rọ̀ tó hàn gbàngbà"
+
+#~ msgid "Italic"
+#~ msgstr "Lẹ́tà wíwọ́"
+
+#~ msgid "italic text"
+#~ msgstr "ọ̀rọ̀ lẹ́tà wíwọ́"
+
+#~ msgid "Numbered List"
+#~ msgstr "Àtòkọ Onínọ́ńbà"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Wúnrẹ̀n àtòkọ onínọ́ńbà"
+
+#~ msgid "Bulleted List"
+#~ msgstr "Àtọ̀kọ oníbúlẹ́ẹ̀tì"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "Wúnrẹ̀n àtọ̀kọ oníbúlẹ́ẹ̀tì"
+
+#~ msgid "Heading 1"
+#~ msgstr "Àkórí 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "Àkórí 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "Àkórí 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Ṣàfibọ̀ tọ́kasí kan..."
+
+#~ msgid "link text"
+#~ msgstr "tọ́kasí àyọkà"
+
+#~ msgid "Link text:"
+#~ msgstr "Tọ́kasí àyọkà:"
+
+#~ msgid "Link target:"
+#~ msgstr "Tọ́kasí àfojúsùn:"
+
+#~ msgid "Support article:"
+#~ msgstr "Àtìlẹ́yìn àròkọ:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Wọlé pẹ̀lú orúkọ àròkọ náà"
+
+#~ msgid "External link:"
+#~ msgstr "Ìtọ́kasí àtìtawá:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Wọlé sí URL ti ìtọ́kasí àtìtawá"
+
+#~ msgid "No sections found"
+#~ msgstr "Akòrí àwọn apákan"
+
+#~ msgid "Insert Link"
+#~ msgstr "Àfibọ̀ Ìsopọ̀"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Àròkọ Tódálé Ìmọ̀"
+
+#~ msgid "Insert media..."
+#~ msgstr "Àfibọ̀ mídíà..."
+
+#~ msgid "media"
+#~ msgstr "mídíà"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Ìṣàwárí Gbàgede"
+
+#~ msgid "Show:"
+#~ msgstr "Ṣàfihàn:"
+
+#~ msgid "Images"
+#~ msgstr "Àwọn àwòrán"
+
+#~ msgid "Videos"
+#~ msgstr "Fídíò"
+
+#~ msgid "Show media for:"
+#~ msgstr "Ṣàfihàn mídíà fún:"
+
+#~ msgid "Insert Media"
+#~ msgstr "Ṣàfibọ̀ Mídíà"
+
+#~ msgid "Upload Media"
+#~ msgstr "Ìgbàsókè Mídíà"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Jọ̀wọ́ yan àwòrán tàbí fídíò làti ṣàfibọ̀."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Ha, àṣiṣe wà."
+
+#~ msgid "Common responses"
+#~ msgstr "Àwọn èsì tó wópọ̀"
+
+#~ msgid "cannedresponses"
+#~ msgstr "àwọn èsì tí a dépa"
+
+#~ msgid "Search for common responses"
+#~ msgstr "Ìṣàwárí fun àwọn èsì tó wópọ̀"
+
+#~ msgid "Categories"
+#~ msgstr "Àwọn ìsọ̀rí"
+
+#~ msgid "Responses"
+#~ msgstr "Àwon èsì"
+
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "Jọ̀wọ́ yan ìsọ̀rí láti ìlà òró ìṣaajú tábi bẹ̀rẹ̀ ìṣàwárí."
+
+#~ msgid "Response editor"
+#~ msgstr "Olóòtú èsì"
+
+#~ msgid "Switch to preview mode"
+#~ msgstr "Yípadà sí móòdù ìṣaajú"
+
+#~ msgid "Insert Response"
+#~ msgstr "Ṣàfibọ̀ Èsì"
+
+#~ msgid "Matching responses"
+#~ msgstr "Èsì tó báàmù"
+
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "Àṣiṣe wáyé ní ìṣàyẹwò fún èsì tí a dé."
+
+#~ msgid "Response preview"
+#~ msgstr "Àkọ́wò èsì"
+
+#~ msgid "Switch to edit mode"
+#~ msgstr "Yípadà sí móòdù ìṣàtúnṣe"
+
+#~ msgid "Quote previous message..."
+#~ msgstr "Àsotúnso iṣẹ́ ìṣaajú..."
+
+#~ msgid " said"
+#~ msgstr " sọ pé"
+
+#~ msgid "Reply..."
+#~ msgstr "Èsì..."
+
+#~ msgid "%s characters remaining"
+#~ msgstr "%s àwọn ẹyọ ọ̀rọ̀ tókù"
+
+#~ msgid "There was an error."
+#~ msgstr "Àṣìṣe kàn wa."
+
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Àṣìṣe kàn wa. Jọ̀wọ́ gbìyànjú láìpẹ́ lẹ́ẹ́kànsi."
+
+#~ msgid "Daily"
+#~ msgstr "Ojúmọ́"
+
+#~ msgid "Weekly"
+#~ msgstr "Ọ̀sẹ̀ẹ̀sẹ̀"
+
+#~ msgid "Monthly"
+#~ msgstr "Òṣòòṣù"
+
+#~ msgid "Week beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Ọ̀sẹ̀ ń bẹ̀rẹ̀ %(year)àwọn-%(month)àwọn-%(date)àwọn"
+
+#~ msgid "Month beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Oṣù ń bẹ̀rẹ̀ %(year)àwọn-%(month)àwọn-%(date)àwọn"
+
+#~ msgid "1m"
+#~ msgstr "1m"
+
+#~ msgid "3m"
+#~ msgstr "3m"
+
+#~ msgid "6m"
+#~ msgstr "6m"
+
+#~ msgid "YTD"
+#~ msgstr "YTD"
+
+#~ msgid "1y"
+#~ msgstr "1y"
+
+#~ msgid "All"
+#~ msgstr "Gbogbo"
+
+#~ msgid "From %(from_input)s to %(to_input)s"
+#~ msgstr "Láti %àwọn(from_input) sí %àwọn(to_input)"
+
+#~ msgid "Invalid tag entered: %s"
+#~ msgstr "Wọlé àmì àìkójú ìwọ̀n: %s"
+
+#~ msgid "No tags entered."
+#~ msgstr "Kòsí aṣàmì tí a mú wọlé."
+
+#~ msgid "No, ignore"
+#~ msgstr "Rara, paátì"
+
+#~ msgid "Did you mean %s?"
+#~ msgstr "Ṣé ohun tí o ńsọ ni %s?"
+
+#~ msgid "Error uploading image"
+#~ msgstr "Àṣìṣe gbígbáradì àwòrán"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Àṣìṣe ìparẹ́ àwòrán"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Jọ̀wọ́ ri pé o ti ṣàtẹ̀wọlé, kí o gbìyànjú lẹ́ẹ̀kànsi."
+
+#~ msgid "Search for a user..."
+#~ msgstr "Ṣàwarí olùṣàmúlò..."
+
+#~ msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+#~ msgstr "ÌKÌLỌ̀! Ṣé ó dá ọ lójú pé o fẹ́ṣe àìmúṣiṣẹ́ olùṣàmúlò yíì? Akòle ṣàyípadà èyí!"
+
+#~ msgid "All Articles: % Localized"
+#~ msgstr "Gbogbo Àwọn Àròkọ: % Ìsọdìbílẹ"
+
+#~ msgid "Top 20 Articles: % Localized"
+#~ msgstr "Àwọn Àròkọ 20 tógajù: % Ìsọdìbílẹ"
+
+#~ msgid "Top 100 Articles: % Localized"
+#~ msgstr "Àwọn Àyọkà 100 Tóga: % Ti dìbílẹ̀"
+
+#~ msgid "Active Contributors"
+#~ msgstr "Olùdásí Tó ń ṣiṣẹ́"
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Àkọsílẹ̀ pẹ̀lú àkọlé yìí ti wà tẹ́lẹ̀ ní tìbílẹ̀ yíì."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "Àkọsílẹ̀ pẹ̀lú silọgi yìí ti wà tẹ́lẹ̀ ní tìbílẹ̀ yíì."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "Yan àtúnyẹ̀wò láti fi wéra"
+
+#~ msgid "Toggle syntax highlighting"
+#~ msgstr "Ìṣípòpadà ń ṣàgbéyọ síntáàsì"
+
+#~ msgid "Toggle Diff"
+#~ msgstr "Ìyàtọ̀ Ìṣípòpadà"

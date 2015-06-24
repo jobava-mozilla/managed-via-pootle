@@ -1,0 +1,749 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-11-02 21:41+0000\n"
+"Last-Translator: Rimas <rq@akl.lt>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%"
+"100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1383428488.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"Su Jūsų prisijungimo saitu iškilo problema. Galbūt šį adresą jau "
+"užregistravote?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Bandant užbaigti registraciją, įvyko klaida."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "„Personai“ jus įsiminti būtini slapukai."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Užverkite šį langą, <a %s>įjunkite slapukus</a> ir bandykite iš naujo"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Ryšio klaida"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Prisijungimas užbaigiamas…"
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Už kelių akimirkų būsite prijungti prie „Personos“."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Atsiprašome, tai trunka ilgiau nei turėtų."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Jei per kelias sekundes ši problema neišsispręs, užverkite šį langą ir "
+"bandykite iš naujo."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Tikrinama per pašto paslaugos teikėją"
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Pasirinktasis el. pašto adresas negalioja arba buvo pašalintas."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Pašalinti adresą %(email)s iš Jūsų „Personos“ paskyros?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Pašalinus paskutinį adresą, „Personos“ paskyra bus panaikinta.\n"
+"Ar norite tęsti?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Ar tikrai norite panaikinti savo „Personos“ paskyrą?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Pridėti el. pašto adresą"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "el. pašto adresas"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Turi būti el. pašto adresas"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "El. paštą nurodyti būtina"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Pirminis patvirtinimas išsiųstas. Prieš prašydami papildomo, luktelėkite "
+"kelias minutes"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Jau pridėtas!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "pridėti"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "atsisakyti"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Nepavyko patvirtinti %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"Adresas %s yra būtinas, tačiau mums nepavyko patvirtinti, jog jis priklauso "
+"Jums."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "Adresas %(email)s patvirtintas!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Prijungiame&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Pasitikrinkite savo el. paštą"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Spustelėkite adresu %s išsiųstame patvirtinimo laiške esantį saitą. Tuomet "
+"nedelsiant būsite prijungti prie svetainės „%s“."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Klaida"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Apgailestaujame."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Serveris šiuo metu labai stipriai apkrautas!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Įkelkite šį tinklalapį iš naujo ir bandykite dar kartą."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Užverkite šį langą iš naujo it bandykite dar kartą."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Išsamesnė informacija"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Užverti"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "Gerai"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* nėra leistinas el. pašto adresas!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"Jeigu norite tęsti, užverkite šį langą ir įveskite galiojantį el. pašto "
+"adresą."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Ar Jus įsiminti?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Kiek laiko norite išlikti prisijungę prie „Personos“?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Vieną mėnesį"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Šiuo kompiuteriu aš pasitikiu."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Tik šį seansą"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Šis kompiuteris – ne mano."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Pastaba: nuo savo „Personos“ paskyros bet kada galite atsijungti."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Prisijungti naudojant „Personą“"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Prisijungti prie svetainės „%s“ kaip&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Pasirinkite el. pašto adresą"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Pridėti kitą el. pašto adresą"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Tai ne aš"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Tęsdami, Jūs patvirtinate, jog sutinkate su „%(site)s“ <a %(terms)s>Paslaugų "
+"teikimo nuostatais</a> ir <a %(privacy)s>Privatumo nuostatais</a>."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "prisijungti"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"%(primary)s neatsiliepia. Prašom luktelėti porą minučių ir bandyti dar kartą."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Atsisakyti"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Nepavyko patvirtinti adreso %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Taip galėjo nutikti, jeigu Jūsų naršyklė blokuoja trečiųjų šalių slapukus. "
+"Įsitikinkite, jog Jūsų naršyklės privatumo nuostatose nurodyta priimti "
+"trečiųjų šalių slapukus iš %(idpName)s ir bandykite dar kartą."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Taip pat Jūs patvirtinate, jog sutinkate su svetainės „%(site)s“ <a "
+"%(terms)s>Paslaugų teikimo nuostatais</a> ir <a %(privacy)s>Privatumo "
+"nuostatais</a>."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Sukurti slaptažodį"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s jums nebeleidžia jungtis prie „Personos“, naudojantis %(idp)s "
+"slaptažodžiu. Prašom sukurti naują slaptažodį, kurį naudosite su „Persona“ "
+"paskyra."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Jūsų el. pašto adresas mums nepažįstamas. Prašom susikurti slaptažodį, kurį "
+"naudosite su „FirefoxOS“."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Jūsų el. pašto adresas mums nepažįstamas. Prašom susikurti slaptažodį, kurį "
+"naudosite su „Persona“."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "surkurti slaptažodį"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Slaptažodį įvesti privaloma"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Slaptažodis turi būti nuo 8 iki 80 simbolių ilgio"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Patvirtinkite slaptažodį"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "patvirtinkite slaptažodį"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Slaptažodį pakartoti privaloma"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Slaptažodžiai nesutampa!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "baigta"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Geros naujienos!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"Prisijungti adresu %(email)s nebereikalingas papildomas slaptažodis. "
+"Patvirtinkite savo paskyrą ir būsite nedelsiant prijungti prie „%"
+"(aWebsite)s“"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "patvirtinti"
+
+#~ msgid "signing in"
+#~ msgstr "prisijungiama"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Patvirtinkite savo el. pašto adresą"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Prisijungti kaip…"
+
+#~ msgid "Email"
+#~ msgstr "El. paštas"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Jūsų tapatybė patvirtinta el. pašto teikėjo. Dabar pabandysime Jus "
+#~ "prijungti."
+
+#~ msgid "Sign in using"
+#~ msgstr "Prisijungti naudojant"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Svetainė prašo prisijungti naudojant"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Kad patvirtintumėte, jog šis adresas priklauso Jums, turėsite prisijungti "
+#~ "prie savo el. pašto paslaugos teikėjo. Šis langas netrukus bus nukreiptas "
+#~ "adresu"
+
+#~ msgid "Enter password"
+#~ msgstr "Įveskite slaptažodį"
+
+#~ msgid "forgot your password?"
+#~ msgstr "Užmiršote slaptažodį?"
+
+#~ msgid "Password"
+#~ msgstr "Slaptažodis"
+
+#~ msgid "Password incorrect"
+#~ msgstr "Slaptažodis neteisingas"
+
+#~ msgid "verify email"
+#~ msgstr "patvirtinkite el. pašto adresą"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s tai palengvina"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "Jūsų „%(emailProvider)s“ paskyra atnaujinta ir dabar su „Persona“ veiks "
+#~ "dar geriau. Netrukus nukreipsime jus į „%(emailProvider)s“ svetainę."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "„Persona“ suteikia galimybę naudotis „%(emailProvider)s“ paskyra "
+#~ "prisijungimui prie tokių svetainių kaip „%(aWebsite)s“."
+
+#~ msgid "sign in with %s"
+#~ msgstr "prisijungti naudojant %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Naudoti kitą el. pašto adresą"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Šio lauko reikšmė turi būti el. pašto adresas."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Šiuo adresu ką tik jau išsiuntėme laišką! Jeigu tikrai norite, kad "
+#~ "išsiųstume dar vieną, luktelėkite porą minučių ir bandykite vėl."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Šis adresas jau pridėtas į Jūsų paskyrą!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Prašom pasirinkti el. pašto adresą."
+
+#~ msgid "The password field is required."
+#~ msgstr "Slaptažodį įvesti būtina."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Pateiktas slaptažodis netinka šiam el. paštui."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "Jūsų „%(emailProvider)s“ paskyra atnaujinta ir dabar su „Persona“ veiks "
+#~ "dar geriau. Netrukus nukreipsime jus į „%(emailProvider)s“ svetainę. Kai "
+#~ "patvirtinsite joje savo paskyrą, prisijungsite prie %(aWebsite)s."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Pridėti kitą el. pašto adresą prie „Personos“ slaptažodžio."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Įvyko klaida!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Perkurti slaptažodį"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr ""
+#~ "Pasirinkite naują slaptažodį, kurį naudosite prisijungimui prie „%s“."
+
+#~ msgid "reset password"
+#~ msgstr "perkurti slaptažodį"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Pastaba: Šis slaptažodis bus naudojamas su visais Jūsų el. pašto adresais "
+#~ "„Personoje“."
+
+#~ msgid "Sign In"
+#~ msgstr "Prisijungti"
+
+#~ msgid "Sign Up"
+#~ msgstr "Registruotis"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Luktelėkite keletą sekundžių, kol būsite prijungti prie svetainės."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "Prisijungimui prie svetainės „%s“ vietoj abonento vardo naudojama "
+#~ "„Persona“."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Kad prisijungtumėte prie „Personos“, įveskite savo el. pašto adresą."
+
+#~ msgid "enter email address"
+#~ msgstr "įveskite el. pašto adresą"
+
+#~ msgid "password"
+#~ msgstr "slaptažodis"
+
+#~ msgid "next"
+#~ msgstr "toliau"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Užmiršote slaptažodį?"
+
+#, fuzzy
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Spustelėdami „%s“, Jūs patvirtinate, jog sutinkate su šios svetainės <a "
+#~ "%s>Paslaugų teikimo nuostatais</a> ir <a %s>Privatumo nuostatais</a>."
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Šis pranešimas turėtų išnykti, įvykdžius užklausą (tikimės, jog "
+#~ "netrukus). Jeigu manote, jog laukiate jau per ilgai, užverkite šį langą "
+#~ "ir bandykite iš naujo."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "Įveskite savo el. pašto adresą, kad prisijungtumėte prie <strong>%s</"
+#~ "strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr "Luktelėkite, kol mes gausime Jūsų el. pašto teikėjo duomenis."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "Prisijungti prie paskyros su šiuo naudotojo vardu ir slaptažodžiu "
+#~ "negalima."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Adresu <strong>%s</strong> mes išsiuntėme patvirtinimo laišką."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Jeigu tai klaida, galite tiesiog nepaisyti išsiųsto laiško ir <a "
+#~ "%s>nutraukti registraciją</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Jeigu tai klaida, galite tiesiog nepaisyti išsiųsto laiško ir <a "
+#~ "%s>nurodyti kitą el. pašto adresą</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Ar tai Jūsų kompiuteris?"
+
+#~ msgid "yes"
+#~ msgstr "taip"
+
+#, fuzzy
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr ""
+#~ "Jeigu taip, jame Jūsų paskyrą kelioms savaitėms paliksime prijungtą."
+
+#~ msgid "no"
+#~ msgstr "ne"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Jeigu tai viešas kompiuteris (pavyzdžiui, esantis bibliotekoje ar "
+#~ "interneto kavinėje), tuomet Jūsų slaptažodžio vėl paprašysime už valandos."
+
+#, fuzzy
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Sveiki! Čia – „BrowserID“!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Tada pasirinkite naują slaptažodį, kuriuo naudositės prisijungimui prie "
+#~ "„BrowserID“."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Pakartokite slaptažodį"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "„BrowserID“ veikti būtini slapukai"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr ""
+#~ "Šis el. pašto adresas mums nepažįstamas, tad pirmiausia sukonfigūruokime "
+#~ "Jūsų paskyrą."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Visuomet prisijungti naudojantis šiuo el. pašto adresu"
+
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "Kad „BrowserID“ veiktų, naršyklėje turi būti įgalinti slapukai. "
+#~ "Įgalinkite slapukus savo naršyklėje ir bandykite dar kartą."
+
+#~ msgid "You are offline!"
+#~ msgstr "Jūs nesate prisijungę prie tinklo!"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr ""
+#~ "Deja, „BrowserID“ tarnyba negali būti naudojama atsijungus nuo tinklo!"
+
+#~ msgid "select email"
+#~ msgstr "išsirinkite el. pašto adresą"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr ""
+#~ "Apgailestaujame, bet susisiekti su „BrowserID“, kol nesate prisijungę "
+#~ "prie tinklo, negalima."
+
+#~ msgid "Authenticating User"
+#~ msgstr "Nustatoma naudotojo tapatybė"
+
+#~ msgid "Adding Address"
+#~ msgstr "Pridedamas adresas"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "Pridedamas pagrindinis naudotojo el. pašto adresas"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "Tikrinama adreso informacija"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "Su patvirtinimu nustatoma tapatybė"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "Anuliuojama naudotojo paskyra"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "Tikrinamas tapatybės nustatymas"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "Tikrinama scenarijaus versija"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "Užbaigiama naudotojo registracija"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "Tikrinama, ar įgalinti slapukai"
+
+#~ msgid "Creating Account"
+#~ msgstr "Kuriama paskyra"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "Gaunamas patvirtinimas"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "Tikrinamas registracijos prieigos raktas"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "Tikrinamas el. pašto adresas"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "Tikrinama, ar naudotojo tapatybė nustatyta per tapatybės teikėją"
+
+#~ msgid "Logout Failed"
+#~ msgstr "Atsijungti nepavyko"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "Nustatoma tapatybė per tapatybės teikėją"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr ""
+#~ "Susisiekiant su Jūsų el. pašto paslaugos teikėju, įvyko klaida, Bandykite "
+#~ "dar kartą!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Unfortunately, the email address provided cannot act as a Primary "
+#~ "Identity Provider"
+#~ msgstr ""
+#~ "Deja, pateiktas el. pašto adresas negali būti naudojamas kaip pagrindinis "
+#~ "tapatybės teikėjas"
+
+#~ msgid "Registration Failed"
+#~ msgstr "Registracija nepavyko"
+
+#~ msgid "Signin Failed"
+#~ msgstr "Prisijungti nepavyko"
+
+#~ msgid "Signup Failed"
+#~ msgstr "Užsiregistruoti nepavyko"
+
+#~ msgid "Syncing Address"
+#~ msgstr "Sinchronizuojamas adresas"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "Sinchronizuojami el. pašto adresai"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "Sinchronizuoti adreso raktus"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "Gaunama prieigos rakto informacija"
+
+#~ msgid "Updating password"
+#~ msgstr "Keičiamas slaptažodis"

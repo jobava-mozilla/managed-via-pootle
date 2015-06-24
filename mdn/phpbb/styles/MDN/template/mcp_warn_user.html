@@ -1,0 +1,43 @@
+<!-- INCLUDE mcp_header.html -->
+
+<form method="post" id="mcp" action="{U_POST_ACTION}">
+
+<h2 class="page-title">{L_WARN_USER}</h2>
+
+<div class="panel">
+
+	<div class="column1">
+	<h3>{USERNAME_FULL}</h3>
+		<!-- IF AVATAR_IMG -->{AVATAR_IMG}<!-- ELSE --><!-- ENDIF -->
+	</div>
+
+	<div class="column2">
+		<dl class="details">
+			<!-- IF RANK_TITLE --><dt>{L_RANK}:</dt><dd>{RANK_TITLE}</dd><!-- ENDIF -->
+			<!-- IF RANK_IMG --><dt><!-- IF RANK_TITLE -->&nbsp;<!-- ELSE -->{L_RANK}:<!-- ENDIF --></dt><dd>{RANK_IMG}</dd><!-- ENDIF -->
+			<dt>{L_JOINED}:</dt><dd>{JOINED}</dd>
+			<dt>{L_TOTAL_POSTS}:</dt><dd>{POSTS}</dd>
+			<dt>{L_WARNINGS}: </dt><dd>{WARNINGS}</dd>
+		</dl>
+	</div>
+  <hr />
+	<h3>{L_ADD_WARNING}</h3>
+	<p>{L_ADD_WARNING_EXPLAIN}</p>
+
+	<fieldset>
+		<p><textarea name="warning" id="warning" class="inputbox" cols="40" rows="3"></textarea></p>
+		<!-- IF S_CAN_NOTIFY -->
+		<p><label class="check"><input type="checkbox" name="notify_user" checked="checked" /> {L_NOTIFY_USER_WARN}</label></p>
+		<!-- ENDIF -->
+	</fieldset>
+
+</div>
+
+<fieldset class="submit-buttons">
+  <button type="submit" name="action[add_warning]" value="{L_SUBMIT}">{L_SUBMIT}</button>&nbsp; 
+	<button type="reset" value="{L_RESET}" name="reset">{L_RESET}</button>
+	{S_FORM_TOKEN}
+</fieldset>
+</form>
+
+<!-- INCLUDE mcp_footer.html -->

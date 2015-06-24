@@ -1,0 +1,648 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Michael Bauer <fios@akerbeltz.org>, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-06-07 01:17+0100\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"Language-Team: Akerbeltz\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Virtaal 0.7.1-beta1\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"Bha duilgheadas ann leis a' cheangal chlàraidh agad. Saoil an deach an "
+"seòladh seo a chlàradh roimhe?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Thachair mearachd nuair a bha sinn 'gad chlàradh."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Tha Persona feumach air briosgaidean mus cuimhnich e thu."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Dùin an uinneag seo, <a %s>cuir briosgaidean an comas</a> agus feuch ris a-"
+"rithist"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Mearachd conaltraidh"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "'Gad chlàradh a-steach..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Bidh thu air clàradh a-steach le Persona ann an diog."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Tha sinn duilich ach tha seo a' toirt nas fhaide na bu chòir."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Mura rèitich seo e fhèin an ceann diog no dhà, dùin an uinneag is feuch ris "
+"a-rithist."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "'Ga dhearbhadh le solaraiche a' phuist-dhealain agad."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Tha am post-d a thagh thu mì-dhligheach no chaidh a sguabadh às."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr ""
+"A bheil thu airson %(email)s a thoirt air falbh on chunntas Persona agad?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Ma bheir thu air falbh an seòladh mu dheireadh, cuiridh seo crìoch air a' "
+"chunntas Persona agad.\n"
+"A bheil thu cinnteach gu bheil thu airson leantainn air adhart?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr ""
+"A bheil thu cinnteach gu bheil thu airson an cunntas Persona agad a sguabadh "
+"às?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Cuir post-d ris"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "seòladh puist-dealain"
+
+#: resources/static/dialog/views/add_email.ejs:15
+#, fuzzy
+msgid "Must be an email address"
+msgstr "Cuir post-d ris"
+
+#: resources/static/dialog/views/add_email.ejs:19
+#, fuzzy
+msgid "Email field required"
+msgstr "Tha feum air raon a' phuist-dhealain."
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "cuir ris"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "sguir dheth"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Cha ghabh %s a dhearbhadh"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"Tha %s 'na sheòladh riatanach ach chan urrainn dhuinn dearbhadh gur ann "
+"agadsa a tha an seòladh seo."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+#, fuzzy
+msgid "%(email)s verified!"
+msgstr "Chaidh an seòladh a dhearbhadh!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr ""
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+#, fuzzy
+msgid "Check your email"
+msgstr "Thoir sùil air a' phost-d agad air %s."
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, fuzzy, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Briog air a' cheangal sa phost-d dearbhaidh. Thèid do chlàradh a-steach gu "
+"%s sa bhad."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Mearachd"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Tha sinn glè dhuilich."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Tha am frithealaiche air leth trang!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Ath-luchdaich an duilleag is feuch ris a-rithist."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Dùin an uinneag seo is feuch ris a-rithist."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Faic barrachd fiosrachaidh"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Dùin"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "Ceart ma-thà"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "Chan eil *%s* 'na sheòladh puist-dhealain dligheach!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"Gus leantainn air adhart, saoil an dùin thu an uinneag 's cuir a-steach "
+"seòladh ceart."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "An cum sinn an cuimhne thu?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Dè cho fad 's a chumas Persona clàraichte a-staigh thu?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Mìos"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Tha earbsa agam sa choimpiutair seo."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Fad an t-seisein seo a-mhàin"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Chan e seo coimpiutair agamsa."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr ""
+"An aire: 'S urrainn dhut clàradh a-mach à Persona uair sam bith cuideachd."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Clàraich a-steach le Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr ""
+
+#: resources/static/dialog/views/pick_email.ejs:28
+#, fuzzy
+msgid "Select an email address"
+msgstr "Cuir post-d ris"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Cuir post-d eile ris"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Chan e mise th' ann"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Ma leanas tu air adhart, bidh thu a' gabhail ri <a %(terms)s>Teirmichean a' "
+"Chleachdaidh</a> agus <a %(privacy)s>Poileasaidh Prìobhaideachd</a> aig "
+"%(site)s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "clàraich a-steach"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"Chan eil %(primary)s a' freagairt. Fuirich beagan mhionaidean is feuch ris a-"
+"rithist an uairsin."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Sguir dheth"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+#, fuzzy
+msgid "Cannot verify %(email)s"
+msgstr "Cha ghabh %s a dhearbhadh"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Tha thu cuideachd a' gabhail ri <a %(terms)s>teirmichean a' chleachdaidh</a> "
+"agus <a %(privacy)s>am poileasaidh prìobhaideachd</a> aig %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Cruthaich facal-faire"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"Cha leig %(idp)s leat clàradh a-steach gu Persona leis an fhacal-fhaire "
+"%(idp)s agad tuilleadh. Nach cruthaich thu facal-faire ùr a chleachdas tu "
+"airson a' chunntais Persona agad?"
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Seo seòladh puist-d ùr dhuinne. Cruthaich facal-faire gus a chleachdadh le "
+"FirefoxOS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Seo seòladh puist-d ùr dhuinne. Cruthaich facal-faire gus a chleachdadh le "
+"Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "cruthaich facal-faire"
+
+#: resources/static/dialog/views/set_password.ejs:28
+#, fuzzy
+msgid "Password field required"
+msgstr "Tha feum air facal-faire."
+
+#: resources/static/dialog/views/set_password.ejs:32
+#, fuzzy
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Feumaidh am facal-faire a bhith eadar 8 is 80 caractar a dh'fhaid."
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Dearbh am facal-faire"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "dearbh am facal-faire"
+
+#: resources/static/dialog/views/set_password.ejs:44
+#, fuzzy
+msgid "Verification password required"
+msgstr "Tha feum air facal-faire dearbhaidh."
+
+#: resources/static/dialog/views/set_password.ejs:52
+#, fuzzy
+msgid "Passwords don&rsquo;t match!"
+msgstr "Chan eil an dà fhacal-faire co-ionann!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "deiseil"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr ""
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+#, fuzzy
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"Turas a dhearbhas tu an cunntas agad ann, thèid do chlàradh a-steach gu "
+"%(aWebsite)s."
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "dearbh"
+
+#~ msgid "signing in"
+#~ msgstr "a' clàradh a-steach"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Dearbh an seòladh puist-dealain agad"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Clàraich a-steach mar..."
+
+#~ msgid "Email"
+#~ msgstr "Post-d"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Chaidh do dhearbh-aithne a dhearbhadh leis an t-solaraiche phuist-"
+#~ "dhealain agad agus feuchaidh sinn ri do chlàradh a-steach a-nis."
+
+#~ msgid "Sign in using"
+#~ msgstr "Clàraich a-steach le"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Dh'iarr an làrach seo gun clàraich thu a-steach le"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Feumaidh tu clàradh a-steach leis an t-solaraiche phuist-dhealain agad "
+#~ "gus dearbhadh gur ann agadsa a tha an seòladh seo. Thèid an uinneag seo "
+#~ "ath-threòrachadh gu"
+
+#~ msgid "Enter password"
+#~ msgstr "Cuir a-steach facal-faire"
+
+#~ msgid "forgot your password?"
+#~ msgstr "na dhìochuimhnich thu am facal-faire agad?"
+
+#~ msgid "Password"
+#~ msgstr "Facal-faire"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "Tha feum air facal-faire."
+
+#~ msgid "verify email"
+#~ msgstr "dearbh am post-d"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "Nì %s seo furasta"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "Chaidh an cunntas %(emailProvider)s àrdachadh ach an obraich e fiù nas "
+#~ "fhearr le Persona. Thèid d' ath-stiùireadh gu %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Leigidh Persona leat an cunntas %(emailProvider)s agad a chleachdadh gus "
+#~ "clàradh a-steach a dhèanamh air làraichean mar %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "clàraich a-steach le %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Cleachd seòladh puist-dealain eile"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Feumaidh tu seòladh puist-dhealain a chur san raon seo."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Chuir sinn post-d dhan t-seòladh sin an-dràsta fhèin! Ma tha thu "
+#~ "cinnteach gu bheil thu airson fear eile a chur, fuirich ort mionaid no "
+#~ "dhà 's feuch ris a-rithist."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Chaidh an seòladh seo a chur ris a' chunntas agad mu thràth!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Feumaidh tu seòladh puist-dhealain a thaghadh."
+
+#~ msgid "The password field is required."
+#~ msgstr "Tha feum air raon an fhacail-fhaire."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr ""
+#~ "Chan eil am facal-faire 's an seòladh puist-d a' freagairt ri chèile."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "Chaidh an cunntas %(emailProvider)s àrdachadh ach an obraich e fiù nas "
+#~ "fhearr le Persona. Thèid d' ath-stiùireadh gu %(emailProvider)s. Turas a "
+#~ "bhios an cunntas agad air a dhearbhadh ann, thèid do chlàradh a-steach "
+#~ "air %(aWebsite)s."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Cuir seòladh puist-d eile ris an fhacal-fhaire Person agad."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Thachair mearachd!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Ath-shuidich am facal-faire agad"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Tagh facal-faire ùr gus a chleachdadh le %s."
+
+#~ msgid "reset password"
+#~ msgstr "ath-shuidich am facal-faire"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "An aire: Thèid am facal-faire seo a chleachdadh leis a h-uile seòladh "
+#~ "puist-d agad air Persona."
+
+#~ msgid "Sign In"
+#~ msgstr "Clàraich a-steach"
+
+#~ msgid "Sign Up"
+#~ msgstr "Clàraich"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr ""
+#~ "Fuirich ort tiotan fhad 's a chlàraicheas a-steach thu air an làrachd."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "Tha %s a' cleachdadh Persona seach ainmean-cleachdaiche gus do chlàradh a-"
+#~ "steach."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Gus an clàradh a-steach le Persona, cuir a-steach an seòladh puist-d agad."
+
+#~ msgid "enter email address"
+#~ msgstr "cuir a-steach an seòladh puist-d agad"
+
+#~ msgid "password"
+#~ msgstr "facal-faire"
+
+#~ msgid "next"
+#~ msgstr "air adhart"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Na dhìochuimhnich thu am facal-faire agad?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Ma leanas tu air adhart, bidh thu a\\' gabhail ri <a %s>Teirmichean a\\' "
+#~ "Chleachdaidh</a> agus <a %s>Poileasaidh Prìobhaideachd</a> aig %s."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Thèid an teachdaireachd seo air falbh nuair a choileanas an t-iarrtas (a "
+#~ "dh'aithghearr, tha sinn an dòchas). Ma bheir e tuilleadh 's fada, dùin an "
+#~ "uinneag seo is feuch ris a-rithist."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "Cuir a-steach an seòladh puist-dhealain agad gus clàradh a-steach air "
+#~ "<strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Fuirich ort fhad 's a gheibh sinn fiosrachadh mun t-solaraiche phuist-d "
+#~ "agad."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "Chan urrainn dhut an cunntas seo a chlàradh a-steach leis an ainm 's leis "
+#~ "an fhacal-fhaire seo."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Chuir sinn post-d dearbhaidh gu <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Mas e mearachd a tha seo, cha leig thu leis ach am post-d a chuir sinn a "
+#~ "leigeil seachad agus <a %s>sgur dheth</a> an-seo."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Mas e mearachd a tha seo, cha leig thu leis ach am post-d a chuir sinn a "
+#~ "leigeil seachad agus <a %s>seòladh puist-dhealain eile a chleachdadh</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "An ann agadsa a tha an coimpiutair seo, saoil?"
+
+#~ msgid "yes"
+#~ msgstr "'s ann"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Mas ann, cumaidh sinn clàraichte a-staigh thu fad dà sheachdain."
+
+#~ msgid "no"
+#~ msgstr "chan ann"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Tagh seo mas e coimpiutair poblach a tha seo, can ann an leabharlann no "
+#~ "cafaidh-lìn.  Iarraidh sinn am facal-faire a-rithist an ceann uair a "
+#~ "thìde a chum barrachd tèarainteachd."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Fàilte gu Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr "Tagh facal-faire ùr an uairsin a chum clàraidh a-steach le Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Cuir a-steach am facal-faire a-rithist"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "Tha BrowserID feumach air briosgaidean"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr ""
+#~ "Tha coltas ùr air a' phost-d seo. Nise, seo mar a shuidhicheas tu e."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Clàraich a-steach leis a' phost-d seo an-còmhnaidh"

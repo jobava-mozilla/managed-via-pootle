@@ -1,0 +1,12 @@
+<!-- INCLUDE overall_header.html -->
+<form id="confirm" class="panel user-input" action="{S_CONFIRM_ACTION}" method="post">
+	<h2 class="page-title">{MESSAGE_TITLE}</h2>
+	<p>{MESSAGE_TEXT}</p>
+	
+	<fieldset class="submit-buttons">
+		{S_HIDDEN_FIELDS}
+		<button type="submit" name="confirm" value="{L_YES}" class="button1">{L_YES}</button>&nbsp; 
+		<button type="submit" name="cancel" value="{L_NO}" class="button2">{L_NO}</button>
+	</fieldset>
+</form>
+<!-- INCLUDE overall_footer.html -->

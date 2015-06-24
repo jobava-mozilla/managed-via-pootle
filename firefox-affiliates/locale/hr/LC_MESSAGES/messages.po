@@ -1,0 +1,2538 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 18:40+0000\n"
+"PO-Revision-Date: 2014-08-11 06:40:24\n"
+"Last-Translator: Vedran <vedran.kovacevic@mozilla-hr.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Generated-By: Babel 0.9.5\n"
+"X-Generator: Pontoon\n"
+
+#. This acts as a placeholder/label for a form selection
+#: affiliates/banners/forms.py:21
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:36
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:45
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:54
+#: affiliates/base/forms.py:22
+msgid "-- select --"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/banners.html:12
+#: affiliates/banners/templates/banners/generator/banners.html:20
+msgid "Choose a Banner"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/categories.html:12
+#: affiliates/banners/templates/banners/generator/categories.html:20
+msgid "Choose a Category"
+msgstr ""
+
+#. The "Category" step is when you pick a category to see a list of banners
+#. within it.
+#: affiliates/banners/templates/banners/generator/macros.html:8
+#: affiliates/banners/templates/banners/generator/macros.html:10
+msgid "Category"
+msgstr ""
+
+#. The "Choose" step is when you choose a banner to use.
+#: affiliates/banners/templates/banners/generator/macros.html:17
+#: affiliates/banners/templates/banners/generator/macros.html:19
+#: affiliates/banners/templates/banners/generator/macros.html:21
+msgid "Choose"
+msgstr ""
+
+#. The "Configure" step is when you select a specific variation of a banner.
+#: affiliates/banners/templates/banners/generator/macros.html:28
+#: affiliates/banners/templates/banners/generator/macros.html:30
+#: affiliates/banners/templates/banners/generator/macros.html:32
+msgid "Configure"
+msgstr ""
+
+#. The "Embed" step is when you copy HTML code to put in your webpage to embed
+#. the banner.
+#: affiliates/banners/templates/banners/generator/macros.html:39
+#: affiliates/banners/templates/banners/generator/macros.html:41
+msgid "Embed"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/macros.html:50
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+#: affiliates/base/templates/base/about.html:119
+#: affiliates/base/templates/base/dashboard.html:100
+msgid "What are smart banners?"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/macros.html:52
+#: affiliates/base/templates/base/about.html:122
+#: affiliates/base/templates/base/dashboard.html:102
+msgid ""
+"Smart Banners show visitors slightly different messages depending on their "
+"browser. For example, visitors on an older version of Firefox would be "
+"encouraged to upgrade, while visitors on Internet Explorer would be "
+"encouraged to switch."
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:12
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:25
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:14
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:22
+msgid "Configure Your Banner"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:33
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:29
+msgid "Language"
+msgstr "Jezik"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:42
+msgid "Size"
+msgstr "Veličina"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:51
+msgid "Color"
+msgstr "Boja"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:68
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:38
+#: affiliates/facebook/templates/facebook/banner_create.html:68
+#: affiliates/users/templates/users/profile.html:39
+msgid "Save"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:7
+msgid "Up to date Firefox and other browsers"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:12
+#, fuzzy
+msgid "Out of date Firefox"
+msgstr "O Firefoxu"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:6
+msgid "No preview available."
+msgstr ""
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:10
+#, fuzzy
+msgid "Text banner"
+msgstr "Stvorite novi banner &raquo;"
+
+#. Smart refers to a type of banner that changes the image depending on the
+#. user's Firefox version.
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+msgid "Smart"
+msgstr ""
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: affiliates/base/forms.py:18 affiliates/base/templates/base/base.html:126
+#: affiliates/facebook/forms.py:200
+msgid "Text"
+msgstr ""
+
+#: affiliates/base/milestones.py:21
+msgid "Almost {0} clicks!"
+msgstr ""
+
+#: affiliates/base/milestones.py:22
+msgid "Drove {0} clicks!"
+msgstr ""
+
+#: affiliates/base/milestones.py:23
+msgid "Drove {0} clicks. That's {1} clicks away from the next milestone!"
+msgstr ""
+
+#: affiliates/base/milestones.py:25
+msgid "Driven {0} clicks in total!"
+msgstr ""
+
+#: affiliates/base/milestones.py:26
+msgid "Drive {0} clicks!"
+msgstr ""
+
+#: affiliates/base/milestones.py:29
+msgid "Almost {0} downloads!"
+msgstr ""
+
+#: affiliates/base/milestones.py:30
+msgid "Drove {0} downloads!"
+msgstr ""
+
+#: affiliates/base/milestones.py:31
+msgid ""
+"Drove {0} downloads. That's {1} downloads away from the next milestone!"
+msgstr ""
+
+#: affiliates/base/milestones.py:33
+msgid "Driven {0} downloads in total!"
+msgstr ""
+
+#: affiliates/base/milestones.py:34
+msgid "Drive {0} downloads!"
+msgstr ""
+
+#: affiliates/base/milestones.py:37
+#, fuzzy
+msgid "Create a banner!"
+msgstr "Stvorite novi banner &raquo;"
+
+#: affiliates/base/milestones.py:38
+msgid "Almost {0} banners created!"
+msgstr ""
+
+#: affiliates/base/milestones.py:39
+#, fuzzy
+msgid "Created {0} banners!"
+msgstr "Stvorite novi banner &raquo;"
+
+#: affiliates/base/milestones.py:40
+#, fuzzy
+msgid "Created a banner."
+msgstr "Stvorite novi banner &raquo;"
+
+#: affiliates/base/milestones.py:43
+#, fuzzy
+msgid "Create a text link!"
+msgstr "Stvorite novi banner &raquo;"
+
+#: affiliates/base/milestones.py:44
+msgid "Almost {0} text links created!"
+msgstr ""
+
+#: affiliates/base/milestones.py:45
+msgid "Created {0} text links!"
+msgstr ""
+
+#: affiliates/base/milestones.py:46
+#, fuzzy
+msgid "Created a text link."
+msgstr "Stvorite novi banner &raquo;"
+
+#: affiliates/base/templates/404.html:5 affiliates/base/templates/404.html:11
+msgid "Page not found"
+msgstr ""
+
+#: affiliates/base/templates/404.html:13
+msgid "Sorry, but we couldn’t find the page you’re looking for."
+msgstr ""
+
+#: affiliates/base/templates/500.html:5
+msgid "Server error"
+msgstr ""
+
+#: affiliates/base/templates/500.html:11
+msgid "D’oh! Something went wrong!"
+msgstr ""
+
+#: affiliates/base/templates/500.html:13
+msgid ""
+"Sorry, but something went wrong on our end and we couldn’t process your "
+"request. Please try again in a few minutes."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:6
+#: affiliates/base/templates/base/base.html:73
+msgid "About"
+msgstr "Informacije"
+
+#: affiliates/base/templates/base/about.html:13
+#, fuzzy
+msgid "About Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+#: affiliates/base/templates/base/about.html:16
+#: affiliates/base/templates/base/about.html:46
+#, fuzzy
+msgid ""
+"Firefox Affiliate buttons are bits of HTML code that you put on your website"
+" or blog to encourage visitors to download Firefox. When someone clicks a "
+"button on your site and visits the Firefox download page, you get credit for"
+" that click."
+msgstr ""
+"Firefox Affiliate banneri predstavljaju dio HTML kôda kojeg postavljate na "
+"Vašu web stranicu ili blog kako biste potaknuli posjetitelje na preuzimanje "
+"Firefoxa. Kada posjetitelj klikne na banner koji ste postavili na stranicu i"
+" posjeti Firefox stranicu za preuzimanje, Vama će pripasti zasluga za taj "
+"klik."
+
+#: affiliates/base/templates/base/about.html:25
+#: affiliates/base/templates/base/about.html:55
+#, fuzzy
+msgid ""
+"Affiliates who get a lot of clicks will be featured on our leaderboard and "
+"be eligible for rewards, like Firefox T-shirts. While we do send out prizes "
+"and gifts to our affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox buttons."
+msgstr ""
+"Affiliates članovi koji ostvare velik broj preuzimanja bit će objavljeni na "
+"popisu vodećih članova, te će biti kvalificirani za dobivanje zanimljivih "
+"nagrada, poput Firefox majice. Iako povremeno šaljemo nagrade i poklone "
+"našim affiliates članovima, Firefox Affiliates program ne nudi novac za "
+"objavljene Firefox bannere."
+
+#: affiliates/base/templates/base/about.html:39
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:41
+#, fuzzy
+msgid "Using Affiliate buttons"
+msgstr "Upotreba affiliate bannera"
+
+#: affiliates/base/templates/base/about.html:43
+msgid "How do affiliate buttons work?"
+msgstr "Kako funkcioniraju affiliate banneri?"
+
+#: affiliates/base/templates/base/about.html:65
+msgid "How do I add an affiliate button to my website?"
+msgstr "Kako mogu dodati affiliate banner na svoju web stranicu?"
+
+#: affiliates/base/templates/base/about.html:68
+#, fuzzy
+msgid ""
+"It’s super easy! To start, choose a button and select the Firefox product or"
+" campaign you’d like to support. From there, simply pick your button’s "
+"style, shape and color, and then copy and paste the code into the HTML of "
+"your site. Done! Your unique affiliate ID will be in the code to make sure "
+"you get credit for every click you send our way."
+msgstr ""
+"Jednostavno je! Krenite s odabirom bannera, odaberite Firefoxov proizvod ili"
+" kampanju koju želite podržati, odaberite dizajn bannera, oblik i boju, te "
+"kopirajte i zalijepite kod u HTML svoje web stranice. Vaš jedinstveni "
+"affiliate ID će biti uključen u kod kako bi Vam bila pripisana zasluga za "
+"svako ostvareno preuzimanje."
+
+#: affiliates/base/templates/base/about.html:79
+msgid "How do I remove an affiliate button from my website?"
+msgstr "Kako mogu ukloniti affiliate bannere sa svoje web stranice?"
+
+#: affiliates/base/templates/base/about.html:82
+msgid ""
+"This is also easy. Simply delete the code. If you want to put it back in "
+"again, just copy and paste it from the button picker."
+msgstr ""
+"I ovo je jednostavno. Samo obrišite kôd kojeg ste postavili. Ako ga želite "
+"ponovno vratiti, opet ga kopirajte iz odabira bannera i zalijepite u HTML "
+"web stranice."
+
+#: affiliates/base/templates/base/about.html:89
+#, fuzzy
+msgid "How do text links work?"
+msgstr "Kako funkcioniraju affiliate banneri?"
+
+#: affiliates/base/templates/base/about.html:92
+#, fuzzy
+msgid ""
+"Text links work very much like banners. You start by choosing the Firefox "
+"product or campaign you’d like to support, then select the text link you’d "
+"like to use. Copy and paste the link code into the HTML of your site, onto "
+"your email signature, or anywhere else you’d like to have it appear. Your "
+"unique affiliate ID will be in the code to make sure you get credit for "
+"every click you send our way."
+msgstr ""
+"Jednostavno je! Krenite s odabirom bannera, odaberite Firefoxov proizvod ili"
+" kampanju koju želite podržati, odaberite dizajn bannera, oblik i boju, te "
+"kopirajte i zalijepite kod u HTML svoje web stranice. Vaš jedinstveni "
+"affiliate ID će biti uključen u kod kako bi Vam bila pripisana zasluga za "
+"svako ostvareno preuzimanje."
+
+#: affiliates/base/templates/base/about.html:104
+msgid "What happens when an affiliate button for a campaign is deactivated?"
+msgstr "Što se događa kada se deaktivira affiliate banner kampanje?"
+
+#: affiliates/base/templates/base/about.html:107
+#, fuzzy
+msgid ""
+"Sometimes we run special time-limited campaigns to encourage people to "
+"download Firefox. If you’re using an affiliate button for one of these "
+"campaigns, try to update your button as soon as you can. People who click on"
+" that button will be directed to a general Firefox download page. You’ll get"
+" credit for the click as an Affiliate, but you may not get credit for clicks"
+" for that specific campaign."
+msgstr ""
+"Ponekad vodimo posebne, kratkoročne kampanje za ohrabrivanje korisnika na "
+"preuzimanje Firefoxa. Ako koristite affiliate banner jedne od takvih "
+"kampanja, pokušajte ažurirati svoj banner čim prije. Korisnici koji kliknu "
+"na takav banner bit će preusmjereni na glavnu stranicu za preuzimanje "
+"Firefoxa. Dobit ćete zaslugu za preuzimanje, ali možda nećete dobiti zaslugu"
+" za tu kampanju."
+
+#: affiliates/base/templates/base/about.html:132
+#, fuzzy
+msgid "Leaderboard and user statistics"
+msgstr "Poredak i korisničke statistike"
+
+#: affiliates/base/templates/base/about.html:134
+msgid "How often do leaderboard statistics update?"
+msgstr "Koliko se često ažuriraju statistički podaci poretka?"
+
+#: affiliates/base/templates/base/about.html:137
+#, fuzzy
+msgid ""
+"Leaderboard stats update every night at midnight Pacific Time. No need to "
+"keep hitting refresh over and over again to see how you’re doing. Just check"
+" in the next day to see your progress."
+msgstr ""
+"Statistika poretka se ažurira svake večeri u ponoć (PST vremenska zona). "
+"Dakle, ne trebate neprestano učitavati stranicu da biste vidjeti kako "
+"napredujete. Dovoljno je da svoj napredak provjerite jednom dnevno."
+
+#: affiliates/base/templates/base/about.html:145
+#: affiliates/facebook/templates/facebook/faq.html:177
+msgid "Is there a prize for getting the most Firefox clicks?"
+msgstr "Postoji li nagrada za najveći broj preuzimanja Firefoxa?"
+
+#: affiliates/base/templates/base/about.html:147
+#, fuzzy
+msgid ""
+"From time to time we will be sending out T-shirts and other prizes. In "
+"future versions of Firefox Affiliates we will have a rewards program and "
+"more opportunities to participate in affiliate challenges."
+msgstr ""
+"S vremena na vrijeme slati ćemo majice i ostale nagrade. U budućim inačicama"
+" Affiliates programa, imat ćemo nagradni program i više prilika za "
+"sudjelovanje u affiliate izazovima."
+
+#: affiliates/base/templates/base/about.html:156
+#: affiliates/facebook/templates/facebook/faq.html:194
+msgid "I think my click statistics are wrong. Is there any way to fix them?"
+msgstr ""
+"Mislim da je moja statistika preuzimanja netočna. Može li se to popraviti?"
+
+#: affiliates/base/templates/base/about.html:159
+#, fuzzy
+msgid ""
+"If you think there is an error with your click statistics, drop us a note at"
+" <a href=\"%(email)s\">affiliates@mozilla.org</a> and we’ll do our best to "
+"help you out."
+msgstr ""
+"Ako mislite da postoji greška s Vašom statistikom, javite nam se na <a "
+"href=\"mailto:%(email)s\">%(email)s</a> i mi ćemo dati sve od sebe da vam "
+"pomognemo."
+
+#: affiliates/base/templates/base/about.html:169
+#, fuzzy
+msgid "My profile"
+msgstr "Moj profil"
+
+#: affiliates/base/templates/base/about.html:171
+msgid "How do I update my personal profile information?"
+msgstr "Kako mogu ažurirati podatke svojeg osobnog profila?"
+
+#: affiliates/base/templates/base/about.html:174
+#, fuzzy
+msgid ""
+"Moved? Changed your name? Grew a moustache? Just visit your profile page and"
+" click on the edit profile link at the top."
+msgstr ""
+"Preselili ste se? Promijenili ime? Samo kliknite na tipku za uređivanje "
+"profila u gornjem desnom kutu stranice."
+
+#: affiliates/base/templates/base/about.html:178
+#: affiliates/users/templates/users/profile.html:44
+msgid ""
+"You can update your avatar picture at <a "
+"href=\"%(gravatar)s\">gravatar.com</a>."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:184
+msgid "How will you contact me if I win a prize?"
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:187
+msgid ""
+"If you qualify for an affiliates prize you will be notified that you have "
+"won via the email account in your affiliates profile."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:196
+#, fuzzy
+msgid "Getting involved With Firefox Affiliates"
+msgstr "Uključivanje u Firefox Affiliates program"
+
+#: affiliates/base/templates/base/about.html:198
+msgid "I have an idea of a button. How can I share it?"
+msgstr "Imam ideju za banner. Kako je mogu podijeliti?"
+
+#: affiliates/base/templates/base/about.html:201
+#, fuzzy
+msgid ""
+"Mozilla and Firefox are all about community. If you have an idea, we want to"
+" hear it. Send us a note at <a href=\"%(email)s\">affiliates@mozilla.org</a>"
+" and tell us your amazing idea for the program."
+msgstr ""
+"Mozilla i Firefox se temelje na zajednici. Ako imate ideju, želimo je čuti. "
+"Javite nam se na <a href=\"mailto:%(email)s\">%(email)s</a> i podijelite s "
+"nama vašu sjajnu ideju."
+
+#: affiliates/base/templates/base/about.html:210
+msgid "Can I build my own button?"
+msgstr "Mogu li izraditi svoj vlastiti banner?"
+
+#: affiliates/base/templates/base/about.html:213
+#, fuzzy
+msgid ""
+"Not yet… but soon. We're working on a way to make it easy for people to "
+"create their own Firefox buttons in their language. Look for this in future "
+"versions of Firefox Affiliates."
+msgstr ""
+"Još ne... ali moći ćete uskoro. Radimo na tome da korisnicima omogućimo "
+"jednostavnu izradu Firefox bannera na materinskom jeziku. Potražite ovu "
+"mogućnost u novijim inačicama Firefox Affiliates programa."
+
+#: affiliates/base/templates/base/about.html:221
+msgid "I want to help make Firefox Affiliates better. How can I get involved?"
+msgstr ""
+"Želim pomoći učiniti Firefox Affiliates program boljim. Kako se mogu "
+"uključiti?"
+
+#: affiliates/base/templates/base/about.html:224
+#, fuzzy
+msgid ""
+"If you’d like to help out with the affiliates program, contact us at <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>. We’d love your help with "
+"everything from coding to marketing."
+msgstr ""
+"Ako nam želite pomoći oko Affiliates programa, kontaktirajte nas na <a "
+"href=\"mailto:%(email)s\">%(email)s</a>. Cijenili bismo vašu pomoć!"
+
+#: affiliates/base/templates/base/base.html:12
+#: affiliates/base/templates/base/base.html:15
+#: affiliates/base/templates/base/base.html:21
+#: affiliates/base/templates/base/base.html:65
+#: affiliates/base/templates/base/home.html:15
+#: affiliates/facebook/templates/facebook/base.html:15
+#: affiliates/settings/base.py:152
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+#: affiliates/base/templates/base/base.html:49
+msgid "Close"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:50
+msgid "This field is required."
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:51
+msgid "Thanks for subscribing!"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:52
+#, fuzzy
+msgid "Sorry, there was an error. Please refresh and try again."
+msgstr "Došlo je do greške prilikom autentifikacije. Pokušajte ponovno."
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/base.html:60
+#: affiliates/base/templates/base/base.html:170
+#: affiliates/base/templates/base/strings.html:32
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: affiliates/base/templates/base/base.html:71
+msgid "Menu"
+msgstr ""
+
+#. clicks on their banners.
+#: affiliates/base/templates/base/base.html:74
+#: affiliates/facebook/templates/facebook/base.html:45
+msgid "Leaderboard"
+msgstr "Poredak"
+
+#: affiliates/base/templates/base/base.html:75
+#: affiliates/statistics/templates/statistics/index.html:3
+#: affiliates/statistics/templates/statistics/index.html:17
+msgid "Performance"
+msgstr "Performanse"
+
+#: affiliates/base/templates/base/base.html:84
+#: affiliates/base/templates/base/dashboard.html:14
+#: affiliates/base/templates/base/dashboard.html:22
+#: affiliates/links/templates/links/detail.html:52
+#, fuzzy
+msgid "Dashboard"
+msgstr "Poredak"
+
+#: affiliates/base/templates/base/base.html:85
+#, fuzzy
+msgid "Profile"
+msgstr "Moj profil"
+
+#: affiliates/base/templates/base/base.html:86
+msgid "Sign out"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:90
+msgid "Sign in"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:108
+#, fuzzy
+msgid "Get Firefox Affiliates News"
+msgstr "Firefox Affiliates ekipa"
+
+#: affiliates/base/templates/base/base.html:111
+#: affiliates/facebook/forms.py:203
+#: affiliates/facebook/templates/facebook/base.html:159
+msgid "Your email address"
+msgstr "Adresa vaše e-pošte"
+
+#: affiliates/base/templates/base/base.html:116
+msgid "Country"
+msgstr "Država"
+
+#: affiliates/base/templates/base/base.html:121
+msgid "Format"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:132
+msgid "HTML"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:142
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr ""
+
+#. Label used for the newsletter signup button.
+#: affiliates/base/templates/base/base.html:150
+#: affiliates/facebook/templates/facebook/base.html:180
+msgid "Sign me up!"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:175
+msgid ""
+"Portions of this content are ©1998–%(thisyear)s by individual mozilla.org "
+"contributors. Content available under a <a href=\"%(license)s\">Creative "
+"Commons license</a>."
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:182
+msgid "Source code"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:187
+msgid "Contact Us"
+msgstr "Kontaktirajte nas"
+
+#: affiliates/base/templates/base/base.html:188
+#, fuzzy
+msgid "Partner with Us"
+msgstr "Partnerstva"
+
+#: affiliates/base/templates/base/base.html:189
+msgid "Donate"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:190
+msgid "Privacy Policy"
+msgstr "Politika privatnosti"
+
+#: affiliates/base/templates/base/base.html:191
+msgid "Legal Notices"
+msgstr "Pravne bilješke"
+
+#: affiliates/base/templates/base/base.html:192
+msgid "Report Trademark Abuse"
+msgstr "Prijava zloporabe zaštićenog znaka"
+
+#: affiliates/base/templates/base/base.html:196
+#, fuzzy
+msgid "Mozilla on Twitter"
+msgstr "Mozilla Firefox"
+
+#: affiliates/base/templates/base/base.html:197
+#, fuzzy
+msgid "Firefox on Twitter"
+msgstr "Podijelite na Twitteru &raquo;"
+
+#: affiliates/base/templates/base/base.html:198
+#, fuzzy
+msgid "Mozilla on Facebook"
+msgstr "Firefox Affiliates"
+
+#: affiliates/base/templates/base/base.html:199
+#, fuzzy
+msgid "Firefox on Facebook"
+msgstr "Firefox Affiliates"
+
+#: affiliates/base/templates/base/dashboard.html:23
+msgid ""
+"See how your banners are performing and where you rank among other Firefox "
+"Affiliates. Thanks for supporting Firefox and the Mozilla mission to build a"
+" better Web for all!"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:26
+msgid "My stats"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:35
+msgid "My Banners"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:36
+#: affiliates/facebook/templates/facebook/banner_list.html:76
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:7
+#, fuzzy
+msgid "Create a new banner"
+msgstr "Stvorite novi banner &raquo;"
+
+#: affiliates/base/templates/base/dashboard.html:47
+msgid "You don’t have any banners yet. Why not create one now?"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:52
+#: affiliates/base/templates/base/home.html:66
+msgid "1. Pick a banner"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:53
+#: affiliates/base/templates/base/home.html:67
+msgid ""
+"Choose from a number of designs that support Firefox and other Mozilla "
+"products."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:56
+#: affiliates/base/templates/base/home.html:70
+#, fuzzy
+msgid "2. Customize"
+msgstr "Prilagodite"
+
+#: affiliates/base/templates/base/dashboard.html:57
+#: affiliates/base/templates/base/home.html:71
+msgid ""
+"Select the size and color that suits your site. Banners and links are also "
+"available in over 30 languages."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:60
+#: affiliates/base/templates/base/home.html:74
+msgid "3. Post to your site"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:61
+#: affiliates/base/templates/base/home.html:75
+msgid ""
+"Copy and paste the HTML or text link into your site, email or wherever you’d"
+" like to share it."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:71
+msgid "My Milestones"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:79
+#, fuzzy
+msgid "Affiliates News"
+msgstr "Prosjek affiliate članova"
+
+#: affiliates/base/templates/base/dashboard.html:84
+#, fuzzy
+msgid "Become a Mozillian"
+msgstr "Pridružite se Mozilli"
+
+#: affiliates/base/templates/base/dashboard.html:86
+msgid ""
+"At Mozilla, doing good is part of our code. Our mission is to promote "
+"openness, innovation and opportunity on the Web, and we can only do it with "
+"awesome people like you. If you’d like to do even more to help our mission, "
+"we have volunteer opportunities available in a number of areas."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:93
+msgid "Learn more"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:24
+#, fuzzy
+msgid "So long, <strong>Firefox Affiliates</strong>."
+msgstr "Hvala vam na pridruživanju <span>Firefox Affiliates programu!</span>"
+
+#: affiliates/base/templates/base/home.html:25
+msgid "Hello, <strong>Firefox Friends</strong>."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:27
+msgid ""
+"We’re moving our Affiliates program to Firefox Friends, an exciting new way "
+"to share what we do with the world. At Firefox Friends you’ll have "
+"opportunities to get recognized for making an impact — plus, you’ll be in "
+"the know for all the latest Mozilla news and announcements."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:33
+msgid ""
+"At the beginning of August, new banner creation for Affiliates will be "
+"disabled, so please join us at Firefox Friends to continue sharing Mozilla "
+"with world."
+msgstr ""
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/home.html:36
+#, fuzzy
+msgid "Join Firefox Friends"
+msgstr "Firefox priključci"
+
+#: affiliates/base/templates/base/home.html:38
+msgid "Click here for more information"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:49
+msgid "This site requires JavaScript."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:55
+#, fuzzy
+msgid "Become a Firefox Affiliate today!"
+msgstr "Postanite Firefox <span>Affiliate član danas!</span>"
+
+#: affiliates/base/templates/base/home.html:56
+msgid ""
+"Get everything you need to share Firefox – and the other Mozilla products "
+"you love – with the world. Climb the leaderboard to help us build a better "
+"Web."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:57
+msgid "Get started"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:63
+msgid "How it works"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:83
+msgid "Earn rewards!"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:84
+msgid ""
+"Climb the affiliates leaderboard for your chance to win awesome Firefox "
+"gear, and to get even more involved with Mozilla. The more you share, the "
+"higher you can climb."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:97
+#, fuzzy
+msgid "Top affiliates"
+msgstr "O Affiliates programu"
+
+#: affiliates/base/templates/base/macros.html:49
+msgid "Someday soon!"
+msgstr ""
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:64
+msgid "<strong>%(rank)s</strong> ranking"
+msgstr ""
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:69
+msgid "Not yet ranked"
+msgstr ""
+
+#: affiliates/base/templates/base/macros.html:78
+msgid "<strong>%(count)s</strong> affiliate"
+msgid_plural "<strong>%(count)s</strong> affiliates"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: affiliates/base/templates/base/macros.html:86
+msgid "<strong>%(count)s</strong> click"
+msgid_plural "<strong>%(count)s</strong> clicks"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: affiliates/base/templates/base/macros.html:94
+msgid "<strong>%(count)s</strong> banner"
+msgid_plural "<strong>%(count)s</strong> banners"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:31
+msgid "Firefox"
+msgstr "Firefox"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:33
+#, fuzzy
+msgid "Firefox OS"
+msgstr "Firefox"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:38
+msgid "Mozilla Recruiting"
+msgstr "Mozilla regrutacija"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:39
+#, fuzzy
+msgid "Firefox for Mobile"
+msgstr "Firefox <span>za</span> mobitele"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:40
+#, fuzzy
+msgid "Firefox for Desktop"
+msgstr "Firefox <span>za</span> računala"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:41
+msgid "Firefox Plugins"
+msgstr "Firefox priključci"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:46
+msgid "Android"
+msgstr "Android"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:47
+msgid "Upgrade"
+msgstr "Nadogradi"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:48
+msgid "Download: Fast, Fun, Awesome"
+msgstr "Preuzmi: brzo, zabavno, sjajno"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:49
+#, fuzzy
+msgid "Work for Mozilla"
+msgstr "Radite <span>za</span> Mozillu"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:50
+msgid "Plugin Checker"
+msgstr "Ispitivač priključaka"
+
+#: affiliates/base/templates/base/strings.html:51
+msgid "Download Aurora"
+msgstr "Preuzmite Auroru"
+
+#: affiliates/base/templates/base/strings.html:52
+#, fuzzy
+msgid "Aurora for Android"
+msgstr "Aurora <span>za</span> Android"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:53
+msgid "Download Beta"
+msgstr "Preuzmite betu"
+
+#. 3.6 refers to Firefox version 3.6
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:55
+msgid "3.6 Upgrade"
+msgstr "3.6 Nadogradnja"
+
+#: affiliates/base/templates/base/strings.html:56
+msgid "Facebook Messenger for Firefox"
+msgstr ""
+
+#: affiliates/base/templates/base/strings.html:61
+msgid "Purple"
+msgstr "Ljubičasta"
+
+# Color for badge images.
+#: affiliates/base/templates/base/strings.html:62
+msgid "Blue"
+msgstr "Plava"
+
+#: affiliates/base/templates/base/strings.html:63
+msgid "Green"
+msgstr "Zelena"
+
+#: affiliates/base/templates/base/strings.html:64
+msgid "Red"
+msgstr "Crvena"
+
+#: affiliates/base/templates/base/strings.html:65
+msgid "Orange"
+msgstr "Narančasta"
+
+#: affiliates/base/templates/base/strings.html:66
+msgid "Yellow"
+msgstr "Žuta"
+
+#: affiliates/base/templates/base/strings.html:67
+msgid "White"
+msgstr "Bijela"
+
+#: affiliates/base/templates/base/strings.html:68
+msgid "Black"
+msgstr "Crna"
+
+#: affiliates/base/templates/base/terms.html:6
+#: affiliates/base/templates/base/terms.html:14
+msgid "Terms of Service"
+msgstr ""
+
+#. L10n: &hellip; is an ellipses, the three dots like "I love Firefox
+#. because..."
+#: affiliates/facebook/forms.py:18
+msgid "I love Firefox because&hellip;"
+msgstr ""
+
+#: affiliates/facebook/forms.py:28
+msgid "Enter e-mail"
+msgstr ""
+
+#: affiliates/facebook/forms.py:93
+msgid ""
+"Sorry. Your message is too long. Please tell the world why you love Firefox "
+"in 90 characters or less."
+msgstr ""
+
+#. L10n: Used in a dropdown that lets users filter the Leaderboard by
+#. L10n: country. Refers to the default filter, which shows all countries
+#: affiliates/facebook/forms.py:179
+msgid "All"
+msgstr ""
+
+#. Account linking lets a user associate an Affiliates account with their
+#. Facebook app account. Description is in another string. :D
+#: affiliates/facebook/managers.py:139
+#: affiliates/facebook/templates/facebook/base.html:86
+#, fuzzy
+msgid "Link your Firefox Affiliates account"
+msgstr "Molimo vas da aktivirate svoj Firefox Affiliates korisnički račun"
+
+#: affiliates/facebook/models.py:313
+msgid "Way to go! You've had {0} clicks on your Firefox banner."
+msgstr ""
+
+#: affiliates/facebook/models.py:315
+msgid ""
+"Amazing! You've had {0} clicks on your Firefox banner. Thanks for spreading "
+"the word."
+msgstr ""
+
+#: affiliates/facebook/models.py:318
+msgid ""
+"Wow! Your banner has {0} clicks! It's ready to grow up and become a Firefox "
+"ad."
+msgstr ""
+
+#: affiliates/facebook/models.py:320
+msgid "Congratulations! Your Firefox banner has now become a Facebook ad!"
+msgstr ""
+
+#: affiliates/facebook/views.py:177
+msgid "Your banner has been deleted."
+msgstr ""
+
+#: affiliates/facebook/views.py:211
+msgid "You have successfully posted a banner to your wall !"
+msgstr ""
+
+#: affiliates/facebook/views.py:303
+msgid "You have successfully sent a message to one of your friends!"
+msgstr ""
+
+#. Banner styles are images that will be used as the background of a banner
+#. that the user creates.
+#: affiliates/facebook/templates/facebook/banner_create.html:18
+msgid "First, choose one of the banner styles below."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/banner_create.html:24
+msgid "Please correct the errors in the form below."
+msgstr ""
+
+#. Used above a box showing what a banner will look like once it is created.
+#: affiliates/facebook/templates/facebook/banner_create.html:26
+#, fuzzy
+msgid "Your banner preview"
+msgstr "pretpregled značke"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:36
+msgid "Next, tell the world why you love Firefox in 90 characters or less."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/banner_create.html:42
+msgid "Use my profile image"
+msgstr ""
+
+#. Label for a checkbox that gives us permission to use the user's banner in a
+#. paid Facebook ad.
+#: affiliates/facebook/templates/facebook/banner_create.html:46
+msgid "Feature me in a paid Facebook ad."
+msgstr ""
+
+#. Used on a link that, when clicked, pops up a text bubble with an
+#. explanation of a form field.
+#: affiliates/facebook/templates/facebook/banner_create.html:49
+msgid "What does this mean?"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/banner_create.html:52
+msgid ""
+"If you get %(click_count)s clicks or more, we would like to have permission "
+"to turn your banner into a paid ad on Facebook in your region. By checking "
+"this box you are granting us permission to use your banner in a paid "
+"Facebook ad, including your profile photo if you checked the box to include "
+"it in the banner, and the text you added to the banner. For a full "
+"description of the rights you are granting and more information, see the "
+"FAQs. Don't want to be featured in an ad? Make sure you don't opt in. If you"
+" opted in and don't want to be featured anymore, send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure your ad is "
+"removed."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/banner_create.html:69
+msgid "Save and Share"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/banner_list.html:14
+msgid "Are you sure?"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/banner_list.html:15
+msgid "These are the banners you've created so far:"
+msgstr "Ovo su banneri koje ste do sada stvorili:"
+
+#. Heading referring to when a banner was created.
+#: affiliates/facebook/templates/facebook/banner_list.html:26
+msgid "Creation date"
+msgstr ""
+
+#. Heading above the number of clicks a banner has received.
+#: affiliates/facebook/templates/facebook/banner_list.html:30
+msgid "Clicks"
+msgstr ""
+
+#. Link that, when clicked, shows a dialog for posting a banner to a user's
+#. Facebook feed.
+#: affiliates/facebook/templates/facebook/banner_list.html:37
+msgid "Post to Feed"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/banner_list.html:45
+msgid "Delete"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/banner_list.html:67
+#, fuzzy
+msgid "Click Goal: <span>%(count)s</span>"
+msgstr "Kategorija: <span>%(category_name)s</span>"
+
+#: affiliates/facebook/templates/facebook/base.html:16
+#, fuzzy
+msgid "Help us share Firefox with the world."
+msgstr "Sve što vam je potrebno za dijeljenje Firefoxa sa svijetom."
+
+#: affiliates/facebook/templates/facebook/base.html:20
+#: affiliates/facebook/templates/facebook/base.html:148
+msgid "Invite your friends to Download Firefox!"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:29
+msgid "My banners"
+msgstr ""
+
+#. answers to common questions about the app.
+#. FAQs is an abbreviation for Frequently Asked Questions
+#: affiliates/facebook/templates/facebook/base.html:37
+#: affiliates/facebook/templates/facebook/faq.html:13
+msgid "FAQs"
+msgstr "ČPP"
+
+#: affiliates/facebook/templates/facebook/base.html:92
+msgid ""
+"Do you already have an account from affiliates.mozilla.org? You can link "
+"your account to this application and you'll get credit for any clicks that "
+"you drive through Facebook. To connect your account, just click here and "
+"fill in your information. We'll send you an email to confirm. If you'd like "
+"to sign up for an account, just visit <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+
+#. Label used for the account linking button.
+#: affiliates/facebook/templates/facebook/base.html:103
+msgid "Submit"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:107
+msgid "Thanks for linking your affiliates.mozilla.org account."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:108
+msgid ""
+"If the email address you entered has an account, you will receive a "
+"confirmation email."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:113
+msgid "Linked to <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:120
+msgid ""
+"This account is linked to affiliates.mozilla.org. You are credited for "
+"clicks from Facebook. You can unlink accounts by clicking below."
+msgstr ""
+
+#. Text on a button that lets a user unlink their Facebook and Affiliates
+#. accounts.
+#: affiliates/facebook/templates/facebook/base.html:125
+#, fuzzy
+msgid "Remove %(email_address)s"
+msgstr "Adresa vaše e-pošte"
+
+#: affiliates/facebook/templates/facebook/base.html:134
+msgid "Your Statistics Summary"
+msgstr "Sažetak vaše statistike"
+
+#: affiliates/facebook/templates/facebook/base.html:138
+msgid ""
+"You can filter results by selecting a specific month using the calendar "
+"above."
+msgstr ""
+"Rezultate možete filtrirati odabirom određenog mjeseca u kalendaru iznad."
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/base.html:139
+#: affiliates/facebook/templates/facebook/leaderboard.html:27
+msgid "Total clicks"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:140
+msgid "Statistics are currently unavailable."
+msgstr "Statistika je trenutno nedostupna."
+
+#: affiliates/facebook/templates/facebook/base.html:144
+msgid "Be a part of the Firefox movement"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:145
+msgid "It's easy!"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:147
+msgid "Create your custom banner."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:149
+msgid "Get clicks and you could be featured in a paid Facebook ad."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:155
+#, fuzzy
+msgid "Get Firefox News"
+msgstr "O Firefoxu"
+
+#: affiliates/facebook/templates/facebook/base.html:171
+msgid "I agree to the <a href=\"%(link)s\">Privacy Policy</a>"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:175
+msgid "We will only send you Mozilla-related information."
+msgstr ""
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/base.html:184
+#: affiliates/facebook/templates/facebook/link_activation_email.html:13
+msgid "Thanks!"
+msgstr "Hvala!"
+
+#: affiliates/facebook/templates/facebook/error.html:10
+msgid "Whoops!"
+msgstr "Ups!"
+
+#: affiliates/facebook/templates/facebook/error.html:11
+msgid "What are you doing here?"
+msgstr "Što radite ovdje?"
+
+#: affiliates/facebook/templates/facebook/error.html:14
+#, fuzzy
+msgid ""
+"Did you make a left at that last URL instead of a right? No problem. Here "
+"are some tips to get you back on your way:"
+msgstr ""
+"Jeste li krivo skrenuli kod posljednjeg URL-a? Nema problema. Osim ako nam "
+"se ne želite pridružiti u kartanju, evo vam nekoliko savjeta za povratak na "
+"pravi put:"
+
+#: affiliates/facebook/templates/facebook/error.html:21
+msgid ""
+"If you typed in the address, check your spelling. Could just be a typo."
+msgstr ""
+"Ako ste upisali adresu, provjerite pravopis. Moguće da je samo pogreška pri "
+"upisu."
+
+#: affiliates/facebook/templates/facebook/error.html:26
+msgid ""
+"If you followed a link, it’s probably broken. Please <a "
+"href=\"mailto:%(email)s\">contact us</a> and we’ll fix it."
+msgstr ""
+"Ako ste kliknuli na link, vjerojatno je nevažeći. Molimo vas da nam se <a "
+"href=\"mailto:%(email)s\">javite</a> i popravit ćemo ga."
+
+#: affiliates/facebook/templates/facebook/error.html:32
+#, fuzzy
+msgid ""
+"If you're not sure what you're looking for, start at <a "
+"href=\"%(link)s\">mozilla.org</a>."
+msgstr ""
+"Ako niste sigurni što tražite, krenite od <a "
+"href=\"%(href)s\">mozilla.org</a>."
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:18
+#, fuzzy
+msgid "Using Affiliate banners"
+msgstr "Upotreba affiliate bannera"
+
+#: affiliates/facebook/templates/facebook/faq.html:21
+#, fuzzy
+msgid "What is Firefox Affiliates?"
+msgstr "Firefox Affiliates"
+
+#: affiliates/facebook/templates/facebook/faq.html:24
+#, fuzzy
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"eligible for fun stuff like Firefox T-shirts and, if you opt in, we may "
+"feature your banner in a paid-ad on the Facebook ad network. While we do "
+"send out prizes and gifts to our Affiliates from time to time, Firefox "
+"Affiliates does not offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Firefox Affiliate banneri predstavljaju dio HTML kôda kojeg postavljate na "
+"vašu web stranicu ili blog kako biste potaknuli posjetitelje na preuzimanje "
+"Firefoxa. Kada posjetitelj klikne na banner kojeg ste postavili na stranicu "
+"i preuzme Firefox, vama pripada zasluga za to preuzimanje. Affiliate članovi"
+" koji ostvare velik broj preuzimanja, bit će objavljeni na popisu vodećih "
+"članova, te će biti kvalificirani za dobivanje zanimljivih nagrada, poput "
+"Firefox majice. Iako povremeno šaljemo nagrade i poklone našim affiliate "
+"članovima, Firefox Affiliate program ne isplaćuje novac u razmjenu za "
+"objavljene bannere."
+
+#: affiliates/facebook/templates/facebook/faq.html:43
+#, fuzzy
+msgid "How do I add a banner to my Facebook profile?"
+msgstr "Kako mogu dodati affiliate banner na svoju web stranicu?"
+
+#: affiliates/facebook/templates/facebook/faq.html:48
+msgid ""
+"Select a banner design that you like using the <a href=\"%(link)s\">banner "
+"builder</a>, add a personal message about why you love Firefox and then "
+"click \"share.\" This will post the banner to your Facebook timeline and "
+"into your friends' newsfeed."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:60
+msgid "How do I invite a friend to use Firefox?"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:64
+msgid ""
+"If you'd like to personally invite someone to use Firefox, just select "
+"\"Share ad with friends\" from the side menu and you will be able to send a "
+"Facebook message with a custom Firefox download link. If your friend clicks "
+"on the link, you'll also get credit for the click."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:76
+msgid "Can my banner become a paid Facebook ad?"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:80
+msgid ""
+"If you checked the box to allow your banner to be featured in a paid "
+"Facebook ad, once you've reached %(click_count)s clicks on a Facebook "
+"banner, your banner will become eligible to be a paid Facebook ad. This "
+"means that Mozilla will pay to have an ad placed on the Facebook ad network "
+"sharing your message of why you love Firefox. We will notify you if your "
+"banner is chosen to be a paid ad in your region. If you do not want to "
+"participate in this, don't click the opt-in when you build your banner. If "
+"you've opted in by accident, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure you aren't "
+"included in the ad selection."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:100
+msgid ""
+"If I opted in to having my banner become a paid Facebook ad, what exactly am"
+" I giving you permission to do?"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:108
+msgid ""
+"You are giving us permission to use, reproduce, distribute, edit, and "
+"display your photo, if it is included in your banner, and your message about"
+" why you love Firefox, for commercial purposes, specifically in a paid ad on"
+" Facebook. You are also acknowledging that you will not be paid for the use "
+"of your banner."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:119
+msgid "How do I remove the application?"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:122
+msgid ""
+"To remove the application, access your applications in the Facebook settings"
+" menu. Delete the application from your list of authorized apps and we'll "
+"delete your Affiliates profile on Facebook and the information associated "
+"with it. Note: Deleting the application on Facebook will not delete your "
+"affiliates.mozilla.org profile if you had one prior to installing the "
+"application. To delete that profile, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a>."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:138
+msgid ""
+"How do I connect to my Firefox Affiliates account on affiliates.mozilla.org?"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:146
+msgid ""
+"To connect your affiliates.mozilla.org account to this application, please "
+"use the connection wizard on the My Banners page. We'll send you an email to"
+" confirm that we've connected the accounts. If you'd like to sign up for an "
+"account, just visit <a href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:159
+msgid "Leaderboard and User Statistics"
+msgstr "Poredak i korisničke statistike"
+
+#: affiliates/facebook/templates/facebook/faq.html:163
+#, fuzzy
+msgid "How often does the leaderboard get updated?"
+msgstr "Koliko se često ažuriraju statistički podaci poretka?"
+
+#: affiliates/facebook/templates/facebook/faq.html:167
+msgid ""
+"The leaderboard updates every day at midnight Pacific Time, so be sure to "
+"check in to see where you stand."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:182
+msgid ""
+"No, though from time to time we may run contests to see who can get the most"
+" clicks for different Firefox products and campaigns. The winners will get "
+"Firefox T-shirts, hoodies and other awesome things we have at Mozilla HQ."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:202
+msgid ""
+"Let us know. Send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and tell us what the problem "
+"is."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/first_run.html:8
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:17
+#, fuzzy
+msgid "Welcome to Firefox Affiliates"
+msgstr "Dobrodošli u Firefox Affiliates program."
+
+#: affiliates/facebook/templates/facebook/first_run.html:11
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:20
+msgid ""
+"This is your one stop shop for telling the world about the only browser that"
+" puts you first: Firefox! Start now by building a banner to post on your "
+"Facebook profile. Get a ton of clicks and we may feature you in a Firefox ad"
+" (with your permission, of course) or send you some great Firefox gear."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/first_run.html:20
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:31
+msgid "Let's go!"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/leaderboard.html:11
+msgid "Affiliates with the most clicks"
+msgstr ""
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:23
+#: affiliates/links/templates/links/widgets/leaderboard.html:4
+msgid "Rank"
+msgstr ""
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:25
+msgid "User"
+msgstr ""
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:2
+msgid "Hi there!"
+msgstr ""
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:5
+msgid ""
+"Thank you for linking your Firefox Affiliates account with the Affiliates "
+"Facebook application. Please click on the link below and you'll get credit "
+"for any clicks that you drive through Facebook on the main Affiliates "
+"leaderboard."
+msgstr ""
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:10
+msgid ""
+"If you didn't request to link your account, just ignore this e-mail and your"
+" account will not be linked."
+msgstr ""
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:15
+msgid "The Firefox Affiliates team"
+msgstr "Firefox Affiliates ekipa"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:3
+msgid ""
+"Download Firefox (Large Firefox logo rising in front of an orange "
+"background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:5
+msgid "Download Firefox (Small Firefox logo on a light blue background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:7
+msgid ""
+"Download Firefox (Large Firefox logo resting on a light blue background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:9
+msgid ""
+"Download Firefox (For Android. A mobile phone in front of a faded Firefox "
+"logo with a light blue background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:11
+msgid ""
+"Download Firefox (For Android. A mobile phone displaying a large Firefox "
+"logo on its screen, over a light blue background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:13
+msgid ""
+"Download Firefox (For Android. Firefox logo floating over a mobile phone "
+"resting on an orange background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:15
+msgid ""
+"Download Firefox (Person in a Firefox costume jumping happily on a beach)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:17
+msgid ""
+"Download Firefox (For Android. A mobile phone running Firefox for Android "
+"next to a coffee cup with the Firefox logo on it)"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/strings.html:21
+#, fuzzy
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"elegible for fun stuff like Firefox T-shirts. While we do send out prizes "
+"and gifts to our Affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Firefox Affiliate banneri predstavljaju dio HTML kôda kojeg postavljate na "
+"vašu web stranicu ili blog kako biste potaknuli posjetitelje na preuzimanje "
+"Firefoxa. Kada posjetitelj klikne na banner kojeg ste postavili na stranicu "
+"i preuzme Firefox, vama pripada zasluga za to preuzimanje. Affiliate članovi"
+" koji ostvare velik broj preuzimanja, bit će objavljeni na popisu vodećih "
+"članova, te će biti kvalificirani za dobivanje zanimljivih nagrada, poput "
+"Firefox majice. Iako povremeno šaljemo nagrade i poklone našim affiliate "
+"članovima, Firefox Affiliate program ne isplaćuje novac u razmjenu za "
+"objavljene bannere."
+
+#: affiliates/facebook/templates/facebook/strings.html:22
+msgid "Mozilla Firefox"
+msgstr "Mozilla Firefox"
+
+#: affiliates/facebook/templates/facebook/strings.html:23
+msgid ""
+"Different by design. It's fast, flexible and secure. Share Firefox with your"
+" friends today."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/strings.html:27
+msgid "You will lose credit for all your clicks on this banner."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/strings.html:31
+msgid "Newsletter subscription unavailable at this time."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/strings.html:32
+msgid ""
+"I'd like to receive the Firefox Affiliate newsletter and periodic Firefox "
+"Affiliates updates via email."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:4
+msgid "Current banners"
+msgstr ""
+
+#. L10n: "Woot" (w00t) as in internet slang expressing happiness.
+#: affiliates/links/middleware.py:19
+msgid ""
+"Woot! You've driven {num_downloads} downloads and {num_clicks} clicks since "
+"your last visit. Keep rockin'!"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:12
+#: affiliates/links/templates/links/detail.html:24
+msgid "Banner Details"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:31
+msgid "Created:"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:34
+msgid "Clicks:"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:36
+msgid "Linked URL:"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:40
+#, fuzzy
+msgid "Size:"
+msgstr "Veličina"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Embed code:"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Use this code to embed this banner on your website."
+msgstr ""
+
+#: affiliates/links/templates/links/leaderboard.html:15
+#, fuzzy
+msgid "Top Affiliates"
+msgstr "O Affiliates programu"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:5
+#: affiliates/users/models.py:18
+#, fuzzy
+msgid "Affiliate"
+msgstr "O Affiliates programu"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:6
+msgid "Number of clicks"
+msgstr ""
+
+#: affiliates/statistics/templates/statistics/category.html:8
+#, fuzzy
+msgid "{category} Metrics"
+msgstr "pretpregled kategorije"
+
+#: affiliates/statistics/templates/statistics/category.html:26
+msgid "Banners"
+msgstr ""
+
+#: affiliates/statistics/templates/statistics/index.html:18
+msgid ""
+"Take a look at the impact our Affiliates make on increasing awareness of "
+"Mozilla and its products."
+msgstr ""
+
+#: affiliates/statistics/templates/statistics/index.html:22
+msgid "Key Metrics"
+msgstr ""
+
+#: affiliates/statistics/templates/statistics/index.html:36
+#, fuzzy
+msgid "Categories"
+msgstr "pretpregled kategorije"
+
+#: affiliates/users/views.py:30
+#, fuzzy
+msgid "Your profile has been updated!"
+msgstr "Vaš profil je uspješno ažuriran!"
+
+#: affiliates/users/views.py:45
+msgid "You must be logged in to view that page."
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:21
+#, fuzzy
+msgid "Name: {display_name}"
+msgstr "Vaše ime"
+
+#: affiliates/users/templates/users/profile.html:26
+msgid "Biography: {biography_text}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:31
+#, fuzzy
+msgid "Edit your profile"
+msgstr "Uredite svoj korisnički profil"
+
+#: affiliates/users/templates/users/profile.html:57
+msgid "Stats"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:65
+msgid "Milestones"
+msgstr ""
+
+#~ msgid ""
+#~ "Check out how many people have clicked to download Firefox. <br> Where are "
+#~ "you on the leaderboard? <br> Leaderboard statics are updated at midnight PT "
+#~ "each day."
+#~ msgstr ""
+#~ "Provjerite koliko ljudi preuzima Firefox. <br> Koja je vaša pozicija u "
+#~ "poretku? <br> Statistike poretka se ažuriraju svakoga dana u ponoć (PST "
+#~ "vremenska zona)."
+
+#~ msgid "TOP 5 AFFILIATES WITH THE MOST FIREFOX CLICKS"
+#~ msgstr "TOP 5 AFFILIATES ČLANOVA S NAJVIŠE FIREFOX PREUZIMANJA"
+
+#~ msgid "USER"
+#~ msgstr "KORISNIK"
+
+#~ msgid "CLICKS"
+#~ msgstr "KLIKOVI"
+
+#~ msgid "Follow these easy steps to create a new banner:"
+#~ msgstr "Slijedite ove jednostavne korake kako biste stvorili novi banner:"
+
+#~ msgid "Follow these easy steps to get started:"
+#~ msgstr "Slijedite ove jednostavne korake da biste započeli:"
+
+#~ msgid "PICK A CATEGORY"
+#~ msgstr "ODABERITE KATEGORIJU"
+
+#~ msgid "PICK A BANNER"
+#~ msgstr "ODABERITE BANNER"
+
+#~ msgid "CONFIGURE &amp; POST"
+#~ msgstr "PODESITE I OBJAVITE"
+
+#~ msgid "&laquo; Back"
+#~ msgstr "&laquo; Natrag"
+
+#~ msgid "CREATION DATE:"
+#~ msgstr "DATUM STVARANJA:"
+
+#~ msgid "CLICKS:"
+#~ msgstr "KLIKOVI:"
+
+#~ msgid "LINKED URL:"
+#~ msgstr "POVEZANI URL:"
+
+#~ msgid "EMBED CODE:"
+#~ msgstr "KÔD ZA UMETANJE:"
+
+#~ msgid "You"
+#~ msgstr "Vi"
+
+#~ msgid "Your total"
+#~ msgstr "Vaš zbroj"
+
+#~ msgid "Start Spreading the Word!"
+#~ msgstr "Započnite širiti riječ!"
+
+#~ msgid "You have <span>0</span> banners posted."
+#~ msgstr "Imate <span>0</span> objavljenih bannera."
+
+#~ msgid "Category: <span>%(category_name)s</span>"
+#~ msgstr "Kategorija: <span>%(category_name)s</span>"
+
+#~ msgid ""
+#~ "Now choose the type of <span>%(subcategory_name)s</span> banner you want to "
+#~ "display on your website or blog:"
+#~ msgstr ""
+#~ "Sada odaberite vrstu <span>%(subcategory_name)s</span> bannera koju želite "
+#~ "objaviti na vašoj web stranici ili blogu:"
+
+#~ msgid ""
+#~ "Finally, choose the size and color of your <span>%(subcategory_name)s</span>"
+#~ " banner, then you can copy its code onto your website or blog."
+#~ msgstr ""
+#~ "Naposljetku, odaberite veličinu i boju vašeg "
+#~ "<span>%(subcategory_name)s</span> bannera, te kopirajte kôd na svoju web "
+#~ "stranicu ili blog."
+
+#~ msgid "%(width)sx%(height)s pixels"
+#~ msgstr "%(width)sx%(height)s piksela"
+
+#~ msgid "Save Banner &raquo;"
+#~ msgstr "Spremi banner &raquo;"
+
+#~ msgid "SIZE"
+#~ msgstr "VELIČINA"
+
+#~ msgid "You're almost there!"
+#~ msgstr "Još malo i gotovi ste!"
+
+#~ msgid ""
+#~ "Fill out the form below to finish your registration and begin creating "
+#~ "banners."
+#~ msgstr ""
+#~ "Da biste završili registraciju i započeli stvarati bannere, ispunite obrazac"
+#~ " u nastavku."
+
+#~ msgid "Latest News"
+#~ msgstr "Posljednje novosti"
+
+#~ msgid "The new Firefox Affiliates program is live!"
+#~ msgstr "Novi Firefox Affiliates program je u akciji!"
+
+#~ msgid ""
+#~ "Welcome to the new Firefox Affiliates program. Have a look around the site, "
+#~ "grab some buttons and get on the leaderboard. Have feedback? Let us know at "
+#~ "affiliates@mozilla.org."
+#~ msgstr ""
+#~ "Dobrodošli u novi Firefox Affiliates program. Istražite stranice, preuzmite "
+#~ "bannere i pojavite se u ukupnom poretku. Imate povratne informacije? Javite "
+#~ "nam se na affiliates@mozilla.org."
+
+#~ msgid "Help us make Firefox Affiliates better"
+#~ msgstr "Pomognite nam učiniti Firefox Affiliates program još boljim"
+
+#~ msgid ""
+#~ "Firefox Affiliates has been live for a while now, but we need your help to "
+#~ "keep making improvements to the system. If you are a web developer familiar "
+#~ "with HTML, CSS, Python or Django and want to get involved with Mozilla, "
+#~ "please contact us at affiliates@mozilla.org ."
+#~ msgstr ""
+#~ "Firefox Affiliates program postoji već neko vrijeme, ali potrebna nam je "
+#~ "Vaša pomoć da unaprijedimo sustav. Ako ste web programer upoznat s HTML-om, "
+#~ "CSS-om, Pythonom ili Djangom, te se želite pridružiti Mozilli, kontaktirajte"
+#~ " nas na affiliates@mozilla.org ."
+
+#~ msgid "Tell the world about Firefox for Android"
+#~ msgstr "Recite svijetu o Firefox-u za Android"
+
+#~ msgid ""
+#~ "Firefox for Android is here and we'd like your help in spreading the word. "
+#~ "Just create a Firefox for Android banner and add it to your site in one of "
+#~ "more than 30 languages. The affiliate responsible for the most Firefox for "
+#~ "Android clicks will get a Firefox hoodie. If you have ideas for other "
+#~ "buttons or want to help with Firefox Affiliates, please contact us at "
+#~ "affiliates@mozilla.org ."
+#~ msgstr ""
+#~ "Firefox za Android je došao i željeli bismo Vašu pomoć u širenju te vijesti."
+#~ " Dovoljno je stvoriti Firefox za Android natpis i dodati ga na svoju "
+#~ "stranicu u jednom od preko 30 jezika. Partner zaslužan za najviše Firefox za"
+#~ " Android klikova dobit će Firefox kapuljaču. Ako imate ideje za druge tipke "
+#~ "ili želite pomoći Firefox Affiliates programu, molimo kontaktirajte nas na "
+#~ "affiliates@mozilla.org ."
+
+#~ msgid ""
+#~ "The Firefox Affiliates program is a great way to share your love of Mozilla "
+#~ "Firefox."
+#~ msgstr ""
+#~ "Firefox Affiliates program je sjajan način za širenje vaše ljubavi prema "
+#~ "Mozilli Firefox."
+
+#~ msgid ""
+#~ "BrowserID could not verify your identity. Visit <a "
+#~ "href=\"{url}\">browserid.org</a> for more information."
+#~ msgstr ""
+#~ "BrowserID nije uspio ovjeriti vaš identitet. Za više informacija posjetite "
+#~ "<a href=\"{url}\">browserid.org</a>."
+
+#~ msgid "Why should I share my mailing address with Firefox Affiliates?"
+#~ msgstr "Zašto bih podijelio svoju adresu s Firefox Affiliate programom?"
+
+#~ msgid ""
+#~ "While you have our deepest gratitude for spreading the word about Firefox "
+#~ "every day, from time to time we like to thank our amazing Affiliates "
+#~ "community with things like Firefox T-shirts &mdash; if we have your address "
+#~ "on file, that is."
+#~ msgstr ""
+#~ "Za svakodnevno širenje riječi o Firefoxu, od nas imate najiskreniju "
+#~ "zahvalnost, a s vremena na vrijeme se želimo zahvaliti sjajnoj Affiliates "
+#~ "zajednici s nagradama poput Firefox majicama. Naravno, ako imamo vašu "
+#~ "adresu."
+
+#~ msgid ""
+#~ "The Firefox Affiliates program is a great way to share your love of Firefox "
+#~ "and other Mozilla products. Host buttons on your site and climb your way to "
+#~ "fame on the leaderboard. <a href=\"#\" class=\"show_tooltip\" "
+#~ "target=\"tooltip_home\">Learn more &raquo;</a>"
+#~ msgstr ""
+#~ "Firefox Affiliates program je sjajan način za širenje Vaše ljubavi prema "
+#~ "Firefoxu i ostalim Mozillinim proizvodima. Postavite Firefox bannere na Vašu"
+#~ " web stranicu i započnite uspon na ljestvici affiliates članova. <a "
+#~ "href=\"#\" class=\"show_tooltip\" target=\"tooltip_home\">Saznajte više "
+#~ "&raquo;</a>"
+
+#~ msgid ""
+#~ "Firefox Affiliates is the go-to place for Firefox fans and Mozillians to get"
+#~ " promotional buttons and links that encourage users to download Firefox. We "
+#~ "do send out prizes and gifts to our affiliates from time to time, but "
+#~ "Firefox Affiliates does not offer monetary rewards for hosting Firefox "
+#~ "buttons. That warm, fuzzy feeling in your heart will have to do."
+#~ msgstr ""
+#~ "Firefox Affiliates je pravo mjesto gdje ljubitelji Firefoxa i Mozilliani "
+#~ "mogu pronaći promotivne bannere i linkove kojima možete ostale korisnike "
+#~ "potaknuti na preuzimanje Firefoxa. Firefox Affiliate program ne nudi isplatu"
+#~ " novca, ali s vremena na vrijeme svojim affiliate članovima šaljemo nagrade "
+#~ "i poklone, stoga ćete se morati zadovoljiti toplim i ugodnim osjećajem u "
+#~ "srcu."
+
+#~ msgid "Sign up and become an affiliate today!"
+#~ msgstr "Registrirajte se i postanite affiliate član još danas!"
+
+#~ msgid "Share on Facebook &raquo;"
+#~ msgstr "Podijelite na Facebooku &raquo;"
+
+#~ msgid "Don't have an account?"
+#~ msgstr "Nemate korisnički račun?"
+
+#~ msgid "Want to be a Firefox Affiliate?"
+#~ msgstr "Želite li postati Firefox affiliate član?"
+
+#~ msgid "Sign up now and start spreading the word."
+#~ msgstr "Registrirajte se odmah i počnite širiti riječ."
+
+#~ msgid "Please enter a password."
+#~ msgstr "Upišite svoju lozinku."
+
+#~ msgid "Passwords must match."
+#~ msgstr "Lozinke se moraju podudarati."
+
+#~ msgid "Passwords must be at least 8 characters long."
+#~ msgstr "Lozinke moraju sadržavati 8 ili više znakova."
+
+#~ msgid "Passwords must contain at least 1 letter and 1 number."
+#~ msgstr "Lozinke moraju sadržavati barem 1 slovo i 1 broj."
+
+#~ msgid ""
+#~ "We are having trouble reaching your email address. Please try a different "
+#~ "address or contact an administrator."
+#~ msgstr ""
+#~ "Imamo poteškoća kontaktirati vas putem e-pošte. Pokušajte upisati drugu "
+#~ "adresu e-pošte ili se obratite administratoru."
+
+#~ msgid "Please enter an email address."
+#~ msgstr "Upišite adresu e-pošte."
+
+#~ msgid "A user with that email address already exists."
+#~ msgstr "Korisnik s tom adresom e-pošte već postoji."
+
+#~ msgid "Email or password incorrect."
+#~ msgstr "Netočna lozinka ili adresa e-pošte."
+
+#~ msgid "This account is inactive."
+#~ msgstr "Ovaj korisnički račun je neaktivan."
+
+#~ msgid "Please enter a display name."
+#~ msgstr "Upišite ime."
+
+#~ msgid "You must agree to the terms of service and privacy policy to register."
+#~ msgstr ""
+#~ "Da biste se registrirali, trebate prihvatiti uvjete korištenja i politiku "
+#~ "privatnosti."
+
+#~ msgid "Password"
+#~ msgstr "Lozinka"
+
+#~ msgid "Email address"
+#~ msgstr "Adresa e-pošte"
+
+#~ msgid "New Password"
+#~ msgstr "Nova lozinka"
+
+#~ msgid "Retype Password"
+#~ msgstr "Ponovno upišite lozinku"
+
+#~ msgid "Full Name"
+#~ msgstr "Potpuno ime"
+
+#~ msgid "Street"
+#~ msgstr "Ulica"
+
+#~ msgid "Apartment or Unit # (optional)"
+#~ msgstr "Stan ili jedinica (neobavezno)"
+
+#~ msgid "City"
+#~ msgstr "Grad"
+
+#~ msgid "State or Province"
+#~ msgstr "Županija ili pokrajina"
+
+#~ msgid "ZIP or Postal Code"
+#~ msgstr "Poštanski broj"
+
+#~ msgid "Your password"
+#~ msgstr "Vaša lozinka"
+
+#~ msgid "This email is already taken! Please try again."
+#~ msgstr "Ova adresa e-pošte je zauzeta! Pokušajte ponovno."
+
+#~ msgid "Please activate your Firefox Affiliates account"
+#~ msgstr "Molimo vas da aktivirate svoj Firefox Affiliates korisnički račun"
+
+#~ msgid "Display name"
+#~ msgstr "Ime"
+
+#~ msgid "Address Line 1"
+#~ msgstr "Adresa (prva linija)"
+
+#~ msgid "Address Line 2"
+#~ msgstr "Adresa (druga linija)"
+
+#~ msgid "Please complete your user profile"
+#~ msgstr "Molim dopunite svoj korisnički profil"
+
+#~ msgid "Email"
+#~ msgstr "E-pošta"
+
+#~ msgid "Email verified"
+#~ msgstr "Adresa e-pošte verificirana"
+
+#~ msgid ""
+#~ "Your email address has been verified. You may now <a href=\"%(href)s\">log "
+#~ "in from the homepage</a>."
+#~ msgstr ""
+#~ "Vaša adresa e-pošte je verificirana. Možete se <a "
+#~ "href=\"%(href)s\">prijaviti na početnoj stranici</a>."
+
+#~ msgid "Activation failed"
+#~ msgstr "Aktivacija neuspješna"
+
+#~ msgid ""
+#~ "We could not activate your account. Please make sure that you have clicked "
+#~ "the correct link in your email or typed in the correct address."
+#~ msgstr ""
+#~ "Nismo mogli aktivirati vaš korisnički račun. Provjerite da ste kliknuli na "
+#~ "ispravan link u vašoj e-pošti ili jeste li upisali ispravnu adresu."
+
+#~ msgid ""
+#~ "We've just sent an activation email to: <span>%(email)s <a "
+#~ "href=\"%(homepage)s\">(Change)</a></span>"
+#~ msgstr ""
+#~ "Upravo smo poslali aktivacijsku e-poštu na: <span>%(email)s <a "
+#~ "href=\"%(homepage)s\">(promijeni)</a></span>"
+
+#~ msgid ""
+#~ "Please click on the link provided in the email to verify that your email is "
+#~ "valid."
+#~ msgstr ""
+#~ "Da biste verificirali svoju adresu e-pošte, kliknite na poveznicu u poruci."
+
+#~ msgid "Welcome to Firefox Affiliates."
+#~ msgstr "Dobrodošli u Firefox Affiliates program."
+
+#~ msgid ""
+#~ "Before you can use your new account you must activate it -- this ensures the"
+#~ " email address you used is valid and belongs to you. To activate your "
+#~ "account, click the link below or copy and paste the whole thing into your "
+#~ "browser's location bar:"
+#~ msgstr ""
+#~ "Prije nego što počnete koristiti korisnički račun, trebat ćete ga "
+#~ "aktivirati. Ovime se potvrđuje da je adresa e-pošte koju ste upisali vaša i "
+#~ "ispravna. Da biste aktivirali račun, kliknite na poveznicu u nastavku ili je"
+#~ " kopirajte i zalijepite u adresnu traku web preglednika:"
+
+#~ msgid ""
+#~ "Once you've successfully activated your account, you can throw away this "
+#~ "email."
+#~ msgstr ""
+#~ "Nakon što uspješno aktivirate svoj korisnički račun, ovu poruku možete "
+#~ "obrisati."
+
+#~ msgid "Firefox Affiliates Password Reset"
+#~ msgstr "Resetiranje Firefox Affiliates lozinke"
+
+#~ msgid ""
+#~ "A request was received to reset the password for this account on Firefox "
+#~ "Affiliates. To change this password please click on the following link, or "
+#~ "paste it into your browser's location bar:"
+#~ msgstr ""
+#~ "Zaprimljen je zahtjev za resetiranje lozinke za ovaj Firefox Affiliates "
+#~ "korisnički račun. Da biste promijenili lozinku, kliknite na poveznicu u "
+#~ "nastavku ili je kopirajte i zalijepite u adresnu traku web preglednika:"
+
+#~ msgid "If you did not request this email there is no need for further action."
+#~ msgstr "Ako niste zatražili ovu poruku, ne trebate ništa učiniti."
+
+#~ msgid "<span>*</span> Required"
+#~ msgstr "<span>*</span> Obavezno"
+
+#~ msgid "USERNAME <span class=\"required_star\">*</span>"
+#~ msgstr "KORISNIČKO IME <span class=\"required_star\">*</span>"
+
+#~ msgid ""
+#~ "Your username is your online identity, so use somenthing you are comfortable"
+#~ " with everyone seeing. Take into account that you won't be able to change "
+#~ "your username in the future."
+#~ msgstr ""
+#~ "Vaše korisničko ime je vaš online identitet, stoga koristite nešto s čime "
+#~ "nećete imati ništa protiv da vide ostali korisnici. Uzmite u obzir kako "
+#~ "kasnije nećete moći promijeniti vaše korisničko ime."
+
+#~ msgid "SUGGESTIONS"
+#~ msgstr "PRIJEDLOZI"
+
+#~ msgid "Save &raquo;"
+#~ msgstr "Spremi &raquo;"
+
+#~ msgid "DISPLAY NAME"
+#~ msgstr "IME"
+
+#~ msgid "NEW PASSWORD"
+#~ msgstr "NOVA LOZINKA"
+
+#~ msgid "RETYPE PASSWORD"
+#~ msgstr "PONOVNO UPIŠITE LOZINKU"
+
+#~ msgid ""
+#~ "8 or more characters, include Latin letters and numbers. Note: No one else "
+#~ "can see your password."
+#~ msgstr ""
+#~ "8 ili više znakova, uključujući latinična slova i brojeve. Napomena: nitko "
+#~ "drugi ne može vidjeti vašu lozinku."
+
+#~ msgid "ADDRESS"
+#~ msgstr "ADRESA"
+
+#~ msgid ""
+#~ "Why should I provide my mailing address? <br/><br/> From time to time, we "
+#~ "may send you Mozilla T-shirts or other cool stuff in the mail. If you'd like"
+#~ " to get stuff from us, please share your mailing address, but it's not "
+#~ "mandatory to be part of the Firefox Affiliates program."
+#~ msgstr ""
+#~ "Zašto bih podijelio/la svoju adresu? <br/><br/> S vremena na vrijeme, možda "
+#~ "ćemo vam poštom poslati Mozilla majicu ili ostale zanimljive stvari. Ako "
+#~ "biste htjeli primiti naše stvari, molimo Vas da upišete svoju adresu, iako "
+#~ "ona nije obavezna za sudjelovanje u Firefox Affiliates programu."
+
+#~ msgid "Save my changes &raquo;"
+#~ msgstr "Spremi moje promjene &raquo;"
+
+#~ msgid "Cancel &raquo;"
+#~ msgstr "Otkaži &raquo;"
+
+#~ msgid "Log in &raquo;"
+#~ msgstr "Prijava &raquo;"
+
+#~ msgid "Remember me"
+#~ msgstr "Zapamti me"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Zaboravili ste lozinku?"
+
+#~ msgid "LANGUAGE"
+#~ msgstr "JEZIK"
+
+#~ msgid ""
+#~ "Your country and language were automatically detected by your IP location, "
+#~ "but you are welcome to change them here."
+#~ msgstr ""
+#~ "Na temelju vaše IP adrese, vaša država i jezik su automatski postavljeni, "
+#~ "ali možete ih promijeniti ovdje."
+
+#~ msgid "COUNTRY"
+#~ msgstr "DRŽAVA"
+
+#~ msgid ""
+#~ "I wish to receive information and notifications about Firefox and Mozilla "
+#~ "via email."
+#~ msgstr ""
+#~ "Želim primati informacije i obavijesti o Firefoxu i Mozilli putem e-pošte."
+
+#~ msgid ""
+#~ "I agree to the Firefox Affiliates <a href=\"%(tos)s\">terms of service</a> "
+#~ "and Mozilla <a href=\"%(privacy_policy)s\">Privacy Policy</a>"
+#~ msgstr ""
+#~ "Slažem se s <a href=\"%(tos)s\">uvjetima korištenja</a> Firefox Affiliates "
+#~ "programa i Mozilline <a href=\"%(privacy_policy)s\">politike privatnosti</a>"
+
+#~ msgid "Register &raquo;"
+#~ msgstr "Registracija &raquo;"
+
+#~ msgid "Password reset successful!"
+#~ msgstr "Lozinka uspješno resetirana!"
+
+#~ msgid ""
+#~ "You have successfully changed your password. <a href=\"%(href)s\">Return to "
+#~ "the home page and log in using your new password</a>."
+#~ msgstr ""
+#~ "Uspješno ste promijenili svoju lozinku. <a href=\"%(href)s\">Vratite se na "
+#~ "početnu stranicu i prijavite se s novom lozinkom</a>."
+
+#~ msgid "Password Reset"
+#~ msgstr "Resetiranje lozinke"
+
+#~ msgid "CONFIRM PASSWORD"
+#~ msgstr "POTVRDA LOZINKE"
+
+#~ msgid "Reset password &raquo;"
+#~ msgstr "Resetiranje lozinke &raquo;"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Lozinka neuspješno resetirana"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used. <a href=\"%(href)s\">Please request a new password reset.</a>"
+#~ msgstr ""
+#~ "Neispravna poveznica za resetiranje lozinke. Moguće je da je poveznica već "
+#~ "iskorištena. <a href=\"%(href)s\">Zatražite novo resetiranje lozinke.</a>"
+
+#~ msgid ""
+#~ "We've sent an email to any account using this email address. Please follow "
+#~ "the link in the email to reset your password."
+#~ msgstr ""
+#~ "Poslali smo e-poštu na bilo koji korisnički račun koji koristi ovu adresu "
+#~ "e-pošte. Da biste resetirali lozinku, molimo Vas da slijedite poveznicu u "
+#~ "poruci."
+
+#~ msgid "Forgot password on Firefox Affiliates!"
+#~ msgstr "Zaboravljena lozinka za Firefox Affiliates program!"
+
+#~ msgid "Please enter your e-mail and we'll reset your password:"
+#~ msgstr "Upišite vašu adresu e-pošte i resetirat ćemo vam lozinku:"
+
+#~ msgid "Send &raquo;"
+#~ msgstr "Pošalji &raquo;"
+
+#~ msgid ""
+#~ "Please click on the link provided in the e-mail to access your Affiliates "
+#~ "account."
+#~ msgstr ""
+#~ "Da biste pristupili vašem Affiliates korisničkom računu, molimo vas da "
+#~ "kliknete na poveznicu u poruci."
+
+#~ msgid ""
+#~ "Did you make a left at that last URL instead of a right? No problem. Unless "
+#~ "you want us to deal you in, here are some tips to get you back on your way:"
+#~ msgstr ""
+#~ "Jeste li krivo skrenuli kod posljednjeg URL-a? Nema problema. Osim ako nam "
+#~ "se ne želite pridružiti u kartanju, evo vam nekoliko savjeta za povratak na "
+#~ "pravi put:"
+
+#~ msgid ""
+#~ "If you’re not sure what you’re looking for, start at <a "
+#~ "href=\"%(href)s\">mozilla.org</a>."
+#~ msgstr ""
+#~ "Ako niste sigurni što tražite, krenite od <a "
+#~ "href=\"%(href)s\">mozilla.org</a>."
+
+#~ msgid "An Error Occurred"
+#~ msgstr "Došlo je do greške"
+
+#~ msgid ""
+#~ "Oh, no! It looks like an unexpected error occurred. We've already notified "
+#~ "the site administrators. Please try again now, or in a few minutes."
+#~ msgstr ""
+#~ "O, ne! Čini se da je došlo do neočekivane greške. Već smo obavijestili "
+#~ "administratore stranice. Molimo vas da pokušate ponovno sada ili za nekoliko"
+#~ " minuta."
+
+#~ msgid "custom-css"
+#~ msgstr "custom-css"
+
+#~ msgid "Firefox<span>Affiliates</span>"
+#~ msgstr "Firefox<span>Affiliates</span>"
+
+#~ msgid "Everything you need to share Firefox with the world."
+#~ msgstr "Sve što vam je potrebno za dijeljenje Firefoxa sa svijetom."
+
+#~ msgid "Let’s be <span>friends!</span>"
+#~ msgstr "Postanimo <span>prijatelji!</span>"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "More Ways to Connect"
+#~ msgstr "Više načina za spajanje"
+
+#~ msgid "Want us to keep in touch?"
+#~ msgstr "Želite li da ostanemo u kontaktu?"
+
+#~ msgid "Get Monthly News <span>»</span>"
+#~ msgstr "Primajte mjesečne novosti <span>»</span>"
+
+#~ msgid "Back to home page"
+#~ msgstr "Povratak na početnu stranicu"
+
+#~ msgid "Desktop"
+#~ msgstr "Desktop"
+
+#~ msgid "Features"
+#~ msgstr "Mogućnosti"
+
+#~ msgid "Security"
+#~ msgstr "Sigurnost"
+
+#~ msgid "Customization"
+#~ msgstr "Prilagodba"
+
+#~ msgid "Technology"
+#~ msgstr "Tehnologija"
+
+#~ msgid "Videos"
+#~ msgstr "Video snimke"
+
+#~ msgid "Tour"
+#~ msgstr "Obilazak"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobile"
+
+#~ msgid "Mobile Overview"
+#~ msgstr "Mobile pregled"
+
+#~ msgid "Download"
+#~ msgstr "Preuzmite"
+
+#~ msgid "Sync"
+#~ msgstr "Sinkronizirajte"
+
+#~ msgid "Develop"
+#~ msgstr "Razvijte"
+
+#~ msgid "Get Involved"
+#~ msgstr "Uključite se"
+
+#~ msgid "FAQ"
+#~ msgstr "ČPP"
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Add-ons"
+#~ msgstr "Dodaci"
+
+#~ msgid "Firefox Add-ons"
+#~ msgstr "Firefox dodaci"
+
+#~ msgid "Featured Add-ons"
+#~ msgstr "Izdvojeni dodaci"
+
+#~ msgid "Extensions"
+#~ msgstr "Proširenja"
+
+#~ msgid "Themes"
+#~ msgstr "Teme"
+
+#~ msgid "Personas"
+#~ msgstr "Persone"
+
+#~ msgid "Search Tools"
+#~ msgstr "Tražilice"
+
+#~ msgid "Language Support"
+#~ msgstr "Podrška za jezike"
+
+#~ msgid "Collections"
+#~ msgstr "Zbirke"
+
+#~ msgid "Mobile Add-ons"
+#~ msgstr "Mobile dodaci"
+
+#~ msgid "Developer Hub"
+#~ msgstr "Centar za razvijatelje"
+
+#~ msgid "Support"
+#~ msgstr "Podrška"
+
+#~ msgid "Firefox Support"
+#~ msgstr "Firefox podrška"
+
+#~ msgid "Mobile Support"
+#~ msgstr "Mobile podrška"
+
+#~ msgid "Thunderbird Support"
+#~ msgstr "Thunderbird podrška"
+
+#~ msgid "Participate"
+#~ msgstr "Sudjelujte"
+
+#~ msgid "Press Center"
+#~ msgstr "Centar za medije"
+
+#~ msgid "Careers"
+#~ msgstr "Zapošljavanje"
+
+#~ msgid "Legal"
+#~ msgstr "Pravne informacije"
+
+#~ msgid ""
+#~ "Except where otherwise <a href=\"%(legal_url)s\">noted</a>, content on this "
+#~ "site is licensed under the <br/> <a href=\"%(license_url)s\">Creative "
+#~ "Commons Attribution Share-Alike License v3.0</a> or any later version."
+#~ msgstr ""
+#~ "Sadržaj ove stranice je licenciran pod <a href=\"%(license_url)s\">Creative "
+#~ "Commons Attribution Share-Alike licencom v3.0</a> ili novijom, <br/> osim "
+#~ "ako nije drugačije <a href=\"%(legal_url)s\">navedeno</a>."
+
+#~ msgid "VIEW CURRENT BANNERS"
+#~ msgstr "PRIKAŽI TRENUTNE BANNERE"
+
+#~ msgid "MY BANNERS"
+#~ msgstr "MOJI BANNERI"
+
+#~ msgid "GET STARTED"
+#~ msgstr "ZAPOČNITE"
+
+#~ msgid "LOG OUT"
+#~ msgstr "ODJAVA"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "UREDI PROFIL"
+
+#~ msgid ""
+#~ "Firefox Affiliate buttons are a bit of html code that you put on your "
+#~ "website or blog to encourage visitors to your site to download Firefox. When"
+#~ " a visitor to your site clicks on a button on your site and visits the "
+#~ "Firefox download page, you get credit for that click."
+#~ msgstr ""
+#~ "Firefox Affiliate banneri predstavljaju dio HTML kôda kojeg postavljate na "
+#~ "Vašu web stranicu ili blog kako biste potaknuli posjetitelje na preuzimanje "
+#~ "Firefoxa. Kada posjetitelj klikne na banner koji ste postavili na stranicu i"
+#~ " posjeti Firefox stranicu za preuzimanje, Vama će pripasti zasluga za taj "
+#~ "klik."
+
+#~ msgid "Zip or Postal Code"
+#~ msgstr "Poštanski broj"
+
+#~ msgid "New"
+#~ msgstr "Novo"
+
+#~ msgid "BrowserID is here!"
+#~ msgstr "Stigao je BrowserID!"
+
+#~ msgid ""
+#~ "Firefox Affiliates has switched to <a "
+#~ "href=\"%(browserid_url)s\">BrowserID</a>. If you previously had an account, "
+#~ "use the login button below and sign up for BrowserID with the same email "
+#~ "address you used for signing up with Firefox Affiliates."
+#~ msgstr ""
+#~ "Firefox Affiliates prorgam se prebacio na <a "
+#~ "href=\"%(browserid_url)s\">BrowserID</a>. Ako ste već otvorili svoj "
+#~ "korisnički račun, kliknite na tipku za prijavu, te se registrirajte za "
+#~ "BrowserID s istom adresom e-pošte koju ste odabrali za registraciju na "
+#~ "Firefox Affiliates program."
+
+#~ msgid "Log In &raquo;"
+#~ msgstr "Prijava &raquo;"
+
+#~ msgid ""
+#~ "Want to be a Firefox Affiliate? Sign up using BrowserID by clicking the "
+#~ "registration button below."
+#~ msgstr ""
+#~ "Želite li postati Firefox affiliate član? Registrirajte se pomoću "
+#~ "BrowserID-a klikom na tipku za registraciju."
+
+#~ msgid "Download Firefox or Firefox for Android today."
+#~ msgstr "Recite svijetu o Firefox-u za Android"
+
+#~ msgid "Whoops! What are you doing here?"
+#~ msgstr "Što radite ovdje?"
+
+#~ msgid "Is there a prize for getting the most clicks?"
+#~ msgstr "Postoji li nagrada za najveći broj preuzimanja Firefoxa?"
+
+#~ msgid "Your Email Address"
+#~ msgstr "Adresa vaše e-pošte"
+
+#~ msgid "Create a New Banner &raquo;"
+#~ msgstr "Stvorite novi banner &raquo;"
+
+#~ msgid "The Firefox Affiliates Team"
+#~ msgstr "Firefox Affiliates ekipa"
+
+#~ msgid ""
+#~ "If you followed a link, it's probably broken. Please contact us and we'll "
+#~ "fix it."
+#~ msgstr ""
+#~ "Ako ste kliknuli na link, vjerojatno je nevažeći. Molimo vas da nam se <a "
+#~ "href=\"mailto:%(email)s\">javite</a> i popravit ćemo ga."
+
+#~ msgid "CREATE A NEW BANNER"
+#~ msgstr "STVORI NOVI BANNER"
+
+#~ msgid "ABOUT AFFILIATES"
+#~ msgstr "O AFFILIATES PROGRAMU"
+
+#~ msgid "skip to navigation"
+#~ msgstr "preskoči na navigaciju"
+
+#~ msgid "switch language"
+#~ msgstr "promjena jezika"
+
+#~ msgid "DOWNLOADS"
+#~ msgstr "PREUZIMANJA"
+
+#~ msgid "DOWNLOADS:"
+#~ msgstr "PREUZIMANJA:"
+
+#~ msgid "Directions"
+#~ msgstr "Upute"
+
+#~ msgid ""
+#~ "Copy the code below and paste it anywhere on your website or blog to link to"
+#~ " the Firefox download page. Your Firefox Affiliates ID is embedded in this "
+#~ "code."
+#~ msgstr ""
+#~ "Kopirajte ispod prikazani kôd, te ga dodajte bilo gdje na svoju web stranicu"
+#~ " ili blog kako biste stvorili poveznicu na stranicu preuzimanja Firefoxa. "
+#~ "Vaš Firefox affiliate ID će biti uključen u kôd."
+
+#~ msgid "Locale"
+#~ msgstr "Jezik"
+
+#~ msgid "name"
+#~ msgstr "naziv"
+
+#~ msgid "image size"
+#~ msgstr "veličina slike"
+
+#~ msgid "image color"
+#~ msgstr "boja slike"
+
+#~ msgid "image file"
+#~ msgstr "datoteka slike"
+
+#~ msgid "Receive emails"
+#~ msgstr "Primaj e-poštu"

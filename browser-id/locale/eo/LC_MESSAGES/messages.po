@@ -1,0 +1,824 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2012-08-06 22:21+0200\n"
+"Last-Translator: Eduardo <eduardo@esperanto.org.uy>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr ""
+
+#: lib/email.js:49
+#, fuzzy
+msgid "%(site)s: Complete password reset"
+msgstr "Reakiri pasvorton de Persona"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Pli bona maniero identigi sin"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Retesplorilo ne subtenata"
+
+#: lib/static/views.js:241
+#, fuzzy
+msgid "Unsupported Browser without Watch"
+msgstr "Retesplorilo ne subtenata"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Kuketoj ne estas akvitaj"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Pri"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Kondiĉoj de la servo"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Politiko pri privateco"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Kompleta registrado"
+
+#: resources/views/about.ejs:8
+#, fuzzy
+msgid "A simpler way to sign in."
+msgstr "Pli bona maniero identigi sin"
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona anstataŭas plurajn pasvortojn"
+
+#: resources/views/about.ejs:12
+#, fuzzy
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Retejoj kiel <a %(timesLink)s>The Times Crossword</a>, <a "
+"%(openphotoLink)s>OpenPhoto</a> kaj <a %(voostLink)s>Voost</a> uzas Persona "
+"anstataŭ nomojn de uzantoj por konekti vin."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"Tio signifas ke vi nur bezonos unu pasvorton por konekti al multaj retejoj."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "Unu pasvorto regas ilin ĉiujn."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Uzi plurajn retpoŝtajn adresojn"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Persona estas fleksebla"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"Ene de Persona, via idento estas via retpoŝta adreso. Vi povas uzi tiom da "
+"retpoŝtaj adresoj kiom vi volos, sed vi tamen bezonos nur unu pasvorton."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Reala privateco."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Por vi, Persona estas fiere neprofitcela"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Persona estas disvolvata de Mozilla, neprofitcela entrepreno fidata tra la "
+"Teksaĵa komunumo. Nia celo estas krei teĥnologion kiu ekvilibrigas "
+"malfermitan Teksaĵan kajon kaj homan privatecon."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona antaŭsavas vian privatecon"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona ne spuras vian agadon en la Teksaĵo. Ĝi kreas muron inter via "
+"konekto kaj kion vi faras tie. Historio pri la retejoj vizititaj de vi estos "
+"konservita nur en via komputilo."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona por disvolvantoj"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Funkciigi Persona-n en via retejo"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Gvidiloj kaj dokumentoj pri API por disvolvantoj"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Fino de la konekto al:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Lasta paŝo!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "Retpoŝta adreso"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Via retpoŝta adreso"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Pasvorto"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Nova pasvorto"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+#, fuzzy
+msgid "Password field required"
+msgstr "Pasvorto estas deviga."
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+#, fuzzy
+msgid "Password incorrect"
+msgstr "Pasvorto estas deviga."
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "fini"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona postulas kuketojn por povi memori vin."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Bonvolu fermi tiun ĉi fenestron, <a %s>aktivigi kuketojn</a> kaj klopodi "
+"denove"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr ""
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+
+#: resources/views/dialog.ejs:43
+#, fuzzy
+msgid "Persona password"
+msgstr "Reakiri pasvorton de Persona"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+#, fuzzy
+msgid "email address"
+msgstr "Retpoŝta adreso"
+
+#: resources/views/dialog.ejs:53
+#, fuzzy
+msgid "Must be an email address"
+msgstr "Tiu ĉi kampo devas esti retpoŝta adreso."
+
+#: resources/views/dialog.ejs:57
+#, fuzzy
+msgid "Email field required"
+msgstr "La kampo por retpoŝto estas deviga."
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+#, fuzzy
+msgid "Forgot your password?"
+msgstr "ĉu vi forgesis vian pasvorton?"
+
+#: resources/views/dialog.ejs:72
+#, fuzzy
+msgid "Enter password"
+msgstr "Tajpu pasvorton"
+
+#: resources/views/dialog.ejs:73
+#, fuzzy
+msgid "password"
+msgstr "Pasvorto"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+
+#: resources/views/dialog.ejs:99
+#, fuzzy
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Daŭriginte vi deklaros al %(persona)s ke vi akceptas la a <"
+"%(termsLink)s>kondiĉojn</a> kaj <a %(privacyLink)s>politikon pri privateco</"
+"a>."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr ""
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr ""
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "nuligi"
+
+#: resources/views/dialog.ejs:125
+#, fuzzy
+msgid "sign in"
+msgstr "Konekto"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr ""
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Konekto al Persona..."
+
+#: resources/views/dialog_layout.ejs:68
+#, fuzzy, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Persona.</strong> Simpligita konekto, kreita de neprofitcela "
+"organizo.  <a %s>Pli da informo&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Identigu vin per Mozilla Persona, la plej sekura kaj simpla maniero konekti."
+
+#: resources/views/index.ejs:12
+#, fuzzy
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr ""
+"<a %(aboutLink)s>Vizitu</a> aŭ <a %(signupButton)s>registru vin &rarr;</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "forigi"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr ""
+"Ĉu vi estas nova ĉe Mozilla Persona? <a %(learnMoreLink)s>Pli da informo</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Administrado de konto"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Via retpoŝta adreso"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "modifi"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "farita"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Malnova pasvorto"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Nova pasvorto"
+
+#: resources/views/index.ejs:72
+#, fuzzy
+msgid "Old password required"
+msgstr "Malnova pasvorto estas deviga."
+
+#: resources/views/index.ejs:75
+#, fuzzy
+msgid "Old password incorrect"
+msgstr "Malnova pasvorto estas deviga."
+
+#: resources/views/index.ejs:78
+#, fuzzy
+msgid "New password required"
+msgstr "Nova pasvorto estas deviga."
+
+#: resources/views/index.ejs:81
+#, fuzzy
+msgid "Passwords must be different"
+msgstr "Pasvorto estas deviga."
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+#, fuzzy
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Pasvortoj devas havi inter 8 kaj 80 signojn."
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "Vi rajtas, iam ajn, <a %(cancelLink)s>nuligi vian konton</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Ĉefpaĝo de Persona"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Kiel tio funkcias"
+
+#: resources/views/layout.ejs:36
+#, fuzzy
+msgid "Account"
+msgstr "Krei konton"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Konekto"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Malkonekto"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "De la <a %s>Identity Team</a> @ <a %s>Mozilla Labs</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Privateco &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "Kondiĉoj de servo (TOS)  &rarr;"
+
+#: resources/views/layout.ejs:60
+#, fuzzy
+msgid "Developers &rarr;"
+msgstr "Disvolvantoj"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Ĉu vi bezonas helpon? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "Ni bedaŭras tion, Persona postulas ke Javascript estu aktiva."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Reakiri pasvorton"
+
+#: resources/views/reset_password.ejs:24
+#, fuzzy, php-format
+msgid "Create a new password to use with %s"
+msgstr "Unu pasvorto regas ilin ĉiujn."
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Kontroli pasvorton"
+
+#: resources/views/reset_password.ejs:41
+#, fuzzy
+msgid "Verification password required"
+msgstr "Kontroli la pasvorton estas devige."
+
+#: resources/views/reset_password.ejs:45
+#, fuzzy
+msgid "Passwords don&rsquo;t match!"
+msgstr "Tiuj pasvortoj ne kongruas!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">Via retpoŝta adreso</strong> estis kontrolita!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr "Via nova adreso estas registrita kaj preta. Vi estos redirektita al %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Redirektado post %s sekundoj"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Ni bedaŭras tion, via retesplorilo ne estas subtenata."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Emblemo de Firefox"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona funkcias kun <a %(getFirefoxLink)s>Firefox</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "kaj aliaj <a %(otherBrowserLink)s>modernaj retesploriloj.</a>"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr ""
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+
+#: resources/email_templates/_footer.html.ejs:17
+#, fuzzy, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<strong>Persona.</strong> Simpligita konekto, kreita de neprofitcela "
+"organizo.  <a %s>Pli da informo&rarr;</a>"
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+#, fuzzy
+msgid "Click this link to confirm access to %(site)s:"
+msgstr ""
+"Alklaku por konfirmi tiun ĉi retpoŝtan adreson kaj aŭtomate konekti al %s"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+#, fuzzy
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr ""
+"Noto: se vi NE klopodas konekti al tiu retejo, bonvolu ignori tiun "
+"retmesaĝon."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+#, fuzzy
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr ""
+"<strong>Persona.</strong> Simpligita konekto, kreita de neprofitcela "
+"organizo.  <a %s>Pli da informo&rarr;</a>"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr ""
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+#, fuzzy
+msgid "Confirm your address now"
+msgstr "Konfirmi retpoŝtan adreson por Persona"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr ""
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "Ĉu vi forgesis vian pasvorton por Persona?  Tio povas okazi al iu ajn."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Klaku por reakiri vian pasvorton:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+#, fuzzy
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr ""
+"Noto: se vi NE klopodas konekti al tiu retejo, bonvolu ignori tiun "
+"retmesaĝon."
+
+#: resources/email_templates/reset.html.ejs:17
+#, fuzzy
+msgid "Reset your password now"
+msgstr "Reakiri pasvorton"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "Noto: se vi NE klopodas konekti al tiu retejo, bonvolu ignori tiun "
+#~ "retmesaĝon."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Simpligita konekto."
+
+#, fuzzy
+#~ msgid "Enter your email address"
+#~ msgstr "Konfirmi vian retpoŝtan adreson"
+
+#, fuzzy
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Reakiri pasvorton de Persona"
+
+#, fuzzy
+#~ msgid "enter email address"
+#~ msgstr "Uzi plurajn retpoŝtajn adresojn"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Dankon pro la uzado de Persona."
+
+#~ msgid "Thank you,"
+#~ msgstr "Dankon,"
+
+#~ msgid "The Persona team"
+#~ msgstr "La teamo de Persona"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Klaku por reakiri vian pasvorton:"
+
+#, fuzzy
+#~ msgid "Click to set your new password:"
+#~ msgstr "Klaku por reakiri vian pasvorton:"
+
+#, fuzzy
+#~ msgid "The Persona Team"
+#~ msgstr "La teamo de Persona"
+
+#, fuzzy
+#~ msgid "Click here to set your new password."
+#~ msgstr "Klaku por reakiri vian pasvorton:"
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr ""
+#~ "Tiu konto ne povas esti kontrolita per tiu nomo de uzanto kaj pasvorto."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Ni ĵus sendis retpoŝton al tiu adreso! Se vi vere volas sendi alian, "
+#~ "bonvolu atendi unu aŭ du minutojn kaj klopodu denove."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Tiu retpoŝta adreso kaj la pasvorto ne kongruas."
+
+#~ msgid "The password field is required."
+#~ msgstr "La kampo por pasvorto estas deviga."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "La malnova pasvorto ne ĝustas do la nova ne estis akceptita."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "Malnova kaj nova pasvortoj estas samaj."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "Konekto finita"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Forgesita pasvorto"
+
+#~ msgid "Email Verification"
+#~ msgstr "Kontrolado de retpoŝta adreso"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "Kontrolu vian retpoŝton ĉe <strong %(checkId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr ""
+#~ "Klaku la ligilon en la konfirma mesaĝo. Vi pasvorto estos poste "
+#~ "redifinita."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Neekzistanta uzanto!"
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Ĉu vi konas vian pasvorton? Konekiĝu."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr "Tiu ĉi fenestro fermiĝos nun kaj la kreado de konto daŭrigos."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "Kontroli vian retpoŝton ĉe <strong %(emailId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Klaku la ligilon en la konfirma retpoŝta mesaĝo. Vi estos tuj konektita "
+#~ "al Persona."
+
+#~ msgid "forgot your password?"
+#~ msgstr "ĉu vi forgesis vian pasvorton?"
+
+#, fuzzy
+#~ msgid "verify password"
+#~ msgstr "Kontroli pasvorton"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Daŭriginte vi deklaros al %(persona)s ke vi akceptas la a <"
+#~ "%(termsLink)s>kondiĉojn</a> kaj <a %(privacyLink)s>politikon pri "
+#~ "privateco</a>."
+
+#~ msgid "Verify Email"
+#~ msgstr "Kontroli retpoŝton"
+
+#, fuzzy
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "Por kontroli ĉu vi posedas la <strong %(emailId)s>adreson</strong>, vi "
+#~ "devas konektiĝi al via provizanto. Nova fenestro estos malfermita."
+
+#~ msgid "Verify"
+#~ msgstr "Kontroli"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Dankon pro la registrado ĉe <strong>Persona</strong>. Vi nun povas uzi "
+#~ "vian konton de <strong>Persona</strong> por <em>konekti</em> aŭ "
+#~ "<em>registri</em> en retejoj tra la tuta Teksaĵo!"
+
+#~ msgid "Sign Up"
+#~ msgstr "Registri"
+
+#~ msgid ""
+#~ "<strong %(emailId)s>Email</strong> is not registered. Would you like to "
+#~ "<a %(signUpLink)s>sign up</a> instead?"
+#~ msgstr ""
+#~ "Tiu <strong %(emailId)s>retpoŝto</strong> ne estas registrita. Ĉu vi "
+#~ "ŝatus anstataŭe <a %(signUpLink)s>registri vin</a>?"
+
+#~ msgid "New to Persona? Sign up today."
+#~ msgstr "Ĉu nova ĉe Persona? Registru vin nun."
+
+#~ msgid ""
+#~ "To verify that you own <strong %(primaryId)s>address</strong>, you must "
+#~ "sign in with your provider.  A new window will be opened."
+#~ msgstr ""
+#~ "Por kontroli ĉu vi posedas la <strong %(primaryId)s>adreson</strong>, vi "
+#~ "devas konektiĝi al via provizanto. Nova fenestro estos malfermita."
+
+#~ msgid ""
+#~ "<strong %(emailId)s></strong> is already registered. Would you like to <a "
+#~ "%(signInLink)s>sign in</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s></strong> jam estas registrita. Ĉu vi ŝatus anstataŭe "
+#~ "<a %(signInLink)s>konektiĝi</a>?"
+
+#~ msgid "Existing account? Sign in."
+#~ msgstr "Ĉu ekzistanta konto? Konektiĝu."
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Fini konekton al %s per Persona"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Komunikado kun la servilo"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Nur momenton, dum ni parolas kun la servilo."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "«Mozilla Persona» estas la maniero rapida kaj sekura por konektiĝi. <a "
+#~ "%s>Pli da informo &rarr;</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Dankon pro la kontrolado de via retpoŝta adreso.  Tiu ĉi mesaĝo estas "
+#~ "sendita al vi por kompletigi vian konekton al %s."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Finu la registradon per alklakado de tiu ĉi ligilo:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "Okazis eraro dum la klopodo konfirmi vian adreson. Ĉu vi antaŭe kontrolis "
+#~ "tiun ĉi adreson?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "Okazis eraro dum la klopodo fini la registradon."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "Via nova adreso estas agordita kaj vi jam devus esti konektita. Vi nun "
+#~ "povas fermi tiun ĉi fenestron kaj iri malantaŭen al"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "Okazis problemo kun via ligilo por konektiĝi. Ĉu tiu ĉi adreso jam estis "
+#~ "registrita?"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "Ĉefpaĝo de BrowserID"
+
+#~ msgid "TOS"
+#~ msgstr "Kondiĉoj de la servo (TOS)"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "Eraro dum komunikado kun la servilo."

@@ -1,0 +1,830 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-10-11 06:46+0000\n"
+"Last-Translator: Julen <julenx@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1381474015.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: Osatu saio-hasiera"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: Osatu pasahitz-berrezartzea"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Saioa hasteko modu hobe bat"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Euskarririk gabeko nabigatzailea"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "'Watch' euskarririk gabeko nabigatzailea"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Cookie-ak desgaituta daude"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Honi buruz"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Zerbitzuaren baldintzak"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Pribatutasun-politika"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Osatu erregistroa"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "Saioa hasteko modu sinpleagoa."
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona-k hainbat pasahitz ordezkatzen ditu"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Zenbait webgunek, adibidez <a %(webmakerLink)s>%(webmakerName)s</a>, <a "
+"%(openphotoLink)s>%(openphotoName)s</a> eta <a %(voostLink)s>%(voostName)s</"
+"a>-ek, erabiltzaile-izenen ordez Persona erabiltzen dute zure saio-hasiera "
+"burutzeko."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"Honek esan nahi du pasahitz bakarra behar duzula hainbat webgunetan saioa "
+"hasteko."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "Pasahitz bakarrak guztietarako balio du."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Erabili hainbat helbide elektroniko"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Persona moldagarria da"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"Persona-ren barruan zure helbide elektronikoa da zure identitatea. Nahi "
+"dituzun bezainbeste helbide elektroniko erabil ditzakezu baina pasahitz "
+"bakarra beharko duzu."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Benetako pribatutasuna."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Persona irabazi-asmorik gabekoa da"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Mozillak garatu du Persona, web komunitatearen konfiantza duen irabazi-"
+"asmorik gabeko enpresak. Web irekiaren eta jendearen pribatutasunaren arteko "
+"oreka duten teknologiak sortzea da gure helburua."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona-k zure pribatutasuna bermatzen du"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona-k ez du webean zehar zure jardueraren jarraipenik egiten. Horma bat "
+"sortzen du zure saio-hasieraren eta hortik aurrerako zure ekintzen artean. "
+"Bisitatu dituzun webguneen historia zure ordenagailuan gordetzen da soilik. "
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona garatzaileentzat"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Inplementatu Persona zure gunean"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Garatzaile-gidak eta API dokumentazioa"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Saio-hasiera amaitzen:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Azken urratsa!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "Helbide elektronikoa"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Zure helbide elektronikoa"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Pasahitza"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Zure pasahitza"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "Pasahitza beharrezkoa da"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "Pasahitz okerra"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "amaitu"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona-k cookie-ak behar ditu zu gogoratzeko."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Itxi leiho hau, <a %s>gaitu cookie-ak</a> eta saiatu berriro mesedez"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "Hasi saioa %s gunean honekin&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s hornitzaileak ez dizu baimentzen Persona-n saioa hasten zure %(idp)s "
+"pasahitzarekin. Lehendik badagoen Persona pasahitz bat erabili behar duzu "
+"helbide elektroniko honekin saioa hasteko."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Persona-ko pasahitza"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "helbide elektronikoa"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "Helbide elektronikoa izan behar da"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "Helbide elektronikoa beharrezkoa da"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "Pasahitza ahaztu duzu?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "Idatzi pasahitza"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "pasahitza"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Hasierako berrespena bidali da &ndash; itxaron minutu batzuk beste bat "
+"eskatu aurretik"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Jarraitzearekin bat, %(site)s(r)en <a %(terms)s>baldintzak</a> eta <a "
+"%(privacy)s>pribatutasun-politika</a> onartzen dituzu."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "hurrengoa"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "jarraitu"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "utzi"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "hasi saioa"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "Ados"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Persona-ra konektatzen..."
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona.</strong> Saio-hasiera sinplea Firefoxen atzetik "
+"dagoen irabazi-asmorik gabeko erakundeak egina. <a %s>Argibide gehiago&rarr;"
+"</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Konektatu Mozilla Persona-rekin, saioa hasteko modurik seguru eta errazena."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>Hartzazu tourra</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "kendu"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "Berria Mozilla Persona-n? <a %(learnMoreLink)s>Argibide gehiago</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Kontu-kudeatzailea"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Zure helbide elektronikoa"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "editatu"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "eginda"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Pasahitz zaharra"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Pasahitz berria"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "Pasahitz zaharra beharrezkoa da"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "Pasahitz zahar okerra"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "Pasahitz berria beharrezkoa da"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "Pasahitzak desberdinak izan behar dira"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Pasahitzak 8 eta 80 karaktere artekoa izan behar du"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr ""
+"Edozein unetan <a %(cancelLink)s>utz dezakezu bertan behera zure kontua</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Hasiera-orria"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Nola dabilen"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "Kontua"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Hasi saioa"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Amaitu saioa"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "<a %s>Identitate Taldea</a>k egina (<a %s>Mozilla</a>)"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Pribatutasuna &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "Zerbitzuaren baldintzak &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "Garatzaileak &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Laguntza behar duzu? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "Sentitzen dugu, Persona-k JavaScript gaituta egotea behar du."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Berrezarri pasahitza"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Sortu %s gunearekin erabiltzeko pasahitz berri bat"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Egiaztatu pasahitza"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "Egiaztapen-pasahitza beharrezkoa da"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "Pasahitzak ez datoz bat!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">Zure helbidea</strong> egiaztatu egin da!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"Zure helbide berria konfiguratuta eta erabiltzeko prest dago. %s(e)ra "
+"berbideratuko zaitugu"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "%s segundo barru berbideratzen"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr ""
+"Sentitzen dugu baina une honetan zure nabigatzaileak ez du euskarririk."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Firefox logoa"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona <a %(getFirefoxLink)s>Firefox</a>ekin dabil"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "eta beste <a %(otherBrowserLink)s>nabigatzaile modernoekin.</a>"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr ""
+"Sentitzen dugu, zure nabigatzaileak ez du webgune honetara saioa hasteko "
+"euskarririk."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"Personaren <a %s>navigator.id.watch()</a> eginbidea erabiltzeko eguneratu "
+"behar du webgunea bere jabeak."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona.</strong></a> Saio-hasiera sinplea Firefoxen "
+"atzetik dagoen irabazi-asmorik gabeko erakundeak egina."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Egin berrespen-esteka honetan %s gunerako sarbidea berresteko:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr "EZ bazenuen saiorik hasi nahi, ezikusi mezu hau."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr ""
+"Saio-hasiera sinplea Firefoxen atzetik dagoen irabazi-asmorik gabeko "
+"erakundeak egina"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "Argibide gehiago https://login.persona.org/about helbidean"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "Berretsi zure helbidea orain"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "Berretsi zure kontua orain"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "Persona-ko pasahitza ahaztu duzu? Onenei ere pasatzen zaie."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Egin klik zure pasahitza berrezartzeko:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr "EZ baduzu pasahitza berrezartzeko eskatu, ezikusi mezu hau."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "Berrezarri zure pasahitza orain"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"Badirudi zure posta elektronikoko hornitzaileak arazoak dituela Persona "
+"euskarriarekin."
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Hasi saioa Personarekin"
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr "Oharra: EZ baduzu pasahitza berrezartzeko eskatu, ezikusi mezu hau."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Sinplifikatutako saio-hasiera."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "Zure saioa hasteko, erabiltzaile-izenen ordez Persona erabiltzen du %s "
+#~ "guneak."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Idatzi zure helbide elektronikoa"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Idatzi Persona-ko zure pasahitza orain."
+
+#~ msgid "enter email address"
+#~ msgstr "idatzi helbide elektronikoa"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Eskerrik asko Persona erabiltzeagatik."
+
+#~ msgid "Thank you,"
+#~ msgstr "Eskerrik asko,"
+
+#~ msgid "The Persona team"
+#~ msgstr "Persona-ren taldea"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Egin klik hemen zure pasahitza berrezartzeko."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "Jarraitzeko, helbide elektroniko hau berriro berretsi behar duzu eta "
+#~ "Persona-rentzat berariaz pasahitz berria konfiguratu."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "Egin klik zure pasahitz berria ezartzeko:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Persona Taldea"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "Egin klik hemen zure pasahitz berria ezartzeko."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr "Ezin da kontua egiaztatu erabiltzaile-izen eta pasahitz honekin."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Mezu bat bidali berri dugu helbide elektroniko horretara! Beste bat "
+#~ "bidali nahi baduzu, itxaron minutu bat edo bi eta saiatu berriro."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Helbide elektroniko eta pasahitz hau ez datoz bat."
+
+#~ msgid "The password field is required."
+#~ msgstr "Pasahitzaren eremua beharrezkoa da."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "Pasahitz zahar okerra, pasahitza ez da eguneratu."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "Pasahitz zaharra eta berria berdinak dira."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Persona-rekin saioa hasteko, idatzi zure helbide elektronikoa."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "Zure posta-hornitzailearekin egiaztatzen."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "Saio-hasiera burututa"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Pasahitza ahaztuta"
+
+#~ msgid "Email Verification"
+#~ msgstr "Helbide elektronikoaren egiaztapena"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr ""
+#~ "Egiaztatu zure <strong %(checkId)s></strong> helbideko sarrera-ontzia."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr ""
+#~ "Egin klik berrespen-mezuko estekan. Orduan berrezarriko da zure pasahitza."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Erabiltzailea ez dago!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "Ezin da helbide horretako pasahitza berrezarri."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Badakizu zure pasahitza? Hasi saioa."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr ""
+#~ "Leiho hau itxi egingo da orain eta kontu-sorrerak jarraitu egingo du."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr ""
+#~ "Egiaztatu zure <strong %(emailId)s></strong> helbideko sarrera-ontzia."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Egin klik berrespen-mezuko estekan. Berehala hasiko duzu saioa Persona-n."
+
+#~ msgid "forgot your password?"
+#~ msgstr "pasahitza ahaztu duzu?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr ""
+#~ "Zure helbide elektronikoa berria da guretzat. Sor ezazu Persona-rekin "
+#~ "erabiltzeko pasahitz bat mesedez."
+
+#~ msgid "verify password"
+#~ msgstr "egiaztatu pasahitza"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Jarraitzearekin bat, %(persona)s(r)en <a %(termsLink)s>erabiltzeko "
+#~ "baldintzak</a> eta <a %(privacyLink)s>pribatutasun-politika</a> onartzen "
+#~ "dituzu."
+
+#~ msgid "Next"
+#~ msgstr "Hurrengoa"
+
+#~ msgid "Verify Email"
+#~ msgstr "Egiaztatu helbide elektronikoa"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "<strong %(emailId)s>Helbide hau</strong> zurea dela egiaztatzeko, zure "
+#~ "hornitzailearekin hasi behar duzu saioa. Leiho berria irekiko da."
+
+#~ msgid "Verify"
+#~ msgstr "Egiaztatu"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Eskerrik asko <strong>Persona</strong> zerbitzuarekin "
+#~ "erregistratzeagatik. Zure <strong>Persona</strong> kontua erabil dezakezu "
+#~ "orain webguneetan <em>erregistratu</em> edo <em>saioa hasteko</em>!"
+
+#~ msgid "Sign Up"
+#~ msgstr "Erregistratu"
+
+#~ msgid ""
+#~ "<strong %(emailId)s>Email</strong> is not registered. Would you like to "
+#~ "<a %(signUpLink)s>sign up</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s>Helbide elektronikoa</strong> ez dago erregistratuta. "
+#~ "<a %(signUpLink)s>Erregistratu</a> egin nahi duzu?"
+
+#~ msgid "New to Persona? Sign up today."
+#~ msgstr "Berria Persona-n? Erregistratu orain."
+
+#~ msgid ""
+#~ "To verify that you own <strong %(primaryId)s>address</strong>, you must "
+#~ "sign in with your provider.  A new window will be opened."
+#~ msgstr ""
+#~ "Zure <strong %(primaryId)s>helbidea</strong> egiaztatzeko, zure "
+#~ "hornitzailearekin hasi behar duzu saioa. Leiho berria irekiko da."
+
+#~ msgid ""
+#~ "<strong %(emailId)s></strong> is already registered. Would you like to <a "
+#~ "%(signInLink)s>sign in</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s></strong> erregistratuta dago dagoeneko. <a "
+#~ "%(signInLink)s>Saioa hasi</a> nahi duzu?"
+
+#~ msgid "Existing account? Sign in."
+#~ msgstr "Badaukazu kontua? Hasi saioa."
+
+#, fuzzy
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Burutu %s guneko saio-hasiera BrowserID erabiliz"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Zerbitzariarekin komunikatzen"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Itxaron pixka bat zerbitzariarekin hitz egiten dugun bitartean."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "Saioa hasteko modu azkar eta segurua da Mozilla Persona. <a %s>Argibide "
+#~ "gehiago &rarr;</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Eskerrik asko zure helbide elektronikoa egiaztatzeagatik. Mezu hau %s "
+#~ "gunerako saio-hasiera burutzeko bidali zaizu."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Erregistroa amaitzeko, egin klik ondorengo loturan:"
+
+#, fuzzy
+#~ msgid "Persona"
+#~ msgstr "Hasiera-orria"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "Errorea aurkitu da zure helbide elektronikoa berresten saiatzean. "
+#~ "Aurretik egiaztatu duzu helbide hau?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "Errorea aurkitu da erregistroa burutzen saiatzean."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "Zure helbide berria konfiguratuta dago eta saioa hasita behar zenuke "
+#~ "orain. Leiho hau itxi eta atzera joan zaitezke"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "Arazoa egon da zure erregistrorako loturarekin. Helbide hau dagoeneko "
+#~ "erregistratu da?"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "BrowserID hasiera-orria"
+
+#~ msgid "TOS"
+#~ msgstr "Erabiltzeko baldintzak"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "Errorea zerbitzariarekin komunikatzean."

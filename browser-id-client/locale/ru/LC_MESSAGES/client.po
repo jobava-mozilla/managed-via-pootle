@@ -1,0 +1,768 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Persona 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-08-10 18:21+0400\n"
+"Last-Translator: Alexander L. Slovesnik <unghost@mozilla-russia.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-POOTLE-MTIME: 1374160024.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"С вашей ссылкой для регистрации возникли проблемы.  Этот адрес уже был "
+"зарегистрирован?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "При попытке завершения регистрации произошла ошибка."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Чтобы вас запомнить, Persona требуются куки."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Пожалуйста, закройте это окно, <a %s>включите куки</a> и попробуйте снова"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Ошибка связи"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Завершить вход..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Всего через мгновение вы войдёте в Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Извините, но это занимает больше времени, чем следовало бы."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Если это не решится само по себе в течение нескольких секунд, закройте окно "
+"и попробуйте снова."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Проверка через вашего провайдера эл. почты"
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Выбранный адрес эл. почты некорректен или был удалён."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Удалить %(email)s из вашей учётной записи Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Удаление вашей последней учётной записи удалит вашу учётную запись Persona.\n"
+"Вы уверены, что хотите продолжить?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Вы уверены, что хотите удалить свою учётную запись Persona?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Добавить адрес эл. почты"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "адрес эл. почты"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Должен быть адресом эл. почты"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Необходимо поле адреса эл. почты"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Отправлено первоначальное подтверждение &ndash; подождите несколько минут, "
+"прежде чем запросить другое"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Уже добавлен!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "добавить"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "отмена"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Не удалось подтвердить %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s является требуемым адресом, но мы не можем подтвердить, что вы владеете "
+"этим адресом."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s подтверждён!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Идёт ваш вход&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Проверьте вашу почту"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Щёлкните по ссылке в письме с подтверждением, посланным на %s, чтобы сразу "
+"войти на %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Ошибка"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Нам очень жаль."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Сервер очень сильно перегружен!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Пожалуйста, обновите эту страницу и попробуйте снова."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Пожалуйста, закройте это окно и попробуйте снова."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Подробнее"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Закрыть"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* не является корректным адресом эл. почты!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "Чтобы продолжить, пожалуйста закройте окно и введите корректный адрес."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Запомнить вас?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Как долго вы хотите быть зарегистрированы через Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Один месяц"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Я доверяю этому компьютеру."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Только на эту сессию"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Это не мой компьютер."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Примечание: Разумеется, вы можете в любое время выйти из Persona."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Войти через Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Войти в %s как&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Выберите адрес эл. почты"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Добавить другой адрес эл. почты"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Это не я"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Продолжив, вы принимаете <a %(terms)s>Условия</a> и <a %(privacy)s>Политику "
+"приватности</a> %(site)s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "войти"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"%(primary)s не отвечает. Пожалуйста, подождите несколько минут и повторите "
+"попытку."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Отмена"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Не удалось подтвердить %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Это может быть связано с блокировкой кук со сторонних сайтов в вашем "
+"браузере. Пожалуйста, убедитесь, что настройки приватности вашего браузера "
+"установлены на принятие кук со сторонних сайтов для %(idpName)s и повторите "
+"попытку."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Вы также принимаете <a %(terms)s>Условия</a> и <a %(privacy)s>Политику "
+"приватности</a> %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Создать пароль"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s больше не разрешает вам входить в Persona с помощью пароля %(idp)s. "
+"Пожалуйста, создайте новый пароль для использования с вашей учётной записью "
+"Persona."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Ваш адрес эл. почты для нас незнаком. Пожалуйста, создайте пароль для "
+"использования с FirefoxOS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Ваш адрес эл. почты для нас незнаком. Пожалуйста, создайте пароль для "
+"использования с Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "создать пароль"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Требуется поле пароля"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Длина пароля должна быть от 8 до 80 символов"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Подтвердить пароль"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "подтвердить пароль"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Требуется подтверждение пароля"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Пароли не совпадают!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "готово"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Хорошие новости!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s больше не требует дополнительного пароля. Подтвердите вашу учётную "
+"запись и вы сразу же войдете на %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "подтвердить"
+
+#~ msgid "signing in"
+#~ msgstr "идёт вход"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Подтвердите свой адрес эл. почты"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Войти как..."
+
+#~ msgid "Email"
+#~ msgstr "Адрес эл. почты"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Ваша личность была подтверждена вашим провайдером эл. почты, теперь мы "
+#~ "попытаемся вас зарегистрировать."
+
+#~ msgid "Sign in using"
+#~ msgstr "Войти, используя"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Сайт попросил, чтобы вы вошли, используя"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Для подтверждения владения этим адресом вы должны войти с помощью вашего "
+#~ "провайдера эл. почты. Это окно будет перенаправлено на"
+
+#~ msgid "Enter password"
+#~ msgstr "Введите пароль"
+
+#~ msgid "forgot your password?"
+#~ msgstr "забыли свой пароль?"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "Password incorrect"
+#~ msgstr "Неверный пароль"
+
+#~ msgid "verify email"
+#~ msgstr "подтвердить адрес эл. почты"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s делает это лёгким"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "Ваша учётная запись %(emailProvider)s была обновлена, чтобы ещё лучше "
+#~ "работать с Persona. Мы перенаправим вас на %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "С помощью Persona вы можете использовать свою учётную запись "
+#~ "%(emailProvider)s для входа на сайты, такие как %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "войти через %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Использовать другой адрес эл. почты"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Это поле должно быть адресом эл. почты."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Мы только что послали письмо на этот адрес! Если вы действительно хотите "
+#~ "послать ещё одно, подождите минуту или две и попробуйте снова."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Этот адрес уже добавлен в вашу учётную запись!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Пожалуйста, выберите адрес эл. почты."
+
+#~ msgid "The password field is required."
+#~ msgstr "Заполните поле пароля."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Этот адрес эл. почты и пароль не подходят."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "Ваша учётная запись %(emailProvider)s была обновлена, чтобы ещё лучше "
+#~ "работать с Persona. Мы перенаправим вас на %(emailProvider)s. После "
+#~ "проверки там вашей учетной записи, вы войдёте на %(aWebsite)s."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Добавить другой адрес эл. почты к вашему паролю Persona."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Произошла ошибка!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Сбросить свой пароль"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Создать новый пароль для использования с %s."
+
+#~ msgid "reset password"
+#~ msgstr "сбросить пароль"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Примечание: Этот пароль будет использоваться со всеми вашими адресами эл. "
+#~ "почты Persona."
+
+#~ msgid "Sign In"
+#~ msgstr "Войти"
+
+#~ msgid "Sign Up"
+#~ msgstr "Зарегистрироваться"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr ""
+#~ "Подождите несколько секунд, пока мы будем регистрировать вас на сайте."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "Для входа на %s вместо имён пользователей используется Persona."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Для входа через Persona, пожалуйста, введите свой адрес эл. почты."
+
+#~ msgid "enter email address"
+#~ msgstr "введите адрес эл. почты"
+
+#~ msgid "password"
+#~ msgstr "пароль"
+
+#~ msgid "next"
+#~ msgstr "далее"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Забыли свой пароль?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Продолжив, вы принимаете разработанные %s\\ <a %s>Условия</a> и <a "
+#~ "%s>Политику приватности</a>."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Это сообщение пропадёт, как только завершится запрос (надеемся скоро).  "
+#~ "Если ожидание затянется, закройте это окно и попробуйте снова."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr "Введите ваш адрес эл. почты, чтобы войти на <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Пожалуйста, подождите, пока мы получим информацию о вашем провайдере эл. "
+#~ "почты."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "В эту учётную запись нельзя войти с помощью логина и пароля."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Мы послали письмо для подтверждения на <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Если это ошибка, просто проигнорируйте отправленное письмо и нажмите <a "
+#~ "%s>отмена</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Если это ошибка, просто проигнорируйте отправленное письмо и <a "
+#~ "%s>используйте другой адрес эл. почты</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Можно спросить, это ваш компьютер?"
+
+#~ msgid "yes"
+#~ msgstr "да"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr ""
+#~ "Если так, то вы сохраните состояние регистрации в течение двух недель."
+
+#~ msgid "no"
+#~ msgstr "нет"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Если вы за публичным компьютером, например в библиотеке или интернет-"
+#~ "кафе, выберите это. Для повышения безопасности через час мы спросим у вас "
+#~ "пароль."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Добро пожаловать в Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Затем, выберите новый пароль, который вы будете использовать для входа в "
+#~ "Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Повторите пароль"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "Для работы BrowserID требуются куки"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr ""
+#~ "Этот адрес эл. почты выглядит новым, так что давайте вам его настроим."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Всегда входить, используя этот адрес эл. почты"
+
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "Для работы BrowserID необходимо, чтобы в вашем браузере были включены "
+#~ "куки. Пожалуйста, включите в вашем браузере куки и попробуйте снова"
+
+#~ msgid "You are offline!"
+#~ msgstr "Вы не подключены к сети!"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr ""
+#~ "К сожалению, BrowserID не может установить связь без подключения к сети!"
+
+#~ msgid "select email"
+#~ msgstr "выбрать адрес эл. почты"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr ""
+#~ "Извините, но мы не можем связаться с BrowserID, если вы не подключены к "
+#~ "сети."
+
+#~ msgid "Authenticating User"
+#~ msgstr "Аутентификация пользователя"
+
+#~ msgid "Adding Address"
+#~ msgstr "Добавление адреса"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "Добавление первичного адреса эл. почты для пользователя"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "Проверка информации об адресе"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "Аутентификация с помощью утверждения"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "Отмена учётной записи пользователя"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "Проверка аутентификации"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "Проверка версии скрипта"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "Завершение регистрации пользователя"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "Проверка, включены ли куки"
+
+#~ msgid "Creating Account"
+#~ msgstr "Создание учётной записи"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "Получение утверждения"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "Проверка токена регистрации"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "Проверка адреса эл. почты"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "Проверка, аутентифицирован ли пользователь с помощью IdP"
+
+#~ msgid "Logout Failed"
+#~ msgstr "Выход не удался"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "Аутентификация с провайдером идентификации"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr ""
+#~ "При попытке связи с вашим провайдером эл. почты возникли проблемы, "
+#~ "пожалуйста попробуйте ещё раз!"
+
+#~ msgid "Provisioning with Identity Provider"
+#~ msgstr "Инициализация с помощью провайдера аутентификации"
+
+#~ msgid "Provisioning Unsupported Identity Provider"
+#~ msgstr "Инициализация с помощью неподдерживаемого провайдера аутентификации"
+
+#~ msgid ""
+#~ "Unfortunately, the email address provided cannot act as a Primary "
+#~ "Identity Provider"
+#~ msgstr ""
+#~ "К сожалению, предоставленный адрес эл. почты не может выступать в роли "
+#~ "Первичного Провайдера Идентификации"
+
+#~ msgid "Registration Failed"
+#~ msgstr "Регистрация не удалась"
+
+#~ msgid "Establishing Relay"
+#~ msgstr "Установка релея"
+
+#~ msgid "Relay frame could not be found"
+#~ msgstr "Не удалось найти фрейм релея"
+
+#~ msgid "Signin Failed"
+#~ msgstr "Вход не удался"
+
+#~ msgid "Signup Failed"
+#~ msgstr "Заведение не удалось"
+
+#~ msgid "Syncing Address"
+#~ msgstr "Синхронизация адреса"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "Синхронизация адресов эл. почты"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "Синхронизация ключей для адреса"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "Получение информации о токене"
+
+#~ msgid "Updating password"
+#~ msgstr "Обновление пароля"
+
+#~ msgid ""
+#~ "We just sent an email to that address!  If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Мы только что послали письмо на этот адрес!  Если вы действительно хотите "
+#~ "послать ещё одно, подождите минуту или две и попробуйте снова."
+
+#~ msgid ""
+#~ "To verify that you own <strong id='primary_email'>%s</strong>, you must "
+#~ "sign in with your provider.  This window will be redirected to"
+#~ msgstr ""
+#~ "Чтобы проверить, что вы владеете <strong id='primary_email'>%s</strong>, "
+#~ "вы должны войти с помощью вашего провайдера.  Это окно будет "
+#~ "перенаправлено на"
+
+#~ msgid "translated text"
+#~ msgstr "переведённый текст"

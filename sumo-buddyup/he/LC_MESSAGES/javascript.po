@@ -1,0 +1,525 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2014-02-16 00:03+0000\n"
+"Last-Translator: alenros <gel@gmx.com>\n"
+"Language-Team: none\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1392508998.0\n"
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "אירעה שגיאה בעת יצירת התצוגה המקדימה."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "התרחשה שגיאה במהלך שליחת ההצבעה שלך."
+
+#~ msgid "You replied"
+#~ msgstr "אתה הגבת"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "אתה ועוד 1 הגבתם"
+
+#~ msgid "No differences found"
+#~ msgstr "לא נמצאו הבדלים"
+
+#~ msgid "Cancel"
+#~ msgstr "ביטול"
+
+#~ msgid "You are not watching this thread"
+#~ msgstr "אינך צופה באשכול זה"
+
+#~ msgid "You are watching this thread"
+#~ msgstr "אתה צופה באשכול זה"
+
+#~ msgid "Image Attachment"
+#~ msgstr "צירוף תמונה"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "כשל בהעלאת קובץ. נא לנסות שוב מאוחר יותר."
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "תמונה לא תקינה. נא לבחור קובץ תמונה תקין."
+
+#, fuzzy
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "תמונה לא תקינה. נא לבחור קובץ תמונה תקין."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "ההעלאה בוטלה. אנא בחר קובץ תמונה."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "הקובץ נמחק. אנא בחר קובץ תמונה."
+
+#~ msgid "Delete this image"
+#~ msgstr "מחק תמונה זו"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "מעלה את \"%s\"..."
+
+#~ msgid "Loading..."
+#~ msgstr "טוען..."
+
+#~ msgid "No votes data"
+#~ msgstr "אין נתונים על הצבעות"
+
+#, fuzzy
+#~ msgid "Error loading graph"
+#~ msgstr "תקלה בטעינת תרשים"
+
+#~ msgid "Votes"
+#~ msgstr "הצבעות"
+
+#~ msgid "Percent"
+#~ msgstr "אחוז"
+
+#~ msgid "Questions"
+#~ msgstr "שאלות"
+
+#~ msgid "Answer Votes: % Helpful"
+#~ msgstr "הצבעות על התשובה: % שימושי"
+
+#~ msgid "en-US KB"
+#~ msgstr "מאגר ידע באנגלית אמריקאית"
+
+#, fuzzy
+#~ msgid "Support Forum"
+#~ msgstr "מאמר תמיכה:"
+
+#~ msgid "Visitors"
+#~ msgstr "מבקרים"
+
+#~ msgid "Bold"
+#~ msgstr "מודגש"
+
+#~ msgid "bold text"
+#~ msgstr "טקסט מודגש"
+
+#~ msgid "Italic"
+#~ msgstr "נטוי"
+
+#~ msgid "italic text"
+#~ msgstr "טקסט נטוי"
+
+#~ msgid "Numbered List"
+#~ msgstr "רשימה ממוספרת"
+
+#~ msgid "Numbered list item"
+#~ msgstr "פריט ברשימה ממוספרת"
+
+#~ msgid "Bulleted List"
+#~ msgstr "רשימת תבליטים"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "פריט ברשימת תבליטים"
+
+#~ msgid "Heading 1"
+#~ msgstr "כותרת 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "כותרת 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "כותרת 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "הכנס קישור..."
+
+#~ msgid "link text"
+#~ msgstr "טקסט קישור"
+
+#~ msgid "Link text:"
+#~ msgstr "טקסט קישור:"
+
+#~ msgid "Link target:"
+#~ msgstr "יעד קישור:"
+
+#~ msgid "Support article:"
+#~ msgstr "מאמר תמיכה:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "הכנס את שם המאמר"
+
+#~ msgid "External link:"
+#~ msgstr "קישור חיצוני:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "הכנס את הכתובת של הקישור החיצוני"
+
+#~ msgid "Insert Link"
+#~ msgstr "הכנס קישור"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "מאמר מאגר הידע"
+
+#~ msgid "Insert media..."
+#~ msgstr "הכנס מדיה..."
+
+#~ msgid "media"
+#~ msgstr "מדיה"
+
+#~ msgid "Search Gallery"
+#~ msgstr "חיפוש בגלריה"
+
+#~ msgid "Show:"
+#~ msgstr "הצג:"
+
+#~ msgid "Images"
+#~ msgstr "תמונות"
+
+#~ msgid "Videos"
+#~ msgstr "קטעי וידאו"
+
+#, fuzzy
+#~ msgid "Show media for:"
+#~ msgstr "הצג עבור..."
+
+#~ msgid "Insert Media"
+#~ msgstr "הכנס מדיה"
+
+#~ msgid "Upload Media"
+#~ msgstr "העלה מדיה"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "אנא בחר תמונה או וידאו להכנסה."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "אבוי, נראה כי התרחשה שגיאה."
+
+#, fuzzy
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "אנא בחר תמונה או וידאו להכנסה."
+
+#, fuzzy
+#~ msgid "Insert Response"
+#~ msgstr "הכנס קישור"
+
+#, fuzzy
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "התרחשה שגיאה בבדיקת התור."
+
+#~ msgid "There was an error."
+#~ msgstr "התרחשה שגיאה."
+
+#, fuzzy
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "התרחשה שגיאה ביצירת התצוגה המקדימה."
+
+#~ msgid "1m"
+#~ msgstr "1ח"
+
+#~ msgid "3m"
+#~ msgstr "3ח"
+
+#~ msgid "6m"
+#~ msgstr "6ח"
+
+#~ msgid "YTD"
+#~ msgstr "מתה\"ש"
+
+#~ msgid "1y"
+#~ msgstr "1ש"
+
+#~ msgid "All"
+#~ msgstr "הכל"
+
+#~ msgid "Error uploading image"
+#~ msgstr "שגיאה בהעלאת תמונה"
+
+#~ msgid "Error deleting image"
+#~ msgstr "שגיאה במחיקת תמונה"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "אנא ודא שאתה מחובר, ואז נסה שנית."
+
+#~ msgid "Search for a user..."
+#~ msgstr "חיפוש משתמש…"
+
+#~ msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+#~ msgstr "אזהרה! אתה בטוח שאתה רוצה לנטרל את המשתמש? אי אפשר לבטל פעולה זו!"
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "מסמך עם כותרת זו כבר קיים בשפה זו."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "מסמך עם slug זה כבר קיים בשפה זו."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "בחר גירסאות להשוואה"
+
+#~ msgid "Toggle syntax highlighting"
+#~ msgstr "החלף מצב סימון תחביר"
+
+#~ msgid "Toggle Diff"
+#~ msgstr "החלף מצב השוואה"
+
+#~ msgid "Show for..."
+#~ msgstr "הצג עבור..."
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "הצג תוכן רק עבור גרסאות מסוימות של פיירפוקס או מערכות הפעלה."
+
+#~ msgid "Add Rule"
+#~ msgstr "הוסף כלל"
+
+#~ msgid "Installing..."
+#~ msgstr "מתקין..."
+
+#, fuzzy
+#~ msgid "Unhelpful Answers"
+#~ msgstr "הצבעות מועילות"
+
+#, fuzzy
+#~ msgid "Helpful Answers"
+#~ msgstr "הצבעות מועילות"
+
+#~ msgid "[missing header]"
+#~ msgstr "[כותרת חסרה]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "תוכן העניינים"
+
+#, fuzzy
+#~ msgid "Insert a canned response..."
+#~ msgstr "הכנס קישור..."
+
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "וידאו לא תקין. אנא בחר וידאו FLV תקין."
+
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "ההעלאה בוטלה. אנא בחר וידאו FLV."
+
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "הקובץ נמחק. אנא בחר וידאו FLV."
+
+#~ msgid "Delete FLV video"
+#~ msgstr "מחק וידאו FLV"
+
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "וידאו לא תקין. אנא בחר וידאו OGV תקין."
+
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "ההעלאה בוטלה. אנא בחר וידאו OGV."
+
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "הקובץ נמחק. אנא בחר וידאו OGV."
+
+#~ msgid "Delete OGV video"
+#~ msgstr "מחק וידאו OGV"
+
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "וידאו לא תקין. אנא בחר וידאו WebM תקין."
+
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "ההעלאה בוטלה. אנא בחר וידאו WebM."
+
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "הקובץ נמחק. אנא בחר וידאו WebM."
+
+#~ msgid "Delete WebM video"
+#~ msgstr "מחק וידאו WebM"
+
+#~ msgid "January"
+#~ msgstr "ינואר"
+
+#~ msgid "February"
+#~ msgstr "פברואר"
+
+#~ msgid "March"
+#~ msgstr "מרץ"
+
+#~ msgid "April"
+#~ msgstr "אפריל"
+
+#~ msgid "May"
+#~ msgstr "מאי"
+
+#~ msgid "June"
+#~ msgstr "יוני"
+
+#~ msgid "July"
+#~ msgstr "יולי"
+
+#~ msgid "August"
+#~ msgstr "אוגוסט"
+
+#~ msgid "September"
+#~ msgstr "ספטמבר"
+
+#~ msgid "October"
+#~ msgstr "אוקטובר"
+
+#~ msgid "November"
+#~ msgstr "נובמבר"
+
+#~ msgid "December"
+#~ msgstr "דצמבר"
+
+#~ msgid "Sunday"
+#~ msgstr "ראשון"
+
+#~ msgid "Monday"
+#~ msgstr "שני"
+
+#~ msgid "Tuesday"
+#~ msgstr "שלישי"
+
+#~ msgid "Wednesday"
+#~ msgstr "רביעי"
+
+#~ msgid "Thursday"
+#~ msgstr "חמישי"
+
+#~ msgid "Friday"
+#~ msgstr "שישי"
+
+#~ msgid "Saturday"
+#~ msgstr "שבת"
+
+#, fuzzy
+#~ msgid "Jan"
+#~ msgstr "ינואר"
+
+#, fuzzy
+#~ msgid "Mar"
+#~ msgstr "מרץ"
+
+#, fuzzy
+#~ msgid "Apr"
+#~ msgstr "אפריל"
+
+#, fuzzy
+#~ msgid "Jun"
+#~ msgstr "יוני"
+
+#, fuzzy
+#~ msgid "Jul"
+#~ msgstr "יולי"
+
+#, fuzzy
+#~ msgid "Aug"
+#~ msgstr "אוגוסט"
+
+#, fuzzy
+#~ msgid "Oct"
+#~ msgstr "אוקטובר"
+
+#~ msgid "From"
+#~ msgstr "מאת"
+
+#~ msgid "To"
+#~ msgstr "אל"
+
+#~ msgid "Zoom"
+#~ msgstr "זום"
+
+#~ msgid "Reset zoom"
+#~ msgstr "אפס זום"
+
+#~ msgid "Reset zoom level 1:1"
+#~ msgstr "אפס זום לרמת 1:1"
+
+#, fuzzy
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "תקלה בטעינת תרשים"
+
+#~ msgid "Helpfulness Votes over 1 Month"
+#~ msgstr "הצבעות מועילות מעבר לחודש אחד"
+
+#~ msgid "Current Percent of Helpfulness"
+#~ msgstr "אחוז נוכחי של מועילות"
+
+#~ msgid "Percent Change in Helpfulness"
+#~ msgstr "שינוי באחוז של מועילות"
+
+#~ msgid "Documents"
+#~ msgstr "מסמכים"
+
+#~ msgid "%s Votes"
+#~ msgstr "%s הצבעות"
+
+#~ msgid "We're open!"
+#~ msgstr "אנחנו פתוחים!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "המתנדבים שלנו מוכנים לעזור."
+
+#~ msgid "Helpers online: "
+#~ msgstr "עוזרים מחוברים: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "משתמשים ממתינים: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "המתנה משוערת: "
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "התחל את השיחה החיה שלך."
+
+#~ msgid "The queue is full."
+#~ msgstr "התור מלא."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "המתנדבים שלנו עסוקים בעזרה למשתמשים אחרים."
+
+#~ msgid "We're closed."
+#~ msgstr "אנחנו סגורים."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "הצ'אט החי סגור כעת."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "התרחשה שגיאה בבדיקת התור."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "אתה יכול לנסות להתחיל שיחה."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "פחות מ 2 דקות."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "יותר מ 20 דקות."
+
+#~ msgid "Query took: "
+#~ msgstr "השאילתא לקחה: "
+
+#~ msgid " seconds"
+#~ msgstr " שניות"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "הצבעות מועילות"
+
+#, fuzzy
+#~ msgid "Number of Votes"
+#~ msgstr "תוכן העניינים"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "דווח על הודעה זו"
+
+#, fuzzy
+#~ msgid "Toggle L10n"
+#~ msgstr "החלף מצב השוואה"
+
+#, fuzzy
+#~ msgid "Search: "
+#~ msgstr "חיפוש בגלריה"
+
+#, fuzzy
+#~ msgid "Report this Article"
+#~ msgstr "דווח על הודעה זו"
+
+#, fuzzy
+#~ msgid "External Link"
+#~ msgstr "קישור חיצוני"
+
+#~ msgid "external link"
+#~ msgstr "קישור חיצוני"

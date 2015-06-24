@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2011-04-26 10:08+0200\n"
+"Last-Translator: Kerim <kerim@mozilla.ba>\n"
+"Language-Team: none\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 2.1.5\n"
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Dogodila se greška pri generisanju pregleda."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Desila se greška prilikom slanja vašeg glasa."
+
+#~ msgid "You replied"
+#~ msgstr "Odgovorili ste"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Vi i još jedna osoba ste odgovorili"
+
+#~ msgid "Cancel"
+#~ msgstr "Otkaži"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Slika u prilogu"
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Neispravna slika. Molimo da izaberete ispravan fajl sa slikom."
+
+#, fuzzy
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Neispravna slika. Molimo da izaberete ispravan fajl sa slikom."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Upload otkazan. Molimo da izaberete fajl sa slikom."
+
+#, fuzzy
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Upload otkazan. Molimo da izaberete fajl sa slikom."
+
+#~ msgid "Delete this image"
+#~ msgstr "Obriši ovu sliku"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "Uploadujem \"%s\"..."
+
+#, fuzzy
+#~ msgid "Loading..."
+#~ msgstr "Uploadujem \"%s\"..."
+
+#, fuzzy
+#~ msgid "Error loading graph"
+#~ msgstr "Greška pri uploadu slike"
+
+#, fuzzy
+#~ msgid "Support Forum"
+#~ msgstr "Članak podrške:"
+
+#~ msgid "Bold"
+#~ msgstr "Podebljano"
+
+#~ msgid "bold text"
+#~ msgstr "podebljani tekst"
+
+#~ msgid "Italic"
+#~ msgstr "Kurziv"
+
+#~ msgid "italic text"
+#~ msgstr "kurziv tekst"
+
+#~ msgid "Numbered List"
+#~ msgstr "Numerisana lista"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Stavka sa numerisane liste"
+
+#~ msgid "Heading 1"
+#~ msgstr "Naslov 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "Naslov 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "Naslov 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Ubaci link..."
+
+#~ msgid "link text"
+#~ msgstr "tekst linka"
+
+#~ msgid "Link text:"
+#~ msgstr "Tekst linka:"
+
+#~ msgid "Link target:"
+#~ msgstr "Odredište linka:"
+
+#~ msgid "Support article:"
+#~ msgstr "Članak podrške:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Unesite naziv članka"
+
+#~ msgid "External link:"
+#~ msgstr "Eksterni link:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Unesite URL eksternog linka:"
+
+#~ msgid "Insert Link"
+#~ msgstr "Ubaci link"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Članak iz baze znanja"
+
+#~ msgid "Insert media..."
+#~ msgstr "Ubaci medij..."
+
+#~ msgid "media"
+#~ msgstr "mediji"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Pretraži galeriju"
+
+#~ msgid "Show:"
+#~ msgstr "Prikaži:"
+
+#~ msgid "Images"
+#~ msgstr "Slike"
+
+#~ msgid "Videos"
+#~ msgstr "Video"
+
+#, fuzzy
+#~ msgid "Show media for:"
+#~ msgstr "Prikaži za..."
+
+#~ msgid "Insert Media"
+#~ msgstr "Ubacite medij"
+
+#~ msgid "Upload Media"
+#~ msgstr "Uploadujte medij"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Molimo da izaberete sliku ili video za ubacivanje."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Ups, desila se greška."
+
+#, fuzzy
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "Molimo da izaberete sliku ili video za ubacivanje."
+
+#, fuzzy
+#~ msgid "Insert Response"
+#~ msgstr "Ubaci link"
+
+#, fuzzy
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "Došlo je do greške prilikom provjere reda za čekanje."
+
+#~ msgid "There was an error."
+#~ msgstr "Dogodila se greška."
+
+#, fuzzy
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Dogodila se greška pri generisanju pregleda."
+
+#~ msgid "Error uploading image"
+#~ msgstr "Greška pri uploadu slike"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Greška pri brisanju slike"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Molimo provjerite da li ste prijavljeni, a zatim pokušajte ponovo."
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Dokument sa ovim naslovom već postoji na ovom jeziku."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "Dokument sa ovom adresom već postoji na ovom jeziku."
+
+#~ msgid "Show for..."
+#~ msgstr "Prikaži za..."
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "Prikaži samo sadržaj za određene verzije Firefoxa ili operativnih sistema."
+
+#~ msgid "Add Rule"
+#~ msgstr "Dodaj pravilo"
+
+#, fuzzy
+#~ msgid "Installing..."
+#~ msgstr "Uploadujem \"%s\"..."
+
+#~ msgid "[missing header]"
+#~ msgstr "[nedostaje zaglavlje]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Sadržaj"
+
+#, fuzzy
+#~ msgid "Insert a canned response..."
+#~ msgstr "Ubaci link..."
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "Neispravan video. Molimo da izaberete ispravan video fajl (%s)"
+
+#, fuzzy
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "Upload otkazan. Molimo da izaberete fajl sa slikom."
+
+#, fuzzy
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "Upload otkazan. Molimo da izaberete fajl sa slikom."
+
+#, fuzzy
+#~ msgid "Delete FLV video"
+#~ msgstr "Obriši fajl %s"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "Neispravan video. Molimo da izaberete ispravan video fajl (%s)"
+
+#, fuzzy
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "Upload otkazan. Molimo da izaberete fajl sa slikom."
+
+#, fuzzy
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "Upload otkazan. Molimo da izaberete fajl sa slikom."
+
+#, fuzzy
+#~ msgid "Delete OGV video"
+#~ msgstr "Obriši fajl %s"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "Neispravan video. Molimo da izaberete ispravan video fajl (%s)"
+
+#, fuzzy
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "Upload otkazan. Molimo da izaberete fajl sa slikom."
+
+#, fuzzy
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "Upload otkazan. Molimo da izaberete fajl sa slikom."
+
+#, fuzzy
+#~ msgid "Delete WebM video"
+#~ msgstr "Obriši fajl %s"
+
+#, fuzzy
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "Greška pri uploadu slike"
+
+#~ msgid "We're open!"
+#~ msgstr "Otvoreni smo!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Naši volonteri su spremni pomoći."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Pomagača online:"
+
+#~ msgid "Users waiting: "
+#~ msgstr "Korisnici na čekanju:"
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Procijenjeno vrijeme čekanja:"
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Započnite svoju Live Chat sesiju."
+
+#~ msgid "The queue is full."
+#~ msgstr "Red za čekanje je pun."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Naši volonteri su zauzeti pomaganjem drugim korisnicima."
+
+#~ msgid "We're closed."
+#~ msgstr "Zatvoreni smo."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "Live Chat je trenutno zatvoren."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "Došlo je do greške prilikom provjere reda za čekanje."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Manje od 2 minute."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "Više od 20 minuta."
+
+#, fuzzy
+#~ msgid "Number of Votes"
+#~ msgstr "Sadržaj"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Prijavite ovu poruku"
+
+#, fuzzy
+#~ msgid "Search: "
+#~ msgstr "Pretraži galeriju"
+
+#, fuzzy
+#~ msgid "Report this Article"
+#~ msgstr "Prijavite ovu poruku"
+
+#, fuzzy
+#~ msgid "Article Link"
+#~ msgstr "Ubaci link"
+
+#, fuzzy
+#~ msgid "External Link"
+#~ msgstr "Eksterni link:"
+
+#, fuzzy
+#~ msgid "external link"
+#~ msgstr "Eksterni link:"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Neispravan video. Molimo da izaberete ispravan video fajl (%s)"
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Upload otkazan. Molimo da izaberete video fajl (%s)."
+
+#, fuzzy
+#~ msgid "Delete %s file"
+#~ msgstr "Obriši ovu sliku"
+
+#, fuzzy
+#~ msgid "There was an error :(."
+#~ msgstr "Dogodila se greška."

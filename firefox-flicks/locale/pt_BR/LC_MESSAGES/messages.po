@@ -1,0 +1,3080 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-10 10:56-0700\n"
+"PO-Revision-Date: 2014-03-11 21:03+0000\n"
+"Last-Translator: Marco Aurélio <ouesten@me.com>\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1394571787.0\n"
+
+#. L10n: Label for the contest region in North America.
+#: flicks/base/regions.py:13 flicks/videos/models.py:177 flicks/videos/templates/videos/2013/winners.html:61
+msgid "North America"
+msgstr "América do Norte"
+
+#. L10n: Label for the contest region in Latin America.
+#: flicks/base/regions.py:15 flicks/base/templates/faq.html:257 flicks/videos/models.py:178 flicks/videos/templates/videos/2013/winners.html:107
+msgid "Latin America"
+msgstr "América Latina"
+
+#. L10n: Label for the contest region in Europe, the Middle East, and Africa.
+#: flicks/base/regions.py:17 flicks/videos/templates/videos/2013/winners.html:153
+msgid "Europe, Middle East, Africa"
+msgstr "Europa, Oriente Médio, África"
+
+#. L10n: Label for the contest region in Asia and the Pacific region.
+#: flicks/base/regions.py:19 flicks/videos/templates/videos/2013/winners.html:199
+msgid "Asia Pacific"
+msgstr "Ásia-Pacífico"
+
+#: flicks/base/templates/404.html:3 flicks/base/templates/404.html:10
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: flicks/base/templates/404.html:13
+msgid "Sorry, but we couldn't find the page you're looking for."
+msgstr "Sentimos, mas não conseguimos encontrar a página que você está procurando."
+
+#: flicks/base/templates/404.html:16 flicks/base/templates/500.html:16
+msgid "<a href=\"%(home_url)s\">Go back</a> to the home page."
+msgstr "<a href=\"%(home_url)s\">Voltar</a> para a página inicial."
+
+#: flicks/base/templates/500.html:3 flicks/base/templates/500.html:10
+msgid "Something went wrong!"
+msgstr "Algo deu errado!"
+
+#: flicks/base/templates/500.html:13
+msgid "Sorry, but something went wrong."
+msgstr "Sentimos, mas algo deu errado."
+
+#: flicks/base/templates/bare.html:13 flicks/base/templates/bare.html:25 flicks/base/templates/bare.html:29 flicks/base/templates/email_base.html:3 flicks/base/templates/email_base.html:15
+#: flicks/base/templates/shared/header.html:6 flicks/base/templates/shared/header_minimal.html:8 flicks/settings/base.py:67 flicks/videos/templates/videos/upload_complete.html:54
+msgid "Firefox Flicks"
+msgstr "Firefox Flicks"
+
+#. Meta Description - used for page description and og:description
+#: flicks/base/templates/bare.html:16
+msgid "Firefox Flicks is a contest that invites Firefox fans and filmmakers from all over the world to create short videos (or &#34;flicks&#34;) to help tell the Firefox story."
+msgstr "O Firefox Flicks é um concurso que convida fãs do Firefox e cineastas de todo o mundo a criar vídeos curtos (ou &#34;flicks&#34;) para ajudar a contar a história do Firefox."
+
+#: flicks/base/templates/bare.html:45
+msgid "Close"
+msgstr "Fechar"
+
+#: flicks/base/templates/bare.html:46 flicks/base/templates/strings.html:29
+msgid "This field is required."
+msgstr "Esse campo é requerido."
+
+#: flicks/base/templates/base.html:23
+msgid "Our Partners"
+msgstr "Nossos parceiros"
+
+#: flicks/base/templates/base.html:33
+msgid "More Partners"
+msgstr "Mais parceiros"
+
+#: flicks/base/templates/base.html:38
+msgid "Share Firefox Flicks"
+msgstr "Compartilhe o Firefox Flicks"
+
+#: flicks/base/templates/base.html:47
+msgid "Learn about Firefox OS"
+msgstr "Aprenda mais sobre o Firefox OS"
+
+#: flicks/base/templates/base.html:48
+msgid "Firefox OS"
+msgstr "Firefox OS"
+
+#. Greeting in an email.
+#: flicks/base/templates/email_base.html:36 flicks/base/templates/email_base.ltxt:2
+msgid "Hi %(name)s,"
+msgstr "Olá %(name)s,"
+
+#. Part of the signature on an email.
+#: flicks/base/templates/email_base.html:43 flicks/base/templates/email_base.ltxt:10
+msgid "Sincerely,"
+msgstr "Atenciosamente,"
+
+#. Part of the signature on an email.
+#: flicks/base/templates/email_base.html:46 flicks/base/templates/email_base.ltxt:12
+msgid "The Firefox Flicks Team"
+msgstr "Equipe do Firefox Flicks"
+
+#. Please don't change the HTML, this string is in an email and the HTML is very fragile.
+#: flicks/base/templates/email_base.html:87
+msgid "Read the <a href=\"%(link)s\" target=\"_blank\" style=\"color: #349cd7; text-decoration: none; font-size: 11px; font-family: georgia, serif;\">Mozilla Privacy Policy</a>."
+msgstr "Leia a <a href=\"%(link)s\" target=\"_blank\" style=\"color: #349cd7; text-decoration: none; font-size: 11px; font-family: georgia, serif;\">Política de Privacidade da Mozilla</a>."
+
+#: flicks/base/templates/faq.html:3
+msgid "FAQ"
+msgstr "Dúvidas comuns"
+
+#: flicks/base/templates/faq.html:5 flicks/base/templates/partners.html:5
+msgid "Firefox Flicks FAQ &#8212; Your questions answered. Our FAQ covers all the details on how to enter the video contest and win prizes."
+msgstr "Dúvidas comuns &#8212; Suas perguntas respondidas. Nossa seção de dúvidas comuns cobre todos os detalhes sobre como entrar no concurso de vídeo e ganhar prêmios."
+
+#: flicks/base/templates/faq.html:13
+msgid "Frequently Asked Questions"
+msgstr "Perguntas Frequentes"
+
+#: flicks/base/templates/faq.html:15 flicks/base/templates/home.html:75
+msgid "What is Firefox Flicks?"
+msgstr "O que é o Firefox Flicks?"
+
+#: flicks/base/templates/faq.html:17
+msgid ""
+"Firefox Flicks is a global video competition encouraging filmmakers to educate people about the issues that affect our online lives. This year, we're focusing on the power that having access to the "
+"Web through mobile devices gives people and how that power can change the way you see the world and the way you function within it."
+msgstr ""
+"Firefox Flicks é um concurso global de vídeos para encorajar cineastas e amadores a educar as pessoas sobre as coisas que afetam suas vidas on-line. Este ano, nosso foco está no poder que o acesso "
+"à Web em aparelhos móveis dá às pessoas e como esse poder pode mudar a forma como você vê o mundo e como você se encaixa nele."
+
+#: flicks/base/templates/faq.html:27
+msgid ""
+"With that in mind, the 2013 Firefox Flicks theme is \"Get Mobilized.\" That's where you come in: help us inspire people to get mobilized for individual and collective progress. <a href="
+"\"%(link_brief)s\" class=\"ga_brief-dl\">Read the creative brief</a>."
+msgstr ""
+"Com isso em mente, o tema do Firefox Flicks 2013 é \"Mobilize-se\". É aí que você entra: ajude-nos a inspirar as pessoas a se mobilizarem para o progresso individual e coletivo. <a href="
+"\"%(link_brief)s\" class=\"ga_brief-dl\">Ler o brief criativo</a>."
+
+#: flicks/base/templates/faq.html:34
+msgid "What does Get Mobilized mean?"
+msgstr "O que Mobilize-se significa?"
+
+#: flicks/base/templates/faq.html:36
+msgid "It's about harnessing the power of the Web to discover new content; how that content connects you to new ideas; and how those ideas can enrich your life."
+msgstr "Trata-se de aproveitar o poder da Web para descobrir novos conteúdos, como esses conteúdos conectam você a novas ideias e como essas ideias podem melhorar a sua vida."
+
+#: flicks/base/templates/faq.html:42
+msgid "What do we want filmmakers to do?"
+msgstr "O que queremos que os cineastas façam?"
+
+#: flicks/base/templates/faq.html:44
+msgid "Write, produce and edit a video of no more than 60 seconds that demonstrates how mobile helps people discover content that connects them to new ideas and enriches their lives."
+msgstr "Escrevam, produzam e editem um vídeo de no máximo 60 segundos que demonstre como a mobilidade ajuda pessoas a descobrirem conteúdos que as conectam a novas ideias e melhoram suas vidas."
+
+#: flicks/base/templates/faq.html:51
+msgid "Where can I find out more about this year's theme and requirements?"
+msgstr "Onde eu posso saber mais sobre o tema deste ano e os requisitos?"
+
+#: flicks/base/templates/faq.html:53
+msgid "Everything you need to know about creating a flick for the contest can be found in the filmmakers' <a href=\"%(link_brief)s\" class=\"ga_brief-dl\">creative brief</a>."
+msgstr "Tudo que você precisa saber para criar um vídeo para o concurso pode ser encontrado no <a href=\"%(link_brief)s\" class=\"ga_brief-dl\">brief criativo</a> dos cineastas."
+
+#: flicks/base/templates/faq.html:60
+msgid "What are the entry categories for the 2013 Flicks contest?"
+msgstr "Quais são as categorias de envio do Flicks 2013?"
+
+#: flicks/base/templates/faq.html:62
+msgid ""
+"There are no categories. Your flick can be a live-action film, an animation or a combination of both. You can shoot it in 3D or on your mobile device. It's up to you. It just has to be 60 seconds "
+"or less."
+msgstr ""
+"Não há categorias. Seu flick pode ser um filme de ação ao vivo, uma animação ou uma combinação dos dois. Você pode filmar em 3D ou em seu dispositivo móvel. Cabe a você. Ele só tem que ser de 60 "
+"segundos ou menos."
+
+#: flicks/base/templates/faq.html:69
+msgid "When can I submit my flick to Firefox Flicks?"
+msgstr "Quando poderei enviar meu flick para o Firefox Flicks?"
+
+#: flicks/base/templates/faq.html:71
+msgid "You can upload your video to the Firefox Flicks site beginning on February 13, 2013. You will also be able to view and share submitted entries at that time."
+msgstr "Você poderá enviar seu vídeo para o Firefox Flicks a partir do dia 13 de fevereiro de 2013. Mais do que isso, você poderá visualizar e compartilhar vídeos enviados por outras pessoas."
+
+#: flicks/base/templates/faq.html:78
+msgid "How do I submit my flick to Firefox Flicks and enter the contest?"
+msgstr "Como faço pra enviar meu vídeo para o Firefox Flicks e participar do concurso?"
+
+#: flicks/base/templates/faq.html:81
+msgid ""
+"Fill out your filmmaker profile and submit your video <a href=\"%(link_submit)s\">here.</a> All flicks will be posted to the Firefox Flicks website using the Vimeo API. You'll need to provide your "
+"contact information, including your email, title your flick and select your country and region."
+msgstr ""
+"Preencha seu perfil e envie seu vídeo <a href=\"%(link_submit)s\">aqui</a>. Todos os vídeos serão publicados no site do Firefox Flicks utilizando a API do Vimeo. Você precisará informar seu e-mail, "
+"país e um título para o vídeo."
+
+#: flicks/base/templates/faq.html:88
+msgid "Submissions closed on July 31 and Firefox Flicks is no longer accepting entries for this year."
+msgstr ""
+"As inscrições foram encerradas no dia 31 de julho e o Firefox Flicks não "
+"está mais aceitando inscrições para este ano."
+
+#: flicks/base/templates/faq.html:94
+msgid "How does Flicks get and use my email address?"
+msgstr "Como o Firefox Flicks usa meu endereço de e-mail?"
+
+#: flicks/base/templates/faq.html:96
+msgid ""
+"Flicks receives your email address through Persona, our site registration system. We will use your email address for contest administration purposes, such eligibility feedback, sign in and voting. "
+"You can also opt in to receive additional email updates about Firefox Flicks."
+msgstr ""
+"O Firefox Flicks recebe seu endereço de e-mail pelo Persona, nosso sistema de identificação. Nós usaremos suas informações apenas para processos relacionados ao concurso, como votação e divulgação "
+"dos resultados. Além disso, se você quiser, pode escolher receber mais informações sobre o Firefox Flicks."
+
+#: flicks/base/templates/faq.html:104
+msgid "What are the judging criteria?"
+msgstr "Quais são os critérios de julgamento?"
+
+#: flicks/base/templates/faq.html:106
+msgid "Videos will be judged on quality of shooting, editing and how closely they align with the creative brief. Entries can be animated or live action - get creative!"
+msgstr "Os vídeos serão julgados quanto à qualidade da filmagem, edição e o quanto eles se alinham à proposta de campanha. Vídeos inscritos podem ser animações ou ação ao vivo - seja criativo!"
+
+#: flicks/base/templates/faq.html:114
+msgid "A panel of celebrity judges and film industry insiders will evaluate the films and choose the Grand Prize and Regional winners."
+msgstr "Um painel de jurados composto por celebridades e membros da indústria de cinema avaliará os filmes e escolherá o Grande Prêmio e os vencedores Regionais."
+
+#: flicks/base/templates/faq.html:120
+msgid "Are there any requirements?"
+msgstr "Há algum requisito?"
+
+#: flicks/base/templates/faq.html:122
+msgid "Yes, there are some. You'll be able to find a full list under Work Criteria in the Rules (coming soon), but here is a summary:"
+msgstr "Sim, há alguns. Você poderá encontrar uma lista completa em Critérios de Trabalho nas Regras (em breve), mas aqui está o resumo:"
+
+#: flicks/base/templates/faq.html:130
+msgid "Your flick must meet the requirements of the creative brief"
+msgstr "Seu flick deve cumprir os requisitos do brief criativo"
+
+#: flicks/base/templates/faq.html:135
+msgid "Your flick must be submitted under a <a href=\"%(link_cclicense)s\" rel=\"external\">Creative Commons - NonCommercial-ShareAlike license</a>"
+msgstr "Seu flick deve ser enviado sob a licença <a href=\"%(link_cclicense)s\" rel=\"external\">Creative Commons - NãoComercial-CompartilhaIgual</a>"
+
+#: flicks/base/templates/faq.html:140
+msgid "Your flick must be original"
+msgstr "Seu flick deve ser original"
+
+#: flicks/base/templates/faq.html:145
+msgid "Non-English flicks must have subtitles or include a written English translation"
+msgstr "Flicks que não são em inglês devem ser legendados ou incluir tradução em inglês"
+
+#: flicks/base/templates/faq.html:150
+msgid "Your flick must be submitted to the Flicks site"
+msgstr "Seu flick deve ser enviado para o site do Firefox Flicks"
+
+#: flicks/base/templates/faq.html:155
+msgid "Your flick must contain an accurate description"
+msgstr "Seu flick deve conter uma descrição precisa"
+
+#: flicks/base/templates/faq.html:160
+msgid "Anyone that is not listed as a team member must sign a waiver granting you permission to film them"
+msgstr "Qualquer um que não está listado como um membro da equipe devem assinar um termo de autorização de uso de imagem"
+
+#: flicks/base/templates/faq.html:165
+msgid "Please keep it clean"
+msgstr "Por favor, mantenha tudo simples e claro"
+
+#: flicks/base/templates/faq.html:170
+msgid "You must be at least 18 years old, or the age of majority in your country of residence"
+msgstr "Você precisa ter, no mínimo, 18 anos, ou a idade considerada como \"maioridade\" no seu país de residência"
+
+#: flicks/base/templates/faq.html:176
+msgid "Who are the judges?"
+msgstr "Quem são os jurados?"
+
+#: flicks/base/templates/faq.html:178
+msgid "See our <a href=\"%(link_home)s#judges\">Judges page</a> for a complete list."
+msgstr "Confira nossa <a href=\"%(link_home)s#judges\">página de Jurados</a> para ver a lista completa."
+
+#: flicks/base/templates/faq.html:183
+msgid "Can I submit more than one flick?"
+msgstr "Eu posso enviar mais de um flick?"
+
+#: flicks/base/templates/faq.html:185
+msgid "You can submit as many as you like, but you have to submit a new entry each time."
+msgstr "Você pode enviar quantos você quiser, mas você terá que fazer uma nova inscrição a cada vez."
+
+#: flicks/base/templates/faq.html:190
+msgid "Can a team develop the flick?"
+msgstr "Uma equipe pode desenvolver o flick?"
+
+#: flicks/base/templates/faq.html:192
+msgid "Of course! Teams can be up to 3 people, but please appoint a team leader. All communication will be with this person and only one prize will be awarded per entry."
+msgstr "É claro! As equipes podem ter até 3 membros, mas somente entregaremos um prêmio por equipe. Além disso, a equipe deve escolher um líder, pois toda a comunicação será com essa pessoa."
+
+#: flicks/base/templates/faq.html:199
+msgid "Is the contest open to international entries?"
+msgstr "O concurso está aberto a inscrições internacionais?"
+
+#: flicks/base/templates/faq.html:201
+msgid ""
+"Yes. This is an international film competition and entries can be submitted through the Flicks website. The Contest is void in Cuba, Iran, North Korea, Sudan, Syria and any other country subject to "
+"a U.S. boycott, where prohibited by law or restricted by law or regulations."
+msgstr ""
+"Sim. Esta é uma competição internacional e as inscrições podem ser enviadas através do site do Firefox Flicks. O concurso não é válido em Cuba, Irã, Coreia do Norte, Sudão, Síria e qualquer outro "
+"país sujeito a um boicote dos EUA, onde haja proibição por lei ou restrição por lei ou regulamento."
+
+#: flicks/base/templates/faq.html:209
+msgid "What can I win?"
+msgstr "O que posso ganhar?"
+
+#: flicks/base/templates/faq.html:211
+msgid ""
+"Your flick will be seen and voted on by millions of Firefox fans around the world, giving you exposure to a global audience. You'll also get your entry in front of international advertising "
+"executives and film luminaries while working on one of the world's biggest brands - a great piece to add to any portfolio."
+msgstr ""
+"Somente por competir, o seu flick será visto e votado por milhões de fãs do Firefox em todo o mundo, dando a você exposição a uma audiência global. Seu vídeo de inscrição será apresentado perante "
+"executivos internacionais de propaganda e estrelas do cinema internacional, ao mesmo tempo em que trabalha com uma das maiores marcas do mundo &#8212; uma grande peça em qualquer portfólio."
+
+#: flicks/base/templates/faq.html:220
+msgid "This year, we've expanded our prizes:"
+msgstr "Este ano, nós expandimos nosso prêmios:"
+
+#: flicks/base/templates/faq.html:226
+msgid ""
+"<strong>Early Entry Awards</strong> - $1,000 awarded to the best flicks submitted before our film festival sponsorships. The top 3 early entry submission flicks from each film festival that Firefox "
+"sponsors are automatically included in the final round that will be submitted to and judged by our celebrity panel."
+msgstr ""
+"<strong>Primeiros Envios</strong> - US$1.000,00 concedidos aos melhores flicks enviados antes do nosso festival de cinema. Os 3 melhores flicks de entrada enviados de cada festival de cinema que o "
+"Firefox patrocine são automaticamente incluídos na rodada final que será enviado aos jurados do nosso painel de celebridades."
+
+#: flicks/base/templates/faq.html:235
+msgid ""
+"<strong>People's Choice Award</strong> - The 3 winning flicks will be given exposure through our channels, be exposed to millions of Firefox website visitors and receive some great Firefox swag."
+msgstr "<strong>Escolha Popular</strong> - Os 3 flicks vencedores serão exibidos nossos canais, expostos para milhões de visitantes, e receberão ótimos brindes do Firefox."
+
+#: flicks/base/templates/faq.html:243
+msgid "<strong>Regional Winners</strong> - One winner from each contest region will win a $5,000 cash prize and one runner up from each contest region will win a $2,500 cash prize. Contest regions:"
+msgstr ""
+"<strong>Vencedores Regionais</strong> - Um vencedor de cada região do concurso ganhará prêmio de US$5.000,00 em dinheiro e um vice-campeão de cada região do concurso ganhará US$2.500,00 em "
+"dinheiro. Regiões do concurso:"
+
+#: flicks/base/templates/faq.html:252
+msgid "The U.S. and Canada"
+msgstr "EUA e Canadá"
+
+#: flicks/base/templates/faq.html:262
+msgid "Europe, Middle East and Africa (EMEA)"
+msgstr "Europa, Oriente Médio e África (EMEA)"
+
+#: flicks/base/templates/faq.html:267
+msgid "Asia, Australia and New Zealand (APAC)"
+msgstr "Ásia, Austrália e Nova Zelândia"
+
+#: flicks/base/templates/faq.html:274
+msgid ""
+"<strong>Grand Prize</strong><br/> The winner (or winning team) will fly to Los Angeles to work with producer (and Flicks judge) Couper Samuelson, CEO and Founder of The Black List Franklin Leonard "
+"and representatives from Panavision to professionally produce their winning entry using professional equipment."
+msgstr ""
+"<strong>Grande prêmio</strong><br/> O vencedor (ou equipe vencedora) voará até Los Angeles para trabalhar com o produtor (e jurado) Couper Samuelson, CEO e fundador da The Black List, Franklin "
+"Leonard e representantes da Panavision para gravar seu vídeo usando equipamentos profissionais."
+
+#: flicks/base/templates/faq.html:281
+msgid "Additionally, just for entering, everyone will get a little something from us to say thanks for being a part of Firefox Flicks."
+msgstr "Além disso, só por entrar, todo mundo vai ganhar um obrigado por fazer parte do Firefox Flicks."
+
+#: flicks/base/templates/faq.html:288
+msgid "Continue to check our <a href=\"%(link_home)s#prizes\">prizes page</a> for updated information throughout the contest period."
+msgstr "Consulte a nossa <a href=\"%(link_home)s#prizes\">página de prêmios</a> para informações atualizadas durante todo o período da competição."
+
+#: flicks/base/templates/faq.html:302
+msgid "What are the deadlines for the Early Entry Awards?"
+msgstr "Quais são os prazos para o Primeiros Envios?"
+
+#: flicks/base/templates/faq.html:304 flicks/base/templates/home.html:534 flicks/videos/templates/videos/2013/winners.html:457 flicks/videos/templates/videos/2013/winners.html:533
+msgid "April 3"
+msgstr "3 de abril"
+
+#: flicks/base/templates/faq.html:304 flicks/base/templates/home.html:534
+msgid "1st Early Entry Award"
+msgstr "1º Prêmio Primeiros Envios"
+
+#: flicks/base/templates/faq.html:305 flicks/base/templates/home.html:535 flicks/base/templates/carousel/may29_earlyentry.html:4 flicks/videos/templates/videos/2013/winners.html:388
+#: flicks/videos/templates/videos/2013/winners.html:534
+msgid "May 29"
+msgstr "29 de maio"
+
+#: flicks/base/templates/faq.html:305 flicks/base/templates/home.html:535
+msgid "2nd Early Entry Award"
+msgstr "2º Prêmio Primeiros Envios"
+
+#: flicks/base/templates/faq.html:306 flicks/base/templates/home.html:536 flicks/base/templates/carousel/july3_earlyentry.html:4 flicks/videos/templates/videos/2013/winners.html:319
+#: flicks/videos/templates/videos/2013/winners.html:535
+msgid "July 3"
+msgstr "3 de julho"
+
+#: flicks/base/templates/faq.html:306 flicks/base/templates/home.html:536
+msgid "3rd Early Entry Award"
+msgstr "3º Prêmio Primeiros Envios"
+
+#: flicks/base/templates/faq.html:317
+msgid "What is the deadline to submit my flick?"
+msgstr "Qual o prazo final para enviar o meu flick?"
+
+#: flicks/base/templates/faq.html:319
+msgid ""
+"You can submit your flick to be eligible for our Early Entry Awards (above), but the deadline to submit your film to be eligible for the People's Choice Award and Regional Awards is July 31, 2013, "
+"at 11:59PM PST (7:59AM GMT)."
+msgstr ""
+"Você poderá enviar um vídeo para o concurso Primeiros Envios (acima), mas o prazo final para se candidatar aos concursos Escolha Popular e Prêmios Regionais é 31 de julho de 2013, às 23h 59min do "
+"horário do Pacífico (4h 59min de 1º de agosto de 2013 no horário oficial de Brasília, 7h 59min GMT)."
+
+#: flicks/base/templates/faq.html:326
+msgid "How will the winners be announced?"
+msgstr "Como serão anunciados os vencedores?"
+
+#: flicks/base/templates/faq.html:328
+msgid ""
+"The winners will be notified by email and phone (if contact information is available). Winners will also be announced on the Flicks site, Firefox Flicks social media properties and at Firefox "
+"sponsored film festivals."
+msgstr ""
+"Os vencedores serão avisados por e-mail e telefone (se informarem o número no cadastro). Também serão divulgados os nomes dos vencedores no site do Firefox Flicks, bem como em todas as redes "
+"sociais do concurso e festivais patrocinados pelo concurso."
+
+#: flicks/base/templates/faq.html:335
+msgid "Is there a maximum video length?"
+msgstr "Há um tempo máximo de duração do vídeo?"
+
+#: flicks/base/templates/faq.html:337
+msgid "All videos must be no longer than 60 seconds."
+msgstr "Nenhum vídeo pode ter mais do que 60 segundos."
+
+#: flicks/base/templates/faq.html:342
+msgid "Can I submit an entry as a university project?"
+msgstr "Posso enviar uma inscrição como um projeto universitário?"
+
+#: flicks/base/templates/faq.html:344
+msgid ""
+"Absolutely! We think that Firefox Flicks is a great opportunity for students to participate in a real world, high visibility campaign with expert judges from the film, television and advertising "
+"industries. Talk to your professors about using the video as your project."
+msgstr ""
+"Absolutamente! Nós achamos que o Firefox Flicks é uma ótima oportunidade para que os estudantes participem de uma campanha de alta visibilidade no mundo real, com jurados especializados das "
+"indústrias do cinema, televisão e propaganda. Converse com o seu professor sobre usar o vídeo como o seu projeto."
+
+#: flicks/base/templates/faq.html:352
+msgid "Can I use the Firefox wordmark and logo in my flick?"
+msgstr "Posso usar a marca e o logotipo Firefox no meu flick?"
+
+#: flicks/base/templates/faq.html:354
+msgid ""
+"Yes. For the purposes of this contest, you may use the <a href=\"%(link_fxbrand)s\" rel=\"external\">Firefox</a> and <a href=\"%(link_fxosbrand)s\" rel=\"external\">Firefox OS</a> wordmark and "
+"logo. For more information, see the <a href=\"%(link_tmpolicy)s\" rel=\"external\">Mozilla Trademark Policy</a>."
+msgstr ""
+"Sim. Para os propósitos deste concurso, você pode usar a marca e o logotipo do <a href=\"%(link_fxbrand)s\" rel=\"external\">Firefox</a> e <a href=\"%(link_fxosbrand)s\" rel=\"external\">Firefox "
+"OS</a>. Para mais informações, leia a <a href=\"%(link_tmpolicy)s\" rel=\"external\">Política de Marcas Registradas Mozilla</a>."
+
+#: flicks/base/templates/faq.html:365
+msgid "How do I get high resolution Firefox name and logo artwork?"
+msgstr "Como eu consigo a arte final em alta resolução do Firefox?"
+
+#: flicks/base/templates/faq.html:367
+msgid ""
+"To get high resolution copies of the Firefox and Firefox OS name and logo artwork, as well as guidance on how to use the Firefox logo and wordmarks, please <a href=\"%(link_styleguide)s\" rel="
+"\"external\">visit our style guide</a>."
+msgstr ""
+"Para conseguir cópias em alta resolução da arte final do Firefox e Firefox OS, além de orientações sobre como usar o logotipo e as marcas Firefox, por favor, visite nosso <a href="
+"\"%(link_styleguide)s\" rel=\"external\">Guia de estilo</a>."
+
+#: flicks/base/templates/faq.html:374
+msgid "Where can I find music or other materials to include in my flick?"
+msgstr "Onde posso encontrar músicas ou outros materiais para incluir no meu flick?"
+
+#: flicks/base/templates/faq.html:376
+msgid ""
+"If you're looking for additional materials - music, video footage, artwork or graphics - we suggest you investigate public domain media. <a href=\"%(link_ccommons)s\" rel=\"external\">Creative "
+"Commons</a> has a nice search service for locating public domain work (<a href=\"%(link_pdwiki)s\">Read more about the public domain at Wikipedia</a>). You can also check out this list of <a href="
+"\"%(link_tumblr_resources)s\" rel=\"external\">creative resources on the Flicks blog</a> (English only)."
+msgstr ""
+"Se você estiver procurando por material adicional - músicas, artes ou gráficos -, sugerimos que você pesquise mídias de domínio público. A <a href=\"%(link_ccommons)s\" rel=\"external\">Creative "
+"Commons</a> tem um bom serviço de pesquisa para localizar obras de domínio público (você pode saber mais sobre o domínio público na <a href=\"%(link_pdwiki)s\">Wikipedia</a>). Você também pode "
+"conferir esta lista de <a href=\"%(link_tumblr_resources)s\" rel=\"external\">recursos criativos no do blog do Flicks</a> (somente em Inglês)."
+
+#: flicks/base/templates/faq.html:391
+msgid "Can I use third-party trademarks or copyrighted materials in my flick?"
+msgstr "Eu posso usar marcas registradas ou materiais sob direitos autorais de terceiros no meu flick?"
+
+#: flicks/base/templates/faq.html:393
+msgid "No, not without permission from the owner of those materials."
+msgstr "Não, não sem permissão do proprietário de tais materiais."
+
+#: flicks/base/templates/faq.html:398
+msgid "Can I submit a flick in a language other than English?"
+msgstr "Posso apresentar um flick em um idioma que não seja o Inglês?"
+
+#: flicks/base/templates/faq.html:400
+msgid ""
+"Yes. For non-English entries, you will need to submit a full and accurate script or subtitles. If you're having trouble getting your flick translated, <a href=\"%(link_flicksemail)s\">please "
+"contact us</a>. We can help."
+msgstr ""
+"Sim. Para apresentações que não sejam em inglês, você precisará apresentar um roteiro completo e exato ou legendas. Se você estiver tendo problemas para traduzir o seu flick, por favor <a href="
+"\"%(link_flicksemail)s\">entre em contato</a>. Nós podemos ajudar."
+
+#: flicks/base/templates/faq.html:407
+msgid "What if I want to withdraw my submission?"
+msgstr "E se eu quiser cancelar a minha inscrição?"
+
+#: flicks/base/templates/faq.html:409
+msgid "If you would like to withdraw your submission, please contact us at <a href=\"%(link_flicksemail)s\">firefoxflicks@mozilla.org</a> and we will remove your entry from the competition."
+msgstr "Se você desejar cancelar a sua inscrição, entre em contato pelo <a href=\"%(link_flicksemail)s\">firefoxflicks@mozilla.org</a> e removeremos a sua inscrição da competição."
+
+#: flicks/base/templates/faq.html:416
+msgid "What aspect ratio should I use for my entry?"
+msgstr "Qual aspecto/proporção de tela eu devo usar eu meu flick?"
+
+#: flicks/base/templates/faq.html:418
+msgid "All aspect ratios will be accepted, but 16:9 is recommended and preferred."
+msgstr "Todos os formatos serão aceitos, mas 16:9 é recomendado e preferido."
+
+#: flicks/base/templates/faq.html:423
+msgid "Will entries be available to the general public?"
+msgstr "Os vídeos estarão disponíveis para o público em geral?"
+
+#: flicks/base/templates/faq.html:425
+msgid ""
+"Your flick will be posted to the Flicks gallery and the voting site, as well as the Firefox Flicks channel on Vimeo so that people can watch during the contest period and vote for their favorite "
+"flicks during the voting period. Your name will be displayed publicly along with your video."
+msgstr ""
+"Além de ser colocado em nosso canal do Vimeo, seu vídeo também será publicado na galeria do Flicks e no site de votações do concurso, assim, as pessoas podem assistí-lo. Seu nome será sempre "
+"exibido junto com seu vídeo."
+
+#: flicks/base/templates/faq.html:433 flicks/base/templates/home.html:99
+msgid "What is Firefox OS?"
+msgstr "O que é o Firefox OS?"
+
+#: flicks/base/templates/faq.html:435
+msgid ""
+"<a href=\"%(link_firefoxos)s\" rel=\"external\">Firefox OS</a> is an operating system for smartphones that anyone can change, add to and share with the world, freeing them from the rules and "
+"restrictions of existing phones and the platforms they run on. What this means is that we're making smartphones more affordable and empowering, making it possible for more people to take advantage "
+"of the full power of the Web, giving individuals and communities the freedom to blaze their own trail, amplify their voice, control their destiny and transform the future."
+msgstr ""
+"<a href=\"%(link_firefoxos)s\" rel=\"external\">O Firefox OS</a> é um sistema operacional para smartphones que qualquer pessoa pode alterar, melhorar e compartilhar com o mundo, sem ter que seguir "
+"leis ou regras de restrição como os sistemas operacionais para smartphones que já existem. Ou seja, nós estamos dando mais liberdade e força aos dispositivos móveis, possibilitando que mais pessoas "
+"tenham acesso aos poderes e benefícios da Web, com liberdade para criar e ter suas próprias escolhas, controlando seu destino e moldando seu futuro."
+
+#: flicks/base/templates/home.html:8
+msgid "A Global Video Contest to Mobilize the Web"
+msgstr "Um concurso de vídeos mundial que vai mexer com a Web"
+
+#: flicks/base/templates/home.html:24
+msgid "You&#8217;re the director. Mobile is the star."
+msgstr "Você é o diretor. A estrela é a Mobilidade."
+
+#: flicks/base/templates/home.html:28
+msgid "Enter Firefox Flicks, a global video contest about the power of the Web on mobile devices, and get your film seen by millions."
+msgstr "Participe do Firefox Flicks 2013, um concurso de vídeos sobre a força da Web em dispositivos móveis, e tenha seu vídeo assistidos por milhões de espectadores."
+
+#: flicks/base/templates/home.html:33
+msgid "Welcome to Firefox Flicks, the global video contest about the power of the Web on mobile devices."
+msgstr ""
+"Bem-vindo ao Firefox Flicks, o concurso global de vídeo sobre o poder da Web "
+"nos dispositivos móveis."
+
+#: flicks/base/templates/home.html:79
+msgid ""
+"We're looking for videos that tell the story of how having access to the Web through a mobile device can change the way you see the world and how you function within it. You could win some <a href="
+"\"#prizes\" class=\"scroll\">great prizes</a> and be seen by <a href=\"#judges\" class=\"scroll\">celebrity judges</a> who can make your moviemaking dreams come true."
+msgstr ""
+"Estamos buscando vídeos que contem a história de como o acesso à Web em aparelhos móveis pode mudar a forma como você vê o mundo e como você se encaixa nele. Você pode ganhar <a href=\"#prizes\" "
+"class=\"scroll\">prêmios excelentes</a> e ser visto por <a href=\"#judges\" class=\"scroll\">jurados celebridades</a> que podem tornar seu sonho de cineasta realidade."
+
+#: flicks/base/templates/home.html:86
+msgid ""
+"Firefox Flicks is a global video competition encouraging filmmakers to educate others about the issues that affect our online lives. This year, it's all about the power that having access to the "
+"Web through mobile devices gives people and how that power can change the way we see the world and function within it."
+msgstr ""
+"Firefox Flicks é uma competição global de vídeo incentivando cineastas a "
+"ensinarem aos outros sobre os problemas que afetam nossas vidas online. Este "
+"ano, nosso foco está no poder que o acesso à Web em aparelhos móveis dá às "
+"pessoas e como esse poder pode mudar a forma como você vê o mundo e como "
+"você se encaixa nele."
+
+#: flicks/base/templates/home.html:100
+msgid "How do I enter?"
+msgstr "Como eu participo?"
+
+#: flicks/base/templates/home.html:101
+msgid "What is the deadline?"
+msgstr "Qual o prazo final de inscrição?"
+
+#: flicks/base/templates/home.html:104 flicks/base/templates/home.html:105
+msgid "Play a short introduction video"
+msgstr "Assistir demonstração"
+
+#: flicks/base/templates/home.html:109
+msgid "Learn more about Firefox OS, the open, Web-based operating system for mobile devices, and get answers to all your other questions."
+msgstr "Aprenda mais sobre o Firefox OS, o sistema operacional aberto para dispositivos móveis, e tire todas as suas dúvidas."
+
+#: flicks/base/templates/home.html:114
+msgid "Read the FAQ"
+msgstr "Ler as Dúvidas comuns"
+
+#: flicks/base/templates/home.html:123 flicks/base/templates/shared/header.html:16
+msgid "2013 Flicks"
+msgstr "Flicks de 2013"
+
+#: flicks/base/templates/home.html:126
+msgid "Use the materials below to get inspired and to help you make your flick."
+msgstr "Use os materiais abaixo para se inspirar e facilitar a criação do seu vídeo."
+
+#: flicks/base/templates/home.html:131 flicks/base/templates/home_cta.html:36
+msgid "See Early Entry Award winners"
+msgstr "Veja os vencedores do prêmio Pioneiros"
+
+#: flicks/base/templates/home.html:132 flicks/base/templates/home_cta.html:6 flicks/base/templates/home_cta.html:61
+msgid "View the gallery of entries"
+msgstr "Ver a galeria de concorrentes"
+
+#: flicks/base/templates/home.html:133 flicks/base/templates/home_cta.html:17
+msgid "Read the creative brief"
+msgstr "Ler o brief criativo"
+
+#: flicks/base/templates/home.html:134
+msgid "Download the creative assets"
+msgstr "Baixe nossos materiais de criação"
+
+#: flicks/base/templates/home.html:138
+msgid "See what last year's winners have to say about their experience."
+msgstr "Veja o que os vencedores do ano passado têm a dizer sobre sua experiência."
+
+#: flicks/base/templates/home.html:142
+msgid "(Please note that last year's theme was Firefox. This year it's about the power of the Web on mobile devices.)"
+msgstr "(Por favor, perceba que o tema do ano passado era o Firefox. Este ano é sobre o poder da Web em aparelhos móveis.)"
+
+#: flicks/base/templates/home.html:206 flicks/base/templates/judges.html:15
+msgid "Meet the judges"
+msgstr "Conheça os jurados"
+
+#: flicks/base/templates/home.html:210
+msgid "Get to know our illustrious panel of celebrity judges &ndash; led by actor, director, producer and activist Edward Norton &ndash; who helped us choose this year's winners."
+msgstr ""
+"Conheça nosso ilustre painel de jurados &ndash; liderado pelo ator, diretor, "
+"produtor e ativista Edward Norton &ndash; que nos ajudará a escolher os "
+"vencedores deste ano."
+
+#: flicks/base/templates/home.html:216
+msgid "Get to know our illustrious panel of celebrity judges &ndash; led by actor, director, producer and activist Edward Norton &ndash; who will see your flick and help us choose this year's winner."
+msgstr ""
+"Conheça nosso ilustre painel de jurados &ndash; liderado pelo ator, diretor, produtor e ativista Edward Norton &ndash; que assistirá ao seu flick e nos ajudará a escolher o vencedor deste ano."
+
+#: flicks/base/templates/home.html:225
+msgid "Click on each photo for a full bio."
+msgstr "Clique nas fotos para ver a biografia completa."
+
+#: flicks/base/templates/home.html:236 flicks/base/templates/home.html:347 flicks/base/templates/home.html:397 flicks/base/templates/judge_macros.html:6 flicks/base/templates/judge_macros.html:170
+#: flicks/base/templates/judge_macros.html:242
+msgid "Producer"
+msgstr "Produtor"
+
+#: flicks/base/templates/home.html:244
+msgid "<abbr title=\"Executive Vice President\">EVP</abbr>, Global Sales and Marketing, Panavision"
+msgstr "Vice-presidente executivo mundial de Vendas e Marketing da Panavision"
+
+#: flicks/base/templates/home.html:250
+msgid ""
+"Panavision is excited to partner once again with the Firefox Flicks team. As partners, we are really interested in working with talented storytellers to share some of the 60-plus years of "
+"experience we have in filmmaking and stay at the forefront of the industry's transition to digital cinematography."
+msgstr ""
+"A Panavision está empolgada em mais uma vez ser parceira da equipe do Firefox Flicks. Como parceiros, estamos interessados em trabalhar com contadores de histórias talentosos para compartilhar "
+"alguns do mais de 60 anos de experiência em fazer filmes e ficar à frente na transição da indústria para a cinematografia digital."
+
+#: flicks/base/templates/home.html:269 flicks/base/templates/judge_macros.html:51
+msgid "Founder, Black List"
+msgstr "Fundador da Black List"
+
+#: flicks/base/templates/home.html:275
+msgid ""
+"My livelihood is built on spotting talent early and introducing them to Hollywood. Working with Firefox on the 2013 Flicks campaign is a natural extension of that work &ndash; creating access to "
+"the film industry for unknown but talented storytellers who will go on to make the films that will inspire the generation that follows behind them. We now live in a world where the only distance "
+"between that network and those storytellers can and should be a browser window, and I'm incredibly excited to be working with Firefox to make sure that's true."
+msgstr ""
+"Minha vida é encontrar talentos precoces e apresentá-los a Hollywood. Trabalhar com o Firefox na campanha de 2013 é uma extensão natural desse trabalho &ndash; criando acesso à indústria do cinema "
+"para contadores de histórias desconhecidos mas talentosos que farão filmes que inspirarão a geração que está por vir. Vivemos hoje em um mundo onde a única distância entre essa rede e esses "
+"contadores de histórias pode e deve ser a janela de um navegador, e eu estou incrivelmente empolgado em estar trabalhando com o Firefox para assegurar que isso seja realidade."
+
+#: flicks/base/templates/home.html:297 flicks/base/templates/judge_macros.html:80
+msgid "Actor, Director, Producer, Activist"
+msgstr "Ator, Diretor, Produtor, Ativista"
+
+#: flicks/base/templates/home.html:303
+msgid ""
+"What I think is really cool about Firefox Flicks is that it marries that core philosophy of liberating people to say what they want to say and connects it to something that's happening in the arts "
+"and film."
+msgstr ""
+"O que eu acho muito legal no Firefox Flicks é que ele casa com a filosofia central de libertar pessoas para dizer o que querem dizer e conectar isso a algo que está acontecendo nas artes e nos "
+"filmes."
+
+#: flicks/base/templates/home.html:321 flicks/base/templates/judge_macros.html:127
+msgid "General Manager, <abbr title=\"Europe, the Middle East, and Africa\">EMEA</abbr> Marketing, Dolby"
+msgstr "Gerente Geral de Marketing <abbr title=\"Europa, Oriente Médio e África\">EMEA</abbr>, Dolby"
+
+#: flicks/base/templates/home.html:327
+msgid ""
+"Sound and cinema have been inextricably linked since the movies started talking to us. Partnering with Firefox Flicks is a natural fit for Dolby as we're passionate about using sound to tell great "
+"stories through the medium of film. We're looking forward to helping young filmmakers capture the power of sound to deliver unforgettable experiences in their films."
+msgstr ""
+"Som e cinema têm sido indissociáveis ​​desde que os filmes começaram a falar conosco. A parceria com o Firefox Flicks é um ajuste natural para Dolby, já que somos apaixonados pelo uso do som para "
+"contar grandes histórias no cinema. Estamos olhando para a frente para ajudar os jovens cineastas a capturarem o poder do som para proporcionar experiências inesquecíveis em seus filmes."
+
+#: flicks/base/templates/home.html:353
+msgid ""
+"I'm a firm believer that if you have the talent and you work hard all you need to succeed is the right forum. That's what excites me about Firefox Flicks. It gives aspiring film students and "
+"filmmakers a forum that showcases their talent to millions of people around the globe and gives them access to folks that can change the trajectory of their careers."
+msgstr ""
+"Eu acredito que, se você tiver talento e trabalhar duro, tudo que você precisa para ter sucesso é a vitrine certa. Isso é o que me empolga no Firefox Flicks. Ele dá aos estudantes e aspirantes a "
+"cineastas uma vitrine  que mostra seu talento para milhões de pessoas ao redor do mundo, além de apresentar-lhes à pessoas que podem mudar a trajetória de suas carreiras."
+
+#: flicks/base/templates/home.html:373 flicks/base/templates/judge_macros.html:198
+msgid "Actor"
+msgstr "Ator"
+
+#: flicks/base/templates/home.html:379
+msgid ""
+"I love working with companies that give opportunities to independent artist, by combining technology and art Firefox is doing just that! Thank you Firefox Flicks for opening doors and allowing me "
+"to be a part of the process!"
+msgstr ""
+"Eu amo trabalhar com companhias que dão oportunidades a artistas independentes, e combinando tecnologia e arte o Firefox está fazendo exatamente isso! Obrigado Firefox Flicks por abrir as portas e "
+"permitir que eu faça parte desse processo!"
+
+#: flicks/base/templates/home.html:403
+msgid ""
+"Now that technology has helped democratize film production, it's important for technology to democratize its distribution and there is no more democratic distribution mechanism than the web "
+"browser. I'm excited to work with Mozilla and its community of creators to help tell original stories and deliver them to audiences around the world."
+msgstr ""
+"Agora que a tecnologia ajudou a democratizar a produção de filmes, é importante para a tecnologia democratizar sua distribuição e não há nenhum meio de distribuição mais democrático que um "
+"navegador da Web. Estou empolgado em trabalhar com a Mozilla e sua comunidade de criadores para ajudar a contar histórias e distribuí-las para audiências ao redor do mundo."
+
+#: flicks/base/templates/home.html:423 flicks/base/templates/judge_macros.html:266
+msgid "Cinematographer"
+msgstr "Cineasta"
+
+#: flicks/base/templates/home.html:429
+msgid ""
+"For over 30 years, I have been constantly engaged in filming the connections we all share, as humans, with the rest of our planet. The moments that make us inspired and connect us to the universe "
+"through the celebration of life. Firefox Flicks is all about connecting people through the mobile web and I'm more than happy to share my perspective with the filmmakers of tomorrow in this pursuit."
+msgstr ""
+"Por mais de 30 anos tenho estado constantemente envolvido em filmar as conexões que todos compartilhamos, como seres humanos, com o resto do nosso planeta. Os momentos que nos inspiraram e nos "
+"conectam com o universo através da celebração da vida. O Firefox Flicks é sobre como conectar as pessoas usando a Web móvel e estou mais do que feliz em compartilhar meu ponto de vista com os "
+"cineastas de amanhã nessa busca."
+
+#: flicks/base/templates/home.html:449 flicks/base/templates/judge_macros.html:307
+msgid "Producer, Director"
+msgstr "Produtor, Diretor"
+
+#: flicks/base/templates/home.html:463 flicks/base/templates/shared/header.html:19
+msgid "Prizes"
+msgstr "Prêmios"
+
+#: flicks/base/templates/home.html:467
+msgid ""
+"There are many chances and ways to win throughout the competition. That means you're not just in the running for the Grand Prize, but you could win a Regional Prize, People's Choice Award and Early "
+"Entry Award as well. Plus, the top three entries from each film festival automatically move on to the finals and a chance at the top prize (so get your flick in early). And just for entering, "
+"everyone gets a little something from us to say thanks."
+msgstr ""
+"Existem várias formas de ganhar nesta competição. Além de estar concorrendo ao Grande Prêmio, você pode ganhar o Prêmio Regional, Escolha Popular ou ainda o Primeiros Envios. E mais: os primeiros "
+"três colocados de cada festival de cinema estão automaticamente classificados para as finais. E mesmo se você não chegar nos prêmios, vai ganhar um brinde como forma de agradecimento pela "
+"participação."
+
+#: flicks/base/templates/home.html:482
+msgid "Here's a more detailed look at what you can win, but check back for prize updates throughout the contest."
+msgstr "Aqui está uma relação mais detalhada dos prêmios que estamos oferecendo, mas fique ligado, ela pode ser atualizada durante o concurso."
+
+#: flicks/base/templates/home.html:489 flicks/videos/templates/videos/2013/winners.html:31
+msgid "Grand Prize"
+msgstr "Grande Prêmio"
+
+#: flicks/base/templates/home.html:491
+msgid ""
+"The winner (or winning team) will fly to Los Angeles to work with producers (and Flicks judges) Franklin Leonard and Couper Samuelson, and representatives from Panavision to professionally produce "
+"their winning entry using professional equipment. The winning team will also get a one-day training session at the Dolby Institute in LA, as well as an invitation to a movie premiere and after-"
+"party at the Dolby Theater (if timing allows)."
+msgstr ""
+"O vencedor (ou equipe vencedora) voará até Los Angeles para trabalhar com os "
+"produtores (e jurados) Franklin Leonard e Couper Samuelson, além de "
+"representantes da Panavision, para gravar seu vídeo vencedor usando "
+"equipamentos profissionais. A equipe vencedora também terá uma sessão de "
+"treinamento de um dia no Instituto Dolby em Los Angeles, bem como um convite "
+"para uma estréia de cinema e after-party no Teatro Dolby (se o tempo "
+"permitir)."
+
+#: flicks/base/templates/home.html:503 flicks/videos/templates/videos/2013/winners.html:58
+msgid "Regional Prizes"
+msgstr "Prêmios Regionais"
+
+#: flicks/base/templates/home.html:505
+msgid ""
+"A $5,000 top prize and $2,500 for the runner-up will go to the top two flicks from each of the contest regions: Latin America, North America, Asia Pacific and Europe, the Middle East and Africa."
+msgstr "Um prêmio principal de US$5.000,00 para o campeão e US$2.500,00 para o vice-campeão de cada região: América Latina, América do Norte, Ásia-Pacífico, Europa, Oriente Médio e África."
+
+#: flicks/base/templates/home.html:514
+msgid "People's Choice Awards"
+msgstr "Escolha Popular"
+
+#: flicks/base/templates/home.html:516
+msgid "All flicks submitted by July 31 are eligible. The 3 that earn the most votes in August win a Firefox Flicks swag bag and will be posted on our channels for millions to see."
+msgstr ""
+"Todos os vídeos enviados antes de 31 de julho participarão. Os três que tiverem mais votos em agosto ganharão um kit de brindes do Firefox Flicks e serão exibidos em nossos canais de divulgação "
+"para milhões de pessoas."
+
+#: flicks/base/templates/home.html:525
+msgid "Early Entry Awards"
+msgstr "Primeiros Envios"
+
+#: flicks/base/templates/home.html:527
+msgid "There will be multiple chances to win $1,000 for submitting your flick early. Enter before the deadlines listed below to be eligible:"
+msgstr "Você tem várias chances de ganhar US$1.000,00 enviando seu vídeo com antecedência. Participe em tempo dos festivais de filmes listados abaixo para concorrer:"
+
+#: flicks/base/templates/home.html:546 flicks/base/templates/shared/header.html:20
+msgid "Rules"
+msgstr "Regras"
+
+#: flicks/base/templates/home.html:549
+msgid ""
+"We want to give budding filmmakers the opportunity to create and submit short videos about letting people discover, access and enjoy more content that matters most to them and their future. The "
+"contest will run worldwide and winners will be chosen from four regions around the world: North America, Latin America, Asia Pacific and Europe, the Middle East and Africa. <a href=\"%(rules_link)s"
+"\">Read the complete official contest rules to learn more</a>. Your flick must be submitted under a <a href=\"%(link_cclicense)s\" rel=\"external\">Creative Commons - NonCommercial-ShareAlike "
+"license</a>"
+msgstr ""
+"Nós queremos que cineastas amadores tenham a oportunidade de criar pequenos vídeos que inspirem as pessoas a descobrir, acessar e aproveitar conteúdos que farão a diferença em suas vidas e seu "
+"futuro. O concurso é mundial e os ganhadores serão escolhidos de quatro regiões pelo mundo: América do Norte, América Latina, Ásia-Pacífico e Europa, Oriente Médio e África. <a href=\"%(rules_link)s"
+"\">Leia as regras oficiais do concurso para saber mais.</a> Sou flick deve ser enviado sob uma licença <a href=\"%(link_cclicense)s\" rel=\"external\">Creative Commons - NãoComercial-"
+"CompartilhaIgual</a>."
+
+#: flicks/base/templates/home.html:563
+msgid "Sponsor"
+msgstr "Patrocinador"
+
+#: flicks/base/templates/home.html:565
+msgid "The sponsor of the contest is the Mozilla Corporation."
+msgstr "O patrocinador do projeto é a Mozilla Corporation."
+
+#: flicks/base/templates/home.html:570
+msgid "Eligibility"
+msgstr "Qualificação"
+
+#: flicks/base/templates/home.html:572
+msgid "No purchase or fee is necessary to enter or claim any prize."
+msgstr "Não é preciso pagar nenhuma taxa para participar do concurso ou receber os prêmios."
+
+#: flicks/base/templates/home.html:577
+msgid "Contest period"
+msgstr "Duração do concurso"
+
+#: flicks/base/templates/home.html:579
+msgid ""
+"The Contest begins at 3:00 p.m. Pacific Standard Time (PST) (11:00 p.m. GMT) on Wednesday, February 13, 2013, and ends at 11:59 p.m. PST on Wednesday, July 31, 2013 (7:59 a.m. GMT on August 1, "
+"2013)."
+msgstr ""
+"O concurso se inicia às 15h no fuso horário padrão do Pacífico (20h no horário oficial de Brasília, 23h GMT) na quarta-feira, 13 de fevereiro de 2013, e termina às 23h 59min de 31 de julho de 2013 "
+"no fuso horário padrão do Pacífico (4h 59min de 1º de agosto de 2013 no horário oficial de Brasília, 7h 59min GMT)."
+
+#: flicks/base/templates/home.html:586
+msgid "Privacy"
+msgstr "Política de privacidade"
+
+#: flicks/base/templates/home.html:588
+msgid ""
+"In order to enter, you'll have to provide your name, email address and country of residence (to determine your contest region). Your name and region will be posted along with your flick in the "
+"public galleries, where they can be viewed, liked and shared by everyone. <a href=\"%(rules_link)s\">Read the complete contest rules to learn more.</a>"
+msgstr ""
+"Para participar, você precisará informar seu nome, endereço de e-mail e país de moradia (para sabermos de qual concurso regional você participará). Seu nome e país serão exibidos junto com seu "
+"vídeo, aonde poderão ser curtidos e compartilhados pelos espectadores. <a href=\"%(rules_link)s\">Leia as regras completas para mais informações.</a>"
+
+#: flicks/base/templates/home.html:596
+msgid "How to enter"
+msgstr "Como participar"
+
+#: flicks/base/templates/home.html:598
+msgid "Nice work! You made it all the way to the end. When you're ready, <a href=\"%(submit_url)s\" class=\"requires-auth\">start here to submit your flick.</a>"
+msgstr "Bom trabalho! Você foi até o fim. Quando estiver pronto, <a href=\"%(submit_url)s\" class=\"requires-auth\">clique aqui para enviar o seu flick.</a>"
+
+#: flicks/base/templates/home.html:607
+msgid "The contest is now closed. The winners will be announced on September 12 at the Toronto International Film Festival."
+msgstr ""
+"O concurso já foi encerrado. Os vencedores serão anunciados no dia 12 de "
+"setembro, no Festival Internacional de Cinema de Toronto."
+
+#: flicks/base/templates/home.html:616
+msgid "The contest is now closed."
+msgstr "O concurso já foi encerrado."
+
+#: flicks/base/templates/home_cta.html:3
+msgid "Meet your competition"
+msgstr "Conheça seus concorrentes"
+
+#: flicks/base/templates/home_cta.html:14
+msgid "Start thinking about your flick"
+msgstr "Comece a planejar seu vídeo"
+
+#: flicks/base/templates/home_cta.html:25
+msgid "Submit your flick today"
+msgstr "Envie seu vídeo"
+
+#: flicks/base/templates/home_cta.html:28
+msgid "Start here"
+msgstr "Comece por aqui"
+
+#: flicks/base/templates/home_cta.html:39
+msgid "View the winning flicks so far"
+msgstr "Ver os filmes vencedores até agora"
+
+#: flicks/base/templates/home_cta.html:47
+msgid "Vote for the People's Choice Award"
+msgstr "Vote no Prêmio Escolha do Público"
+
+#: flicks/base/templates/home_cta.html:50
+msgid "Choose your favorites here"
+msgstr "Escolha os seus favoritos aqui"
+
+#: flicks/base/templates/home_cta.html:58
+msgid "Explore 2013 Flicks"
+msgstr "Explorar os Flicks de 2013"
+
+#: flicks/base/templates/home_cta.html:69
+msgid "Meet our partners"
+msgstr "Conheça nossos parceiros"
+
+#: flicks/base/templates/home_cta.html:72
+msgid "Get to know our friends who made Flicks 2013 possible"
+msgstr "Conheça nossos amigos que tornaram o Flicks 2013 possível"
+
+#: flicks/base/templates/home_cta.html:80
+msgid "See Firefox Flicks 2013 winners"
+msgstr "Veja os vencedores do Firefox Flicks 2013"
+
+#: flicks/base/templates/home_cta.html:83
+msgid "Watch the winning entries"
+msgstr "Assista os trabalhos vencedores"
+
+#: flicks/base/templates/judge_macros.html:9
+msgid ""
+"Helen Estabrook is the producing partner of director Jason Reitman and runs their production company, Right of Way Films. She most recently produced Reitman's upcoming film, <cite>Labor Day</cite>, "
+"starring Josh Brolin and Kate Winslet. Currently, they are producing a feature adaptation of the Sundance-winning short <cite>Whiplash</cite>, directed by Damien Chazelle. Helen also served as an "
+"executive producer on the Duplass Brothers' film <cite>Jeff, Who Lives at Home</cite> and Reitman's previous feature, <cite>Young Adult</cite>."
+msgstr ""
+"Helen Estabrook é a parceira de produção do diretor Jason Reitman e dirige sua companhia de produção, Right of Way Films. Recentemente ela produziu o próximo filme de Reitman, <cite>Labor Day</"
+"cite>, estrelado por Josh Brolin e Kate Winslet. Atualmente, eles estão produzindo um piloto para a HBO escrito por Bruce Eric Kaplan, para ser dirigido por Reitman, além da adaptação do curta "
+"ganhador do Sundance <cite>Whiplash</cite>, dirigido por Damien Chazelle. Helen também atuou como produtora executiva do filme dos irmãos Duplass <cite>Jeff, Who Lives at Home</cite> e a produção "
+"anterior de Reitman, <cite>Young Adult</cite>."
+
+#: flicks/base/templates/judge_macros.html:26
+msgid "<abbr title=\"Exectuve Vice President\">EVP</abbr>, Global Sales and Marketing, Panavision"
+msgstr "Vice-presidente Executivo, Vendas Globais e Marketing, Panavision"
+
+#: flicks/base/templates/judge_macros.html:29
+msgid ""
+"Bob Harvey, EVP Global Sales and Marketing for Panavision, the premier supplier of cinematography equipment to the motion picture industry for the second half of the 20th century, has been in the "
+"business for over 30 years. While working for Atari as Director of Sales for the coin op division, owned by Warner Communications, he became friendly with Clint Eastwood who helped him secure his "
+"SAG card in 1982. Warner transferred him to Panavision in 1984 where he started as Director of Marketing. He became very involved with production from start to finish of principal photography. He "
+"is a member of the American Society of Cinematographers, a charter member of the IFP for independent films, a recipient of a FINDI award for his work with new and independent filmmakers and is "
+"thought of as a mentor to many successful filmmakers today."
+msgstr ""
+"Bob Harvey, Vice-presidente executivo de Vendas Globais e Marketing da Panavision, grande fornecedora de equipamentos para filmagens para a indústria visual na segunda metade do século 20, está no "
+"ramo há mais de 30 anos. Enquanto trabalhava na Atari (adquirida pela Warner anos depois) como Diretor de Vendas, tornou-se amigo de Clint Eastwood, que o ajudou a obter seu cartão SAG em 1982. A "
+"Warner transferiu-o para a Panavision em 1984, e então Bob tornou-se membro da Sociedade Americana de Cinematografistas, em seguida, foi premiado com um prêmio FINDI por seu trabalho com produtores "
+"independentes. Bob é considerado um mentor para muitos produtores de hoje em dia."
+
+#: flicks/base/templates/judge_macros.html:54
+msgid ""
+"Franklin Leonard is the founder of the Black List, the yearly publication highlighting Hollywood's most popular unproduced screenplays and the startup birthed to continue its mission. Over 200 "
+"Black List scripts have been produced as feature films earning more than 140 Academy Award nominations including two of the last four Best Pictures and five of the last ten screenwriting Oscars. "
+"Franklin has worked in development at Universal Pictures and the production companies of Will Smith, Sydney Pollack and Anthony Minghella, Leonardo DiCaprio, and John Goldwyn. Before Los Angeles "
+"and all things film related, Franklin was &ndash; at different times &ndash; a business analyst at McKinsey & Co., a weekly columnist for the Trinidad Guardian in Port-au-Spain, Trinidad, and the "
+"communications director for John Cranley's 2000 campaign for the U.S. House of Representatives in Ohio's first district. Since 2010, he has been named one of Hollywood Reporter's 30 Under 30, Black "
+"Enterprise magazine's \"40 Emerging Leaders for Our Future,\" AOL Black Voices \"30 Black Hollywood Game Changers\"\" and Fast Company's \"100 Most Creative People in Business.\""
+msgstr ""
+"Franklin Leonard é o fundador da Black List, publicação anual que indica as criações mais populares de Holywood que acabaram não sendo publicadas. Mais de 200 scripts divulgados na Black List já "
+"foram produzidos, com mais de 140 indicações ao Academy Awards, incluindo dois dos últimos quatro indicados para Melhor Fotografia e cinco dos últimos dez indicados para Oscars. Franklin também já "
+"trabalhou na Universal Pictures e produziu obras com nomes como Will Smith, Sydney Pollack, Anthony Minghella, Leonardo DiCaprio e John Goldwyn. Andes de chegar em Los Angeles e trabalhar na "
+"indústria de filmes, Franklin também foi analista de negócios na McKinsey e Co, colunista semanal para a Trinidad Guardian em Port-au-Spain, Trinidad, e o diretor de comunicação da campanha de John "
+"Cranley, em 2000, para a Câmara de Deputados de Ohio. Desde 2010 já foi indicado para o \"30 under 30\" de Hollywood, \"40 Leaders for Our Future\", da Black Enterprise, \"30 Black Hollywood Game "
+"Changers\" da AOL Black Voices e para a reportagem \"100 Most Creative People in Business\" da Fast Company."
+
+#: flicks/base/templates/judge_macros.html:84
+msgid ""
+"Edward Norton has acted in the films <cite>Primal Fear</cite>, <cite>Everyone Says I Love You</cite>, <cite>The People vs Larry Flynt</cite>, <cite>American History X</cite>, <cite>Rounders</cite>, "
+"<cite>Fight Club</cite>, <cite>Keeping the Faith</cite>, <cite>The Score</cite>, <cite>Death to Smoochy</cite>, <cite>Frida</cite>, <cite>Red Dragon</cite>, <cite>The 25th Hour</cite>, <cite>The "
+"Italian Job</cite>, <cite>Down in the Valley</cite>, <cite>The Kingdom of Heaven</cite>, <cite>The Illusionist</cite>, <cite>The Painted Veil</cite>, <cite>The Incredible Hulk</cite>, <cite>Pride & "
+"Glory</cite>, <cite>Leaves of Grass</cite>, <cite>Stone</cite> and <cite>Moonrise Kingdom</cite>."
+msgstr ""
+"Edward Norton já atuou em filmes como: <cite>As duas faces de um crime</cite>, <cite>Todos dizem \"eu te amo\"</cite>, <cite>O povo contra Larry Flynt</cite>, <cite>A outra história americana</"
+"cite>, <cite>Cartas na mesa</cite>, <cite>Clube da luta</cite>, <cite>Tenha fé</cite>, <cite>A cartada final</cite>, <cite>Morra, Smoochy, morra!</cite>, <cite>Frida</cite>, <cite>Dragão Vermelho</"
+"cite>, <cite>A última noite</cite>, <cite>Uma saída de mestre</cite>, <cite>O vale proibido</cite>, <cite>Cruzada</cite>, <cite>O Ilusionista</cite>, <cite>O despertar de uma paixão</cite>, <cite>O "
+"incrível Hulk</cite>, <cite>Força policial</cite>, <cite>Leaves of Grass</cite>, <cite>Homens em fúria</cite> e <cite>Moonrise Kingdom</cite>."
+
+#: flicks/base/templates/judge_macros.html:98
+msgid ""
+"He has been nominated for two Academy Awards &ndash; for <cite>Primal Fear</cite> and <cite>American History X</cite> &ndash; and won a Golden Globe along with numerous other awards for his "
+"performances. He produced and directed <cite>Keeping the Faith</cite> and also produced <cite>Down in the Valley</cite> (Cannes Film Festival selection), <cite>The Painted Veil</cite>, <cite>Leaves "
+"of Grass</cite> and the documentary <cite>By The People: The Election of Barack Obama</cite>."
+msgstr ""
+"Foi indicado para dois Academy Awards com <cite>As duas faces de um crime<cite> e <cite>A outra história americana<cite>, além de ter ganho um Globo Dourado e muitas outras premiações por suas "
+"atuações. Produziu e dirigiu <cite>Tenha fé</cite>, e também produziu <cite>O vale proibido</cite>, <cite>O despertar de uma paixão</cite> e o documentário <cite>By The People: The Election of "
+"Barack Obama</cite>."
+
+#: flicks/base/templates/judge_macros.html:109
+msgid ""
+"Norton is also a committed social and environmental activist, supporting the UN Convention on Biological Diversity, the President's Committee for the Arts and Humanities, Enterprise Community "
+"Partners, the Maasai Wilderness Conservation Trust, the Libby Rouse Fund for Peace, the Signature Theater Company and Friends of the High Line. Recently Norton founded CrowdRise, an innovative new "
+"web platform that brings the power of crowd-sourcing and the fun of social networking to fundraising and volunteerism."
+msgstr ""
+"Norton também é um ativista social e ambiental, apoiando a Convenção das Nações Unidas sobre Diversidade Biológica, o Comitê Presidencial para as Artes e a Humanidade, Enterprise Community Partners "
+"e o grupo Maasai Wilderness Conservation Trust, para a Libby Rouse, Signature Theater e para a Company And Friends of The High Line. Recentemente Norton fundou a CrowdRise, uma plataforma web "
+"inovadora que fortalece o crowd-sourcing e a diversão da interação social do levantamento de fundos e do voluntariado."
+
+#: flicks/base/templates/judge_macros.html:130
+msgid ""
+"As General Manager, EMEA Marketing, Catherine Ogilvie is responsible for brand, product, and partner marketing throughout Europe, the Middle East, and Africa (<abbr>EMEA</abbr>). Catherine joined "
+"Dolby in 2009 as Vice President, Global Corporate Communications."
+msgstr ""
+"Como Gerente Geral de Marketing EMEA, Catherine Ogilvie é responsável pela marca, produção e marketing de parcerias pela Europa, Oriente Médio e África (<abbr>EMEA</abbr>). Catherine uniu-se à "
+"Dolby em 2009 como Vice-Presidente Global de Comunicações Corporativas."
+
+#: flicks/base/templates/judge_macros.html:138
+msgid ""
+"Prior to starting at Dolby, Catherine was Executive Vice President and General Manager at Edelman, the world's largest independent PR agency, where she led the San Francisco office, building award-"
+"winning integrated communications programs for clients."
+msgstr ""
+"Antes de começar na Dolby, Catherine foi Vice-Presidente Executiva e Gerente Geral da Edelman, a maior agência independente de relações públicas do mundo, onde liderou o escritório de São "
+"Francisco, criando programas premiados de comunicações integradas para os clientes."
+
+#: flicks/base/templates/judge_macros.html:146
+msgid ""
+"Previously, Catherine served as Director, Global Marketing and Communications, for the Almond Board of California, and as Senior Director, Marketing, for Napster, the original peer-to-peer music "
+"service. Catherine has also worked as a management consultant based in Munich, Germany, working with international media clients such as Bertelsmann, Kirch Gruppe, and Universal Studios."
+msgstr ""
+"Anteriormente, Catherine atuou como Diretora Global de Marketing e Comunicações para o Almond Board of Califórnia e como Diretora Sênior de Marketing para o Napster, o serviço pioneiro de música "
+"peer-to-peer. Catherine também atuou como consultora de gestão em Munique, na Alemanha, trabalhando com clientes internacionais de mídia como Bertelsmann, Kirch Gruppe e Universal Studios."
+
+#: flicks/base/templates/judge_macros.html:156
+msgid ""
+"Catherine studied theatre at Dartington College of Arts in Devon, England, and pursued post-graduate business studies at the University of London earning a Master's degree in Marketing and "
+"Communication."
+msgstr ""
+"Catherine estudou teatro na Escola Dartington de Artes em Devon, Inglaterra, e seguiu seus estudos de pós-graduação em negócios na Universidade de Londres, conquistando mestrado em Marketing e "
+"Comunicação."
+
+#: flicks/base/templates/judge_macros.html:173
+msgid ""
+"Shauna Robertson has produced some of the best comedies of the last decade. Her list of credits include <cite>Meet the Parents</cite>, <cite>Elf</cite>, <cite>Anchorman</cite>, <cite>The Forty Year "
+"Old Virgin</cite>, <cite>Knocked Up</cite>, <cite>Superbad</cite>, <cite>Pineapple Express</cite> and <cite>Forgetting Sarah Marshall</cite>. Shauna is a Canadian who moved to Hollywood to start "
+"working in the movies at age 17."
+msgstr ""
+"Shauna Robertson produziu algumas das melhores comédias da última década. Sua lista de produções inclui <cite>Entrando numa fria</cite>, <cite>Elf</cite>, <cite>O Âncora: A Lenda de Ron Burgundy</"
+"cite>, <cite>O Virgem de 40 anos</cite>, <cite>Ligeiramente grávidos</cite>, <cite>Superbad</cite>, <cite>Segurando as Pontas</cite> e <cite>Ressaca de amor</cite>. Shauna é canadense, e se mudou "
+"para Hollywood para começar a trabalhar com filmes quando tinha 17 anos."
+
+#: flicks/base/templates/judge_macros.html:183
+msgid ""
+"Last year she left the movie business to pursue her dreams of working in the non profit sector. In March 2010 she and her boyfriend, Edward Norton, launched the new web based company Crowdrise that "
+"helps individuals and charities make fundraising impactful and fun."
+msgstr ""
+"Ano passado ela deixou a indústria dos filmes para seguir seu sonho de trabalhar no setor sem fins lucrativos. Em março de 2010 ela e seu namorado, Edward Norton, lançaram uma empresa baseada em "
+"negócios onlines, a Crowdrise, que ajuda pessoas a fazerem caridade e juntar dinheiro de foma rápida e divertida."
+
+#: flicks/base/templates/judge_macros.html:201
+msgid ""
+"Named the \"next big thing\" and one of the \"top 35 Latinos under 35,\" by <cite>The Hollywood Reporter</cite>, Gina Rodriguez's profile has been rising steadily since her breakout performance as "
+"the titular character in <cite>Filly Brown</cite> during the 2012 Sundance Film Festival. A 2012 Imagen award winner for \"Best Actress in a Feature Film: <cite>Filly Brown</cite>,\" Gina is "
+"steadily noticed by the public and entertainment industry due to her incredible acting chops and infectiously joyful personality."
+msgstr ""
+"Chamada de \"a grande promessa\" e uma das \"principais 35 latinos com menos de 35\" pelo <cite>The Hollywood Reporter</cite>, o perfil de Gina Rodriguez tem aumentado de forma constante desde sua "
+"performance como protagonista em <cite>Filly Brown</cite> durante o Sundance Film Festival de 2012. Vencedora do prêmio Imagen 2012 \"Melhor Atriz em Longa-Metragem: <cite>Filly Brown</cite>\", "
+"Gina é constantemente observada pelo setor público e entretenimento devido à sua incrível capacidade de atuar e contagiante personalidade alegre."
+
+#: flicks/base/templates/judge_macros.html:212
+msgid ""
+"Growing up in Chicago, Gina Rodriguez started performing at age seven with the salsa dance company <i>Fantasia Juvenil</i>. At sixteen, Gina was one of thirteen teens to be accepted into Columbia "
+"University New York - Theatrical Collaboration, taught by Richard Niles. She was accepted into the Tisch School of the Arts, and the calling was clear; theatre was it. After the years of success in "
+"New York, Gina booked a lead role in a feature film <cite>Go For It</cite> (Lionsgate) in which she received a 2011 Imagen Awards nomination. After this, Gina booked her first co-star TV role on "
+"CBS' <cite>Eleventh Hour</cite>. She went on to book series regular roles on web series <cite>Eden's Court</cite> and <cite>No Names</cite>; her first studio film <cite>Our Family Wedding</cite> "
+"with America Ferrera; and a lead in film <cite>Superchicas</cite>. It was also recently announced that Gina has been cast in the highly coveted lead role of Pilar \"Maytag\" Robles in the Fox Navy "
+"drama pilot <cite>Wild Blue</cite>."
+msgstr ""
+"Crescida em Chicago, Gina Rodriguez começou a dançar aos sete anos com a companhia de salsa <i>Fantasia Juvenil</i>. Aos dezesseis, Gina foi uma das treze adolescentes aceitas na Columbia "
+"University New York - Theatrical Collaboration, ministrada por Richard Niles. Ela foi aceita na Tisch School of the Arts, e o chamado era claro: teatro. Após os anos de sucesso em Nova York, Gina "
+"recebeu um papel de destaque no filme <cite>Go For It</cite> (Lionsgate), pelo qual ela recebeu uma indicação ao Imagen Award 2011. Após isso, Gina recebeu o seu primeiro personagem protagonista na "
+"TV na série da CBS <cite>Eleventh Hour</cite>. Ela passou a ganhar personagens regulares nas séries da Web <cite>Eden's Court</cite> e <cite>No Names</cite>, seu primeiro filme de estúdio <cite>Our "
+"Family Wedding</cite> com America Ferrera e protagonizou o filme <cite>Superchicas</cite>. Também foi anunciado recentemente que Gina foi escalada para o papel principal altamente cobiçado de Pilar "
+"\"Maytag\" Robles no piloto dramático do Fox Navy <cite>Wild Blue</cite>."
+
+#: flicks/base/templates/judge_macros.html:228
+msgid ""
+"Gina is a supporter of Inspira, an organization that works to spotlight Latino leaders who shape their communities. She also works with the National Hispanic Foundation for the Arts and the Boyle "
+"Heights Learning Collaborative. She lives in Los Angeles, California."
+msgstr ""
+"Gina é defensora da Inspira, uma organização que trabalha para destacar líderes latinos que moldam suas comunidades. Ela também trabalha com o National Hispanic Foundation for the Arts e a Boyle "
+"Heights Learning Collaborative. Ela mora em Los Angeles, Califórnia."
+
+#. Note: The French "Palm d'Or" is a proper name and should not be translated.
+#: flicks/base/templates/judge_macros.html:246
+msgid ""
+"Couper Samuelson runs Jason Blum's Universal-based production company Blumhouse, which in the last year has produced the horror hit <cite>Sinister</cite>, the fourth <cite>Paranormal Activity</"
+"cite> movie, and a sequel to the 2011 hit <cite>Insidious</cite>, due in the theaters this August. Prior to Blumhouse, Samuelson produced the forthcoming Paramount release, <cite>Destination "
+"Wedding</cite>. Made for $100,000, that film will be the lowest-budget feature produced and released theatrically by a major studio in the modern era. Samuelson began his career at Mark Cuban's "
+"2929, where he co-produced movies including James Gray's <cite>We Own the Night</cite> and <cite>Two Lovers</cite>, both of which were nominated for the Cannes <i>Palme d'Or</i>."
+msgstr ""
+"Couper Samuelson lidera a Blumhouse, empresa de Jason Blum baseada na Universal, que no ano passado produziu o grande filme de terror <cite>A entidade</cite> e o quarto <cite>Atividade Paranormal</"
+"cite>, além da continuação do aclamado <cite>Sobrenatural</cite>, que será lançada em agosto deste ano. Antes da Blumhouse, Samuelson produziu o próximo lançamento da Paramount, <cite>Destination "
+"Wedding</cite> (ainda sem nome no Brasil). Orçado em US$100.000,00, este filme terá o menor orçamento já visto em um filme de ponta nos últimos anos. Samuelson começou sua carreira na 2929, de Mark "
+"Cuban, onde co-produziu filmes como <cite>Os donos da noite</cite> e <cite>Amantes</cite>, ambos indicados ao prêmio Cannes."
+
+#: flicks/base/templates/judge_macros.html:269
+msgid ""
+"Louie Schwartzberg is an award-winning producer, director, and cinematographer whose notable career spans more than three decades providing breathtaking imagery for feature films, television shows, "
+"documentaries and commercials."
+msgstr ""
+"Louie Schwartzberg é um produtor, diretor e diretor de fotografia premiado, cuja notável carreira se estende por mais de três décadas fornecendo imagens de tirar o fôlego para longas-metragens, "
+"programas de televisão, documentários e comerciais."
+
+#: flicks/base/templates/judge_macros.html:277
+msgid ""
+"As a visual artist, Louie has created some of the most iconic and memorable film moments of our time. He is an innovator in the world of nature, aerial and \"slice-of-life\" photography &ndash; the "
+"only cinematographer in the world who has literally been shooting time-lapse 24 hours a day, 7 days a week continuously for more than 30 years."
+msgstr ""
+"Como artista visual, Louie criou alguns dos momentos cinematográficos mais emblemáticos e memoráveis ​​do nosso tempo. Ele é um inovador no mundo da natureza e fotografia aérea &ndash; o único "
+"cineasta do mundo que tem fotografado o lapso-tempo 24 horas por dia, 7 dias por semana, de forma contínua por mais de 30 anos."
+
+#: flicks/base/templates/judge_macros.html:286
+msgid ""
+"He recently completed <cite>Wings of Life</cite>, a documentary feature for Disneynature, narrated by Meryl Streep. It won Best Theatrical Program at the Jackson Hole Science Media Awards 2012, a "
+"Best Cinematography Roscar Award, and the Best Cinematography Award at the 2013 Waimea Ocean Film Festival. The film reveals the fragile relationship between flowers, and their pollination "
+"partners. It is a love story that feeds the earth. The film will be released April 16 on Blu Ray. As a director, he is completing <cite>Mysteries of the Unseen World</cite>, a 3D-IMAX film with "
+"National Geographic, that is targeted for an October 2013 release. The film is a journey into invisible worlds that are too slow, too fast, too small and too vast for the human eye to see. He has "
+"received Clio Awards for Best Environmental PSA, an Emmy nomination for Best Cinematography for <cite>Oceans of Air</cite> on the Discovery Channel, and recognized as one of the top 70 "
+"Cinematographers for the On Film Kodak Salute Series."
+msgstr ""
+"Ele completou recentemente <cite>Wings of Life</cite>, um documentário para Disneynature, narrado por Meryl Streep. Ele ganhou Best Theatrical Program no Jackson Hole Science Media Awards 2012, um "
+"Best Cinematography Roscar Award e Best Cinematography Award no Waimea Ocean Film Festival 2013. A película revela a relação frágil entre flores e os seus parceiros de polinização. É uma história "
+"de amor que alimenta a terra. O filme será lançado em 16 de abril em Blu-Ray. Como diretor, ele está completando <cite>Mysteries of the Unseen World</cite>, um filme 3D-IMAX com a National "
+"Geographic, direcionado para lançamento em outubro 2013. O filme é uma jornada em mundos invisíveis que são muito lentos, muito rápidos, muito pequenos e muito grandes para o olho humano ver. Ele "
+"recebeu Clio Awards por Melhor PSA Ambiental, uma indicação ao Emmy de Melhor Fotografia por <cite>Oceans of Air</cite> no Discovery Channel e é reconhecido como um dos top 70 diretores de "
+"fotografia no On Film Kodak Series Salute."
+
+#: flicks/base/templates/judge_macros.html:310
+msgid ""
+"Andrzej Szajna has been in and out of the film and TV industry for 19 years. He started his career as an assistant director on low budget action movies such as <cite>Avalon</cite>, <cite>Derailed</"
+"cite>, and <cite>Out of Reach</cite> and worked for Independent producers such as Nu Image and Lucky 7 productions. At this point, Andrzej delved into stockbroking and entrepreneurship for 3 years. "
+"He went on to produce <cite>Snow White Russian Red</cite> which won best film in 2010 at the Polish Eagle awards, as well as the Polish Hollywood Eagle awards. Afterwards, he produced "
+"<cite>Londoners</cite>, a Polish TV series with a 13 million euro budget, which was nominated for Prix Europa and other awards internationally."
+msgstr ""
+"Andrzej Szajna foi dentro e fora da indústria cinematográfica e de TV por 19 anos. Ele começou sua carreira como assistente de direção em filmes de baixo orçamento como <cite>Avalon</cite>, "
+"<cite>Derailed</cite> e <cite>Out of Reach</cite> e trabalhou para produtoras independentes como Nu Image e Lucky 7. Nesse ponto, Andrzej mergulhou em corretagem e empreendedorismo por 3 anos. Ele "
+"passou a produzir <cite>Snow White Russian Red</cite>, que ganhou melhor filme em 2010, além dos prêmios Polish Hollywood Eagle. Em seguida, ele produziu <cite>Londoners</cite>, uma série de TV "
+"polonesa com um orçamento de 13 milhões de Euros, que foi indicado para o Prix Europa e outros prêmios internacionais."
+
+#: flicks/base/templates/judge_macros.html:323
+msgid "Andrzej has spent the last couple of years fund raising for non profit organizations and is currently developing a slate of new projects for 2014."
+msgstr "Andrzej passou os últimos dois anos de captando recursos para organizações sem fins lucrativos e atualmente está desenvolvendo uma base para novos projetos para 2014."
+
+#: flicks/base/templates/judges.html:5 flicks/base/templates/shared/header.html:18
+msgid "Judges"
+msgstr "Jurados"
+
+#: flicks/base/templates/judges.html:7
+msgid "Get to know our illustrious panel of celebrity judges who will see your flick and help us choose this year's winner."
+msgstr "Conheça o nosso ilustre painel de jurados que assistirá ao seu flick e ajudará a escolher o vencedor deste ano."
+
+#: flicks/base/templates/macros.html:12
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: flicks/base/templates/macros.html:20 flicks/base/templates/macros.html:42 flicks/base/templates/macros.html:57
+msgid "<span>Go to page</span> %(page_number)s"
+msgstr "<span>Ir para a página</span> %(page_number)s"
+
+#: flicks/base/templates/macros.html:35
+msgid "<span>You're on page</span> %(page_number)s"
+msgstr "<span>Você está na página</span> %(page_number)s"
+
+#: flicks/base/templates/macros.html:67
+msgid "Next page"
+msgstr "Próxima página"
+
+#: flicks/base/templates/macros.html:93
+msgid "Share this video with your social network"
+msgstr "Compartilhe este vídeo com seus amigos"
+
+#: flicks/base/templates/macros.html:94
+msgid "Share Video"
+msgstr "Compartilhar"
+
+#. Text is used in a tweet, please keep the length under 70 characters.
+#: flicks/base/templates/macros.html:105
+msgid "Vote For \"%s\" in the #FirefoxFlicks #FirefoxOS People's Choice Awards!"
+msgstr "votos para \"%s\" no premio escolha popular #FirefoxFlicks #FirefoxOS!"
+
+#. Text is used in a tweet, please keep the length under 110 characters.
+#: flicks/base/templates/macros.html:108
+msgid "Watch \"%s\" on Firefox Flicks"
+msgstr "Assista a \"%s\" no Firefox Flicks"
+
+#. Text is used in a tweet, please keep the length under 110 characters.
+#: flicks/base/templates/macros.html:114 flicks/videos/templates/videos/upload_complete.html:42
+msgid "You're the director. Mobile is the star."
+msgstr "Você é o diretor. A Mobilidade é a estrela."
+
+#: flicks/base/templates/macros.html:121
+msgid "Share on Twitter"
+msgstr "Twitter"
+
+#: flicks/base/templates/macros.html:126
+msgid "Share on Facebook"
+msgstr "Facebook"
+
+#: flicks/base/templates/macros.html:131
+msgid "Share on Tumblr"
+msgstr "Tumblr"
+
+#: flicks/base/templates/macros.html:136
+msgid "Embed"
+msgstr "Incorporar"
+
+#: flicks/base/templates/partners.html:3
+msgid "Partners"
+msgstr "Parceiros"
+
+#: flicks/base/templates/partners.html:13
+msgid "Flicks Partners"
+msgstr "Parceiros do Flicks"
+
+#: flicks/base/templates/partners.html:16
+msgid "We recognize our partners for their generous contributions to making the 2013 Firefox Flicks contest a hit."
+msgstr "Nós reconhecemos nossos parceiros por suas generosas contribuições para tornar o Firefox Flicks 2013 um sucesso."
+
+#: flicks/base/templates/partners.html:22
+msgid "Major Partners"
+msgstr "Principais Parceiros"
+
+#: flicks/base/templates/partners.html:33
+msgid "Media Partners"
+msgstr "Parceiros de Mídia"
+
+#: flicks/base/templates/partners.html:39
+msgid "Festival Partners"
+msgstr "Parceiros de Festivais"
+
+#. Copy For Slide Based (PDF), each line correspondes to a specific slide. If text is shorter, please make sure we have text per slide.
+#: flicks/base/templates/strings.html:5
+msgid ""
+"This year, we need your help to inspire others to Get Mobilized.<br> That means harnessing the power of the Web on mobile devices to discover new content...<br> ... exploring how that content "
+"connects you to new ideas...<br> ... and discovering how those ideas can enrich your life.<br> To that end, we're asking you to write, produce and edit a video of no more than 60 seconds...<br> ... "
+"that tells the story of how having access to the Web through a mobile device can change the way you see the world and how you function within it. Here are a few tips to get you started:<br> You "
+"don't have to use a mobile device to make your video.<br> Your video should be 60 seconds or less.<br> Please don't show any branded devices.<br> Don't focus on Firefox, but rather the power and "
+"potential of mobile.<br> It can be animated or live action. (Or both - get creative!)<br> It can be funny, quirky or serious. It's up to you!<br> But make it inspiring, dynamic, hopeful and "
+"optimistic.<br> Your video should talk to ordinary people, not geeks, hackers or expert coders. (Try thinking of people who aren't online yet.)<br> All in 60 seconds or less.<br> We've prepared a "
+"few things to help. Feel free to use them if you like. You can download them here: {URL TBD}<br> Together, we can bring the promise of the Web to the next billion people coming online.<br> Get "
+"ready.<br> Get creating.<br> Get Mobilized.<br>"
+msgstr ""
+"Este ano precisamos de sua ajuda para inspirar outras pessoas a se mobilizar.<br> Isso significa aproveitar o poder da Web em aparelhos móveis para descobrir novos conteúdos...<br> ...explorar como "
+"esse conteúdo se conecta a novas ideias...<br> ...e descobrir como essas ideias podem melhorar a sua vida.<br> Para isso, estamos pedindo para você escrever, produzir e editar um vídeo de no máximo "
+"60 segundos...<br> ...que conte a história de como ter acesso à Web usando um aparelho móvel pode mudar a maneira como você vê o mundo e como você funciona dentro dele. Aqui estão algumas dicas "
+"para você começar:<br> você não precisa usar um aparelho móvel para fazer o seu vídeo.<br> Seu vídeo deve ter 60 segundos ou menos.<br> Por favor, não exiba nenhuma marca de aparelhos.<br> Foque na "
+"força e no potencial da Web, não no Firefox.<br> Pode ser animação ou filmagem (ou os dois), você quem escolhe.<br> Risadas ou tom sério? Você decide!<br> Mas faça um vídeo inspirador, útil e "
+"otimista!<br> O vídeo deve ser direcionado a pessoas comuns, não somente para hackers ou programadores. (Tente pensar em pessoas que não usam a Internet ainda.)<br> Tudo isso em 60 segundos ou "
+"menos.<br> Nós preparamos alguns materiais para ajudar. Fique à vontade para utilizá-los como quiser. Faça o download dos materiais aqui: {URL TBD}<br> Juntos, vamos levar o mundo da Web para mais "
+"pessoas, em vários lugares.<br> Prepare-se.<br> Crie.<br> Mobilize-se.<br>"
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:4
+msgid "Voting Starts August 1st"
+msgstr "A votação começa em 1 de agosto"
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:6
+msgid "You're not just competing for the Grand Prize. You could also win a People's Choice Award. Get tips to help your flick get votes."
+msgstr ""
+"Você não está apenas competindo para o Grande Prémio. Você também pode "
+"ganhar um Prêmio Escolha Popular. Veja dicas para ajudar o seu filme a "
+"conseguir votos."
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:13 flicks/base/templates/carousel/blogpost_baficiwinner.html:12 flicks/base/templates/carousel/blogpost_getcreative.html:12
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:12 flicks/base/templates/carousel/blogpost_judges.html:11 flicks/base/templates/carousel/blogpost_july3winner.html:12
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:13 flicks/base/templates/carousel/blogpost_may29winner.html:12 flicks/base/templates/carousel/blogpost_recap_nowe.html:13
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:12 flicks/base/templates/carousel/blogpost_shootingpeople.html:13 flicks/base/templates/carousel/blogpost_winbig.html:13
+msgid "Read the blog post"
+msgstr "Ler a postagem no blog"
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:14 flicks/base/templates/carousel/blogpost_baficiwinner.html:13 flicks/base/templates/carousel/blogpost_getcreative.html:13
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:13 flicks/base/templates/carousel/blogpost_judges.html:12 flicks/base/templates/carousel/blogpost_july3winner.html:13
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:14 flicks/base/templates/carousel/blogpost_may29winner.html:13 flicks/base/templates/carousel/blogpost_recap_nowe.html:14
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:13 flicks/base/templates/carousel/blogpost_shootingpeople.html:14 flicks/base/templates/carousel/blogpost_winbig.html:14
+#: flicks/base/templates/carousel/sept13_winner.html:13
+msgid "English only"
+msgstr "Somente em Inglês"
+
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:4
+msgid "Now playing: April 3 winners"
+msgstr "Em exibição: vencedores de 3 de abril"
+
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:6
+msgid "Help us congratulate our first group of Early Entry Award winners who automatically qualify for the Grand Prize."
+msgstr "Ajude-nos a parabenizar nosso primeiro grupo de vencedores do prêmio Primeiros Envios que se qualificaram automaticamente para o Grande Prêmio."
+
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:18 flicks/base/templates/carousel/blogpost_july3winner.html:18 flicks/base/templates/carousel/blogpost_may29winner.html:18
+#: flicks/base/templates/carousel/sept13_winner.html:18
+msgid "Watch the winning flick"
+msgstr "Assista ao flick vencedor"
+
+#: flicks/base/templates/carousel/blogpost_getcreative.html:4
+msgid "Get Creative (Commons)"
+msgstr "Consultar Creative Commons"
+
+#: flicks/base/templates/carousel/blogpost_getcreative.html:6
+msgid "Learn about our Creative Commons partnership and how you can use their licensed materials in your flick."
+msgstr "Saiba mais sobre nossa parceria com o Creative Commons e como você pode usar material licenciado em seu flick."
+
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:4
+msgid "Tips for <br>winning flicks"
+msgstr "Dicas pra <br>flicks vencedores"
+
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:6
+msgid "Take an in-depth look at the creative brief and get advice from the Flicks team to give your flick the best shot at the Grand Prize."
+msgstr "Dê uma olhada detalhada no briefing criativo e obtenha dicas da equipe do Flicks para dar ao seu filme o melhor ângulo para o Grande Prêmio."
+
+#: flicks/base/templates/carousel/blogpost_judges.html:4
+msgid "Meet The Judges"
+msgstr "Conheça os jurados"
+
+#: flicks/base/templates/carousel/blogpost_judges.html:6
+msgid "Get your flick in front of Edward Norton and the rest of our all-star cast."
+msgstr "Tenha seu flick frente a Edward Norton e o resto do nosso elenco de estrelas."
+
+#: flicks/base/templates/carousel/blogpost_july3winner.html:4
+msgid "Now playing: July 3 winners"
+msgstr "Em exibição: vencedores de 3 de julho "
+
+#: flicks/base/templates/carousel/blogpost_july3winner.html:6
+msgid "Help us congratulate our last group of Early Entry Award winners who automatically qualify for the Grand Prize."
+msgstr "Ajude-nos a parabenizar nosso primeiro grupo de vencedores do prêmio Primeiros Envios que se qualificaram automaticamente para o Grande Prêmio."
+
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:4
+msgid "Make your flick a winner"
+msgstr "Faça do seu flick um vencedor"
+
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:6
+msgid "We've partnered with some great brands to bring you a number of free assets that you can use to help your flick stand out."
+msgstr "Nós fechamos parcerias com excelentes marcas para trazer até você alguns itens gratuitos que você pode usar para ajudar o seu flick a se destacar."
+
+#: flicks/base/templates/carousel/blogpost_may29winner.html:4
+msgid "Now playing: May 29 winners"
+msgstr "Em exibição: vencedores de 29 de maio"
+
+#: flicks/base/templates/carousel/blogpost_may29winner.html:6
+msgid "Help us congratulate our second group of Early Entry Award winners who automatically qualify for the Grand Prize."
+msgstr "Ajude-nos a parabenizar nosso primeiro grupo de vencedores do prêmio Primeiros Envios que se qualificaram automaticamente para o Grande Prêmio."
+
+#: flicks/base/templates/carousel/blogpost_recap_nowe.html:4
+msgid "A look back at Warsaw and Manila"
+msgstr "Um olhar para trás em Varsóvia e Manila"
+
+#: flicks/base/templates/carousel/blogpost_recap_nowe.html:6
+msgid "Flicks has been walking the red carpet this summer at the New Horizons and Cinemalaya film festivals. Catch up with our official recap."
+msgstr ""
+"Flicks foi caminhando pelo tapete vermelho neste verão nos festivais de New "
+"Horizons e Cinemalaya. acompanhe nosso resumo oficial."
+
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:4
+msgid "Meet Louie Schwartzberg"
+msgstr "Conheça Louie Schwartzberg"
+
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:6
+msgid "A Flicks judge and award-winning cinematographer, Louie is the brains and vision behind Moving Art."
+msgstr "Jurado do Flicks e cineasta premiado, Louie é o cérebro e a visão por trás da Moving Art."
+
+#: flicks/base/templates/carousel/blogpost_shootingpeople.html:4
+msgid "Meet <br>Shooting People"
+msgstr "Conheça <br>outros cineastas"
+
+#: flicks/base/templates/carousel/blogpost_shootingpeople.html:6
+msgid "Learn more about this network of indie filmmakers, including your chance to get a free membership."
+msgstr "Saiba mais sobre essa rede de cineastas independentes, incluindo sua chance de obter uma assinatura gratuita."
+
+#: flicks/base/templates/carousel/blogpost_winbig.html:4
+msgid "Win big, <br>win often"
+msgstr "Ganhar muito, <br>ganhar frequentemente"
+
+#: flicks/base/templates/carousel/blogpost_winbig.html:6
+msgid "There are many prizes and many chances to win throughout the competition. Learn more about this year's amazing awards."
+msgstr ""
+"Há muitos prêmios e muitas chances de ganhar durante toda a competição. "
+"Saiba mais sobre os prêmios incríveis deste ano."
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:4
+msgid "Enter by"
+msgstr "Entre hoje mesmo"
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:4
+msgid "July 31"
+msgstr "31 de julho"
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:6
+msgid "Time is running out! Get your flick in soon to qualify for the Grand Prize and People's Choice Awards."
+msgstr ""
+"O tempo está acabando! Envie seu filme rapido para se qualificar para o "
+"Grande Prémio e do Prêmio Escolha Popular."
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:12 flicks/base/templates/carousel/july3_earlyentry.html:12 flicks/base/templates/carousel/may29_earlyentry.html:12
+msgid "Enter today"
+msgstr "Entre hoje mesmo"
+
+#: flicks/base/templates/carousel/july3_earlyentry.html:4 flicks/base/templates/carousel/may29_earlyentry.html:4
+msgid "Early entry deadline:"
+msgstr "Prazo final dos Primeiros Envios:"
+
+#: flicks/base/templates/carousel/july3_earlyentry.html:6
+msgid "Submit your flick by July 3 to qualify for our final Early Entry Award. You could win $1,000 and automatically qualify for the Grand Prize."
+msgstr "Envie seu vídeo até 3 de julho para se qualificar para o Prêmio Primeiros Envios final. Você pode ganhar US$ 1.000,00 e automaticamente se qualificar para o Grande Prêmio."
+
+#: flicks/base/templates/carousel/may29_earlyentry.html:6
+msgid "Submit your flick by May 29 to qualify for our second Early Entry Award. You could win $1,000 and automatically qualify for the Grand Prize."
+msgstr "Envie seu vídeo até 29 de maio para se qualificar para o segundo Prêmio Primeiros Envios. Você pode ganhar US$ 1.000,00 e automaticamente se qualificar para o Grande Prêmio."
+
+#: flicks/base/templates/carousel/sept13_winner.html:4
+msgid "Congratulations to our winners"
+msgstr "Parabéns aos nossos vencedores"
+
+#: flicks/base/templates/carousel/sept13_winner.html:6
+msgid "The votes are in and we're excited to present the winners of Firefox Flicks 2013. Thanks to everyone who entered!"
+msgstr ""
+"A votação está encerrada e estamos animado para apresentar os vencedores do "
+"Firefox Flicks 2013. Obrigado a todos que entraram!"
+
+#: flicks/base/templates/carousel/sept13_winner.html:12
+msgid "Watch the winning flicks"
+msgstr "Assista aos filmes vencedores"
+
+#: flicks/base/templates/carousel/slide-three.html:4
+msgid "Now playing"
+msgstr "Em exibição"
+
+#: flicks/base/templates/carousel/slide-three.html:4 flicks/base/templates/carousel/slide-three.html:11
+msgid "Directors&#8217; cuts"
+msgstr "Comentários dos diretores"
+
+#: flicks/base/templates/carousel/slide-three.html:6
+msgid "Learn more about last year's winners and get some advice on making your own winning flick."
+msgstr "Conheça os vencedores do ano passado e leia algumas dicas para criar seu vídeo."
+
+#: flicks/base/templates/carousel/slide-two.html:4
+msgid "Enter by April 3"
+msgstr "Participe até 3 de abril"
+
+#: flicks/base/templates/carousel/slide-two.html:6
+msgid "Submit your flick in time for the BAFICI film festival in Buenos Aires and you could win a $1000 Early Entry Award and be automatically qualified for the Grand Prize."
+msgstr "Envie seu vídeo antes do BAFICI Film Festival em Buenos Aires e concorra a US$1.000,00 pelo prêmio Primeiros Envios, além de já estar concorrendo ao Grande Prêmio."
+
+#: flicks/base/templates/carousel/slide-two.html:12
+msgid "Get the creative brief"
+msgstr "Ver o brief criativo"
+
+#: flicks/base/templates/carousel/tiff-teaser.html:4
+msgid "Winners announced"
+msgstr "Os vencedores serão anunciados"
+
+#: flicks/base/templates/carousel/tiff-teaser.html:4
+msgid "Sept. 12"
+msgstr "12 de set."
+
+#: flicks/base/templates/carousel/tiff-teaser.html:6
+msgid "We're gearing up to present the final results at the Toronto International Film Festival. Get ready by watching our latest Early Entry Award winners."
+msgstr ""
+"Estamos preparando para apresentar os resultados finais no Festival "
+"internacional de filmes em Toronto. Prepare-se, observando os nossos mais "
+"recentes vencedores do Prêmio de inscrição antecipada."
+
+#: flicks/base/templates/carousel/tiff-teaser.html:12
+msgid "See the winning flicks"
+msgstr "Assista aos flicks vencedores"
+
+#: flicks/base/templates/carousel/vote.html:4
+msgid "Choose your favorites"
+msgstr "Escolha os seus favoritos"
+
+#: flicks/base/templates/carousel/vote.html:6
+msgid "August 31 is the last day to vote for the People's Choice Awards. Don't miss your chance."
+msgstr ""
+"31 de agosto é o último dia para votar para os Prêmios Escolha Popular. Não "
+"perca a sua chance."
+
+#: flicks/base/templates/carousel/vote.html:12
+msgid "Vote now"
+msgstr "Vote agora"
+
+#: flicks/base/templates/rules/en-US.html:5
+msgid "Firefox Flicks Contest Official Rules"
+msgstr "Regras oficiais do concurso Firefox Flicks"
+
+#: flicks/base/templates/shared/footer_fineprint.html:3
+msgid "Privacy Policy"
+msgstr "Política de privacidade"
+
+#: flicks/base/templates/shared/footer_fineprint.html:4
+msgid "Legal"
+msgstr "Avisos legais"
+
+#: flicks/base/templates/shared/footer_fineprint.html:7
+msgid "Other languages:"
+msgstr "Outros idiomas:"
+
+#. This is a label for a form submit button
+#: flicks/base/templates/shared/footer_fineprint.html:16
+msgid "Submit"
+msgstr "Enviar"
+
+#: flicks/base/templates/shared/header.html:11
+msgid "Menu"
+msgstr "Menu"
+
+#: flicks/base/templates/shared/header.html:14
+msgid "About"
+msgstr "Sobre"
+
+#: flicks/base/templates/shared/header.html:22
+msgid "Vote Now!"
+msgstr "Vote agora!"
+
+#: flicks/base/templates/shared/header.html:24
+msgid "Blog"
+msgstr "Blog"
+
+#: flicks/base/templates/shared/header.html:35
+msgid "Sign out"
+msgstr "Sair"
+
+#: flicks/base/templates/shared/header.html:39 flicks/users/templates/users/profile.html:33 flicks/users/templates/users/profile.html:38 flicks/videos/templates/videos/upload.html:3
+#: flicks/videos/templates/videos/upload.html:25 flicks/videos/templates/videos/upload.html:30 flicks/videos/templates/videos/upload_complete.html:5
+#: flicks/videos/templates/videos/upload_complete.html:15 flicks/videos/templates/videos/upload_complete.html:20 flicks/videos/templates/videos/upload_error.html:3
+msgid "Submit your flick"
+msgstr "Enviar seu vídeo"
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: flicks/users/forms.py:12
+msgid "Text"
+msgstr "Texto"
+
+#: flicks/users/templates/users/profile.html:3 flicks/users/templates/users/profile.html:37 flicks/videos/templates/videos/upload.html:29 flicks/videos/templates/videos/upload_complete.html:19
+msgid "Enter your information"
+msgstr "Digite suas informações"
+
+#: flicks/users/templates/users/profile.html:36 flicks/videos/templates/videos/upload.html:28 flicks/videos/templates/videos/upload_complete.html:18
+msgid "Sign in to Flicks"
+msgstr "Acessar o Flicks"
+
+#: flicks/users/templates/users/profile.html:44
+msgid "Thanks for entering Firefox Flicks, the global video contest about the power of mobile. To submit your flick, please tell us who you are and where you're from."
+msgstr "Obrigado por enviar seu vídeo para o Firefox Flicks, a competição global de vídeos sobre o poder da mobilidade. Para enviar seu flick, por favor, conte para nós quem você é e onde você mora."
+
+#: flicks/users/templates/users/profile.html:54
+msgid "Your name will be displayed publicly with your video."
+msgstr "Seu nome será exibido publicamente com o seu vídeo."
+
+#: flicks/users/templates/users/profile.html:56
+msgid "Full Name"
+msgstr "Nome completo"
+
+#. Form label for the nickname field. It is optional for users to fill out.
+#: flicks/users/templates/users/profile.html:60
+msgid "Nickname (optional)"
+msgstr "Apelido (opcional)"
+
+#: flicks/users/templates/users/profile.html:64
+msgid "Some prizes are awarded by region, so let us know what part of the world your flick is representing."
+msgstr "Alguns prêmios são dados por região, então diga que parte do mundo o seu flick está representando."
+
+#: flicks/users/templates/users/profile.html:66 flicks/users/templates/users/profile.html:94
+msgid "Country"
+msgstr "País"
+
+#: flicks/users/templates/users/profile.html:69 flicks/videos/models.py:217 flicks/videos/models.py:259
+msgid "Region"
+msgstr "Região"
+
+#: flicks/users/templates/users/profile.html:76
+msgid "Mailing address (optional)"
+msgstr "Endereço para correspondência (opcional)"
+
+#: flicks/users/templates/users/profile.html:83
+msgid "We ask for your address so we can send you an awesome gift for participating. Providing it is completely optional and we won't use it or keep it for any other purpose."
+msgstr ""
+"Nós pedimos o seu endereço para que possamos enviar um presente sensacional pela sua participação. Oferecê-lo é completamente opcional e nós não o usaremos ou armazenaremos para outro propósito."
+
+#: flicks/users/templates/users/profile.html:85
+msgid "Address line 1"
+msgstr "Rua, número, complemento"
+
+#: flicks/users/templates/users/profile.html:88
+msgid "Address line 2"
+msgstr "Bairro"
+
+#: flicks/users/templates/users/profile.html:91
+msgid "City"
+msgstr "Cidade"
+
+#: flicks/users/templates/users/profile.html:97
+msgid "State/Province"
+msgstr "Estado"
+
+#: flicks/users/templates/users/profile.html:100
+msgid "Postal Code"
+msgstr "CEP"
+
+#: flicks/users/templates/users/profile.html:107
+msgid "I'm okay with you handling my info as you explain in your <a href=\"{link}\" rel=\"external\">privacy policy</a>"
+msgstr "Eu concordo com a forma como a Mozilla lida com essas informações conforme explicado em sua <a href=\"{link}\" rel=\"external\">política de privacidade</a>"
+
+#: flicks/users/templates/users/profile.html:112
+msgid "I want to receive email updates about Firefox Flicks"
+msgstr "Eu quero receber atualizações por e-mail sobre o Firefox Flicks"
+
+#. Refers to the format of an email, either HTML or Text.
+#: flicks/users/templates/users/profile.html:116
+msgid "Email Format"
+msgstr "Formato da mensagem"
+
+#: flicks/users/templates/users/profile.html:123 flicks/videos/templates/videos/upload.html:116
+msgid "Next"
+msgstr "Próximo"
+
+#: flicks/videos/forms.py:28
+msgid "All regions"
+msgstr "Todas as regiões"
+
+#. L10n: Label for the order in which to sort a list of videos.
+#: flicks/videos/forms.py:31
+msgid "Random"
+msgstr "Aleatório"
+
+#. L10n: Label for the order in which to sort a list of videos.
+#: flicks/videos/forms.py:33
+msgid "by Title"
+msgstr "por título"
+
+#. L10n: Label for the order in which to sort a list of videos.
+#: flicks/videos/forms.py:64
+msgid "by Popularity"
+msgstr "por popularidade"
+
+#: flicks/videos/models.py:170
+msgid ":30 Spot"
+msgstr "Amostra de 30 segundos"
+
+#: flicks/videos/models.py:171
+msgid "Animation"
+msgstr "Animação"
+
+#: flicks/videos/models.py:172
+msgid "New Technology"
+msgstr "Nova tecnologia"
+
+#: flicks/videos/models.py:173
+msgid "PSA"
+msgstr "PSA"
+
+#: flicks/videos/models.py:179
+msgid "Europe"
+msgstr "Europa"
+
+#: flicks/videos/models.py:180
+msgid "Asia, Africa & Australia"
+msgstr "Ásia, África e Austrália"
+
+#: flicks/videos/models.py:193
+msgid "30 Second Spot Winner"
+msgstr "Vencedor - Spot de 30 segundos"
+
+#: flicks/videos/models.py:194
+msgid "Animation Winner"
+msgstr "Vencedor - Animação"
+
+#: flicks/videos/models.py:195
+msgid "New Technology Winner"
+msgstr "Vencedor - Nova Tecnologia"
+
+#: flicks/videos/models.py:196
+msgid "PSA Winner"
+msgstr "Vencedor - PSA"
+
+#: flicks/videos/models.py:203
+msgid "Title"
+msgstr "Título"
+
+#: flicks/videos/models.py:205
+msgid "Description"
+msgstr "Descrição"
+
+#: flicks/videos/models.py:214 flicks/videos/models.py:256
+msgid "Category"
+msgstr "Categoria"
+
+#: flicks/videos/models.py:221
+msgid "Video File URL"
+msgstr "URL do arquivo do vídeo"
+
+#: flicks/videos/models.py:268 flicks/videos/models.py:277
+msgid "%(winner)s for %(region)s"
+msgstr "%(winner)s para %(region)s"
+
+#: flicks/videos/models.py:269
+msgid "Grand Prize Winner"
+msgstr "Vencedor - Grande Prêmio"
+
+#: flicks/videos/models.py:273
+msgid "Bay Area Video Coalition Prize Winner"
+msgstr "Ganhador do Prêmio Bay Area Video Coalition"
+
+#: flicks/videos/models.py:275
+msgid "Panavision Prize Winner"
+msgstr "Ganhador do Prêmio Panavision"
+
+#. L10n: Subject line for emails sent to users after their video has been moderated.
+#. L10n: Used for both approval and rejection emails.
+#: flicks/videos/util.py:46
+msgid "Firefox Flicks: Your Recent Submission"
+msgstr "Firefox Flicks: seu último envio"
+
+#: flicks/videos/views.py:180
+msgid "Noir"
+msgstr "Noir"
+
+#: flicks/videos/views.py:181
+msgid "The fox meets a damsel in distress, but can he help her? Get inspired for your Firefox Flicks entry by checking out our video."
+msgstr "A raposa encontra uma donzela em perigo, mas ele pode ajudá-la? Inspire-se para a seu vídeo de inscrição do Flicks Firefox conferindo nosso vídeo."
+
+#: flicks/videos/views.py:184
+msgid "The fox meets a damsel in distress, but can he help her?"
+msgstr "A raposa encontra uma donzela em perigo, mas ele pode ajudá-la?"
+
+#: flicks/videos/views.py:194
+msgid "Dance"
+msgstr "Dança"
+
+#: flicks/videos/views.py:195
+msgid "He's got the moves, he's got ambition. How far can this fox's feet take him? Get inspired for your Firefox Flicks entry by checking out our video."
+msgstr "Ele tem os movimentos, ele tem ambição. Até onde estes pés de raposa podem levá-lo? Inspire-se para a seu vídeo de inscrição do Flicks Firefox conferindo nosso vídeo."
+
+#: flicks/videos/views.py:199
+msgid "He's got the moves. He's got ambition. How far can this fox's feet take him?"
+msgstr "Ele tem os movimentos. Ele tem ambição. Até onde estes pés de raposa podem levá-lo?"
+
+#: flicks/videos/views.py:209
+msgid "A teenage girl learns the truth about the fox. Get inspired for your Firefox Flicks entry by checking out our video."
+msgstr "Uma adolescente aprende a verdade sobre a raposa. Inspire-se para a seu vídeo de inscrição do Flicks Firefox conferindo nosso vídeo."
+
+#: flicks/videos/views.py:211
+msgid "Twilight"
+msgstr "Penumbra"
+
+#: flicks/videos/templates/videos/details_base.html:22 flicks/videos/templates/videos/details_base.html:23
+msgid "Creative Commons Attribution - NonCommercial - ShareAlike license"
+msgstr "Licença Creative Commons Atribuição - NãoComercial - CompartilhaIgual"
+
+#: flicks/videos/templates/videos/upload.html:17
+msgid "The file you've chosen doesn't look like a video file. Are you sure you want to upload it?"
+msgstr "O arquivo que você selecionou não parece ser um arquivo de vídeo. Tem certeza de que deseja enviá-lo?"
+
+#: flicks/videos/templates/videos/upload.html:18
+msgid "You haven't completed uploading your flick yet. Are you sure you want to quit?"
+msgstr "Você ainda não completou o envio do seu flick. Tem certeza de que deseja sair?"
+
+#: flicks/videos/templates/videos/upload.html:36
+msgid "Rules for uploading"
+msgstr "Regras para envio"
+
+#: flicks/videos/templates/videos/upload.html:40
+msgid "Your entry may be no longer than 60 seconds."
+msgstr "Seu vídeo não pode ter mais do que 60 segundos."
+
+#: flicks/videos/templates/videos/upload.html:46
+msgid "Your entry must be in a format that can be uploaded to Vimeo (see <a href=\"%(link_vimeoformat)s\" rel=\"external\">vimeo.com/help/compression</a> for details)."
+msgstr "Seu vídeo deve estar em um formato que possa ser enviado ao Vimeo (leia <a href=\"%(link_vimeoformat)s\" rel=\"external\">vimeo.com/help/compression</a> para detalhes)."
+
+#: flicks/videos/templates/videos/upload.html:54
+msgid ""
+"Your entry must be your original work and may not include any unauthorized third party intellectual property (such as a video clip, music or visible brand name or logo you do not have a license to "
+"use)."
+msgstr ""
+"Seu vídeo deve ser um trabalho original seu e não deve incluir nenhuma propriedade intelectual não autorizada de terceiros (como um clipe musical, uma música, ou uma marca ou logo que você não "
+"tenha licença para usar)."
+
+#: flicks/videos/templates/videos/upload.html:62
+msgid "Your video will be posted to both the Firefox Flicks website and the Vimeo website under a Firefox Flicks account."
+msgstr "O seu vídeo será publicado nos websites do Firefox Flicks e do Vimeo pela conta Firefox Flicks."
+
+#: flicks/videos/templates/videos/upload.html:70
+msgid "Please read the <a href=\"%(link_rules)s\" rel=\"external\">official contest rules</a> before submitting your video."
+msgstr "Por favor, leia as <a href=\"%(link_rules)s\" rel=\"external\">regras oficiais do concurso</a> antes de enviar o seu vídeo."
+
+#: flicks/videos/templates/videos/upload.html:78
+msgid "Choose a video to upload"
+msgstr "Escolher um vídeo para enviar"
+
+#: flicks/videos/templates/videos/upload.html:89
+msgid "Your flick"
+msgstr "Seu flick"
+
+#: flicks/videos/templates/videos/upload.html:94
+msgid "Remove"
+msgstr "Excluir"
+
+#: flicks/videos/templates/videos/upload.html:101
+msgid "Name your flick"
+msgstr "Dê um nome para o seu vídeo"
+
+#: flicks/videos/templates/videos/upload.html:102
+msgid "Be concise, yet unique"
+msgstr "Seja objetivo, mas original"
+
+#: flicks/videos/templates/videos/upload.html:105
+msgid "Describe your flick"
+msgstr "Descreva seu vídeo"
+
+#: flicks/videos/templates/videos/upload.html:107
+msgid "In 1-3 sentences. This is what people will see when they view or share your video."
+msgstr "De 1 a 3 parágrafos. Isso será o que as pessoas verão quando elas visualizarem ou compartilharem seu vídeo."
+
+#: flicks/videos/templates/videos/upload_complete.html:24
+msgid "Hooray! Your upload is complete."
+msgstr "Oba! O envio do seu vídeo foi concluído."
+
+#: flicks/videos/templates/videos/upload_complete.html:26
+msgid ""
+"Bonus: For getting your flick in early, you're eligible for an Early Entry Award and a chance to automatically qualify for the Grand Prize finals. <a href=\"%(link_home)s#prizes\" rel=\"external"
+"\">Learn more</a>."
+msgstr ""
+"Bônus: por ter enviado seu vídeo com antecedência, você está concorrendo ao prêmio Primeiros Envios, tendo chance de se qualificar diretamente para a final. <a href=\"%(link_home)s#prizes\" rel="
+"\"external\">Mais detalhes</a>."
+
+#: flicks/videos/templates/videos/upload_complete.html:34
+msgid "Your video is now processing. Once it's reviewed, we'll send you an email to let you know where to find it. Until then, spread the word about Firefox Flicks!"
+msgstr "Seu vídeo está sendo processado. Assim que ele for revisado, nós enviaremos uma mensagem indicando onde você pode encontrá-lo. Enquanto isso, ajude a divulgar o Firefox Flicks!"
+
+#: flicks/videos/templates/videos/upload_complete.html:60
+msgid "Back to Flicks"
+msgstr "Voltar ao Flicks"
+
+#: flicks/videos/templates/videos/upload_error.html:15
+msgid "Oh no, something went wrong!"
+msgstr "Ah não! Algo deu errado..."
+
+#: flicks/videos/templates/videos/upload_error.html:17
+msgid ""
+"There was an error in the upload process. Please <a href=\"%(link_upload)s\">try again</a>, and be sure you're uploading a video in <a href=\"%(link_vimeoformat)s\" rel=\"external\">one of our "
+"supported file formats</a>."
+msgstr ""
+"Houve um erro durante o processo de envio. Por favor, <a href=\"%(link_upload)s\">tente novamente</a>, e confira se o seu vídeo está em um dos <a href=\"%(link_vimeoformat)s\" rel=\"external"
+"\">formatos aceitos</a>."
+
+#: flicks/videos/templates/videos/upload_error.html:25
+msgid "If you continue to see this message, please wait and try again later."
+msgstr "Se você continuar a ver esta mensagem, por favor, aguarde e tente novamente mais tarde."
+
+#: flicks/videos/templates/videos/2012/details.html:11
+msgid "Award"
+msgstr "Prêmio"
+
+#. Shown below videos to indicate which category and country they were submitted under, such as ':30 Spot for Europe'
+#: flicks/videos/templates/videos/2012/details.html:37
+msgid "%(category_link)s <span>for</span> %(country_link)s"
+msgstr "%(category_link)s <span>de</span> %(country_link)s"
+
+#: flicks/videos/templates/videos/2013/approval_email.html:5 flicks/videos/templates/videos/2013/approval_email.ltxt:4
+msgid "Your flick has been accepted and successfully added to the competition!"
+msgstr "Seu vídeo foi aceito e já está na competição!"
+
+#. Please don't change the HTML, this string is in an email and the HTML is very fragile.
+#: flicks/videos/templates/videos/2013/approval_email.html:12
+msgid "You can find your flick on the gallery and share it using this link: <a href=\"%(link)s\" style=\"color: #1677b9; text-decoration: none;\">%(title)s</a>"
+msgstr "Você pode encontrar seu vídeo na galeria e compartilhar usando este link: <a href=\"%(link)s\" style=\"color: #1677b9; text-decoration: none;\">%(title)s</a>"
+
+#: flicks/videos/templates/videos/2013/approval_email.html:17 flicks/videos/templates/videos/2013/approval_email.ltxt:13
+msgid "Voting for the People's Choice Award starts on July 31, so be sure to let your friends know that you need their support."
+msgstr "A votação para o prêmio Escolha Popular começa em 31 de julho, por isso certifique-se de que seus amigos saibam que você precisa de apoio."
+
+#: flicks/videos/templates/videos/2013/approval_email.html:19 flicks/videos/templates/videos/2013/approval_email.ltxt:15
+msgid "Thanks again for taking the time to help us share the power of mobile with the world."
+msgstr "Novamente, obrigado por ter tirado um tempo para nos ajudar a divulgar a força da mobilidade."
+
+#: flicks/videos/templates/videos/2013/approval_email.ltxt:8
+msgid "You can find your flick on the gallery and share it using this link: %(link)s"
+msgstr "Você pode encontrar seu flick na galeria e compartilhar usando este link: %(link)s"
+
+#: flicks/videos/templates/videos/2013/details.html:12
+msgid "An entry for Firefox Flicks 2013, a global video contest about the power of mobile."
+msgstr "Um vídeo para o Firefox Flicks 2013, um concurso de vídeos sobre a força da mobilidade."
+
+#: flicks/videos/templates/videos/2013/details.html:26 flicks/videos/templates/videos/2013/details.html:68
+msgid "No votes yet"
+msgstr "Ainda não há votos"
+
+#. This shows the number of people who have voted for a video. This is NOT the number of views. <b> tag is used to place the number of votes, please do not remove it.
+#: flicks/videos/templates/videos/2013/details.html:27 flicks/videos/templates/videos/2013/details.html:28 flicks/videos/templates/videos/2013/details.html:71
+msgid "<b>%(vote_count)s</b> vote"
+msgid_plural "<b>%(vote_count)s</b> votes"
+msgstr[0] "<b>%(vote_count)s</b> voto"
+msgstr[1] "<b>%(vote_count)s</b> votos"
+
+#: flicks/videos/templates/videos/2013/details.html:37
+msgid "Thanks for voting!"
+msgstr "Obrigado por votar!"
+
+#: flicks/videos/templates/videos/2013/details.html:83
+msgid "Voted"
+msgstr "Votado"
+
+#: flicks/videos/templates/videos/2013/details.html:84
+msgid "Vote"
+msgstr "Votar"
+
+#: flicks/videos/templates/videos/2013/list.html:5 flicks/videos/templates/videos/2013/list.html:7
+msgid "2013 gallery"
+msgstr "Galeria de 2013"
+
+#: flicks/videos/templates/videos/2013/list.html:19
+msgid "Voting is open!"
+msgstr "A votação está aberta!"
+
+#: flicks/videos/templates/videos/2013/list.html:21
+msgid "Welcome to the<br> Firefox Flicks 2013 gallery"
+msgstr "Seja bem-vindo à<br> galeria do Firefox Flicks 2013"
+
+#: flicks/videos/templates/videos/2013/list.html:27
+msgid ""
+"This year we're asking filmmakers and Firefox fans to inspire others to get mobilized by telling the world about the power and potential of mobile. Have a look at the entries and be sure to share "
+"your favorites with your friends."
+msgstr ""
+"Este ano estamos pedindo que produtores de filmes e fãns do Firefox ajudem-nos a mostrar para o mundo inteiro a força da mobilidade. Confira os vídeos do concurso e compartilhe seus favoritos com "
+"seus amigos."
+
+#: flicks/videos/templates/videos/2013/list.html:36
+msgid ""
+"Welcome to the Firefox Flicks 2013 gallery. This year we asked filmmakers to tell stories about the power of the Web on mobile devices. Vote for your favorite flicks and be sure to share them with "
+"your friends."
+msgstr ""
+"Bem-vindo à galeria Firefox Flicks 2013. Este ano pedimos aos cineastas para "
+"contar histórias sobre o poder da Web nos dispositivos móveis. Vote nos "
+"seus filmes favoritos e não se esqueça de compartilhá-los com seus amigos."
+
+#: flicks/videos/templates/videos/2013/list.html:44
+msgid ""
+"This year we asked filmmakers and Firefox fans to inspire others to get mobilized by telling the world about the power and potential of mobile. Watch the flicks and be sure to share your favorites "
+"with your friends."
+msgstr ""
+"Este ano estamos pedindo que produtores de filmes e fãns do Firefox ajudem-nos a mostrar para o mundo inteiro a força da mobilidade. Confira os vídeos do concurso e compartilhe seus favoritos com "
+"seus amigos."
+
+#: flicks/videos/templates/videos/2013/list.html:56
+msgid "Start voting by clicking on your favorite videos or <a href=\"%(sign_in)s\" class=\"requires-auth\">sign in</a> to view your votes."
+msgstr ""
+"Comece a votação, clicando em seus vídeos favoritos ou<a href=\"%(sign_in)s\" "
+"class=\"requires-auth\">entre</a> para ver seus votos."
+
+#: flicks/videos/templates/videos/2013/list.html:60
+msgid "Hi there! It looks like you haven't voted yet. Start voting now by clicking on your favorite videos."
+msgstr ""
+"Oi! Parece que você ainda não votou. Comece agora a votar clicando em seus "
+"vídeos favoritos."
+
+#: flicks/videos/templates/videos/2013/list.html:64
+msgid "Hi there! You have voted for <a href=\"%(url)s\">%(vote_count)s flick</a> so far. Keep on voting!"
+msgid_plural "Hi there! You have voted for <a href=\"%(url)s\">%(vote_count)s flicks</a> so far. Keep on voting!"
+msgstr[0] ""
+"Oi! Você já votou em <a href=\"%(url)s\"> %(vote_count)s flick</a> até agora. "
+"Continue a votar!"
+msgstr[1] ""
+"Oi! Você já votou em <a href=\"%(url)s\"> %(vote_count)s flicks</a> até agora. "
+"Continue a votar!"
+
+#: flicks/videos/templates/videos/2013/list.html:76
+msgid "Did you vote for the People's Choice Award? If so, you can <a href=\"%(sign_in)s\" class=\"requires-auth\">sign in</a> to see your selections."
+msgstr ""
+"Você votou para o Prêmio Escolha Popular? Se assim for, você pode<a href=\"%"
+"(sign_in)s\" class=\"requires-auth\">entrar</a>para ver suas seleções."
+
+#: flicks/videos/templates/videos/2013/list.html:81
+msgid "Hi there! It looks like you did not vote for the People's Choice Award."
+msgstr "Oi! Parece que você não votou para o Prêmio Escolha popular."
+
+#: flicks/videos/templates/videos/2013/list.html:85
+msgid "You've voted for <a href=\"%(url)s\">%(vote_count)s flick</a> as a part of our People's Choice Awards."
+msgid_plural "You've voted for <a href=\"%(url)s\">%(vote_count)s flicks</a> as a part of our People's Choice Awards."
+msgstr[0] ""
+"Você já votou em <a href=\"%(url)s\">%(vote_count)s flick</a>como uma parte do "
+"nosso premio escolha popular."
+msgstr[1] ""
+"Você já votou em <a href=\"%(url)s\">%(vote_count)s flicks</a>como uma parte "
+"do nosso premio escolha popular."
+
+#: flicks/videos/templates/videos/2013/list.html:103
+msgid "From region"
+msgstr "Da região"
+
+#: flicks/videos/templates/videos/2013/list.html:111
+msgid "<span>{query}</span> <small class=\"category\">in user name</small>"
+msgstr "<span>{query}</span> <small class=\"category\">no nome do usuário</small>"
+
+#: flicks/videos/templates/videos/2013/list.html:114
+msgid "<span>{query}</span> <small class=\"category\">in video title</small>"
+msgstr "<span>{query}</span> <small class=\"category\">no título do vídeo</small>"
+
+#: flicks/videos/templates/videos/2013/list.html:117
+msgid "<span>{query}</span> <small class=\"category\">in video description</small>"
+msgstr ""
+"<span>{query}</span> <small class=\"category\">na descrição do vídeo</small>"
+
+#: flicks/videos/templates/videos/2013/list.html:121
+msgid "Search for video name, user name, or description"
+msgstr "Procurar pelo nome do vídeo, nome do usuário ou a descrição"
+
+#: flicks/videos/templates/videos/2013/list.html:130
+msgid "update results"
+msgstr "atualizar os resultados"
+
+#: flicks/videos/templates/videos/2013/list.html:141
+msgid "<i>%(count)s</i> videos for <i>%(query)s</i> in <i>%(region)s</i>"
+msgstr "<i>%(count)s</i> vídeos para <i>%(query)s</i> em <i>%(region)s</i>"
+
+#: flicks/videos/templates/videos/2013/list.html:156
+msgid "Sort:"
+msgstr "Ordenar:"
+
+#: flicks/videos/templates/videos/2013/list.html:177
+msgid "Submitted <time datetime=\"%(datetime)s\">%(date)s</time>"
+msgstr "Enviado em <time datetime=\"%(datetime)s\">%(date)s</time>"
+
+#: flicks/videos/templates/videos/2013/rejection_email.html:6
+msgid ""
+"Unfortunately, your flick does not meet one or more of the contest criteria and was not accepted to be part of the competition. Please refer to our <a href=\"%(link)s\" style=\"color: #1677b9; text-"
+"decoration: none;\">contest rules</a> for more information."
+msgstr ""
+"Infelizmente, o seu video não atende a um ou mais dos critérios do concurso e não foi aceito para fazer parte da competição. Por favor, consulte as <a href=\"%(link)s\" style=\"color: #1677b9; text-"
+"decoration: none;\">regras do concurso</a> para obter maiores informações."
+
+#: flicks/videos/templates/videos/2013/rejection_email.html:11 flicks/videos/templates/videos/2013/rejection_email.ltxt:10
+msgid "All decisions regarding submissions are final."
+msgstr "Todas as decisões sobre os envios são definitivas."
+
+#: flicks/videos/templates/videos/2013/rejection_email.ltxt:5
+msgid "Unfortunately, your flick does not meet one or more of the contest criteria and was not accepted to be part of the competition. Please refer to our contest rules for more information: %(link)s"
+msgstr ""
+"Infelizmente, o seu vídeo não atende a um ou mais dos critérios do concurso e não foi aceito para fazer parte da competição. Por favor, consulte as regras do concurso para obter maiores "
+"informações: %(link)s"
+
+#: flicks/videos/templates/videos/2013/winners.html:3 flicks/videos/templates/videos/2013/winners.html:4 flicks/videos/templates/videos/2013/winners.html:13
+msgid "2013 Flicks Winners"
+msgstr "Vencedores do Flicks 2013"
+
+#: flicks/videos/templates/videos/2013/winners.html:17
+msgid "Submit your flick by July 31, 2013 and add your name to the growing list of Flicks winners."
+msgstr "Envie seu flick até 31 de julho de 2013 e inclua seu nome na lista crescente de vencedores."
+
+#: flicks/videos/templates/videos/2013/winners.html:21
+msgid "Join us in congratulating this year's winners."
+msgstr "Junte-se a nós para parabenizar os vencedores deste ano."
+
+#. Describes the date that a video was submitted to the contest.
+#: flicks/videos/templates/videos/2013/winners.html:47 flicks/videos/templates/videos/2013/winners.html:78 flicks/videos/templates/videos/2013/winners.html:98
+#: flicks/videos/templates/videos/2013/winners.html:124 flicks/videos/templates/videos/2013/winners.html:144 flicks/videos/templates/videos/2013/winners.html:170
+#: flicks/videos/templates/videos/2013/winners.html:190 flicks/videos/templates/videos/2013/winners.html:216 flicks/videos/templates/videos/2013/winners.html:236
+#: flicks/videos/templates/videos/2013/winners.html:265 flicks/videos/templates/videos/2013/winners.html:286 flicks/videos/templates/videos/2013/winners.html:307
+#: flicks/videos/templates/videos/2013/winners.html:337 flicks/videos/templates/videos/2013/winners.html:358 flicks/videos/templates/videos/2013/winners.html:379
+#: flicks/videos/templates/videos/2013/winners.html:406 flicks/videos/templates/videos/2013/winners.html:427 flicks/videos/templates/videos/2013/winners.html:448
+#: flicks/videos/templates/videos/2013/winners.html:475 flicks/videos/templates/videos/2013/winners.html:496 flicks/videos/templates/videos/2013/winners.html:517
+msgid "Submitted %(date)s"
+msgstr "Enviado em %(date)s"
+
+#: flicks/videos/templates/videos/2013/winners.html:65 flicks/videos/templates/videos/2013/winners.html:111 flicks/videos/templates/videos/2013/winners.html:157
+#: flicks/videos/templates/videos/2013/winners.html:203
+msgid "Winner"
+msgstr "Vencedor"
+
+#: flicks/videos/templates/videos/2013/winners.html:85 flicks/videos/templates/videos/2013/winners.html:131 flicks/videos/templates/videos/2013/winners.html:177
+#: flicks/videos/templates/videos/2013/winners.html:223
+msgid "Runner Up"
+msgstr "Finalista"
+
+#: flicks/videos/templates/videos/2013/winners.html:248 flicks/videos/templates/videos/2013/winners.html:538
+msgid "People's Choice Award"
+msgstr "Prêmio Escolha popular"
+
+#: flicks/videos/templates/videos/2013/winners.html:252 flicks/videos/templates/videos/2013/winners.html:324 flicks/videos/templates/videos/2013/winners.html:393
+#: flicks/videos/templates/videos/2013/winners.html:462
+msgid "First Place"
+msgstr "Primeiro lugar"
+
+#: flicks/videos/templates/videos/2013/winners.html:273 flicks/videos/templates/videos/2013/winners.html:345 flicks/videos/templates/videos/2013/winners.html:414
+#: flicks/videos/templates/videos/2013/winners.html:483
+msgid "Second Place"
+msgstr "Segundo lugar"
+
+#: flicks/videos/templates/videos/2013/winners.html:294 flicks/videos/templates/videos/2013/winners.html:366 flicks/videos/templates/videos/2013/winners.html:435
+#: flicks/videos/templates/videos/2013/winners.html:504
+msgid "Third Place"
+msgstr "Terceiro lugar"
+
+#: flicks/videos/templates/videos/2013/winners.html:319 flicks/videos/templates/videos/2013/winners.html:388 flicks/videos/templates/videos/2013/winners.html:457
+msgid "Early Entry Award"
+msgstr "Prêmio Primeiros Envios"
+
+#: flicks/videos/templates/videos/2013/winners.html:529
+msgid "Don't miss your chance to win one of many upcoming awards"
+msgstr "Não perca a chance de ganhar algum dos vários prêmios"
+
+#: flicks/videos/templates/videos/2013/winners.html:531
+msgid "Early Entry Awards Deadlines"
+msgstr "Prazo final do prêmio Primeiros Envios"
+
+#: flicks/videos/templates/videos/2013/winners.html:540 flicks/videos/templates/videos/2013/winners.html:545
+msgid "Submit by July 31"
+msgstr "Enviar até 31 de julho"
+
+#: flicks/videos/templates/videos/2013/winners.html:543
+msgid "Flicks Grand Prize and Regional awards"
+msgstr "Grande Prêmio e Prêmio Regional"
+
+#: flicks/videos/templates/videos/2013/winners.html:548 flicks/videos/templates/videos/2013/winners.html:559
+msgid "Learn more about Flicks prizes"
+msgstr "Saiba mais sobre os prêmios do Flicks"
+
+#: flicks/videos/templates/videos/2013/winners.html:550
+msgid "Submit Your Flick Today!"
+msgstr "Envie seu vídeo hoje!"
+
+#: flicks/videos/templates/videos/2013/winners.html:552
+msgid "Upcoming announcements"
+msgstr "Próximos anúncios"
+
+#: flicks/videos/templates/videos/2013/winners.html:554
+msgid "Flicks Grand Prize, Regional Awards &amp; People's Choice Award:"
+msgstr "Grande Prêmio, Prêmio Regional e Prêmio Escolha popular:"
+
+#: flicks/videos/templates/videos/2013/winners.html:556
+msgid "September 12 &mdash; Toronto International Film Festival"
+msgstr "12 de setembro &mdash; Festival Internacional de Cinema de Toronto"
+
+#: flicks/videos/templates/videos/2013/winners.html:563
+msgid "Vote now for the People's Choice Award"
+msgstr "Vote agora para o Prêmio Escolha Popular"
+
+#, fuzzy
+#~ msgid "People’s Choice Award"
+#~ msgstr "Escolha Popular"
+
+#, fuzzy
+#~ msgid "Enter by July 31"
+#~ msgstr "Participe até 3 de abril"
+
+#, fuzzy
+#~ msgid "See Early Entry Award Winners"
+#~ msgstr "Veja os vencedores do prêmio Primeiros Envios"
+
+#~ msgid "See what last year's winners have to say about their experience and use the materials below to help you make your flick."
+#~ msgstr "Veja o que os vencedores do ano passado têm a dizer sobre o concurso, além de algumas dicas."
+
+#~ msgid "April 3 &ndash; BAFICI, Buenos Aires, Argentina"
+#~ msgstr "3 de abril &ndash; BAFICI, Buenos Aires, Argentina"
+
+#~ msgid "July 5 &ndash; Nowe Horyzonty, Wroc&#322;aw, Poland"
+#~ msgstr "5 de julho &ndash; Nowe Horyzonty, Wroc&#322;aw, Polônia"
+
+#~ msgid "July 5 &ndash; Cinemalaya, Manila, Philippines"
+#~ msgstr "5 de julho &ndash; Cinemalaya, Manila, Filipinas"
+
+#~ msgid "See 2013 Flicks Winners"
+#~ msgstr "Veja os ganhadores de 2013"
+
+#~ msgid "Nickname"
+#~ msgstr "Apelido"
+
+#~ msgid "Our Sponsors"
+#~ msgstr "Patrocinadores"
+
+#~ msgid "To Be Announced"
+#~ msgstr "Em breve"
+
+#~ msgid "Firefox Flicks is an international film competition that invites Firefox fans and filmmakers to create short videos (or \"flicks\") to help tell the world about the power of mobile."
+#~ msgstr "O Firefox Flicks é um concurso que convida fãs do Firefox e cineastas de todo o mundo a criar vídeos curtos (ou &#34;flicks&#34;) para ajudar a contar a história do Firefox."
+
+#~ msgid ""
+#~ "The world's gone mobile. Getting mobilized means getting more connected to one another - so we can all go further. We're bringing the values that Firefox has always championed in the browser to "
+#~ "the devices that the next billion people will use as their primary gateway to the Web."
+#~ msgstr ""
+#~ "O mundo ficou móvel. Mover-se significa ficar mais conectados uns aos outros - para que todos possam ir mais longe. Estamos trazendo os valores que o Firefox sempre defendeu no navegador para os "
+#~ "dispositivos que o próximo bilhão de pessoas irão utilizar como sua primeira porta de entrada para a web."
+
+#~ msgid ""
+#~ "Mobile connects people. It's a force for progress and change, both individually and collectively. Enter Firefox Flicks, a global video contest about the power of mobile, and inspire others to "
+#~ "get mobilized."
+#~ msgstr ""
+#~ "Os dispositivos móveis conectam as pessoas. Facilitam nosso progresso e crescimento, tanto nos quesitos pessoas quanto na vida coletiva. Participe do Firefox Flicks, um concurso mundial que vai "
+#~ "exibir vídeos sobre a força dos dispositivos móveis, e inspirar muitas pessoas a se conectarem."
+
+#~ msgid "Get inspired and learn more about making your winning flick."
+#~ msgstr "Entre no clima e saiba como transformar seu vídeo em um campeão."
+
+#~ msgid "Watch \"%(title)s\""
+#~ msgstr "Assista \"%(title)s\""
+
+#~ msgid "BAFICI, Buenos Aires, Argentina"
+#~ msgstr "BAFICI, Buenos Aires - Argentina"
+
+#~ msgid "Nowe Horyzonty, Wroc&#322;aw, Poland"
+#~ msgstr "Nowe Horyzonty, Varsóvia, Polônia"
+
+#~ msgid "Cinemalaya, Manila, Philippines"
+#~ msgstr "Cinemalaya, Manila, Filipinas"
+
+#~ msgid "Sign in"
+#~ msgstr "Entrar"
+
+#~ msgid "If you're thinking about entering, you can also watch our promos to get inspired and learn more about making your winning flick."
+#~ msgstr "Se você está pensando em participar, também pode assistir nossas dicas para se inspirar e aprender mais sobre como fazer o seu filme vencedor."
+
+#~ msgid "Get seen by celebrity judges"
+#~ msgstr "Seja assistido por celebridades"
+
+#~ msgid "Meet our all-star cast"
+#~ msgstr "Conheça nossas estrelas"
+
+#~ msgid ""
+#~ "This year there's only one category, so whether your flick is funny or serious, animated or live action, we want to see it. It just has to be 60 seconds or less and get people excited about the "
+#~ "future of the Web on mobile."
+#~ msgstr ""
+#~ "Esse ano só existe uma categoria, então, seja seu vídeo uma comédia ou algo sério, animação ou filmagem, nós queremos assistí-lo. A única exigência é que ele tenha 60 segundos ou menos, e "
+#~ "inspire as pessoas a desfrutar do futuro da Web no mundo dos dispositivos móveis."
+
+#~ msgid "Views from Cannes"
+#~ msgstr "Cannes"
+
+#~ msgid "Watch the flicks that topped our judges' list in 2012 and earned their filmmakers a trip to the Cannes Film Festival."
+#~ msgstr "Assista os vídeos que foram escolhidos pelos jurados em 2012 e ganharam uma viagem ao Festival de Filmes de Cannes."
+
+#~ msgid "2012 Winners"
+#~ msgstr "Vencedores de 2012"
+
+#, fuzzy
+#~ msgid "Early entry"
+#~ msgstr "Primeiros Envios"
+
+#~ msgid "Full name"
+#~ msgstr "Nome completo"
+
+#, fuzzy
+#~ msgid "I'm okay with you handling my info as you explain in your privacy policy"
+#~ msgstr "Eu concordo que a Mozilla lide com essas informações como explicado em sua <a href='{url}' target='_blank'>Política de privacidade</a>."
+
+#, fuzzy
+#~ msgid "Oficjalny Regulamin konkursu Firefox Flicks"
+#~ msgstr "Ocorreu um erro ao enviar seu Firefox Flick"
+
+#, fuzzy
+#~ msgid "Regras Oficiais do Concurso Firefox Flicks"
+#~ msgstr "Ocorreu um erro ao enviar seu Firefox Flick"
+
+#~ msgid "Creative Brief"
+#~ msgstr "Brief Criativo"
+
+#~ msgid "Firefox Flicks Creative Brief &#8212; Get all the details for building your video entry for the Firefox Flicks video contest."
+#~ msgstr "Brief Criativo do Firefox Flicks &#8212; Saiba todos os detalhes para criar seu vídeo de inscrição para o concurso Firefox Flicks."
+
+#~ msgid "Call to Action"
+#~ msgstr "Chamada para Ação"
+
+#~ msgid "We need your help to tell the amazing story of Mozilla Firefox, our users and how one browser can build a brighter future for the Web."
+#~ msgstr "Precisamos da sua ajuda para contar a incrível história do Mozilla Firefox, dos nossos usuários e de como um navegador pode construir um futuro mais brilhante para a Internet."
+
+#~ msgid "Project Description"
+#~ msgstr "Descrição do Projeto"
+
+#~ msgid ""
+#~ "Create a video ad or story (a &#34;flick&#34;) in one of <a href=\"#categories\">four categories</a> that helps people better understand the issues facing them online and shows how Firefox helps "
+#~ "them deal with these issues. In short, help us tell the story of Firefox &#8212; why we do what we do and how that helps users on the Web."
+#~ msgstr ""
+#~ "Crie um anúncio ou uma história em vídeo (um &#34;flick&#34;) em uma das <a href=\"#categories\">quatro categorias</a> que ajude as pessoas a entender melhor os problemas que elas enfrentam on-"
+#~ "line e mostre como o Firefox as ajuda a lidar com tais problemas. Em síntese, que nos ajude a contar a história do Firefox: por que fazemos o que fazemos e como isso ajuda os usuários da "
+#~ "Internet."
+
+#~ msgid "Project Summary"
+#~ msgstr "Síntese do Projeto"
+
+#~ msgid ""
+#~ "Mozilla wants the world to know more about what makes Firefox different: that we're a non-profit organization aimed at keeping the power of the Web in people's hands. Our hope is that through "
+#~ "high-quality videos, we can help mainstream Internet users know more about the issues that affect their online lives and, more importantly, how Firefox addresses these issues. Winning videos "
+#~ "will be used in worldwide marketing campaigns and public service announcements."
+#~ msgstr ""
+#~ "A Mozilla quer que o mundo saiba mais sobre o que torna o Firefox diferente: que somos uma organização sem fins lucrativos com o objetivo de manter o poder da Internet nas mãos das pessoas. "
+#~ "Nossa esperança é que, por meio de vídeos de alta qualidade, possamos ajudar os usuários comuns da Internet a saber mais sobre os problemas que afetam suas vidas on-line e, mais importante, como "
+#~ "o Firefox trata desses problemas. Os vídeos vencedores serão usados em campanhas de marketing mundiais e em anúncios de serviços públicos."
+
+#~ msgid "Objective"
+#~ msgstr "Objetivo"
+
+#~ msgid "Help us educate consumers about one or all of the following online issues facing them today:"
+#~ msgstr "Ajudar-nos a educar os consumidores sobre um ou todos os seguintes problemas on-line que os desafiam hoje:"
+
+#~ msgid "Privacy: How are you being tracked online? How can you take control of it? Who owns your data and how do they use it?"
+#~ msgstr "Privacidade: Como você está sendo rastreado on-line? Como você pode assumir o controle disso? Quem possui os seus dados e como os utiliza?"
+
+#~ msgid "Choice: How easy is it for you to experience the Web using the tools that you like and that suit your needs? Can you make it personal?"
+#~ msgstr "Escolha: Quão fácil é para você vivenciar a Internet usando as ferramentas de que você gosta e que preenchem as suas necessidades? Você pode torná-la pessoal?"
+
+#~ msgid "Interoperability: Can you use your favorite tools on all your devices, different computers or in different locations? Who decides when, where and how you use the Web and access your stuff?"
+#~ msgstr ""
+#~ "Interoperabilidade: Você pode usar as suas ferramentas favoritas em todos os seus dispositivos, em computadores diferentes ou em locais diferentes? Quem decide quando, onde e como você usa a "
+#~ "Internet e acessa as suas coisas?"
+
+#~ msgid "Opportunity: What tools do users need to help them make the Web they want? How does Firefox help?"
+#~ msgstr "Oportunidade: De quais ferramentas os usuários precisam para ajudá-los a fazer a Internet que desejam? Como o Firefox pode ajudar?"
+
+#~ msgid ""
+#~ "Also, drive awareness of our key brand attributes, specifically around the fact that Firefox is made by a non-profit organization that answers only to users, not shareholders. Have a look at our "
+#~ "<a href=\"%(brand)s\">Brand Platform</a> for more details and check out the video below."
+#~ msgstr ""
+#~ "Além disso, aumentar a conscientização dos atributos principais da nossa marca, especificamente em torno do fato de que o Firefox é feito por uma organização sem fins lucrativos que se reporta "
+#~ "somente a usuários, não a acionistas. Dê uma olhada na nossa <a href=\"%(brand)s\">Plataforma de Marca</a> para mais detalhes e assista o vídeo abaixo."
+
+#~ msgid "Who are we Talking To?"
+#~ msgstr "Para quem estamos falando?"
+
+#~ msgid ""
+#~ "Your flick should target mainstream Internet users between the ages of 25 and 54 &#8212; people who use the Web to read the news, write e-mails, bank online and connect on social networks. Help "
+#~ "explain the challenges facing the Web in terms that these average everyday users will understand. As an extreme example, how would you explain the importance of having control over your own "
+#~ "online experience to someone who only understands the Firefox logo as the \"Internet\" button? We need you to communicate to this audience that Firefox is a non-profit doing good for the benefit "
+#~ "of people everywhere."
+#~ msgstr ""
+#~ "O seu &#34;flick&#34; deve visar os usuários comuns da Internet, entre as idades de 25 e 54 &#8212; pessoas que usam a Internet para ler as notícias, escrever e-mails, acessar bancos on-line e "
+#~ "conectar-se a redes sociais. Ajude a explicar os desafios que a Internet enfrenta considerando o que esses usuários do dia a dia entenderão. Como um exemplo extremo, como você explicaria a "
+#~ "importância de ter controle sobre a sua própria experiência on-line para alguém que só entende o logotipo Firefox como o botão da \"Internet\"? Precisamos que você comunique a essa audiência que "
+#~ "o Firefox é uma organização sem fins lucrativos fazendo o bem em benefício das pessoas em toda a parte."
+
+#~ msgid "Primary Key Message"
+#~ msgstr "Mensagem Central Primária"
+
+#~ msgid "Firefox prioritizes principles over profit to put you in control of your online experience and shape the future of the Web for the public good. Firefox answers to no one but you."
+#~ msgstr ""
+#~ "O Firefox prioriza princípios em vez de lucros para colocar você no controle da sua experiência on-line e moldar o futuro da Internet para o bem comum. O Firefox não se reporta a ninguém além de "
+#~ "você."
+
+#~ msgid "Secondary Key Message Points:"
+#~ msgstr "Pontos Secundários da Mensagem Central:"
+
+#~ msgid "There are important online issues like privacy, choice, flexibility and opportunity facing you every day."
+#~ msgstr "Há questões importantes on-line como privacidade, escolha, flexibilidade e oportunidade desafiando você a cada dia."
+
+#~ msgid "Mozilla addresses these issues and works to ensure that the Web remains open and accessible to all."
+#~ msgstr "A Mozilla trata dessas questões e trabalha para assegurar-se de que a Internet continue aberta e acessível para todos."
+
+#~ msgid "Mozilla is proudly non-profit."
+#~ msgstr "A Mozilla orgulha-se em não ter fins lucrativos."
+
+#~ msgid "Tell the world about Firefox. Encourage them to download Firefox today."
+#~ msgstr "Conte ao mundo sobre o Firefox. Encoraje-os a baixar o Firefox hoje."
+
+#~ msgid "Mandatory Elements:"
+#~ msgstr "Elementos Obrigatórios:"
+
+#~ msgid "Firefox logo: Please see our <a href=\"%(brand)s\">Brand Toolkit</a> details on how to use our logo"
+#~ msgstr "Logotipo do Firefox: Favor ler detalhes das nossas <a href=\"%(brand)s\">Ferramentas de Marca</a> para saber como usar o nosso logotipo."
+
+#~ msgid "Call to action"
+#~ msgstr "Call to action &#8212; expectativa de gerar uma resposta imediata"
+
+#~ msgid "Flicks must be submitted no later than midnight Pacific Standard Time on May 1, 2012."
+#~ msgstr "Os flicks devem ser apresentado até à meia-noite (fuso horário do Pacífico) de 1º de maio de 2012."
+
+#~ msgid ""
+#~ "Entries should be available in English. They can be created in another language, but if so, please provide subtitles. (<a href=\"%(mail)s\">Contact us</a> if you're having trouble with "
+#~ "translation or subtitling. We can help.)"
+#~ msgstr ""
+#~ "As inscrições devem estar disponíveis em Inglês. Elas podem ser criadas em outro idioma, mas nesse caso pedimos que você forneça legendas. (<a href=\"%(mail)s\">Entre em contato</a> se você "
+#~ "estiver tendo problemas com tradução ou legendagem. Podemos ajudar)."
+
+#~ msgid "Know:"
+#~ msgstr "Saiba que:"
+
+#~ msgid "We are proudly non-profit and dedicated to doing good."
+#~ msgstr "Temos orgulho em não termos fins lucrativos e da nossa dedicação a fazer o bem."
+
+#~ msgid "We are competing with some of the world's biggest companies to put you in control of your online experience."
+#~ msgstr "Estamos competindo com algumas das maiores empresas do mundo para colocar você no controle da sua experiência on-line."
+
+#~ msgid "Firefox is developed together with a global community in the open, driven by what's best for users everywhere."
+#~ msgstr "O Firefox é desenvolvido abertamente com uma comunidade global, impulsionado pelo que é melhor para os usuários em toda parte."
+
+#~ msgid "We prioritize principles over profits."
+#~ msgstr "Priorizamos princípios em vez de lucros."
+
+#~ msgid "Feel:"
+#~ msgstr "Sinta que:"
+
+#~ msgid "Your video should be more grassroots than corporate to reflect that Mozilla is a public benefit organization and not a for profit company."
+#~ msgstr "Seu vídeo deve ser mais popular que empresarial, indicando que a Mozilla é uma organização em benefício do público e não uma empresa com fins lucrativos."
+
+#~ msgid "It should inspire the viewer to be a part of the Mozilla Firefox movement."
+#~ msgstr "Ele deve inspirar o espectador a fazer parte do movimento Mozilla Firefox."
+
+#~ msgid "It should help spread the word about what makes us different and how downloading Firefox makes the Web and world a better place."
+#~ msgstr "Ele deve ajudar a difundir o que nos torna diferentes e como o baixar o Firefox torna a Internet e o mundo um lugar melhor."
+
+#~ msgid "Tone"
+#~ msgstr "Tom"
+
+#~ msgid "Unconventional, Engaging, Honest, Human, Smart, Confident"
+#~ msgstr "Informal, Atraente, Honesto, Humano, Inteligente, Confiante"
+
+#~ msgid "Guidelines:"
+#~ msgstr "Orientações:"
+
+#~ msgid "Take risks, but respect the brand (i.e. please don't make us look bad)."
+#~ msgstr "Corra riscos, mas respeite a marca (i.e. por favor, não nos deixe mal)."
+
+#~ msgid "Your flick should function at the brand level, not the product level (you don't need to talk about product features &#8212; talk about how Firefox and the movement around it make you feel)."
+#~ msgstr ""
+#~ "O seu flick deve funcionar no nível da marca, não no nível do produto (você não precisa falar sobre as características do produto &#8212; fale sobre como o Firefox e o movimento em torno dele "
+#~ "fazem você se sentir)."
+
+#~ msgid "It can be fun and humorous, but keep it engaging."
+#~ msgstr "Ele pode ser engraçado e cômico, mas mantenha-o atraente."
+
+#~ msgid "All that said, these guidelines are just that: guidelines. Be creative, think outside the box and, most importantly, have fun."
+#~ msgstr "Dito tudo isso, essas orientações são apenas isso: orientações. Seja criativo, pense grande e, o mais importante, divirta-se."
+
+#~ msgid "Take a look at the Mozilla Firefox <a href=\"%(brand)s\">Brand Toolkit</a> to see how we talk about ourselves."
+#~ msgstr "Dê uma olhada nas nossas <a href=\"%(brand)s\">Ferramentas de Marca Mozilla Firefox</a> para ver como falamos sobre nós mesmos."
+
+#~ msgid "Categories (A grand prize winner will be selected from each region):"
+#~ msgstr "Categorias (um vencedor do grande prêmio será selecionado de cada região):"
+
+#~ msgid "Best :30 Spot"
+#~ msgstr "Melhor Spot de 30 segundos"
+
+#~ msgid "Best Animation"
+#~ msgstr "Melhor Animação"
+
+#~ msgid "Best Use of New Open Technology (e.g. Popcorn.js, HTML5)"
+#~ msgstr "Melhor uso de nova tecnologia aberta (e.g. Popcorn.js, HTML5)"
+
+#~ msgid "Best Public Service Announcement"
+#~ msgstr "Melhor Anúncio de serviço público"
+
+#~ msgid "Inspiration"
+#~ msgstr "Inspiração"
+
+#~ msgid "Check out our videos for Firefox Flicks to get into movie making mode"
+#~ msgstr "Veja nossos vídeos para o Firefox Flicks e entre no modo cineasta."
+
+#~ msgid "Check the website for upcoming announcements and updates about our film festival events."
+#~ msgstr "Confira nosso site para curtir novidades e atualizações sobre os eventos e festivais de filmes dos quais participaremos."
+
+#~ msgid "Get inspired!"
+#~ msgstr "Inspire-se!"
+
+#~ msgid "Watch the flicks we took to Cannes last year before making your own."
+#~ msgstr "Assista os vídeos que enviamos ao Festival de Cannes no ano passado e crie o seu também."
+
+#~ msgid "Submissions open February 13"
+#~ msgstr "Inscrições abertas em Fevereiro de 2013."
+
+#~ msgid "Learn more in the FAQ"
+#~ msgstr "Leia mais em nosso FAQ."
+
+#~ msgid "Read the creative brief to get started"
+#~ msgstr "Comece lendo o brief criativo"
+
+#~ msgid "Your privacy is important to us. Check back soon for our complete official contest rules."
+#~ msgstr "Sua privacidade é importante para nós. Confira, em breve, nosso regulamento oficial."
+
+#~ msgid "The website will begin accepting entries on February 13, 2013, at 3:00 p.m. Pacific Standard Time (PST) (11:00 p.m. GMT)."
+#~ msgstr "Nosso site aceitará inscrições a partir do dia 13 de Fevereiro de 2013, às 3:00 PM do Pacific Standard Time (11:00 GMT)."
+
+#~ msgid "Firefox Flicks Judges &#8212; Meet our panel of Hollywood judges excited to watch your Firefox video story."
+#~ msgstr "Jurados do Firefox Flicks &#8212; Conheça nosso corpo de jurados de Hollywood ansiosos para assistir seu vídeo do Firefox."
+
+#~ msgid "Shauna Robertson (Producer, Philanthropist)"
+#~ msgstr "Shauna Robertson (Produtora, Filantropa)"
+
+#~ msgid "Jeffrey Silver (Producer)"
+#~ msgstr "Jeffrey Silver (Produtor)"
+
+#~ msgid ""
+#~ "Jeffrey Silver has produced over 30 feature films &#8212; through his production company Biscayne Pictures, and his partnership with Outlaw Productions. In the course of his career, Silver has "
+#~ "produced both studio and independent pictures, including &#34;Tron: Legacy&#34;, &#34;Terminator: Salvation&#34;, &#34;300&#34;, &#34;Training Day&#34;, &#34;The Santa Clause&#34; and its "
+#~ "sequels, and the TV series, The Wonder Years\", as well as many others."
+#~ msgstr ""
+#~ "Jeffrey Silverproduziu mais de 30 longa-metragens &#8212; através de sua companhia de produção Biscayne Pictures e sua parceria com a Outlaw Productions. No decorrer de sua carreira, Silver "
+#~ "produziu filmes independentes e grandes produções, incluindo &#34;Tron: O Legado&#34;, &#34;O Exterminados do Futuro: A Salvação&#34;, &#34;300&#34;, &#34;Dia de Treinamento&#34;, &#34;Meu Papai "
+#~ "É Noel&#34; e suas sequências e série de TV &#34;Anos Incríveis&#34;, além de várias outras."
+
+#~ msgid "Ben Silverman (Founder &amp; Chairman, Electus)"
+#~ msgstr "Ben Silverman (Fundador e Presidente eleito)"
+
+#~ msgid ""
+#~ "Silverman is executive producer of the Emmy Award-winning NBC comedy &#34;The Office&#34; and the Golden Globe-winning comedy &#34;Ugly Betty&#34;, is co-creator and executive producer of the "
+#~ "hit reality show &#34;The Biggest Loser&#34; for NBC and the critically acclaimed series &#34;The Tudors&#34; for Showtime, as well as executive producer of VH1's &#34;Mob Wives&#34; and the "
+#~ "upcoming NBC hit &#34;Fashion Star&#34;."
+#~ msgstr ""
+#~ "Silverman é produtor executivo da comédia da NBC premiada com um Emmy &#34;The Office&#34; e da comédia vencedora de um Globo de Ouro &#34;Ugly Betty&#34;, é co-criador e produtor executivo do "
+#~ "reality show de sucesso &#34;The Biggest Loser&#34; para a NBC e da séria aclamada pela crítica &#34;The Tudors&#34; para o Showtime, além da produção executiva de &#34;Mob Wives&#34; do VH1 e "
+#~ "da nova série da NBC &#34;Fashion Star&#34;."
+
+#~ msgid ""
+#~ "Previously, Silverman has served as Co-Chairman of NBC Entertainment and Universal Media Studios, founded the production and distribution company Reveille, ran the international packaging "
+#~ "division at William Morris Agency (WMA), served as vice president for New World/Marvel Entertainment and held posts at CBS and Warner Bros."
+#~ msgstr ""
+#~ "Anteriormente, Silverman foi co-presidente da NBC Entertainment e Universal Media Studios, fundou a companhia de produção e distribuição Reveille, dirigiu a divisão de pacotes internacionais na "
+#~ "William Morris Agency, atuou como vice-presidente para New World/Marvel Entertainment e ocupou cargos na CBS e Warner Bros."
+
+#~ msgid "Couper Samuelson (Producer)"
+#~ msgstr "Couper Samuelson (Produtor)"
+
+#~ msgid ""
+#~ "Couper Samuelson runs Jason Blum's Universal-based production company. Prior to that, he worked for producer Brad Weston at Paramount, where he produced the forthcoming &#34;Destination "
+#~ "Wedding&#34;, the first movie initiated by Paramount Insurge, the studio's low-budget division. He spent five years at 2929, Mark Cuban's financing company, where he co-produced &#34;We Own the "
+#~ "Night&#34;, starring Joaquin Phoenix and Mark Wahlberg among other 2929 features. He began his career as an assistant in the Motion Picture Department of the Creative Artists Agency."
+#~ msgstr ""
+#~ "Couper Samuelson dirigiu a companhia de produção de Jason Blum. Até então, ele trabalhou para o produtor Brad Wetson na Paramount, onde produziu o vindouro &#34;Destination Wedding&#34;, o "
+#~ "primeiro filme iniciado pela Paramount Insurge, a divisão de baixo orçamento do estúdio. Ele passou cinco anos na 2929, companhia de financiamento de Mark Cuban, onde co-produziu &#34;Os Donos "
+#~ "da Noite&#34;, estrelando Joaquin Phoenix e Mark Wahlberg, entre outros da 2929. Começou sua carreira como assistente Departamento de Animação da Creative Artists Ageny."
+
+#~ msgid "Youth Judges"
+#~ msgstr "Jurados Mirins"
+
+#~ msgid "Raymundo Archila"
+#~ msgstr "Raymundo Archila"
+
+#~ msgid ""
+#~ "Raymundo is a Senior at Hillsdale High school and an aspiring cinematographer. He has made a number of socially conscious pieces while at BAVC’s Factory filmmaking program, including a short "
+#~ "narrative about how alcoholism can tear a family apart, a PSA advocating for mental health awareness among teens, and a documentary about the preservation of a local Bonsai garden."
+#~ msgstr ""
+#~ "Raymundo é sênior em Hillsdale High School e um cineasta aspirante. Ele fez uma série de peças de cunho social enquanto participou do programa da BAVC's Factory, incluindo uma breve narrativa "
+#~ "sobre como o alcoolismo pode destruir uma família, um PSA defendendo a conscientização sobre a saúde mental entre adolescentes e um documentário sobre a preservação de um jardim de Bonsai local."
+
+#~ msgid "Jaison Cabebe"
+#~ msgstr "Jaison Cabebe"
+
+#~ msgid ""
+#~ "16-year old Jaison Cabebe moved to the Bay Area from Southern California at the age of four. He is a Junior at George Washington High School in San Franciso, and is a member of BAVC's Factory "
+#~ "filmmaking program in Oakland. His first documentary was a short portrait of the famous &#34;Bucket Man&#34; street performer on Market Street. He is eager to continue making films and doing "
+#~ "what he loves &#8212; currently that involves editing a music video featuring the cooking of snails."
+#~ msgstr ""
+#~ "O jovem de 16 anos de idade Jaison Cabebe mudou-se para a área da baía do sul da Califórnia com apenas quatro anos de idade. Ele é júnior na George Washington High School em San Franciso e é "
+#~ "membro do programa da BAVC's Factory em Oakland. Seu primeiro documentário foi um retrato breve do &#34;Balde Man&#34;, famoso artista de rua na Market Street. Ele está ansioso para continuar a "
+#~ "fazer filmes e fazer o que ele ama - que atualmente envolve a edição de um vídeo musical com o cozimento de caracóis."
+
+#~ msgid "Jasmine Ehrhardt"
+#~ msgstr "Jasmine Ehrhardt"
+
+#~ msgid ""
+#~ "Jasmine is an 18-year old Senior at Lick-Wilmerding High School in San Francisco. She lives in Oakland, where her parents own an art gallery. Jasmine has attended BAVC's Factory filmmaking for "
+#~ "close to a year &#8212; her first project was a documentary about City Slicker Farms in West Oakland. In 2011, she was invited by the Mozilla Foundation to be one of the Keynote speakers at "
+#~ "Mozilla's annual conference in London."
+#~ msgstr ""
+#~ "Jasmine é uma Sênior de 18 anos na Lick-Wilmerding High School, em San Francisco. Ela vive em Oakland, onde seus pais possuem uma galeria de arte. Jasmine participou do programa da BAVC's "
+#~ "Factory por quase um ano - seu primeiro projeto foi um documentário sobre Farms City Slicker em West Oakland. Em 2011, ela foi convidada pela Fundação Mozilla para ser um dos principais oradores "
+#~ "na conferência anual da Mozilla, em Londres."
+
+#~ msgid "Hanin Benchohra"
+#~ msgstr "Hanin Benchohra"
+
+#~ msgid ""
+#~ "Hanin Benchohra is a filmmaker and student based out of San Francisco. This year, Hanin became involved with the Bay Area Video Coalition's Digital Pathways Video Production Program. In this "
+#~ "program, Hanin developed skills in media literacy, video production, and audio sound engineering. Currently, Hanin is working on her first documentary film."
+#~ msgstr ""
+#~ "Hanin Benchohra é uma cineasta e estudante que vive fora de San Francisco. Este ano, Hanin se envolveu com o programa de Produção de Vídeo Digital Pathways da Bay Area Video Coalition. Nesse "
+#~ "programa, Hanin desenvolveu habilidades em literatura midiática, produção de vídeo, áudio e engenharia de som. Atualmente, Hanin está trabalhando em seu primeiro filme documentário."
+
+#~ msgid "Buffy Almendares"
+#~ msgstr "Buffy Almendares"
+
+#~ msgid ""
+#~ "Born and raised in the Bay Area, 16 year-old Buffy Almendares has great interest in the digital media field. She occupies her free time with audio engineering and filmmaking. Additionally, she "
+#~ "is involved in school sports and choir. Buffy has an interest in pursuing entertainment law and building an organization that teaches media literacy and technology skills to youth in developing "
+#~ "countries. Buffy is a firm believer that media can be used as a platform to help communities amplify their voices."
+#~ msgstr ""
+#~ "Nascida e criada na Bay Area, Buffy Almendares, 16 anos, tem grande interesse no campo da mídia digital. Ela ocupa seu tempo livre com a engenharia de áudio e cinema. Além disso, ela está "
+#~ "envolvida nos esportes escolares e coro. Buffy tem interesse em estudar direito do entretenimento e construir uma organização que ensina literatura midiática e competências tecnológicas para a "
+#~ "juventude nos países em desenvolvimento. Buffy é uma crente firme que a mídia pode ser usado como uma plataforma para ajudar as comunidades a ampliar suas vozes."
+
+#~ msgid "Tammy Hagans"
+#~ msgstr "Tammy Hagans"
+
+#~ msgid ""
+#~ "Tammy Hagans is currently enrolled at City College of San Francisco, studying to become a firefighter by night, photographer and graphic designer by day. She also studies video production with "
+#~ "plans of creating epic, life-changing films that are educational and help societies become aware or involved in their communities. &#34;If we are to teach real peace in this world, and if we are "
+#~ "to carry on a real war against war, we shall have to begin with the children.&#34; &#8212; Mahatma Gandhi"
+#~ msgstr ""
+#~ "Tammy Hagans está atualmente matriculada no City College of San Francisco, estudando para se tornar uma bombeira à noite e fotógrafa e designer gráfica durante o dia. Ela também estuda a "
+#~ "produção de vídeo com planos de criar épicos, filmes educativos que ajudem a sociedade a tornar-se consciente ou envolvidos em suas comunidades. &#34;Se formos para ensinar a verdadeira paz "
+#~ "neste mundo, e se formos levar em uma verdadeira guerra contra a guerra, teremos de começar pelas crianças.&#34; &#8212; Mahatma Gandhi"
+
+#~ msgid "Firefox Flicks Partners &#8212; Review a list of all our partners, maybe become one too!"
+#~ msgstr "Parceiros do Firefox Flicks &#8212; Confira a lista de parceiros, e quem sabe torne-se um também!"
+
+#~ msgid "Events"
+#~ msgstr "Eventos"
+
+#~ msgid "April 19, 2012 &mdash; <a href=\"%(href)s\">Buenos Aires International Independent Film Festival</a>"
+#~ msgstr "19 de abril de 2012 &mdash; <a href=\"%(href)s\">Festival Internacional de Cinema Independente de Buenos Aires</a>"
+
+#~ msgid "A Mozilla event featuring a screening of a few early Firefox Flicks entries from Latin America."
+#~ msgstr "Um evento da Mozilla com uma seleção de alguns Firefox Flicks enviados da América Latina."
+
+#~ msgid "A Mozilla event featuring a screening of a few early Firefox Flicks entries from North America."
+#~ msgstr "Um evento da Mozilla com uma seleção de alguns Firefox Flicks da América do Norte."
+
+#~ msgid "May 1, 2012 &mdash; Firefox Flicks Submissions Closed"
+#~ msgstr "1&ordm; de maio de 2012 &mdash; inscrições para o Firefox Flicks encerradas"
+
+#~ msgid "May 17, 2012 &mdash; <a href=\"%(href)s\">Cannes International Film Festival</a>"
+#~ msgstr "17 de maio de 2012 &mdash; <a href=\"%(href)s\">Festival Internacional de Cinema de Cannes</a>"
+
+#~ msgid "Wrap Party for Firefox Flicks honoring regional winners and the winner of the Panavision prize package."
+#~ msgstr "Festa do Firefox Flicks homenageando os vencedores regionais e o vencedor do pacote de prêmios Panavision."
+
+#~ msgid "Firefox Flicks Prizes &#8212; Learn more about the contest and check out the prizes you can win."
+#~ msgstr "Prêmios do Firefox Flicks &#8212; Saiba mais sobre o concurso e veja os que prêmios que você pode ganhar."
+
+#~ msgid "GRAND PRIZE &#8212; $10,000 (USD)"
+#~ msgstr "GRANDE PRÊMIO &#8212; US$ 10.000,00"
+
+#~ msgid ""
+#~ "The grand prize winners (1 from each region) will each receive $10000 (USD) in video equipment or cash to be used towards school expenses (if the winner is currently enrolled in an accredited "
+#~ "film school or film program at an accredited college or university)."
+#~ msgstr ""
+#~ "Os vencedores do grande prêmio (1 de cada região) receberão US$ 10.000,00 em equipamentos de vídeo ou o financiamento de uma escola de cinema (caso o ganhador esteja matriculado em uma escola de "
+#~ "cinema respaldada ou programa de cinema em uma escola ou universidade)."
+
+#~ msgid "CATEGORY PRIZES &#8212; $5,000 (USD)"
+#~ msgstr "PRÊMIOS POR CATEGORIA &#8212; US$ 5.000,00"
+
+#~ msgid ""
+#~ "The category winner (first place in each category in each region) will each receive $5,000 (USD) in video equipment or cash to be used towards school expenses (if the winner is currently "
+#~ "enrolled in an accredited film school or film program at an accredited college or university). The category runner up winner (second place in each category in each region) will each receive "
+#~ "$1,000 (USD) in video equipment or cash to be used towards school expenses (if the winner is currently enrolled in an accredited film school or film program at an accredited college or "
+#~ "university)."
+#~ msgstr ""
+#~ "O vencedor de sua categoria (primeiro lugar em cada categoria em cada região) receberá US$ 5.000,00 cada em equipamentos de vídeo ou o financiamento de uma escola de cinema (caso o ganhador "
+#~ "esteja matriculado em uma escola de cinema respaldada ou programa de cinema em uma escola ou universidade). O segundo colocado (de cada categoria em cada região) receberá US$ 1.000,00 em "
+#~ "equipamentos de vídeo ou o financiamento de uma escola de cinema (caso o ganhador esteja matriculado em uma escola de cinema respaldada ou programa de cinema em uma escola ou universidade)."
+
+#~ msgid "PANAVISION PRIZE"
+#~ msgstr "PRÊMIO PANAVISION"
+
+#~ msgid ""
+#~ "The Panavision prize winner (one worldwide) will be awarded the use of Panavision's digital or film camera equipment, lenses and accessories for up to four weeks. The Panavision prize is "
+#~ "equivalent to a rental value of $60,000 (USD). For full Panavision prize details, please see the <a href=\"%(link)s#panavision\">Panavision prize legal requirements</a>."
+#~ msgstr ""
+#~ "O vencedor do prêmio Panavision (um mundial) será premiado com o uso de uma câmera Panavision digital ou de película, equipamentos, lentes e acessórios por até quatro semanas. O prêmio "
+#~ "Panavision é equivalente ao valor de aluguel de US$ 60.000,00. Para mais detalhes do prêmio Panavision, leia os <a href=\"%(link)s#panavision\">requisitos legais do prêmio Panavision</a>."
+
+#~ msgid "FIREFOX FLICKS YOUTH CONTEST"
+#~ msgstr "CONCURSO JUVENIL FIREFOX FLICKS"
+
+#~ msgid ""
+#~ "Firefox Flicks participants between the age of 13-19 are eligible to participate in the Firefox Flicks Youth Contest, in partnership with the <a href=\"%(bavc_link)s\">Bay Area Video Coalition</"
+#~ "a>. The winner will be chosen by a panel of youth judges. Prizes are: $500 (USD) for first place; $300 (USD) for second place and $200 (USD) for third. Full contest rules can be found <a href="
+#~ "\"%(rules_link)s\">here</a>."
+#~ msgstr ""
+#~ "Participantes do Firefox Flicks entre 13 e 19 anos podem participar do Concurso Juvenil Firefox Flicks, em parceria com a <a href=\"%(bavc_link)s\">Bay Area Video Coalition</a>. O vencedor será "
+#~ "escolhido por um painel de jurados. O prêmios são: US$ 500,00 para o primeiro lugar, US$ 300,00 para o segundo lugar e US$ 200,00 para o terceiro lugar. As regras do concurso podem ser "
+#~ "encontradas <a href=\"%(rules_link)s\">aqui</a>."
+
+#~ msgid ""
+#~ "Please note: If you are under 18 in the U.S. or the age of majority in your country of residence, you must submit a <a href=\"%(link)s\">Parental Consent form</a> before you upload your video. "
+#~ "Please send your completed form to <a href=\"mailto:%(email)s\">%(email)s</a>."
+#~ msgstr ""
+#~ "Observação: se for menor de 18 anos no Brasil ou da idade de maioridade do seu país de residência, você deve enviar um <a href=\"%(link)s\">formulário de Consentimento dos Pais ou Responsáveis</"
+#~ "a> antes de enviar seu vídeo. Por favor, envie seu formulário preenchido para o endereço <a href=\"mailto:%(email)s\">%(email)s</a>."
+
+#~ msgid "PRIZE PACKS"
+#~ msgstr "PACOTES DE PRÊMIOS"
+
+#~ msgid ""
+#~ "In addition to the above, everyone who enters and provides their mailing address will receive a Firefox Flicks prize pack. If a team enters, the individual who submitted the flick will receive "
+#~ "the prize pack."
+#~ msgstr ""
+#~ "Além dos prêmios citados acima, todos que enviarem inscrições e fornecerem seus endereços receberão pacotes de prêmios Firefox Flicks. Caso uma equipe seja inscrita, o indivíduo que enviar o "
+#~ "flick receberá o pacote de prêmios."
+
+#~ msgid "For full prize details please see the <a href=\"%(legal)s\">Firefox Flicks legal requirements</a>."
+#~ msgstr "Para mais detalhes sobre os prêmios, leia os <a href=\"%(legal)s\">requisitos legais Firefox Flicks</a>."
+
+#~ msgid "Firefox Flicks Legal &#8212; Review all the legals details you need to enter Firefox Flicks video contest"
+#~ msgstr "Avisos legais do Firefox Flicks &#8212; Revise todos os detalhes legais necessários para entrar no concurso de vídeo Firefox Flicks."
+
+#~ msgid "Meet a Flicks Judge"
+#~ msgstr "Conheça um jurado do Flicks"
+
+#~ msgid ""
+#~ "Actor, director, producer and activist Edward Norton has been nominated for two Academy Awards and won a Golden Globe along with numerous other awards for his performances. <a href=\"%(judges)s"
+#~ "\" class=\"judge-promo\">Meet them all &#187;</a>"
+#~ msgstr ""
+#~ "O ator, diretor, produtor e ativista Edward Norton foi indicado a dois Oscars e ganhou um Globo de Ouro e diversos outros prêmios por suas performances. <a href=\"%(judges)s\" class=\"judge-promo"
+#~ "\">Conheça todos eles &#187;</a>"
+
+#~ msgid "Firefox Flicks Events"
+#~ msgstr "Eventos do Firefox Flicks"
+
+#~ msgid "Check out the listing of Firefox Flicks events <a href=\"%(link)s\">around the world</a>."
+#~ msgstr "Confira a lista de eventos do <a href=\"%(link)s\">Firefox Flicks ao redor do mundo</a>."
+
+#~ msgid "New Panavision Prize!"
+#~ msgstr "Novo Prêmio Panavision!"
+
+#~ msgid "You could win $60,000 (USD) towards the rental of Panavision camera, lenses and accessories for four weeks. <a href=\"%(link)s\">Learn more &raquo;</a>"
+#~ msgstr "Você pode ganhar US$ 60.000,00 em aluguéis de uma câmera Panavision, lentes e acessórios por quatro semanas. <a href=\"%(link)s\">Saia mais &raquo;</a>"
+
+#~ msgid "Are you between the ages of 13-19? Make a 30 second video about Mozilla for the Firefox Flicks Youth Contest and <a href=\"%(link)s\">win great prizes</a>."
+#~ msgstr "Você tem entre 13 e 19 anos? Então faça um vídeo de 30 segundos sobre a Mozilla para o Concurso Juvenil Firefox Flicks e <a href=\"%(link)s\">ganhe ótimos prêmios</a>."
+
+#~ msgid "Go"
+#~ msgstr "Ir"
+
+#~ msgid "Share!"
+#~ msgstr "Compartilhar!"
+
+#~ msgid "Search"
+#~ msgstr "Pesquisar"
+
+#~ msgid "Nothing matching that <em>yet</em>, but we're sure people are working on it! Why not check <a href=\"%(videos)s\">these videos</a> in the meantime."
+#~ msgstr "Nenhum resultado correspondente <em>ainda</em>, mas temos certeza de que há alguém trabalhando nisso! Por que você confere <a href=\"%(videos)s\">esses vídeos</a> enquanto isso?"
+
+#~ msgid "Category Winners"
+#~ msgstr "Vencedores da categoria"
+
+#~ msgid "I am between 13 and 19 years of age and would like to opt into the <a href=\"{url}\">Firefox Flicks Youth Contest</a>."
+#~ msgstr "Eu tenho entre 13 e 19 anos de idade e gostaria de entrar no <a href=\"{url}\">Concurso Juvenil Firefox Flicks</a>."
+
+#~ msgid "Bio"
+#~ msgstr "Sobre mim"
+
+#~ msgid "Website"
+#~ msgstr "Página pessoal"
+
+#~ msgid "Edit your profile"
+#~ msgstr "Editar seu perfil"
+
+#~ msgid "Videos"
+#~ msgstr "Vídeos"
+
+#~ msgid "Create your profile"
+#~ msgstr "Criar seu perfil"
+
+#~ msgid "Sorry, but there were problems with the info you submitted. Please review the form, correct any errors, and try again."
+#~ msgstr "Sentimos, mas houve problemas com as informações enviadas. Por favor, revise o formulário, corrija possíveis erros e tente novamente."
+
+#~ msgid "Avatar"
+#~ msgstr "Avatar"
+
+#~ msgid "to add or modify your avatar"
+#~ msgstr "para adicionar ou modificar seu avatar"
+
+#~ msgid ""
+#~ "We'd like to send you a prize pack to thank you for entering. If you'd like to receive it, please provide your mailing address. Your address will only be used for the purpose of sending you the "
+#~ "gift and will not be shared with anyone. If you'd rather not provide your address, we totally understand."
+#~ msgstr ""
+#~ "Nós gostaríamos de enviar-lhe um pacote de prêmios para agradecer por sua inscrição. Se você gostaria de recebê-lo, por favor fornecer seu endereço de correspondência. Seu endereço será usado "
+#~ "apenas para o propósito de enviar-lhe os presentes e não será compartilhada com ninguém. Se você prefere não fornecer seu endereço, nós compreendemos totalmente."
+
+#~ msgid "Save"
+#~ msgstr "Salvar"
+
+#~ msgid "All"
+#~ msgstr "Todas"
+
+#~ msgid "I agree to the <a href=\"{contest}\" target=\"_blank\">Contest Rules<a/>, <a href=\"{url}\" target=\"_blank\">Vid.ly terms of service</a> and give Mozilla permission to use my video."
+#~ msgstr ""
+#~ "Eu concordo com as <a href=\"{contest}\" target=\"_blank\">Regras do Concurso<a/>, com os <a href=\"{url}\" target=\"_blank\">termos de serviço do Vid.ly</a> e concedo à Mozilla permissão para "
+#~ "usar o meu vídeo."
+
+#~ msgid "Server error. This video is inaccessible right now. Please try again in a few minutes. Maybe go make some popcorn while we fix things."
+#~ msgstr "Erro do servidor. O vídeo está inacessível neste momento. Por favor, ente novamente em alguns minutos. Que tal uma pipoca enquanto consertamos as coisas?"
+
+#~ msgid "Oops. It looks like we can't access the video you're trying to upload. Please make sure your file is in a publicly accessible space."
+#~ msgstr "Ops. Parece que não conseguimos acessar o vídeo que você está tentando enviar. Por favor, tenha certeza de seu arquivo está em um local acessível publicamente."
+
+#~ msgid "It looks like you're trying to upload a video from a video URL. Your video link must point directly at the video file. Please upload your video from a personal server or tool like Dropbox."
+#~ msgstr ""
+#~ "Parece que você está tentando enviar um vídeo a partir de um endereço. O link do seu vídeo deve apontar diretamente para o arquivo do vídeo. Por favor, envie seu vídeo a partir de um servidor "
+#~ "local ou uma ferramenta como o Dropbox."
+
+#~ msgid "This preview is approved for all Internet users."
+#~ msgstr "Esta pré-visualização é aprovada para todos os usuários da internet."
+
+#~ msgid "An Open Web production"
+#~ msgstr "Uma produção Open Web"
+
+#~ msgid "You're impossibly fast and strong."
+#~ msgstr "Você é incrivelmente rápido e forte."
+
+#~ msgid "You make me feel safe."
+#~ msgstr "Você me faz sentir seguro."
+
+#~ msgid "Your fur is soft and warm... and bright orange."
+#~ msgstr "Sua pele é macia e quente... e laranja brilhante."
+
+#~ msgid "Your eyes are kind and you're always thinking of others."
+#~ msgstr "Seus olhos são gentis e você está sempre pensando nos outros."
+
+#~ msgid "You're never closed and you never compromise."
+#~ msgstr "Você nunca está fechado e nunca comprometido."
+
+#~ msgid "Please don't make me choose. Because it'll be him."
+#~ msgstr "Por favor, não me faça escolher. Porque será ele."
+
+#~ msgid "Say it. Out loud."
+#~ msgstr "Diga. Em alto e bom som."
+
+#~ msgid "From the moment she walked in, I could see she was in trouble."
+#~ msgstr "A partir do momento em que ela entrou, eu pude ver que ela estava em apuros."
+
+#~ msgid "She was wet from the rain, like one of those funny cats on the Net..."
+#~ msgstr "Ela estava molhada da chuva, como um desses gatos engraçados na Internet..."
+
+#~ msgid "but this cat wasn't L-O-Ling."
+#~ msgstr "mas este gato não estava rindo."
+
+#~ msgid "She'd been hurt before."
+#~ msgstr "Ela já havia se machucado antes."
+
+#~ msgid "Now she was looking for something and she needed help... something with speed, something safe."
+#~ msgstr "Agora ela procurava por algo e precisava de ajuda... algo veloz, algo seguro."
+
+#~ msgid "She needed... a better browser. She'd come to right place."
+#~ msgstr "Ela precisava... de uma navegador melhor. Ela veio ao lugar certo."
+
+#~ msgid "Mozilla presents"
+#~ msgstr "A Mozilla apresenta..."
+
+#~ msgid "A global contest to find the ultimate Firefox video"
+#~ msgstr "Um concurso global para encontrar o vídeo definitivo do Firefox"
+
+#~ msgid "Directed by YOU"
+#~ msgstr "Dirigido por VOCÊ"
+
+#~ msgid "Featuring great prizes"
+#~ msgstr "Com grandes prêmios"
+
+#~ msgid "and Hollywood judges including Edward Norton & Producers Shauna Robertson & Jeffrey Silver"
+#~ msgstr "e jurados de Hollywood, incluindo Edward Norton e os produtores Shauna Robertson e Jeffrey Silver"
+
+#~ msgid "Now playing at firefoxflicks.org"
+#~ msgstr "Em exibição em firefoxflicks.org"
+
+#~ msgid "Your Firefox Flick is ready!"
+#~ msgstr "Seu Firefox Flick está pronto!"
+
+#~ msgid "Check out '%(video_title)s' on Firefox Flicks. %(link)s"
+#~ msgstr "Confira '%(video_title)s' no Firefox Flicks. %(link)s"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Dear Firefox Flicks filmmaker,"
+#~ msgstr "Caro cineasta do Firefox Flicks,"
+
+#~ msgid ""
+#~ "There was an error in processing your video '%(title)s'. Please upload your video from a personal server or tool like Dropbox. If you are using Dropbox, please make sure to set your video to "
+#~ "public."
+#~ msgstr ""
+#~ "Houve um erro no processamento do seu vídeo '%(title)s'. Por favor, envie seu vídeo de um servidor pessoal ou uma ferramenta como o Dropbox. Se você estiver usando o Dropbox, por favor, "
+#~ "certifique-se de definir o seu vídeo como público."
+
+#~ msgid "If you continue to have problems uploading, please contact us as %(email)s ."
+#~ msgstr "Se você continuar a ter problemas de envio, por favor entre em contato em %(email)s."
+
+#~ msgid "Yours,"
+#~ msgstr "Sinceramente,"
+
+#~ msgid "Have a question about Firefox Flicks? Please contact us at %(email)s"
+#~ msgstr "Tem alguma dúvida sobre o Firefox Flicks? Por favor, entre em contato pelo endereço %(email)s"
+
+#~ msgid "Like Firefox Flicks on Facebook: %(link)s"
+#~ msgstr "Curta o Firefox Flicks no Facebook: %(link)s"
+
+#~ msgid "Follow Firefox Flicks on Twitter: %(link)s"
+#~ msgstr "Siga o Firefox Flicks no Twitter: %(link)s"
+
+#~ msgid "Thank you for submitting your video to Firefox Flicks! Your flick is now processed and ready for sharing."
+#~ msgstr "Obrigado por enviar seu vídeo ao Firefox Flicks! Seu flick foi processado e está pronto para ser compartilhado."
+
+#~ msgid "Thanks and best of luck in the contest."
+#~ msgstr "Obrigado e boa sorte no concurso."
+
+#~ msgid "Video Search Results"
+#~ msgstr "Resultados da pesquisa por vídeos"
+
+#~ msgid "That's a wrap!"
+#~ msgstr "Tudo pronto!"
+
+#~ msgid ""
+#~ "Thanks to everyone for the awesome flicks. Our judges are now sequestered (with plenty of popcorn) to choose the winners, but you can still watch the entries and share your favorites while you "
+#~ "wait for the big announcement on May 17."
+#~ msgstr ""
+#~ "Obrigado a todos pelos filmes impressionantes. Nossos juízes estão agora enclausurados (com muita pipoca) para escolher os vencedores, mas você ainda pode assistir as entradas e compartilhar "
+#~ "seus favoritos enquanto aguarda o grande anúncio em 17 de maio."
+
+#~ msgid "Upload a Video"
+#~ msgstr "Enviar um vídeo"
+
+#~ msgid ""
+#~ "Upload your video to a personal server or to a service like <a href=\"%(dropbox)s\" title=\"Dropbox\">Dropbox</a>, then paste the URL for your flick below. We will be reposting all videos to a "
+#~ "contest gallery on <a href=\"%(vidly)s\" title=\"Vid.ly\">Vid.ly</a>. Don't forget to give your flick a title, select the video category you are entering it in and choose your region and then "
+#~ "press &#34;upload.&#34; We will email you when your entry has been processed."
+#~ msgstr ""
+#~ "Envie seu vídeo para um servidor pessoal ou para um serviço como o <a href=\"%(dropbox)s\" title=\"Dropbox\">Dropbox</a>, e então cole o endereço (URL) do seu flick abaixo. Nós publicaremos "
+#~ "todos os vídeos em uma galeria do concurso no <a href=\"%(vidly)s\" title=\"Vid.ly\">Vid.ly</a>. Não se esqueça de dar um título ao seu flick, selecionar a categoria na qual deseja concorrer e "
+#~ "selecionar a sua região e então pressionar o botão &#34;enviar&#34;. Nós entraremos em contato quando sua inscrição for processada."
+
+#~ msgid "Upload"
+#~ msgstr "Enviar"
+
+#~ msgid "Your Video is Processing"
+#~ msgstr "Seu vídeo está sendo processado"
+
+#~ msgid "Your Video is processing and will be ready shortly!"
+#~ msgstr "Seu vídeo está sendo processado e estará pronto em breve!"
+
+#~ msgid ""
+#~ "Sit tight! You will get an e-mail when your video is ready for viewing and sharing. While you're waiting <a href=\"%(link)s\"> have a look at some of the other videos that have already been "
+#~ "submitted.</a>"
+#~ msgstr ""
+#~ "Aguente firme! Você receberá uma mensagem quando seu vídeo estiver pronto para ser exibido e compartilhado. Enquanto você aguarda, <a href=\"%(link)s\">dê uma olhada em alguns dos outros vídeos "
+#~ "que já foram enviados</a>."
+
+#~ msgid "And the awards go to..."
+#~ msgstr "E os prêmios vão para..."
+
+#~ msgid ""
+#~ "Our illustrious judges have watched the flicks, laughed their laughs, shed their tears and they've made their decisions. It wasn't easy thanks to all the amazing entries, but here they are, "
+#~ "ladies and gentlemen, the winners of Firefox Flicks 2012."
+#~ msgstr ""
+#~ "Nossos jurados ilustres já assistiram aos flicks, deram risadas, derramaram lágrimas e tomaram suas decisões. Não foi fácil graças a todas as incríveis inscrições, mas aqui estão, damas e "
+#~ "cavalheiros, os ganhadores do Firefox Flicks 2012."
+
+#~ msgid "Firefox Flicks &#8212; A video contest to tell the story of your favorite browser. Submit your entry by May 1, 2012 and win prizes."
+#~ msgstr "Firefox Flicks &#8212; Um concurso de vídeos para contar a história do nosso navegador favorito. Envie sua inscrição até 1º de Maio e ganhe prêmios."
+
+#~ msgid "Download Firefox"
+#~ msgstr "Baixe o Firefox"
+
+#~ msgid "My Profile"
+#~ msgstr "Meu perfil"
+
+#~ msgid "Log out"
+#~ msgstr "Sair"
+
+#~ msgid "Firefox Flicks FAQ"
+#~ msgstr "Dúvidas comuns do Firefox Flicks"
+
+#~ msgid "When will the contest open?"
+#~ msgstr "Quando o concurso será aberto?"
+
+#~ msgid "The Firefox Flicks contest site is now open. You can now upload your video and vote on your favorites."
+#~ msgstr "O site do concurso Firefox Flicks já está aberto. Você pode enviar seu vídeo e votar em seus favoritos."
+
+#~ msgid ""
+#~ "Yes. This contest is open to anyone in world. We will, however, choose one winner for North America, one winner for Latin America, one winner for Africa, Australia &amp; New Zealand and one "
+#~ "winner for Europe (or whichever of those is closest to where you're from)."
+#~ msgstr ""
+#~ "Sim. Este concurso está aberto a qualquer pessoa do mundo. Contudo, escolheremos um vencedor para a América do Norte, um vencedor para a América Latina, um vencedor para a Ásia, Austrália e Nova "
+#~ "Zelândia e um vencedor para a Europa (ou qualquer deles que estiver mais perto de onde você está)."
+
+#~ msgid "Entries will be judged in the following categories:"
+#~ msgstr "As inscrições serão julgadas nas seguintes categorias:"
+
+#~ msgid "Best Use of New Technology (e.g. Popcorn.js, shot entirely with a mobile device, 3D)"
+#~ msgstr "Melhor uso de nova tecnologia (e.g. Popcorn.js, filmado inteiramente com um dispositivo móvel, 3D)"
+
+#~ msgid "A panel of judges will choose the grand prize winner from a selection of videos that have been voted on by the public."
+#~ msgstr "Um corpo de jurados escolherá o vencedor do grande prêmio a partir de uma seleção de vídeos que tenham sido votados pelo público."
+
+#~ msgid ""
+#~ "But there's more! The grand prize winner in each region (North America, Latin America, EU and Asia, Australia &amp; New Zealand) will receive their choice of either $10,000 (USD) in video "
+#~ "equipment or cash to spend on film school expenses or your next project. There will be four category winners in each of the four regions, the winners will get $5,000 (USD) in video equipment or "
+#~ "cash to spend on film school expenses or your next project. There will also be runner ups in each of the four categories in each region, these winners will receive $1,000 (USD) in video "
+#~ "equipment or cash to spend on film school expenses or your next project."
+#~ msgstr ""
+#~ "Mas tem mais! O vencedor do grande prêmio de cada região (América do Norte, América Latina, EU e Ásia, Austrália e Nova Zelândia) receberá, à sua escolha, US$ 5.000,00 em equipamentos de vídeo "
+#~ "ou o financiamento de uma escola de cinema ou seu próximo projeto. Os quatro vencedores em cada categoria em cada uma das quatro regiões ganharão US$ 5.000,00 em equipamentos de vídeo ou o "
+#~ "financiamento de uma escola de cinema ou seu próximo projeto. Os segundos colocados em cada uma das categorias em cada região ganharão US$ 1.000,00 em equipamentos de vídeo ou o financiamento de "
+#~ "uma escola de cinema ou seu próximo projeto."
+
+#~ msgid "The maximum video length is 120 seconds."
+#~ msgstr "O tempo máximo de duração dos vídeos é de 120 segundos."
+
+#~ msgid ""
+#~ "Fill out your filmmaker profile and submit your video <a href=\"%(video_upload)s\">here</a>. You will need to upload your video to a personal server or to a service like Dropbox. We will be "
+#~ "reposting all videos to a contest gallery on <a href=\"%(vidly)s\">Vid.ly</a>. You'll need to give your Flick a title, select the video category you are entering it in and your region."
+#~ msgstr ""
+#~ "Preencha seu perfil de cineasta e envie seu vídeo <a href=\"%(video_upload)s\">aqui</a>. Você deverá enviar seu vídeo para um servidor pessoal ou para um serviço como o Dropbox. Nós publicaremos "
+#~ "todos os vídeos em uma galeria de concorrentes no <a href=\"%(vidly)s\">Vid.ly</a>. Você deverá dar um título ao seu flick, selecionar a categoria na qual deseja concorrer e sua região."
+
+#~ msgid "Who can I contact if I have additional questions on the contest?"
+#~ msgstr "Quem posso contatar se eu tiver perguntas adicionais sobre o concurso?"
+
+#~ msgid "Drop us a note at <a href=\"%(flicks_mail)s\">firefoxflicks@mozilla.org</a> and we'll get back to you as soon as we can."
+#~ msgstr "Mande uma mensagem para <a href=\"%(flicks_mail)s\">firefoxflicks@mozilla.org</a> e entraremos em contato com você assim que possível."
+
+#~ msgid "What is a PSA?"
+#~ msgstr "O que é PSA?"
+
+#~ msgid ""
+#~ "A public service announcement (PSA) is a type of advertisement that intends to affect public attitudes by raising awareness of an issue and possibly inspiring action. If entering this category, "
+#~ "your video should focus more on the issues that affect people and their online lives, including privacy and security, and less about Firefox specifically."
+#~ msgstr ""
+#~ "Um anúncio de serviço público (PSA, em Inglês) é um tipo de anúncio que pretende afetar atitudes da audiência por meio sensibilização de um problema e uma ação possivelmente inspiradora. Se "
+#~ "entrar nesta categoria, o vídeo deve se concentrar mais nas questões que afetam as pessoas e suas vidas on-line, incluindo privacidade e segurança, e menos sobre o Firefox especificamente."
+
+#~ msgid "News"
+#~ msgstr "Notícias"
+
+#~ msgid "Mozilla"
+#~ msgstr "Mozilla"
+
+#~ msgid "Bay Area Video Coalition Prize"
+#~ msgstr "Prêmio Bay Area Video Coalition"
+
+#~ msgid "Upvote"
+#~ msgstr "Votar"
+
+#~ msgid "Home Page"
+#~ msgstr "Página inicial"
+
+#~ msgid "The search for the <span>ultimate Firefox video</span> has begun"
+#~ msgstr "A busca pelo <span>vídeo do Firefox definitivo</span> começou"
+
+#~ msgid "A teenage girl learns the truth about the fox. Check out our video and get inspired for your own."
+#~ msgstr "Uma adolescente aprende a verdade sobre a raposa. Inspire-se para a seu vídeo de inscrição do Flicks Firefox conferindo nosso vídeo."
+
+#~ msgid ""
+#~ "Enter our global contest today for your chance at some <a href=\"%(prizes)s\">amazing prizes</a>. Your video could even be seen by a panel of <a href=\"%(judges)s\">Hollywood judges</a>. Plus, "
+#~ "you'll get a Firefox prize pack just for entering. So <a href=\"%(creative)s\">read the brief</a> and starting filming."
+#~ msgstr ""
+#~ "Entre no nosso concurso global hoje e concorra a <a href=\"%(prizes)s\">prêmios incríveis</a>. Seu vídeo pode ser visto por um corpo de <a href=\"%(judges)s\">jurados de Hollywood</a>. Além "
+#~ "disso, você ganhará um pacote de brindes do Firefox apenas por participar. Então leia o <a href=\"%(creative)s\">Brief Criativo</a> e comece a filmar!"
+
+#~ msgid "Contest closes May 1, 2012."
+#~ msgstr "O concurso se encerra em 1º de maio de 2012."
+
+#~ msgid "Trailers"
+#~ msgstr "Trailers"
+
+#~ msgid "Lights! Camera! Awesome!"
+#~ msgstr "Luzes! Câmera! Show!"
+
+#~ msgid "Mozilla Presents!"
+#~ msgstr "A Mozilla apresenta..."
+
+#~ msgid ""
+#~ "The contest is now open for entries, so upload your flick today! As a non-profit, Firefox is the only browser that puts you first. Now we've put you in the director's chair to help spread our "
+#~ "message. Just create a short video for a chance to win some amazing prizes. You'll get a Firefox prize pack just for entering and your submission will be seen by Hollywood judges. You could even "
+#~ "meet them at one of four international events and we might feature your video in a global campaign."
+#~ msgstr ""
+#~ "O concurso está aberto para inscrições, então envie seu flick hoje! Não tendo fins lucrativos, o Firefox é o único navegador que coloca você em primeiro lugar. Agora, queremos colocar você na "
+#~ "cadeira do diretor para ajudar a espalhar a nossa mensagem. É só criar um vídeo curto para ter uma chance de ganhar alguns prêmios incríveis. Você receberá um pacote premiado Firefox só por "
+#~ "inscrever-se e a sua apresentação será vista por jurados de Hollywood. Você poderia até mesmo encontrá-los em um de quatro eventos internacionais e podemos apresentar o seu vídeo em uma campanha "
+#~ "global."
+
+#~ msgid "You can also check out the entries and vote on your favorite!"
+#~ msgstr "Você também pode conferir os vídeos inscritos e votar nos seus favoritos!"
+
+#~ msgid "Logout"
+#~ msgstr "Sair"
+
+#~ msgid "Sorry, no videos found. Please try another search."
+#~ msgstr "Sentimos muito, mas nenhum vídeo foi encontrado. Por favor, tente outra pesquisa."

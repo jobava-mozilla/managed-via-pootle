@@ -1,0 +1,62 @@
+
+<!-- BEGIN forumrow -->
+	<!-- IF (forumrow.S_IS_CAT and not forumrow.S_FIRST_ROW) or forumrow.S_NO_CAT  -->
+		</tbody>
+  </table>
+	<!-- ENDIF -->
+
+<!-- IF forumrow.S_IS_CAT or forumrow.S_FIRST_ROW or forumrow.S_NO_CAT  -->
+<table class="topiclist">
+  <thead>
+    <tr>
+      <th class="info" scope="col"><!-- IF forumrow.S_IS_CAT --><a href="{forumrow.U_VIEWFORUM}">{forumrow.FORUM_NAME}</a><!-- ELSE -->{L_FORUM}<!-- ENDIF --></th>
+      <th class="topics" scope="col">{L_TOPICS}</th>
+      <th class="posts" scope="col">{L_POSTS}</th>
+      <th class="lastpost" scope="col">{L_LAST_POST}</th>
+    </tr>
+  </thead>
+  <tbody>
+<!-- ENDIF -->
+
+<!-- IF not forumrow.S_IS_CAT -->
+  <tr>
+    <td class="info">
+      <h3 class="title"><a class="view" href="{forumrow.U_VIEWFORUM}">{forumrow.FORUM_NAME}</a></h3>
+      <p class="forumdesc">{forumrow.FORUM_DESC}</p>
+      <!-- IF forumrow.MODERATORS -->
+      <p class="forummods"><strong>{forumrow.L_MODERATOR_STR}:</strong> {forumrow.MODERATORS}</p>
+      <!-- ENDIF -->
+      <!-- IF forumrow.SUBFORUMS and forumrow.S_LIST_SUBFORUMS -->
+      <p class="forumsubs"><strong>{forumrow.L_SUBFORUM_STR}</strong> {forumrow.SUBFORUMS}</p>
+      <!-- ENDIF -->
+      <!-- IF S_ENABLE_FEEDS and forumrow.S_FEED_ENABLED -->
+      <p class="forumfeed"><a rel="alternate" title="{L_FEED} - {forumrow.FORUM_NAME}" href="{U_FEED}?f={forumrow.FORUM_ID}">{L_FEED}</a></p>
+      <!-- ENDIF -->
+    </td>
+    
+  <!-- IF forumrow.S_IS_LINK -->
+    <td class="redirect" colspan="3"><!-- IF forumrow.CLICKS -->{L_REDIRECTS}: {forumrow.CLICKS}<!-- ENDIF --></td>
+  <!-- ELSEIF not forumrow.S_IS_LINK -->
+		<td class="topics">{forumrow.TOPICS} {L_TOPICS}</td>
+		<td class="posts">{forumrow.POSTS} {L_POSTS}</td>
+		<td class="lastpost">
+			<!-- IF forumrow.U_UNAPPROVED_TOPICS --><a href="{forumrow.U_UNAPPROVED_TOPICS}">{UNAPPROVED_IMG}</a><!-- ENDIF -->
+			<!-- IF forumrow.LAST_POST_TIME -->
+        {L_LAST_POST} <!-- IF not S_IS_BOT --><strong><a href="{forumrow.U_LAST_POST}">{forumrow.LAST_POST_SUBJECT}</a></strong><!-- ENDIF --> {L_POST_BY_AUTHOR} {forumrow.LAST_POSTER_FULL}
+		    <br />{forumrow.LAST_POST_TIME}
+			<!-- ELSE -->
+		    {L_NO_POSTS}
+			<!-- ENDIF -->
+		</td>
+  <!-- ENDIF -->
+  </tr>
+<!-- ENDIF -->
+
+<!-- IF forumrow.S_LAST_ROW -->
+  </tbody>
+</table><!-- /forum -->
+<!-- ENDIF -->
+
+<!-- BEGINELSE -->
+	<p><strong>{L_NO_FORUMS}</strong></p>
+<!-- END forumrow -->

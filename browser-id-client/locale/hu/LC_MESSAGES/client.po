@@ -1,0 +1,630 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Kalman Kemenczy <kkemenczy@opensuse.org>, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-02-23 12:08+0000\n"
+"Last-Translator: Gábor <kelemeng@gnome.hu>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n !=1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1393157319.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"A regisztrációs hivatkozás hibás. Lehetséges, hogy ez a cím már regisztrálva "
+"van?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Hiba történt a regisztráció befejezése során."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "A Persona sütik használatát igényli."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Zárja be ezt az ablakot, <a %s>engedélyezze a sütiket</a>, és próbálja meg "
+"újra"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Kommunikációs hiba"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Bejelentkezés..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Pár pillanat és bejelentkezik a Persona fiókjába."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Sajnáljuk, hogy ez eltart egy ideig."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Ha ez nem oldódik meg néhány másodpercen belül, akkor zárja be az ablakot és "
+"próbálja újra."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Ellenőrzés az e-mail szolgáltató segítségével."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "A kiválasztott e-mail cím nem érvényes vagy már törölve lett."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Eltávolítja a(z) %(email)s e-mail címet a Persona fiókjából?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Az utolsó e-mail cím eltávolításával törli a Persona fiókját is.\n"
+"Biztos, hogy folytatja?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Valóban törölni kívánja a Persona fiókját?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "E-mail cím hozzáadása"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "e-mail cím"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Ennek e-mail címnek kell lennie"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Az e-mail megadása kötelező"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"A jóváhagyó levelet elküldtük &ndash; várjon néhány percet, mielőtt újat "
+"igényel"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Ez korábban már hozzá lett adva!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "hozzáadás"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "mégse"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "%s nem ellenőrizhető"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s e-mail cím szükséges, de nem ellenőrizhető, hogy valóban az Öné ez a cím."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s e-mail cím ellenőrizve!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Bejelentkezés&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Nézze meg leveleit"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Kattintson a(z) %s címre küldött jóváhagyó levélben található hivatkozásra, "
+"hogy bejelentkezhessen a(z) %s weboldalra."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Hiba"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Nagyon sajnáljuk."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "A kiszolgáló túl nagy terhelés alatt van!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Töltse be újra ezt az ablakot, és próbálja meg újra."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Zárja be ezt az ablakot, és próbálja meg újra."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "További információk"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Bezárás"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "A(z) *%s* nem egy érvényes e-mail cím."
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"A folytatáshoz zárja be az ablakot és adjon megy egy érvényes e-mail címet."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Emlékezzen Önre?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Mennyi ideig kíván bejelentkezve maradni a Personával?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "1 hónapig"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Bízom ebben a számítógépben."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Csak erre munkamenetre"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Ez nem az én számítógépem."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Megjegyzés: természetesen bármikor kijelentkezhet a Personából."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Bejelentkezés Personával"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Bejelentkezés ide: %s, mint&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Válasszon egy e-mail címet"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Másik e-mail cím hozzáadása"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Ez nem én vagyok"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Ezzel elfogadja a %(site)s <a %(terms)s>Feltételeit</a> és <a "
+"%(privacy)s>Adatvédelmi irányelveit</a>."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "bejelentkezés"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"a(z) %(primary)s nem válaszol. Várjon egy pár percet és próbálja meg újra."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Mégse"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "A(z) %(email)s e-mail cím nem ellenőrizhető"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Ennek oka az lehet, hogy a böngészője blokkolja a harmadik féltől származó "
+"sütiket. Ellenőrizze a böngészője biztonsági beállításait, hogy engedélyezve "
+"vannak- e a harmadik féltől származó sütik a(z) %(idpName)s számára és "
+"próbálja meg újra."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Ezzel elfogadja a(z) %(site)s <a %(terms)s>Feltételeit</a> és <a "
+"%(privacy)s>Adatvédelmi irányelveit</a> is."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Jelszó létrehozása"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"a(z) %(idp)s nem engedi, hogy belépjen a Personába a(z) %(idp)s jelszóval. "
+"Hozzon létre egy új jelszót, amit a Personához."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Ezt az e-mail címet itt még nem használta. Hozzon létre jelszót hozzá, hogy "
+"a FirefoxOS használhassa."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Ezt az e-mail címet itt még nem használta. Hozzon létre jelszót hozzá, hogy "
+"a Personával használhassa."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "jelszó létrehozása"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "A jelszó megadása kötelező"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr ""
+"A jelszónak legalább 8 és legfeljebb 80 karakter hosszúnak kell lennie."
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Jelszó ellenőrzése"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "Jelszó ellenőrzése"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "A jelszó-ellenőrzés megadása kötelező"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "A jelszavak nem egyeznek!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "kész"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Jó hír!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s mostantól nem igényel további jelszót. A felhasználói fiók "
+"ellenőrzését követően, a bejelentkezés megtörténik a(z) %(aWebsite)s "
+"weboldalra"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "ellenőrzés"
+
+#, fuzzy
+#~ msgid "signing in"
+#~ msgstr "bejelentkezés"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "E-mail cím ellenőrzése"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Bejelentkezés..."
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "A személyazonosságát sikeresen ellenőriztük a e-mail szolgáltató "
+#~ "segítségével. A bejelentkezés folyamatban."
+
+#~ msgid "Sign in using"
+#~ msgstr "Bejelentkezés"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Bejelentkezés a weboldalra a következő használatával:"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Az e-mail címe ellenőrzéséhez be kell jelentkeznie az e-mail "
+#~ "szolgáltatója által biztosított hitelesítési adatokkal. Ez az ablak "
+#~ "átirányítja a következő weboldalra:"
+
+#, fuzzy
+#~ msgid "Enter password"
+#~ msgstr "jelszó létrehozása"
+
+#~ msgid "forgot your password?"
+#~ msgstr "elfelejtette jelszavát?"
+
+#~ msgid "Password"
+#~ msgstr "Jelszó"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "A jelszó megadása kötelező."
+
+#~ msgid "verify email"
+#~ msgstr "e-mail cím ellenőrzése"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s egyszerűvé teszi"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "A(z) (emailProvider) fiókja frissítésre került, hogy jobban tudjon "
+#~ "együttműködni a Personával. Átirányítunk a %(emailProvider)s oldalhoz."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "A(z) %(emailProvider)s felhasználói fiók használatával bejelentkezhet "
+#~ "a(z) %(aWebsite)s jellegű weboldalakra."
+
+#~ msgid "sign in with %s"
+#~ msgstr "bejelentkezés %s használatával"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Másik e-mail cím használata"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Ebbe a mezőbe egy érvényes e-mail címet kell megadni."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Elküldtük a levelet a megadott címre. Ha valóban újabb levelet szeretne "
+#~ "küldetni, akkor várjon pár percet majd próbálja meg újra."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Ezt az e-mail címet már hozzáadta a fiókjához."
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Válasszon egy e-mail címet."
+
+#~ msgid "The password field is required."
+#~ msgstr "A jelszó megadása kötelező."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Ez az e-mail cím és a jelszó nem egyezik."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "A(z) %(emailProvider)s fiókja frissítésre került, hogy jobban tudjon "
+#~ "együttműködni a Personával. Átirányítunk a %(emailProvider)s oldalhoz. A "
+#~ "hitelesítést követően a(z) %(aWebsite)s weboldalra is be lesz jelentkezve."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Másik e-mail cím hozzáadása a Persona jelszóhoz."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Hiba történt!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Jelszó visszaállítása"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Válasszon egy új jelszót, amelyet a %s weboldallal használhat."
+
+#~ msgid "reset password"
+#~ msgstr "jelszó visszaállítása"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Megjegyzés: ezt a jelszót használjuk az összes Persona e-mail címéhez."
+
+#~ msgid "Sign In"
+#~ msgstr "Bejelentkezés"
+
+#~ msgid "Sign Up"
+#~ msgstr "Regisztráció"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Kérem várjon pár másodpercet, amíg bejelentkeztetjük a weboldalra."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s a felhasználónév helyett Personát használ a bejelentkezéshez."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "A Personával történő bejelentkezéshez, adja meg e-mail címét."
+
+#~ msgid "enter email address"
+#~ msgstr "e-mail cím megadása"
+
+#~ msgid "password"
+#~ msgstr "jelszó"
+
+#~ msgid "next"
+#~ msgstr "következő"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Elfelejtette jelszavát?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "A(z) %s hivatkozásra kattintva elfogadja a(z) %s weboldal <a "
+#~ "%s>Felhasználási feltételeit</a> és <a %s>Adatvédelmi irányelveit</a>."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Ez az üzenet – hamarosan – eltűnik a kérés teljesítésekor. Ha már hosszú "
+#~ "ideje várakozik, akkor zárja be ezt az ablakot és próbálja meg újra."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "Adja meg az e-mail címét a(z) <strong>%s</strong> weboldalra való "
+#~ "bejelentkezéshez"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Egy kis türelmet kérünk, amíg adatot kapunk az e-mail szolgáltatójától."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "A megadott felhasználónévvel és jelszóval nem lehet a fiókba "
+#~ "bejelentkezni."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr ""
+#~ "A jóváhagyó e-mail a következő címre lett elküldve: <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Ha úgy gondolja, hogy ez egy hiba eredménye, hagyja figyelmen kívül a "
+#~ "küldött levelet és kattintson a <a %s>mégse</a> hivatkozásra."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Ha úgy gondolja, hogy ez egy hiba eredménye, hagyja figyelmen kívül a "
+#~ "küldött levelet és kattintson a <a %s>másik e-mail cím használata</a> "
+#~ "hivatkozásra."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "A saját számítógépét használja?"
+
+#~ msgid "yes"
+#~ msgstr "igen"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Ha igen, akkor a bejelentkezése két hétig aktív marad."
+
+#~ msgid "no"
+#~ msgstr "nem"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Amennyiben nyilvános számítógépet használ, például könyvtárban vagy "
+#~ "internetkávézóban, akkor válassza ezt. Egy óra múlva újra elkérjük a "
+#~ "jelszavát."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Üdvözli a Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Válasszon egy jelszót, amelyet a Persona rendszerbe történő "
+#~ "bejelentkezéshez fog használni."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Jelszó megismétlése"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "A BrowserID sütik használatát igényli"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "Ez az e-mail cím új, a beállítás elkezdhető."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Mindig ezzel az e-mail címmel jelentkezzen be"

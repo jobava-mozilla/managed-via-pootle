@@ -1,0 +1,801 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-12-29 18:22+0000\n"
+"Last-Translator: Vlado <valastiak@mozilla.sk>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1388341332.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: Dokončenie prihlásenia"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: Dokončenie obnovy hesla"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Lepší spôsob prihlasovania"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Nepodporovaný prehliadač"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "Nepodporovaný prehliadač"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Cookies sú zakázané"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "O službe"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Zásady používania"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Zásady ochrany súkromia"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Dokončenie registrácie"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "Jednoduchší spôsob prihlasovania."
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona nahrádza viac hesiel"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Webové stránky ako <a %(webmakerLink)s>%(webmakerName)s</a>, <a "
+"%(openphotoLink)s>%(openphotoName)s</a> a <a %(voostLink)s>%(voostName)s</a> "
+"používajú na prihlásenie namiesto používateľských mien službu Persona."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"To znamená, že na prihlásenie k viacerým webovým stránkam potrebujete iba "
+"jedno heslo."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "Jedno heslo vládne všetkým."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Použitie viacerých e-mailových adries"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Služba Persona je flexibilná"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"Pri službe Persona je vašou identitou e-mailová adresa. Môžete používať "
+"toľko e-mailových adries, koľko chcete. Stále budete potrebovať iba jedno "
+"heslo."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Reálne súkromie."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Persona je nezisková a je tu pre vás"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Službu Persona vyvíja Mozilla, nezisková organizácia, ktorá je preverená "
+"webovou komunitou. Našim cieľom je vytvárať technológie, ktoré sú založené "
+"na otvorenej webovej platforme s rešpektom k súkromiu používateľov."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona rešpektuje vaše súkromie"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona nesleduje vašu aktivitu na webe. Vytvára medzi vami a prihlásením "
+"stenu a nesleduje, čo robíte potom. História webových stránok, ktoré ste "
+"navštívili, je uložená len vo vašom počítači."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona pre vývojárov"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Nasadenie služby Persona na vašom webe"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Sprievodca vývojára a dokumentácie API"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Dokončenie prihlásenia k:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Posledný krok!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "E-mailová adresa"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Váš e-mail"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Heslo"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Vaše heslo"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "Heslo je povinné"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "Heslo nie je správne"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "dokončiť"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona pre vaše zapamätanie vyžaduje cookies."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Zavrite toto okno, <a %s>povoľte cookies</a> a skúste to znova"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "Prihlásiť sa k %s ako&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s viac neumožňuje vaše prihlásenie pomocou služby Persona a hesla pre "
+"%(idp)s. Teraz musíte použiť svoje existujúce heslo služby Persona a tento e-"
+"mail, aby ste sa mohli prihlásiť."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Heslo k Persona"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "e-mailová adresa"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "Musíte zadať platnú e-mailovú adresu"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "E-mailová adresa je povinná"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "Zabudli ste svoje heslo?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "Zadajte heslo"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "heslo"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Úvodné potvrdenie bolo odoslané. Pred požiadaním o ďalšie počkajte niekoľko "
+"minút."
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Odoslaním súhlasíte s <a %(terms)s>pravidlami používania</a> a <a "
+"%(privacy)s>zásadami ochrany súkromia</a> stránky %(site)s."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "ďalej"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "pokračovať"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "zrušiť"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "prihlásiť sa"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "OK"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Prebieha pripájanie k službe Persona..."
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona.</strong> Jednoduché prihlasovanie od neziskovej "
+"organizácie stojacou za Firefoxom. <a %s>Ďalšie informácie&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Pripojte sa k službe Mozilla Persona, bezpečnému a jednoduchému spôsobu "
+"prihlasovania."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>Prehliadka</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "odobrať"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr ""
+"Vidíte Mozilla Persona prvý krát? <a %(learnMoreLink)s>Podrobné informácie</"
+"a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Správa účtu"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Vaše e-mailové adresy"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "upraviť"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "hotovo"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Staré heslo"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Nové heslo"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "Pôvodné heslo je povinné"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "Pôvodné heslo nie je správne"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "Nové heslo je povinné"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "Heslá musia byť rôzne"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Dĺžka hesla musí byť v rozsahu 8 až 80 znakov"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "Svoj účet môžete kedykoľvek <a %(cancelLink)s>zrušiť</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Domovská stránka Persona"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Ako to funguje"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "Účet"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Prihlásiť sa"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Odhlásiť sa"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "Od <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Zásady ochrany súkromia &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "TOS &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "Vývojári &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Potrebujete pomoc? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "Ospravedlňujeme sa, ale služba Persona vyžaduje povolený JavaScript."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Obnova hesla"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Vytvorenie nového hesla pre použitie spolu s %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Overenie hesla"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "Overenie hesla je vyžadované"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "Heslá sa nezhodujú!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">Vaša adresa</strong> bola overená!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"Vaša nová adresa bola nastavená a je pripravená. Budete presmerovaný na %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Presmerovanie nastane o %s sekúnd"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Ospravedlňujeme sa, ale váš prehliadač momentálne nie je podporovaný."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Logo Firefoxu"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Služba Persona funguje vo <a %(getFirefoxLink)s>Firefoxe</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "alebo aj iných <a %(otherBrowserLink)s>moderných prehliadačoch</a>."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr ""
+"Ospravedlňujeme sa, Váš prehliadač nepodporuje prihlásenie k tejto webovej "
+"stránke."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"Prevádzkovateľ tejto webovej stránky ju musí aktualizovať, aby bolo možné "
+"používať funkciu <a %s>navigator.id.watch()</a>."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona.</strong></a> Jednoduché prihlasovanie od "
+"neziskovej organizácie stojacou za Firefoxom."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Pre prihlásenie k %(site)s kliknite na tento odkaz:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr "Ak ste sa nepokúšali prihlásiť, tak tento e-mail môžete ignorovať."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr ""
+"Jednoduché prihlasovanie od neziskovej organizácie stojacej za prehliadačom "
+"Firefox"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "Ďalšie informácie na stránke https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "Teraz potvrďte svoju e-mailovú adresu"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "Teraz potvrďte svoj účet"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr ""
+"Zabudli ste svoje heslo k službe Persona? To sa stáva aj tým najlepším z nás."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Na obnovenie svojho hesla kliknite:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr ""
+"Ak ste sa nepokúšali obnoviť svoje heslo, jednoducho túto e-mailovú správu "
+"ignorujte."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "Teraz obnovte svoje heslo"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"Zdá sa, že váš poskytovateľ pošty má problémy s podporou služby Persona."
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Prihlásiť sa pomocou služby Persona"
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "Poznámka: Ak ste sa nepokúšali prihlásiť na uvedenú stránku, jednoducho "
+#~ "tento e-mail ignorujte."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Zjednodušené prihlasovanie."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s používa na prihlasovanie systém Persona."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Zadajte svoju e-mailovú adresu"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Teraz zadajte svoje heslo služby Persona."
+
+#~ msgid "enter email address"
+#~ msgstr "zadanie e-mailovej adresy"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Ďakujeme za používanie služby Persona."
+
+#~ msgid "Thank you,"
+#~ msgstr "Ďakujeme,"
+
+#~ msgid "The Persona team"
+#~ msgstr "Tím Persona"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Na obnovenie svojho hesla kliknite sem."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "Pre pokračovanie musíte znovu potvrdiť túto e-mailovú adresu a nastaviť "
+#~ "nové špecifické heslo pre službu Persona."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "Pre nastavenie nového hesla kliknite sem:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Tím Persona"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "Kliknite sem pre nastavenie svojho nového hesla."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr "Účet s týmto používateľským menom a heslom sa nepodarilo overiť."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Práve sme na vybranú adresu poslali e-mail. Ak chcete poslať ďalší, "
+#~ "počkajte minútu alebo dve a skúste to znovu."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "E-mailová adresa a heslo sa nezhodujú."
+
+#~ msgid "The password field is required."
+#~ msgstr "Položka s heslom musí byť vyplnená."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "Neplatné staré heslo, heslo nebolo aktualizované."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "Obe heslá (staré aj nové) sa zhodujú."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Pre prihlásenie pomocou služby Persona zadajte svoju e-mailovú adresu."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "Prebieha kontrola pomocou vášho e-mailového providera."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "Prihlásenie dokončené"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Zabudnuté heslo"
+
+#~ msgid "Email Verification"
+#~ msgstr "Overenie e-mailovej adresy"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "Skontrolujte si svoj e-mail na <strong %(checkId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr ""
+#~ "Kliknite na odkaz v potvrdzujúcom e-maile. Vaše heslo bude následne "
+#~ "zrušené."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Neexistujúci používateľ!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "Pri tejto adrese nemožno obnoviť heslo."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Poznáte svoje heslo? Prihláste sa."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr "Toto okno bude zatvorené a vytváranie účtu bude pokračovať."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr ""
+#~ "Skontrolujte si svoju e-mailovú schránku <strong %(emailId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Kliknite na odkaz v potvrdzujúcej e-mailovej správe. Prebehne automatické "
+#~ "prihlásenie k službe Persona."
+
+#~ msgid "forgot your password?"
+#~ msgstr "zabudli ste svoje heslo?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr ""
+#~ "Vašu e-mailovú adresu nepoznáme. Pre jej použitie v službe Persona "
+#~ "vytvorte heslo."
+
+#~ msgid "verify password"
+#~ msgstr "overenie hesla"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Odoslaním súhlasíte s <a %(termsLink)s>pravidlami používania</a> a <a "
+#~ "%(privacyLink)s>zásadami ochrany súkromia</a> stránky %(persona)s."
+
+#~ msgid "Next"
+#~ msgstr "Ďalej"
+
+#~ msgid "Verify Email"
+#~ msgstr "Overenie e-mailovej adresy"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "Na overenie, že ide o vašu <strong %(emailId)s>adresu</strong>, sa musíte "
+#~ "prihlásiť u vášho poskytovateľa. Otvorí sa nové okno."
+
+#~ msgid "Verify"
+#~ msgstr "Overiť"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Ďakujeme za prihlásenie k službe <strong>Persona</strong>. Teraz môžete "
+#~ "použiť svoj účet Persona na <em>prihlásenie</em> alebo <em>registráciu</"
+#~ "em> na webových stránkach po celom svete."
+
+#, fuzzy
+#~ msgid "Sign Up"
+#~ msgstr "Prihlásenie"
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Dokončenie prihlásenia k %s pomocou služby Persona"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Prebieha komunikácia so serverom"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Počkajte chvíľku. Prebieha komunikácia so serverom."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "Mozilla Persona je rýchly a bezpečný spôsob prihlasovania &mdash; <a "
+#~ "%s>získať viac informácií</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Ďakujeme za overenie vašej e-mailovej adresy. Táto správa je vám zaslaná "
+#~ "z dôvodu dokončenia prihlásenia k %s."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Pre dokončenie registrácie kliknite na nasledujúci odkaz:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "Pri pokuse o dokončenie registrácie nastala chyba. Neoverovali ste túto "
+#~ "adresu už niekedy?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "Pri pokuse o dokončenie registrácie nastala chyba."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "Nová adresa je nastavená a vy sa teraz môžete prihlásiť. Môžete toto okno "
+#~ "zavrieť a prejsť späť na"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "Problém s prihlasovacím odkazom. Nebola táto adresa už zaregistrovaná?"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "Domovská stránka BrowserID"
+
+#~ msgid "TOS"
+#~ msgstr "TOS"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "Chyba pri komunikácií so serverom."

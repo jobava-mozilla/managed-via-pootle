@@ -1,0 +1,810 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-01-06 09:18+0000\n"
+"Last-Translator: Merike <merike.sell@eesti.ee>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1388999922.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: sisselogimise lõpetamine"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: Parooli lähtestamise lõpetamine"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Parem viis sisse logimiseks"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Toetamata veebilehitseja"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "Toetamata veebilehitseja, millel pole \"Watch\"-funktsionaalsust"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Küpsised on keelatud"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Teave"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Teenuse kasutamistingimused"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Privaatsuspoliitika"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Registreeringu lõpetamine"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "Lihtsam viis sisse logimiseks."
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona asendab mitmeid paroole"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Näiteks <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> ja <a %(voostLink)s>%(voostName)s</a> kasutavad "
+"sisselogimiseks Personat."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"Seega vajad vaid ühte parooli, millega saad mitmetel lehtedel sisse logida."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "Üks parool kõigi teiste juhtimiseks."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Kasuta mitut e-posti aadressi"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Persona on paindlik"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"Personas on sinu identiteediks e-posti aadress. Soovi korral võid kasutada "
+"mitut e-posti aadressi, kuid vajad siiski ainult ühte parooli."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Tõeline privaatsus"
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Persona on uhkelt mittetulunduslik"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Personat arendab Mozilla, mittetulunduslik organisatsioon, keda "
+"veebikogukond usaldab. Meie eesmärgiks on luua tehnoloogiaid, mis "
+"tasakaalustavad veebiplatvormi avatust kasutajate privaatsusega."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona kaitseb sinu privaatsust"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona ei jälita sind veebis, vaid eraldab sinu sisselogimise edasistest "
+"tegevustest. Külastatud lehtede ajalugu salvestatakse vaid sinu arvutisse."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona arendajatele"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Implementeeri Persona oma veebilehel"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Juhendid arendajale ning API dokumentatsioon"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Sisselogimise lõpetamine:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Viimane samm!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "E-posti aadress"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Sinu e-posti aadress"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Parool"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Sinu parool"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "Parool on nõutav."
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "Parool pole õige."
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "Valmis"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona vajab sinu meelespidamiseks küpsiseid."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Palun sulge see aken, <a %s>luba küpsised</a> ja proovi uuesti"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "Logi %s'sse sisse, kasutades &hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s ei luba enam Personasse %(idp)s parooliga sisse logida. Selle e-"
+"posti aadressiga sisselogimiseks pead kasutama olemasolevat Persona parooli."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Persona parool"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "E-posti aadress"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "Peab olema e-posti aadress"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "E-posti aadress on nõutav."
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "Unustasid parooli?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "Sisesta parool"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "parool"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Esialgne kinnitus on saadetud, palun oota enne uue taotlemist paar minutit."
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Edasi minnes nõustud lehe %(site)s <a %(terms)s>kasutustingimuste</a> ja <a "
+"%(privacy)s>privaatsuspoliitikaga</a>."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "Edasi"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "Jätka"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "Tühista"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "Logi sisse"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "Olgu"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Ühendutakse Personaga..."
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona.</strong> Lihtne sisselogimine, mille on loonud sama "
+"mittetulunduslik organisatsioon, mis Firefoxi taga seisab. <a %s>Rohkem "
+"teavet&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Ühendu Mozilla Personat kasutades. See on turvalisim ja lihtsaim viis "
+"sisselogimiseks."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>Tutvustus</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "Eemalda"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "Mozilla Persona on sulle uus? <a %(learnMoreLink)s>Uuri lähemalt</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Kontohaldur"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Sinu e-posti aadressid"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "Muuda"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "Valmis"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Vana parool"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Uus parool"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "Vana parool on nõutav."
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "Vana parool pole õige."
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "Uus parool on nõutav."
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "Paroolid peavad erinema."
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Parool peab olema 8&ndash;80 märki pikk."
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "Võid igal ajal <a %(cancelLink)s>konto tühistada</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Persona avaleht"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Kuidas see töötab"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "Konto"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Sisselogimine"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Logi välja"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "Autor: <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Privaatsus &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "Teenusetingimused &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "Arendajatele &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Vajad abi? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr ""
+"Meil on kahju, kuid Persona kasutamiseks on vajalik javascripti lubamine."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Lähtesta Persona parool"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Uue %s parooli valimine"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Parooli kontrollimine"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "Kontrollparool on nõutav."
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "Paroolid ei kattu!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">Aadress</strong> on kontrollitud!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"Sinu uus aadress on seadistatud ja valmis kasutamiseks. Sind suunatakse "
+"edasi aadressile %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Edasisuunamine %s sekundi pärast"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Meil on kahju, kuid sinu veebilehitseja pole toetatud."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Firefoxi logo"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona töötab <a %(getFirefoxLink)s>Firefoxi</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "ja teiste <a %(otherBrowserLink)s>kaasaegsete veebilehitsejatega.</a>"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr "Vabandame, sinu veebilehitseja ei toeta sellele lehele sisselogimist."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"Selle veebilehe omanikul on vaja uuendada Persona <a %s>navigator.id."
+"watch()</a> funktsionaalsust."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona.</strong></a> Lihtne sisselogimine samalt "
+"mittetulunduslikult organisatsioonilt, mis Firefoxi taga seisab."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Kinnitamaks ligipääsu lehele %(site)s klõpsa kinnituslingil:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr "Kui sa EI olnud parajasti sisse logimas, siis eira seda e-kirja."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr ""
+"Lihtne sisselogimine Firefoxi loonud mittetulundusliku organisatsiooni poolt"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "Rohkem teavet leiad https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "Kinnita e-posti aadress kohe"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "Kinnita oma konto kohe"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "Unustasid Persona parooli? Seda juhtub ka parimatega meist."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Parooli lähtestamiseks klõpsa:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr "Kui sa EI soovinud parooli lähtestada, siis eira seda e-kirja."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "Lähtesta oma parool kohe"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr "Paistab, et sinu e-postiteenuse pakkujal on probleeme Persona toega."
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Logi Personaga sisse"
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "Märkus: Kui sa EI soovinud parooli lähtestada, siis eira seda e-kirja."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Lihtsustatud sisselogimine"
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s kasutab sisselogimiseks kasutajanimede asemel Personat."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Sisesta oma e-posti aadress"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Lähtesta Persona parool."
+
+#~ msgid "enter email address"
+#~ msgstr "e-posti aadress"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Täname sind Persona kasutamise eest."
+
+#~ msgid "Thank you,"
+#~ msgstr "Tänades"
+
+#~ msgid "The Persona team"
+#~ msgstr "Persona meeskond"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Parooli lähtestamiseks klõpsa siia."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "Jätkamiseks on vajalik e-postiaadressi kinnitamine ning Personale parooli "
+#~ "valimine."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "Uue parooli seadmiseks klõpsa:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Persona meeskond"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "Uue parooli seadmiseks klõpsa siia."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr "Konto kontrollimine selle kasutajanime ja parooliga ei õnnestunud."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Me just saatsime sellele aadressile kirja! Kui soovid tõesti teist kirja "
+#~ "saada, siis oota minut-paar ja proovi uuesti."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "E-posti aadress ja parool ei sobi kokku."
+
+#~ msgid "The password field is required."
+#~ msgstr "Parool on nõutav."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "Vana parool on vale. Parooli ei uuendatud."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "Vana ja uus parool on ühesugused."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Personaga sisse logimiseks sisesta palun e-posti aadress."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "Suheldakse sinu e-posti teenuse pakkujaga."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "Sisselogimine on lõpetatud"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Unustasin parooli"
+
+#~ msgid "Email Verification"
+#~ msgstr "Kontrolli e-posti aadressi"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "Kontrolli oma <strong %(checkId)s></strong> postkasti."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr "Klõpsa lingil kinnituskirjas. Seejärel sinu parool lähtestatakse."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Sellist kasutajat pole!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "Selle aadressi parooli ei saa lähtestada."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Sul on parool meeles? Logi sisse."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr "See aken sulgub nüüd ning konto loomine jätkub."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "Kontrolli <strong %(emailId)s></strong> postkasti."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Klõpsa lingil kinnituskirjas. Seejärel logitakse sind Personasse sisse."
+
+#~ msgid "forgot your password?"
+#~ msgstr "Unustasid parooli?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr "Sinu e-posti aadress on meile uus. Palun vali Persona jaoks parool."
+
+#~ msgid "verify password"
+#~ msgstr "parooli kontrollimine"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Edasi minnes nõustud %(persona)s <a %(termsLink)s>kasutustingimuste</a> "
+#~ "ja <a %(privacyLink)s>privaatsuspoliitikaga</a>."
+
+#~ msgid "Next"
+#~ msgstr "Edasi"
+
+#~ msgid "Verify Email"
+#~ msgstr "Kontrolli e-posti aadressi"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "Tõestamaks, et <strong %(emailId)s>see address</strong> kuulub sulle, "
+#~ "pead oma teenusepakkuja juures sisse logima. Selleks avatakse uus aken."
+
+#~ msgid "Verify"
+#~ msgstr "Kontrolli"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Täname, et registreerusid <strong>Persona</strong> kasutajaks. Nüüd saad "
+#~ "Persona kontot kasutada <em>sisselogimiseks</em> või "
+#~ "<em>registreerumiseks</em> paljudel erinevatel veebilehtedel!"
+
+#~ msgid "Sign Up"
+#~ msgstr "Registreeru"
+
+#~ msgid ""
+#~ "<strong %(emailId)s>Email</strong> is not registered. Would you like to "
+#~ "<a %(signUpLink)s>sign up</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s>E-posti aadress</strong> pole registreeritud. Kas "
+#~ "soovid <a %(signUpLink)s>registreeruda</a>?"
+
+#~ msgid "New to Persona? Sign up today."
+#~ msgstr "Persona on sulle uus? Registreeru juba täna."
+
+#~ msgid ""
+#~ "To verify that you own <strong %(primaryId)s>address</strong>, you must "
+#~ "sign in with your provider.  A new window will be opened."
+#~ msgstr ""
+#~ "Tõestamaks, et <strong %(primaryId)s>e-posti aadress</strong> kuulub "
+#~ "sulle, pead oma teenusepakkuja juures sisse logima. Selleks avatakse uus "
+#~ "aken."
+
+#~ msgid ""
+#~ "<strong %(emailId)s></strong> is already registered. Would you like to <a "
+#~ "%(signInLink)s>sign in</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s></strong> on juba registreeritud. Kas soovid hoopis "
+#~ "<a %(signInLink)s>sisse logida</a>?"
+
+#~ msgid "Existing account? Sign in."
+#~ msgstr "Olemasolev konto? Logi sisse."
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Sisse logimise lõpetamine aadressile %s Personat kasutades"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Suheldakse serveriga"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Üks hetk, toimub suhtlemine serveriga."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "Mozilla Persona on kiire ja turvaline viis sisselogimiseks. <a %s>loe "
+#~ "lähemalt &rarr;</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Täname, et kontrollisid oma e-posti aadressi. See sõnum saadeti %s sisse "
+#~ "logimise lõpetamiseks."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Registreerumise lõpetamiseks klõpsa seda linki:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "Tekkis viga aadressi kinnitamisel. Kas oled antud aadressi varem "
+#~ "kontrollinud?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "Registreerimise lõpetamisel tekkis viga."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "Uus aadress on seadistatud ja peaksid nüüd olema sisse logitud. Võid "
+#~ "selle akna sulgeda ja minna tagasi"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "Registreerumise lingiga oli probleeme. Kas oled varem antud aadressiga "
+#~ "registreerunud?"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "BrowserID avaleht"
+
+#~ msgid "TOS"
+#~ msgstr "Kasutamistingimused"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "Tekkis viga serveriga suhtlemisel."

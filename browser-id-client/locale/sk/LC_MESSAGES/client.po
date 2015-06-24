@@ -1,0 +1,742 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-08-26 19:07+0000\n"
+"Last-Translator: Vlado <valastiak@mozilla.sk>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1377544058.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"Nastal problém s vašim prihlasovacím odkazom. Bola táto adresa "
+"zaregistrovaná?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Pri pokuse o dokončenie registrácie nastala chyba."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Persona k vášmu zapamätaniu vyžaduje cookies."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Zavrite toto okno, <a %s>povoľte cookies</a> a skúste to znova"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Chyba pri komunikácií"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Prebieha dokončovanie prihlasovania..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Za chvíľku budete prihlásený k službe Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Ospravedlňujeme sa, táto požiadavka čaká už moc dlho."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Ak nedôjde k obnoveniu do niekoľkých sekúnd, zavrite okno a skúste to znova."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Overenie pomocou poskytovateľa pošty."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Vybraná e-mailová adresa je nesprávna, alebo už bola odstránená."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Odstrániť e-mailovú adresu %(email)s z vášho účtu Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Odstránením poslednej adresy zrušíte svoj účet Persona.\n"
+"Naozaj si želáte pokračovať?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Naozaj chcete zrušiť svoj účet Persona?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Pridanie ďalšej e-mailovej adresy"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "e-mailová adresa"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Musíte zadať platnú e-mailovú adresu"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "E-mail je vyžadovaná položka"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Úvodné potvrdenie bolo odoslané. Pred požiadaním o ďalšie počkajte niekoľko "
+"minút."
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Už pridané!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "pridať"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "zrušiť"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Nemožno overiť %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s je požadovaná adresa, ale nemôžeme overiť, či je to naozaj vaša adresa."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "Adresa %(email)s bola overená!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Prihlasuje sa&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Skontrolujte si svoju e-mailovú schránku"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Kliknite na odkaz v potvrdzujúcej e-mailovej správe odoslanej na adresu %s. "
+"Následne budete prihlásený k %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Chyba"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Veľmi sa ospravedlňujeme."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Server je teraz extrémne preťažený!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Obnovte túto stránku a skúste to znova."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Zavrite toto okno a skúste to znova."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Zobraziť ďalšie informácie"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Zavrieť"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* nie je platnou e-mailovou adresou!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "Ak chcete pokračovať, zavrite okne a zadajte platnú e-mailovú adresu."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Zapamätať?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Ako dlho si želáte byť prihlásený pomocou služby Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Jeden mesiac"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Verím tomuto počítaču."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Len túto reláciu"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Nejedná sa o môj počítač."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Poznámka: Zo služby Persona sa môžete samozrejme kedykoľvek odhlásiť."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Prihlásenie pomocou služby Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Prihlásiť sa k %s ako&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Zvoľte e-mailovú adresu"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Pridať ďalšiu e-mailovú adresu"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Toto nie som ja"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Pokračovaním potvrdzujete, že súhlasíte s <a %(terms)s>pravidlami "
+"používania</a> a <a %(privacy)s>zásadami ochrany súkromia</a> stránky "
+"%(site)s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "prihlásiť sa"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "%(primary)s neodpovedá. Počkajte niekoľko minút a skúste to znova."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Nie je možné overiť %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Dôvodom môže byť to, že váš prehliadač blokuje cookies tretích strán. "
+"Uistite sa, že v nastavení súkromia vo vašom prehliadači máte povolené "
+"cookies tretích strán pre %(idpName)s a skúste to znova."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Súhlasíte tiež s <a %(terms)s>pravidlami používania</a> a <a "
+"%(privacy)s>zásadami ochrany súkromia</a> stránky %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Vytvorenie hesla"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s už viac neumožňuje prihlásenie pomocou Persona pomocou vášho hesla "
+"pre %(idp)s. Vytvorte si pre svoj účet Persona nové heslo."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Vaša e-mailová adresa je pre nás nová. Pre jej použitie v systéme Firefox OS "
+"si vytvorte heslo."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Vaša e-mailová adresa je pre nás nová. Pre jej použitie v službe Persona si "
+"vytvorte heslo."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "vytvorenie hesla"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Pole s heslom je povinné"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Heslo musí mať dĺžku 8 až 80 znakov"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Overenie hesla"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "overenie hesla"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Je vyžadované overenie hesla"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Heslá sa nezhodujú!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "hotovo"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Dobré správy!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s už nevyžaduje žiadne extra heslo. Akonáhle svoj účet overíte, "
+"budete okamžite prihlásený k %(aWebsite)s."
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "overenie"
+
+#~ msgid "signing in"
+#~ msgstr "prihlasovanie"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Overenie e-mailovej adresy"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Prihlásiť sa ako..."
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Vaša identita bola overená pomocou poskytovateľa pošty. Teraz vás skúsime "
+#~ "prihlásiť."
+
+#~ msgid "Sign in using"
+#~ msgstr "Prihlásiť sa pomocou"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Stránka, ku ktorej sa chcete prihlásiť, používa"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Teraz musíme skontrolovať, či je zvolená e-mailová adresa naozaj vaša. "
+#~ "Toto okno bude presmerované na"
+
+#~ msgid "Enter password"
+#~ msgstr "Zadajte heslo"
+
+#~ msgid "forgot your password?"
+#~ msgstr "zabudli ste heslo?"
+
+#~ msgid "Password"
+#~ msgstr "Heslo"
+
+#~ msgid "Password incorrect"
+#~ msgstr "Heslo nie je správne"
+
+#~ msgid "verify email"
+#~ msgstr "overenie e-mailu"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s to robí jednoduchým"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "Váš účet služby %(emailProvider)s bol aktualizovaný, aby lepšie "
+#~ "spolupracoval so službou Persona. Teraz vás presmerujeme na stránku "
+#~ "služby %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona vám dáva možnosť použiť váš účet služby %(emailProvider)s pre "
+#~ "prihlásenie k stránkam ako %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "prihlásený ako %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Použiť inú e-mailovú adresu"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Táto položka musí obsahovať e-mailovú adresu."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Práve sme na vašu adresu odoslali e-mail! Ak naozaj chcete odoslať ďalší, "
+#~ "počkajte jednu alebo dve minúty a skúste to znova."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Táto adresa už bola k vášmu účtu pridelená!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Zvoľte e-mailovú adresu."
+
+#~ msgid "The password field is required."
+#~ msgstr "Položka s heslom je povinná."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Nesprávna e-mailová adresa alebo heslo."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "Váš účet služby %(emailProvider)s bol aktualizovaný, aby lepšie "
+#~ "spolupracoval so službou Persona. Teraz vás presmerujeme na stránku "
+#~ "služby %(emailProvider)s. Keď overíte svoj účet, budete prihlásení k "
+#~ "%(aWebsite)s."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Pridať ďalšiu e-mailovú adresu k svojmu účtu Persona."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Nastala chyba!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Obnova hesla"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Vytvorenie nového hesla pre použitie spolu s %s."
+
+#~ msgid "reset password"
+#~ msgstr "obnovenie hesla"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Poznámka: Heslo bude použité pre všetky vaše e-mailové adresy v službe "
+#~ "Persona."
+
+#~ msgid "Sign In"
+#~ msgstr "Prihlásenie"
+
+#~ msgid "Sign Up"
+#~ msgstr "Registrácia"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Počkajte pár sekúnd, prebieha prihlásenie do siete."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "%s používa pre prihlásenie službu Persona namiesto používateľských mien."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Pre prihlásenie pomocou služby Persona zadajte prosím svoju e-mailovú "
+#~ "adresu."
+
+#~ msgid "enter email address"
+#~ msgstr "zadajte e-mailovú adresu"
+
+#~ msgid "password"
+#~ msgstr "heslo"
+
+#~ msgid "next"
+#~ msgstr "ďalej"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Zabudli ste heslo?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Kliknutím na %s potvrdzujete, že súhlasíte s <a %s>pravidlami používania</"
+#~ "a> a <a %s>zásadami pre súkromie</a> na webe."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Táto správa zmizne okamžite, ako bude požiadavka ukončená (dúfame že "
+#~ "skoro). Ak čakáte moc dlho, zavrite toto okno a skúste to znova."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr "Zadajte svoju e-mailovú adresu a prihláste sa k <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Počkajte prosím chvíľku, kým sa nám podarí získať informácie o vašom "
+#~ "poskytovateľovi pošty."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "K účtu sa nemôžete prihlásiť s týmto používateľským menom a heslom."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Poslali sme vám overovací e-mail na adresu <strong>%s</strong>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Ak je to omyl, jednoducho zaslaný e-mail ignorujte a <a %s>zrušte ho</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Ak je to omyl, jednoducho zaslaný e-mail ignorujte a <a %s>použite inú e-"
+#~ "mailovou adresu</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Ak vám nevadí, že sa pýtame, je toto váš počítač?"
+
+#~ msgid "yes"
+#~ msgstr "áno"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Ak áno, ponecháme vaše prihlásenie aktívne 2 týždne."
+
+#~ msgid "no"
+#~ msgstr "nie"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Ak ste napríklad na verejnom počítači k knižnici alebo internetovej "
+#~ "kaviarni, spýtame sa znovu na vaše heslo za hodinu."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Víta vás Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Teraz zadajte nové heslo, ktoré použijete, keď sa budete prihlasovať cez "
+#~ "službu Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Heslo znova"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID vyžaduje cookies"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "E-mail vyzerá byť nový. Vykonajte jeho nastavenie."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Vždy sa prihlasovať pomocou tohto e-mailu"
+
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "Pre správne fungovanie BrowserID je nutné mať v prehliadači povolené "
+#~ "cookies. Povoľte prosím vo vašom prehliadači cookies a skúste to znova"
+
+#~ msgid "You are offline!"
+#~ msgstr "Teraz ste offline!"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr "BrowserID nemôže komunikovať, ak ste offline!"
+
+#~ msgid "select email"
+#~ msgstr "výber e-mailu"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr ""
+#~ "Ospravedlňujeme sa, ale BrowserID nemôže komunikovať, ak ste v režime "
+#~ "offline. "
+
+#~ msgid "Authenticating User"
+#~ msgstr "Overenie používateľa"
+
+#~ msgid "Adding Address"
+#~ msgstr "Pridávanie adresy"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "Pridávanie primárnej e-mailovej adresy k používateľovi"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "Kontrola informácií o adrese"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "Overovanie s potvrdením"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "Rušenie používateľského účtu"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "Kontrola overenia"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "Kontrola verzie skriptu"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "Dokončovanie registrácie používateľa"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "Kontrola, či sú v povolené cookies"
+
+#~ msgid "Creating Account"
+#~ msgstr "Vytváranie účtu"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "Získanie potvrdenia"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "Kontrola registračného tokenu"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "Kontrola e-mailovej adresy"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "Kontrola, či je používateľ overený pomocou IdP"
+
+#~ msgid "Logout Failed"
+#~ msgstr "Odhlásenie zlyhalo"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "Overenie pomocou poskytovateľa identity"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr ""
+#~ "Nastal problém pri komunikácií s poskytovateľom vašej pošty. Vyskúšajte "
+#~ "to prosím znovu!"
+
+#~ msgid "Provisioning with Identity Provider"
+#~ msgstr "Zavedenie poskytovateľa identity"
+
+#~ msgid "Provisioning Unsupported Identity Provider"
+#~ msgstr "Zavedenie nepodporovaného poskytovateľa identity"
+
+#~ msgid ""
+#~ "Unfortunately, the email address provided cannot act as a Primary "
+#~ "Identity Provider"
+#~ msgstr ""
+#~ "Zadaná e-mailová adresa nemôže bohužiaľ slúžiť ako primárny poskytovateľ "
+#~ "identity"
+
+#~ msgid "Registration Failed"
+#~ msgstr "Registrácia zlyhala"
+
+#~ msgid "Establishing Relay"
+#~ msgstr "Zahájenie prenosu"
+
+#~ msgid "Relay frame could not be found"
+#~ msgstr "Rámec prenosu sa nepodarilo nájsť"
+
+#~ msgid "Signin Failed"
+#~ msgstr "Prihlásenie zlyhalo"
+
+#~ msgid "Signup Failed"
+#~ msgstr "Odhlásenie zlyhalo"
+
+#~ msgid "Syncing Address"
+#~ msgstr "Synchronizácia adresy"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "Synchronizácia e-mailových adries"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "Synchronizácia kľúčov adresy"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "Získanie informácie o tokene"
+
+#~ msgid "Updating password"
+#~ msgstr "Aktualizácia hesla"

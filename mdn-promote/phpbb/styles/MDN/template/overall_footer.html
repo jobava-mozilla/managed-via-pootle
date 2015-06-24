@@ -1,0 +1,41 @@
+	<ul class="forum-util">
+		<li><a href="{U_INDEX}" accesskey="h">{L_INDEX}</a></li>
+			<!-- IF S_USER_LOGGED_IN and not S_IS_BOT -->
+				<!-- IF S_WATCH_FORUM_LINK --><li><a href="{S_WATCH_FORUM_LINK}" title="{S_WATCH_FORUM_TITLE}">{S_WATCH_FORUM_TITLE}</a></li><!-- ENDIF -->
+				<!-- IF U_WATCH_TOPIC --><li><a href="{U_WATCH_TOPIC}" title="{L_WATCH_TOPIC}">{L_WATCH_TOPIC}</a></li><!-- ENDIF -->
+				<!-- IF U_BOOKMARK_TOPIC --><li><a href="{U_BOOKMARK_TOPIC}" title="{L_BOOKMARK_TOPIC}">{L_BOOKMARK_TOPIC}</a></li><!-- ENDIF -->
+				<!-- IF U_BUMP_TOPIC --><li><a href="{U_BUMP_TOPIC}" title="{L_BUMP_TOPIC}">{L_BUMP_TOPIC}</a></li><!-- ENDIF -->
+			<!-- ENDIF -->
+		<li>{S_TIMEZONE}</li>
+	</ul>
+
+</div><!-- /#content-main -->
+
+</div>
+</section>
+
+<section id="footbar">
+<div class="wrap">
+  <p>What do you think of the new MDN? Please <a href="http://mdn.uservoice.com/forums/51389-mdn-website-feedback-http-developer-mozilla-org">share your feedback</a> with us.</p>
+</div>
+</section>
+<footer id="site-info" role="contentinfo">
+  <div class="wrap">
+    <div id="legal">
+      <img src="{T_THEME_PATH}/images/mdn-logo-tiny.png" alt="" width="42" height="48">
+      <p id="copyright">&copy; 2010 Mozilla Developer Network</p>
+      <p>Content is available under <a href="https://developer.mozilla.org/Project:Copyrights">these licenses</a> &bull; <a href="https://developer.mozilla.org/Project:en/About">About MDN</a> &bull; <a href="http://www.mozilla.org/about/policies/privacy-policy.html">Privacy Policy</a> &bull; <a href="viewtopic.php?f=3&amp;t=5">Help</a></p>
+    </div>
+  </div>
+<!-- IF DEBUG_OUTPUT --><div>{DEBUG_OUTPUT}</div><!-- ENDIF -->
+<!-- IF not S_IS_BOT -->{RUN_CRON_TASK}<!-- ENDIF -->
+</footer>
+
+<script type="text/javascript" src="{T_TEMPLATE_PATH}/forum_fn.js"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" src="{T_TEMPLATE_PATH}/jquery.min.js"></script>
+<script type="text/javascript" src="{T_TEMPLATE_PATH}/gsearch.js"></script>
+<script type="text/javascript" src="{T_TEMPLATE_PATH}/init.js"></script>
+
+</body>
+</html>

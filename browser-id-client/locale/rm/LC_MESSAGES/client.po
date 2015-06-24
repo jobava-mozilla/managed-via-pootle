@@ -1,0 +1,720 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-08-06 06:28+0000\n"
+"Last-Translator: Gion-Andri <gion-andri@gmx.ch>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: rm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1375770519.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"I ha dà in problem cun la colliaziun per registrar. È questa adressa gia "
+"vegnida registrada?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Ina errur è capitada durant cumplettar la registraziun."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Persona basegna cookies per sa regurdar da tai."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Serra per plaschair questa fanestra, <a %s>activescha ils cookies</a> ed "
+"emprova anc ina giada"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Errur da communicaziun"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Terminar il process d'annunzia…"
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "En curt mument vegns ti ad esser annunzià tar Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Perstgisa, quai dura pli ditg che quai ch'i duess."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Sch'il problem na sa schlia betg automaticamain entaifer las proximas "
+"secundas, serra sez la fanestra ed emprova danovamain."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Verifitgar cun tes purschider dad e-mails."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "La adressa dad e-mail tschernida è nunvalida u vegnida stizzada."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Allontanar %(email)s da tes conto da Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Allontanar la davosa adressa dad e-mail vegn a stizzar tes conto da "
+"Persona.\n"
+"Es ti segir che ti vuls cuntinuar?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Es ti segir che ti vuls stizzar tes conto da Persona?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Agiuntar ina adressa dad e-mail"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "adressa dad e-mail"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Sto esser ina adressa dad e-mail"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Il champ dad e-mail è obligatoric"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Tramess l'emprima confermaziun &ndash; spetga in per minutas avant che "
+"dumandar la proxima"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Fingia agiuntà!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "agiuntar"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "interrumper"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Impussibel da verifitgar %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s è ina adressa obligatorica, nus na pudain dentant betg verifitgar ch'ella "
+"appartegn a tai."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "Verifitgà %(email)s!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Ti vegns annunzià&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Legia tes e-mails"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Clicca sin la colliaziun en l'e-mail tramess a %s. Ti vegns alura gist "
+"annunzià tar %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Errur"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Stgisa voll."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Noss servers èn surchargiads!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "P. pl. rechargiar la pagina ed empruvar danovamain."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Serra p.pl. la fanestra ed emprova danovamain."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Mussar ulteriuras infurmaziuns"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Serrar"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* n'è betg ina adressa dad e-mail valida!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"Per cuntinuar, serra p.pl. la fanestra ed endatescha ina adressa valida."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Vuls che Persona sa ragorda da tai?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Con ditg vuls ti restar annunzià tar Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "In mais"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Jau ma fid da quest computer."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Be questa sessiun"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Quai n'è betg mes computer."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Remartga: Ti pos sa chapescha sortir da mintga temp da Persona."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "S'annunziar cun Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "S'annunziar tar %s sco&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Tscherner ina adressa dad e-mail"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Agiuntar in'autra adressa dad e-mail"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Quai na sun betg jau"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Cun cuntinuar decleras ti che ti es d'accord cun las <a "
+"%(terms)s>cundiziuns</a> e las <a %(privacy)s>directivas per la protecziun "
+"da datas</a> da %(site)s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "s'annunziar"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"%(primary)s na respunda betg. Spatga in pèr minutas ed emprova danovamain."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Interrumper"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Impussibel da verifitgar %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Eventualmein è il problem che tes navigatur blocchescha cookies da terz.  "
+"Controllescha las preferenzas da tes navigatur e definescha che cookies da "
+"%(idpName)s vegnan acceptads ed emprova danovamain."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Ti decleras era che ti es d'accord cun las <a %(terms)s>cundiziuns</a> e las "
+"<a %(privacy)s>directivas per la protecziun da datas</a> da %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Creear in pled-clav"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s na lubescha betg pli da s'annunziar tar Persona cun tes pled-clav da "
+"%(idp)s. Creescha per plaschair in nov pled-clav per utilisar cun tes conto "
+"da Persona."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Tia adressa dad e-mail è nova per nus. Creescha in pled-clav che ti vuls "
+"utilisar cun FirefoxOS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Tia adressa dad e-mail è nova per nus. Creescha in pled-clav che ti vuls "
+"utilisar tar Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "creear il pled-clav"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Il pled-clav è obligatoric"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Il pled-clav sto esser 8 &ndash;80 caracters lung"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Verifitgar il pled-clav"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "verifitgar il pled-clav"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "La verificaziun dal pled-clav è obligatorica"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Ils pleds-clav na correspundan betg!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "terminar"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Bunas novas!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s na dovra en futur nagin pled-clav spezial. Verifitgescha tes conto "
+"e ti vegns immediat annunzià tar %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "Verifitgar"
+
+#~ msgid "signing in"
+#~ msgstr "s'annunziar"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Conferma tia adressa dad e-mail"
+
+#~ msgid "Sign in as..."
+#~ msgstr "S'annunziar sco…"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Tia identitad è vegnida verifitgada cun tes purschider dad e-mail. Nus "
+#~ "empruvain ussa dad annunziar tai."
+
+#~ msgid "Sign in using"
+#~ msgstr "S'annunziar cun"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "La pagina dumonda che ti t'annunzias cun"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Ti stos s'annunziar tar tes purschider dad e-mail per verifitgar che ti "
+#~ "possedas questa adressa. Questa fanestra vegn renviada a"
+
+#~ msgid "Enter password"
+#~ msgstr "Endatar il pled-clav"
+
+#~ msgid "forgot your password?"
+#~ msgstr "emblidà tes pled-clav?"
+
+#~ msgid "Password"
+#~ msgstr "Pled-clav"
+
+#~ msgid "Password incorrect"
+#~ msgstr "Il pled-clav n'è betg correct"
+
+#~ msgid "verify email"
+#~ msgstr "verifitgar l'adressa dad e-mail"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s fa pli simpel quai"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "Tes conto da %(emailProvider)s è vegnì actualisà per ch'el funcziuneschia "
+#~ "anc meglier cun Persona. Nus ta renviain a %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona ta lascha utilisar tes conto da %(emailProvider)s per s'annunziar "
+#~ "tar paginas sco %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "s'annunziar cun %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Utilisar in'autra adressa dad e-mail"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Quest champ sto cuntegnair ina adressa dad e-mail."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Nus avain gist tramess in e-mail a questa adressa. Sche ti vuls propi "
+#~ "trametter anc in, spetga ina minuta u duas ed emprova anc ina giada."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Questa adressa è gia vegnida agiuntada a tes conto."
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Tscherna p.pl. ina adressa dad e-mail."
+
+#~ msgid "The password field is required."
+#~ msgstr "Il champ da pled-clav è obligatoric."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Quest pled-clav na tutga betg tar questa adressa dad e-mail."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "Tes conto da %(emailProvider)s è vegnì actualisà per ch'el funcziuneschia "
+#~ "anc meglier cun Persona. Nus ta renviain a %(emailProvider)s. Sche ti has "
+#~ "verifitgà tes conto vegns ti annunzià tar %(aWebsite)s."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Agiunta in'autra adressa dad e-mail a tes pled-clav da Persona."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Ina errur è capitada!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Redefinir tes pled-clav"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Creescha in nov pled-clav che ti vuls utilisar cun %s."
+
+#~ msgid "reset password"
+#~ msgstr "redefinir il pled-clav"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Remartga: Quest pled-clav vegn utilisà cun tut tias adressas dad e-mail "
+#~ "da Persona."
+
+#~ msgid "Sign In"
+#~ msgstr "S'annunziar"
+
+#~ msgid "Sign Up"
+#~ msgstr "Sa registrar"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Spetga in per secundas enfin che nus t'annunziain tar la pagina."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s utilisescha Persona empè da nums d'utilisader per s'annunziar."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Endatescha tia adressa dad e-mail per s'annunziar cun Persona."
+
+#~ msgid "enter email address"
+#~ msgstr "endatar l'adressa dad e-mail"
+
+#~ msgid "password"
+#~ msgstr "pled-clav"
+
+#~ msgid "next"
+#~ msgstr "cuntinuar"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Emblidà tes pled-clav?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Cun cuntinuar decleras ti a %s che ti es d'accord cun las <a "
+#~ "%s>cundiziuns</a> e las <a %s>directivas per la protecziun da datas</a>."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Quest messadi sparescha sche la dumonda è cumplettada (speranza prest). "
+#~ "Sche ti spetgas gia memia ditg, serra la fanestra ed emprova danovamain."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "Endatescha tia adressa dad e-mail per s'annunziar tar <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Spetga per plaschair durant che nus retschavin infurmaziuns davart tes "
+#~ "provider dad e-mails."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "Ti na pos betg t'annunziar tar quest conto cun quest num d'utilisader e "
+#~ "quest pled-clav."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Nus avain tramess in e-mail da confermaziun a <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Sch'i sa tracta d'in sbagl, ignorescha l'e-mail tramess ed <a "
+#~ "%s>interrumpa</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Sch'i sa tracta d'in sbagl, ignorescha l'e-mail tramess ed <a "
+#~ "%s>utilisescha ina autra adressa d'e-mail</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "È quai tes computer?"
+
+#~ msgid "yes"
+#~ msgstr "gea"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Sche gea t'annunziain nus per in duas emnas."
+
+#~ msgid "no"
+#~ msgstr "na"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Sche ti lavuras vid in comuter public, p.ex. en ina biblioteca u en in "
+#~ "café d'internet, tscherna quai. Lura ta dumandain nus mintga ura per il "
+#~ "pled-clav per garantir dapli segirezza."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Bainvegni tar Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Sco proxim, tscherna in nov pled-clav che ti vuls utilisar per "
+#~ "s'annunziar cun Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Repeter il pled-clav"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID utilisescha cookies"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "Questa adressa dad e-mail para nova, lain registrar ella."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Adina s'annunziar cun questa adressa dad e-mail"
+
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "Per che BrowserID funcziunescha correctamain èsi necessari che cookies èn "
+#~ "activads en tes navigatur. Activescha p.pl. ils cookies ed emprova "
+#~ "danovamain."
+
+#~ msgid "You are offline!"
+#~ msgstr "Ti es offline!"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr ""
+#~ "Deplorablamain na po BrowserID betg communitgar sche ti es en il modus "
+#~ "offline."
+
+#~ msgid "select email"
+#~ msgstr "tscherner l'adressa dad e-mail"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr ""
+#~ "Perstgisa, ma nus na pudain betg communitgar cun BrowserID durant che ti "
+#~ "es offline."
+
+#~ msgid "Authenticating User"
+#~ msgstr "Autentifitgar l'utilisader"
+
+#~ msgid "Adding Address"
+#~ msgstr "Agiuntar ina adressa"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "Agiuntar ina adressa dad e-mail principala a l'utilisader"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "Controlla da las infurmaziuns d'adressa"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "Il conto d'utilisader vegn allontanà"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "Controllar l'autentificaziun"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "Controllar la versiun dal script"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "Cumpletar la registraziun da l'utilisader"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "Controllar sche cookies èn activads"
+
+#~ msgid "Creating Account"
+#~ msgstr "Crear in conto"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "Controllar il token da registraziun"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "Controllar l'adressa dad e-mail"
+
+#~ msgid "Logout Failed"
+#~ msgstr "Errur cun partir"
+
+#~ msgid "Registration Failed"
+#~ msgstr "Errur durant la registraziun"
+
+#~ msgid "Signin Failed"
+#~ msgstr "Errur cun s'annunziar"
+
+#~ msgid "Signup Failed"
+#~ msgstr "Errur cun registrar"
+
+#~ msgid "Syncing Address"
+#~ msgstr "Sincronisar l'adressa"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "Sincronisar las adressas dad e-mail"
+
+#~ msgid "Updating password"
+#~ msgstr "Actualisar il pled-clav"
+
+#~ msgid ""
+#~ "We just sent an email to that address!  If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Nus avain gist tramess in e-mail a questa adressa. Sche ti vuls propi "
+#~ "trametter anc in, spetga ina minuta u duas ed emprova danovamain."
+
+#~ msgid "translated text"
+#~ msgstr "text translatà"

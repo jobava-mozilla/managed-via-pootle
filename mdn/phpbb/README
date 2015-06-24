@@ -1,0 +1,26 @@
+PHPBB & MDC
+-----------
+
+(based on http://viewvc.svn.mozilla.org/vc/addons/trunk/site/vendors/phpbb/)
+
+This directory holds what you need to connect MDN to a phpbb instance.  Instructions:
+
+0) Install phpBB following their docs/INSTALL.html 
+0.1) Remove install directory once install is complete.
+
+1) Copy auth_mdc.php to /includes/auth/ 
+
+2) Log in as admin, click "Authentication" on the left and fill in MDC details
+2.1) Skip down to MDC Configuration
+2.2) MDC Hostname, Username, Password, map to the Database you setup for MDN. 
+2.3) MDC Database is the name of your dev database.
+
+3) Copy includes/functions.php over phpBB3/includes/functions.php
+
+4) Copy viewforum.php over phpBB3/viewforum.php
+5) Copy viewtopic.php over phpBB3/viewtopic.php
+
+6) cp -R styles/MDN into phpBB3/styles/
+6.1) Admin panel > Styles > Activate MDN and make default for users
+
+Questions?  email fwenzel@mozilla.com

@@ -1,0 +1,699 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2015-01-27 18:15+0000\n"
+"Last-Translator: Aman <amanpreet.alam@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1422382554.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: ਸਾਈਨ ਇਨ ਪੂਰਾ"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "ਸਾਇਨ ਇਨ ਕਰਨ ਦਾ ਵਧੀਆ ਢੰਗ"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "ਗ਼ੈਰ-ਸਹਾਇਕ ਬਰਾਊਜ਼ਰ"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "ਬਿਨਾਂ ਜਾਂਚ ਕੀਤਾ ਗ਼ੈਰ-ਸਹਾਇਕ ਬਰਾਊਜ਼ਰ"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "ਕੂਕੀਜ਼ ਬੰਦ ਕੀਤੇ ਹੋਏ ਹਨ"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "ਇਸ ਬਾਰੇ"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "ਪਰਦੇਦਾਰੀ ਨੀਤੀ"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "ਰਜਿਸਟਰੇਸ਼ਨ ਪੂਰੀ"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "ਸਾਇਨ ਇਨ ਕਰਨ ਦਾ ਸੌਖਾ ਢੰਗ ਹੈ।"
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "ਪਰਸੋਨਾ ਬਹੁਤੇ ਪਾਸਵਰਡਾਂ ਦਾ ਬਦਲ ਹੈ"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"ਸਾਇਟਾਂ ਜਿਵੇਂ ਕਿ <a %(webmakerLink)s>%(webmakerName)s</a>, <a %"
+"(openphotoLink)s>%(openphotoName)s</a> ਅਤੇ <a %(voostLink)s>%"
+"(voostName)s</a> ਯੂਜ਼ਰ ਨਾਂ ਨਾਲ ਸਾਇਨ ਇਨ ਕਰਨ ਦੀ ਜਗਾ ਪਰਸੋਨਾ ਦੀ ਵਰਤਦੀਆਂ ਹਨ।"
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr "ਇਸ ਦਾ ਮਤਲਬ ਹੈ ਕਿ ਕਈ ਸਾਈਟਾਂ ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਇੱਕ ਹੀ ਪਾਸਵਰਡ ਚਾਹੀਦਾ ਹੈ।"
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "ਉਹਨਾਂ ਸਭ ਲਈ ਇੱਕ ਪਾਸਵਰਡ ਹੈ।"
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "ਕਈ ਈਮੇਲ ਐਡਰੈਸ ਵਰਤੋਂ"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "ਪਰਸੋਨਾ ਆਗਿਆਕਾਰ ਹੈ"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"ਪਰਸੋਨਾ ਦੇ ਅੰਦਰ, ਤੁਹਾਡੀ ਪਛਾਣ ਤੁਹਾਡਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਹੈ। ਤੁਸੀ ਜਿੰਨੇ ਚਾਹੋ ਉਹਨੇ "
+"ਈਮੇਲ ਸਿਰਨਾਵਿਆਂ ਨੂੰ ਵਰਤ ਸਕਦੇ ਹੋ, ਪਰ ਤੁਹਾਨੂੰ ਅਜੇ ਵੀ ਕੇਵਲ ਇੱਕ ਹੀ ਪਾਸਵਰਡ ਦੀ ਲੋੜ "
+"ਹੈ।"
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "ਅਸਲ ਪਰਦੇਦਾਰੀ।"
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "ਪਰਸੋਨਾ ਤੁਹਾਡੇ ਲਈ ਬੜੇ ਮਾਣ ਨਾਲ ਗੈਰ-ਫਾਇਦਾ ਹੈ"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"ਪਰਸੋਨਾ ਮੋਜ਼ੀਲਾ ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ, ਵੈੱਬ ਭਾਈਚਾਰੇ ਦੌਰਾਨ ਭਰੋਸੇਯੋਗ ਇੱਕ "
+"ਨਾ-ਮੁਨਾਫ਼ਾ ਕੰਪਨੀ। ਸਾਡਾ ਮਕਸਦ ਲੋਕ ਦੀ ਪਰਦੇਦਾਰੀ ਨਾਲ ਇੱਕ ਖੁੱਲ੍ਹਾ ਵੈੱਬ ਪਲੇਟਫਾਰਮ "
+"ਨੂੰ ਸੰਤੁਲਿਤ ਹੈ ਕਿ ਤਕਨਾਲੋਜੀ ਬਣਾਉਣ ਲਈ ਹੁੰਦਾ ਹੈ।"
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "ਪਰਸੋਨਾ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਬਰਕਰਾਰ ਰੱਖਦਾ ਹੈ"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"ਪਰਸੋਨਾ ਵੈੱਬ ਦੇ ਦੁਆਲੇ ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਟਰੈਕ ਨਹੀ ਕਰਦੀ ਹੈ। ਇਹ ਤੁਹਾਨੂੰ ਸਾਇਨ ਇਨ ਕਰਨ "
+"ਅਤੇ ਤੁਹਾਨੂੰ ਉਥੇ ਹੋਵੋ ਤਾਂ ਤੁਹਾਨੂੰ ਕੀ ਕਰਨਾ ਵਿਚਕਾਰ ਇੱਕ ਕੰਧ ਬਣਾਉਦਾ ਹੈ। ਜਿਹੜੀ "
+"ਸਾਇਟ ਉੱਤੇ ਤੁਸੀਂ ਗਏ ਹੋ ਉਸਦਾ ਇਤਿਹਾਸ ਕੇਵਲ ਤੁਹਾਡੇ ਆਪਣੇ ਕੰਪਿਉਟਰ ਵਿੱਚ ਸਟੋਰ ਹੈ।"
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "ਡਿਵੈਲਪਰਾਂ ਲਈ ਪਰਸੋਨਾ "
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "ਪਰਸੋਨਾ ਨੂੰ ਆਪਣੀ ਸਾਈਟ ਉੱਤੇ ਲਾਗੂ ਕਰੋ"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "ਡਿਵੈਲਪਰ ਗਾਈਡ ਅਤੇ API ਦਸਤਾਵੇਜ਼"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "ਇਸ 'ਚ ਸਾਇਨ ਕਰਨਾ ਮੁਕੰਮਲ:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "ਆਖਰੀ ਪੜਾਅ!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "ਈਮੇਲ ਸਿਰਨਾਵਾਂ"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "ਤੁਹਾਡਾ ਈਮੇਲ"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "ਪਾਸਵਰਡ"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "ਤੁਹਾਡਾ ਪਾਸਵਰਡ"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "ਪਾਸਵਰਡ ਖੇਤਰ ਚਾਹੀਦਾ ਹੈ"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "ਪਾਸਵਰਡ ਗਲਤ ਹੈ"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "ਮੁਕੰਮਲ"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "ਪਰਸੋਨਾ ਨੂੰ ਤੁਹਾਨੂੰ ਯਾਦ ਰੱਖਣ ਲਈ ਕੂਕੀਜ਼ ਚਾਹੀਦੇ ਹਨ।"
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "ਇਹ ਵਿੰਡੋ ਬੰਦ ਕਰੋ, <a %s>ਕੂਕੀਜ਼ ਚਾਲੂ ਕਰੋ</a> ਅਤੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "%s ਵਿੱਚ ਸਾਇਨ ਇਨ&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s ਹੁਣ ਤੁਹਾਨੂੰ ਆਪਣੇ %(idp)s ਪਾਸਵਰਡ ਨਾਲ ਪਰਸੋਨਾ ਵਿੱਚ ਲਾਗਇਨ ਕਰਨ ਲਈ ਅਾਗਿਆ "
+"ਨਹੀ ਦਿੱਦਾ ਹੈ। ਤੁਹਾਨੂੰ ਹੁਣ ਇਸ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨਾਲ ਲਾਗਇਨ ਕਰਨ ਲਈ ਤੁਹਾਡੀ ਮੌਜੂਦਾ "
+"ਪਰਸੋਨਾ ਪਾਸਵਰਡ ਵਰਤਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "ਪਰਸੋਨਾ ਪਾਸਵਰਡ"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "ਈਮੇਲ ਸਿਰਨਾਵਾਂ"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "ਈਮੇਲ ਖੇਤਰ ਲੋੜੀਦਾ ਹੈ"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "ਆਪਣਾ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਹੋ?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "ਪਾਸਵਰਡ ਦਿਉ"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "ਪਾਸਵਰਡ"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"ਸ਼ੁਰੂਆਤੀ ਪੁਸ਼ਟੀ ਭੇਜਿਆ ਗਿਆ &ndash; ਦੂਜੇ ਨੂੰ ਬੇਨਤੀ ਕਰਨ ਤੋ ਪਹਿਲਾ ਕੁਝ ਮਿੰਟ ਦੀ "
+"ਉਡੀਕ ਕਰੋ।"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"ਅੱਗੇ ਵਧਣ ਲਈ, ਤੁਸੀ ਸਿਹਮਤ ਹੋ %(site)s's <a %(terms)s>Terms</a> ਅਤੇ <a %"
+"(privacy)s>Privacy Policy</a>."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "ਅੱਗੇ"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "ਜਾਰੀ ਰੱਖੋ"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "ਸਾਇਨ ਇਨ"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "ਠੀਕ ਹੈ"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "ਮੋਜ਼ੀਲਾ ਪਰਸੋਨਾ: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "...ਪਰਸੋਨਾ ਨਾਲ ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>ਮੋਜ਼ੀਲਾ ਪਰਸੋਨਾ।</strong> ਸਾਧਾਰਨ ਤੋਰ ਤੇ ਗੈਰ ਮੁਨਾਫਾ ਫਾਇਰਫਾਕਸ ਦੇ ਪਿੱਛੇ "
+"ਲਾਗਿਨ ਕਰੋ। <a %s> ਹੋਰ ਸਿੱਖੋ&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr "ਮੋਜ਼ੀਲਾ ਪਰਸੋਨਾ ਨਾਲ ਜੁੜੋ, ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਇੱਕ ਸੁਰੱਖਿਅਤ ਤੇ ਸੌਖਾ ਢੰਗ।"
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>ਦੌਰਾ ਕਰੋ</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "ਹਟਾਓ"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "ਮੋਜ਼ੀਲਾ ਪਰਸੋਨਾ ਲਈ ਨਵੇਂ ਹੋ? <a %(learnMoreLink)s>ਹੋਰ ਸਿੱਖੋ</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "ਖਾਤਾ ਮੈਨੇਜਰ"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "ਤੁਹਾਡਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "ਸੋਧ"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "ਮੁਕੰਮਲ"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "ਪੁਰਾਣਾ ਪਾਸਵਰਡ"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "ਨਵਾਂ ਪਾਸਵਰਡ"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "ਪੁਰਾਣਾ ਪਾਸਵਰਡ ਚਾਹੀਦਾ ਹੈ"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "ਪੁਰਾਣਾ ਪਾਸਵਰਡ ਗਲਤ ਹੈ"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "ਨਵਾਂ ਪਾਸਵਰਡ ਚਾਹੀਦਾ ਹੈ"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "ਪਾਸਵਰਡ ਵੱਖਰਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "ਪਾਸਵਰਡ 8&ndash;80 ਅੱਖਰਾਂ ਵਿੱਚ ਵਿੱਚ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "ਤੁਸੀ, ਕਿਸੇ ਵੀ ਵੇਲੇ, <a %(cancelLink)s>ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਰੱਦ ਕਰ ਸਕਦੇ ਹੋ</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "ਪਰਸੋਨਾ ਮੁੱਖ ਸਫ਼ਾ"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "ਖਾਤਾ"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "ਸਾਇਨ ਇਨ"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "ਸਾਈਨ-ਆਉਟ"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "<a %s>ਪਛਾਣ ਟੀਮ</a> @ <a %s>ਮੋਜ਼ੀਲਾ</a> ਵਲੋਂ"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "ਪਰਦੇਦਾਰੀ &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "ਟੋਸ &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "ਡਿਵੈਲਪਰ &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "ਮੱਦਦ ਚਾਹੀਦੀ ਹੈ? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "ਸਾਨੂੰ ਅਫ਼ਸੋਸ ਹੈ, ਪਰਸੋਨਾ ਲਈ ਜਾਵਾਸਕ੍ਰਿਪਟ ਚਾਹੀਦੀ ਹੈ।"
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "%s ਨਾਲ ਵਰਤਣ ਲਈ ਇੱਕ ਨਵਾਂ ਪਾਸਵਰਡ ਬਣਾਓ"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "ਪਾਸਵਰਡ ਜਾਂਚ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "ਪਾਸਵਰਡ don&rsquo;t ਮਿਲਦੇ ਨਹੀਂ ਹਨ!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr ""
+"<strong class=\"email\">ਤੁਹਾਡੇ ਸਿਰਨਾਵੇਂ</strong> ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"ਤੁਹਾਡਾ ਨਵਾਂ ਸਿਰਨਾਵਾਂ ਸੈਟਅੱਪ ਹੈ ਅਤੇ ਜਾਣ ਲਈ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਤੁਹਾਨੂੰ %s ਉੱਤੇ "
+"ਮੁੜ-ਭੇਜਿਆ ਜਾਵੇਗਾ"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "%s ਸਕਿੰਟਾਂ ਵਿੱਚ ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ, ਪਰ ਇਸ ਸਮੇਂ ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ।"
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "ਫਾਇਰਫਾਕਸ ਲੋਗੋ"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "ਪਰਸੋਨਾ<a %(getFirefoxLink)s>ਫਾਇਰਫਾਕਸ</a> ਨਾਲ ਕੰਮ ਕਰਦਾ ਹੈ।"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "ਅਤੇ ਹੋਰ <a %(otherBrowserLink)s>ਨਵੇਂ ਬਰਾਊਜ਼ਰਾਂ</a> ਨਾਲ ਵੀ।"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr "ਅਫਸੋਸ, ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਇਸ ਵੈਬਸਾਇਟ ਨੁੰ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"ਇਸ ਵੈਬਸਾਈਟ ਦੇ ਮਾਲਕ ਨੂੰ ਪਰਸੋਨਾ ਦੇ <a %s>navigator.id.watch()</a> ਨੂੰ ਵਰਤਣ "
+"ਵਾਸਤੇ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।"
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>ਮੋਜ਼ੀਲਾ ਪਰਸੋਨਾ</strong></a>। ਫਾਇਰਫਾਕਸ ਦੇ ਗ਼ੈਰ-ਫਾਇਦੇ ਵਲੋਂ ਸੌਖਾ "
+"ਸਾਇਨ-ਇਨ।"
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "%(site)s ਲਈ ਵਰਤਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਇਹ ਲਿੰਕ ਨੂੰ ਕਲਿੱਕ ਕਰੋ:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr ""
+"ਜੇ ਤੁਸੀਂ ਸਾਇਨ ਇਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ *ਨਹੀਂ* ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਇਸ ਈਮੇਲ ਨੂੰ ਅਣਡਿੱਠੀ "
+"ਕਰੋ।"
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "ਮੋਜ਼ੀਲਾ ਪਰਸੋਨਾ"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr "ਫਾਇਰਫਾਕਸ ਦੇ ਪਿੱਛੇ ਗੈਰ ਮੁਨਾਫਾ ਸਾਇਨ ਇਨ ਕਰੋ"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "https://login.persona.org/about ਤੇ ਹੋਰ ਜਾਣੋ"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "ਹੁਣ ਆਪਣੇ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਦੀ ਪੁਸ਼ਟੀ"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "ਤੁਹਾਡਾ ਖਾਤਾ ਹੁਣ ਤਸਦੀਕ ਹੋ ਗਿਆ"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "ਪਰਸੋਨਾ ਲਈ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਹੋ? ਇਹ ਸਾਨੂੰ ਬੇਹਤਰੀਨ ਕਰਨ ਲਈ ਹੁੰਦਾ ਹੈ।"
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਕਲਿੱਕ:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr ""
+"ਜੇਕਰ ਤੁਹਾਨੂੰ ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਨਹੀ ਕਰ ਰਹੇ ਹੋ ਤਾਂ ਇਹ "
+"ਈਮੇਲ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰੋ।"
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "ਆਪਣਾ ਪਾਸਵਰਡ ਹੁਣੇ ਮੁੜ-ਸੈੱਟ ਕਰੋ"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"ਇਸ ਤਰਾ ਲੱਗਦਾ ਹੈ ਕਿ ਤੁਹਾਡੇ ਈਮੇਲ ਪ੍ਰੋਵਾਇਡਰ ਨੂੰ ਆਪਣੇ ਪਰਸੋਨਾ ਸਹਿਯੋਗ ਨਾਲ ਸਮੱਸਿਆ "
+"ਹੈ।"
+
+#, fuzzy
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "ਜੇ ਤੁਸੀਂ ਇਹ ਸਾਇਟ ਉੱਤੇ ਸਾਇਨ ਇਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ *ਨਹੀਂ* ਕਰ ਰਹੇ ਹੋ ਤਾਂ ਇਹ ਈਮੇਲ ਅਣਡਿੱਠੀ ਕਰੋ।"
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "ਸਧਾਰਨ ਸਾਇਨ-ਇਨ"
+
+#, fuzzy
+#~ msgid "Enter your email address"
+#~ msgstr "ਈਮੇਲ ਐਡਰੈੱਸ"
+
+#, fuzzy
+#~ msgid "Now enter your Persona password."
+#~ msgstr "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ"
+
+#, fuzzy
+#~ msgid "enter email address"
+#~ msgstr "ਈਮੇਲ ਐਡਰੈੱਸ"
+
+#, fuzzy
+#~ msgid "Thank you,"
+#~ msgstr "ਧੰਨਵਾਦ,"
+
+#, fuzzy
+#~ msgid "Click here to reset your password."
+#~ msgstr "ਤੁਹਾਡਾ ਪਾਸਵਰਡ"
+
+#, fuzzy
+#~ msgid "Click to set your new password:"
+#~ msgstr "ਤੁਹਾਡਾ ਪਾਸਵਰਡ"
+
+#, fuzzy
+#~ msgid "Click here to set your new password."
+#~ msgstr "ਤੁਹਾਡਾ ਪਾਸਵਰਡ"
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr "ਇਹ ਖਾਤਾ ਇਸ ਯੁਜਰ ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ ਨਾਲ ਪ੍ਰਮਾਣਿਤ ਨਹੀ ਹੋ ਸਕਦਾ।"
+
+#, fuzzy
+#~ msgid "This email address and password do not match."
+#~ msgstr "ਪਾਸਵਰਡ ਮਿਲਦੇ ਨਹੀਂ ਹਨ।"
+
+#, fuzzy
+#~ msgid "The password field is required."
+#~ msgstr "ਪਾਸਵਰਡ ਚਾਹੀਦਾ ਹੈ।"
+
+#, fuzzy
+#~ msgid "Sign In Complete"
+#~ msgstr "ਸਾਇਨ ਇਨ"
+
+#, fuzzy
+#~ msgid "Forgot Password"
+#~ msgstr "ਤੁਹਾਡਾ ਪਾਸਵਰਡ"
+
+#~ msgid "Email Verification"
+#~ msgstr "ਈਮੇਲ ਜਾਂਚ"
+
+#, fuzzy
+#~ msgid "forgot your password?"
+#~ msgstr "ਤੁਹਾਡਾ ਪਾਸਵਰਡ"
+
+#, fuzzy
+#~ msgid "verify password"
+#~ msgstr "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ"
+
+#, fuzzy
+#~ msgid "Verify Email"
+#~ msgstr "ਤੁਹਾਡਾ ਈਮੇਲ"
+
+#, fuzzy
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "<strong>BrowserID</strong> ਨਾਲ ਸਾਇਨ-ਅੱਪ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ। ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ "
+#~ "<strong>BrowserID</strong> ਅਕਾਊਂਟ ਵਿੱਚ <em>ਸਾਇਨ ਇਨ</em> ਜਾਂ <em>ਸਾਇਨ ਅੱਪ</em> "
+#~ "ਕਰਕੇ ਵੈੱਬ ਉੱਤੇ ਸਭ ਵੈੱਬਸਾਇਟ ਉੱਤੇ ਲਾਗਇਨ ਕਰਨ ਲਈ ਵਰਤ ਸਕਦੇ ਹੋ।"
+
+#, fuzzy
+#~ msgid "Sign Up"
+#~ msgstr "ਸਾਇਨ ਇਨ"
+
+#, fuzzy
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "%s ਲਈ BrowserID ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਲਾਗਇਨ ਕਰਨਾ ਪੂਰਾ"
+
+#~ msgid "Communicating with server"
+#~ msgstr "ਸਰਵਰ ਨਾਲ ਸੰਪਰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "ਸਾਡੇ ਵਲੋਂ ਸਰਵਰ ਨਾਲ ਸੰਚਾਰ ਕਰਨ ਦੌਰਾਨ ਕੁਝ ਕੁ ਪਲ ਉਡੀਕੋ।"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "ਆਪਣੇ ਈਮੇਲ ਐਡਰੈਸ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਧੰਨਵਾਦ। ਇਹ ਸੁਨੇਹੇ ਤੁਹਾਨੂੰ %s ਵਿੱਚ ਤੁਹਾਨੂੰ ਸਾਇਨ-ਇਨ ਪੂਰਾ ਕਰਨ "
+#~ "ਲਈ ਭੇਜਿਆ ਗਿਆ ਹੈ।"
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "ਇਹ ਲਿੰਕ ਉੱਤੇ ਕਲਿੱਕ ਕਰਕੇ ਰਜਿਸਟਰੇਸ਼ਨ ਪੂਰੀ ਕਰੋ:"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "ਤੁਹਾਡੇ ਐਡਰੈਸ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਹ ਐਡਰੈਸ ਦੀ ਪਹਿਲਾਂ ਵੀ "
+#~ "ਜਾਂਚ ਕਰਵਾ ਚੁੱਕੇ ਹੋ?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "ਰਜਿਸਟਰੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।"
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "ਤੁਹਾਡਾ ਨਵਾਂ ਐਡਰੈਸ ਸੈੱਟ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ ਅਤੇ ਹੁਣ ਤੁਸੀਂ ਸਾਇਨ ਇਨ ਕਰ ਸਕਦੇ ਹੋ। ਤੁਸੀਂ ਹੁਣ ਇਹ ਵਿੰਡੋ "
+#~ "ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਪਿੱਛੇ ਜਾ ਸਕਦੇ ਹੋ"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "ਤੁਹਾਡੇ ਸਾਇਨ ਅੱਪ ਲਿੰਕ ਨਾਲ ਇੱਕ ਸਮੱਸਿਆ ਸੀ। ਕੀ ਇਹ ਐਡਰੈਸ ਪਹਿਲਾਂ ਹੀ ਰਜਿਸਟਰ ਕੀਤਾ ਜਾ ਚੁੱਕਾ "
+#~ "ਹੈ?"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "BrowserID ਮੁੱਖ ਪੇਜ਼"
+
+#~ msgid "TOS"
+#~ msgstr "TOS"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "ਸਰਵਰ ਨਾਲ ਸੰਪਰਕ ਦੌਰਾਨ ਗਲਤੀ ਹੈ।"

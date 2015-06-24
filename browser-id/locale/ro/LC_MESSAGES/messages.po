@@ -1,0 +1,711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: browserid.org\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-03-31 15:42+0000\n"
+"Last-Translator: daniel <danielpintilie77@yahoo.com>\n"
+"Language-Team: Romanian <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1396280523.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: Autentificare completă"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: Resetarea parolei finalizată"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Un mod mai bun de autentificare"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Navigator nesuportat"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "Navigator nesuportat fără urmărire"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Cookie-urile sunt dezactivate"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Despre"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Termenii serviciului"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Politica de confidențialitate"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Înregistrare completă"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "Un mod mai simplu de autentificare."
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona înlocuiește parolele multiple"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Saituri cum ar fi <a %(webmakerLink)s>%(webmakerName)s</a>, <a %"
+"(openphotoLink)s>%(openphotoName)s</a> și <a %(voostLink)s>%(voostName)s</a> "
+"utilizează Persona în loc de numele de utilizator pentru a vă autentifica."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"Aceasta înseamnă că aveți nevoie doar de o parolă pentru a vă conecta la mai "
+"saituri."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "O parolă pentru a funcționa pe toate."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Utilizați mai multe adrese de email"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Persona este flexibilă"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"În Persona, identitatea dumneavoastră este adresa de email. Puteți folosi "
+"cât mai multe adrese de email, după cum doriți, dar aveți nevoie doar de o "
+"singură parolă."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Confidențialitate reală."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Persona este mândră să fie nonprofit pentru tine"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Persona este dezvoltată de Mozilla, o companie nonprofit de încredere pentru "
+"întreaga comunitate web. Scopul nostru este să creăm tehnologii care să "
+"echilibreze o platformă web deschisă cu intimitatea oamenilor."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona păstrează confidențialitatea datelor dumneavoastră"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona nu urmărește activitatea dumneavoastră pe web. Se creează o "
+"delimitare între autentificare și ceea ce faceți odată ce ați ajuns pe "
+"saitul respectiv. Istoricul saiturilor pe care le vizitați este memorat "
+"numai pe propriul calculator."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona pentru dezvoltatori"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Implementați Persona pe saitul dumneavoastră"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Ghiduri dezvoltator și documentație API"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Încheie autentificarea pe:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Ultimul pas!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "Adresă de email"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Adresa dumneavoastră de email"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Parolă"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Parola dumneavoastră"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "Este necesară parola"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "Parolă incorectă"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "sfârșit"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona are nevoie de cookie-uri pentru a vă ține minte."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Vă rugăm să închideți această fereastră, <a %s>activați cookie-urile</a> și "
+"încercați din nou"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "Autentificare în %s cu&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s nu mai vă permite să vă conectați la contul dumneavoastră Persona cu "
+"parola %(idp)s . Trebuie să utilizați acum parola Persona existentă pentru a "
+"vă conecta cu această adresă email."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Parola Persona"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "adresă de email"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "Este nevoie de o adresă de email"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "Este necesară adresa de email"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "V-ați uitat parola?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "Introduceți parola"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "parola"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Confirmare inițială trimisă &ndash; așteptați câteva minute înainte să "
+"solicitați alta"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Continuând, sunteți de acord cu %(site)s's <a %(terms)s>Termenii</a> și <a "
+"%(privacy)s>Politica de confidențialitate</a>."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "următorul"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "continuă"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "renunţă"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "autentificare"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "OK"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Conectare la Persona..."
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona.</strong> Simplifică conectarea de la non-profit din "
+"spatele Firefox. <a %s>Află mai multe &rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Conectează-te cu Mozilla Persona, cel mai sigur și mai simplu mod de a te "
+"autentifica."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>Faceți turul</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "elimină"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "Prima dată la Mozilla Persona? <a %(learnMoreLink)s>Află mai multe</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Administrare cont"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Adresa dumneavoastră de email"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "editare"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "gata"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Parola veche"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Parola nouă"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "Parola veche este necesară"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "Parolă veche incorectă"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "Noua parolă este necesară"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "Parolele trebuie să fie diferite"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Parola trebuie să aibă o lungime între 8 și 80 de caractere"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr ""
+"Puteți de câte ori doriți să <a %(cancelLink)s>anulați contul dumneavoastră</"
+"a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Prima pagină Persona"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Cum funcționează"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "Cont"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Autentificare"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Ieșire"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "De la echipa <a %s>Identity Team</a> de la <a %s>Mozilla</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Confidențialitate &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "TOS &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "Dezvoltatori &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Aveți nevoie de ajutor? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "Ne pare rău, Persona are nevoie ca Javascript să fie activat."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Resetare parolă"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Creați o parolă nouă pentru a o utiliza cu %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Verificare parolă"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "Verificarea parolei este necesară"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "Parolele nu se potrivesc!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr ""
+"<strong class=\"email\">Adresa dumneavoastră</strong> a fost verificată!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"Noua dumneavoastră adresă este funcțională. Veți fi redirecționat către %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Redirecționare în %s secunde"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Ne pare rău, dar navigatorul dumneavoastră curent nu este suportat."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "logo Firefox"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona lucrează cu <a %(getFirefoxLink)s>Firefox</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "și alte <a %(otherBrowserLink)s>navigatoare moderne.</a>"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr ""
+"Ne pare rău, navigatorul dumneavoastră nu suportă autentificarea în acest "
+"sait web."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"Proprietarul acestui sait web trebuie să îl actualizeze pentru a utiliza "
+"funcționalitatea <a %s>navigator.id.watch()</a> Persona."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona.</strong></a> Autenficare simplă prin non-"
+"profitul din spatele Firefox."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Clic pe această legătură pentru a confirma accesul la %(site)s:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr ""
+"Dacă NU ați încercat să vă autentificați, vă rugăm ignorați acest email."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr "Autentificare simplă prin nonprofit-ul din spatele Firefox"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "Aflați mai multe la https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "Confirmați adresa dumneavoastră acum"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "Confirmați acum contul dumneavoastră"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr ""
+"Ați uitat parola pentru Persona? Se mai întâmplă și la cei mai buni dintre "
+"noi."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Clic pentru a vă reseta parola:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr ""
+"Dacă NU ați încercat să vă resetați parola, vă rugăm ignorați acest email."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "Resetați acum parola dumneavoastră"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"Se pare că furnizorul dumneavoastră de email are probleme cu suportul pentru "
+"Persona."
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Autentificați-vă cu Persona"
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "Notă: Dacă NU ați încercat să vă autentificați pe acest sait, ignorați "
+#~ "acest email."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Autentificare simplificată."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "%s folosesc Persona în loc de numele de utilizator pentru a vă înregistra."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Introduceți adresa dumneavoastră email"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Acum introduceți parola dumneavoastră pentru Persona."
+
+#~ msgid "enter email address"
+#~ msgstr "introduceți adresa de email"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Vă mulțumim că utilizați Persona."
+
+#~ msgid "Thank you,"
+#~ msgstr "Vă mulțumim,"
+
+#~ msgid "The Persona team"
+#~ msgstr "Echipa Persona"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Clic aici pentru a vă reseta parola."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "Pentru a continua, va trebui să reconfirmați această adresă de email și "
+#~ "să configurați o nouă parolă doar pentru Persona."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "Clic pentru a vă seta noua parolă:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Echipa Persona"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "Clic aici pentru a vă seta noua parolă."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr "Contul nu poate fi verificat cu utilizatorul și parola date."
+
+#, fuzzy
+#~ msgid "This email address and password do not match."
+#~ msgstr "Parolele nu se potrivesc."
+
+#, fuzzy
+#~ msgid "The password field is required."
+#~ msgstr "Este necesară parola."
+
+#, fuzzy
+#~ msgid "Sign In Complete"
+#~ msgstr "Autentificare"
+
+#, fuzzy
+#~ msgid "Forgot Password"
+#~ msgstr "Parola ta"
+
+#~ msgid "Email Verification"
+#~ msgstr "Verificare email"
+
+#, fuzzy
+#~ msgid "forgot your password?"
+#~ msgstr "Parola ta"
+
+#, fuzzy
+#~ msgid "Verify Email"
+#~ msgstr "Adresa dumneavoastră de email"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Îți mulțumim că ți-ai făcut contul <strong>Persona</strong>. De acum "
+#~ "înainte poți să-ți folosești contul Persona ca să te <em>autentifici</em> "
+#~ "sau să te <em>înscrii</em> pe toate saiturile din lume!"
+
+#, fuzzy
+#~ msgid "Sign Up"
+#~ msgstr "Autentificare"
+
+#, fuzzy
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Continuă autentificarea pe %s folosind BrowserID"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Comunicare cu serverul"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Așteptați un moment în timp ce comunicăm cu serverul."
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Vă mulțumim că v-ați verificat adresa de email. Acest mesaj vă este "
+#~ "trimis pentru a încheia înregistrarea pe %s."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Finalizați înregistrarea cu un clic pe această legătură:"
+
+#, fuzzy
+#~ msgid "Persona"
+#~ msgstr "Persona la început"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "A intervenit o eroare în timp ce se încerca confirmarea adresei "
+#~ "dumneavoastră. Ați verificat în trecut această adresă?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr ""
+#~ "A intervenit o eroare în timp ce se încerca finalizarea înregistrării."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "Noua dumneavoastră adresa e setată și acum ar trebui să fiți "
+#~ "autentificat(ă). Puteți să închideți această fereastră și să vă "
+#~ "întoarceți la"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "A intervenit o problemă cu legătura de înregistrare. Poate adresa a fost "
+#~ "deja folosită pentru înregistrare."
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"

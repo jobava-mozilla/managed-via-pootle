@@ -1,0 +1,764 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: browserid-client\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr "Bhí fadhb leis an nasc cláraithe. /%s'"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Tharla earráid agus an clárú á chur i gcrích."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Caithfidh tú fianáin a cheadú chun Persona a úsáid."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Dún an fhuinneog seo, <a %s>cumasaigh fianáin</a> agus bain triail eile as"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Earráid Chumarsáide"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Ag Logáil Isteach..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Ar baillín beidh tú logáilte isteach i bPersona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Tá brón orainn, tá an t-iarratas seo an-mhall."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Mura bhfuil an fhadhb seo réitithe i gceann cúpla soicind, dún an fhuinneog "
+"agus bain triail eile as."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Á dheimhniú le do sholáthraí ríomhphoist."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Seoladh neamhbhailí, nó bhí sé scriosta."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Bain an seoladh ríomhphoist %(email)s ó do chuntas Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Má scriosann tú an seoladh deiridh, cealófar do chuntas Persona.\n"
+"An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "An bhfuil tú cinnte gur mhaith leat do chuntas Persona a scriosadh?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Cuir seoladh ríomhphoist leis"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "seoladh ríomhphoist"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Is gá seoladh ríomhphoist a bheith ann"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Is gá seoladh ríomhphoist a líonadh isteach"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Seoladh teachtaireacht dearbhaithe chugat &ndash; fan cúpla nóiméad sula n-"
+"iarrfaidh tú ceann eile"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Curtha leis cheana!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "cuir leis"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "cealaigh"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Ní féidir %s a dhearbhú"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"Is seoladh riachtanach é %s, ach ní féidir linn a bheith cinnte gur leatsa é."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s deimhnithe!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Do do logáil isteach&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Féach ar do bhosca ríomhphoist"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Cliceáil an nasc sa ríomhphost deimhnithe a seoladh chuig %s agus beidh tú "
+"logáilte isteach i %s láithreach."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Earráid"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Tá brón orainn."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Tá an freastalaí an-ghnóthach faoi láthair!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Athluchtaigh an leathanach agus bain triail eile as."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Dún an fhuinneog seo agus bain triail eile as."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Tuilleadh eolais"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Dún"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "Ní seoladh bailí é *%s*!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "Chun dul ar aghaidh, dún an fhuinneog agus cuir seoladh bailí isteach."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Meabhraigh thú?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Cé chomh fada is ar mhaith leat a bheith logáilte isteach trí Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Mí amháin"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Tá muinín agam as an ríomhaire seo."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "An seisiún seo amháin"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Ní liomsa an ríomhaire seo."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Nod leat: Is féidir leat logáil amach as Persona am ar bith."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Logáil isteach trí Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Logáil isteach i %s mar&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Roghnaigh seoladh ríomhphoist"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Cuir seoladh ríomhphoist eile leis"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Ní mise é seo"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Má théann tú ar aghaidh, dearbhaíonn tú le %(site)s go nglacann tú lena "
+"gcuid <a %(terms)s>Téarmaí Úsáide</a> agus lena <a %(privacy)s>bPolasaí "
+"Príobháideachta</a>."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "logáil isteach"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"Gan freagairt ó %(primary)s. Fan cúpla nóiméad agus déan iarracht eile."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Cealaigh"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Ní féidir %(email)s a dhearbhú"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Seans go bhfuil cosc ar fhianáin ó thríú páirtí i do bhrabhsálaí. Bí cinnte "
+"go nglacann do bhrabhsálaí le fianáin ó thríú páirtí le haghaidh "
+"%(idpName)s, ansin déan iarracht eile."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Dearbhaíonn tú le %(site)s go nglacann tú lena gcuid <a %(terms)s>Téarmaí "
+"Úsáide</a> agus lena <a %(privacy)s>bPolasaí Príobháideachta</a>."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Cruthaigh focal faire"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"Ní cheadaíonn %(idp)s duit logáil isteach i bPersona le d'fhocal faire "
+"%(idp)s. Cruthaigh focal faire nua le húsáid le do chuntas Persona."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Níl aithne againn ar an seoladh ríomhphoist seo. Cruthaigh focal faire le "
+"húsáid le FirefoxOS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Níl aithne againn ar an seoladh ríomhphoist seo. Cruthaigh focal faire le "
+"húsáid le Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "cruthaigh focal faire"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Is gá focal faire a chur isteach"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Ní mór duit focal faire a roghnú atá idir 8 agus 80 carachtar"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Dearbhaigh an Focal Faire"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "dearbhaigh an focal faire"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Caithfidh tú an focal faire a dhearbhú"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Ní ionann na focail fhaire seo!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "críochnaithe"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Dea-scéal!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"Ní theastaíonn focal faire sa bhreis ó %(email)s a thuilleadh. Chomh luath "
+"agus a dheimhneoidh tú do chuntas ansin, logálfar isteach i %(aWebsite)s thú."
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "deimhnigh"
+
+#~ msgid "signing in"
+#~ msgstr "ag logáil isteach"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Deimhnigh do sheoladh ríomhphoist"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Logáil isteach mar..."
+
+#~ msgid "Email"
+#~ msgstr "Ríomhphost"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Dheimhnigh do sholáthraí ríomhphoist d'aitheantas. Déanfaimid iarracht "
+#~ "tusa a logáil isteach anois."
+
+#~ msgid "Sign in using"
+#~ msgstr "Logáil isteach trí"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Tá an suíomh ag iarraidh ort logáil isteach trí"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Chun bheith cinnte gur leatsa an seoladh ríomhphoist seo, caithfidh tú "
+#~ "logáil isteach le do sholáthraí ríomhphoist. Athdhíreofar an fhuinneog "
+#~ "seo chuig"
+
+#~ msgid "Enter password"
+#~ msgstr "Cuir focal faire isteach"
+
+#~ msgid "forgot your password?"
+#~ msgstr "an ndearna tú dearmad de d'fhocal faire?"
+
+#~ msgid "Password"
+#~ msgstr "Focal Faire"
+
+#~ msgid "Password incorrect"
+#~ msgstr "Focal faire mícheart"
+
+#~ msgid "verify email"
+#~ msgstr "deimhnigh do ríomhphost"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "Tá sé éasca le %s"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "Bhí do chuntas %(emailProvider)s nuashonraithe sa chaoi go bhfeidhmeoidh "
+#~ "sé níos fearr le Persona. Cuirfear ar aghaidh chuig %(emailProvider)s thú "
+#~ "anois."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Le Persona, is féidir leat do chuntas %(emailProvider)s a úsáid chun "
+#~ "logáil isteach i suíomh cosúil le %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "logáil isteach trí %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Úsáid seoladh ríomhphoist eile"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Caithfidh tú seoladh ríomhphoist a chur sa réimse seo."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Táimid tar éis teachtaireacht ríomhphoist a chur chuig an seoladh sin! "
+#~ "Más mian leat ceann eile a sheoladh, fan nóiméad agus bain triail eile as."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Tá an seoladh sin ceangailte le do chuntas cheana!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Roghnaigh seoladh ríomhphoist."
+
+#~ msgid "The password field is required."
+#~ msgstr "Tá gá le focal faire."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Focal faire mícheart."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "Bhí do chuntas %(emailProvider)s nuashonraithe sa chaoi go bhfeidhmeoidh "
+#~ "sé níos fearr le Persona. Cuirfear ar aghaidh chuig %(emailProvider)s thú "
+#~ "anois. Chomh luath agus a dheimhneoidh tú do chuntas ansin, logálfar "
+#~ "isteach i %(aWebsite)s thú."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Ceangail seoladh ríomhphoist eile le do chuntas Persona."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Tharla earráid!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Athshocraigh an focal faire"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Cruthaigh focal faire nua le haghaidh %s."
+
+#~ msgid "reset password"
+#~ msgstr "athshocraigh an focal faire"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Nod leat: Úsáidfear an focal faire seo le gach seoladh ríomhphoist atá "
+#~ "cláraithe agat le Persona."
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Fan nóiméad agus beidh tú logáilte isteach sa suíomh."
+
+#~ msgid "Sign In"
+#~ msgstr "Logáil Isteach"
+
+#~ msgid "Sign Up"
+#~ msgstr "Cláraigh"
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "Baineann %s úsáid as Persona seachas ainmneacha úsáideora chun logáil "
+#~ "isteach."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Chun logáil isteach trí Persona, cuir do sheoladh ríomhphoist isteach."
+
+#~ msgid "enter email address"
+#~ msgstr "cuir seoladh ríomhphoist isteach"
+
+#~ msgid "password"
+#~ msgstr "focal faire"
+
+#~ msgid "next"
+#~ msgstr "ar aghaidh"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "An ndearna tú dearmad de d'fhocal faire?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Má théann tú ar aghaidh, dearbhaíonn tú le %s go nglacann tú lena gcuid "
+#~ "<a %s>Téarmaí Úsáide</a> agus lena <a %s>bPolasaí Príobháideachta</a>."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "Caithfidh tú fianáin a cheadú chun BrowserID a úsáid"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Imeoidh an teachtaireacht seo nuair a chríochnóidh an t-iarratas (go "
+#~ "luath, le cúnamh Dé). Is é sin, nó dún an fhuinneog agus bain triail eile "
+#~ "as."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "Cuir isteach do sheoladh ríomhphoist chun logáil isteach i <strong>%s</"
+#~ "strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Fan nóiméad le linn dúinn eolais faoi do sholáthróir ríomhphoist a fháil."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "Ní féidir logáil isteach leis an ainm úsáideora seo agus leis an focal "
+#~ "faire seo."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Sheolamar teachtaireacht dheimhnithe chuig <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Más botún é seo, ná bac leis an teachtaireacht agus <a %s>cealaigh</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Más botún é seo, ná bac leis an teachtaireacht agus <a %s>úsáid seoladh "
+#~ "ríomhphoist eile</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "An leatsa an ríomhaire seo?"
+
+#~ msgid "yes"
+#~ msgstr "is liomsa"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr ""
+#~ "Más leatsa, coinneoimid logáilte isteach thú ar feadh cúpla seachtaine."
+
+#~ msgid "no"
+#~ msgstr "ní liomsa"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Más ríomhaire poiblí é seo, mar shampla i leabharlann nó i gcaife "
+#~ "Idirlín, roghnaigh é seo.  Iarrfaimid ort d'fhocal faire arís i gceann "
+#~ "uair an chloig."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Fáilte go Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Anois, roghnaigh focal faire nua a úsáidfidh tú nuair a logálfaidh tú "
+#~ "isteach trí Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "An Focal Faire Arís"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "Is seoladh nua é seo, mar sin socróimid do chuntas anois."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Logáil isteach leis an seoladh seo i gcónaí"
+
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "Úsáideann BrowserID fianáin i do bhrabhsálaí. Ní mór duit fianáin a "
+#~ "chumasú, ansin bain triail eile as"
+
+#~ msgid "You are offline!"
+#~ msgstr "Tá tú as líne!"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr ""
+#~ "Faraor, níl BrowserID in ann cumarsáid a dhéanamh nuair a bhíonn tú as "
+#~ "líne!"
+
+#~ msgid "select email"
+#~ msgstr "roghnaigh seoladh ríomhphoist"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr ""
+#~ "Ní féidir linn dul i dteagmháil le BrowserID nuair a bhíonn tú as líne."
+
+#~ msgid "Authenticating User"
+#~ msgstr "Úsáideoir á Fhíordheimhniú"
+
+#~ msgid "Adding Address"
+#~ msgstr "Seoladh á Chur Leis"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "Príomhsheoladh Ríomhphoist á chur le hÚsáideoir"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "Seoladh á Sheiceáil"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "Á Fhíordheimhniú trí Assertion"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "Cuntas Úsáideora á Chealú"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "Fíordheimhniú á Sheiceáil"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "Leagan na Scripte á Sheiceáil"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "Clárú Úsáideora á Chur i gCrích"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "Fianáin á Seiceáil"
+
+#~ msgid "Creating Account"
+#~ msgstr "Cuntas á Chruthú"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "Dearbhú á Fháil"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "Ceadchomhartha Cláraithe á Sheiceáil"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "Seoladh Ríomhphoist á Sheiceáil"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "Ag seiceáil an bhfuil an t-úsáideoir fíordheimhnithe trí IdP"
+
+#~ msgid "Logout Failed"
+#~ msgstr "Theip ar Logáil Amach"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "Fíordheimhniú trí Sholáthraí Aitheantais"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr ""
+#~ "Bhí fadhb againn ag dul i dteagmháil le do sholáthraí ríomhphoist; bain "
+#~ "triail eile as!"
+
+#~ msgid "Provisioning with Identity Provider"
+#~ msgstr "Faisnéis á fáil ó Sholáthraí Aitheantais"
+
+#~ msgid "Provisioning Unsupported Identity Provider"
+#~ msgstr "Faisnéis á fáil ó Sholáthraí Aitheantais gan tacaíocht"
+
+#~ msgid ""
+#~ "Unfortunately, the email address provided cannot act as a Primary "
+#~ "Identity Provider"
+#~ msgstr ""
+#~ "Faraor, ní féidir an seoladh ríomhphoist a úsáid mar Phríomhsholáthraí "
+#~ "Aitheantais"
+
+#~ msgid "Registration Failed"
+#~ msgstr "Theip ar Chlárú"
+
+#~ msgid "Establishing Relay"
+#~ msgstr "Seachadán á Bhunú"
+
+#~ msgid "Relay frame could not be found"
+#~ msgstr "Níorbh fhéidir fráma seachadáin a aimsiú"
+
+#~ msgid "Signin Failed"
+#~ msgstr "Theip ar Logáil Isteach"
+
+#~ msgid "Signup Failed"
+#~ msgstr "Theip ar Chlárú"
+
+#~ msgid "Syncing Address"
+#~ msgstr "Seoladh á Shioncrónú"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "Seoltaí Ríomhphoist á Sioncrónú"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "Eochracha á Sioncrónú"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "Faisnéis Cheadchomhartha á Fáil"
+
+#~ msgid "Updating password"
+#~ msgstr "Focal faire á nuashonrú"
+
+#~ msgid ""
+#~ "We just sent an email to that address!  If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Táimid tar éis teachtaireacht ríomhphoist a chur chuig an seoladh sin! "
+#~ "Más mian leat ceann eile a sheoladh, fan nóiméad agus bain triail eile as."
+
+#~ msgid "This email looks new, so let&apos;s get you set up."
+#~ msgstr "Is seoladh nua é seo, mar sin socróimid do chuntas anois."
+
+#~ msgid ""
+#~ "To verify that you own <strong id='primary_email'>%s</strong>, you must "
+#~ "sign in with your provider.  This window will be redirected to"
+#~ msgstr ""
+#~ "Chun bheith cinnte gur leatsa an seoladh <strong id='primary_email'>%s</"
+#~ "strong>, caithfidh tú logáil isteach le do sholáthraí. Athdhíreofar an "
+#~ "fhuinneog seo chuig"
+
+#~ msgid "translated text"
+#~ msgstr "téacs aistrithe"

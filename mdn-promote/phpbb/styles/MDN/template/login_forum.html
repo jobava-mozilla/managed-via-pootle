@@ -1,0 +1,24 @@
+<!-- INCLUDE overall_header.html -->
+
+<form id="login" class="panel user-input" method="post" action="{S_LOGIN_ACTION}">
+<h2 class="page-title">{L_LOGIN} {FORUM_NAME}</h2>
+<p id="join"><strong>Not an MDN member? <a href="https://developer.mozilla.org/Special:UserRegistration">Join now!</a></strong></p>
+
+
+  {S_FORM_TOKEN}
+  <p>{L_LOGIN_FORUM}</p>
+	<!-- IF LOGIN_ERROR -->
+  <p class="error">{LOGIN_ERROR}</p>
+	<!-- ENDIF -->
+	<ol>
+		<li>
+		  <label for="password">{L_PASSWORD}</label>
+		  <input type="password" name="password" id="password" size="25" tabindex="1" />
+    </li>	
+		<li class="fm-submit">{S_HIDDEN_FIELDS}<button type="submit" name="login" id="login" value="{L_LOGIN}" tabindex="2">{L_LOGIN}</button></li>
+	</ol>
+	{S_LOGIN_REDIRECT}
+
+</form>
+<!-- INCLUDE jumpbox.html -->
+<!-- INCLUDE overall_footer.html -->

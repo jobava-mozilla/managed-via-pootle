@@ -1,0 +1,605 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-02-16 00:13+0000\n"
+"Last-Translator: Inkbug <inkbug200@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1392509605.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr "הייתה בעיה עם קישור הרישום שלך. האם הכתובת הזאת כבר נרשמה?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "אירעה שגיאה בעת ניסיון להשלים את הרישום."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "למערכת Persona נדרשות עוגיות כדי לזכור אותך."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "נא לסגור את החלון הזה, <a %s>להפעיל עוגיות</a> ולנסות שוב"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "תקלת תקשורת"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "ההתחברות מסתיימת..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "בעוד רגעים ספורים נהיה מחוברים למערכת פרסונה."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "אנו מצטערים, הבקשה הזאת לוקחת יותר זמן מהצפוי."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr "אם זה לא פותר עצמו בעוד מספר שניות, נא לסגור את החלון ולנסות שוב."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "מתבצע אימות עם ספק דואר אלקטרוני."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "כתובת הדואר האלקטרוני שנבחרה אינה תקינה או שהיא נמחקה."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "להסיר את %(email)s מחשבון הפרסונה שלך?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"הסרת הכתובת האחרונה תבטל את חשבון הפרסונה שלך.\n"
+"האם ברצונך להמשיך?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "האם ברצונך באמת למחוק את חשבון הפרסונה שלך?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "הוספת כתובת דואר אלקטרוני"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "כתובת דואר אלקטרוני"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "זו אמורה להיות כתובת דואר אלקטרוני"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "שדה הדואר האלקטרוני נדרש"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "הוספה"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "ביטול"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "לא ניתן לאמת את %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr "%s היא כתובת נדרשת, אבל איננו יכולים לוודא שהיא שלך."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+#, fuzzy
+msgid "%(email)s verified!"
+msgstr "הכתובת אומתה!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr ""
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+#, fuzzy
+msgid "Check your email"
+msgstr "נא לבדוק את תיבת הדואר האלקטרוני בכתובת %s."
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, fuzzy, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr "נא ללחוץ על הקישור במכתב האמות. מיד לאחר מכן תתבצע כניסה אל %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr ""
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "אנחנו מצטערים מאוד."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "השרת מצוי תחת עומס קיצוני!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "נא לרענן את הדף ולנסות שוב."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "נא לסגור את החלון ולנסות שוב."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "מידע נוסף"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr ""
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr ""
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* אינה כתובת דואר אלקטרוני תקינה!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "להמשך, נא לסגור את החלון ולזין כתובת תקינה."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "לזכור אותך?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "למשך כמה זמן ברצונך להישאר בחשבון פרסונה?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "חודש אחד"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "אני סומך על המחשב הזה."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "רק לפעם הזאת"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "זה לא המחשב שלי."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "לתשומת לבך: אפשר לצאת מחשבון פרסנה בכל זמן."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+#, fuzzy
+msgid "Sign in with Persona"
+msgstr "כניסה באמצעות %s"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr ""
+
+#: resources/static/dialog/views/pick_email.ejs:28
+#, fuzzy
+msgid "Select an email address"
+msgstr "הוספת כתובת דואר אלקטרוני אחרת"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "הוספת כתובת דואר אלקטרוני אחרת"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "זה לא אני"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"לחיצה על %s היא אישור שקיבלת את <a %(terms)s>תנאי השימוש</a> ואת <a "
+"%(privacy)s>מדיניות הפרטיות</a> של %(site)s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "כניסה"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "אין תגובה מ־%(primary)s . נא להמתין מספר דקות ולנסות שוב."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "ביטול"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+#, fuzzy
+msgid "Cannot verify %(email)s"
+msgstr "לא ניתן לאמת את %s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+#, fuzzy
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"לחיצה על %s היא אישור שקיבלת את <a %(terms)s>תנאי השימוש</a> ואת <a "
+"%(privacy)s>מדיניות הפרטיות</a> של %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+#, fuzzy
+msgid "Create a Password"
+msgstr "יצירת ססמה"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s כבר אינו מאפשר כניסה לחשבון הפרסונה שלך עם ססמת %(idp)s שלך. נא "
+"ליצור ססמה חדשה לשימוש עם חשבון הפרסונה שלך."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+#, fuzzy
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr "כתובת הדואר האלקרוני שלך חדשה לנו. נא ליצור ססמה כדי לעבוד עם פרסונה."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr "כתובת הדואר האלקרוני שלך חדשה לנו. נא ליצור ססמה כדי לעבוד עם פרסונה."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "יצירת ססמה"
+
+#: resources/static/dialog/views/set_password.ejs:28
+#, fuzzy
+msgid "Password field required"
+msgstr "הססמה נדרשת."
+
+#: resources/static/dialog/views/set_password.ejs:32
+#, fuzzy
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "הססמה צריכה להיות בין 8 לבין 80 תווים."
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "אימות ססמה"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "אימות ססמה"
+
+#: resources/static/dialog/views/set_password.ejs:44
+#, fuzzy
+msgid "Verification password required"
+msgstr "אימות הססמה נדרש."
+
+#: resources/static/dialog/views/set_password.ejs:52
+#, fuzzy
+msgid "Passwords don&rsquo;t match!"
+msgstr "הססמאות אינן תואמות!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "בוצע"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr ""
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+#, fuzzy
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr "אחרי אימות חשבונך, שם תתבצע כניסה על %(aWebsite)s."
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "אימות"
+
+#, fuzzy
+#~ msgid "signing in"
+#~ msgstr "כניסה"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "אימות כתובת הדואר האלקטרוני"
+
+#~ msgid "Sign in as..."
+#~ msgstr "להיכנס בתור..."
+
+#~ msgid "Email"
+#~ msgstr "דואר אלקטרוני"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "הזהות שלך אומתה מול ספק הדואר האלקטרוני שלך, עכשיו ננסה להכניס אותך."
+
+#~ msgid "Sign in using"
+#~ msgstr "התחברות באמצעות"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "האתר ביקש להיכנס באמצעות"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "יש להיכנס באמצעות ספק הדואר האלקטרוני שלך כדי לאמת את הבעלות על הכתובת "
+#~ "הזאת. החלון הזה יופנה אל"
+
+#, fuzzy
+#~ msgid "Enter password"
+#~ msgstr "יצירת ססמה"
+
+#~ msgid "forgot your password?"
+#~ msgstr "האם שכחת את ססמתך?"
+
+#~ msgid "Password"
+#~ msgstr "ססמה"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "הססמה נדרשת."
+
+#~ msgid "verify email"
+#~ msgstr "אימות דואר אלקטרוני"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "זה קל עם %s"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "חשבונך אצל %(emailProvider)s שודרג כדי לעבוד טוב עוד יותר עם פרסונה. "
+#~ "אנחנו נַפנה אותך אל %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "מערכת פרסונה מאפשרת לך להשתמש בחשבונך אצל %(emailProvider)s כדי להיכנס "
+#~ "לאתרים כמו %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "כניסה באמצעות %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "נא להשתמש בכתובת דואר אלקטרוני אחרת"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "בשדה הזה חייבת להיות כתובת דואר אלקטרוני."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "זה עתה שלחנו מכתב לכתובת הזאת! אם ברצונך לקבל עוד אחד, נא לחכות דקה או "
+#~ "שתיים ולנסות שוב."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "הכתובת הזאת כבר נוספה לחשבונך!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "נא לבחור כתובת דואר אלקטרוני."
+
+#~ msgid "The password field is required."
+#~ msgstr "שדה הססמה נדרש."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "אין התאמה בין כתובת הדואר האלקטרוני הזאת לבין הססמה."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "החשבון שלך אצל %(emailProvider)s שודרג כדי לעבוד עוד יותר טוב עם פרסונה. "
+#~ "אנחנו נַפנה אותך אל %(emailProvider)s. אחרי אימות החשבון שלך שם, תתבצע "
+#~ "כניסה על %(aWebsite)s."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "הוספת כתובת נוספת לחשבון הפרסונה שלך."
+
+#~ msgid "There has been an error!"
+#~ msgstr "אירעה תקלה!"
+
+#~ msgid "Reset your password"
+#~ msgstr "איפוס הססמה שלך"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "יצירת ססמה חדשה לעבודה עם %s."
+
+#~ msgid "reset password"
+#~ msgstr "איפוס ססמה"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr "הססמה הזאת תשמת עם כתובות הדואר האלקטרוני שלך, שמשמשות לפרסונה."
+
+#~ msgid "Sign In"
+#~ msgstr "כניסה"
+
+#~ msgid "Sign Up"
+#~ msgstr "רישום"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "נא להמתין מספר שניות בזמן שאנו מחברים אותך לאתר."
+
+#, fuzzy
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "לסיום הכניסה נא ללחוץ על קישור האימות ששלחנו לכתובת הדואר האלקטרוני שלך."
+
+#, fuzzy
+#~ msgid "enter email address"
+#~ msgstr "כתובת דואר אלקטרוני חדשה"
+
+#, fuzzy
+#~ msgid "password"
+#~ msgstr "ססמה"
+
+#~ msgid "next"
+#~ msgstr "הבא"
+
+#, fuzzy
+#~ msgid "Forgot your password?"
+#~ msgstr "האם שכחת את ססמתך?"
+
+#, fuzzy
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "לחיצה על %s היא אישור שקיבלת את <a %s>תנאי השימוש</a> ואת <a %s>מדיניות "
+#~ "הפרטיות</a>."
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "ההודעה הזאת תיעלם כשהבקשה תושלם (בתקווה בקרוב). אם נראה לך שחיכית יותר "
+#~ "מדי, נא לסגור את החלון ולנסות שוב."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "נא להכניס את כתובת הדואר האלקטרוני שלך כדי להתחבר אל <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr "נא להמתין בזמן שאנחנו מקבלים מידע על ספק הדואר האלקטרוני שלך."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "לא ניתן להתחבר לחשבון עם שם המשתמש והססמה הללו."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "שלחנו הודעת אימות בדואר האלקטרוני אל <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr "אם זאת טעות, אפשר פשוט להתעלם מהמכתב ששלחנו ו<a %s>לבטל</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "אם זאת טעות, אפשר פשוט להתעלם מהמכתב ששלחנו ו<a %s>להשתמש בכתובת דואר "
+#~ "אלקטרוני אחרת</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "אם לא אכפת לך שאני שואל, האם זה המחשב שלך?"
+
+#~ msgid "yes"
+#~ msgstr "כן"
+
+#, fuzzy
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "אם כן, נשאיר אותך בחשבון לשבועיים."
+
+#~ msgid "no"
+#~ msgstr "לא"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "אם זה מחשב ציבורי, למשל בספרייה או בקפה אינטרנט, נבקש ממך את הססמה שוב "
+#~ "בעוד שעה."
+
+#, fuzzy
+#~ msgid "Welcome to Persona!"
+#~ msgstr "ברוך בואך אל BrowserID!"
+
+#, fuzzy
+#~ msgid "Repeat Password"
+#~ msgstr "איפוס ססמה"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "נדרשות עוגיות להפעלת BrowserID"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "נראה שזו כתובת דואר אלקטרוני חדשה, ולכן נצטרך להגדיר אותה עבורך."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "תמיד להיכנס באמצעות הדואר האלקטרוני הזה"

@@ -1,0 +1,618 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-08-07 14:39+0000\n"
+"Last-Translator: Romi <romihardiyanto@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1375886357.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"Ada masalah pada tautan pendaftaran Anda. Apakah alamat ini sudah pernah "
+"didaftarkan?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Galat terjadi saat menyelesaikan pendaftaran."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Persona membutuhkan kuki untuk mengingat Anda."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Mohon tutup jendela ini, <a %s>aktifkan kuki</a>, lalu coba lagi"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Galat Komunikasi"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Menyelesaikan Proses Masuk..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Dalam beberapa saat, Anda akan masuk ke Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Maaf, permintaan ini menyita waktu lebih lama dari seharusnya."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Jika masih belum masuk dalam beberapa detik, tutup jendela ini dan coba lagi."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Memeriksa penyedia layanan surel Anda."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Surel terpilih tidak valid atau telah dihapus."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Hapus %(email)s dari akun Persona Anda?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Menghapus alamat terakhir akan menghapus akun Persona Anda.\n"
+"Yakin akan melanjutkan?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Yakin ingin menghapus akun Persona Anda?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Tambahkan alamat surel lain"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "alamat surel"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Harus diisi alamat surel"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Bidang surel wajib diisi"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Konfirmasi awal telah dikirim &ndash; tunggu beberapa menit sebelum meminta "
+"lagi"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Sudah ditambahkan!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "tambahkan"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "urung"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Tidak dapat memverifikasi %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s adalah alamat yang wajib diisi, tetapi kami tidak dapat memverifikasi "
+"bahwa Anda benar-benar memiliki alamat surel ini."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s telah diverifikasi!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Sedang memasukkan Anda&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Periksa surel Anda"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Klik tautan dalam surel konfirmasi yang dikirim ke %s untuk langsung masuk "
+"ke %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Galat"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Maaf ya."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Maaf sekali, server kami sedang terengah-engah melayani!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Mohon muat ulang laman ini dan coba lagi."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Mohon tutup jendela ini lalu coba lagi."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Lihat info selengkapnya"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Tutup"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "Oke"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* bukan alamat surel yang valid!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"Untuk melanjutkan, mohon tutup jendela dan masukkan alamat surel yang valid."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Simpan Info Masuk Saya?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Berapa lama Anda ingin tetap masuk dengan Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Satu bulan"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Saya memercayai komputer ini."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Sesi saat ini saja"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Ini bukan komputer saya."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Catatan: Tentu saja Anda dapat keluar dari Persona kapan saja."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Masuk dengan Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Masuk ke %s sebagai&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Pilih alamat surel"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Tambahkan alamat surel lain"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Ini bukan saya"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Jika melanjutkan, berarti Anda menyetujui <a %(terms)s>Ketentuan</a> dan <a "
+"%(privacy)s>Kebijakan Privasi</a> %(site)s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "masuk"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr "%(primary)s tidak menanggapi. Tunggu beberapa menit, lalu coba lagi."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Batal"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Tidak dapat memverifikasi %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Ini mungkin disebabkan oleh peramban Anda yang memblokir kuki pihak ketiga.  "
+"Pastikan preferensi peramban Anda disetel untuk menerima kuki pihak ketiga "
+"untuk %(idpName)s, lalu coba lagi."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Anda juga menyetujui <a %(terms)s>Ketentuan</a> and <a %(privacy)s>Kebijakan "
+"Privasi</a> %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Buat sandi"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s tidak lagi mengizinkan Anda untuk masuk ke Persona dengan sandi "
+"%(idp)s. Silakan buat sandi baru untuk digunakan dengan akun Persona Anda."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Alamat surel Anda masih belum terdaftar pada sistem kami. Silakan buat sandi "
+"untuk digunakan dengan FirefoxOS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Alamat surel Anda baru bagi kami. Silakan buat sandi untuk digunakan dengan "
+"Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "buat sandi"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Sandi wajib diisi"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Panjang sandi harus lebih dari 8 karakter dan kurang dari 80 karakter"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Verifikasi Sandi"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "verifikasi sandi"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Verifikasi sandi diwajibkan"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Sandi tidak cocok!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "selesai"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Kabar baik!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s tidak lagi memerlukan sandi yang baru. Verifikasikan akun Anda dan "
+"Anda akan masuk langsung ke %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "verifikasikan"
+
+#~ msgid "signing in"
+#~ msgstr "masuk"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Konfirmasikan alamat surel Anda"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Masuk sebagai..."
+
+#~ msgid "Email"
+#~ msgstr "Surel"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Identitas telah diverifikasi lewat penyedia layanan surel Anda, sekarang "
+#~ "kami akan mencoba memasukkan Anda."
+
+#~ msgid "Sign in using"
+#~ msgstr "Masuk menggunakan"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Situs meminta Anda untuk masuk menggunakan"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Anda harus masuk dengan penyedia layanan surel untuk memverifikasi "
+#~ "kepemilikan alamat ini. Jendela ini akan dialihkan ke"
+
+#~ msgid "Enter password"
+#~ msgstr "Masukkan sandi"
+
+#~ msgid "forgot your password?"
+#~ msgstr "lupa sandinya?"
+
+#~ msgid "Password"
+#~ msgstr "Sandi"
+
+#~ msgid "Password incorrect"
+#~ msgstr "Sandi salah"
+
+#~ msgid "verify email"
+#~ msgstr "verifikasikan surel"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s mempermudah hal ini"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "Akun %(emailProvider)s Anda telah ditingkatkan agar bekerja lebih baik "
+#~ "dengan Persona. Kami akan mengarahkan Anda ke %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona dapat digunakan akun %(emailProvider)s Anda untuk masuk ke situs "
+#~ "seperti %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "masuk dengan %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Gunakan alamat surel yang berbeda"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Bidang ini harus diisi dengan alamat surel."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Kami baru saja mengirim surel ke alamat tersebut! Jika ingin mengirimkan "
+#~ "sekali lagi, tunggu sejenak, lalu coba lagi."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Alamat tersebut telah ditambahkan ke akun Anda!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Pilih alamat surel."
+
+#~ msgid "The password field is required."
+#~ msgstr "Bidang sandi wajib diisi."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Alamat surel dan sandinya tidak cocok."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "Akun %(emailProvider)s Anda telah ditingkatkan agar bekerja lebih baik "
+#~ "dengan Persona. Kami akan mengarahkan Anda ke %(emailProvider)s. Segera "
+#~ "setelah memverifikasi akun, Anda akan masuk ke %(aWebsite)s."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Tambahkan alamat surel lain untuk sandi Persona Anda."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Maaf sekali, ada galat terjadi!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Setel ulang sandi Anda"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Buat sandi baru untuk digunakan dengan %s."
+
+#~ msgid "reset password"
+#~ msgstr "setel ulang sandi"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Catatan: Sandi ini akan digunakan untuk semua alamat surel Anda pada "
+#~ "Persona."
+
+#~ msgid "Sign In"
+#~ msgstr "Masuk"
+
+#~ msgid "Sign Up"
+#~ msgstr "Daftar"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Mohon tunggu, kami melakukan proses masuk ke situs yang Anda tuju."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "Proses masuk pada %s menggunakan Persona, bukan dengan nama pengguna."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Untuk masuk dengan Persona, masukkan alamat surel Anda."
+
+#~ msgid "enter email address"
+#~ msgstr "masukkan alamat surel"
+
+#~ msgid "password"
+#~ msgstr "sandi"
+
+#~ msgid "next"
+#~ msgstr "selanjutnya"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Lupa sandinya?"
+
+#, fuzzy
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Dengan mengeklik %s, Anda mengonfirmasikan persetujuan atas <a %s>Syarat "
+#~ "Penggunaan</a> dan <a %s>Kebijakan Privasi</a> situs ini."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Pesan ini akan menghilang saat permintaan diselesaikan. Jika Anda terlalu "
+#~ "lama menunggu, tutup jendela ini dan coba lagi."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr "Masukkan alamat email untuk masuk ke <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Mohon tunggu sejenak, kami sedang mengambil informasi tentang penyedia "
+#~ "layanan email Anda."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "Akun tidak dapat masuk dengan nama pengguna dan sandi ini."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Kami mengirimkan email konfirmasi ke <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr "Jika salah, abaikan email yang terkirim dan <a %s>urungkan</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Jika salah, abaikan email yang terkirim dan <a %s>gunakan alamat email "
+#~ "lainnya</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Apakah ini komputer pribadi Anda?"
+
+#~ msgid "yes"
+#~ msgstr "ya"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr ""
+#~ "Jika ya, kami akan mempertahankan info masuk Anda selama dua minggu."
+
+#~ msgid "no"
+#~ msgstr "bukan"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Pilih ini jika komputer yang Anda gunakan bukan komputer pribadi "
+#~ "(misalnya komputer warnet atau perpus).  Anda harus memasukkan sandi "
+#~ "kembali dalam waktu satu jam ke depan."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Selamat datang di Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Berikutnya, pilih sandi baru yang ingin digunakan saat masuk dengan "
+#~ "Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Ulangi Sandi"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID membutuhkan kuki"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr ""
+#~ "Tampaknya ini alamat email baru, kita akan menyiapkannya terlebih dulu."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Selalu masuk menggunakan email ini"

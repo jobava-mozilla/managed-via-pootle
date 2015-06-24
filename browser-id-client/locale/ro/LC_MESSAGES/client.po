@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: browserid.org\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-03-31 15:34+0000\n"
+"Last-Translator: daniel <danielpintilie77@yahoo.com>\n"
+"Language-Team: Romanian <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1396280082.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"A apărut o problemă cu legătura dumneavoastră de înregistrare. A mai fost "
+"înregistrată această adresă?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Eroare la încercarea de a finaliza înregistrarea."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Persona necesită cookie-uri pentru a vă ține minte."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Vă rugăm să închideți această fereastră, <a %s>activați cookie-urile</a> și "
+"încercați din nou"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Eroare de comunicare"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Se finalizează procesul de autentificare..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "În câteva momente veți fi autentificat în Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Ne pare rău, cererea durează mult prea mult."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Dacă problema nu se rezolvă în câteva secunde, vă rugăm să închideți "
+"fereastra și încercați din nou."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Verificare cu furnizorul dumneavoastră de email."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Email-ul selectat nu este valid sau a fost șters."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Eliminați adresa de email %(email)s din contul dumneavoastră Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Eliminarea ultimei adrese va anula contul dumneavoastră Persona.\n"
+"Sunteți sigur că doriți să continuați?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Sunteți sigur că doriți să ștergeți contul dumneavoastră Persona?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Adaugă o adresă de email"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "adresă de email"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Este necesară o adresă de email"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Adresa de email este necesară"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Confirmare inițială trimisă &ndash; așteptați câteva minute înainte să "
+"solicitați alta"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Deja adăugată!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "adaugă"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "anulează"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Nu se poate verifica %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s e o adresă necesară, dar nu putem verifica că dețineți această adresă."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s verificată!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Autentificați-vă în&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Verificați-vă adresa de email"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Clic pe legătura din emailul de confirmare trimis la %s după care veți fi "
+"imediat autentificat în %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Eroare"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Ne pare foarte rău."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Serverul e suprasolicitat!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Vă rugăm să reîncărcați pagina și să încercați din nou."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Vă rugăm să închideți această fereastră și să încercați din nou."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Vedeți mai multe informații"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Închide"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* nu este o adresă validă de email!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"Pentru a continua, vă rugăm închideți fereastra și introduceți o adresă "
+"validă de email."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Să vă țin minte?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Cât timp doriți să rămâneți conectat cu Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "O lună"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Am încredere în acest calculator."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Doar această sesiune"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Acesta nu este calculatorul meu."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Notă: Desigur, vă puteți deconecta din Persona în orice moment."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Autentificare cu Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Autentificare la %s ca&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Selectează o adresă de email"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Adaugă o altă adresă de email"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Nu sunt eu"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Continuând, sunteți de acord cu <a %(terms)s>condițiile de utilizare</a> și "
+"<a %(privacy)s>politica de confidențialitate</a> ale saitului %(site)s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "autentificare"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"%(primary)s nu răspunde. Vă rugăm așteptați câteva minute și apoi încercați "
+"din nou."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Anulează"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Nu se poate verifica %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Acest lucru poate fi din cauză că navigatorul blochează cookie-urile "
+"terțe.   Asigurați-vă că opțiunile de confidențialitate ale \\navigatorului "
+"dumneavoastră sunt setate să accepte cookie-uri terțe pentru %(idpName)s și "
+"încercați din nou."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"De asemenea sunteți de acord cu <a %(terms)s>condițiile de utilizare</a> și "
+"<a %(privacy)s>politica de confidențialitate</a> ale saitului %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Creează o parolă"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s nu vă mai permite să vă conectați la contul dumneavoastră Persona cu "
+"parola %(idp)s . Vă rugăm să creați o nouă parolă pentru a o utiliza cu "
+"contul dumneavoastră Persona."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Adresa dumneavoastră este nouă pentru noi. Vă rugăm creați o parolă pentru a "
+"o utiliza cu FirefoxOS."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Adresa dumneavoastră este nouă pentru noi. Vă rugăm creați o parolă pentru a "
+"o utiliza cu Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "creează parola"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Este necesară parola"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Parolele trebuie să aibă o lungime între 8 și 80 de caractere"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Verifică parola"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "verifică parola"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Verificarea parolei este necesară"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Parolele nu coincid!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "gata"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Vești bune!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s nu mai necesită o parolă suplimentară. Verificați contul "
+"dumneavoastră și veți fi imediat conectat la %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "verifică"
+
+#~ msgid "signing in"
+#~ msgstr "autentificare"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Confirmați adresa de email"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Autentifică-te cu..."
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Identitatea dumneavoastră a fost verificată cu furnizorul serviciului de "
+#~ "email, vom încerca acum să vă conectăm."
+
+#~ msgid "Sign in using"
+#~ msgstr "Autentificați-vă folosind"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Saitul a cerut să vă autentificați folosind"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Trebuie să vă autentificați cu adresa de e-mail pentru a verifica "
+#~ "autenticitatea adresei. Această fereastră va fi redirecționată către"
+
+#~ msgid "Enter password"
+#~ msgstr "Introduceți parola"
+
+#~ msgid "forgot your password?"
+#~ msgstr "ați uitat parola?"
+
+#~ msgid "Password"
+#~ msgstr "Parolă"
+
+#~ msgid "Password incorrect"
+#~ msgstr "Parolă incorectă"
+
+#~ msgid "verify email"
+#~ msgstr "verificare email"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s face acest lucru ușor"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "Contul dumneavoastră %(emailProvider)s a fost actualizat pentru a lucra "
+#~ "mai bine cu Persona. Vă vom redirecționa către %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona vă permite să utilizați contul dumneavoastră %(emailProvider)s să "
+#~ "vă autentificați pe saituri cum ar fi %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "autentificare cu %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Utilizează o adresă de email diferită"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Acest câmp trebuie să fie o adresă de email."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Abia ce ți-am trimis un mesaj la acea adresă! Dacă chiar vrei să trimiți "
+#~ "altul, așteaptă un minut sau două și încearcă din nou."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Adresa este deja adăugată la contul dumneavoastră!"
+
+#, fuzzy
+#~ msgid "Please choose an email address."
+#~ msgstr "Acest câmp trebuie să fie o adresă de email."
+
+#~ msgid "The password field is required."
+#~ msgstr "Parola este necesară."
+
+#, fuzzy
+#~ msgid "This email address and password do not match."
+#~ msgstr "Parolele nu coincid."
+
+#~ msgid "There has been an error!"
+#~ msgstr "A intervenit o eroare!"
+
+#, fuzzy
+#~ msgid "Reset your password"
+#~ msgstr "resetează parola"
+
+#, fuzzy
+#~ msgid "Create a new password to use with %s."
+#~ msgstr ""
+#~ "Alege o parolă nouă pe care o vei folosi când te autentifici cu Persona."
+
+#~ msgid "reset password"
+#~ msgstr "resetează parola"
+
+#, fuzzy
+#~ msgid "Sign In"
+#~ msgstr "autentificare"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr ""
+#~ "Vă rugăm să așteptați câteva secunde în timp ce vă autentificăm pe sait."
+
+#, fuzzy
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Pentru a finaliza autentificarea cu un singur clic, verificați legătura "
+#~ "pe care v-am trimis-o pe adresa de email."
+
+#, fuzzy
+#~ msgid "enter email address"
+#~ msgstr "Adresă nouă de email"
+
+#, fuzzy
+#~ msgid "password"
+#~ msgstr "Parolă"
+
+#~ msgid "next"
+#~ msgstr "înainte"
+
+#, fuzzy
+#~ msgid "Forgot your password?"
+#~ msgstr "ați uitat parola?"
+
+#, fuzzy
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Prin apăsarea %s, confirmați acordul privind <a %s>condițiile de "
+#~ "utilizare</a> și <a %s>politica de confidențialitate</a> ale acestui sait."
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Acest mesaj va dispărea în curând după ce cererea se va încheia (sperăm "
+#~ "că repede). Dacă așteptați prea mult, închideți această fereastră și "
+#~ "încercați din nou."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "Introduceți adresa dumneavoastră de email pentru a vă autentifica pe "
+#~ "<strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Te rugăm să aștepți în timp ce obținem informații despre furnizorul tău "
+#~ "de email."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "Nu puteți intra în cont cu utilizatorul și parola aceasta."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "V-am trimis un email de confirmare la <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr "Dacă e o greșeală, ignoră mesajul trimis și <a %s>anulează</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Dacă e o greșeală, ignoră mesajul trimis și <a %s>folosește altă adresă "
+#~ "de email</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Dacă nu te superi că întreb, acesta e calculatorul tău?"
+
+#~ msgid "yes"
+#~ msgstr "da"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Dacă da, te vom păstra autentificat pentru două săptămâni."
+
+#~ msgid "no"
+#~ msgstr "nu"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Dacă ești la un calculator public, cum ar fi cel de la bibliotecă sau de "
+#~ "la un internet cafe, alege opțiunea asta. Îți vom cere parola din nou "
+#~ "peste o oră pentru securitate sporită."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Bun venit la Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Mai departe, alege o parolă nouă pe care o vei folosi când te vei "
+#~ "autentifica cu Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Repetă parola"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID are nevoie de cookie-uri"

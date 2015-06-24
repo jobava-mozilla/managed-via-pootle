@@ -1,0 +1,700 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-07-10 15:38+0000\n"
+"Last-Translator: Aman <amanpreet.alam@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1405006712.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr "ਤੁਹਾਡੇ ਸਾਇਨ ਇਨ ਲਿੰਕ ਨਾਲ ਸਮੱਸਿਆ ਸੀ। ਕੀ ਇਹ ਐਡਰੈਸ ਪਹਿਲਾਂ ਹੀ ਰਜਿਸਟਰ ਹੈ?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "ਰਜਿਸਟਰੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਵਿੱਚ ਗਲਤੀ।"
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "ਪਰਸੋਨਾ ਨੂੰ ਤੁਹਾਨੂੰ ਯਾਦ ਰੱਖਣ ਲਈ ਕੂਕੀਜ਼ ਚਾਹੀਦੇ ਹਨ।"
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "ਇਹ ਵਿੰਡੋ ਬੰਦ ਕਰੋ, <a %s>ਕੂਕੀਜ਼ ਚਾਲੂ ਕਰੋ</a> ਅਤੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "ਕਮਿਊਨੀਕੇਸ਼ਨ ਗਲਤੀ"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "ਸਾਇਨ ਇਨ ਨੂੰ ਪੂਰਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "ਕੁਝ ਕੁ ਪਲਾਂ ਵਿੱਚ ਤੁਹਾਨੂੰ ਪਰਸੋਨਾ ਵਿੱਚ ਸਾਇਨ ਇਨ ਕੀਤਾ ਜਾਵੇਗਾ।"
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ, ਪਰ ਇਸ ਲਈ ਲੋੜ ਤੋਂ ਵੱਧ ਸਮਾਂ ਲੱਗ ਰਿਹਾ ਹੈ।"
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"ਜੇ ਇਹ ਕੁਝ ਸਕਿੰਟਾਂ ਵਿੱਚ ਖੁਦ ਠੀਕ ਨਾ ਹੋ ਸਕਿਆ ਤਾਂ ਵਿੰਡੋ ਬੰਦ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ "
+"ਜੀ।"
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "ਆਪਣੇ ਈਮੇਲ ਪਰੋਵਾਇਡਰ ਨਾਲ ਚੈੱਕ ਕਰੋ ਜੀ।"
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "ਚੁਣਿਆ ਹੋਇਆ ਈਮੇਲ ਸਹੀਂ ਨਹੀਂ ਹੈ ਜਾਂ ਹਟਾ ਜਾ ਚੁੱਕਾ ਹੈ।"
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਪਰਸੋਨਾ ਖਾਤੇ ਤੋਂ %(email)s ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"ਪਿਛਲੇ ਪਤੇ ਨੂੰ ਹਟਾਉਣ ਨਾਲ ਤੁਹਾਡੇ Persona ਖਾਤੇ ਨੂੰ ਰੱਦ ਕੀਤਾ ਜਾਵੇਗਾ।\n"
+"ਤੁਹਾਨੂੰ ਕੀ ਤੁਸੀ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "ਕੀ ਤੁਸੀਂ ਆਪਣਾ ਪਰਸੋਨਾ ਖਾਤਾ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "ਈਮੇਲ ਐਡਰੈਸ ਸ਼ਾਮਿਲ ਕਰੋ"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "ਈਮੇਲ ਐਡਰੈਸ"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "ਈਮੇਲ ਐਡਰੈਸ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "ਈਮੇਲ ਖੇਤਰ ਚਾਹੀਦਾ ਹੈ"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"ਸ਼ੁਰੂਆਤੀ ਪੁਸ਼ਟੀ ਭੇਜੀ ਗਈ &ndash; ਦੂਜੇ ਦੀ ਬੇਨਤੀ ਕਰਨ ਤੋ ਪਹਿਲਾ ਕੁਝ ਮਿੰਟ ਦੀ ਉਡੀਕ "
+"ਕਰੋ"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "ਪਹਿਲਾਂ ਹੀ ਜੋੜਿਆ ਹੈ!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "ਸ਼ਾਮਲ"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "%s ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸਕਦੀ"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s ਇੱਕ ਚਾਹੀਦਾ ਐਡਰੈਸ ਹੈ, ਪਰ ਅਸੀਂ ਪੁਸ਼ਟੀ ਨਹੀਂ ਕਰ ਸਕਦੇ ਕਿ ਤੁਸੀਂ ਇਹ ਐਡਰੈਸ ਰੱਖਦੇ "
+"ਹੋ।"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s ਜਾਂਚਿਆ ਗਿਆ!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "ਤੁਹਾਨੂੰ ਸਾਇਨ ਇਨ ਕਰ ਰਿਹਾ ਹੈ&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "ਆਪਣੀ ਈਮੇਲ ਚੈੱਕ ਕਰੋ"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"%s ਨੂੰ ਭੇਜੇ ਗਏ ਪੁਸ਼ਟੀ ਈ-ਮੇਲ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ ਤਾਂ ਕਿ ਤੁਰੰਤ %s ਵਿੱਚ ਸਾਇਨ ਇਨ ਕੀਤਾ "
+"ਜਾ ਸਕੇ।"
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "ਗਲਤੀ"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "ਸਾਨੂੰ ਬਹੁਤ ਅਫਸੋਸ ਹੈ।"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "ਸਰਵਰ ਬਹੁਤ ਰੁੱਝਿਆ ਹੋਇਆ ਹੈ!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "ਸਫ਼ਾ ਫੇਰ ਲੋਡ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।"
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "ਇਹ ਵਿੰਡੋ ਬੰਦ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।"
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "ਹੋਰ ਜਾਣਕਾਰੀ ਵੇਖੋ"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "ਬੰਦ ਕਰੋ"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "ਠੀਕ ਹੈ"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* ਸਹੀਂ ਈਮੇਲ ਐਡਰੈਸ ਨਹੀਂ ਹੈ!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "ਜਾਰੀ ਰੱਖਣ ਲਈ, ਵਿੰਡੋ ਬੰਦ ਕਰੋ ਅਤੇ ਠੀਕ ਈਮੇਲ ਐਡਰੈਸ ਦਿਉ ਜੀ।"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "ਤੁਹਾਨੂੰ ਯਾਦ ਰੱਖਣਾ ਹੈ?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "ਚੋਣ ਕਰੋ ਕਿ ਤੁਸੀਂ ਪਰਸੋਨਾ ਵਿੱਚ ਕਿੰਨਾ ਲੰਮਾ ਸਮਾਂ ਸਾਇਨ ਇਨ ਰਹਿਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "ਇੱਕ ਮਹੀਨਾ"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "ਮੈਨੂੰ ਇਹ ਕੰਪਿਊਟਰ ਉੱਤੇ ਭਰੋਸਾ ਹੈ।"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "ਕੇਵਲ ਸ਼ੈਸ਼ਨ ਲਈ ਹੀ"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "ਇਹ ਮੇਰਾ ਕੰਪਿਊਟਰ ਨਹੀਂ ਹੈ।"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "ਨੋਟ: ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਮੇਂ ਪਰਸੋਨਾ ਵਿੱਚੋਂ ਸਾਇਨ ਆਉਟ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "ਪਰਸੋਨਾ ਨਾਲ ਸਾਇਨ ਇਨ"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "%s ਵਿੱਚ &hellip; ਵਜੋਂ ਸਾਇਨ ਇਨ"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "ਈਮੇਲ ਐਡਰੈਸ ਚੁਣੋ"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "ਹੋਰ ਈਮੇਲ ਐਡਰੈਸ ਸ਼ਾਮਿਲ"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "ਇਹ ਮੈਂ ਨਹੀਂ ਹਾਂ"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"ਅੱਗੇ ਜਾ ਕੇ, ਤੁਸੀਂ %(site)s's <a %(terms)s>ਨਿਯਮਾਂ</a> ਅਤੇ <a %"
+"(privacy)s>ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।"
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "ਸਾਇਨ-ਇਨ"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"%(primary)s ਜਵਾਬ ਨਹੀ ਦੇ ਰਿਹਾ ਹੈ। ਕੁਝ ਮਿੰਟ ਲਈ ਉਡੀਕੋ ਅਤੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।"
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "%(email)s ਦੀ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸਕਦੀ"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"ਇਹ ਤੀਜੀ ਧਿਰ ਕੂਕੀਜ਼ ਨੂੰ ਰੋਕ ਆਪਣੇ ਝਲਕਾਰੇ ਦੇ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ਰ\\'s "
+"ਨੂੰ ਰਹੱਸ ਨੂੰ ਪਸੰਦ ਨੂੰ %(idpName)s ਨੂੰ ਲਈ ਤੀਜੀ ਧਿਰ ਕੂਕੀਜ਼ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨ ਅਤੇ "
+"ਮੁੜ ਕੋਸ਼ਿਸ ਕਰੋ ਲਈ ਸੈੱਟ ਕਰ ਰਹੇ ਹੋ ਇਹ ਯਕੀਨੀ ਕਰੋ ਜੀ।"
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"ਤੁਸੀ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ %(site)s's <a %(terms)s>ਨਿਯਮਾਂ</a> ਅਤੇ <a %"
+"(privacy)s>ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ</a> ਨਾਲ ਵੀ ਸਹਿਮਤ ਹੋ।"
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "ਪਾਸਵਰਡ ਬਣਾਓ"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s ਹੁਣ ਤੁਹਾਨੂੰ ਅਾਪਣੇ %(idp)s ਪਾਸਵਰਡ ਨਾਲ Persona ਵਿੱਚ ਲਾਗਇਨ ਕਰਨ ਲਈ ਸਹਾਇਕ "
+"ਨਹੀ ਹੈ। ਤੁਹਾਡੇ  Persona ਖਾਤੇ ਦੇ ਨਾਲ ਵਰਤਣ ਲਈ ਇੱਕ ਨਵਾ ਪਾਸਵਰਡ ਬਣਾਓ ਜੀ।"
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"ਤੁਹਾਡਾ ਈਮੇਲ ਐਡਰੈਸ ਸਾਡੇ ਲਈ ਨਵਾਂ ਹੈ। ਫਾਇਰਫਾਕਸਓਐਸ ਨਾਲ ਵਰਤਣ ਲਈ ਪਾਸਵਰਡ ਬਣਾਉ ਜੀ।"
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr "ਤੁਹਾਡਾ ਈਮੇਲ ਐਡਰੈਸ ਸਾਡੇ ਲਈ ਨਵਾਂ ਹੈ। ਪਰਸੋਨਾ ਨਾਲ ਵਰਤਣ ਲਈ ਪਾਸਵਰਡ ਬਣਾਉ ਜੀ।"
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "ਪਾਸਵਰਡ ਬਣਾਓ"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "ਪਾਸਵਰਡ ਖੇਤਰ ਲੋੜੀਦਾ ਹੈ"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "ਪਾਸਵਰਡ 8&ndash;80 ਸ਼ਬਦ ਲੰਬਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "ਪਾਸਵਰਡ ਜਾਚੋ"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "ਪਾਸਵਰਡ ਜਾਂਚੋ"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "ਪਾਸਵਰਡ ਪੜਤਾਲਣ ਦੀ ਲੋੜ ਹੈ।"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "ਪਾਸਵਰਡ ਮਿਲਦਾ ਨਹੀਂ ਹਨ!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "ਮੁਕੰਮਲ"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "ਚੰਗੀ ਖ਼ਬਰ!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s ਨੂੰ ਇੱਕ ਵਾਧੂ ਪਾਸਵਰਡ ਦੀ ਲੋੜ ਨਹੀ ਹੈ। ਆਪਣੇ ਖਾਤੇ ਦੀ ਤਸਦੀਕ ਕਰੋ ਅਤੇ "
+"ਤੁਸੀਂ %(aWebsite)s ਵਿੱਚ ਤੁਰੰਤ ਸਾਇਨ ਇਨ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "ਜਾਂਚ"
+
+#, fuzzy
+#~ msgid "signing in"
+#~ msgstr "ਸਾਇਨ-ਇਨ"
+
+#, fuzzy
+#~ msgid "Confirm your email address"
+#~ msgstr "ਈਮੇਲ ਐਡਰੈੱਸ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+
+#, fuzzy
+#~ msgid "Sign in as..."
+#~ msgstr "ਇਹ ਦੀ ਵਰਤੋਂ ਨਾਲ ਸਾਇਨ ਇਨ"
+
+#~ msgid "Email"
+#~ msgstr "ਈਮੇਲ"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "ਤੁਹਾਡੀ ਪਛਾਣ ਦੀ ਤੁਹਾਡੇ ਈਮੇਲ ਪਰੋਵਾਇਡਰ ਨਾਲ ਜਾਂਚ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ, ਅਸੀਂ ਹੁਣ ਤੁਹਾਨੂੰ ਸਾਇਨ ਇਨ "
+#~ "ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਾਂਗੇ।"
+
+#~ msgid "Sign in using"
+#~ msgstr "ਇਹ ਦੀ ਵਰਤੋਂ ਨਾਲ ਸਾਇਨ ਇਨ"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "ਸਾਇਟ ਨੇ ਤੁਹਾਨੂੰ ਸਾਇਨ ਇਨ ਕਰਨ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ, ਇਸ ਦੀ ਵਰਤੋਂ ਨਾਲ"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "ਤੁਹਾਨੂੰ ਇਹ ਐਡਰੈਸ ਦੇ ਮਾਲਕ ਹੋਣ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਈਮੇਲ ਪਰੋਵਾਇਡਰ ਨਾਲ ਸਾਇਨ ਇਨ ਕਰਨਾ "
+#~ "ਪਵੇਗਾ। ਇਹ ਵਿੰਡੋ ਮੁੜ-ਭੇਜੇਗੀ"
+
+#, fuzzy
+#~ msgid "Enter password"
+#~ msgstr "ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ"
+
+#~ msgid "forgot your password?"
+#~ msgstr "ਆਪਣਾ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?"
+
+#~ msgid "Password"
+#~ msgstr "ਪਾਸਵਰਡ"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "ਪਾਸਵਰਡ ਖੇਤਰ ਦੀ ਲੋੜ ਹੈ।"
+
+#~ msgid "verify email"
+#~ msgstr "ਈਮੇਲ ਦੀ ਪੜਤਾਲ"
+
+#, fuzzy
+#~ msgid "sign in with %s"
+#~ msgstr "ਸਾਇਨ-ਇਨ"
+
+#, fuzzy
+#~ msgid "Use a different email address"
+#~ msgstr "ਵੱਖਰਾ ਈਮੇਲ ਵਰਤੋਂ"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "ਇਹ ਖੇਤਰ ਇੱਕ ਈਮੇਲ ਐਡਰੈਸ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "ਅਸੀਂ ਹੁਣੇ ਹੀ ਉਸ ਐਡਰੈਸ ਉੱਤੇ ਇੱਕ ਈਮੇਲ ਭੇਜੀ ਹੈ! ਜੇ ਤੁਸੀਂ ਹੋਰ ਭੇਜਣੀ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਇੱਕ ਜਾਂ ਦੋ ਮਿੰਟ ਦੀ "
+#~ "ਉਡੀਕ ਕਰੋ ਅਤੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "ਉਹ ਐਡਰੈਸ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੇ ਅਕਾਊਂਟ ਵਿੱਚ ਜੋੜਿਆ ਹੋਇਆ ਹੈ!"
+
+#, fuzzy
+#~ msgid "Please choose an email address."
+#~ msgstr "ਇਹ ਖੇਤਰ ਇੱਕ ਈਮੇਲ ਐਡਰੈਸ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+#~ msgid "The password field is required."
+#~ msgstr "ਪਾਸਵਰਡ ਖੇਤਰ ਦੀ ਲੋੜ ਹੈ।"
+
+#, fuzzy
+#~ msgid "This email address and password do not match."
+#~ msgstr "ਪਾਸਵਰਡ ਮੈਚ ਨਹੀ ਹੋ ਰਿਹਾ।"
+
+#, fuzzy
+#~ msgid "There has been an error!"
+#~ msgstr "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ, ਇੱਕ ਗਲਤੀ ਆਈ ਹੈ!"
+
+#, fuzzy
+#~ msgid "Reset your password"
+#~ msgstr "ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ"
+
+#, fuzzy
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "ਇਕ ਨਵਾਂ ਪਾਸਵਰਡ ਚੁਣੋ ਜਿਸਨੂੰ ਤੁਸੀ BrowserID ਤੇ ਲਾਗਇਨ ਕਰਨ ਲਈ ਵਰਤੋਗੇ।"
+
+#~ msgid "reset password"
+#~ msgstr "ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ"
+
+#, fuzzy
+#~ msgid "Sign In"
+#~ msgstr "ਸਾਇਨ-ਇਨ"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "ਕੁਝ ਕੁ ਪਲਾਂ ਲਈ ਉਡੀਕੋ ਤਾਂ ਕਿ ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਾਈਟ ਉੱਤੇ ਸਾਇਨ ਕਰ ਸਕੀਏ।"
+
+#, fuzzy
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "ਸਾਇਨ ਇਨ ਕਰਨ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਸਾਡੇ ਵਲੋਂ ਤੁਹਾਡੇ ਈਮੇਲ ਐਡਰੈਸ ਉੱਤੇ ਭੇਜੇ ਲਿੰਕ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#, fuzzy
+#~ msgid "enter email address"
+#~ msgstr "ਨਵਾਂ ਈਮੇਲ ਐਡਰੈਸ"
+
+#, fuzzy
+#~ msgid "password"
+#~ msgstr "ਪਾਸਵਰਡ"
+
+#~ msgid "next"
+#~ msgstr "ਅੱਗੇ"
+
+#, fuzzy
+#~ msgid "Forgot your password?"
+#~ msgstr "ਆਪਣਾ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?"
+
+#, fuzzy
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "%s ਨੂੰ ਕਲਿੱਕ ਕਰਕੇ, ਤੁਸੀਂ ਪੁਸ਼ਟੀ ਕਰਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਇਹ ਸਾਈਟ ਦੀਆਂ <a %s>ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> "
+#~ "ਅਤੇ <a %s>ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ</a> ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦੇ ਹੋ।"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "ਇਹ ਸੁਨੇਹਾ ਹੱਟ ਜਾਵੇਗਾ, ਜਦੋਂ ਮੰਗ ਪੂਰੀ ਹੋ ਗਈ (ਉਮੀਦ ਹੈ ਛੇਤੀ ਹੀ)। ਜੇ ਤੁਸੀਂ ਬਹੁਤ ਲੰਮਾ ਸਮਾਂ ਉਡੀਕ "
+#~ "ਕੀਤੀ ਹੈ ਤਾਂ ਇਹ ਵਿੰਡੋ ਬੰਦ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr "<strong>%s</strong> ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਆਪਣਾ ਈਮੇਲ ਐਡਰੈਸ ਦਿਉ"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr "ਸਾਡੇ ਵਲੋਂ ਤੁਹਾਡੇ ਈਮੇਲ ਪਰੋਵਾਈਡਰ ਬਾਰੇ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਨ ਤੱਕ ਰੁਕੋ ਜੀ।"
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "ਇਸ ਯੂਜ਼ਰ ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ ਨਾਲ ਅਕਾਊਂਟ ਲਾਗਇਨ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।"
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "ਅਸੀਂ <strong>%s</strong> ਨੂੰ ਇੱਕ ਪੁਸ਼ਟੀ ਈਮੇਲ ਭੇਜੀ ਹੈ"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr "ਜੇ ਇਹ ਗਲਤੀ ਹੈ ਤਾਂ ਭੇਜੀ ਹੋਈ ਈਮੇਲ ਨੂਂ ਅਣਡਿੱਠਾ ਕਰ ਦਿਉ ਅਤੇ <a %s>ਰੱਦ ਕਰੋ</a>।"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "ਜੇ ਇਹ ਗਲਤੀ ਹੈ ਤਾਂ ਭੇਜੀ ਹੋਈ ਈਮੇਲ ਨੂਂ ਅਣਡਿੱਠਾ ਕਰ ਦਿਉ ਅਤੇ <a %s>ਹੋਰ ਈਮੇਲ ਐਡਰੈੱਸ ਵਰਤੋਂ</a>।"
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "ਜੇ ਤੁਹਾਨੂੰ ਬੁਰਾ ਨਾ ਲੱਗੇ ਤਾਂ ਕੀ ਮੈਂ ਪੁੱਛ ਸਕਦਾ ਹਾਂ ਕਿ ਕੀ ਇਹ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਹੈ?"
+
+#~ msgid "yes"
+#~ msgstr "ਹਾਂ"
+
+#, fuzzy
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "ਜੇ ਹਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਕੁਝ ਹਫ਼ਤਿਆਂ ਲਈ ਲਾਗ ਇਨ ਹੀ ਰੱਖਾਂਗੇ।"
+
+#~ msgid "no"
+#~ msgstr "ਨਹੀਂ"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "ਜੇ ਤੁਸੀਂ ਕਿਸੇ ਪਬਲਿਕ ਕੰਪਿਊਟਰ, ਜਿਵੇਂ ਕਿ ਲਾਇਬਰੇਰੀ ਜਾਂ ਇੰਟਰਨੈੱਟ ਕੈਫ਼ੇ ਵਿੱਚ ਹੋ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ "
+#~ "ਤੁਹਾਡਾ ਪਾਸਵਰਡ ਇੱਕ ਘੰਟੇ ਬਾਅਦ ਫੇਰ ਪੁੱਛਾਂਗੇ।"
+
+#, fuzzy
+#~ msgid "Welcome to Persona!"
+#~ msgstr "BrowserID ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr "ਅੱਗੇ, ਇਕ ਨਵਾਂ ਪਾਸਵਰਡ ਚੁਣੋ ਜਿਸਨੂੰ ਤੁਸੀ BrowserID ਤੇ ਲਾਗਇਨ ਕਰਨ ਲਈ ਵਰਤੋਗੇ।"
+
+#~ msgid "Repeat Password"
+#~ msgstr "ਪਾਸਵਰਡ ਦੁਹਰਾਉ"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID ਲਈ ਕੂਕੀਜ਼ ਚਾਹੀਦੇ ਹਨ"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "ਇਹ ਈਮੇਲ ਐਡਰੈਸ ਨਵਾਂ ਲੱਗਦਾ ਹੈ, ਇਸਕਰਕੇ ਤੁਹਾਡੇ ਲਈ ਸੈਟਅੱਪ ਕਰੀਏ।"
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "ਹਮੇਸ਼ਾ ਇਹ ਈਮੇਲ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸਾਈਨ ਇਨ ਕਰੋ"
+
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "BrowserID ਨੂੰ ਕੰਮ ਕਰਨ ਲਈ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੇ ਕੂਕੀਜ਼ ਚਾਲੂ ਹਾਲਤ 'ਚ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। ਆਪਣੇ "
+#~ "ਬਰਾਊਜ਼ਰ ਦੇ ਕੂਕੀਜ਼ ਚਾਲੂ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#~ msgid "You are offline!"
+#~ msgstr "ਤੁਸੀਂ ਆਫਲਾਈਨ ਹੋ!"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr "ਅਫਸੋਸ, BrowserID ਆਫਲਾਈਨ ਦੇ ਦੌਰਾਨ ਕੰਮ ਕਰਨ ਨਹੀਂ ਸਕਦਾ ਹੈ!"
+
+#~ msgid "select email"
+#~ msgstr "ਈਮੇਲ ਚੁਣੋ"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr ""
+#~ "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ, ਪਰ ਅਸੀਂ BrowserID ਨਾਲ ਸੰਪਰਕ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ, ਜਦੋਂ ਤੁਸੀਂ ਆਫਲਾਈਨ ਹੋ।"
+
+#~ msgid "Authenticating User"
+#~ msgstr "ਯੂਜ਼ਰ ਨੂੰ ਪਰਮਾਣਿਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Adding Address"
+#~ msgstr "ਐਡਰੈਸ ਜੋੜਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "ਯੂਜ਼ਰ ਲਈ ਪ੍ਰਾਇਮਰੀ ਈਮੇਲ ਐਡਰੈਸ ਜੋੜਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "ਐਡਰੈਸ ਜਾਣਕਾਰੀ ਚੈੱਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "ਅਸਿਰਟੇਸ਼ਨ ਨਾਲ ਪਰਮਾਣਿਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "ਯੂਜ਼ਰ ਅਕਾਊਂਟ ਰੱਦ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "ਪਰਮਾਣਕਿਤਾ ਚੈੱਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "ਸਕ੍ਰਿਪਟ ਵਰਜਨ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "ਯੂਜ਼ਰ ਰਜਿਸਟੇਸ਼ਨ ਪੂਰੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਕਿ ਕੀ ਕੂਕੀਜ਼ ਚਾਲੂ ਹਨ।"
+
+#~ msgid "Creating Account"
+#~ msgstr "ਅਕਾਊਂਟ ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "ਅਸਰਟੇਸ਼ਨ ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "ਰਜਿਸਟੇਰਸ਼ਨ ਟੋਕਨ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "ਈਮੇਲ ਐਡਰੈਸ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਕੀ ਯੂਜ਼ਰ IdP ਰਾਹੀਂ ਪਰਮਾਣਿਤ ਹੈ"
+
+#~ msgid "Logout Failed"
+#~ msgstr "ਲਾਗਆਉਟ ਫੇਲ੍ਹ ਹੋਇਆ"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "ਪਛਾਣ ਪਰੋਵਾਇਡਰ ਨਾਲ ਪਰਮਾਣਿਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr "ਸਾਨੂੰ ਤੁਹਾਡੇ ਈਮੇਲ ਪਰੋਵਾਇਡਰ ਨਾਲ ਸੰਚਾਰ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ, ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ!"
+
+#~ msgid "Provisioning with Identity Provider"
+#~ msgstr "ਪਛਾਣ ਪਰੋਵਾਇਡਰ ਨਾਲ ਪਰਬੰਧ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Provisioning Unsupported Identity Provider"
+#~ msgstr "ਗ਼ੈਰ-ਸਹਾਇਕ ਪਛਾਣ ਪਰੋਵਾਇਡਰ ਨਾਲ ਪਰਬੰਧ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid ""
+#~ "Unfortunately, the email address provided cannot act as a Primary "
+#~ "Identity Provider"
+#~ msgstr "ਅਫਸੋਸ ਦਿੱਤਾ ਗਿਆ ਈਮੇਲ ਐਡਰੈਸ ਪ੍ਰਾਇਮਰੀ ਪਛਾਣ ਪਰੋਵਾਇਡਰ ਵਜੋਂ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
+
+#~ msgid "Registration Failed"
+#~ msgstr "ਰਜਿਸਟੇਸ਼ਨ ਫੇਲ੍ਹ ਹੋਈ"
+
+#~ msgid "Establishing Relay"
+#~ msgstr "ਮੁੜ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Relay frame could not be found"
+#~ msgstr "ਮੁੜ-ਸ਼ੁਰੂ ਕਰਨ ਫਰੇਮ ਨਹੀਂ ਲੱਭਿਆ ਜਾ ਸਕਿਆ"
+
+#~ msgid "Signin Failed"
+#~ msgstr "ਸਾਇਨ-ਇਨ ਫੇਲ੍ਹ ਹੈ"
+
+#~ msgid "Signup Failed"
+#~ msgstr "ਸਾਈਨ ਅੱਪ ਫੇਲ੍ਹ ਹੈ"
+
+#~ msgid "Syncing Address"
+#~ msgstr "ਐਡਰੈਸ ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "ਈਮੇਲ ਐਡਰੈਸ ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "ਐਡਰੈਸ ਲਈ ਸਿੰਕ ਕੁੰਜੀਆਂ"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "ਟੋਕਨ ਜਾਣਕਾਰੀ ਲਈ ਜਾ ਰਹੀ ਹੈ"
+
+#~ msgid "Updating password"
+#~ msgstr "ਪਾਸਵਰਡ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"

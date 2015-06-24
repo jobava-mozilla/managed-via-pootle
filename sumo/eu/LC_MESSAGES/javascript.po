@@ -1,0 +1,353 @@
+# Julen Ruiz Aizpuru <julenx@gmail.com>, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2011-02-14 16:47+0200\n"
+"Last-Translator: Julen Ruiz Aizpuru <julenx@gmail.com>\n"
+"Language-Team: librezale@librezale.org\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.0-beta4\n"
+"X-Project-Style: default\n"
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Errorea gertatu da aurrebista sortzean."
+
+#, fuzzy
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Errorea gertatu da aurrebista sortzean."
+
+#~ msgid "You replied"
+#~ msgstr "Zuk erantzun duzu"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Zuk eta beste batek erantzun du"
+
+#~ msgid "Cancel"
+#~ msgstr "Utzi"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Irudi-eranskina"
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Irudi baliogabea. Hautatu baliozko irudi-fitxategi bat mesedez."
+
+#, fuzzy
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Irudi baliogabea. Hautatu baliozko irudi-fitxategi bat mesedez."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Igotzea utzi egin da. Hautatu irudi-fitxategia."
+
+#, fuzzy
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Igotzea utzi egin da. Hautatu irudi-fitxategia."
+
+#~ msgid "Delete this image"
+#~ msgstr "Ezabatu irudi hau"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "\"%s\" igotzen..."
+
+#, fuzzy
+#~ msgid "Loading..."
+#~ msgstr "\"%s\" igotzen..."
+
+#, fuzzy
+#~ msgid "Error loading graph"
+#~ msgstr "Errorea irudia igotzean"
+
+#, fuzzy
+#~ msgid "Support Forum"
+#~ msgstr "Euskarri-artikulua:"
+
+#~ msgid "Bold"
+#~ msgstr "Lodia"
+
+#~ msgid "bold text"
+#~ msgstr "testu lodia"
+
+#~ msgid "Italic"
+#~ msgstr "Etzana"
+
+#~ msgid "italic text"
+#~ msgstr "testu etzana"
+
+#~ msgid "Numbered List"
+#~ msgstr "Zenbakidun zerrenda"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Zenbakidun zerrendako elementua"
+
+#~ msgid "Bulleted List"
+#~ msgstr "Buletdun zerrenda"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "Bulletdun zerrendako elementua"
+
+#~ msgid "Heading 1"
+#~ msgstr "1. goiburua"
+
+#~ msgid "Heading 2"
+#~ msgstr "2. goiburua"
+
+#~ msgid "Heading 3"
+#~ msgstr "3. goiburua"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Txertatu lotura..."
+
+#~ msgid "link text"
+#~ msgstr "loturaren testua"
+
+#~ msgid "Link text:"
+#~ msgstr "Loturaren testua:"
+
+#~ msgid "Link target:"
+#~ msgstr "Loturaren helburua:"
+
+#~ msgid "Support article:"
+#~ msgstr "Euskarri-artikulua:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Idatzi artikuluaren izena"
+
+#~ msgid "External link:"
+#~ msgstr "Kanpo-lotura:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Idatzi kanpo-loturaren URLa"
+
+#~ msgid "Insert Link"
+#~ msgstr "Txertatu lotura"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Ezagutza-baseko artikulua"
+
+#~ msgid "Insert media..."
+#~ msgstr "Txertatu media..."
+
+#~ msgid "media"
+#~ msgstr "media"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Bilatu galerian"
+
+#~ msgid "Show:"
+#~ msgstr "Erakutsi:"
+
+#~ msgid "Images"
+#~ msgstr "Irudiak"
+
+#~ msgid "Videos"
+#~ msgstr "Bideoak"
+
+#, fuzzy
+#~ msgid "Show media for:"
+#~ msgstr "Erakutsi honentzat..."
+
+#~ msgid "Insert Media"
+#~ msgstr "Txertatu media"
+
+#~ msgid "Upload Media"
+#~ msgstr "Igo media"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Hautatu txertatzeko irudi edo bideoa."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Ene, errorea gertatu da."
+
+#, fuzzy
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "Hautatu txertatzeko irudi edo bideoa."
+
+#, fuzzy
+#~ msgid "Insert Response"
+#~ msgstr "Txertatu lotura"
+
+#, fuzzy
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "Errorea gertatu da ilara egiaztatzean."
+
+#~ msgid "There was an error."
+#~ msgstr "Errorea gertatu da."
+
+#, fuzzy
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Errorea gertatu da aurrebista sortzean."
+
+#~ msgid "Error uploading image"
+#~ msgstr "Errorea irudia igotzean"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Errorea irudia ezabatzean"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Egiaztatu saioa hasi duzula eta saiatu berriro."
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Izenburu hau duen dokumentu bat badago hizkuntza honetan."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "Slug hau duen dokumentu bat badago hizkuntza honetan."
+
+#~ msgid "Show for..."
+#~ msgstr "Erakutsi honentzat..."
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "Erakutsi edukia Firefoxen edo sistema eragileen bertsio jakinetarako soilik."
+
+#~ msgid "Add Rule"
+#~ msgstr "Gehitu araua"
+
+#, fuzzy
+#~ msgid "Installing..."
+#~ msgstr "\"%s\" igotzen..."
+
+#~ msgid "[missing header]"
+#~ msgstr "[goiburua falta da]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Aurkibidea"
+
+#, fuzzy
+#~ msgid "Insert a canned response..."
+#~ msgstr "Txertatu lotura..."
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "Bideo baliogabea. Hautatu baliozko bideo-fitxategi bat mesedez (%s)."
+
+#, fuzzy
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "Igotzea utzi egin da. Hautatu irudi-fitxategia."
+
+#, fuzzy
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "Igotzea utzi egin da. Hautatu irudi-fitxategia."
+
+#, fuzzy
+#~ msgid "Delete FLV video"
+#~ msgstr "Ezabatu bideo hau (%s)"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "Bideo baliogabea. Hautatu baliozko bideo-fitxategi bat mesedez (%s)."
+
+#, fuzzy
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "Igotzea utzi egin da. Hautatu irudi-fitxategia."
+
+#, fuzzy
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "Igotzea utzi egin da. Hautatu irudi-fitxategia."
+
+#, fuzzy
+#~ msgid "Delete OGV video"
+#~ msgstr "Ezabatu bideo hau (%s)"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "Bideo baliogabea. Hautatu baliozko bideo-fitxategi bat mesedez (%s)."
+
+#, fuzzy
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "Igotzea utzi egin da. Hautatu irudi-fitxategia."
+
+#, fuzzy
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "Igotzea utzi egin da. Hautatu irudi-fitxategia."
+
+#, fuzzy
+#~ msgid "Delete WebM video"
+#~ msgstr "Ezabatu bideo hau (%s)"
+
+#, fuzzy
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "Errorea irudia igotzean"
+
+#~ msgid "We're open!"
+#~ msgstr "Irekita gaude!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Gure bolondresak laguntzeko prest daude."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Laguntzaileak online:"
+
+#~ msgid "Users waiting: "
+#~ msgstr "Erabiltzaileak zain:"
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Aurreikusitako itxarote-denbora:"
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Hasi zuzeneko txat saioa."
+
+#~ msgid "The queue is full."
+#~ msgstr "Ilara beteta dago."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Gure bolondresak lanpetuta daude beste erabiltzaileak laguntzen."
+
+#~ msgid "We're closed."
+#~ msgstr "Itxita gaude."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "Zuzeneko txata une honetan itxita dago."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "Errorea gertatu da ilara egiaztatzean."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Bi minutu baino gutxiago"
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "20 minutu baino gehiago."
+
+#, fuzzy
+#~ msgid "Number of Votes"
+#~ msgstr "Aurkibidea"
+
+#~ msgid "%s%"
+#~ msgstr "%%s"
+
+#~ msgid "Report this post"
+#~ msgstr "Markatu bidalketa hau"
+
+#, fuzzy
+#~ msgid "Search: "
+#~ msgstr "Bilatu galerian"
+
+#, fuzzy
+#~ msgid "Report this Article"
+#~ msgstr "Markatu bidalketa hau"
+
+#~ msgid "Article Link"
+#~ msgstr "Artikuluaren lotura"
+
+#~ msgid "External Link"
+#~ msgstr "Kanpo-lotura"
+
+#~ msgid "external link"
+#~ msgstr "kanpo-lotura"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Bideo baliogabea. Hautatu baliozko bideo-fitxategi bat mesedez (%s)."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Igotzea utzi egin da. Hautatu bideo-fitxategia (%s)."
+
+#~ msgid "Delete %s file"
+#~ msgstr "Ezabatu %s fitxategia"
+
+#, fuzzy
+#~ msgid "There was an error :(."
+#~ msgstr "Errorea gertatu da."

@@ -1,0 +1,93 @@
+<!-- INCLUDE overall_header.html -->
+
+<script type="text/javascript">
+// <![CDATA[
+	/**
+	* Change language
+	*/
+	function change_language(lang_iso)
+	{
+		document.forms['register'].change_lang.value = lang_iso;
+		document.forms['register'].submit.click();
+	}
+
+	<!-- IF CAPTCHA_TEMPLATE and S_CONFIRM_REFRESH -->
+	onload_functions.push('apply_onkeypress_event()');
+	<!-- ENDIF -->
+
+// ]]>
+</script>
+
+<form method="post" action="{S_UCP_ACTION}" id="register" class="panel user-input">
+	<h2 class="page-title">{SITENAME} - {L_REGISTRATION}</h2>
+
+	<fieldset>
+	<!-- IF ERROR --><p class="error">{ERROR}</p><!-- ENDIF -->
+	<!-- IF L_REG_COND --><p><strong>{L_REG_COND}</strong></p><!-- ENDIF -->
+    <ol>
+    	<li>
+    		<label for="username">{L_USERNAME} <span class="note">{L_USERNAME_EXPLAIN}</span></label>
+    		<input type="text" tabindex="1" name="username" id="username" size="25" value="{USERNAME}" class="inputbox autowidth" title="{L_USERNAME}" />
+    	</li>
+    	<li>
+    		<label for="email">{L_EMAIL_ADDRESS}</label>
+    		<input type="text" tabindex="2" name="email" id="email" size="25" maxlength="100" value="{EMAIL}" class="inputbox autowidth" title="{L_EMAIL_ADDRESS}" />
+    	</li>
+    	<li>
+    		<label for="email_confirm">{L_CONFIRM_EMAIL}</label>
+    		<input type="text" tabindex="3" name="email_confirm" id="email_confirm" size="25" maxlength="100" value="{EMAIL_CONFIRM}" class="inputbox autowidth" title="{L_CONFIRM_EMAIL}" />
+    	</li>
+    	<li>
+    		<label for="new_password">{L_PASSWORD} <span class="note">{L_PASSWORD_EXPLAIN}</span></label>
+    		<input type="password" tabindex="4" name="new_password" id="new_password" size="25" value="{PASSWORD}" class="inputbox autowidth" title="{L_NEW_PASSWORD}" />
+    	</li>
+    	<li>
+    		<label for="password_confirm">{L_CONFIRM_PASSWORD}</label>
+    		<input type="password" tabindex="5" name="password_confirm" id="password_confirm" size="25" value="{PASSWORD_CONFIRM}" class="inputbox autowidth" title="{L_CONFIRM_PASSWORD}" />
+    	</li>
+    </ol>
+
+    <ol>
+    	<li>
+    		<label for="lang">{L_LANGUAGE}</label>
+    		<select name="lang" id="lang" onchange="change_language(this.value); return false;" tabindex="6" title="{L_LANGUAGE}">{S_LANG_OPTIONS}</select>
+    	</li>
+    	<li>
+    		<label for="tz">{L_TIMEZONE}</label>
+    		<select name="tz" id="tz" tabindex="7" class="autowidth">{S_TZ_OPTIONS}</select>
+    	</li>
+    
+    <!-- IF .profile_fields -->
+      <li><strong>{L_ITEMS_REQUIRED}</strong></li>
+    	<!-- BEGIN profile_fields -->
+    	<li>
+    		<label<!-- IF profile_fields.FIELD_ID --> for="{profile_fields.FIELD_ID}"<!-- ENDIF -->>{profile_fields.LANG_NAME}<!-- IF profile_fields.S_REQUIRED --> <abbr class="req" title="requried">*</abbr><!-- ENDIF -->
+    		<!-- IF profile_fields.LANG_EXPLAIN --><span class="note">{profile_fields.LANG_EXPLAIN}</span><!-- ENDIF -->
+    		<!-- IF profile_fields.ERROR --><span class="note error">{profile_fields.ERROR}</span><!-- ENDIF --></label>
+    		{profile_fields.FIELD}
+    	</li>
+    	<!-- END profile_fields -->
+    <!-- ENDIF -->
+    </ol>
+	</fieldset>
+
+<!-- IF CAPTCHA_TEMPLATE -->
+	<!-- DEFINE $CAPTCHA_TAB_INDEX = 8 -->
+	<!-- INCLUDE {CAPTCHA_TEMPLATE} -->
+<!-- ENDIF -->
+
+<!-- IF S_COPPA -->
+	<h4>{L_COPPA_COMPLIANCE}</h4>
+	<p>{L_COPPA_EXPLAIN}</p>
+<!-- ENDIF -->
+
+	<fieldset class="submit-buttons">
+		{S_HIDDEN_FIELDS}
+		<input type="submit" tabindex="9" name="submit" id="submit" value="{L_SUBMIT}" class="button1 positive default-submit-action" />&nbsp;
+		<input type="reset" value="{L_RESET}" name="reset" class="button2" />
+		{S_FORM_TOKEN}
+	</fieldset>
+
+</form>
+
+<!-- INCLUDE overall_footer.html -->

@@ -1,0 +1,2562 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 18:40+0000\n"
+"PO-Revision-Date: 2015-01-14 08:00:55\n"
+"Last-Translator: Selim <selim@sum.lu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 0.9.5\n"
+"X-Generator: Pontoon\n"
+
+#. This acts as a placeholder/label for a form selection
+#: affiliates/banners/forms.py:21
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:36
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:45
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:54
+#: affiliates/base/forms.py:22
+msgid "-- select --"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/banners.html:12
+#: affiliates/banners/templates/banners/generator/banners.html:20
+msgid "Choose a Banner"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/categories.html:12
+#: affiliates/banners/templates/banners/generator/categories.html:20
+msgid "Choose a Category"
+msgstr ""
+
+#. The "Category" step is when you pick a category to see a list of banners
+#. within it.
+#: affiliates/banners/templates/banners/generator/macros.html:8
+#: affiliates/banners/templates/banners/generator/macros.html:10
+msgid "Category"
+msgstr ""
+
+#. The "Choose" step is when you choose a banner to use.
+#: affiliates/banners/templates/banners/generator/macros.html:17
+#: affiliates/banners/templates/banners/generator/macros.html:19
+#: affiliates/banners/templates/banners/generator/macros.html:21
+msgid "Choose"
+msgstr ""
+
+#. The "Configure" step is when you select a specific variation of a banner.
+#: affiliates/banners/templates/banners/generator/macros.html:28
+#: affiliates/banners/templates/banners/generator/macros.html:30
+#: affiliates/banners/templates/banners/generator/macros.html:32
+msgid "Configure"
+msgstr ""
+
+#. The "Embed" step is when you copy HTML code to put in your webpage to embed
+#. the banner.
+#: affiliates/banners/templates/banners/generator/macros.html:39
+#: affiliates/banners/templates/banners/generator/macros.html:41
+msgid "Embed"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/macros.html:50
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+#: affiliates/base/templates/base/about.html:119
+#: affiliates/base/templates/base/dashboard.html:100
+msgid "What are smart banners?"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/macros.html:52
+#: affiliates/base/templates/base/about.html:122
+#: affiliates/base/templates/base/dashboard.html:102
+msgid ""
+"Smart Banners show visitors slightly different messages depending on their "
+"browser. For example, visitors on an older version of Firefox would be "
+"encouraged to upgrade, while visitors on Internet Explorer would be "
+"encouraged to switch."
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:12
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:25
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:14
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:22
+msgid "Configure Your Banner"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:33
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:29
+msgid "Language"
+msgstr "Dil"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:42
+msgid "Size"
+msgstr "Boyut"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:51
+msgid "Color"
+msgstr "Renk"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:68
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:38
+#: affiliates/facebook/templates/facebook/banner_create.html:68
+#: affiliates/users/templates/users/profile.html:39
+msgid "Save"
+msgstr "Kaydet"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:7
+msgid "Up to date Firefox and other browsers"
+msgstr ""
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:12
+#, fuzzy
+msgid "Out of date Firefox"
+msgstr "Firefox Hakkında"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:6
+msgid "No preview available."
+msgstr ""
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:10
+#, fuzzy
+msgid "Text banner"
+msgstr "Mevcut banner'lar"
+
+#. Smart refers to a type of banner that changes the image depending on the
+#. user's Firefox version.
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+msgid "Smart"
+msgstr ""
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: affiliates/base/forms.py:18 affiliates/base/templates/base/base.html:126
+#: affiliates/facebook/forms.py:200
+msgid "Text"
+msgstr "Metin"
+
+#: affiliates/base/milestones.py:21
+#, fuzzy
+msgid "Almost {0} clicks!"
+msgstr "Toplam tıklama"
+
+#: affiliates/base/milestones.py:22
+msgid "Drove {0} clicks!"
+msgstr ""
+
+#: affiliates/base/milestones.py:23
+msgid "Drove {0} clicks. That's {1} clicks away from the next milestone!"
+msgstr ""
+
+#: affiliates/base/milestones.py:25
+msgid "Driven {0} clicks in total!"
+msgstr ""
+
+#: affiliates/base/milestones.py:26
+msgid "Drive {0} clicks!"
+msgstr ""
+
+#: affiliates/base/milestones.py:29
+msgid "Almost {0} downloads!"
+msgstr ""
+
+#: affiliates/base/milestones.py:30
+msgid "Drove {0} downloads!"
+msgstr ""
+
+#: affiliates/base/milestones.py:31
+msgid ""
+"Drove {0} downloads. That's {1} downloads away from the next milestone!"
+msgstr ""
+
+#: affiliates/base/milestones.py:33
+msgid "Driven {0} downloads in total!"
+msgstr ""
+
+#: affiliates/base/milestones.py:34
+msgid "Drive {0} downloads!"
+msgstr ""
+
+#: affiliates/base/milestones.py:37
+#, fuzzy
+msgid "Create a banner!"
+msgstr "Yeni banner oluştur"
+
+#: affiliates/base/milestones.py:38
+msgid "Almost {0} banners created!"
+msgstr ""
+
+#: affiliates/base/milestones.py:39
+#, fuzzy
+msgid "Created {0} banners!"
+msgstr "Yeni banner oluştur"
+
+#: affiliates/base/milestones.py:40
+#, fuzzy
+msgid "Created a banner."
+msgstr "Yeni banner oluştur"
+
+#: affiliates/base/milestones.py:43
+#, fuzzy
+msgid "Create a text link!"
+msgstr "Yeni banner oluştur"
+
+#: affiliates/base/milestones.py:44
+msgid "Almost {0} text links created!"
+msgstr ""
+
+#: affiliates/base/milestones.py:45
+msgid "Created {0} text links!"
+msgstr ""
+
+#: affiliates/base/milestones.py:46
+#, fuzzy
+msgid "Created a text link."
+msgstr "Yeni banner oluştur"
+
+#: affiliates/base/templates/404.html:5 affiliates/base/templates/404.html:11
+msgid "Page not found"
+msgstr ""
+
+#: affiliates/base/templates/404.html:13
+msgid "Sorry, but we couldn’t find the page you’re looking for."
+msgstr ""
+
+#: affiliates/base/templates/500.html:5
+msgid "Server error"
+msgstr ""
+
+#: affiliates/base/templates/500.html:11
+msgid "D’oh! Something went wrong!"
+msgstr ""
+
+#: affiliates/base/templates/500.html:13
+msgid ""
+"Sorry, but something went wrong on our end and we couldn’t process your "
+"request. Please try again in a few minutes."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:6
+#: affiliates/base/templates/base/base.html:73
+msgid "About"
+msgstr "Hakkında"
+
+#: affiliates/base/templates/base/about.html:13
+#, fuzzy
+msgid "About Firefox Affiliates"
+msgstr "Firefox Kardeşleri"
+
+#: affiliates/base/templates/base/about.html:16
+#: affiliates/base/templates/base/about.html:46
+#, fuzzy
+msgid ""
+"Firefox Affiliate buttons are bits of HTML code that you put on your website"
+" or blog to encourage visitors to download Firefox. When someone clicks a "
+"button on your site and visits the Firefox download page, you get credit for"
+" that click."
+msgstr ""
+"Firefox Kardeşi düğmeleri, ziyaretçilerinizi Firefox'u indirmeye davet etmek"
+" için web sitenize veya blog'unuza ekleyebileceğiniz küçük HTML kodlarıdır. "
+"Ziyaretçiniz sitenizdeki düğmeye tıkladığında ve Firefox indirme sayfasını "
+"ziyaret ettiğinde hesabınıza puan işlenir."
+
+#: affiliates/base/templates/base/about.html:25
+#: affiliates/base/templates/base/about.html:55
+#, fuzzy
+msgid ""
+"Affiliates who get a lot of clicks will be featured on our leaderboard and "
+"be eligible for rewards, like Firefox T-shirts. While we do send out prizes "
+"and gifts to our affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox buttons."
+msgstr ""
+"Siteleri üzerinden çok sayıda tıklama alan Kardeşler lider listemize girer "
+"ve Firefox tişörtleri gibi eğlenceli hediyeleri edinmeye hak kazanırlar. "
+"Kardeşlerimize zaman zaman ödüller ve hediyeler gönderiyoruz, ama Firefox "
+"Kardeşleri'ne desteğinizin parasal bir getirisi yoktur."
+
+#: affiliates/base/templates/base/about.html:39
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:41
+#, fuzzy
+msgid "Using Affiliate buttons"
+msgstr "Kardeşlik Düğmelerinin Kullanımı"
+
+#: affiliates/base/templates/base/about.html:43
+msgid "How do affiliate buttons work?"
+msgstr "Kardeşilk düğmeleri nasıl çalışır?"
+
+#: affiliates/base/templates/base/about.html:65
+msgid "How do I add an affiliate button to my website?"
+msgstr "Web siteme nasıl kardeşlik düğmesi ekleyebilirim?"
+
+#: affiliates/base/templates/base/about.html:68
+#, fuzzy
+msgid ""
+"It’s super easy! To start, choose a button and select the Firefox product or"
+" campaign you’d like to support. From there, simply pick your button’s "
+"style, shape and color, and then copy and paste the code into the HTML of "
+"your site. Done! Your unique affiliate ID will be in the code to make sure "
+"you get credit for every click you send our way."
+msgstr ""
+"Çok kolay! Düğme seçiciyle başlayın, desteklemek istediğiniz Firefox ürününü"
+" veya kampanyasını seçin, düğme stilinizi seçin, şekil ve rengini "
+"belirleyin, oluşan kodu sitenizin HTML kodlarına yapıştırın. "
+"Yönlendirdiğiniz her tıklama için puan almanızı sağlayan kardeş numaranız da"
+" bu kodun içinde olacaktır."
+
+#: affiliates/base/templates/base/about.html:79
+msgid "How do I remove an affiliate button from my website?"
+msgstr "Kardeşlik düğmesini web sitemden nasıl kaldırabilirim?"
+
+#: affiliates/base/templates/base/about.html:82
+msgid ""
+"This is also easy. Simply delete the code. If you want to put it back in "
+"again, just copy and paste it from the button picker."
+msgstr ""
+"O da kolay. Kodu silmeniz yeterli. Geri getirmek isterseniz düğme seçiciden "
+"kodu tekrar kopyalayıp yapıştırabilirsiniz."
+
+#: affiliates/base/templates/base/about.html:89
+#, fuzzy
+msgid "How do text links work?"
+msgstr "Kardeşilk düğmeleri nasıl çalışır?"
+
+#: affiliates/base/templates/base/about.html:92
+#, fuzzy
+msgid ""
+"Text links work very much like banners. You start by choosing the Firefox "
+"product or campaign you’d like to support, then select the text link you’d "
+"like to use. Copy and paste the link code into the HTML of your site, onto "
+"your email signature, or anywhere else you’d like to have it appear. Your "
+"unique affiliate ID will be in the code to make sure you get credit for "
+"every click you send our way."
+msgstr ""
+"Çok kolay! Düğme seçiciyle başlayın, desteklemek istediğiniz Firefox ürününü"
+" veya kampanyasını seçin, düğme stilinizi seçin, şekil ve rengini "
+"belirleyin, oluşan kodu sitenizin HTML kodlarına yapıştırın. "
+"Yönlendirdiğiniz her tıklama için puan almanızı sağlayan kardeş numaranız da"
+" bu kodun içinde olacaktır."
+
+#: affiliates/base/templates/base/about.html:104
+msgid "What happens when an affiliate button for a campaign is deactivated?"
+msgstr "Bir kampanyanın kardeşlik düğmesi pasifleştirilirse ne olur?"
+
+#: affiliates/base/templates/base/about.html:107
+#, fuzzy
+msgid ""
+"Sometimes we run special time-limited campaigns to encourage people to "
+"download Firefox. If you’re using an affiliate button for one of these "
+"campaigns, try to update your button as soon as you can. People who click on"
+" that button will be directed to a general Firefox download page. You’ll get"
+" credit for the click as an Affiliate, but you may not get credit for clicks"
+" for that specific campaign."
+msgstr ""
+"Bazen insanları Firefox'u indirmeye davet etmek için zaman sınırlı özel "
+"kampanyalar düzenleyebiliriz. Bu kampanyalardan birine ait bir kardeşlik "
+"düğmesi kullanıyorsanız, düğmeyi en kısa sürede güncellemeye çalışın. Bu "
+"düğmeye tıklayan kişiler genel bir Firefox indirme sayfasına "
+"yönlendirilecektir. Tıklama puanı alacaksınız ama o kampanya için puan "
+"alamayabilirsiniz."
+
+#: affiliates/base/templates/base/about.html:132
+#, fuzzy
+msgid "Leaderboard and user statistics"
+msgstr "Lider Listesi ve Kullanıcı İstatistikleri"
+
+#: affiliates/base/templates/base/about.html:134
+msgid "How often do leaderboard statistics update?"
+msgstr "Lider listesi istatistikleri ne sıklıkta güncellenir?"
+
+#: affiliates/base/templates/base/about.html:137
+#, fuzzy
+msgid ""
+"Leaderboard stats update every night at midnight Pacific Time. No need to "
+"keep hitting refresh over and over again to see how you’re doing. Just check"
+" in the next day to see your progress."
+msgstr ""
+"Lider Listeleri her gün Türkiye saatiyle 9.00'da güncellenir. Nasıl "
+"gittiğinizi görmek için sayfayı tazelemeniz gereksizdir. İlerlemelerinizi "
+"görmek için ertesi gün yeniden sayfayı kontrol etmeniz yeterlidir."
+
+#: affiliates/base/templates/base/about.html:145
+#: affiliates/facebook/templates/facebook/faq.html:177
+msgid "Is there a prize for getting the most Firefox clicks?"
+msgstr "En çok Firefox tıklamasına bir ödül var mı?"
+
+#: affiliates/base/templates/base/about.html:147
+#, fuzzy
+msgid ""
+"From time to time we will be sending out T-shirts and other prizes. In "
+"future versions of Firefox Affiliates we will have a rewards program and "
+"more opportunities to participate in affiliate challenges."
+msgstr ""
+"Zaman zaman tişörtler ve başka hediyeler yolluyoruz. Kardeşler'in ileriki "
+"sürümlerinde ödül programımız ve kardeşlik yarışmalarına yönelik başka "
+"imkanlar da olacaktır."
+
+#: affiliates/base/templates/base/about.html:156
+#: affiliates/facebook/templates/facebook/faq.html:194
+msgid "I think my click statistics are wrong. Is there any way to fix them?"
+msgstr ""
+"Tıklama istatistiklerimin hatalı olduğunu düşünüyorum. Onları düzeltmenin "
+"bir yolu var mı?"
+
+#: affiliates/base/templates/base/about.html:159
+#, fuzzy
+msgid ""
+"If you think there is an error with your click statistics, drop us a note at"
+" <a href=\"%(email)s\">affiliates@mozilla.org</a> and we’ll do our best to "
+"help you out."
+msgstr ""
+"Tıklama istatistikleriyle ilgili bir hata olduğunu düşünüyorsanız <a "
+"href=\"mailto:%(email)s\">%(email)s</a> adresine bildirin, yardımcı olmak "
+"için elimizden geleni yapalım."
+
+#: affiliates/base/templates/base/about.html:169
+#, fuzzy
+msgid "My profile"
+msgstr "Profilim"
+
+#: affiliates/base/templates/base/about.html:171
+msgid "How do I update my personal profile information?"
+msgstr "Kişisel profil bilgilerimi nasıl güncelleyebilirim?"
+
+#: affiliates/base/templates/base/about.html:174
+#, fuzzy
+msgid ""
+"Moved? Changed your name? Grew a moustache? Just visit your profile page and"
+" click on the edit profile link at the top."
+msgstr ""
+"Taşındınız mı? İsminiz mi değişti? Sitenin sağ üst köşesindeki \"profil "
+"düzenle\" düğmesine tıklamanız yeterli."
+
+#: affiliates/base/templates/base/about.html:178
+#: affiliates/users/templates/users/profile.html:44
+msgid ""
+"You can update your avatar picture at <a "
+"href=\"%(gravatar)s\">gravatar.com</a>."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:184
+msgid "How will you contact me if I win a prize?"
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:187
+msgid ""
+"If you qualify for an affiliates prize you will be notified that you have "
+"won via the email account in your affiliates profile."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:196
+#, fuzzy
+msgid "Getting involved With Firefox Affiliates"
+msgstr "Firefox Kardeşleri ile İletişim"
+
+#: affiliates/base/templates/base/about.html:198
+msgid "I have an idea of a button. How can I share it?"
+msgstr "Bir düğme hakkında fikrim var. Nasıl paylaşabilirim?"
+
+#: affiliates/base/templates/base/about.html:201
+#, fuzzy
+msgid ""
+"Mozilla and Firefox are all about community. If you have an idea, we want to"
+" hear it. Send us a note at <a href=\"%(email)s\">affiliates@mozilla.org</a>"
+" and tell us your amazing idea for the program."
+msgstr ""
+"Mozilla ve Firefox'ta topluluk her şeydir. Fikriniz ne olursa olsun onu "
+"duymak isteriz. Programla ilgili şahane fikirlerinizi bize <a "
+"href=\"mailto:%(email)s\">%(email)s</a> adresinden ulaştırabilirsiniz."
+
+#: affiliates/base/templates/base/about.html:210
+msgid "Can I build my own button?"
+msgstr "Kendi düğmemi oluşturabilir miyim?"
+
+#: affiliates/base/templates/base/about.html:213
+#, fuzzy
+msgid ""
+"Not yet… but soon. We're working on a way to make it easy for people to "
+"create their own Firefox buttons in their language. Look for this in future "
+"versions of Firefox Affiliates."
+msgstr ""
+"Henüz değil... ama yakında o da olacak. Herkesin kolayca kendi dilinde "
+"Firefox düğmeleri oluşturabilmesi üzerinde çalışıyoruz. Firefox "
+"Kardeşleri'nin ileriki sürümlerini bekleyin."
+
+#: affiliates/base/templates/base/about.html:221
+msgid "I want to help make Firefox Affiliates better. How can I get involved?"
+msgstr ""
+"Firefox Kardeşleri'ni daha iyi yapabilmek için yardım etmek istiyorum. Ne "
+"yapabilirim?"
+
+#: affiliates/base/templates/base/about.html:224
+#, fuzzy
+msgid ""
+"If you’d like to help out with the affiliates program, contact us at <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>. We’d love your help with "
+"everything from coding to marketing."
+msgstr ""
+"Eğer Kardeşlik programına yardım etmek istiyorsanız bize <a "
+"href=\"mailto:%(email)s\">%(email)s</a> adresinden ulaşın. Yardımınıza çok "
+"seviniriz!"
+
+#: affiliates/base/templates/base/base.html:12
+#: affiliates/base/templates/base/base.html:15
+#: affiliates/base/templates/base/base.html:21
+#: affiliates/base/templates/base/base.html:65
+#: affiliates/base/templates/base/home.html:15
+#: affiliates/facebook/templates/facebook/base.html:15
+#: affiliates/settings/base.py:152
+msgid "Firefox Affiliates"
+msgstr "Firefox Kardeşleri"
+
+#: affiliates/base/templates/base/base.html:49
+msgid "Close"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:50
+msgid "This field is required."
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:51
+msgid "Thanks for subscribing!"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:52
+#, fuzzy
+msgid "Sorry, there was an error. Please refresh and try again."
+msgstr "Yetkinlendirme sırasında hata oluştu. Lütfen tekrar deneyin."
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/base.html:60
+#: affiliates/base/templates/base/base.html:170
+#: affiliates/base/templates/base/strings.html:32
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: affiliates/base/templates/base/base.html:71
+msgid "Menu"
+msgstr ""
+
+#. clicks on their banners.
+#: affiliates/base/templates/base/base.html:74
+#: affiliates/facebook/templates/facebook/base.html:45
+msgid "Leaderboard"
+msgstr "Lider Listesi"
+
+#: affiliates/base/templates/base/base.html:75
+#: affiliates/statistics/templates/statistics/index.html:3
+#: affiliates/statistics/templates/statistics/index.html:17
+msgid "Performance"
+msgstr "Performans"
+
+#: affiliates/base/templates/base/base.html:84
+#: affiliates/base/templates/base/dashboard.html:14
+#: affiliates/base/templates/base/dashboard.html:22
+#: affiliates/links/templates/links/detail.html:52
+#, fuzzy
+msgid "Dashboard"
+msgstr "Lider Listesi"
+
+#: affiliates/base/templates/base/base.html:85
+#, fuzzy
+msgid "Profile"
+msgstr "Profilim"
+
+#: affiliates/base/templates/base/base.html:86
+#, fuzzy
+msgid "Sign out"
+msgstr "Oturum aç"
+
+#: affiliates/base/templates/base/base.html:90
+msgid "Sign in"
+msgstr "Oturum aç"
+
+#: affiliates/base/templates/base/base.html:108
+#, fuzzy
+msgid "Get Firefox Affiliates News"
+msgstr "Firefox Kardeşleri takımı"
+
+#: affiliates/base/templates/base/base.html:111
+#: affiliates/facebook/forms.py:203
+#: affiliates/facebook/templates/facebook/base.html:159
+msgid "Your email address"
+msgstr "E-posta adresiniz"
+
+#: affiliates/base/templates/base/base.html:116
+msgid "Country"
+msgstr "Ülke"
+
+#: affiliates/base/templates/base/base.html:121
+msgid "Format"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:132
+msgid "HTML"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:142
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr ""
+
+#. Label used for the newsletter signup button.
+#: affiliates/base/templates/base/base.html:150
+#: affiliates/facebook/templates/facebook/base.html:180
+msgid "Sign me up!"
+msgstr "Kaydet!"
+
+#: affiliates/base/templates/base/base.html:175
+msgid ""
+"Portions of this content are ©1998–%(thisyear)s by individual mozilla.org "
+"contributors. Content available under a <a href=\"%(license)s\">Creative "
+"Commons license</a>."
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:182
+msgid "Source code"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:187
+msgid "Contact Us"
+msgstr "Bize Ulaşın"
+
+#: affiliates/base/templates/base/base.html:188
+#, fuzzy
+msgid "Partner with Us"
+msgstr "Ortaklıklar"
+
+#: affiliates/base/templates/base/base.html:189
+msgid "Donate"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:190
+msgid "Privacy Policy"
+msgstr "Gizlilik İlkeleri"
+
+#: affiliates/base/templates/base/base.html:191
+msgid "Legal Notices"
+msgstr "Yasal Uyarılar"
+
+#: affiliates/base/templates/base/base.html:192
+msgid "Report Trademark Abuse"
+msgstr "Telif Hakkı İhlali Bildir"
+
+#: affiliates/base/templates/base/base.html:196
+#, fuzzy
+msgid "Mozilla on Twitter"
+msgstr "Mozilla Firefox"
+
+#: affiliates/base/templates/base/base.html:197
+#, fuzzy
+msgid "Firefox on Twitter"
+msgstr "Twitter'da paylaş &raquo;"
+
+#: affiliates/base/templates/base/base.html:198
+#, fuzzy
+msgid "Mozilla on Facebook"
+msgstr "Firefox Kardeşleri"
+
+#: affiliates/base/templates/base/base.html:199
+#, fuzzy
+msgid "Firefox on Facebook"
+msgstr "Firefox Kardeşleri"
+
+#: affiliates/base/templates/base/dashboard.html:23
+msgid ""
+"See how your banners are performing and where you rank among other Firefox "
+"Affiliates. Thanks for supporting Firefox and the Mozilla mission to build a"
+" better Web for all!"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:26
+msgid "My stats"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:35
+#, fuzzy
+msgid "My Banners"
+msgstr "Banner'larım"
+
+#: affiliates/base/templates/base/dashboard.html:36
+#: affiliates/facebook/templates/facebook/banner_list.html:76
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:7
+msgid "Create a new banner"
+msgstr "Yeni banner oluştur"
+
+#: affiliates/base/templates/base/dashboard.html:47
+msgid "You don’t have any banners yet. Why not create one now?"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:52
+#: affiliates/base/templates/base/home.html:66
+msgid "1. Pick a banner"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:53
+#: affiliates/base/templates/base/home.html:67
+msgid ""
+"Choose from a number of designs that support Firefox and other Mozilla "
+"products."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:56
+#: affiliates/base/templates/base/home.html:70
+#, fuzzy
+msgid "2. Customize"
+msgstr "Özelleştirme"
+
+#: affiliates/base/templates/base/dashboard.html:57
+#: affiliates/base/templates/base/home.html:71
+msgid ""
+"Select the size and color that suits your site. Banners and links are also "
+"available in over 30 languages."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:60
+#: affiliates/base/templates/base/home.html:74
+msgid "3. Post to your site"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:61
+#: affiliates/base/templates/base/home.html:75
+msgid ""
+"Copy and paste the HTML or text link into your site, email or wherever you’d"
+" like to share it."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:71
+msgid "My Milestones"
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:79
+#, fuzzy
+msgid "Affiliates News"
+msgstr "Kardeş ortalaması"
+
+#: affiliates/base/templates/base/dashboard.html:84
+#, fuzzy
+msgid "Become a Mozillian"
+msgstr "Mozilla'ya Katılın"
+
+#: affiliates/base/templates/base/dashboard.html:86
+msgid ""
+"At Mozilla, doing good is part of our code. Our mission is to promote "
+"openness, innovation and opportunity on the Web, and we can only do it with "
+"awesome people like you. If you’d like to do even more to help our mission, "
+"we have volunteer opportunities available in a number of areas."
+msgstr ""
+
+#: affiliates/base/templates/base/dashboard.html:93
+msgid "Learn more"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:24
+#, fuzzy
+msgid "So long, <strong>Firefox Affiliates</strong>."
+msgstr "<span>Firefox Kardeşleri'ne</span> katıldığınız için teşekkürler!"
+
+#: affiliates/base/templates/base/home.html:25
+msgid "Hello, <strong>Firefox Friends</strong>."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:27
+msgid ""
+"We’re moving our Affiliates program to Firefox Friends, an exciting new way "
+"to share what we do with the world. At Firefox Friends you’ll have "
+"opportunities to get recognized for making an impact — plus, you’ll be in "
+"the know for all the latest Mozilla news and announcements."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:33
+msgid ""
+"At the beginning of August, new banner creation for Affiliates will be "
+"disabled, so please join us at Firefox Friends to continue sharing Mozilla "
+"with world."
+msgstr ""
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/home.html:36
+#, fuzzy
+msgid "Join Firefox Friends"
+msgstr "Firefox Eklentileri"
+
+#: affiliates/base/templates/base/home.html:38
+msgid "Click here for more information"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:49
+msgid "This site requires JavaScript."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:55
+#, fuzzy
+msgid "Become a Firefox Affiliate today!"
+msgstr "<span>Hemen Firefox</span> Kardeşi olun!"
+
+#: affiliates/base/templates/base/home.html:56
+msgid ""
+"Get everything you need to share Firefox – and the other Mozilla products "
+"you love – with the world. Climb the leaderboard to help us build a better "
+"Web."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:57
+msgid "Get started"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:63
+msgid "How it works"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:83
+msgid "Earn rewards!"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:84
+msgid ""
+"Climb the affiliates leaderboard for your chance to win awesome Firefox "
+"gear, and to get even more involved with Mozilla. The more you share, the "
+"higher you can climb."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:97
+#, fuzzy
+msgid "Top affiliates"
+msgstr "Kardeşler Hakkında"
+
+#: affiliates/base/templates/base/macros.html:49
+msgid "Someday soon!"
+msgstr ""
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:64
+msgid "<strong>%(rank)s</strong> ranking"
+msgstr ""
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:69
+msgid "Not yet ranked"
+msgstr ""
+
+#: affiliates/base/templates/base/macros.html:78
+msgid "<strong>%(count)s</strong> affiliate"
+msgid_plural "<strong>%(count)s</strong> affiliates"
+msgstr[0] ""
+
+#: affiliates/base/templates/base/macros.html:86
+msgid "<strong>%(count)s</strong> click"
+msgid_plural "<strong>%(count)s</strong> clicks"
+msgstr[0] ""
+
+#: affiliates/base/templates/base/macros.html:94
+msgid "<strong>%(count)s</strong> banner"
+msgid_plural "<strong>%(count)s</strong> banners"
+msgstr[0] ""
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:31
+msgid "Firefox"
+msgstr "Firefox"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:33
+#, fuzzy
+msgid "Firefox OS"
+msgstr "Firefox"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:38
+msgid "Mozilla Recruiting"
+msgstr "Mozilla Seni Çağırıyor"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:39
+#, fuzzy
+msgid "Firefox for Mobile"
+msgstr "Mobil aygıtlar <span>için</span> Firefox"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:40
+#, fuzzy
+msgid "Firefox for Desktop"
+msgstr "Masaüstü <span>için</span> Firefox"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:41
+msgid "Firefox Plugins"
+msgstr "Firefox Eklentileri"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:46
+msgid "Android"
+msgstr "Android"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:47
+msgid "Upgrade"
+msgstr "Yükseltme"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:48
+msgid "Download: Fast, Fun, Awesome"
+msgstr "İndir: Hızlı, Eğlenceli, Şahane"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:49
+#, fuzzy
+msgid "Work for Mozilla"
+msgstr "Mozilla <span>için</span> çalış"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:50
+msgid "Plugin Checker"
+msgstr "Yan Uygulama Denetimi"
+
+#: affiliates/base/templates/base/strings.html:51
+msgid "Download Aurora"
+msgstr "Aurora'yı indirin"
+
+#: affiliates/base/templates/base/strings.html:52
+#, fuzzy
+msgid "Aurora for Android"
+msgstr "Android <span>için</span> Aurora"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:53
+msgid "Download Beta"
+msgstr "Beta'yı indir"
+
+#. 3.6 refers to Firefox version 3.6
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:55
+msgid "3.6 Upgrade"
+msgstr "3.6 Yükseltmesi"
+
+#: affiliates/base/templates/base/strings.html:56
+msgid "Facebook Messenger for Firefox"
+msgstr "Firefox için Facebook Messenger"
+
+#: affiliates/base/templates/base/strings.html:61
+msgid "Purple"
+msgstr "Mor"
+
+# Color for badge images.
+#: affiliates/base/templates/base/strings.html:62
+msgid "Blue"
+msgstr "Mavi"
+
+#: affiliates/base/templates/base/strings.html:63
+msgid "Green"
+msgstr "Yeşil"
+
+#: affiliates/base/templates/base/strings.html:64
+msgid "Red"
+msgstr "Kırmızı"
+
+#: affiliates/base/templates/base/strings.html:65
+msgid "Orange"
+msgstr "Turuncu"
+
+#: affiliates/base/templates/base/strings.html:66
+msgid "Yellow"
+msgstr "Sarı"
+
+#: affiliates/base/templates/base/strings.html:67
+msgid "White"
+msgstr "Beyaz"
+
+#: affiliates/base/templates/base/strings.html:68
+msgid "Black"
+msgstr "Siyah"
+
+#: affiliates/base/templates/base/terms.html:6
+#: affiliates/base/templates/base/terms.html:14
+msgid "Terms of Service"
+msgstr ""
+
+#. L10n: &hellip; is an ellipses, the three dots like "I love Firefox
+#. because..."
+#: affiliates/facebook/forms.py:18
+msgid "I love Firefox because&hellip;"
+msgstr "Firefox'u seviyorum çünkü&hellip;"
+
+#: affiliates/facebook/forms.py:28
+msgid "Enter e-mail"
+msgstr "E-posta adresinizi yazın"
+
+#: affiliates/facebook/forms.py:93
+msgid ""
+"Sorry. Your message is too long. Please tell the world why you love Firefox "
+"in 90 characters or less."
+msgstr ""
+"Üzgünüz, mesajınız fazla uzun. Lütfen Firefox'u neden sevdiğinizi en fazla "
+"90 karakterle anlatın."
+
+#. L10n: Used in a dropdown that lets users filter the Leaderboard by
+#. L10n: country. Refers to the default filter, which shows all countries
+#: affiliates/facebook/forms.py:179
+msgid "All"
+msgstr "Tümü"
+
+#. Account linking lets a user associate an Affiliates account with their
+#. Facebook app account. Description is in another string. :D
+#: affiliates/facebook/managers.py:139
+#: affiliates/facebook/templates/facebook/base.html:86
+msgid "Link your Firefox Affiliates account"
+msgstr "Firefox Kardeşleri hesabınızı bağlayın"
+
+#: affiliates/facebook/models.py:313
+msgid "Way to go! You've had {0} clicks on your Firefox banner."
+msgstr "Kim tutar seni! Firefox banner'ına {0} kez tıklandı."
+
+#: affiliates/facebook/models.py:315
+msgid ""
+"Amazing! You've had {0} clicks on your Firefox banner. Thanks for spreading "
+"the word."
+msgstr ""
+"Harika! Firebox banner'ına {0} kez tıklandı. Herkese duyurduğun için "
+"teşekkürler."
+
+#: affiliates/facebook/models.py:318
+msgid ""
+"Wow! Your banner has {0} clicks! It's ready to grow up and become a Firefox "
+"ad."
+msgstr ""
+"Vay canına! Banner'ına {0} kez tıklanmış! Banner'ın büyüyüp Firefox "
+"reklamına dönüşmeye hazır."
+
+#: affiliates/facebook/models.py:320
+msgid "Congratulations! Your Firefox banner has now become a Facebook ad!"
+msgstr "Tebrikler! Firefox banner'ınız artık bir Facebook reklamı oldu!"
+
+#: affiliates/facebook/views.py:177
+msgid "Your banner has been deleted."
+msgstr "Banner'ınız silinmiştir."
+
+#: affiliates/facebook/views.py:211
+msgid "You have successfully posted a banner to your wall !"
+msgstr "Duvarınıza başarıyla bir banner gönderdiniz!"
+
+#: affiliates/facebook/views.py:303
+msgid "You have successfully sent a message to one of your friends!"
+msgstr "Arkadaşınıza başarıyla mesaj gönderdiniz!"
+
+#. Banner styles are images that will be used as the background of a banner
+#. that the user creates.
+#: affiliates/facebook/templates/facebook/banner_create.html:18
+msgid "First, choose one of the banner styles below."
+msgstr "İlk olarak aşağıdaki banner stillerinden birini seçin."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:24
+msgid "Please correct the errors in the form below."
+msgstr "Lütfen aşağıdaki formda yer alan hataları düzeltin."
+
+#. Used above a box showing what a banner will look like once it is created.
+#: affiliates/facebook/templates/facebook/banner_create.html:26
+msgid "Your banner preview"
+msgstr "Banner'ınızın ön izlemesi"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:36
+msgid "Next, tell the world why you love Firefox in 90 characters or less."
+msgstr ""
+"Ardından, en fazla 90 karakterle Firefox'u neden sevdiğinizi dünyaya "
+"anlatın."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:42
+msgid "Use my profile image"
+msgstr "Profil resmimi kullan"
+
+#. Label for a checkbox that gives us permission to use the user's banner in a
+#. paid Facebook ad.
+#: affiliates/facebook/templates/facebook/banner_create.html:46
+msgid "Feature me in a paid Facebook ad."
+msgstr "Ücretli Facebook reklamlarında bana yer verebilirsiniz."
+
+#. Used on a link that, when clicked, pops up a text bubble with an
+#. explanation of a form field.
+#: affiliates/facebook/templates/facebook/banner_create.html:49
+msgid "What does this mean?"
+msgstr "Bu ne demek?"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:52
+msgid ""
+"If you get %(click_count)s clicks or more, we would like to have permission "
+"to turn your banner into a paid ad on Facebook in your region. By checking "
+"this box you are granting us permission to use your banner in a paid "
+"Facebook ad, including your profile photo if you checked the box to include "
+"it in the banner, and the text you added to the banner. For a full "
+"description of the rights you are granting and more information, see the "
+"FAQs. Don't want to be featured in an ad? Make sure you don't opt in. If you"
+" opted in and don't want to be featured anymore, send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure your ad is "
+"removed."
+msgstr ""
+"%(click_count)s veya daha fazla tıklama alırsanız, banner'ınızı bölgenizde "
+"ücretli bir Facebook reklamına dönüştürmek için izninizi istiyoruz. Bu "
+"kutuyu işaretlerseniz banner'ınızı, banner'a eklediyseniz profil "
+"fotoğrafınızı ve banner'a eklediğiniz metni ücretli bir Facebook reklamında "
+"kullanmak için bize izin vermiş olursunuz. Bize aktardığınız hakların tam "
+"açıklaması ve daha fazla bilgi için SSS'ye bakın. Reklamlarda görünmek "
+"istemiyor musunuz? Bu kutuyu işaretlememeniz yeterli. Daha önce izin "
+"vermenize rağmen reklamınızın kaldırılmasını isterseniz <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> adresine yazabilirsiniz."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:69
+msgid "Save and Share"
+msgstr "Kaydet ve Paylaş"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:14
+msgid "Are you sure?"
+msgstr "Emin misiniz?"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:15
+msgid "These are the banners you've created so far:"
+msgstr "Şimdiye kadar oluşturduğunuz banner'lar:"
+
+#. Heading referring to when a banner was created.
+#: affiliates/facebook/templates/facebook/banner_list.html:26
+msgid "Creation date"
+msgstr "Oluşturma tarihi"
+
+#. Heading above the number of clicks a banner has received.
+#: affiliates/facebook/templates/facebook/banner_list.html:30
+msgid "Clicks"
+msgstr "Tıklama"
+
+#. Link that, when clicked, shows a dialog for posting a banner to a user's
+#. Facebook feed.
+#: affiliates/facebook/templates/facebook/banner_list.html:37
+msgid "Post to Feed"
+msgstr "Haber kaynağına gönder"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:45
+msgid "Delete"
+msgstr "Sil"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:67
+msgid "Click Goal: <span>%(count)s</span>"
+msgstr "Tıklama hedefi: <span>%(count)s</span>"
+
+#: affiliates/facebook/templates/facebook/base.html:16
+msgid "Help us share Firefox with the world."
+msgstr "Firefox'u dünyayla paylaşmamıza yardım edin."
+
+#: affiliates/facebook/templates/facebook/base.html:20
+#: affiliates/facebook/templates/facebook/base.html:148
+msgid "Invite your friends to Download Firefox!"
+msgstr "Arkadaşlarınızı Firefox'u indirmeye davet edin!"
+
+#: affiliates/facebook/templates/facebook/base.html:29
+msgid "My banners"
+msgstr "Banner'larım"
+
+#. answers to common questions about the app.
+#. FAQs is an abbreviation for Frequently Asked Questions
+#: affiliates/facebook/templates/facebook/base.html:37
+#: affiliates/facebook/templates/facebook/faq.html:13
+msgid "FAQs"
+msgstr "S.S.S.'ler"
+
+#: affiliates/facebook/templates/facebook/base.html:92
+msgid ""
+"Do you already have an account from affiliates.mozilla.org? You can link "
+"your account to this application and you'll get credit for any clicks that "
+"you drive through Facebook. To connect your account, just click here and "
+"fill in your information. We'll send you an email to confirm. If you'd like "
+"to sign up for an account, just visit <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"Zaten affiliates.mozilla.org üzerinde bir hesabınız var mı? Hesabınızı bu "
+"uygulamaya bağlayarak Facebook üzerinden aldığınız tıklamaları da "
+"saydırabilirsiniz. Hesabınızı bağlamak için buraya tıklayın ve bilgilerinizi"
+" girin. Size bir doğrulama e-postası göndereceğiz. Yeni bir hesap açmak "
+"isterseniz <a href=\"%(link)s\">affiliates.mozilla.org</a> adresini ziyaret "
+"edin."
+
+#. Label used for the account linking button.
+#: affiliates/facebook/templates/facebook/base.html:103
+msgid "Submit"
+msgstr "Gönder"
+
+#: affiliates/facebook/templates/facebook/base.html:107
+msgid "Thanks for linking your affiliates.mozilla.org account."
+msgstr "affiliates.mozilla.org hesabınızı bağladığınız için teşekkürler."
+
+#: affiliates/facebook/templates/facebook/base.html:108
+msgid ""
+"If the email address you entered has an account, you will receive a "
+"confirmation email."
+msgstr ""
+"Girdiğiniz e-posta adresinin bir hesabı varsa, bir onay e-postası "
+"alacaksınız."
+
+#: affiliates/facebook/templates/facebook/base.html:113
+msgid "Linked to <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+msgstr "<a href=\"%(link)s\">affiliates.mozilla.org</a> ile bağlandı"
+
+#: affiliates/facebook/templates/facebook/base.html:120
+msgid ""
+"This account is linked to affiliates.mozilla.org. You are credited for "
+"clicks from Facebook. You can unlink accounts by clicking below."
+msgstr ""
+"Bu hesap affiliates.mozilla.org'a bağlanmış. Facebook'tan aldığınız "
+"tıklamalar da sayılacak. Aşağıya tıklayarak hesapların bağlantısını "
+"kesebilirsiniz."
+
+#. Text on a button that lets a user unlink their Facebook and Affiliates
+#. accounts.
+#: affiliates/facebook/templates/facebook/base.html:125
+msgid "Remove %(email_address)s"
+msgstr "%(email_address)s adresini kaldır"
+
+#: affiliates/facebook/templates/facebook/base.html:134
+msgid "Your Statistics Summary"
+msgstr "İstatistik Özetiniz"
+
+#: affiliates/facebook/templates/facebook/base.html:138
+msgid ""
+"You can filter results by selecting a specific month using the calendar "
+"above."
+msgstr "Yukarıdaki takvimden bir ay seçerek sonuçları filtreleyebilirsiniz."
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/base.html:139
+#: affiliates/facebook/templates/facebook/leaderboard.html:27
+msgid "Total clicks"
+msgstr "Toplam tıklama"
+
+#: affiliates/facebook/templates/facebook/base.html:140
+msgid "Statistics are currently unavailable."
+msgstr "İstatistiklere şu an erişilemiyor."
+
+#: affiliates/facebook/templates/facebook/base.html:144
+msgid "Be a part of the Firefox movement"
+msgstr "Firefox hareketinin bir parçası olun"
+
+#: affiliates/facebook/templates/facebook/base.html:145
+msgid "It's easy!"
+msgstr "Çok kolay!"
+
+#: affiliates/facebook/templates/facebook/base.html:147
+msgid "Create your custom banner."
+msgstr "Özel banner'ınızı oluşturun."
+
+#: affiliates/facebook/templates/facebook/base.html:149
+msgid "Get clicks and you could be featured in a paid Facebook ad."
+msgstr "Tıklama toplayarak ücretli bir Facebook reklamında görünebilirsiniz."
+
+#: affiliates/facebook/templates/facebook/base.html:155
+msgid "Get Firefox News"
+msgstr "Firefox Haberlerini Alın"
+
+#: affiliates/facebook/templates/facebook/base.html:171
+msgid "I agree to the <a href=\"%(link)s\">Privacy Policy</a>"
+msgstr "<a href=\"%(link)s\">Gizlilik İlkeleri</a>'ni kabul ediyorum"
+
+#: affiliates/facebook/templates/facebook/base.html:175
+msgid "We will only send you Mozilla-related information."
+msgstr "Size sadece Mozilla ile ilgili bilgiler göndereceğiz."
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/base.html:184
+#: affiliates/facebook/templates/facebook/link_activation_email.html:13
+msgid "Thanks!"
+msgstr "Teşekkürler!"
+
+#: affiliates/facebook/templates/facebook/error.html:10
+msgid "Whoops!"
+msgstr "Hata oluştu!"
+
+#: affiliates/facebook/templates/facebook/error.html:11
+msgid "What are you doing here?"
+msgstr "Burada ne arıyorsunuz?"
+
+#: affiliates/facebook/templates/facebook/error.html:14
+msgid ""
+"Did you make a left at that last URL instead of a right? No problem. Here "
+"are some tips to get you back on your way:"
+msgstr ""
+"Son adresten sağa döneceğinize sola mı döndünüz? Sorun değil. İşte yolunuza "
+"geri dönmeniz için birkaç ipucu:"
+
+#: affiliates/facebook/templates/facebook/error.html:21
+msgid ""
+"If you typed in the address, check your spelling. Could just be a typo."
+msgstr "Adresi yazdıysanız tekrar kontrol edin. Yazım hatası olabilir."
+
+#: affiliates/facebook/templates/facebook/error.html:26
+msgid ""
+"If you followed a link, it’s probably broken. Please <a "
+"href=\"mailto:%(email)s\">contact us</a> and we’ll fix it."
+msgstr ""
+"Bir linke tıkladıysanız muhtemelen link kırık. Lütfen <a "
+"href=\"mailto:%(email)s\">bize yazın</a> ki düzeltebilelim."
+
+#: affiliates/facebook/templates/facebook/error.html:32
+msgid ""
+"If you're not sure what you're looking for, start at <a "
+"href=\"%(link)s\">mozilla.org</a>."
+msgstr ""
+"Ne aradığınızdan emin değilseniz <a href=\"%(link)s\">mozilla.org</a>'dan "
+"başlayın."
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:18
+msgid "Using Affiliate banners"
+msgstr "Kardeşlik düğmelerinin kullanımı"
+
+#: affiliates/facebook/templates/facebook/faq.html:21
+msgid "What is Firefox Affiliates?"
+msgstr "Firefox Kardeşleri nedir?"
+
+#: affiliates/facebook/templates/facebook/faq.html:24
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"eligible for fun stuff like Firefox T-shirts and, if you opt in, we may "
+"feature your banner in a paid-ad on the Facebook ad network. While we do "
+"send out prizes and gifts to our Affiliates from time to time, Firefox "
+"Affiliates does not offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Firefox Kardeşleri, ziyaretçilerinizi Firefox'u indirmeye davet etmek için "
+"Facebook profilinize ekleyebileceğiniz banner'lar oluşturmanızı sağlar. "
+"Sayfanıza veya durum güncellemenize bakan ziyaretçiniz banner'a tıkladığında"
+" Firefox indirme sayfasını ziyaret eder ve bu tıklama için hesabınıza puan "
+"işlenir. Profilleri üzerinden çok sayıda tıklama alan Kardeşler lider "
+"listemize girer ve Firefox tişörtleri gibi eğlenceli hediyeleri edinmeye hak"
+" kazanırlar. Kardeşlerimize zaman zaman ödüller ve hediyeler gönderiyoruz, "
+"ama Firefox Kardeşleri'ne desteğinizin parasal bir getirisi yoktur."
+
+#: affiliates/facebook/templates/facebook/faq.html:43
+msgid "How do I add a banner to my Facebook profile?"
+msgstr "Facebook profilime nasıl banner ekleyebilirim?"
+
+#: affiliates/facebook/templates/facebook/faq.html:48
+msgid ""
+"Select a banner design that you like using the <a href=\"%(link)s\">banner "
+"builder</a>, add a personal message about why you love Firefox and then "
+"click \"share.\" This will post the banner to your Facebook timeline and "
+"into your friends' newsfeed."
+msgstr ""
+"<a href=\"%(link)s\">Banner yaratıcıyı</a> kullanarak hoşunuza giden bir "
+"banner tasarımı seçin, Firefox'u neden sevdiğinizi anlatan kişisel "
+"mesajınızı ekleyin ve \"paylaş\"a tıklayın. Bunu yaptığınızda banner'ınızı "
+"Facebook zaman tünelinize ve arkadaşlarınızın haber kaynağına "
+"gönderilecektir."
+
+#: affiliates/facebook/templates/facebook/faq.html:60
+msgid "How do I invite a friend to use Firefox?"
+msgstr "Arkadaşlarımı Firefox'u indirmeye nasıl davet edebilirim?"
+
+#: affiliates/facebook/templates/facebook/faq.html:64
+msgid ""
+"If you'd like to personally invite someone to use Firefox, just select "
+"\"Share ad with friends\" from the side menu and you will be able to send a "
+"Facebook message with a custom Firefox download link. If your friend clicks "
+"on the link, you'll also get credit for the click."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:76
+msgid "Can my banner become a paid Facebook ad?"
+msgstr "Banner'ım ücretli bir Facebook reklamı olabilir mi?"
+
+#: affiliates/facebook/templates/facebook/faq.html:80
+msgid ""
+"If you checked the box to allow your banner to be featured in a paid "
+"Facebook ad, once you've reached %(click_count)s clicks on a Facebook "
+"banner, your banner will become eligible to be a paid Facebook ad. This "
+"means that Mozilla will pay to have an ad placed on the Facebook ad network "
+"sharing your message of why you love Firefox. We will notify you if your "
+"banner is chosen to be a paid ad in your region. If you do not want to "
+"participate in this, don't click the opt-in when you build your banner. If "
+"you've opted in by accident, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure you aren't "
+"included in the ad selection."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:100
+msgid ""
+"If I opted in to having my banner become a paid Facebook ad, what exactly am"
+" I giving you permission to do?"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:108
+msgid ""
+"You are giving us permission to use, reproduce, distribute, edit, and "
+"display your photo, if it is included in your banner, and your message about"
+" why you love Firefox, for commercial purposes, specifically in a paid ad on"
+" Facebook. You are also acknowledging that you will not be paid for the use "
+"of your banner."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:119
+msgid "How do I remove the application?"
+msgstr "Uygulamayı nasıl kaldırabilirim?"
+
+#: affiliates/facebook/templates/facebook/faq.html:122
+msgid ""
+"To remove the application, access your applications in the Facebook settings"
+" menu. Delete the application from your list of authorized apps and we'll "
+"delete your Affiliates profile on Facebook and the information associated "
+"with it. Note: Deleting the application on Facebook will not delete your "
+"affiliates.mozilla.org profile if you had one prior to installing the "
+"application. To delete that profile, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a>."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:138
+msgid ""
+"How do I connect to my Firefox Affiliates account on affiliates.mozilla.org?"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:146
+msgid ""
+"To connect your affiliates.mozilla.org account to this application, please "
+"use the connection wizard on the My Banners page. We'll send you an email to"
+" confirm that we've connected the accounts. If you'd like to sign up for an "
+"account, just visit <a href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:159
+msgid "Leaderboard and User Statistics"
+msgstr "Lider Listesi ve Kullanıcı İstatistikleri"
+
+#: affiliates/facebook/templates/facebook/faq.html:163
+msgid "How often does the leaderboard get updated?"
+msgstr "Lider listesi istatistikleri ne sıklıkta güncellenir?"
+
+#: affiliates/facebook/templates/facebook/faq.html:167
+msgid ""
+"The leaderboard updates every day at midnight Pacific Time, so be sure to "
+"check in to see where you stand."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:182
+msgid ""
+"No, though from time to time we may run contests to see who can get the most"
+" clicks for different Firefox products and campaigns. The winners will get "
+"Firefox T-shirts, hoodies and other awesome things we have at Mozilla HQ."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:202
+msgid ""
+"Let us know. Send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and tell us what the problem "
+"is."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/first_run.html:8
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:17
+msgid "Welcome to Firefox Affiliates"
+msgstr "Firefox Kardeşleri'ne hoş geldiniz."
+
+#: affiliates/facebook/templates/facebook/first_run.html:11
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:20
+msgid ""
+"This is your one stop shop for telling the world about the only browser that"
+" puts you first: Firefox! Start now by building a banner to post on your "
+"Facebook profile. Get a ton of clicks and we may feature you in a Firefox ad"
+" (with your permission, of course) or send you some great Firefox gear."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/first_run.html:20
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:31
+msgid "Let's go!"
+msgstr "Başlayalım!"
+
+#: affiliates/facebook/templates/facebook/leaderboard.html:11
+msgid "Affiliates with the most clicks"
+msgstr "En çok tıklama alan kardeşler"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:23
+#: affiliates/links/templates/links/widgets/leaderboard.html:4
+msgid "Rank"
+msgstr "Sıra"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:25
+msgid "User"
+msgstr "Kullanıcı"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:2
+msgid "Hi there!"
+msgstr "Merhaba!"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:5
+msgid ""
+"Thank you for linking your Firefox Affiliates account with the Affiliates "
+"Facebook application. Please click on the link below and you'll get credit "
+"for any clicks that you drive through Facebook on the main Affiliates "
+"leaderboard."
+msgstr ""
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:10
+msgid ""
+"If you didn't request to link your account, just ignore this e-mail and your"
+" account will not be linked."
+msgstr ""
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:15
+msgid "The Firefox Affiliates team"
+msgstr "Firefox Kardeşleri takımı"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:3
+msgid ""
+"Download Firefox (Large Firefox logo rising in front of an orange "
+"background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:5
+msgid "Download Firefox (Small Firefox logo on a light blue background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:7
+msgid ""
+"Download Firefox (Large Firefox logo resting on a light blue background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:9
+msgid ""
+"Download Firefox (For Android. A mobile phone in front of a faded Firefox "
+"logo with a light blue background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:11
+msgid ""
+"Download Firefox (For Android. A mobile phone displaying a large Firefox "
+"logo on its screen, over a light blue background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:13
+msgid ""
+"Download Firefox (For Android. Firefox logo floating over a mobile phone "
+"resting on an orange background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:15
+msgid ""
+"Download Firefox (Person in a Firefox costume jumping happily on a beach)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:17
+msgid ""
+"Download Firefox (For Android. A mobile phone running Firefox for Android "
+"next to a coffee cup with the Firefox logo on it)"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/strings.html:21
+#, fuzzy
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"elegible for fun stuff like Firefox T-shirts. While we do send out prizes "
+"and gifts to our Affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Firefox Kardeşi düğmeleri, ziyaretçilerinizi Firefox'u indirmeye davet etmek"
+" için web sitenize veya blog'unuza ekleyebileceğiniz küçük HTML kodlarıdır. "
+"Ziyaretçiniz sitenizdeki düğmeye tıkladığında Firefox'u indirir ve bu "
+"indirme için hesabınıza puan işlenir. Siteleri üzerinden çok sayıda indirme "
+"yönlendirmesinde bulunan Kardeşler lider listemize girer ve Firefox "
+"tişörtleri gibi eğlenceli hediyeleri edinmeye hak kazanırlar. Kardeşlerimize"
+" zaman zaman ödüller ve hediyeler gönderiyoruz, ama Firefox Kardeşleri'ne "
+"desteğinizin parasal bir getirisi yoktur."
+
+#: affiliates/facebook/templates/facebook/strings.html:22
+msgid "Mozilla Firefox"
+msgstr "Mozilla Firefox"
+
+#: affiliates/facebook/templates/facebook/strings.html:23
+msgid ""
+"Different by design. It's fast, flexible and secure. Share Firefox with your"
+" friends today."
+msgstr ""
+"Felsefesi farklı. Hızlı, esnek ve güvenli. Firefox'u hemen arkadaşlarınızla "
+"paylaşın."
+
+#: affiliates/facebook/templates/facebook/strings.html:27
+msgid "You will lose credit for all your clicks on this banner."
+msgstr "Bu banner'a ait tıklamalardan aldığınız krediyi kaybedeceksiniz."
+
+#: affiliates/facebook/templates/facebook/strings.html:31
+msgid "Newsletter subscription unavailable at this time."
+msgstr "Bülten aboneliği şu anda kullanılamıyor."
+
+#: affiliates/facebook/templates/facebook/strings.html:32
+msgid ""
+"I'd like to receive the Firefox Affiliate newsletter and periodic Firefox "
+"Affiliates updates via email."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:4
+msgid "Current banners"
+msgstr "Mevcut banner'lar"
+
+#. L10n: "Woot" (w00t) as in internet slang expressing happiness.
+#: affiliates/links/middleware.py:19
+msgid ""
+"Woot! You've driven {num_downloads} downloads and {num_clicks} clicks since "
+"your last visit. Keep rockin'!"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:12
+#: affiliates/links/templates/links/detail.html:24
+msgid "Banner Details"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:31
+msgid "Created:"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:34
+#, fuzzy
+msgid "Clicks:"
+msgstr "Tıklama"
+
+#: affiliates/links/templates/links/detail.html:36
+msgid "Linked URL:"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:40
+#, fuzzy
+msgid "Size:"
+msgstr "Boyut"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Embed code:"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Use this code to embed this banner on your website."
+msgstr ""
+
+#: affiliates/links/templates/links/leaderboard.html:15
+#, fuzzy
+msgid "Top Affiliates"
+msgstr "Kardeşler Hakkında"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:5
+#: affiliates/users/models.py:18
+#, fuzzy
+msgid "Affiliate"
+msgstr "Kardeşler Hakkında"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:6
+msgid "Number of clicks"
+msgstr ""
+
+#: affiliates/statistics/templates/statistics/category.html:8
+#, fuzzy
+msgid "{category} Metrics"
+msgstr "kategori ön izlemesi"
+
+#: affiliates/statistics/templates/statistics/category.html:26
+#, fuzzy
+msgid "Banners"
+msgstr "Banner'larım"
+
+#: affiliates/statistics/templates/statistics/index.html:18
+msgid ""
+"Take a look at the impact our Affiliates make on increasing awareness of "
+"Mozilla and its products."
+msgstr ""
+
+#: affiliates/statistics/templates/statistics/index.html:22
+msgid "Key Metrics"
+msgstr ""
+
+#: affiliates/statistics/templates/statistics/index.html:36
+#, fuzzy
+msgid "Categories"
+msgstr "kategori ön izlemesi"
+
+#: affiliates/users/views.py:30
+#, fuzzy
+msgid "Your profile has been updated!"
+msgstr "Profiliniz başarıyla güncellendi!"
+
+#: affiliates/users/views.py:45
+msgid "You must be logged in to view that page."
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:21
+#, fuzzy
+msgid "Name: {display_name}"
+msgstr "Görünecek adınız"
+
+#: affiliates/users/templates/users/profile.html:26
+msgid "Biography: {biography_text}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:31
+#, fuzzy
+msgid "Edit your profile"
+msgstr "Kullanıcı profilinizi düzenleyin"
+
+#: affiliates/users/templates/users/profile.html:57
+msgid "Stats"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:65
+msgid "Milestones"
+msgstr ""
+
+#~ msgid ""
+#~ "Check out how many people have clicked to download Firefox. <br> Where are "
+#~ "you on the leaderboard? <br> Leaderboard statics are updated at midnight PT "
+#~ "each day."
+#~ msgstr ""
+#~ "Kaç kişinin Firefox'u indirmek için tıkladığına göz atın. <br> Lider "
+#~ "listesinde neredesiniz? <br> Lider listesi istatistikleri Türkiye saatiyle "
+#~ "9.00'da güncellenir."
+
+#~ msgid "TOP 5 AFFILIATES WITH THE MOST FIREFOX CLICKS"
+#~ msgstr "EN ÇOK FIREFOX TIKLAMASINA SAHİP 5 DESTEKÇİ"
+
+#~ msgid "USER"
+#~ msgstr "KULLANICI"
+
+#~ msgid "CLICKS"
+#~ msgstr "TIKLAMA"
+
+#~ msgid "Follow these easy steps to create a new banner:"
+#~ msgstr "Yeni bir banner oluşturmak için şu basit adımları izleyin:"
+
+#~ msgid "Follow these easy steps to get started:"
+#~ msgstr "Başlamak için şu basit adımları izleyin:"
+
+#~ msgid "PICK A CATEGORY"
+#~ msgstr "BİR KATEGORİ SEÇİN"
+
+#~ msgid "PICK A BANNER"
+#~ msgstr "BİR BANNER SEÇİN"
+
+#~ msgid "CONFIGURE &amp; POST"
+#~ msgstr "YAPILANDIR &amp; GÖNDER"
+
+#~ msgid "&laquo; Back"
+#~ msgstr "&laquo; Geri"
+
+#~ msgid "CREATION DATE:"
+#~ msgstr "OLUŞTURULMA TARİHİ:"
+
+#~ msgid "CLICKS:"
+#~ msgstr "TIKLAMA:"
+
+#~ msgid "LINKED URL:"
+#~ msgstr "BAĞLANTI ADRESİ:"
+
+#~ msgid "EMBED CODE:"
+#~ msgstr "KULLANILACAK KOD:"
+
+#~ msgid "You"
+#~ msgstr "Siz"
+
+#~ msgid "Your total"
+#~ msgstr "Toplamınız"
+
+#~ msgid "Start Spreading the Word!"
+#~ msgstr "Bizden Bahsetmeye Başlayın!"
+
+#~ msgid "You have <span>0</span> banners posted."
+#~ msgstr "Yayımlanmış <span>0</span> banner'ınız var."
+
+#~ msgid "Category: <span>%(category_name)s</span>"
+#~ msgstr "Kategori: <span>%(category_name)s</span>"
+
+#~ msgid ""
+#~ "Now choose the type of <span>%(subcategory_name)s</span> banner you want to "
+#~ "display on your website or blog:"
+#~ msgstr ""
+#~ "Şimdi web sitenizde veya blog'unuzda göstermek istediğiniz "
+#~ "<span>%(subcategory_name)s</span> banner türünü seçin:"
+
+#~ msgid ""
+#~ "Finally, choose the size and color of your <span>%(subcategory_name)s</span>"
+#~ " banner, then you can copy its code onto your website or blog."
+#~ msgstr ""
+#~ "Son olarak <span>%(subcategory_name)s</span> banner'ınızın boyutunu ve "
+#~ "rengini seçin. Ardından oluşan kodu sitenize veya blog'unuza "
+#~ "kopyalayabilirsiniz."
+
+#~ msgid "%(width)sx%(height)s pixels"
+#~ msgstr "%(width)sx%(height)s piksel"
+
+#~ msgid "Save Banner &raquo;"
+#~ msgstr "Banner'ı kaydet &raquo;"
+
+#~ msgid "SIZE"
+#~ msgstr "BOYUT"
+
+#~ msgid "You're almost there!"
+#~ msgstr "Neredeyse bitti!"
+
+#~ msgid ""
+#~ "Fill out the form below to finish your registration and begin creating "
+#~ "banners."
+#~ msgstr ""
+#~ "Kaydınızı tamamlamak ve banner oluşturmaya başlamak için aşağıdaki formu "
+#~ "doldurun."
+
+#~ msgid "Latest News"
+#~ msgstr "Son Haberler"
+
+#~ msgid "The new Firefox Affiliates program is live!"
+#~ msgstr "Yeni Firefox Kardeşleri programı hayata geçti!"
+
+#~ msgid ""
+#~ "Welcome to the new Firefox Affiliates program. Have a look around the site, "
+#~ "grab some buttons and get on the leaderboard. Have feedback? Let us know at "
+#~ "affiliates@mozilla.org."
+#~ msgstr ""
+#~ "Yepyeni Firefox Kardeşleri programına hoş geldiniz. Siteye biraz göz "
+#~ "gezdirin, düğmeleri sitenize ekleyin ve lider listesine yerleşin. Geri "
+#~ "bildirimlerinizi bize affiliates@mozilla.org adresinden ulaştırabilirsiniz."
+
+#~ msgid "Help us make Firefox Affiliates better"
+#~ msgstr "Firefox Kardeşleri'ni geliştirmemize yardımcı olun"
+
+#~ msgid ""
+#~ "Firefox Affiliates has been live for a while now, but we need your help to "
+#~ "keep making improvements to the system. If you are a web developer familiar "
+#~ "with HTML, CSS, Python or Django and want to get involved with Mozilla, "
+#~ "please contact us at affiliates@mozilla.org ."
+#~ msgstr ""
+#~ "Firefox Kardeşleri bir süredir yayında, ama sistemimizi geliştirmek için "
+#~ "sizin de yardımınıza ihtiyacımız var. HTML, CSS, Python veya Django "
+#~ "konusunda bilgili bir web geliştiricisiyseniz ve Mozilla'ya katkıda bulunmak"
+#~ " istiyorsanız lütfen affiliates@mozilla.org adresinden bize ulaşın."
+
+#~ msgid "Tell the world about Firefox for Android"
+#~ msgstr "Android için Firefox'u dünyaya duyurun"
+
+#~ msgid ""
+#~ "Firefox for Android is here and we'd like your help in spreading the word. "
+#~ "Just create a Firefox for Android banner and add it to your site in one of "
+#~ "more than 30 languages. The affiliate responsible for the most Firefox for "
+#~ "Android clicks will get a Firefox hoodie. If you have ideas for other "
+#~ "buttons or want to help with Firefox Affiliates, please contact us at "
+#~ "affiliates@mozilla.org ."
+#~ msgstr ""
+#~ "Android için Firefox çıktı. Onu yaymak için sizin de yardımınıza ihtiyacımız"
+#~ " var. 30'dan fazla dilden birinde Android için Firefox banner'ınızı "
+#~ "oluşturun ve sitenize ekleyin. En çok Android için Firefox tıklamasını "
+#~ "getiren kardeşimiz kapüşonlu bir Firefox sweatshirt'ü kazanacak. Farklı "
+#~ "banner'lar için fikirleriniz varsa veya Firefox Kardeşliği'ne yardımcı olmak"
+#~ " istiyorsanız, lütfen affiliates@mozilla.org adresinden bize ulaşın."
+
+#~ msgid ""
+#~ "The Firefox Affiliates program is a great way to share your love of Mozilla "
+#~ "Firefox."
+#~ msgstr ""
+#~ "Firefox Kardeşleri programı, Mozilla Firefox'a olan sevginizi göstermenin "
+#~ "harika bir yolu."
+
+#~ msgid ""
+#~ "BrowserID could not verify your identity. Visit <a "
+#~ "href=\"{url}\">browserid.org</a> for more information."
+#~ msgstr ""
+#~ "BrowserID kimliğinizi doğrulayamadı. Daha fazla bilgi için <a "
+#~ "href=\"{url}\">browserid.org</a> adresini ziyaret edin."
+
+#~ msgid "Why should I share my mailing address with Firefox Affiliates?"
+#~ msgstr "Neden Firefox Kardeşleri ile fiziksel adresimi paylaşmalıyım?"
+
+#~ msgid ""
+#~ "While you have our deepest gratitude for spreading the word about Firefox "
+#~ "every day, from time to time we like to thank our amazing Affiliates "
+#~ "community with things like Firefox T-shirts &mdash; if we have your address "
+#~ "on file, that is."
+#~ msgstr ""
+#~ "Firefox'un sözlerini yaymaya çalıştığınız için size minnettarız ve zaman "
+#~ "zaman Firefox tişörtü gibi hediyelerle Kardeş topluluğumuza teşekkür etmek "
+#~ "istiyoruz, tabii adresiniz bizde kayıtlıysa."
+
+#~ msgid ""
+#~ "The Firefox Affiliates program is a great way to share your love of Firefox "
+#~ "and other Mozilla products. Host buttons on your site and climb your way to "
+#~ "fame on the leaderboard. <a href=\"#\" class=\"show_tooltip\" "
+#~ "target=\"tooltip_home\">Learn more &raquo;</a>"
+#~ msgstr ""
+#~ "Firefox Kardeşleri programı, Mozilla Firefox'a olan sevginizi göstermenin "
+#~ "harika bir yolu. Düğmelerimizi sitenize ekleyerek Kardeşlik liderleri "
+#~ "listesinde üst sıralara tırmanın. <a href=\"#\" class=\"show_tooltip\" "
+#~ "target=\"tooltip_home\">Daha fazla bilgi alın &raquo;</a>"
+
+#~ msgid ""
+#~ "Firefox Affiliates is the go-to place for Firefox fans and Mozillians to get"
+#~ " promotional buttons and links that encourage users to download Firefox. We "
+#~ "do send out prizes and gifts to our affiliates from time to time, but "
+#~ "Firefox Affiliates does not offer monetary rewards for hosting Firefox "
+#~ "buttons. That warm, fuzzy feeling in your heart will have to do."
+#~ msgstr ""
+#~ "Firefox Kardeşleri, Firefox'u sevenlerin ve Mozilla dostlarının "
+#~ "kullanıcıları Firefox'u indirmeye davet etmek için kullanabilecekleri "
+#~ "tanıtım düğmelerini ve bağlantılarını edinebileceği bir yerdir. "
+#~ "Kardeşlerimize zaman zaman ödüller ve hediyeler de gönderiyoruz, ama Firefox"
+#~ " Kardeşleri'ne desteğinizin parasal bir getirisi yoktur. Kazancınız, "
+#~ "başkalarını özgürlüğe kavuşturmanın sevinci olacaktır."
+
+#~ msgid "Sign up and become an affiliate today!"
+#~ msgstr "Hemen kaydolun, kardeşimiz olun!"
+
+#~ msgid "Share on Facebook &raquo;"
+#~ msgstr "Facebook'ta paylaş &raquo;"
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Persona ile oturum aç"
+
+#~ msgid "Don't have an account?"
+#~ msgstr "Hesabınız yok mu?"
+
+#~ msgid "Want to be a Firefox Affiliate?"
+#~ msgstr "Firefox Kardeşi olmak ister misiniz?"
+
+#~ msgid "Sign up now and start spreading the word."
+#~ msgstr "Hemen kaydolun, sözlerimizi yaymaya başlayın."
+
+#~ msgid "Click here to connect your Affiliates account with Facebook."
+#~ msgstr "Kardeşler hesabınızı Facebook'a bağlamak için tıklayın."
+
+#~ msgid "Please enter a password."
+#~ msgstr "Lütfen bir şifre girin."
+
+#~ msgid "Passwords must match."
+#~ msgstr "Şifreler eşleşmelidir."
+
+#~ msgid "Passwords must be at least 8 characters long."
+#~ msgstr "Şifreniz en az 8 karakter olmalıdır."
+
+#~ msgid "Passwords must contain at least 1 letter and 1 number."
+#~ msgstr "Şifreniz en az 1 harf ve 1 rakam içermelidir."
+
+#~ msgid ""
+#~ "We are having trouble reaching your email address. Please try a different "
+#~ "address or contact an administrator."
+#~ msgstr ""
+#~ "E-posta adresinize erişmede sorun yaşıyoruz. Lütfen farklı bir adres deneyin"
+#~ " veya bir yöneticiyle iletişime geçin."
+
+#~ msgid "Please enter an email address."
+#~ msgstr "Lütfen bir e-posta adresi girin."
+
+#~ msgid "A user with that email address already exists."
+#~ msgstr "Aynı e-posta adresine sahip bir kullanıcı zaten var."
+
+#~ msgid "Email or password incorrect."
+#~ msgstr "E-posta veya parola hatalı."
+
+#~ msgid "This account is inactive."
+#~ msgstr "Bu hesap aktif değil."
+
+#~ msgid "Please enter a display name."
+#~ msgstr "Lütfen bir isim girin."
+
+#~ msgid "You must agree to the terms of service and privacy policy to register."
+#~ msgstr ""
+#~ "Kaydolmak için hizmet koşullarını ve gizlilik ilkelerini kabul etmelisiniz."
+
+#~ msgid "Password"
+#~ msgstr "Parola"
+
+#~ msgid "Email address"
+#~ msgstr "E-posta adresi"
+
+#~ msgid "New Password"
+#~ msgstr "Yeni parola"
+
+#~ msgid "Retype Password"
+#~ msgstr "Parolayı tekrar girin"
+
+#~ msgid "Full Name"
+#~ msgstr "Tam adınız"
+
+#~ msgid "Street"
+#~ msgstr "Sokak ve Mahalle"
+
+#~ msgid "Apartment or Unit # (optional)"
+#~ msgstr "Kapı No"
+
+#~ msgid "City"
+#~ msgstr "İlçe"
+
+#~ msgid "State or Province"
+#~ msgstr "İl"
+
+#~ msgid "ZIP or Postal Code"
+#~ msgstr "Posta Kodu"
+
+#~ msgid "Your password"
+#~ msgstr "Parolanız"
+
+#~ msgid "This email is already taken! Please try again."
+#~ msgstr "Bu e-posta zaten kullanılıyor! Lütfen tekrar deneyin."
+
+#~ msgid "Please activate your Firefox Affiliates account"
+#~ msgstr "Lütfen Firefox Kardeşleri hesabınız etkinleştirin"
+
+#~ msgid "Display name"
+#~ msgstr "Görünen ad"
+
+#~ msgid "Address Line 1"
+#~ msgstr "Adres satırı 1"
+
+#~ msgid "Address Line 2"
+#~ msgstr "Adres satırı 2"
+
+#~ msgid "Please complete your user profile"
+#~ msgstr "Lütfen kullanıcı profilinizi tamamlayın"
+
+#~ msgid "Email"
+#~ msgstr "E-posta"
+
+#~ msgid "Email verified"
+#~ msgstr "E-posta doğrulandı"
+
+#~ msgid ""
+#~ "Your email address has been verified. You may now <a href=\"%(href)s\">log "
+#~ "in from the homepage</a>."
+#~ msgstr ""
+#~ "E-posta adresiniz doğrulanmıştır. Şimdi <a href=\"%(href)s\">ana sayfadan "
+#~ "oturum açabilirsiniz</a>."
+
+#~ msgid "Activation failed"
+#~ msgstr "Etkinleştirme başarısız"
+
+#~ msgid ""
+#~ "We could not activate your account. Please make sure that you have clicked "
+#~ "the correct link in your email or typed in the correct address."
+#~ msgstr ""
+#~ "Hesabınızı etkinleştiremedik. Lütfen e-postanızdaki doğru bağlantıya "
+#~ "tıkladığınızdan veya adresi doğru yazdığınızdan emin olun."
+
+#~ msgid ""
+#~ "We've just sent an activation email to: <span>%(email)s <a "
+#~ "href=\"%(homepage)s\">(Change)</a></span>"
+#~ msgstr ""
+#~ "Etkinleştirme için şu adrese bir e-posta gönderdik: <span>%(email)s <a "
+#~ "href=\"%(homepage)s\">(Değiştir)</a></span>"
+
+#~ msgid ""
+#~ "Please click on the link provided in the email to verify that your email is "
+#~ "valid."
+#~ msgstr ""
+#~ "Lütfen e-postanızın doğruluğunu onaylamak için gönderilen bağlantıya "
+#~ "tıklayın."
+
+#~ msgid "Welcome to Firefox Affiliates."
+#~ msgstr "Firefox Kardeşleri'ne hoş geldiniz."
+
+#~ msgid ""
+#~ "Before you can use your new account you must activate it -- this ensures the"
+#~ " email address you used is valid and belongs to you. To activate your "
+#~ "account, click the link below or copy and paste the whole thing into your "
+#~ "browser's location bar:"
+#~ msgstr ""
+#~ "Yeni hesabınızı kullanabilmek için öncelikle etkinleştirmelisiniz. Bu sayede"
+#~ " e-posta adresinizin geçerli ve size ait olduğunu anlayabiliriz. Hesabınızı "
+#~ "etkinleştirmek için aşağıdaki linke tıklayın veya tüm linki kopyalayıp "
+#~ "tarayıcınızın konum çubuğuna yapıştırın:"
+
+#~ msgid ""
+#~ "Once you've successfully activated your account, you can throw away this "
+#~ "email."
+#~ msgstr ""
+#~ "Hesabınızı başarıyla etkinleştirdikten sonra bu e-postayı silebilirsiniz."
+
+#~ msgid "Firefox Affiliates Password Reset"
+#~ msgstr "Firefox Kardeşleri Parola Sıfırlama"
+
+#~ msgid ""
+#~ "A request was received to reset the password for this account on Firefox "
+#~ "Affiliates. To change this password please click on the following link, or "
+#~ "paste it into your browser's location bar:"
+#~ msgstr ""
+#~ "Firefox Kardeşleri'ndeki bu hesap için bir parola sıfırlama isteği aldık. "
+#~ "Parolanızı sıfırlamak istiyorsanız lütfen aşağıdaki bağlantıya tıklayın veya"
+#~ " bağlantıyı tarayıcınızın konum çubuğuna yapıştırın:"
+
+#~ msgid "If you did not request this email there is no need for further action."
+#~ msgstr ""
+#~ "Bu e-postayı siz talep etmediyseniz herhangi bir işlem yapmanıza gerek "
+#~ "yoktur."
+
+#~ msgid "<span>*</span> Required"
+#~ msgstr "<span>*</span> Zorunlu"
+
+#~ msgid "USERNAME <span class=\"required_star\">*</span>"
+#~ msgstr "KULLANICI ADI <span class=\"required_star\">*</span>"
+
+#~ msgid ""
+#~ "Your username is your online identity, so use somenthing you are comfortable"
+#~ " with everyone seeing. Take into account that you won't be able to change "
+#~ "your username in the future."
+#~ msgstr ""
+#~ "Kullanıcı adınız sizin çevrimiçi kimliğinizdir, o yüzden herkesin "
+#~ "görmesinden rahatsızlık duymayacağınız bir ad seçin. Kullanıcı adınızı "
+#~ "ileride değiştiremeyeceğiniz unutmayın."
+
+#~ msgid "SUGGESTIONS"
+#~ msgstr "ÖNERİLER"
+
+#~ msgid "Save &raquo;"
+#~ msgstr "Kaydet &raquo;"
+
+#~ msgid "DISPLAY NAME"
+#~ msgstr "GÖRÜNEN İSİM"
+
+#~ msgid "NEW PASSWORD"
+#~ msgstr "YENİ PAROLA"
+
+#~ msgid "RETYPE PASSWORD"
+#~ msgstr "PAROLAYI TEKRAR YAZIN"
+
+#~ msgid ""
+#~ "8 or more characters, include Latin letters and numbers. Note: No one else "
+#~ "can see your password."
+#~ msgstr ""
+#~ "En az 8 karakter, hem harf hem de rakam kullanın. Not: Parolanızı sizden "
+#~ "başkası göremez."
+
+#~ msgid "ADDRESS"
+#~ msgstr "ADRES"
+
+#~ msgid ""
+#~ "Why should I provide my mailing address? <br/><br/> From time to time, we "
+#~ "may send you Mozilla T-shirts or other cool stuff in the mail. If you'd like"
+#~ " to get stuff from us, please share your mailing address, but it's not "
+#~ "mandatory to be part of the Firefox Affiliates program."
+#~ msgstr ""
+#~ "Neden fiziksel adresimi vermeliyim? <br/><br/>Zaman zaman size posta yoluyla"
+#~ " Mozilla tişörtleri ve benzer hediyeler gönderebiliriz. Bizden hediye almak "
+#~ "istiyorsanız lütfen adresinizi girin, ama Firefox Kardeşleri programına "
+#~ "katılmak için adresinizi vermeniz zorunlu değildir."
+
+#~ msgid "Save my changes &raquo;"
+#~ msgstr "Değişikliklerimi kaydet &raquo;"
+
+#~ msgid "Cancel &raquo;"
+#~ msgstr "İptal &raquo;"
+
+#~ msgid "Log in &raquo;"
+#~ msgstr "Giriş &raquo;"
+
+#~ msgid "Remember me"
+#~ msgstr "Beni hatırla"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Parolanızı mı unuttunuz?"
+
+#~ msgid "LANGUAGE"
+#~ msgstr "DİL"
+
+#~ msgid ""
+#~ "Your country and language were automatically detected by your IP location, "
+#~ "but you are welcome to change them here."
+#~ msgstr ""
+#~ "Ülkeniz ve diliniz IP konumunuzdan otomatik olarak tespit edildi, ama "
+#~ "isterseniz buradan değiştirebilirsiniz."
+
+#~ msgid "COUNTRY"
+#~ msgstr "ÜLKE"
+
+#~ msgid ""
+#~ "I wish to receive information and notifications about Firefox and Mozilla "
+#~ "via email."
+#~ msgstr ""
+#~ "Firefox ve Mozilla hakkındaki bilgi ve duyuruları e-posta yoluyla almak "
+#~ "istiyorum."
+
+#~ msgid ""
+#~ "I agree to the Firefox Affiliates <a href=\"%(tos)s\">terms of service</a> "
+#~ "and Mozilla <a href=\"%(privacy_policy)s\">Privacy Policy</a>"
+#~ msgstr ""
+#~ "Firefox Kardeşleri <a href=\"%(tos)s\">hizmet koşullarını</a> ve Mozilla <a "
+#~ "href=\"%(privacy_policy)s\">Gizlilik İlkeleri</a>'ni kabul ediyorum"
+
+#~ msgid "Register &raquo;"
+#~ msgstr "Kaydet &raquo;"
+
+#~ msgid "Password reset successful!"
+#~ msgstr "Parola sıfırlama başarıyla tamamlandı!"
+
+#~ msgid ""
+#~ "You have successfully changed your password. <a href=\"%(href)s\">Return to "
+#~ "the home page and log in using your new password</a>."
+#~ msgstr ""
+#~ "Parolanızı başarıyla değiştirdiniz. <a href=\"%(href)s\">Ana sayfaya dönüp "
+#~ "yeni parolanızla giriş yapın.</a>"
+
+#~ msgid "Password Reset"
+#~ msgstr "Parola Sıfırlama"
+
+#~ msgid "CONFIRM PASSWORD"
+#~ msgstr "PAROLAYI DOĞRULA"
+
+#~ msgid "Reset password &raquo;"
+#~ msgstr "Parolayı sıfırla &raquo;"
+
+#~ msgid "Password reset unsuccessful"
+#~ msgstr "Parola sıfırlama başarısız"
+
+#~ msgid ""
+#~ "The password reset link was invalid, possibly because it has already been "
+#~ "used. <a href=\"%(href)s\">Please request a new password reset.</a>"
+#~ msgstr ""
+#~ "Parola sıfırlama linki geçersiz. Daha önce kullanılmış olabilir. <a "
+#~ "href=\"%(href)s\">Lütfen yeni bir parola sıfırlaması talep edin.</a>"
+
+#~ msgid ""
+#~ "We've sent an email to any account using this email address. Please follow "
+#~ "the link in the email to reset your password."
+#~ msgstr ""
+#~ "Bu e-posta adresini kullanan hesaba e-posta gönderdik. Parolanızı sıfırlamak"
+#~ " için lütfen e-postanızdaki bağlantıya tıklayın."
+
+#~ msgid "Forgot password on Firefox Affiliates!"
+#~ msgstr "Firefox Kardeşleri parolamı unuttum"
+
+#~ msgid "Please enter your e-mail and we'll reset your password:"
+#~ msgstr "Parolanızı sıfırlamak için lütfen e-posta adresinizi girin:"
+
+#~ msgid "Send &raquo;"
+#~ msgstr "Gönder &raquo;"
+
+#~ msgid ""
+#~ "Please click on the link provided in the e-mail to access your Affiliates "
+#~ "account."
+#~ msgstr ""
+#~ "Kardeşler hesabınızı erişmek için lütfen e-postanıza gönderilen bağlantıya "
+#~ "tıklayın."
+
+#~ msgid ""
+#~ "Did you make a left at that last URL instead of a right? No problem. Unless "
+#~ "you want us to deal you in, here are some tips to get you back on your way:"
+#~ msgstr ""
+#~ "Son adresten sağa döneceğinize sola mı döndünüz? Sorun değil. İşte yolunuza "
+#~ "geri dönmeniz için birkaç ipucu:"
+
+#~ msgid ""
+#~ "If you’re not sure what you’re looking for, start at <a "
+#~ "href=\"%(href)s\">mozilla.org</a>."
+#~ msgstr ""
+#~ "Ne aradığınızdan emin değilsiniz <a href=\"%(href)s\">mozilla.org</a>'dan "
+#~ "başlayın."
+
+#~ msgid "An Error Occurred"
+#~ msgstr "Bir hata oluştu"
+
+#~ msgid ""
+#~ "Oh, no! It looks like an unexpected error occurred. We've already notified "
+#~ "the site administrators. Please try again now, or in a few minutes."
+#~ msgstr ""
+#~ "Tüh! Görünüşe bakılırsa beklenmeyen bir hata oluştu. Site yöneticilerini "
+#~ "haberdar ettik. Lütfen birkaç dakika sonra tekrar deneyin."
+
+#~ msgid "Firefox<span>Affiliates</span>"
+#~ msgstr "Firefox<span>KARDEŞLERİ</span>"
+
+#~ msgid "Everything you need to share Firefox with the world."
+#~ msgstr "Firefox'u dünyayla paylaşmanız için gereken her şey."
+
+#~ msgid "Let’s be <span>friends!</span>"
+#~ msgstr "<span>Arkadaş</span> olalım!"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "More Ways to Connect"
+#~ msgstr "Diğer Yollar"
+
+#~ msgid "Want us to keep in touch?"
+#~ msgstr "İrtibatı kesmeyelim"
+
+#~ msgid "Get Monthly News <span>»</span>"
+#~ msgstr "Aylık Bülten'i alın <span>»</span>"
+
+#~ msgid "Back to home page"
+#~ msgstr "Ana sayfaya dön"
+
+#~ msgid "Desktop"
+#~ msgstr "Masaüstü"
+
+#~ msgid "Features"
+#~ msgstr "Özellikler"
+
+#~ msgid "Security"
+#~ msgstr "Güvenlik"
+
+#~ msgid "Customization"
+#~ msgstr "Özelleştirme"
+
+#~ msgid "Technology"
+#~ msgstr "Teknoloji"
+
+#~ msgid "Videos"
+#~ msgstr "Videolar"
+
+#~ msgid "Tour"
+#~ msgstr "Tur"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobil"
+
+#~ msgid "Mobile Overview"
+#~ msgstr "Mobile Bakış"
+
+#~ msgid "Download"
+#~ msgstr "İndirme"
+
+#~ msgid "Sync"
+#~ msgstr "Sync"
+
+#~ msgid "Develop"
+#~ msgstr "Geliştirme"
+
+#~ msgid "Get Involved"
+#~ msgstr "Katkıda Bulunun"
+
+#~ msgid "FAQ"
+#~ msgstr "S.S.S."
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Add-ons"
+#~ msgstr "Eklentiler"
+
+#~ msgid "Firefox Add-ons"
+#~ msgstr "Firefox Eklentileri"
+
+#~ msgid "Featured Add-ons"
+#~ msgstr "Vitrindeki Eklentiler"
+
+#~ msgid "Extensions"
+#~ msgstr "Uzantılar"
+
+#~ msgid "Themes"
+#~ msgstr "Temalar"
+
+#~ msgid "Personas"
+#~ msgstr "Persona'lar"
+
+#~ msgid "Search Tools"
+#~ msgstr "Arama Araçları"
+
+#~ msgid "Language Support"
+#~ msgstr "Dil Desteği"
+
+#~ msgid "Collections"
+#~ msgstr "Koleksiyonlar"
+
+#~ msgid "Mobile Add-ons"
+#~ msgstr "Mobil Eklentiler"
+
+#~ msgid "Developer Hub"
+#~ msgstr "Geliştirici Merkezi"
+
+#~ msgid "Support"
+#~ msgstr "Destek"
+
+#~ msgid "Firefox Support"
+#~ msgstr "Firefox Desteği"
+
+#~ msgid "Mobile Support"
+#~ msgstr "Mobil Desteği"
+
+#~ msgid "Thunderbird Support"
+#~ msgstr "Thunderbird Desteği"
+
+#~ msgid "Participate"
+#~ msgstr "Katkıda Bulunun"
+
+#~ msgid "Press Center"
+#~ msgstr "Basın Merkezi"
+
+#~ msgid "Careers"
+#~ msgstr "İş Olanakları"
+
+#~ msgid "Legal"
+#~ msgstr "Yasal"
+
+#~ msgid ""
+#~ "Except where otherwise <a href=\"%(legal_url)s\">noted</a>, content on this "
+#~ "site is licensed under the <br/> <a href=\"%(license_url)s\">Creative "
+#~ "Commons Attribution Share-Alike License v3.0</a> or any later version."
+#~ msgstr ""
+#~ "Aksi <a href=\"%(legal_url)s\">belirtilmedikçe, bu sitedeki içerikler <a "
+#~ "href=\"%(license_url)s\">Creative Commons Attribution<br/> Share-Alike "
+#~ "Lisansı v3.0</a> veya daha üst bir sürümle lisanslanmıştır."
+
+#~ msgid "VIEW CURRENT BANNERS"
+#~ msgstr "MEVCUT BANNER'LARI GÖR"
+
+#~ msgid "MY BANNERS"
+#~ msgstr "BANNER'LARIM"
+
+#~ msgid "GET STARTED"
+#~ msgstr "BAŞLARKEN"
+
+#~ msgid "LOG OUT"
+#~ msgstr "ÇIKIŞ"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "PROFİLİ DÜZENLE"
+
+#~ msgid ""
+#~ "Firefox Affiliate buttons are a bit of html code that you put on your "
+#~ "website or blog to encourage visitors to your site to download Firefox. When"
+#~ " a visitor to your site clicks on a button on your site and visits the "
+#~ "Firefox download page, you get credit for that click."
+#~ msgstr ""
+#~ "Firefox Kardeşi düğmeleri, ziyaretçilerinizi Firefox'u indirmeye davet etmek"
+#~ " için web sitenize veya blog'unuza ekleyebileceğiniz küçük HTML kodlarıdır. "
+#~ "Ziyaretçiniz sitenizdeki düğmeye tıkladığında ve Firefox indirme sayfasını "
+#~ "ziyaret ettiğinde hesabınıza puan işlenir."
+
+#~ msgid "Zip or Postal Code"
+#~ msgstr "Posta Kodu"
+
+#~ msgid "New"
+#~ msgstr "Yeni"
+
+#~ msgid "BrowserID is here!"
+#~ msgstr "BrowserID kullanımda!"
+
+#~ msgid ""
+#~ "Firefox Affiliates has switched to <a "
+#~ "href=\"%(browserid_url)s\">BrowserID</a>. If you previously had an account, "
+#~ "use the login button below and sign up for BrowserID with the same email "
+#~ "address you used for signing up with Firefox Affiliates."
+#~ msgstr ""
+#~ "Firefox Kardeşleri <a href=\"%(browserid_url)s\">BrowserID</a>'ye geçti. "
+#~ "Eski bir hesabınız varsa, aşağıdaki giriş düğmesine tıklayıp Firefox "
+#~ "Kardeşleri'nde kullandığınız e-posta adresiyle BrowserID'ye kaydolun."
+
+#~ msgid "Log In &raquo;"
+#~ msgstr "Giriş &raquo;"
+
+#~ msgid ""
+#~ "Want to be a Firefox Affiliate? Sign up using BrowserID by clicking the "
+#~ "registration button below."
+#~ msgstr ""
+#~ "Firefox Kardeşi olmak ister misiniz? Aşağıdaki kayıt düğmesine tıklayarak "
+#~ "BrowserID ile kaydolun."
+
+#~ msgid "I love Firefox because &hellip;"
+#~ msgstr "Firefox'u seviyorum çünkü &hellip;"
+
+#~ msgid "Share you banner with friends."
+#~ msgstr "Banner'ınızı arkadaşlarınızla paylaşın."
+
+#~ msgid "Download Firefox or Firefox for Android today."
+#~ msgstr "Android için Firefox'u dünyaya duyurun"
+
+#~ msgid "Whoops! What are you doing here?"
+#~ msgstr "Burada ne arıyorsunuz?"
+
+#~ msgid "Is there a prize for getting the most clicks?"
+#~ msgstr "En çok Firefox tıklamasına bir ödül var mı?"
+
+#~ msgid "Your Email Address"
+#~ msgstr "E-posta adresiniz"
+
+#~ msgid "Create a New Banner &raquo;"
+#~ msgstr "Yeni banner oluştur &raquo;"
+
+#~ msgid "The Firefox Affiliates Team"
+#~ msgstr "Firefox Kardeşleri takımı"
+
+#~ msgid ""
+#~ "If you followed a link, it's probably broken. Please contact us and we'll "
+#~ "fix it."
+#~ msgstr ""
+#~ "Bir linke tıkladıysanız muhtemelen link kırık. Lütfen <a "
+#~ "href=\"mailto:%(email)s\">bize yazın</a> ki düzeltebilelim."
+
+#~ msgid "CREATE A NEW BANNER"
+#~ msgstr "YENİ BANNER OLUŞTUR"
+
+#~ msgid "ABOUT AFFILIATES"
+#~ msgstr "KARDEŞLİK HAKKINDA"
+
+#~ msgid "skip to navigation"
+#~ msgstr "menüye git"
+
+#~ msgid "switch language"
+#~ msgstr "dili değiştir"
+
+#~ msgid "DOWNLOADS"
+#~ msgstr "İNDİRME"
+
+#~ msgid "DOWNLOADS:"
+#~ msgstr "İNDİRME:"
+
+#~ msgid "Directions"
+#~ msgstr "Yönergeler"
+
+#~ msgid ""
+#~ "Copy the code below and paste it anywhere on your website or blog to link to"
+#~ " the Firefox download page. Your Firefox Affiliates ID is embedded in this "
+#~ "code."
+#~ msgstr ""
+#~ "Firefox indirme sayfasına link vermek için aşağıdaki kodu kopyalayıp web "
+#~ "sitesnizde veya blog'unuzda istediğiniz yere yapıştırın. Firefox Kardeşi "
+#~ "numaranız da bu koda gömülüdür."
+
+#~ msgid "Locale"
+#~ msgstr "Dil"
+
+#~ msgid "<span>1</span>PICK A CATEGORY"
+#~ msgstr "<span>1</span>KATEGORİ SEÇİN"
+
+#~ msgid "<span>2</span>PICK A BANNER"
+#~ msgstr "<span>2</span>BANNER SEÇİN"
+
+#~ msgid "<span>3</span>CONFIGURE &amp; POST"
+#~ msgstr "<span>3</span>AYARLAYIN &amp; YAYIMLAYIN"
+
+#~ msgid "name"
+#~ msgstr "isim"
+
+#~ msgid "image size"
+#~ msgstr "resim boyutu"
+
+#~ msgid "image color"
+#~ msgstr "resim rengi"
+
+#~ msgid "image file"
+#~ msgstr "resim dosyası"
+
+#~ msgid "Receive emails"
+#~ msgstr "E-posta al"

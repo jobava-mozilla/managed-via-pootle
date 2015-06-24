@@ -1,0 +1,25 @@
+<!-- INCLUDE overall_header.html -->
+
+<form action="{S_PROFILE_ACTION}" method="post" id="remind" class="panel user-input">
+	<h2 class="page-title">{L_SEND_PASSWORD}</h2>
+
+	<fieldset>
+	<ol>
+  	<li>
+  		<label for="username">{L_USERNAME}</label>
+  		<input type="text" name="username" id="username" size="25" />
+  	</li>
+  	<li>
+  		<label for="email">{L_EMAIL_ADDRESS} <span class="note">{L_EMAIL_REMIND}</span></label>
+  		<input type="text" name="email" id="email" size="25" maxlength="100" />
+  	</li>
+  	<li class="fm-submit">
+  		{S_HIDDEN_FIELDS}<button type="submit" name="submit" id="submit" value="{L_SUBMIT}" tabindex="2">{L_SUBMIT}</button>
+  		&nbsp; <button type="reset" value="{L_RESET}" name="reset">{L_RESET}</button>
+  	</li>
+  </ol>
+	{S_FORM_TOKEN}
+	</fieldset>
+</form>
+
+<!-- INCLUDE overall_footer.html -->

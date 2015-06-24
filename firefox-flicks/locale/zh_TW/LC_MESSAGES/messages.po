@@ -1,0 +1,2955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-10 10:56-0700\n"
+"PO-Revision-Date: 2013-09-16 19:06+0000\n"
+"Last-Translator: Peter <petercpg@mail.moztw.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1379358391.0\n"
+
+#. L10n: Label for the contest region in North America.
+#: flicks/base/regions.py:13 flicks/videos/models.py:177 flicks/videos/templates/videos/2013/winners.html:61
+msgid "North America"
+msgstr "北美洲"
+
+#. L10n: Label for the contest region in Latin America.
+#: flicks/base/regions.py:15 flicks/base/templates/faq.html:257 flicks/videos/models.py:178 flicks/videos/templates/videos/2013/winners.html:107
+msgid "Latin America"
+msgstr "拉丁美洲"
+
+#. L10n: Label for the contest region in Europe, the Middle East, and Africa.
+#: flicks/base/regions.py:17 flicks/videos/templates/videos/2013/winners.html:153
+msgid "Europe, Middle East, Africa"
+msgstr "歐洲、中東、非洲"
+
+#. L10n: Label for the contest region in Asia and the Pacific region.
+#: flicks/base/regions.py:19 flicks/videos/templates/videos/2013/winners.html:199
+msgid "Asia Pacific"
+msgstr "亞洲與太平洋"
+
+#: flicks/base/templates/404.html:3 flicks/base/templates/404.html:10
+msgid "Page not found"
+msgstr "找不到頁面"
+
+#: flicks/base/templates/404.html:13
+msgid "Sorry, but we couldn't find the page you're looking for."
+msgstr "抱歉，我們找不到您想檢視的頁面。"
+
+#: flicks/base/templates/404.html:16 flicks/base/templates/500.html:16
+msgid "<a href=\"%(home_url)s\">Go back</a> to the home page."
+msgstr "<a href=\"%(home_url)s\">回到首頁</a>。"
+
+#: flicks/base/templates/500.html:3 flicks/base/templates/500.html:10
+msgid "Something went wrong!"
+msgstr "有些東西不對勁！"
+
+#: flicks/base/templates/500.html:13
+msgid "Sorry, but something went wrong."
+msgstr "抱歉，有些東西怪怪的。"
+
+#: flicks/base/templates/bare.html:13 flicks/base/templates/bare.html:25 flicks/base/templates/bare.html:29 flicks/base/templates/email_base.html:3 flicks/base/templates/email_base.html:15
+#: flicks/base/templates/shared/header.html:6 flicks/base/templates/shared/header_minimal.html:8 flicks/settings/base.py:67 flicks/videos/templates/videos/upload_complete.html:54
+msgid "Firefox Flicks"
+msgstr "Firefox Flicks"
+
+#. Meta Description - used for page description and og:description
+#: flicks/base/templates/bare.html:16
+msgid "Firefox Flicks is a contest that invites Firefox fans and filmmakers from all over the world to create short videos (or &#34;flicks&#34;) to help tell the Firefox story."
+msgstr "Firefox Flicks 是一個邀請全世界 Firefox 粉絲拍攝短片，敘述 Firefox 故事的競賽。"
+
+#: flicks/base/templates/bare.html:45
+msgid "Close"
+msgstr "關閉"
+
+#: flicks/base/templates/bare.html:46 flicks/base/templates/strings.html:29
+msgid "This field is required."
+msgstr "必須填寫此欄位。"
+
+#: flicks/base/templates/base.html:23
+msgid "Our Partners"
+msgstr "我們的夥伴"
+
+#: flicks/base/templates/base.html:33
+msgid "More Partners"
+msgstr "更多夥伴"
+
+#: flicks/base/templates/base.html:38
+msgid "Share Firefox Flicks"
+msgstr "分享 Firefox Flicks"
+
+#: flicks/base/templates/base.html:47
+msgid "Learn about Firefox OS"
+msgstr "了解關於 Firefox OS 的資訊"
+
+#: flicks/base/templates/base.html:48
+msgid "Firefox OS"
+msgstr "Firefox OS"
+
+#. Greeting in an email.
+#: flicks/base/templates/email_base.html:36 flicks/base/templates/email_base.ltxt:2
+msgid "Hi %(name)s,"
+msgstr "%(name)s 您好，"
+
+#. Part of the signature on an email.
+#: flicks/base/templates/email_base.html:43 flicks/base/templates/email_base.ltxt:10
+msgid "Sincerely,"
+msgstr "誠摯地，"
+
+#. Part of the signature on an email.
+#: flicks/base/templates/email_base.html:46 flicks/base/templates/email_base.ltxt:12
+msgid "The Firefox Flicks Team"
+msgstr "Firefox Flicks 團隊"
+
+#. Please don't change the HTML, this string is in an email and the HTML is very fragile.
+#: flicks/base/templates/email_base.html:87
+msgid "Read the <a href=\"%(link)s\" target=\"_blank\" style=\"color: #349cd7; text-decoration: none; font-size: 11px; font-family: georgia, serif;\">Mozilla Privacy Policy</a>."
+msgstr "閱讀 <a href=\"%(link)s\" target=\"_blank\" style=\"color: #349cd7; text-decoration: none; font-size: 11px; font-family: georgia, serif;\">Mozilla 的隱私權保護政策</a>。"
+
+#: flicks/base/templates/faq.html:3
+msgid "FAQ"
+msgstr "FAQ"
+
+#: flicks/base/templates/faq.html:5 flicks/base/templates/partners.html:5
+msgid "Firefox Flicks FAQ &#8212; Your questions answered. Our FAQ covers all the details on how to enter the video contest and win prizes."
+msgstr "Firefox Flicks FAQ &#8212; 我們在此回答您的問題。常見問題集將會涵蓋所有關於參加競賽並贏得獎品的問題。"
+
+#: flicks/base/templates/faq.html:13
+msgid "Frequently Asked Questions"
+msgstr "常見問題"
+
+#: flicks/base/templates/faq.html:15 flicks/base/templates/home.html:75
+msgid "What is Firefox Flicks?"
+msgstr "Firefox Flicks 是什麼？"
+
+#: flicks/base/templates/faq.html:17
+msgid ""
+"Firefox Flicks is a global video competition encouraging filmmakers to educate people about the issues that affect our online lives. This year, we're focusing on the power that having access to the "
+"Web through mobile devices gives people and how that power can change the way you see the world and the way you function within it."
+msgstr "Firefox Flicks 是個鼓勵製片人教育大眾關於那些會影響我們線上生活的事情的影片競賽。今年，我們聚焦於透過讓人們能透過行動存取網路的威力，以及這些威力能夠怎樣影響您看這個世界的角度。"
+
+#: flicks/base/templates/faq.html:27
+msgid ""
+"With that in mind, the 2013 Firefox Flicks theme is \"Get Mobilized.\" That's where you come in: help us inspire people to get mobilized for individual and collective progress. <a href="
+"\"%(link_brief)s\" class=\"ga_brief-dl\">Read the creative brief</a>."
+msgstr ""
+"基於這個主題，2013 年的 Firefox Flicks 的主題定為「加入行動 (Get Mobilized)」，這就要仰賴您幫忙的地方：促使個人或群體走向行動化。<a href=\"%(link_brief)s\" class=\"ga_brief-dl\">觀看創意需求</a>。"
+
+#: flicks/base/templates/faq.html:34
+msgid "What does Get Mobilized mean?"
+msgstr "「加入行動 (Get Mobilized)」是什麼意思？"
+
+#: flicks/base/templates/faq.html:36
+msgid "It's about harnessing the power of the Web to discover new content; how that content connects you to new ideas; and how those ideas can enrich your life."
+msgstr "這代表的是透過 Web 來發現新內容的威力；此內容能能如何讓您創造新的點子，而這些點子又能如何豐富您的人生。"
+
+#: flicks/base/templates/faq.html:42
+msgid "What do we want filmmakers to do?"
+msgstr "我們想要製片者做什麼？"
+
+#: flicks/base/templates/faq.html:44
+msgid "Write, produce and edit a video of no more than 60 seconds that demonstrates how mobile helps people discover content that connects them to new ideas and enriches their lives."
+msgstr "寫作、拍攝、剪接出一部不超過 60 秒的影片，展示出行動裝置與行動網路如何幫助人們發現能夠將他們與新點子連結起來，並豐富他們的生活。"
+
+#: flicks/base/templates/faq.html:51
+msgid "Where can I find out more about this year's theme and requirements?"
+msgstr "我可以在哪裡找到更多關於今年主題的細節與要求？"
+
+#: flicks/base/templates/faq.html:53
+msgid "Everything you need to know about creating a flick for the contest can be found in the filmmakers' <a href=\"%(link_brief)s\" class=\"ga_brief-dl\">creative brief</a>."
+msgstr "您可以在製片人<a href=\"%(link_brief)s\" class=\"ga_brief-dl\">創意需求</a>中找到所有關於拍攝短片本競賽必須知道的細節。"
+
+#: flicks/base/templates/faq.html:60
+msgid "What are the entry categories for the 2013 Flicks contest?"
+msgstr "2013 年的 Flicks 比賽接受哪些分類的報名？"
+
+#: flicks/base/templates/faq.html:62
+msgid ""
+"There are no categories. Your flick can be a live-action film, an animation or a combination of both. You can shoot it in 3D or on your mobile device. It's up to you. It just has to be 60 seconds "
+"or less."
+msgstr "沒有特別的分類限制，您的短片可以是真人電影、動畫，甚至結合兩者也是完全可行的。你也可以使用 3D 技術拍攝，或者單純使用手機製作短片，自己決定就好，但影片長度必須短於六十秒。"
+
+#: flicks/base/templates/faq.html:69
+msgid "When can I submit my flick to Firefox Flicks?"
+msgstr "我什麼時候可以上傳短片至 Firefox Flicks？"
+
+#: flicks/base/templates/faq.html:71
+msgid "You can upload your video to the Firefox Flicks site beginning on February 13, 2013. You will also be able to view and share submitted entries at that time."
+msgstr "自 2013 年 2 月 13 日起，您就可以上傳影片到 Firefox Flicks 網站。此外您也可以在 Firefox Flicks 網站上觀看或分享其他的參賽作品。"
+
+#: flicks/base/templates/faq.html:78
+msgid "How do I submit my flick to Firefox Flicks and enter the contest?"
+msgstr "我要如何將我的短片報名參賽？"
+
+#: flicks/base/templates/faq.html:81
+msgid ""
+"Fill out your filmmaker profile and submit your video <a href=\"%(link_submit)s\">here.</a> All flicks will be posted to the Firefox Flicks website using the Vimeo API. You'll need to provide your "
+"contact information, including your email, title your flick and select your country and region."
+msgstr ""
+"填寫您的個人資料並將影片上傳至 <a href=\"%(link_submit)s\">這裡</a>。所有的短片將透過 Vimeo API 張貼至 Firefox Flicks 網站。您將需要提供包含您的電子郵件地址等聯絡資訊、為您的短片取個標題、並選擇您所"
+"在的國家與區域。"
+
+#: flicks/base/templates/faq.html:88
+msgid "Submissions closed on July 31 and Firefox Flicks is no longer accepting entries for this year."
+msgstr "接受投稿期限已於 7 月 31 日結束，今年的 Firefox Flicks 將不再接受新作品投稿。"
+
+#: flicks/base/templates/faq.html:94
+msgid "How does Flicks get and use my email address?"
+msgstr "這個活動如何取得與使用我的電子郵件地址？"
+
+#: flicks/base/templates/faq.html:96
+msgid ""
+"Flicks receives your email address through Persona, our site registration system. We will use your email address for contest administration purposes, such eligibility feedback, sign in and voting. "
+"You can also opt in to receive additional email updates about Firefox Flicks."
+msgstr "本活動將透過 Persona 取得您的電子郵件地址。我們將在諸如監護人的同意參賽回條、登入、投票等，本競賽的行政用途使用您的電子郵件地址。您也可以自行訂閱關於 Firefox Flicks 活動的電子報。"
+
+#: flicks/base/templates/faq.html:104
+msgid "What are the judging criteria?"
+msgstr "評分標準是什麼？"
+
+#: flicks/base/templates/faq.html:106
+msgid "Videos will be judged on quality of shooting, editing and how closely they align with the creative brief. Entries can be animated or live action - get creative!"
+msgstr "影片將會依照拍攝品質、剪接、以及有多符合創意需求來評分。動畫或真人影片都可以，有創意就行！"
+
+#: flicks/base/templates/faq.html:114
+msgid "A panel of celebrity judges and film industry insiders will evaluate the films and choose the Grand Prize and Regional winners."
+msgstr "評審小組將由電影業界人士及名人們組成，評審將會選出各區域的得獎者以及 Grand Prize 的贏家。"
+
+#: flicks/base/templates/faq.html:120
+msgid "Are there any requirements?"
+msgstr "有任何要求限制嗎？"
+
+#: flicks/base/templates/faq.html:122
+msgid "Yes, there are some. You'll be able to find a full list under Work Criteria in the Rules (coming soon), but here is a summary:"
+msgstr "是的，有一些。您會在完整競賽規則 (稍後公布) 當中的 Work Criteria 當中找到要求限制。此處將會列出一些摘要。"
+
+#: flicks/base/templates/faq.html:130
+msgid "Your flick must meet the requirements of the creative brief"
+msgstr "您送出的短片必須符合創意需求"
+
+#: flicks/base/templates/faq.html:135
+msgid "Your flick must be submitted under a <a href=\"%(link_cclicense)s\" rel=\"external\">Creative Commons - NonCommercial-ShareAlike license</a>"
+msgstr "您送出的短片必需使用<a href=\"%(link_cclicense)s\" rel=\"external\">創用 CC 非商業性─相同方式分享</a>授權條款釋出"
+
+#: flicks/base/templates/faq.html:140
+msgid "Your flick must be original"
+msgstr "您送出的短片必需是原創的"
+
+#: flicks/base/templates/faq.html:145
+msgid "Non-English flicks must have subtitles or include a written English translation"
+msgstr "非英文的短片必須加上字幕或是附帶一份英文翻譯"
+
+#: flicks/base/templates/faq.html:150
+msgid "Your flick must be submitted to the Flicks site"
+msgstr "您的短片必須上傳到本活動的官方網站"
+
+#: flicks/base/templates/faq.html:155
+msgid "Your flick must contain an accurate description"
+msgstr "您送出的短片必須包含正確的描述"
+
+#: flicks/base/templates/faq.html:160
+msgid "Anyone that is not listed as a team member must sign a waiver granting you permission to film them"
+msgstr "對於任何未列為組員但出現於影片中的人，您需要取得他們簽署過的同意書，允許您對他們拍攝"
+
+#: flicks/base/templates/faq.html:165
+msgid "Please keep it clean"
+msgstr "請保持影片簡單明瞭"
+
+#: flicks/base/templates/faq.html:170
+msgid "You must be at least 18 years old, or the age of majority in your country of residence"
+msgstr "您必須在您的居住國家已成年（台灣為 20 歲）。"
+
+#: flicks/base/templates/faq.html:176
+msgid "Who are the judges?"
+msgstr "評審有哪些人？"
+
+#: flicks/base/templates/faq.html:178
+msgid "See our <a href=\"%(link_home)s#judges\">Judges page</a> for a complete list."
+msgstr "請參考我們的 <a href=\"%(link_home)s#judges\">評審頁面</a> 當中的完整清單。"
+
+#: flicks/base/templates/faq.html:183
+msgid "Can I submit more than one flick?"
+msgstr "我可以投稿多部影片嗎？"
+
+#: flicks/base/templates/faq.html:185
+msgid "You can submit as many as you like, but you have to submit a new entry each time."
+msgstr "你想投幾部就投幾部！但是您必須獨立上傳每部影片。"
+
+#: flicks/base/templates/faq.html:190
+msgid "Can a team develop the flick?"
+msgstr "可以組隊拍片嗎？"
+
+#: flicks/base/templates/faq.html:192
+msgid "Of course! Teams can be up to 3 people, but please appoint a team leader. All communication will be with this person and only one prize will be awarded per entry."
+msgstr "當然！每組隊伍最多可以有三個人，請指派一位組長負責聯繫事宜。每個作品最多只會獲得一個獎項。"
+
+#: flicks/base/templates/faq.html:199
+msgid "Is the contest open to international entries?"
+msgstr "這個比賽是否接受全世界的投稿？"
+
+#: flicks/base/templates/faq.html:201
+msgid ""
+"Yes. This is an international film competition and entries can be submitted through the Flicks website. The Contest is void in Cuba, Iran, North Korea, Sudan, Syria and any other country subject to "
+"a U.S. boycott, where prohibited by law or restricted by law or regulations."
+msgstr "是的，這是個全球性的競賽，您可以透過競賽網站為您的作品報名。本競賽在古巴、伊朗、北韓、蘇丹、敘利亞，以及其他任何被美國依法律或命令抵制的國家無效。"
+
+#: flicks/base/templates/faq.html:209
+msgid "What can I win?"
+msgstr "參加這個活動有什麼好康？"
+
+#: flicks/base/templates/faq.html:211
+msgid ""
+"Your flick will be seen and voted on by millions of Firefox fans around the world, giving you exposure to a global audience. You'll also get your entry in front of international advertising "
+"executives and film luminaries while working on one of the world's biggest brands - a great piece to add to any portfolio."
+msgstr ""
+"只要參賽，您的影片就會被全世界數以百萬的 Firefox 粉絲看到及票選，接觸全球的觀眾。您不但能以世界上最大的品牌之一為題創作，成果也會在國際廣告專家與製片權威前展現，這是一個在作品集當中超棒的經歷！"
+
+#: flicks/base/templates/faq.html:220
+msgid "This year, we've expanded our prizes:"
+msgstr "今年我們增加了許多其他獎項："
+
+#: flicks/base/templates/faq.html:226
+msgid ""
+"<strong>Early Entry Awards</strong> - $1,000 awarded to the best flicks submitted before our film festival sponsorships. The top 3 early entry submission flicks from each film festival that Firefox "
+"sponsors are automatically included in the final round that will be submitted to and judged by our celebrity panel."
+msgstr ""
+"<strong>Early Entry Awards</strong> - 在我們贊助舉辦的影展開始前上傳的影片中，被評選為最佳的影片可獲得美金 1,000 元的獎金。在每次宣布由 Firefox 贊助的影展後，最早報名的 3 支參賽作品會自動晉級決選，"
+"交由評審們評判。"
+
+#: flicks/base/templates/faq.html:235
+msgid ""
+"<strong>People's Choice Award</strong> - The 3 winning flicks will be given exposure through our channels, be exposed to millions of Firefox website visitors and receive some great Firefox swag."
+msgstr "<strong>People's Choice Award</strong> - 本獎項的 3 部得獎作品將會透過我們的頻道，讓所有瀏覽 Firefox 網站的拜訪者觀賞；得獎者還可以收到 Firefox 澎湃大禮包。"
+
+#: flicks/base/templates/faq.html:243
+msgid "<strong>Regional Winners</strong> - One winner from each contest region will win a $5,000 cash prize and one runner up from each contest region will win a $2,500 cash prize. Contest regions:"
+msgstr "<strong>Regional Winners</strong> - 各個競賽區域的一名冠軍將贏得美金 5,000 元；一名亞軍則可獲得美金 2,500 元。參賽區域分為："
+
+#: flicks/base/templates/faq.html:252
+msgid "The U.S. and Canada"
+msgstr "美國與加拿大"
+
+#: flicks/base/templates/faq.html:262
+msgid "Europe, Middle East and Africa (EMEA)"
+msgstr "歐洲、中東與非洲 (EMEA)"
+
+#: flicks/base/templates/faq.html:267
+msgid "Asia, Australia and New Zealand (APAC)"
+msgstr "亞洲、澳洲與紐西蘭 (APAC)"
+
+#: flicks/base/templates/faq.html:274
+msgid ""
+"<strong>Grand Prize</strong><br/> The winner (or winning team) will fly to Los Angeles to work with producer (and Flicks judge) Couper Samuelson, CEO and Founder of The Black List Franklin Leonard "
+"and representatives from Panavision to professionally produce their winning entry using professional equipment."
+msgstr ""
+"<strong>Grand Prize</strong><br/> 得獎者（或得獎隊伍）將可以飛到洛杉磯，與名導演 Couper Samuelson（同時也是本活動評審）、The Black List 的執行長與創辦人 Franklin Leonard、以及來自 Panavision 的代表"
+"一起，使用專業器材專業地製作得獎作品。"
+
+#: flicks/base/templates/faq.html:281
+msgid "Additionally, just for entering, everyone will get a little something from us to say thanks for being a part of Firefox Flicks."
+msgstr "此外，所有參與 Firefox Flicks 的參加者都能夠獲得一份感謝小禮。"
+
+#: flicks/base/templates/faq.html:288
+msgid "Continue to check our <a href=\"%(link_home)s#prizes\">prizes page</a> for updated information throughout the contest period."
+msgstr "請記得在整個競賽過程中持續追蹤我們的 <a href=\"%(link_home)s#prizes\">獎項頁面</a> 以獲得更多更新資訊。"
+
+#: flicks/base/templates/faq.html:302
+msgid "What are the deadlines for the Early Entry Awards?"
+msgstr "Early Entry Awards 什麼時候截止？"
+
+#: flicks/base/templates/faq.html:304 flicks/base/templates/home.html:534 flicks/videos/templates/videos/2013/winners.html:457 flicks/videos/templates/videos/2013/winners.html:533
+msgid "April 3"
+msgstr "四月三日"
+
+#: flicks/base/templates/faq.html:304 flicks/base/templates/home.html:534
+msgid "1st Early Entry Award"
+msgstr "第一個 Early Entry Award"
+
+#: flicks/base/templates/faq.html:305 flicks/base/templates/home.html:535 flicks/base/templates/carousel/may29_earlyentry.html:4 flicks/videos/templates/videos/2013/winners.html:388
+#: flicks/videos/templates/videos/2013/winners.html:534
+msgid "May 29"
+msgstr "5 月 29 日"
+
+#: flicks/base/templates/faq.html:305 flicks/base/templates/home.html:535
+msgid "2nd Early Entry Award"
+msgstr "第二個 Early Entry Award"
+
+#: flicks/base/templates/faq.html:306 flicks/base/templates/home.html:536 flicks/base/templates/carousel/july3_earlyentry.html:4 flicks/videos/templates/videos/2013/winners.html:319
+#: flicks/videos/templates/videos/2013/winners.html:535
+msgid "July 3"
+msgstr "7 月 3 日"
+
+#: flicks/base/templates/faq.html:306 flicks/base/templates/home.html:536
+msgid "3rd Early Entry Award"
+msgstr "第三個 Early Entry Award"
+
+#: flicks/base/templates/faq.html:317
+msgid "What is the deadline to submit my flick?"
+msgstr "上傳短片的最後機會是什麼時候？"
+
+#: flicks/base/templates/faq.html:319
+msgid ""
+"You can submit your flick to be eligible for our Early Entry Awards (above), but the deadline to submit your film to be eligible for the People's Choice Award and Regional Awards is July 31, 2013, "
+"at 11:59PM PST (7:59AM GMT)."
+msgstr ""
+"您可以提早上傳您的創意短片，以爭取獲得 Early Entry Awards 的機會 (如上)。請注意，報名爭取「People's Choice Award」以及「Regional Awards」等其他獎項的最後機會將於美西太平洋時間 2013 年 7 月 31 日晚"
+"上 11:59（台灣時間為隔日下午 3 點 59 分）截止。"
+
+#: flicks/base/templates/faq.html:326
+msgid "How will the winners be announced?"
+msgstr "優勝者會以何種方式公布？"
+
+#: flicks/base/templates/faq.html:328
+msgid ""
+"The winners will be notified by email and phone (if contact information is available). Winners will also be announced on the Flicks site, Firefox Flicks social media properties and at Firefox "
+"sponsored film festivals."
+msgstr "優勝者會收到電子郵件與電話通知（報名時有提供聯絡訊息的話）。優勝名單也會於本活動網站、Firefox Flicks 的社群網路，以及各個 Firefox 贊助的電影節中公布。"
+
+#: flicks/base/templates/faq.html:335
+msgid "Is there a maximum video length?"
+msgstr "有影片長度限制嗎？"
+
+#: flicks/base/templates/faq.html:337
+msgid "All videos must be no longer than 60 seconds."
+msgstr "所有參賽影片皆不得超過 60 秒。"
+
+#: flicks/base/templates/faq.html:342
+msgid "Can I submit an entry as a university project?"
+msgstr "我可以把作品當作學校專題製作嗎？"
+
+#: flicks/base/templates/faq.html:344
+msgid ""
+"Absolutely! We think that Firefox Flicks is a great opportunity for students to participate in a real world, high visibility campaign with expert judges from the film, television and advertising "
+"industries. Talk to your professors about using the video as your project."
+msgstr "當然可以！Firefox 影片競賽是一個讓學生參與實務競賽的大好機會，這個競賽可以讓很多人看到，且由電視、電影與廣告等產業的專家進行評分。歡迎跟您的教授談論如何把拍攝影片做為作業之一。"
+
+#: flicks/base/templates/faq.html:352
+msgid "Can I use the Firefox wordmark and logo in my flick?"
+msgstr "我可以在影片當中使用 Firefox 的商標與圖示嗎？"
+
+#: flicks/base/templates/faq.html:354
+msgid ""
+"Yes. For the purposes of this contest, you may use the <a href=\"%(link_fxbrand)s\" rel=\"external\">Firefox</a> and <a href=\"%(link_fxosbrand)s\" rel=\"external\">Firefox OS</a> wordmark and "
+"logo. For more information, see the <a href=\"%(link_tmpolicy)s\" rel=\"external\">Mozilla Trademark Policy</a>."
+msgstr ""
+"可以。若您是以拍攝這個比賽要用的短片為目的的話，您可以使用 <a href=\"%(link_fxbrand)s\" rel=\"external\">Firefox</a> 與 <a href=\"%(link_fxosbrand)s\" rel=\"external\">Firefox OS</a> 的商標與圖示。"
+"若需要更多關於商標使用的資訊，請參考 <a href=\"%(link_tmpolicy)s\" rel=\"external\">Mozilla 商標使用政策</a>。"
+
+#: flicks/base/templates/faq.html:365
+msgid "How do I get high resolution Firefox name and logo artwork?"
+msgstr "我要如何才能取得 Firefox 標準字與圖示的高解析度檔案？"
+
+#: flicks/base/templates/faq.html:367
+msgid ""
+"To get high resolution copies of the Firefox and Firefox OS name and logo artwork, as well as guidance on how to use the Firefox logo and wordmarks, please <a href=\"%(link_styleguide)s\" rel="
+"\"external\">visit our style guide</a>."
+msgstr "若需要高解析度的圖檔還有使用規範的話，請看看我們的 <a href=\"%(link_styleguide)s\" rel=\"external\">style guide</a> 網頁。"
+
+#: flicks/base/templates/faq.html:374
+msgid "Where can I find music or other materials to include in my flick?"
+msgstr "我要到哪裡找音樂或其他素材放到影片當中？"
+
+#: flicks/base/templates/faq.html:376
+msgid ""
+"If you're looking for additional materials - music, video footage, artwork or graphics - we suggest you investigate public domain media. <a href=\"%(link_ccommons)s\" rel=\"external\">Creative "
+"Commons</a> has a nice search service for locating public domain work (<a href=\"%(link_pdwiki)s\">Read more about the public domain at Wikipedia</a>). You can also check out this list of <a href="
+"\"%(link_tumblr_resources)s\" rel=\"external\">creative resources on the Flicks blog</a> (English only)."
+msgstr ""
+"若您需要更多素材，不論是音樂、畫面素材或美工圖片等等，我們建議您使用公有領域的媒體素材。<a href=\"%(link_ccommons)s\" rel=\"external\">創用 CC 網站</a>提供了一個不錯的搜尋服務讓您可以尋找公有領域作"
+"品，您也可以到<a href=\"%(link_pdwiki)s\">維基百科</a>取得更多關於公有領域的資訊。您也可以看看 Flicks 部落格的<a href=\"%(link_tumblr_resources)s\" rel=\"external\">創意資源清單</a>中有什麼東西可以"
+"拿來使用（僅英文）。"
+
+#: flicks/base/templates/faq.html:391
+msgid "Can I use third-party trademarks or copyrighted materials in my flick?"
+msgstr "我可以在短片當中使用第三方商標或其他受著作權保護的素材嗎？"
+
+#: flicks/base/templates/faq.html:393
+msgid "No, not without permission from the owner of those materials."
+msgstr "不可以，未經這些素材的擁有者授權前，請勿使用。"
+
+#: flicks/base/templates/faq.html:398
+msgid "Can I submit a flick in a language other than English?"
+msgstr "我可以用非英語影片報名嗎？"
+
+#: flicks/base/templates/faq.html:400
+msgid ""
+"Yes. For non-English entries, you will need to submit a full and accurate script or subtitles. If you're having trouble getting your flick translated, <a href=\"%(link_flicksemail)s\">please "
+"contact us</a>. We can help."
+msgstr "可以。對於非英語的作品，您需要送出完整且精確的字幕或腳本。若您沒有辦法翻譯您的影片，請 <a href=\"%(link_flicksemail)s\">聯絡我們</a>，我們可以幫忙。"
+
+#: flicks/base/templates/faq.html:407
+msgid "What if I want to withdraw my submission?"
+msgstr "如果我想撤回我的作品怎麼辦？"
+
+#: flicks/base/templates/faq.html:409
+msgid "If you would like to withdraw your submission, please contact us at <a href=\"%(link_flicksemail)s\">firefoxflicks@mozilla.org</a> and we will remove your entry from the competition."
+msgstr "如果您想要放棄報名，請寫信到 <a href=\"%(link_flicksemail)s\">firefoxflicks@mozilla.org</a> 聯絡我們，我們將會自比賽中移除您的作品。"
+
+#: flicks/base/templates/faq.html:416
+msgid "What aspect ratio should I use for my entry?"
+msgstr "我的作品應該使用什麼長寬比例製作？"
+
+#: flicks/base/templates/faq.html:418
+msgid "All aspect ratios will be accepted, but 16:9 is recommended and preferred."
+msgstr "本競賽接受任何長寬比例的影片，但我們比較喜歡、也推薦您以 16:9 製作。"
+
+#: flicks/base/templates/faq.html:423
+msgid "Will entries be available to the general public?"
+msgstr "報名的影片將會向大眾公開嗎？"
+
+#: flicks/base/templates/faq.html:425
+msgid ""
+"Your flick will be posted to the Flicks gallery and the voting site, as well as the Firefox Flicks channel on Vimeo so that people can watch during the contest period and vote for their favorite "
+"flicks during the voting period. Your name will be displayed publicly along with your video."
+msgstr "您的短片將會被張貼到 Flicks 藝廊與投票網站、以及 Vimeo 上 Firefox Flicks 的專屬頻道，提供觀眾觀看並在投票期間票選出最佳影片。您的姓名將在您的影片旁出現。"
+
+#: flicks/base/templates/faq.html:433 flicks/base/templates/home.html:99
+msgid "What is Firefox OS?"
+msgstr "Firefox OS 是什麼？"
+
+#: flicks/base/templates/faq.html:435
+msgid ""
+"<a href=\"%(link_firefoxos)s\" rel=\"external\">Firefox OS</a> is an operating system for smartphones that anyone can change, add to and share with the world, freeing them from the rules and "
+"restrictions of existing phones and the platforms they run on. What this means is that we're making smartphones more affordable and empowering, making it possible for more people to take advantage "
+"of the full power of the Web, giving individuals and communities the freedom to blaze their own trail, amplify their voice, control their destiny and transform the future."
+msgstr ""
+"<a href=\"%(link_firefoxos)s\" rel=\"external\">Firefox OS</a> 是個智慧型手機的作業系統。人人得以改變、添增其內涵，與全世界分享，並自現有手機與平台的藩籬中解放。這代表著我們正讓智慧型手機更易負擔、"
+"更強大，讓更多人能體現網路的全面力量，讓個人與社群都能自由地走他們的路、自由地發聲、自由地選擇使命，乃至於改變未來。"
+
+#: flicks/base/templates/home.html:8
+msgid "A Global Video Contest to Mobilize the Web"
+msgstr "關於網路行動化的全球影片競賽"
+
+#: flicks/base/templates/home.html:24
+msgid "You&#8217;re the director. Mobile is the star."
+msgstr "你就是導演，讓行動網路發揮璀璨光芒！"
+
+#: flicks/base/templates/home.html:28
+msgid "Enter Firefox Flicks, a global video contest about the power of the Web on mobile devices, and get your film seen by millions."
+msgstr "加入 Firefox Flicks，一場關於行動裝置威力的全球影片競賽，讓您的影片能被百萬觀眾觀賞。"
+
+#: flicks/base/templates/home.html:33
+msgid "Welcome to Firefox Flicks, the global video contest about the power of the Web on mobile devices."
+msgstr "歡迎來到 Firefox Flicks，一場關於行動裝置威力的全球影片競賽。"
+
+#: flicks/base/templates/home.html:79
+msgid ""
+"We're looking for videos that tell the story of how having access to the Web through a mobile device can change the way you see the world and how you function within it. You could win some <a href="
+"\"#prizes\" class=\"scroll\">great prizes</a> and be seen by <a href=\"#judges\" class=\"scroll\">celebrity judges</a> who can make your moviemaking dreams come true."
+msgstr ""
+"我們在尋找述說透過行動裝置能夠如何改變看世界的角度的故事的影片。馬上參加，就有機會贏得<a href=\"#prizes\" class=\"scroll\">大獎</a>以及被眾多<a href=\"#judges\" class=\"scroll\">知名評審</a>看見你的"
+"創意的機會，讓你的電影夢成真吧！"
+
+#: flicks/base/templates/home.html:86
+msgid ""
+"Firefox Flicks is a global video competition encouraging filmmakers to educate others about the issues that affect our online lives. This year, it's all about the power that having access to the "
+"Web through mobile devices gives people and how that power can change the way we see the world and function within it."
+msgstr "Firefox Flicks 是個鼓勵製片人教育大眾關於那些會影響我們線上生活的事情的影片競賽。今年，我們聚焦於透過讓人們能透過行動存取網路的威力，以及這些威力能夠怎樣影響您看這個世界的角度。"
+
+#: flicks/base/templates/home.html:100
+msgid "How do I enter?"
+msgstr "我要如何加入？"
+
+#: flicks/base/templates/home.html:101
+msgid "What is the deadline?"
+msgstr "期限是什麼時候？"
+
+#: flicks/base/templates/home.html:104 flicks/base/templates/home.html:105
+msgid "Play a short introduction video"
+msgstr "播一段簡短的介紹短片"
+
+#: flicks/base/templates/home.html:109
+msgid "Learn more about Firefox OS, the open, Web-based operating system for mobile devices, and get answers to all your other questions."
+msgstr "了解 Firefox OS，開放、以網頁為基礎的行動裝置作業系統的更多資訊，並取得其他疑問的解答。"
+
+#: flicks/base/templates/home.html:114
+msgid "Read the FAQ"
+msgstr "閱讀常見問題集"
+
+#: flicks/base/templates/home.html:123 flicks/base/templates/shared/header.html:16
+msgid "2013 Flicks"
+msgstr "2013 Flicks"
+
+#: flicks/base/templates/home.html:126
+msgid "Use the materials below to get inspired and to help you make your flick."
+msgstr "使用下方的素材幫助您創作短片。"
+
+#: flicks/base/templates/home.html:131 flicks/base/templates/home_cta.html:36
+msgid "See Early Entry Award winners"
+msgstr "檢視 Early Entry Awards 得獎者"
+
+#: flicks/base/templates/home.html:132 flicks/base/templates/home_cta.html:6 flicks/base/templates/home_cta.html:61
+msgid "View the gallery of entries"
+msgstr "檢視投稿影片線上藝廊"
+
+#: flicks/base/templates/home.html:133 flicks/base/templates/home_cta.html:17
+msgid "Read the creative brief"
+msgstr "閱讀創意需求"
+
+#: flicks/base/templates/home.html:134
+msgid "Download the creative assets"
+msgstr "下載創意素材"
+
+#: flicks/base/templates/home.html:138
+msgid "See what last year's winners have to say about their experience."
+msgstr "看看去年的得獎者的拍攝經驗。"
+
+#: flicks/base/templates/home.html:142
+msgid "(Please note that last year's theme was Firefox. This year it's about the power of the Web on mobile devices.)"
+msgstr "(請注意去年的主題是 Firefox，今年的主題為網頁在行動裝置中的威力。)"
+
+#: flicks/base/templates/home.html:206 flicks/base/templates/judges.html:15
+msgid "Meet the judges"
+msgstr "評審有哪些人？"
+
+#: flicks/base/templates/home.html:210
+msgid "Get to know our illustrious panel of celebrity judges &ndash; led by actor, director, producer and activist Edward Norton &ndash; who helped us choose this year's winners."
+msgstr "見過我們的知名評審名單 &ndash; 演員、導演、製作人與社會活動家 Edward Norton 等人。這些幫助我們選出今年的得獎作品。"
+
+#: flicks/base/templates/home.html:216
+msgid "Get to know our illustrious panel of celebrity judges &ndash; led by actor, director, producer and activist Edward Norton &ndash; who will see your flick and help us choose this year's winner."
+msgstr "見過我們的知名評審名單 &ndash; 演員、導演、製作人與社會活動家 Edward Norton 等人。這些評審會觀賞您的短片，並幫助我們選出今年的得獎作品。"
+
+#: flicks/base/templates/home.html:225
+msgid "Click on each photo for a full bio."
+msgstr "點下各張照片可閱讀完整傳記。"
+
+#: flicks/base/templates/home.html:236 flicks/base/templates/home.html:347 flicks/base/templates/home.html:397 flicks/base/templates/judge_macros.html:6 flicks/base/templates/judge_macros.html:170
+#: flicks/base/templates/judge_macros.html:242
+msgid "Producer"
+msgstr "製作人"
+
+#: flicks/base/templates/home.html:244
+msgid "<abbr title=\"Executive Vice President\">EVP</abbr>, Global Sales and Marketing, Panavision"
+msgstr "Panavision 全球業務與行銷執行副總裁"
+
+#: flicks/base/templates/home.html:250
+msgid ""
+"Panavision is excited to partner once again with the Firefox Flicks team. As partners, we are really interested in working with talented storytellers to share some of the 60-plus years of "
+"experience we have in filmmaking and stay at the forefront of the industry's transition to digital cinematography."
+msgstr "Panavision 很興奮能再次與 Firefox Flicks 合作。作為夥伴，我們有興趣與這些天賦異稟的故事述說者分享一些超過 60 年的影片製作，以及業界轉型至數位影片製作的相關經驗。"
+
+#: flicks/base/templates/home.html:269 flicks/base/templates/judge_macros.html:51
+msgid "Founder, Black List"
+msgstr "Black List 創辦人"
+
+#: flicks/base/templates/home.html:275
+msgid ""
+"My livelihood is built on spotting talent early and introducing them to Hollywood. Working with Firefox on the 2013 Flicks campaign is a natural extension of that work &ndash; creating access to "
+"the film industry for unknown but talented storytellers who will go on to make the films that will inspire the generation that follows behind them. We now live in a world where the only distance "
+"between that network and those storytellers can and should be a browser window, and I'm incredibly excited to be working with Firefox to make sure that's true."
+msgstr ""
+"My livelihood is built on spotting talent early and introducing them to Hollywood. Working with Firefox on the 2013 Flicks campaign is a natural extension of that work &ndash; creating access to "
+"the film industry for unknown but talented storytellers who will go on to make the films that will inspire the generation that follows behind them. We now live in a world where the only distance "
+"between that network and those storytellers can and should be a browser window, and I'm incredibly excited to be working with Firefox to make sure that's true."
+
+#: flicks/base/templates/home.html:297 flicks/base/templates/judge_macros.html:80
+msgid "Actor, Director, Producer, Activist"
+msgstr "演員、導演、製片、社會運動參與者"
+
+#: flicks/base/templates/home.html:303
+msgid ""
+"What I think is really cool about Firefox Flicks is that it marries that core philosophy of liberating people to say what they want to say and connects it to something that's happening in the arts "
+"and film."
+msgstr ""
+"What I think is really cool about Firefox Flicks is that it marries that core philosophy of liberating people to say what they want to say and connects it to something that's happening in the arts "
+"and film."
+
+#: flicks/base/templates/home.html:321 flicks/base/templates/judge_macros.html:127
+msgid "General Manager, <abbr title=\"Europe, the Middle East, and Africa\">EMEA</abbr> Marketing, Dolby"
+msgstr "Dolby <abbr title=\"歐洲、中東、非洲\">EMEA</abbr> 區行銷總經理"
+
+#: flicks/base/templates/home.html:327
+msgid ""
+"Sound and cinema have been inextricably linked since the movies started talking to us. Partnering with Firefox Flicks is a natural fit for Dolby as we're passionate about using sound to tell great "
+"stories through the medium of film. We're looking forward to helping young filmmakers capture the power of sound to deliver unforgettable experiences in their films."
+msgstr ""
+"Sound and cinema have been inextricably linked since the movies started talking to us. Partnering with Firefox Flicks is a natural fit for Dolby as we're passionate about using sound to tell great "
+"stories through the medium of film. We're looking forward to helping young filmmakers capture the power of sound to deliver unforgettable experiences in their films."
+
+#: flicks/base/templates/home.html:353
+msgid ""
+"I'm a firm believer that if you have the talent and you work hard all you need to succeed is the right forum. That's what excites me about Firefox Flicks. It gives aspiring film students and "
+"filmmakers a forum that showcases their talent to millions of people around the globe and gives them access to folks that can change the trajectory of their careers."
+msgstr ""
+"I'm a firm believer that if you have the talent and you work hard all you need to succeed is the right forum. That's what excites me about Firefox Flicks. It gives aspiring film students and "
+"filmmakers a forum that showcases their talent to millions of people around the globe and gives them access to folks that can change the trajectory of their careers."
+
+#: flicks/base/templates/home.html:373 flicks/base/templates/judge_macros.html:198
+msgid "Actor"
+msgstr "演員"
+
+#: flicks/base/templates/home.html:379
+msgid ""
+"I love working with companies that give opportunities to independent artist, by combining technology and art Firefox is doing just that! Thank you Firefox Flicks for opening doors and allowing me "
+"to be a part of the process!"
+msgstr ""
+"I love working with companies that give opportunities to independent artist, by combining technology and art Firefox is doing just that! Thank you Firefox Flicks for opening doors and allowing me "
+"to be a part of the process!"
+
+#: flicks/base/templates/home.html:403
+msgid ""
+"Now that technology has helped democratize film production, it's important for technology to democratize its distribution and there is no more democratic distribution mechanism than the web "
+"browser. I'm excited to work with Mozilla and its community of creators to help tell original stories and deliver them to audiences around the world."
+msgstr ""
+"Now that technology has helped democratize film production, it's important for technology to democratize its distribution and there is no more democratic distribution mechanism than the web "
+"browser. I'm excited to work with Mozilla and its community of creators to help tell original stories and deliver them to audiences around the world."
+
+#: flicks/base/templates/home.html:423 flicks/base/templates/judge_macros.html:266
+msgid "Cinematographer"
+msgstr "攝影師"
+
+#: flicks/base/templates/home.html:429
+msgid ""
+"For over 30 years, I have been constantly engaged in filming the connections we all share, as humans, with the rest of our planet. The moments that make us inspired and connect us to the universe "
+"through the celebration of life. Firefox Flicks is all about connecting people through the mobile web and I'm more than happy to share my perspective with the filmmakers of tomorrow in this pursuit."
+msgstr ""
+"For over 30 years, I have been constantly engaged in filming the connections we all share, as humans, with the rest of our planet. The moments that make us inspired and connect us to the universe "
+"through the celebration of life. Firefox Flicks is all about connecting people through the mobile web and I'm more than happy to share my perspective with the filmmakers of tomorrow in this pursuit."
+
+#: flicks/base/templates/home.html:449 flicks/base/templates/judge_macros.html:307
+msgid "Producer, Director"
+msgstr "製作人、導演"
+
+#: flicks/base/templates/home.html:463 flicks/base/templates/shared/header.html:19
+msgid "Prizes"
+msgstr "獎項"
+
+#: flicks/base/templates/home.html:467
+msgid ""
+"There are many chances and ways to win throughout the competition. That means you're not just in the running for the Grand Prize, but you could win a Regional Prize, People's Choice Award and Early "
+"Entry Award as well. Plus, the top three entries from each film festival automatically move on to the finals and a chance at the top prize (so get your flick in early). And just for entering, "
+"everyone gets a little something from us to say thanks."
+msgstr ""
+"有幾個不同的機會可以贏得獎項，您不一定只要贏得最終大獎，其他的獎項還有 Regional Prize、People's Choice Award 與 Early Entry Award。每個影展最早三個報名上傳的影片將可直接參加決選。此外，只要參與這個"
+"比賽，您將會得到一些來自我們的感謝小禮。"
+
+#: flicks/base/templates/home.html:482
+msgid "Here's a more detailed look at what you can win, but check back for prize updates throughout the contest."
+msgstr "這裡有更詳盡的獎項說明，但在整個競賽過程中，記得要回來檢查有無獎項更新資訊。"
+
+#: flicks/base/templates/home.html:489 flicks/videos/templates/videos/2013/winners.html:31
+msgid "Grand Prize"
+msgstr "Grand Prize 最後大獎"
+
+#: flicks/base/templates/home.html:491
+msgid ""
+"The winner (or winning team) will fly to Los Angeles to work with producers (and Flicks judges) Franklin Leonard and Couper Samuelson, and representatives from Panavision to professionally produce "
+"their winning entry using professional equipment. The winning team will also get a one-day training session at the Dolby Institute in LA, as well as an invitation to a movie premiere and after-"
+"party at the Dolby Theater (if timing allows)."
+msgstr ""
+"得獎者（或得獎隊伍）將可以飛到洛杉磯，與名導演 Franklin Leonard 及 Couper Samuelson（同時也是本活動評審）、以及來自 Panavision 的代表一起，使用專業器材製作得獎作品。得獎的團隊也將會得到洛杉磯 Dolby "
+"Institute 的一日訓練課程，以及若時間允許的話，參加 Dolby Theater 的電影首映會與會後派對的機會。"
+
+#: flicks/base/templates/home.html:503 flicks/videos/templates/videos/2013/winners.html:58
+msgid "Regional Prizes"
+msgstr "Regional Prizes"
+
+#: flicks/base/templates/home.html:505
+msgid ""
+"A $5,000 top prize and $2,500 for the runner-up will go to the top two flicks from each of the contest regions: Latin America, North America, Asia Pacific and Europe, the Middle East and Africa."
+msgstr "將從拉丁美洲、北美洲、亞太、與歐洲、中東與非洲各自選出前兩名的短片。冠軍可獲得美金 5,000 元，亞軍可獲得美金 2,500 元獎金。"
+
+#: flicks/base/templates/home.html:514
+msgid "People's Choice Awards"
+msgstr "People's Choice Awards"
+
+#: flicks/base/templates/home.html:516
+msgid "All flicks submitted by July 31 are eligible. The 3 that earn the most votes in August win a Firefox Flicks swag bag and will be posted on our channels for millions to see."
+msgstr "所有在七月三十一日前上傳的短片都有獲獎資格。在八月裡取得最多票數的前 3 名短片將可以贏得 Firefox Flicks 澎湃大禮包，也將被張貼於我們的各個宣傳頻道中讓眾人看見。"
+
+#: flicks/base/templates/home.html:525
+msgid "Early Entry Awards"
+msgstr "Early Entry Awards"
+
+#: flicks/base/templates/home.html:527
+msgid "There will be multiple chances to win $1,000 for submitting your flick early. Enter before the deadlines listed below to be eligible:"
+msgstr "早點上傳你的短片，就有機會可以獲得美金 $1,000 元的獎金。請在下列期限前上傳，就能參加:"
+
+#: flicks/base/templates/home.html:546 flicks/base/templates/shared/header.html:20
+msgid "Rules"
+msgstr "規則"
+
+#: flicks/base/templates/home.html:549
+msgid ""
+"We want to give budding filmmakers the opportunity to create and submit short videos about letting people discover, access and enjoy more content that matters most to them and their future. The "
+"contest will run worldwide and winners will be chosen from four regions around the world: North America, Latin America, Asia Pacific and Europe, the Middle East and Africa. <a href=\"%(rules_link)s"
+"\">Read the complete official contest rules to learn more</a>. Your flick must be submitted under a <a href=\"%(link_cclicense)s\" rel=\"external\">Creative Commons - NonCommercial-ShareAlike "
+"license</a>"
+msgstr ""
+"我們希望提供影片創作者機會，拍攝一部關於人們探索、享用那些影響他們未來的重要事物的短片。競賽將會於全球舉行，我們將選出來自世界上四個不同區域的得獎作品：包含北美洲、拉丁美洲、亞太、以及歐洲、中東與非"
+"洲。<a href=\"%(rules_link)s\">閱讀完整的競賽規則</a>。要參加競賽，您的影片必須使用<a href=\"%(link_cclicense)s\" rel=\"external\">創用 CC 非商業性-相同方式分享</a>條款進行授權。"
+
+#: flicks/base/templates/home.html:563
+msgid "Sponsor"
+msgstr "主辦單位"
+
+#: flicks/base/templates/home.html:565
+msgid "The sponsor of the contest is the Mozilla Corporation."
+msgstr "此競賽之主辦單位為 Mozilla Corporation。"
+
+#: flicks/base/templates/home.html:570
+msgid "Eligibility"
+msgstr "參賽資格"
+
+#: flicks/base/templates/home.html:572
+msgid "No purchase or fee is necessary to enter or claim any prize."
+msgstr "您不需付出任何費用即可參與競賽或取得獎項。"
+
+#: flicks/base/templates/home.html:577
+msgid "Contest period"
+msgstr "競賽期間"
+
+#: flicks/base/templates/home.html:579
+msgid ""
+"The Contest begins at 3:00 p.m. Pacific Standard Time (PST) (11:00 p.m. GMT) on Wednesday, February 13, 2013, and ends at 11:59 p.m. PST on Wednesday, July 31, 2013 (7:59 a.m. GMT on August 1, "
+"2013)."
+msgstr "正式報名將於美西太平洋時間 2013 年 2 月 13 日下午 3 點（台灣時間隔日早上 7 點）開始，並且在 2013 年 7 月 31 日午夜 11 點 59 分（台灣時間為隔日下午 3 點 59 分）結束報名。"
+
+#: flicks/base/templates/home.html:586
+msgid "Privacy"
+msgstr "隱私"
+
+#: flicks/base/templates/home.html:588
+msgid ""
+"In order to enter, you'll have to provide your name, email address and country of residence (to determine your contest region). Your name and region will be posted along with your flick in the "
+"public galleries, where they can be viewed, liked and shared by everyone. <a href=\"%(rules_link)s\">Read the complete contest rules to learn more.</a>"
+msgstr ""
+"要參加此競賽，您必須提供您的姓名、電子郵件地址、以及居住國家（以決定您的參賽區域）等資訊。您的姓名與所在區域將會與您所上傳的影片一同被張貼到公開的網路藝廊供所有人檢視、按讚、分享。<a href="
+"\"%(rules_link)s\">閱讀完整的競賽規則。</a>"
+
+#: flicks/base/templates/home.html:596
+msgid "How to enter"
+msgstr "如何參加"
+
+#: flicks/base/templates/home.html:598
+msgid "Nice work! You made it all the way to the end. When you're ready, <a href=\"%(submit_url)s\" class=\"requires-auth\">start here to submit your flick.</a>"
+msgstr "做得好！準備好之後就 <a href=\"%(submit_url)s\" class=\"requires-auth\">從此處開始送出您的短片。</a>"
+
+#: flicks/base/templates/home.html:607
+msgid "The contest is now closed. The winners will be announced on September 12 at the Toronto International Film Festival."
+msgstr "本競賽已經結束。得獎者名單將會在 9 月 12 日的多倫多國際電影節中宣布。"
+
+#: flicks/base/templates/home.html:616
+msgid "The contest is now closed."
+msgstr "比賽已結束收件。"
+
+#: flicks/base/templates/home_cta.html:3
+msgid "Meet your competition"
+msgstr "見過您的對手"
+
+#: flicks/base/templates/home_cta.html:14
+msgid "Start thinking about your flick"
+msgstr "開始想想您的短片要怎麼拍吧"
+
+#: flicks/base/templates/home_cta.html:25
+msgid "Submit your flick today"
+msgstr "今天就報名上傳您的短片"
+
+#: flicks/base/templates/home_cta.html:28
+msgid "Start here"
+msgstr "從此處開始"
+
+#: flicks/base/templates/home_cta.html:39
+msgid "View the winning flicks so far"
+msgstr "觀賞目前的得獎短片"
+
+#: flicks/base/templates/home_cta.html:47
+msgid "Vote for the People's Choice Award"
+msgstr "投票選出 People's Choice Award 得獎作品"
+
+#: flicks/base/templates/home_cta.html:50
+msgid "Choose your favorites here"
+msgstr "在此選出您最愛的影片"
+
+#: flicks/base/templates/home_cta.html:58
+msgid "Explore 2013 Flicks"
+msgstr "探索 2013 Flicks"
+
+#: flicks/base/templates/home_cta.html:69
+msgid "Meet our partners"
+msgstr "認識我們的夥伴"
+
+#: flicks/base/templates/home_cta.html:72
+msgid "Get to know our friends who made Flicks 2013 possible"
+msgstr "認識我們的朋友，讓 Flicks 2013 成真"
+
+#: flicks/base/templates/home_cta.html:80
+msgid "See Firefox Flicks 2013 winners"
+msgstr "認識 Firefox Flicks 2013 得獎者"
+
+#: flicks/base/templates/home_cta.html:83
+msgid "Watch the winning entries"
+msgstr "觀賞得獎作品"
+
+#: flicks/base/templates/judge_macros.html:9
+msgid ""
+"Helen Estabrook is the producing partner of director Jason Reitman and runs their production company, Right of Way Films. She most recently produced Reitman's upcoming film, <cite>Labor Day</cite>, "
+"starring Josh Brolin and Kate Winslet. Currently, they are producing a feature adaptation of the Sundance-winning short <cite>Whiplash</cite>, directed by Damien Chazelle. Helen also served as an "
+"executive producer on the Duplass Brothers' film <cite>Jeff, Who Lives at Home</cite> and Reitman's previous feature, <cite>Young Adult</cite>."
+msgstr ""
+"Helen Estabrook is the producing partner of director Jason Reitman and runs "
+"their production company, Right of Way Films. She most recently produced "
+"Reitman's upcoming film, <cite>Labor Day</cite>, starring Josh Brolin and "
+"Kate Winslet. Currently, they are producing a feature adaptation of the "
+"Sundance-winning short <cite>Whiplash</cite>, directed by Damien Chazelle. "
+"Helen also served as an executive producer on the Duplass Brothers' film "
+"<cite>Jeff, Who Lives at Home</cite> and Reitman's previous feature, "
+"<cite>Young Adult</cite>."
+
+#: flicks/base/templates/judge_macros.html:26
+msgid "<abbr title=\"Exectuve Vice President\">EVP</abbr>, Global Sales and Marketing, Panavision"
+msgstr "Panavision 全球業務與行銷執行副總裁"
+
+#: flicks/base/templates/judge_macros.html:29
+msgid ""
+"Bob Harvey, EVP Global Sales and Marketing for Panavision, the premier supplier of cinematography equipment to the motion picture industry for the second half of the 20th century, has been in the "
+"business for over 30 years. While working for Atari as Director of Sales for the coin op division, owned by Warner Communications, he became friendly with Clint Eastwood who helped him secure his "
+"SAG card in 1982. Warner transferred him to Panavision in 1984 where he started as Director of Marketing. He became very involved with production from start to finish of principal photography. He "
+"is a member of the American Society of Cinematographers, a charter member of the IFP for independent films, a recipient of a FINDI award for his work with new and independent filmmakers and is "
+"thought of as a mentor to many successful filmmakers today."
+msgstr ""
+"Bob Harvey, EVP Global Sales and Marketing for Panavision, the premier supplier of cinematography equipment to the motion picture industry for the second half of the 20th century, has been in the "
+"business for over 30 years. While working for Atari as Director of Sales for the coin op division, owned by Warner Communications, he became friendly with Clint Eastwood who helped him secure his "
+"SAG card in 1982. Warner transferred him to Panavision in 1984 where he started as Director of Marketing. He became very involved with production from start to finish of principal photography. He "
+"is a member of the American Society of Cinematographers, a charter member of the IFP for independent films, a recipient of a FINDI award for his work with new and independent filmmakers and is "
+"thought of as a mentor to many successful filmmakers today."
+
+#: flicks/base/templates/judge_macros.html:54
+msgid ""
+"Franklin Leonard is the founder of the Black List, the yearly publication highlighting Hollywood's most popular unproduced screenplays and the startup birthed to continue its mission. Over 200 "
+"Black List scripts have been produced as feature films earning more than 140 Academy Award nominations including two of the last four Best Pictures and five of the last ten screenwriting Oscars. "
+"Franklin has worked in development at Universal Pictures and the production companies of Will Smith, Sydney Pollack and Anthony Minghella, Leonardo DiCaprio, and John Goldwyn. Before Los Angeles "
+"and all things film related, Franklin was &ndash; at different times &ndash; a business analyst at McKinsey & Co., a weekly columnist for the Trinidad Guardian in Port-au-Spain, Trinidad, and the "
+"communications director for John Cranley's 2000 campaign for the U.S. House of Representatives in Ohio's first district. Since 2010, he has been named one of Hollywood Reporter's 30 Under 30, Black "
+"Enterprise magazine's \"40 Emerging Leaders for Our Future,\" AOL Black Voices \"30 Black Hollywood Game Changers\"\" and Fast Company's \"100 Most Creative People in Business.\""
+msgstr ""
+"Franklin Leonard is the founder of the Black List, the yearly publication highlighting Hollywood's most popular unproduced screenplays and the startup birthed to continue its mission. Over 200 "
+"Black List scripts have been produced as feature films earning more than 140 Academy Award nominations including two of the last four Best Pictures and five of the last ten screenwriting Oscars. "
+"Franklin has worked in development at Universal Pictures and the production companies of Will Smith, Sydney Pollack and Anthony Minghella, Leonardo DiCaprio, and John Goldwyn. Before Los Angeles "
+"and all things film related, Franklin was &ndash; at different times &ndash; a business analyst at McKinsey & Co., a weekly columnist for the Trinidad Guardian in Port-au-Spain, Trinidad, and the "
+"communications director for John Cranley's 2000 campaign for the U.S. House of Representatives in Ohio's first district. Since 2010, he has been named one of Hollywood Reporter's 30 Under 30, Black "
+"Enterprise magazine's \"40 Emerging Leaders for Our Future,\" AOL Black Voices \"30 Black Hollywood Game Changers\"\" and Fast Company's \"100 Most Creative People in Business.\""
+
+#: flicks/base/templates/judge_macros.html:84
+msgid ""
+"Edward Norton has acted in the films <cite>Primal Fear</cite>, <cite>Everyone Says I Love You</cite>, <cite>The People vs Larry Flynt</cite>, <cite>American History X</cite>, <cite>Rounders</cite>, "
+"<cite>Fight Club</cite>, <cite>Keeping the Faith</cite>, <cite>The Score</cite>, <cite>Death to Smoochy</cite>, <cite>Frida</cite>, <cite>Red Dragon</cite>, <cite>The 25th Hour</cite>, <cite>The "
+"Italian Job</cite>, <cite>Down in the Valley</cite>, <cite>The Kingdom of Heaven</cite>, <cite>The Illusionist</cite>, <cite>The Painted Veil</cite>, <cite>The Incredible Hulk</cite>, <cite>Pride & "
+"Glory</cite>, <cite>Leaves of Grass</cite>, <cite>Stone</cite> and <cite>Moonrise Kingdom</cite>."
+msgstr ""
+"曾出演<cite>驚悚</cite>、<cite>大家都說我愛你</cite>、<cite>情色風暴</cite>、<cite>美國 X 檔案</cite>、<cite>賭王之王</cite>、<cite>鬥陣俱樂部</cite>、<cite>相信愛情</cite>、<cite>鬼計神偷</cite>、"
+"<cite>美國詐炮</cite>、<cite>揮灑烈愛</cite>、<cite>紅龍</cite>、<cite>25 小時</cite>、<cite>偷天換日</cite>、<cite>愛在山谷下</cite>、<cite>王者天下</cite>、<cite>魔幻至尊</cite>、<cite>面紗</"
+"cite>、<cite>無敵浩克</cite>、<cite>非法警戒</cite>、<cite>雙子陰謀</cite>、<cite>色獄心機</cite>、及<cite>月昇冒險王國</cite>。"
+
+#: flicks/base/templates/judge_macros.html:98
+msgid ""
+"He has been nominated for two Academy Awards &ndash; for <cite>Primal Fear</cite> and <cite>American History X</cite> &ndash; and won a Golden Globe along with numerous other awards for his "
+"performances. He produced and directed <cite>Keeping the Faith</cite> and also produced <cite>Down in the Valley</cite> (Cannes Film Festival selection), <cite>The Painted Veil</cite>, <cite>Leaves "
+"of Grass</cite> and the documentary <cite>By The People: The Election of Barack Obama</cite>."
+msgstr ""
+"他曾因<cite>驚悚</cite>及<cite>美國 X 檔案</cite>二度獲提名奧斯卡獎，並以傑出演技獲得金球獎等多項獎項。製作、執導<cite>相信愛情</cite>，並參與製作<cite>愛在山谷下</cite>（坎城影展參展作品）、<cite>"
+"面紗</cite>、<cite>雙子陰謀</cite>等片，以及紀錄片<cite>歐巴馬：白宮之路</cite>。"
+
+#: flicks/base/templates/judge_macros.html:109
+msgid ""
+"Norton is also a committed social and environmental activist, supporting the UN Convention on Biological Diversity, the President's Committee for the Arts and Humanities, Enterprise Community "
+"Partners, the Maasai Wilderness Conservation Trust, the Libby Rouse Fund for Peace, the Signature Theater Company and Friends of the High Line. Recently Norton founded CrowdRise, an innovative new "
+"web platform that brings the power of crowd-sourcing and the fun of social networking to fundraising and volunteerism."
+msgstr ""
+"Norton 同時也積極參與社會及環保運動，支持聯合國生物多樣化公約、美國總統藝術及人文委員會、Enterprise Community Partners、Maasai Wilderness Conservation Trust、Libby Rouse Fund for Peace、Signature "
+"Theater Company 及高線之友等組織。近來 Norton 創辦了一個創新的募款及志工網路平台，結合群眾外包的力量及社交網站的樂趣，名為 CrowdRise。"
+
+#: flicks/base/templates/judge_macros.html:130
+msgid ""
+"As General Manager, EMEA Marketing, Catherine Ogilvie is responsible for brand, product, and partner marketing throughout Europe, the Middle East, and Africa (<abbr>EMEA</abbr>). Catherine joined "
+"Dolby in 2009 as Vice President, Global Corporate Communications."
+msgstr ""
+"As General Manager, EMEA Marketing, Catherine Ogilvie is responsible for brand, product, and partner marketing throughout Europe, the Middle East, and Africa (<abbr>EMEA</abbr>). Catherine joined "
+"Dolby in 2009 as Vice President, Global Corporate Communications."
+
+#: flicks/base/templates/judge_macros.html:138
+msgid ""
+"Prior to starting at Dolby, Catherine was Executive Vice President and General Manager at Edelman, the world's largest independent PR agency, where she led the San Francisco office, building award-"
+"winning integrated communications programs for clients."
+msgstr ""
+"Prior to starting at Dolby, Catherine was Executive Vice President and General Manager at Edelman, the world's largest independent PR agency, where she led the San Francisco office, building award-"
+"winning integrated communications programs for clients."
+
+#: flicks/base/templates/judge_macros.html:146
+msgid ""
+"Previously, Catherine served as Director, Global Marketing and Communications, for the Almond Board of California, and as Senior Director, Marketing, for Napster, the original peer-to-peer music "
+"service. Catherine has also worked as a management consultant based in Munich, Germany, working with international media clients such as Bertelsmann, Kirch Gruppe, and Universal Studios."
+msgstr ""
+"Previously, Catherine served as Director, Global Marketing and Communications, for the Almond Board of California, and as Senior Director, Marketing, for Napster, the original peer-to-peer music "
+"service. Catherine has also worked as a management consultant based in Munich, Germany, working with international media clients such as Bertelsmann, Kirch Gruppe, and Universal Studios."
+
+#: flicks/base/templates/judge_macros.html:156
+msgid ""
+"Catherine studied theatre at Dartington College of Arts in Devon, England, and pursued post-graduate business studies at the University of London earning a Master's degree in Marketing and "
+"Communication."
+msgstr ""
+"Catherine studied theatre at Dartington College of Arts in Devon, England, and pursued post-graduate business studies at the University of London earning a Master's degree in Marketing and "
+"Communication."
+
+#: flicks/base/templates/judge_macros.html:173
+msgid ""
+"Shauna Robertson has produced some of the best comedies of the last decade. Her list of credits include <cite>Meet the Parents</cite>, <cite>Elf</cite>, <cite>Anchorman</cite>, <cite>The Forty Year "
+"Old Virgin</cite>, <cite>Knocked Up</cite>, <cite>Superbad</cite>, <cite>Pineapple Express</cite> and <cite>Forgetting Sarah Marshall</cite>. Shauna is a Canadian who moved to Hollywood to start "
+"working in the movies at age 17."
+msgstr ""
+"曾製作許多知名喜劇，參與過<cite>Meet the Parents</cite>、<cite>Elf</cite>、<cite>Anchorman</cite>、<cite>The Forty Year Old Virgin</cite>、<cite>Knocked Up</cite>、<cite>Superbad</cite>、"
+"<cite>Pineapple Express</cite>及<cite>Forgetting Sarah Marshall</cite>。Shauna 是加拿大人，17 歲時搬到好萊塢工作。"
+
+#: flicks/base/templates/judge_macros.html:183
+msgid ""
+"Last year she left the movie business to pursue her dreams of working in the non profit sector. In March 2010 she and her boyfriend, Edward Norton, launched the new web based company Crowdrise that "
+"helps individuals and charities make fundraising impactful and fun."
+msgstr "去年她離開電影事業，開始追尋在非營利組織工作的夢想，並於 2010 年 3 月偕男友 Edward Norton 創辦網路服務 Crowdrise 以幫助個人及慈善機構，讓募款更有效也更有趣。"
+
+#: flicks/base/templates/judge_macros.html:201
+msgid ""
+"Named the \"next big thing\" and one of the \"top 35 Latinos under 35,\" by <cite>The Hollywood Reporter</cite>, Gina Rodriguez's profile has been rising steadily since her breakout performance as "
+"the titular character in <cite>Filly Brown</cite> during the 2012 Sundance Film Festival. A 2012 Imagen award winner for \"Best Actress in a Feature Film: <cite>Filly Brown</cite>,\" Gina is "
+"steadily noticed by the public and entertainment industry due to her incredible acting chops and infectiously joyful personality."
+msgstr ""
+"Named the \"next big thing\" and one of the \"top 35 Latinos under 35,\" by <cite>The Hollywood Reporter</cite>, Gina Rodriguez's profile has been rising steadily since her breakout performance as "
+"the titular character in <cite>Filly Brown</cite> during the 2012 Sundance Film Festival. A 2012 Imagen award winner for \"Best Actress in a Feature Film: <cite>Filly Brown</cite>,\" Gina is "
+"steadily noticed by the public and entertainment industry due to her incredible acting chops and infectiously joyful personality."
+
+#: flicks/base/templates/judge_macros.html:212
+msgid ""
+"Growing up in Chicago, Gina Rodriguez started performing at age seven with the salsa dance company <i>Fantasia Juvenil</i>. At sixteen, Gina was one of thirteen teens to be accepted into Columbia "
+"University New York - Theatrical Collaboration, taught by Richard Niles. She was accepted into the Tisch School of the Arts, and the calling was clear; theatre was it. After the years of success in "
+"New York, Gina booked a lead role in a feature film <cite>Go For It</cite> (Lionsgate) in which she received a 2011 Imagen Awards nomination. After this, Gina booked her first co-star TV role on "
+"CBS' <cite>Eleventh Hour</cite>. She went on to book series regular roles on web series <cite>Eden's Court</cite> and <cite>No Names</cite>; her first studio film <cite>Our Family Wedding</cite> "
+"with America Ferrera; and a lead in film <cite>Superchicas</cite>. It was also recently announced that Gina has been cast in the highly coveted lead role of Pilar \"Maytag\" Robles in the Fox Navy "
+"drama pilot <cite>Wild Blue</cite>."
+msgstr ""
+"Growing up in Chicago, Gina Rodriguez started performing at age seven with the salsa dance company <i>Fantasia Juvenil</i>. At sixteen, Gina was one of thirteen teens to be accepted into Columbia "
+"University New York - Theatrical Collaboration, taught by Richard Niles. She was accepted into the Tisch School of the Arts, and the calling was clear; theatre was it. After the years of success in "
+"New York, Gina booked a lead role in a feature film <cite>Go For It</cite> (Lionsgate) in which she received a 2011 Imagen Awards nomination. After this, Gina booked her first co-star TV role on "
+"CBS' <cite>Eleventh Hour</cite>. She went on to book series regular roles on web series <cite>Eden's Court</cite> and <cite>No Names</cite>; her first studio film <cite>Our Family Wedding</cite> "
+"with America Ferrera; and a lead in film <cite>Superchicas</cite>. It was also recently announced that Gina has been cast in the highly coveted lead role of Pilar \"Maytag\" Robles in the Fox Navy "
+"drama pilot <cite>Wild Blue</cite>."
+
+#: flicks/base/templates/judge_macros.html:228
+msgid ""
+"Gina is a supporter of Inspira, an organization that works to spotlight Latino leaders who shape their communities. She also works with the National Hispanic Foundation for the Arts and the Boyle "
+"Heights Learning Collaborative. She lives in Los Angeles, California."
+msgstr ""
+"Gina is a supporter of Inspira, an organization that works to spotlight Latino leaders who shape their communities. She also works with the National Hispanic Foundation for the Arts and the Boyle "
+"Heights Learning Collaborative. She lives in Los Angeles, California."
+
+#. Note: The French "Palm d'Or" is a proper name and should not be translated.
+#: flicks/base/templates/judge_macros.html:246
+msgid ""
+"Couper Samuelson runs Jason Blum's Universal-based production company Blumhouse, which in the last year has produced the horror hit <cite>Sinister</cite>, the fourth <cite>Paranormal Activity</"
+"cite> movie, and a sequel to the 2011 hit <cite>Insidious</cite>, due in the theaters this August. Prior to Blumhouse, Samuelson produced the forthcoming Paramount release, <cite>Destination "
+"Wedding</cite>. Made for $100,000, that film will be the lowest-budget feature produced and released theatrically by a major studio in the modern era. Samuelson began his career at Mark Cuban's "
+"2929, where he co-produced movies including James Gray's <cite>We Own the Night</cite> and <cite>Two Lovers</cite>, both of which were nominated for the Cannes <i>Palme d'Or</i>."
+msgstr ""
+"Couper Samuelson runs Jason Blum's Universal-based production company Blumhouse, which in the last year has produced the horror hit <cite>Sinister</cite>, the fourth <cite>Paranormal Activity</"
+"cite> movie, and a sequel to the 2011 hit <cite>Insidious</cite>, due in the theaters this August. Prior to Blumhouse, Samuelson produced the forthcoming Paramount release, <cite>Destination "
+"Wedding</cite>. Made for $100,000, that film will be the lowest-budget feature produced and released theatrically by a major studio in the modern era. Samuelson began his career at Mark Cuban's "
+"2929, where he co-produced movies including James Gray's <cite>We Own the Night</cite> and <cite>Two Lovers</cite>, both of which were nominated for the Cannes <i>Palme d'Or</i>."
+
+#: flicks/base/templates/judge_macros.html:269
+msgid ""
+"Louie Schwartzberg is an award-winning producer, director, and cinematographer whose notable career spans more than three decades providing breathtaking imagery for feature films, television shows, "
+"documentaries and commercials."
+msgstr ""
+"Louie Schwartzberg is an award-winning producer, director, and cinematographer whose notable career spans more than three decades providing breathtaking imagery for feature films, television shows, "
+"documentaries and commercials."
+
+#: flicks/base/templates/judge_macros.html:277
+msgid ""
+"As a visual artist, Louie has created some of the most iconic and memorable film moments of our time. He is an innovator in the world of nature, aerial and \"slice-of-life\" photography &ndash; the "
+"only cinematographer in the world who has literally been shooting time-lapse 24 hours a day, 7 days a week continuously for more than 30 years."
+msgstr ""
+"As a visual artist, Louie has created some of the most iconic and memorable film moments of our time. He is an innovator in the world of nature, aerial and \"slice-of-life\" photography &ndash; the "
+"only cinematographer in the world who has literally been shooting time-lapse 24 hours a day, 7 days a week continuously for more than 30 years."
+
+#: flicks/base/templates/judge_macros.html:286
+msgid ""
+"He recently completed <cite>Wings of Life</cite>, a documentary feature for Disneynature, narrated by Meryl Streep. It won Best Theatrical Program at the Jackson Hole Science Media Awards 2012, a "
+"Best Cinematography Roscar Award, and the Best Cinematography Award at the 2013 Waimea Ocean Film Festival. The film reveals the fragile relationship between flowers, and their pollination "
+"partners. It is a love story that feeds the earth. The film will be released April 16 on Blu Ray. As a director, he is completing <cite>Mysteries of the Unseen World</cite>, a 3D-IMAX film with "
+"National Geographic, that is targeted for an October 2013 release. The film is a journey into invisible worlds that are too slow, too fast, too small and too vast for the human eye to see. He has "
+"received Clio Awards for Best Environmental PSA, an Emmy nomination for Best Cinematography for <cite>Oceans of Air</cite> on the Discovery Channel, and recognized as one of the top 70 "
+"Cinematographers for the On Film Kodak Salute Series."
+msgstr ""
+"He recently completed <cite>Wings of Life</cite>, a documentary feature for Disneynature, narrated by Meryl Streep. It won Best Theatrical Program at the Jackson Hole Science Media Awards 2012, a "
+"Best Cinematography Roscar Award, and the Best Cinematography Award at the 2013 Waimea Ocean Film Festival. The film reveals the fragile relationship between flowers, and their pollination "
+"partners. It is a love story that feeds the earth. The film will be released April 16 on Blu Ray. As a director, he is completing <cite>Mysteries of the Unseen World</cite>, a 3D-IMAX film with "
+"National Geographic, that is targeted for an October 2013 release. The film is a journey into invisible worlds that are too slow, too fast, too small and too vast for the human eye to see. He has "
+"received Clio Awards for Best Environmental PSA, an Emmy nomination for Best Cinematography for <cite>Oceans of Air</cite> on the Discovery Channel, and recognized as one of the top 70 "
+"Cinematographers for the On Film Kodak Salute Series."
+
+#: flicks/base/templates/judge_macros.html:310
+msgid ""
+"Andrzej Szajna has been in and out of the film and TV industry for 19 years. He started his career as an assistant director on low budget action movies such as <cite>Avalon</cite>, <cite>Derailed</"
+"cite>, and <cite>Out of Reach</cite> and worked for Independent producers such as Nu Image and Lucky 7 productions. At this point, Andrzej delved into stockbroking and entrepreneurship for 3 years. "
+"He went on to produce <cite>Snow White Russian Red</cite> which won best film in 2010 at the Polish Eagle awards, as well as the Polish Hollywood Eagle awards. Afterwards, he produced "
+"<cite>Londoners</cite>, a Polish TV series with a 13 million euro budget, which was nominated for Prix Europa and other awards internationally."
+msgstr ""
+"Andrzej Szajna has been in and out of the film and TV industry for 19 years. He started his career as an assistant director on low budget action movies such as <cite>Avalon</cite>, <cite>Derailed</"
+"cite>, and <cite>Out of Reach</cite> and worked for Independent producers such as Nu Image and Lucky 7 productions. At this point, Andrzej delved into stockbroking and entrepreneurship for 3 years. "
+"He went on to produce <cite>Snow White Russian Red</cite> which won best film in 2010 at the Polish Eagle awards, as well as the Polish Hollywood Eagle awards. Afterwards, he produced "
+"<cite>Londoners</cite>, a Polish TV series with a 13 million euro budget, which was nominated for Prix Europa and other awards internationally."
+
+#: flicks/base/templates/judge_macros.html:323
+msgid "Andrzej has spent the last couple of years fund raising for non profit organizations and is currently developing a slate of new projects for 2014."
+msgstr "Andrzej has spent the last couple of years fund raising for non profit organizations and is currently developing a slate of new projects for 2014."
+
+#: flicks/base/templates/judges.html:5 flicks/base/templates/shared/header.html:18
+msgid "Judges"
+msgstr "評審"
+
+#: flicks/base/templates/judges.html:7
+msgid "Get to know our illustrious panel of celebrity judges who will see your flick and help us choose this year's winner."
+msgstr "見過我們的知名評審名單。這些評審會觀賞您的短片，並幫助我們選出今年的得獎作品。"
+
+#: flicks/base/templates/macros.html:12
+msgid "Previous page"
+msgstr "上一頁"
+
+#: flicks/base/templates/macros.html:20 flicks/base/templates/macros.html:42 flicks/base/templates/macros.html:57
+msgid "<span>Go to page</span> %(page_number)s"
+msgstr "<span>跳到第 %(page_number)s 頁</span>"
+
+#: flicks/base/templates/macros.html:35
+msgid "<span>You're on page</span> %(page_number)s"
+msgstr "<span>您目前位於第 %(page_number)s 頁</span>"
+
+#: flicks/base/templates/macros.html:67
+msgid "Next page"
+msgstr "下一頁"
+
+#: flicks/base/templates/macros.html:93
+msgid "Share this video with your social network"
+msgstr "將此影片分享至您的社群網路"
+
+#: flicks/base/templates/macros.html:94
+msgid "Share Video"
+msgstr "分享影片"
+
+#. Text is used in a tweet, please keep the length under 70 characters.
+#: flicks/base/templates/macros.html:105
+msgid "Vote For \"%s\" in the #FirefoxFlicks #FirefoxOS People's Choice Awards!"
+msgstr "在 #FirefoxFlicks #FirefoxOS 將最佳人氣獎投給「%s」！"
+
+#. Text is used in a tweet, please keep the length under 110 characters.
+#: flicks/base/templates/macros.html:108
+msgid "Watch \"%s\" on Firefox Flicks"
+msgstr "觀賞 Firefox Flicks 上的《%s》"
+
+#. Text is used in a tweet, please keep the length under 110 characters.
+#: flicks/base/templates/macros.html:114 flicks/videos/templates/videos/upload_complete.html:42
+msgid "You're the director. Mobile is the star."
+msgstr "你就是導演，讓行動網路發揮璀璨光芒！"
+
+#: flicks/base/templates/macros.html:121
+msgid "Share on Twitter"
+msgstr "分享至 Twitter"
+
+#: flicks/base/templates/macros.html:126
+msgid "Share on Facebook"
+msgstr "分享至 Facebook"
+
+#: flicks/base/templates/macros.html:131
+msgid "Share on Tumblr"
+msgstr "分享至 Tumblr"
+
+#: flicks/base/templates/macros.html:136
+msgid "Embed"
+msgstr "嵌入"
+
+#: flicks/base/templates/partners.html:3
+msgid "Partners"
+msgstr "夥伴"
+
+#: flicks/base/templates/partners.html:13
+msgid "Flicks Partners"
+msgstr "Flicks 夥伴"
+
+#: flicks/base/templates/partners.html:16
+msgid "We recognize our partners for their generous contributions to making the 2013 Firefox Flicks contest a hit."
+msgstr "我們感謝夥伴的慷慨貢獻，讓 2013 Firefox Flicks 競賽成功舉辦。"
+
+#: flicks/base/templates/partners.html:22
+msgid "Major Partners"
+msgstr "主要夥伴"
+
+#: flicks/base/templates/partners.html:33
+msgid "Media Partners"
+msgstr "媒體夥伴"
+
+#: flicks/base/templates/partners.html:39
+msgid "Festival Partners"
+msgstr "嘉年華夥伴"
+
+#. Copy For Slide Based (PDF), each line correspondes to a specific slide. If text is shorter, please make sure we have text per slide.
+#: flicks/base/templates/strings.html:5
+msgid ""
+"This year, we need your help to inspire others to Get Mobilized.<br> That means harnessing the power of the Web on mobile devices to discover new content...<br> ... exploring how that content "
+"connects you to new ideas...<br> ... and discovering how those ideas can enrich your life.<br> To that end, we're asking you to write, produce and edit a video of no more than 60 seconds...<br> ... "
+"that tells the story of how having access to the Web through a mobile device can change the way you see the world and how you function within it. Here are a few tips to get you started:<br> You "
+"don't have to use a mobile device to make your video.<br> Your video should be 60 seconds or less.<br> Please don't show any branded devices.<br> Don't focus on Firefox, but rather the power and "
+"potential of mobile.<br> It can be animated or live action. (Or both - get creative!)<br> It can be funny, quirky or serious. It's up to you!<br> But make it inspiring, dynamic, hopeful and "
+"optimistic.<br> Your video should talk to ordinary people, not geeks, hackers or expert coders. (Try thinking of people who aren't online yet.)<br> All in 60 seconds or less.<br> We've prepared a "
+"few things to help. Feel free to use them if you like. You can download them here: {URL TBD}<br> Together, we can bring the promise of the Web to the next billion people coming online.<br> Get "
+"ready.<br> Get creating.<br> Get Mobilized.<br>"
+msgstr ""
+"今年，我們需要您來幫忙激發其他人加入行動 (Getting mobilized)<br>這代表了讓行動裝置擁有網頁的威力，讓人可以探索更多新的內容 ...<br>... 探索這些內容能如何將您連結到新的點子 ...<br>... 並探索那些可以豐"
+"富您的人生的新點子。<br> 要達到這個目標，我們請求您撰寫、製作、並剪接出一部不超過 60 秒的短片 ...<br>... 述說透過行動裝置上網能夠如何改變您看世界的方式，以及在世界中扮演的腳色。<br>以下是一些讓您能"
+"快速開始準備的建議：<br>您不必使用行動裝置就能製作影片<br>您所拍攝的影片應該短於 60 秒。<br>請不要在影片中讓任何能識別出品牌的裝置出現。<br>不必著重於 Firefox，請著重於行動化的威力與潛力。<br>您可以"
+"拍攝動畫或真人影片。(兩個都有也可以，由您的創意決定！)<br>可以是搞笑、詭異、或嚴肅的影片，任您創作！<br>但仍請拍出啟發人心、有活力、有希望、並且是樂觀的影片。<br>您的影片應該讓普羅大眾都能理解，而非"
+"只有技術人員、駭客、或專業程式設計師才看得懂。<br>(您可以想想那些現在還不會上網的人會怎麼看您的短片。)<br>我們準備了一些幫助您的東西，歡迎您自由使用。<br>您可以於此處下載: {URL TBD}<br>讓我們一起讓"
+"網路的威力帶到更多地方，帶給更多使用者。<br>準備好了嗎？<br>開始創造。<br>加入行動。<br>"
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:4
+msgid "Voting Starts August 1st"
+msgstr "投票於 8 月 1 日開始"
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:6
+msgid "You're not just competing for the Grand Prize. You could also win a People's Choice Award. Get tips to help your flick get votes."
+msgstr "不只是最終大獎，您還有機會得到 People's Choice Award。以下是一些幫助您得到選票的小秘訣。"
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:13 flicks/base/templates/carousel/blogpost_baficiwinner.html:12 flicks/base/templates/carousel/blogpost_getcreative.html:12
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:12 flicks/base/templates/carousel/blogpost_judges.html:11 flicks/base/templates/carousel/blogpost_july3winner.html:12
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:13 flicks/base/templates/carousel/blogpost_may29winner.html:12 flicks/base/templates/carousel/blogpost_recap_nowe.html:13
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:12 flicks/base/templates/carousel/blogpost_shootingpeople.html:13 flicks/base/templates/carousel/blogpost_winbig.html:13
+msgid "Read the blog post"
+msgstr "閱讀部落格文章"
+
+#: flicks/base/templates/carousel/blogpost_aug1voting.html:14 flicks/base/templates/carousel/blogpost_baficiwinner.html:13 flicks/base/templates/carousel/blogpost_getcreative.html:13
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:13 flicks/base/templates/carousel/blogpost_judges.html:12 flicks/base/templates/carousel/blogpost_july3winner.html:13
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:14 flicks/base/templates/carousel/blogpost_may29winner.html:13 flicks/base/templates/carousel/blogpost_recap_nowe.html:14
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:13 flicks/base/templates/carousel/blogpost_shootingpeople.html:14 flicks/base/templates/carousel/blogpost_winbig.html:14
+#: flicks/base/templates/carousel/sept13_winner.html:13
+msgid "English only"
+msgstr "僅英文"
+
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:4
+msgid "Now playing: April 3 winners"
+msgstr "現正播放：4 月 3 日得獎影片"
+
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:6
+msgid "Help us congratulate our first group of Early Entry Award winners who automatically qualify for the Grand Prize."
+msgstr "與我們恭賀第一批 Early Entry Award 得獎者，他們將可以晉級最終大獎評選。"
+
+#: flicks/base/templates/carousel/blogpost_baficiwinner.html:18 flicks/base/templates/carousel/blogpost_july3winner.html:18 flicks/base/templates/carousel/blogpost_may29winner.html:18
+#: flicks/base/templates/carousel/sept13_winner.html:18
+msgid "Watch the winning flick"
+msgstr "觀賞得獎短片"
+
+#: flicks/base/templates/carousel/blogpost_getcreative.html:4
+msgid "Get Creative (Commons)"
+msgstr "找點創意"
+
+#: flicks/base/templates/carousel/blogpost_getcreative.html:6
+msgid "Learn about our Creative Commons partnership and how you can use their licensed materials in your flick."
+msgstr "了解創用 CC 的協辦資訊，以及您可以如何在短片中使用創用 CC 授權條款的素材。"
+
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:4
+msgid "Tips for <br>winning flicks"
+msgstr "短片得獎小秘訣"
+
+#: flicks/base/templates/carousel/blogpost_getmobilized.html:6
+msgid "Take an in-depth look at the creative brief and get advice from the Flicks team to give your flick the best shot at the Grand Prize."
+msgstr "仔細閱讀創意需求並聽聽 Flicks 團隊的建議，可以幫助您拍出最好的短片，贏得大獎。"
+
+#: flicks/base/templates/carousel/blogpost_judges.html:4
+msgid "Meet The Judges"
+msgstr "評審有哪些人？"
+
+#: flicks/base/templates/carousel/blogpost_judges.html:6
+msgid "Get your flick in front of Edward Norton and the rest of our all-star cast."
+msgstr "讓您的短片被 Edward Norton 與其他全明星卡司看見。"
+
+#: flicks/base/templates/carousel/blogpost_july3winner.html:4
+msgid "Now playing: July 3 winners"
+msgstr "現正播放：7 月 3 日得獎影片"
+
+#: flicks/base/templates/carousel/blogpost_july3winner.html:6
+msgid "Help us congratulate our last group of Early Entry Award winners who automatically qualify for the Grand Prize."
+msgstr "與我們恭賀最後一批 Early Entry Award 得獎者，他們將可以晉級最終大獎評選。"
+
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:4
+msgid "Make your flick a winner"
+msgstr "讓您的影片得獎"
+
+#: flicks/base/templates/carousel/blogpost_makeyourflickawinner.html:6
+msgid "We've partnered with some great brands to bring you a number of free assets that you can use to help your flick stand out."
+msgstr "我們與一些超棒的品牌合作，提供您免費材料，幫助您讓影片與眾不同。"
+
+#: flicks/base/templates/carousel/blogpost_may29winner.html:4
+msgid "Now playing: May 29 winners"
+msgstr "現正播放：5 月 29 日得獎影片"
+
+#: flicks/base/templates/carousel/blogpost_may29winner.html:6
+msgid "Help us congratulate our second group of Early Entry Award winners who automatically qualify for the Grand Prize."
+msgstr "與我們恭賀第二批 Early Entry Award 得獎者，他們將可以晉級最終大獎評選。"
+
+#: flicks/base/templates/carousel/blogpost_recap_nowe.html:4
+msgid "A look back at Warsaw and Manila"
+msgstr "回顧華沙與馬尼拉的活動"
+
+#: flicks/base/templates/carousel/blogpost_recap_nowe.html:6
+msgid "Flicks has been walking the red carpet this summer at the New Horizons and Cinemalaya film festivals. Catch up with our official recap."
+msgstr "Flicks 在今年的 New Horizons 和 Cinemalaya 電影節踏上過紅毯。請看看我們的官方活動紀錄。"
+
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:4
+msgid "Meet Louie Schwartzberg"
+msgstr "見過 Louie Schwartzberg"
+
+#: flicks/base/templates/carousel/blogpost_schwartzberg.html:6
+msgid "A Flicks judge and award-winning cinematographer, Louie is the brains and vision behind Moving Art."
+msgstr "Louie 是 Flicks 評審與得獎的攝影師，也是電影藝術之眼"
+
+#: flicks/base/templates/carousel/blogpost_shootingpeople.html:4
+msgid "Meet <br>Shooting People"
+msgstr "見過 <br>Shooting People"
+
+#: flicks/base/templates/carousel/blogpost_shootingpeople.html:6
+msgid "Learn more about this network of indie filmmakers, including your chance to get a free membership."
+msgstr "了解這個獨立製片人的網路，您也有機會可以得到免費會員資格。"
+
+#: flicks/base/templates/carousel/blogpost_winbig.html:4
+msgid "Win big, <br>win often"
+msgstr "贏得大獎，<br>贏得多重獎項"
+
+#: flicks/base/templates/carousel/blogpost_winbig.html:6
+msgid "There are many prizes and many chances to win throughout the competition. Learn more about this year's amazing awards."
+msgstr "競賽中有許多贏得不同獎項的機會。了解今年的超棒獎項的更多資訊。"
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:4
+msgid "Enter by"
+msgstr "下列時間前投稿"
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:4
+msgid "July 31"
+msgstr "7 月 31 日"
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:6
+msgid "Time is running out! Get your flick in soon to qualify for the Grand Prize and People's Choice Awards."
+msgstr "時間快不夠了！早點投稿以參加以取得大獎與最佳人氣獎票選機會。"
+
+#: flicks/base/templates/carousel/july31_earlyentry.html:12 flicks/base/templates/carousel/july3_earlyentry.html:12 flicks/base/templates/carousel/may29_earlyentry.html:12
+msgid "Enter today"
+msgstr "今天就參賽吧！"
+
+#: flicks/base/templates/carousel/july3_earlyentry.html:4 flicks/base/templates/carousel/may29_earlyentry.html:4
+msgid "Early entry deadline:"
+msgstr "Early Entry 報名期限:"
+
+#: flicks/base/templates/carousel/july3_earlyentry.html:6
+msgid "Submit your flick by July 3 to qualify for our final Early Entry Award. You could win $1,000 and automatically qualify for the Grand Prize."
+msgstr "在 7 月 3 日前上傳您的短片就有機會贏得我們的最後一個 Early Entry Award。您有機會贏得美金一千元，並自動晉級最終大獎評選。"
+
+#: flicks/base/templates/carousel/may29_earlyentry.html:6
+msgid "Submit your flick by May 29 to qualify for our second Early Entry Award. You could win $1,000 and automatically qualify for the Grand Prize."
+msgstr "在 5 月 29 日前上傳您的短片就有機會贏得我們的第二個 Early Entry Award。您有機會贏得美金一千元，並自動晉級最終大獎評選。"
+
+#: flicks/base/templates/carousel/sept13_winner.html:4
+msgid "Congratulations to our winners"
+msgstr "恭喜今年的得獎者。"
+
+#: flicks/base/templates/carousel/sept13_winner.html:6
+msgid "The votes are in and we're excited to present the winners of Firefox Flicks 2013. Thanks to everyone who entered!"
+msgstr "投票已結束，我們很興奮地宣布 Firefox Flicks 2013 的得獎名單。感謝所有參加者！"
+
+#: flicks/base/templates/carousel/sept13_winner.html:12
+msgid "Watch the winning flicks"
+msgstr "觀賞得獎短片"
+
+#: flicks/base/templates/carousel/slide-three.html:4
+msgid "Now playing"
+msgstr "現正播放"
+
+#: flicks/base/templates/carousel/slide-three.html:4 flicks/base/templates/carousel/slide-three.html:11
+msgid "Directors&#8217; cuts"
+msgstr "導演加長版"
+
+#: flicks/base/templates/carousel/slide-three.html:6
+msgid "Learn more about last year's winners and get some advice on making your own winning flick."
+msgstr "看看去年的得獎作品，並且看看作者們對您拍攝短片有什麼建議。"
+
+#: flicks/base/templates/carousel/slide-two.html:4
+msgid "Enter by April 3"
+msgstr "四月三日前報名"
+
+#: flicks/base/templates/carousel/slide-two.html:6
+msgid "Submit your flick in time for the BAFICI film festival in Buenos Aires and you could win a $1000 Early Entry Award and be automatically qualified for the Grand Prize."
+msgstr "準時為布宜諾斯艾利斯國際獨立影展上傳影片，您就有機會贏得價值美金一千元的 Early Entry Award，並且贏得最終大獎。"
+
+#: flicks/base/templates/carousel/slide-two.html:12
+msgid "Get the creative brief"
+msgstr "閱讀創意需求"
+
+#: flicks/base/templates/carousel/tiff-teaser.html:4
+msgid "Winners announced"
+msgstr "已宣布得獎者"
+
+#: flicks/base/templates/carousel/tiff-teaser.html:4
+msgid "Sept. 12"
+msgstr "九月十二日"
+
+#: flicks/base/templates/carousel/tiff-teaser.html:6
+msgid "We're gearing up to present the final results at the Toronto International Film Festival. Get ready by watching our latest Early Entry Award winners."
+msgstr "我們正在努力準備於多倫多國際影展宣布競賽結果。快準備好欣賞我們最新的最佳人氣獎得獎作品。"
+
+#: flicks/base/templates/carousel/tiff-teaser.html:12
+msgid "See the winning flicks"
+msgstr "觀賞得獎短片"
+
+#: flicks/base/templates/carousel/vote.html:4
+msgid "Choose your favorites"
+msgstr "選擇您最愛的短片"
+
+#: flicks/base/templates/carousel/vote.html:6
+msgid "August 31 is the last day to vote for the People's Choice Awards. Don't miss your chance."
+msgstr "8 月 31 日是票選 People's Choice Awards 的最後期限，別讓機會跑走了。"
+
+#: flicks/base/templates/carousel/vote.html:12
+msgid "Vote now"
+msgstr "立即投票"
+
+#: flicks/base/templates/rules/en-US.html:5
+msgid "Firefox Flicks Contest Official Rules"
+msgstr "Firefox Flicks 競賽官方規則"
+
+#: flicks/base/templates/shared/footer_fineprint.html:3
+msgid "Privacy Policy"
+msgstr "隱私權保護政策"
+
+#: flicks/base/templates/shared/footer_fineprint.html:4
+msgid "Legal"
+msgstr "法律資訊"
+
+#: flicks/base/templates/shared/footer_fineprint.html:7
+msgid "Other languages:"
+msgstr "其他語言:"
+
+#. This is a label for a form submit button
+#: flicks/base/templates/shared/footer_fineprint.html:16
+msgid "Submit"
+msgstr "送出"
+
+#: flicks/base/templates/shared/header.html:11
+msgid "Menu"
+msgstr "選單"
+
+#: flicks/base/templates/shared/header.html:14
+msgid "About"
+msgstr "關於"
+
+#: flicks/base/templates/shared/header.html:22
+msgid "Vote Now!"
+msgstr "立即投票！"
+
+#: flicks/base/templates/shared/header.html:24
+msgid "Blog"
+msgstr "部落格"
+
+#: flicks/base/templates/shared/header.html:35
+msgid "Sign out"
+msgstr "登出"
+
+#: flicks/base/templates/shared/header.html:39 flicks/users/templates/users/profile.html:33 flicks/users/templates/users/profile.html:38 flicks/videos/templates/videos/upload.html:3
+#: flicks/videos/templates/videos/upload.html:25 flicks/videos/templates/videos/upload.html:30 flicks/videos/templates/videos/upload_complete.html:5
+#: flicks/videos/templates/videos/upload_complete.html:15 flicks/videos/templates/videos/upload_complete.html:20 flicks/videos/templates/videos/upload_error.html:3
+msgid "Submit your flick"
+msgstr "送出您的短片"
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: flicks/users/forms.py:12
+msgid "Text"
+msgstr "純文字"
+
+#: flicks/users/templates/users/profile.html:3 flicks/users/templates/users/profile.html:37 flicks/videos/templates/videos/upload.html:29 flicks/videos/templates/videos/upload_complete.html:19
+msgid "Enter your information"
+msgstr "輸入您的資訊"
+
+#: flicks/users/templates/users/profile.html:36 flicks/videos/templates/videos/upload.html:28 flicks/videos/templates/videos/upload_complete.html:18
+msgid "Sign in to Flicks"
+msgstr "登入至 Flicks"
+
+#: flicks/users/templates/users/profile.html:44
+msgid "Thanks for entering Firefox Flicks, the global video contest about the power of mobile. To submit your flick, please tell us who you are and where you're from."
+msgstr "感謝您參加 Firefox Flicks，一場關於行動裝置的威力的全球影片競賽。要上傳您的短片，請告訴我們您是誰與來自哪裡。"
+
+#: flicks/users/templates/users/profile.html:54
+msgid "Your name will be displayed publicly with your video."
+msgstr "您的姓名將會與影片一起公開顯示。"
+
+#: flicks/users/templates/users/profile.html:56
+msgid "Full Name"
+msgstr "全名"
+
+#. Form label for the nickname field. It is optional for users to fill out.
+#: flicks/users/templates/users/profile.html:60
+msgid "Nickname (optional)"
+msgstr "暱稱（選填）"
+
+#: flicks/users/templates/users/profile.html:64
+msgid "Some prizes are awarded by region, so let us know what part of the world your flick is representing."
+msgstr "某些獎項將分區評審，請讓我們知道您的影片是從世界上的哪個地方來的。"
+
+#: flicks/users/templates/users/profile.html:66 flicks/users/templates/users/profile.html:94
+msgid "Country"
+msgstr "國家"
+
+#: flicks/users/templates/users/profile.html:69 flicks/videos/models.py:217 flicks/videos/models.py:259
+msgid "Region"
+msgstr "區域"
+
+#: flicks/users/templates/users/profile.html:76
+msgid "Mailing address (optional)"
+msgstr "郵寄地址（選填）"
+
+#: flicks/users/templates/users/profile.html:83
+msgid "We ask for your address so we can send you an awesome gift for participating. Providing it is completely optional and we won't use it or keep it for any other purpose."
+msgstr "我們向您詢問地址是為了要寄送競賽的參加獎品給您。此資訊完全是選填，我們將不會用於其他用途，或是保留起來。"
+
+#: flicks/users/templates/users/profile.html:85
+msgid "Address line 1"
+msgstr "第一行地址"
+
+#: flicks/users/templates/users/profile.html:88
+msgid "Address line 2"
+msgstr "第二行地址"
+
+#: flicks/users/templates/users/profile.html:91
+msgid "City"
+msgstr "城市"
+
+#: flicks/users/templates/users/profile.html:97
+msgid "State/Province"
+msgstr "州/省"
+
+#: flicks/users/templates/users/profile.html:100
+msgid "Postal Code"
+msgstr "郵遞區號"
+
+#: flicks/users/templates/users/profile.html:107
+msgid "I'm okay with you handling my info as you explain in your <a href=\"{link}\" rel=\"external\">privacy policy</a>"
+msgstr "我接受你依照 <a href=\"{link}\" rel=\"external\">隱私權保護政策</a> 上所提到的方式處理我的資訊。"
+
+#: flicks/users/templates/users/profile.html:112
+msgid "I want to receive email updates about Firefox Flicks"
+msgstr "我想要收到 Firefox Flicks 的最新消息電子郵件"
+
+#. Refers to the format of an email, either HTML or Text.
+#: flicks/users/templates/users/profile.html:116
+msgid "Email Format"
+msgstr "電子郵件格式"
+
+#: flicks/users/templates/users/profile.html:123 flicks/videos/templates/videos/upload.html:116
+msgid "Next"
+msgstr "下一步"
+
+#: flicks/videos/forms.py:28
+msgid "All regions"
+msgstr "所有區域"
+
+#. L10n: Label for the order in which to sort a list of videos.
+#: flicks/videos/forms.py:31
+msgid "Random"
+msgstr "隨機"
+
+#. L10n: Label for the order in which to sort a list of videos.
+#: flicks/videos/forms.py:33
+msgid "by Title"
+msgstr "依照標題"
+
+#. L10n: Label for the order in which to sort a list of videos.
+#: flicks/videos/forms.py:64
+msgid "by Popularity"
+msgstr "依照知名度"
+
+#: flicks/videos/models.py:170
+msgid ":30 Spot"
+msgstr "最佳 30 秒短片獎"
+
+#: flicks/videos/models.py:171
+msgid "Animation"
+msgstr "最佳動畫獎"
+
+#: flicks/videos/models.py:172
+msgid "New Technology"
+msgstr "最佳新技術使用獎"
+
+#: flicks/videos/models.py:173
+msgid "PSA"
+msgstr "最佳公益廣告 (PSA) 獎"
+
+#: flicks/videos/models.py:179
+msgid "Europe"
+msgstr "歐洲"
+
+#: flicks/videos/models.py:180
+msgid "Asia, Africa & Australia"
+msgstr "亞洲、非洲與紐澳"
+
+#: flicks/videos/models.py:193
+msgid "30 Second Spot Winner"
+msgstr "30 秒短片獎得獎者"
+
+#: flicks/videos/models.py:194
+msgid "Animation Winner"
+msgstr "動畫獎得獎者"
+
+#: flicks/videos/models.py:195
+msgid "New Technology Winner"
+msgstr "新技術使用獎得獎者"
+
+#: flicks/videos/models.py:196
+msgid "PSA Winner"
+msgstr "PSA 獎得獎者"
+
+#: flicks/videos/models.py:203
+msgid "Title"
+msgstr "標題"
+
+#: flicks/videos/models.py:205
+msgid "Description"
+msgstr "描述"
+
+#: flicks/videos/models.py:214 flicks/videos/models.py:256
+msgid "Category"
+msgstr "分類"
+
+#: flicks/videos/models.py:221
+msgid "Video File URL"
+msgstr "影片檔案網址"
+
+#: flicks/videos/models.py:268 flicks/videos/models.py:277
+msgid "%(winner)s for %(region)s"
+msgstr "%(region)s 的 %(winner)s"
+
+#: flicks/videos/models.py:269
+msgid "Grand Prize Winner"
+msgstr "大獎得獎者"
+
+#: flicks/videos/models.py:273
+msgid "Bay Area Video Coalition Prize Winner"
+msgstr "Bay Area Video Coalition 獎得獎者"
+
+#: flicks/videos/models.py:275
+msgid "Panavision Prize Winner"
+msgstr "Panavision 大獎得獎者"
+
+#. L10n: Subject line for emails sent to users after their video has been moderated.
+#. L10n: Used for both approval and rejection emails.
+#: flicks/videos/util.py:46
+msgid "Firefox Flicks: Your Recent Submission"
+msgstr "Firefox Flicks: 您最近投稿的作品"
+
+#: flicks/videos/views.py:180
+msgid "Noir"
+msgstr "Noir"
+
+#: flicks/videos/views.py:181
+msgid "The fox meets a damsel in distress, but can he help her? Get inspired for your Firefox Flicks entry by checking out our video."
+msgstr "狐狸遇到了落難的女子，他能幫助她嗎？請看我們的影片，激發你的創意。"
+
+#: flicks/videos/views.py:184
+msgid "The fox meets a damsel in distress, but can he help her?"
+msgstr "狐狸遇到了落難的女子，他能幫助她嗎？"
+
+#: flicks/videos/views.py:194
+msgid "Dance"
+msgstr "Dance"
+
+#: flicks/videos/views.py:195
+msgid "He's got the moves, he's got ambition. How far can this fox's feet take him? Get inspired for your Firefox Flicks entry by checking out our video."
+msgstr "他滿懷雄心壯志，也開始落實行動，但這雙狐狸腳可以帶他走多遠的路？請看看我們的影片，激發你的創意。"
+
+#: flicks/videos/views.py:199
+msgid "He's got the moves. He's got ambition. How far can this fox's feet take him?"
+msgstr "他滿懷雄心壯志，也開始落實行動，但這雙狐狸腳可以帶他走多遠的路？"
+
+#: flicks/videos/views.py:209
+msgid "A teenage girl learns the truth about the fox. Get inspired for your Firefox Flicks entry by checking out our video."
+msgstr "當少女遇見狐狸，開始認識真正的他。請看我們的影片，激發你的創意！"
+
+#: flicks/videos/views.py:211
+msgid "Twilight"
+msgstr "Twilight"
+
+#: flicks/videos/templates/videos/details_base.html:22 flicks/videos/templates/videos/details_base.html:23
+msgid "Creative Commons Attribution - NonCommercial - ShareAlike license"
+msgstr "創用 CC 姓名標示-非商業性-相同方式分享條款"
+
+#: flicks/videos/templates/videos/upload.html:17
+msgid "The file you've chosen doesn't look like a video file. Are you sure you want to upload it?"
+msgstr "您選擇的檔案看起來不像是視訊檔，確定要上傳嗎？"
+
+#: flicks/videos/templates/videos/upload.html:18
+msgid "You haven't completed uploading your flick yet. Are you sure you want to quit?"
+msgstr "您還沒有完成短片上傳，確定要離開嗎？"
+
+#: flicks/videos/templates/videos/upload.html:36
+msgid "Rules for uploading"
+msgstr "上傳規則"
+
+#: flicks/videos/templates/videos/upload.html:40
+msgid "Your entry may be no longer than 60 seconds."
+msgstr "所有參賽影片皆不得超過 60 秒。"
+
+#: flicks/videos/templates/videos/upload.html:46
+msgid "Your entry must be in a format that can be uploaded to Vimeo (see <a href=\"%(link_vimeoformat)s\" rel=\"external\">vimeo.com/help/compression</a> for details)."
+msgstr "您的投稿項目必須為可以上傳至 Vimeo 的格式（詳見 <a href=\"%(link_vimeoformat)s\" rel=\"external\">vimeo.com/help/compression</a>）。"
+
+#: flicks/videos/templates/videos/upload.html:54
+msgid ""
+"Your entry must be your original work and may not include any unauthorized third party intellectual property (such as a video clip, music or visible brand name or logo you do not have a license to "
+"use)."
+msgstr "您投稿的影片必須為您的原創作品，不得包含任何未取得授權的第三方智慧財產（諸如影片、音樂、商標、圖示）等等。"
+
+#: flicks/videos/templates/videos/upload.html:62
+msgid "Your video will be posted to both the Firefox Flicks website and the Vimeo website under a Firefox Flicks account."
+msgstr "您的影片將被張貼於 Firefox Flicks 網站及 Firefox Flicks 在 Vimeo 網站的帳號中。"
+
+#: flicks/videos/templates/videos/upload.html:70
+msgid "Please read the <a href=\"%(link_rules)s\" rel=\"external\">official contest rules</a> before submitting your video."
+msgstr "上傳影片前請閱讀 <a href=\"%(link_rules)s\" rel=\"external\">官方競賽規則</a>。"
+
+#: flicks/videos/templates/videos/upload.html:78
+msgid "Choose a video to upload"
+msgstr "選擇要上傳的影片"
+
+#: flicks/videos/templates/videos/upload.html:89
+msgid "Your flick"
+msgstr "您的短片"
+
+#: flicks/videos/templates/videos/upload.html:94
+msgid "Remove"
+msgstr "移除"
+
+#: flicks/videos/templates/videos/upload.html:101
+msgid "Name your flick"
+msgstr "為您的短片命名"
+
+#: flicks/videos/templates/videos/upload.html:102
+msgid "Be concise, yet unique"
+msgstr "簡潔又獨特"
+
+#: flicks/videos/templates/videos/upload.html:105
+msgid "Describe your flick"
+msgstr "描述您的短片"
+
+#: flicks/videos/templates/videos/upload.html:107
+msgid "In 1-3 sentences. This is what people will see when they view or share your video."
+msgstr "1~3 句就好。別人觀賞或分享您的影片時會看到這個。"
+
+#: flicks/videos/templates/videos/upload_complete.html:24
+msgid "Hooray! Your upload is complete."
+msgstr "耶，您的您的上傳完成了！"
+
+#: flicks/videos/templates/videos/upload_complete.html:26
+msgid ""
+"Bonus: For getting your flick in early, you're eligible for an Early Entry Award and a chance to automatically qualify for the Grand Prize finals. <a href=\"%(link_home)s#prizes\" rel=\"external"
+"\">Learn more</a>."
+msgstr "加分題: 若您提早上傳短片，您就可以參加 Early Entry Award 的評選，有機會自動晉級 Grand Prize 決賽。<a href=\"%(link_home)s#prizes\" rel=\"external\">了解更多資訊</a>。"
+
+#: flicks/videos/templates/videos/upload_complete.html:34
+msgid "Your video is now processing. Once it's reviewed, we'll send you an email to let you know where to find it. Until then, spread the word about Firefox Flicks!"
+msgstr "您的影片正在處理中，審核完成後我們將會發封信給您，讓您知道可以在哪裡找到。在那之前，請把 Firefox Flicks 活動的消息傳播出去！"
+
+#: flicks/videos/templates/videos/upload_complete.html:60
+msgid "Back to Flicks"
+msgstr "回到 Flicks"
+
+#: flicks/videos/templates/videos/upload_error.html:15
+msgid "Oh no, something went wrong!"
+msgstr "喔，有些東西不對勁！"
+
+#: flicks/videos/templates/videos/upload_error.html:17
+msgid ""
+"There was an error in the upload process. Please <a href=\"%(link_upload)s\">try again</a>, and be sure you're uploading a video in <a href=\"%(link_vimeoformat)s\" rel=\"external\">one of our "
+"supported file formats</a>."
+msgstr "影片上傳過程發生錯誤，請<a href=\"%(link_upload)s\">再試一次</a>，並確定您上傳的影片符合 <a href=\"%(link_vimeoformat)s\" rel=\"external\">支援的格式</a>。"
+
+#: flicks/videos/templates/videos/upload_error.html:25
+msgid "If you continue to see this message, please wait and try again later."
+msgstr "若您持續看到此訊息，請稍候再試一次。"
+
+#: flicks/videos/templates/videos/2012/details.html:11
+msgid "Award"
+msgstr "獎項"
+
+#. Shown below videos to indicate which category and country they were submitted under, such as ':30 Spot for Europe'
+#: flicks/videos/templates/videos/2012/details.html:37
+msgid "%(category_link)s <span>for</span> %(country_link)s"
+msgstr "%(country_link)s <span>的</span> %(category_link)s"
+
+#: flicks/videos/templates/videos/2013/approval_email.html:5 flicks/videos/templates/videos/2013/approval_email.ltxt:4
+msgid "Your flick has been accepted and successfully added to the competition!"
+msgstr "您的短片已被接受，進入參賽者名單當中！"
+
+#. Please don't change the HTML, this string is in an email and the HTML is very fragile.
+#: flicks/videos/templates/videos/2013/approval_email.html:12
+msgid "You can find your flick on the gallery and share it using this link: <a href=\"%(link)s\" style=\"color: #1677b9; text-decoration: none;\">%(title)s</a>"
+msgstr "您可以使用下列鏈結在影片藝廊找到您的短片：<a href=\"%(link)s\" style=\"color: #1677b9; text-decoration: none;\">%(title)s</a>"
+
+#: flicks/videos/templates/videos/2013/approval_email.html:17 flicks/videos/templates/videos/2013/approval_email.ltxt:13
+msgid "Voting for the People's Choice Award starts on July 31, so be sure to let your friends know that you need their support."
+msgstr "People's Choice Award 的投票將於七月三十一日日開始，請記得讓朋友知道到時您需要他們的幫忙。"
+
+#: flicks/videos/templates/videos/2013/approval_email.html:19 flicks/videos/templates/videos/2013/approval_email.ltxt:15
+msgid "Thanks again for taking the time to help us share the power of mobile with the world."
+msgstr "再次感謝每個花時間送出影片幫助我們向世界分享行動裝置的威力的朋友。"
+
+#: flicks/videos/templates/videos/2013/approval_email.ltxt:8
+msgid "You can find your flick on the gallery and share it using this link: %(link)s"
+msgstr "您可以使用下列鏈結在影片藝廊找到您的短片，並進行分享：%(link)s"
+
+#: flicks/videos/templates/videos/2013/details.html:12
+msgid "An entry for Firefox Flicks 2013, a global video contest about the power of mobile."
+msgstr "Firefox Flicks 2013，一場關於行動裝置的威力的全球影片競賽作品。"
+
+#: flicks/videos/templates/videos/2013/details.html:26 flicks/videos/templates/videos/2013/details.html:68
+msgid "No votes yet"
+msgstr "尚未獲得票數"
+
+#. This shows the number of people who have voted for a video. This is NOT the number of views. <b> tag is used to place the number of votes, please do not remove it.
+#: flicks/videos/templates/videos/2013/details.html:27 flicks/videos/templates/videos/2013/details.html:28 flicks/videos/templates/videos/2013/details.html:71
+msgid "<b>%(vote_count)s</b> vote"
+msgid_plural "<b>%(vote_count)s</b> votes"
+msgstr[0] "<b>%(vote_count)s</b> 票"
+
+#: flicks/videos/templates/videos/2013/details.html:37
+msgid "Thanks for voting!"
+msgstr "感謝您的票選！"
+
+#: flicks/videos/templates/videos/2013/details.html:83
+msgid "Voted"
+msgstr "已投票"
+
+#: flicks/videos/templates/videos/2013/details.html:84
+msgid "Vote"
+msgstr "投票"
+
+#: flicks/videos/templates/videos/2013/list.html:5 flicks/videos/templates/videos/2013/list.html:7
+msgid "2013 gallery"
+msgstr "2013 藝廊"
+
+#: flicks/videos/templates/videos/2013/list.html:19
+msgid "Voting is open!"
+msgstr "已開放投票！"
+
+#: flicks/videos/templates/videos/2013/list.html:21
+msgid "Welcome to the<br> Firefox Flicks 2013 gallery"
+msgstr "歡迎來到 <br> Firefox Flicks 2013 藝廊"
+
+#: flicks/videos/templates/videos/2013/list.html:27
+msgid ""
+"This year we're asking filmmakers and Firefox fans to inspire others to get mobilized by telling the world about the power and potential of mobile. Have a look at the entries and be sure to share "
+"your favorites with your friends."
+msgstr "今年我們要求導演們與 Firefox 的粉絲透過述說行動裝置的威力與潛力來激發其他人加入行動。看看我們的參賽作品，也請記得與朋友們分享您的最愛。"
+
+#: flicks/videos/templates/videos/2013/list.html:36
+msgid ""
+"Welcome to the Firefox Flicks 2013 gallery. This year we asked filmmakers to tell stories about the power of the Web on mobile devices. Vote for your favorite flicks and be sure to share them with "
+"your friends."
+msgstr "歡迎來到 Firefox Flicks 2013 藝廊。今年我們請導演們述說網路在行動裝置上的威力。請票選您最愛的影片，並分享給朋友們。"
+
+#: flicks/videos/templates/videos/2013/list.html:44
+msgid ""
+"This year we asked filmmakers and Firefox fans to inspire others to get mobilized by telling the world about the power and potential of mobile. Watch the flicks and be sure to share your favorites "
+"with your friends."
+msgstr ""
+"今年我們要求導演與 Firefox 的粉絲們透過述說行動裝置的威力與潛力來激發其他人加入行動。看看我們的參賽作品，也請記得與朋友們分享您的最愛。"
+
+#: flicks/videos/templates/videos/2013/list.html:56
+msgid "Start voting by clicking on your favorite videos or <a href=\"%(sign_in)s\" class=\"requires-auth\">sign in</a> to view your votes."
+msgstr "點選您最愛的影片進行投票，或 <a href=\"%(sign_in)s\" class=\"requires-auth\">登入</a> 以檢視您投過的票？"
+
+#: flicks/videos/templates/videos/2013/list.html:60
+msgid "Hi there! It looks like you haven't voted yet. Start voting now by clicking on your favorite videos."
+msgstr "嗨！看來您還沒投過票，點選您最愛的影片以開始投票。"
+
+#: flicks/videos/templates/videos/2013/list.html:64
+msgid "Hi there! You have voted for <a href=\"%(url)s\">%(vote_count)s flick</a> so far. Keep on voting!"
+msgid_plural "Hi there! You have voted for <a href=\"%(url)s\">%(vote_count)s flicks</a> so far. Keep on voting!"
+msgstr[0] "嗨！您已經票選了 <a href=\"%(url)s\">%(vote_count)s 部影片</a>。繼續投票吧！"
+
+#: flicks/videos/templates/videos/2013/list.html:76
+msgid "Did you vote for the People's Choice Award? If so, you can <a href=\"%(sign_in)s\" class=\"requires-auth\">sign in</a> to see your selections."
+msgstr ""
+"您投過 People's Choice Award 了嗎？如果您已經投過了，您可以 <a href=\"%(sign_in)s\" class"
+"=\"requires-auth\">登入</a> 以檢視您投過的票。"
+
+#: flicks/videos/templates/videos/2013/list.html:81
+msgid "Hi there! It looks like you did not vote for the People's Choice Award."
+msgstr "哈囉，看來您還沒有投過 People's Choice Award。"
+
+#: flicks/videos/templates/videos/2013/list.html:85
+msgid "You've voted for <a href=\"%(url)s\">%(vote_count)s flick</a> as a part of our People's Choice Awards."
+msgid_plural "You've voted for <a href=\"%(url)s\">%(vote_count)s flicks</a> as a part of our People's Choice Awards."
+msgstr[0] ""
+"您已經投過了 People's Choice Awards 中的 <a href=\"%(url)s\">%(vote_count)s 部影片</a>。"
+
+#: flicks/videos/templates/videos/2013/list.html:103
+msgid "From region"
+msgstr "來自區域"
+
+#: flicks/videos/templates/videos/2013/list.html:111
+msgid "<span>{query}</span> <small class=\"category\">in user name</small>"
+msgstr "<small class=\"category\">搜尋帳號:</small> <span>{query}</span>"
+
+#: flicks/videos/templates/videos/2013/list.html:114
+msgid "<span>{query}</span> <small class=\"category\">in video title</small>"
+msgstr "<small class=\"category\">搜尋影片名稱:</small> <span>{query}</span>"
+
+#: flicks/videos/templates/videos/2013/list.html:117
+msgid "<span>{query}</span> <small class=\"category\">in video description</small>"
+msgstr "<small class=\"category\">搜尋影片描述:</small> <span>{query}</span>"
+
+#: flicks/videos/templates/videos/2013/list.html:121
+msgid "Search for video name, user name, or description"
+msgstr "搜尋影片名稱、帳號名稱、或影片描述"
+
+#: flicks/videos/templates/videos/2013/list.html:130
+msgid "update results"
+msgstr "更新結果"
+
+#: flicks/videos/templates/videos/2013/list.html:141
+msgid "<i>%(count)s</i> videos for <i>%(query)s</i> in <i>%(region)s</i>"
+msgstr "<i>%(region)s</i> 的 <i>%(query)s</i> 共有 <i>%(count)s</i> 部影片"
+
+#: flicks/videos/templates/videos/2013/list.html:156
+msgid "Sort:"
+msgstr "排序:"
+
+#: flicks/videos/templates/videos/2013/list.html:177
+msgid "Submitted <time datetime=\"%(datetime)s\">%(date)s</time>"
+msgstr "送出於 <time datetime=\"%(datetime)s\">%(date)s</time>"
+
+#: flicks/videos/templates/videos/2013/rejection_email.html:6
+msgid ""
+"Unfortunately, your flick does not meet one or more of the contest criteria and was not accepted to be part of the competition. Please refer to our <a href=\"%(link)s\" style=\"color: #1677b9; text-"
+"decoration: none;\">contest rules</a> for more information."
+msgstr "真不巧，您的短片不符合一項或多項我們的競賽要求，無法參與競賽。請參考我們的<a href=\"%(link)s\" style=\"color: #1677b9; text-decoration: none;\">競賽規則</a>以取得更多資訊。"
+
+#: flicks/videos/templates/videos/2013/rejection_email.html:11 flicks/videos/templates/videos/2013/rejection_email.ltxt:10
+msgid "All decisions regarding submissions are final."
+msgstr "所有關於接受或拒絕報名的決策皆為最終決策。"
+
+#: flicks/videos/templates/videos/2013/rejection_email.ltxt:5
+msgid "Unfortunately, your flick does not meet one or more of the contest criteria and was not accepted to be part of the competition. Please refer to our contest rules for more information: %(link)s"
+msgstr "真不巧，您的短片不符合一項或多項我們的競賽要求，無法參與競賽。請參考我們的競賽規則以取得更多資訊: %(link)s"
+
+#: flicks/videos/templates/videos/2013/winners.html:3 flicks/videos/templates/videos/2013/winners.html:4 flicks/videos/templates/videos/2013/winners.html:13
+msgid "2013 Flicks Winners"
+msgstr "2013 Flicks 得獎者"
+
+#: flicks/videos/templates/videos/2013/winners.html:17
+msgid "Submit your flick by July 31, 2013 and add your name to the growing list of Flicks winners."
+msgstr "在 2013 年 7 月 31 日前上傳您的短片，就有機會讓您的姓名被列在得獎者名單中。"
+
+#: flicks/videos/templates/videos/2013/winners.html:21
+msgid "Join us in congratulating this year's winners."
+msgstr "與我們一起恭喜今年的得獎者。"
+
+#. Describes the date that a video was submitted to the contest.
+#: flicks/videos/templates/videos/2013/winners.html:47 flicks/videos/templates/videos/2013/winners.html:78 flicks/videos/templates/videos/2013/winners.html:98
+#: flicks/videos/templates/videos/2013/winners.html:124 flicks/videos/templates/videos/2013/winners.html:144 flicks/videos/templates/videos/2013/winners.html:170
+#: flicks/videos/templates/videos/2013/winners.html:190 flicks/videos/templates/videos/2013/winners.html:216 flicks/videos/templates/videos/2013/winners.html:236
+#: flicks/videos/templates/videos/2013/winners.html:265 flicks/videos/templates/videos/2013/winners.html:286 flicks/videos/templates/videos/2013/winners.html:307
+#: flicks/videos/templates/videos/2013/winners.html:337 flicks/videos/templates/videos/2013/winners.html:358 flicks/videos/templates/videos/2013/winners.html:379
+#: flicks/videos/templates/videos/2013/winners.html:406 flicks/videos/templates/videos/2013/winners.html:427 flicks/videos/templates/videos/2013/winners.html:448
+#: flicks/videos/templates/videos/2013/winners.html:475 flicks/videos/templates/videos/2013/winners.html:496 flicks/videos/templates/videos/2013/winners.html:517
+msgid "Submitted %(date)s"
+msgstr "上傳於 %(date)s"
+
+#: flicks/videos/templates/videos/2013/winners.html:65 flicks/videos/templates/videos/2013/winners.html:111 flicks/videos/templates/videos/2013/winners.html:157
+#: flicks/videos/templates/videos/2013/winners.html:203
+msgid "Winner"
+msgstr "得獎者"
+
+#: flicks/videos/templates/videos/2013/winners.html:85 flicks/videos/templates/videos/2013/winners.html:131 flicks/videos/templates/videos/2013/winners.html:177
+#: flicks/videos/templates/videos/2013/winners.html:223
+msgid "Runner Up"
+msgstr "亞軍"
+
+#: flicks/videos/templates/videos/2013/winners.html:248 flicks/videos/templates/videos/2013/winners.html:538
+msgid "People's Choice Award"
+msgstr "People's Choice Award"
+
+#: flicks/videos/templates/videos/2013/winners.html:252 flicks/videos/templates/videos/2013/winners.html:324 flicks/videos/templates/videos/2013/winners.html:393
+#: flicks/videos/templates/videos/2013/winners.html:462
+msgid "First Place"
+msgstr "第一名"
+
+#: flicks/videos/templates/videos/2013/winners.html:273 flicks/videos/templates/videos/2013/winners.html:345 flicks/videos/templates/videos/2013/winners.html:414
+#: flicks/videos/templates/videos/2013/winners.html:483
+msgid "Second Place"
+msgstr "第二名"
+
+#: flicks/videos/templates/videos/2013/winners.html:294 flicks/videos/templates/videos/2013/winners.html:366 flicks/videos/templates/videos/2013/winners.html:435
+#: flicks/videos/templates/videos/2013/winners.html:504
+msgid "Third Place"
+msgstr "第三名"
+
+#: flicks/videos/templates/videos/2013/winners.html:319 flicks/videos/templates/videos/2013/winners.html:388 flicks/videos/templates/videos/2013/winners.html:457
+msgid "Early Entry Award"
+msgstr "Early Entry Award"
+
+#: flicks/videos/templates/videos/2013/winners.html:529
+msgid "Don't miss your chance to win one of many upcoming awards"
+msgstr "別錯過贏得後續獎項的機會"
+
+#: flicks/videos/templates/videos/2013/winners.html:531
+msgid "Early Entry Awards Deadlines"
+msgstr "Early Entry Awards 報名期限"
+
+#: flicks/videos/templates/videos/2013/winners.html:540 flicks/videos/templates/videos/2013/winners.html:545
+msgid "Submit by July 31"
+msgstr "七月底前上傳"
+
+#: flicks/videos/templates/videos/2013/winners.html:543
+msgid "Flicks Grand Prize and Regional awards"
+msgstr "Flicks 最終大獎與區域獎項"
+
+#: flicks/videos/templates/videos/2013/winners.html:548 flicks/videos/templates/videos/2013/winners.html:559
+msgid "Learn more about Flicks prizes"
+msgstr "了解關於 Flicks 獎項的資訊"
+
+#: flicks/videos/templates/videos/2013/winners.html:550
+msgid "Submit Your Flick Today!"
+msgstr "今天就上傳您的短片！"
+
+#: flicks/videos/templates/videos/2013/winners.html:552
+msgid "Upcoming announcements"
+msgstr "即將宣布"
+
+#: flicks/videos/templates/videos/2013/winners.html:554
+msgid "Flicks Grand Prize, Regional Awards &amp; People's Choice Award:"
+msgstr "Flicks 最終大獎、區域獎項與最佳人氣獎:"
+
+#: flicks/videos/templates/videos/2013/winners.html:556
+msgid "September 12 &mdash; Toronto International Film Festival"
+msgstr "9 月 12 日 &mdash; 多倫多國際影展"
+
+#: flicks/videos/templates/videos/2013/winners.html:563
+msgid "Vote now for the People's Choice Award"
+msgstr "立刻票選 People's Choice Award"
+
+#, fuzzy
+#~ msgid "People’s Choice Award"
+#~ msgstr "People's Choice Awards"
+
+#, fuzzy
+#~ msgid "Enter by July 31"
+#~ msgstr "四月三日前報名"
+
+#, fuzzy
+#~ msgid "See Early Entry Award Winners"
+#~ msgstr "檢視 Early Entry Awards 得獎者"
+
+#~ msgid "See what last year's winners have to say about their experience and use the materials below to help you make your flick."
+#~ msgstr "看看去年的得獎者的感想、如何讓影片傑出的建議，並使用下方的素材幫助您拍攝短片。"
+
+#~ msgid "April 3 &ndash; BAFICI, Buenos Aires, Argentina"
+#~ msgstr "四月三日 &ndash; 阿根廷，布宜諾斯艾利斯國際獨立影展"
+
+#~ msgid "July 5 &ndash; Nowe Horyzonty, Wroc&#322;aw, Poland"
+#~ msgstr "七月五日 &ndash; 波蘭弗羅茨瓦夫，Nowe Horyzonty"
+
+#~ msgid "July 5 &ndash; Cinemalaya, Manila, Philippines"
+#~ msgstr "七月五日 &ndash; 菲律賓馬尼拉，Cinemalaya"
+
+#~ msgid "See 2013 Flicks Winners"
+#~ msgstr "看看 2013 年的得獎影片"
+
+#~ msgid "Nickname"
+#~ msgstr "暱稱"
+
+#~ msgid "Our Sponsors"
+#~ msgstr "我們的贊助商"
+
+#~ msgid "To Be Announced"
+#~ msgstr "尚待宣布"
+
+#~ msgid "Firefox Flicks is an international film competition that invites Firefox fans and filmmakers to create short videos (or \"flicks\") to help tell the world about the power of mobile."
+#~ msgstr "Firefox Flicks 是一個邀請全世界 Firefox 粉絲拍攝短片，敘述行動網路威力的競賽。"
+
+#~ msgid ""
+#~ "The world's gone mobile. Getting mobilized means getting more connected to one another - so we can all go further. We're bringing the values that Firefox has always championed in the browser to "
+#~ "the devices that the next billion people will use as their primary gateway to the Web."
+#~ msgstr ""
+#~ "這世界正轉變為行動化的世界，我們與他人的互動變得更加頻繁，也正因此，人與人之間更加靠近。在不久的將來，全球會有下個十億人口把行動瀏覽器當作接觸網路的主要途徑，我們也將 Firefox 一直倡導的信念從瀏覽"
+#~ "器帶到行動裝置當中。"
+
+#~ msgid ""
+#~ "Mobile connects people. It's a force for progress and change, both individually and collectively. Enter Firefox Flicks, a global video contest about the power of mobile, and inspire others to "
+#~ "get mobilized."
+#~ msgstr "無論是大眾或個人之間，行動設備逐漸串連起人跟人之間的互動。請參加 Firefox Flicks 短片大賽，與全世界的人們見證行動設備的力量，並且啟發他人一起行動！"
+
+#~ msgid "Get inspired and learn more about making your winning flick."
+#~ msgstr "找些靈感，並了解更多製作影片時所需的資訊"
+
+#~ msgid "Watch \"%(title)s\""
+#~ msgstr "觀賞《%(title)s》"
+
+#~ msgid "BAFICI, Buenos Aires, Argentina"
+#~ msgstr "阿根廷，布宜諾斯艾利斯國際獨立影展"
+
+#~ msgid "Nowe Horyzonty, Wroc&#322;aw, Poland"
+#~ msgstr "波蘭弗羅茨瓦夫，Nowe Horyzonty"
+
+#~ msgid "Cinemalaya, Manila, Philippines"
+#~ msgstr "菲律賓馬尼拉，Cinemalaya"
+
+#~ msgid "Sign in"
+#~ msgstr "登入"
+
+#~ msgid "If you're thinking about entering, you can also watch our promos to get inspired and learn more about making your winning flick."
+#~ msgstr "若您想要參賽，您也可以看看宣傳短片來激發您的創意，並了解更多如何創作得獎短片的資訊。"
+
+#~ msgid "Get seen by celebrity judges"
+#~ msgstr "讓知名評審看見您的作品"
+
+#~ msgid "Meet our all-star cast"
+#~ msgstr "見過我們的全明星卡司"
+
+#~ msgid ""
+#~ "This year there's only one category, so whether your flick is funny or serious, animated or live action, we want to see it. It just has to be 60 seconds or less and get people excited about the "
+#~ "future of the Web on mobile."
+#~ msgstr "今年只有一個分類，所以不論是喜劇、嚴肅、動畫、或是真人實境的影片，我們都想看看。您只需要在 60 秒內讓人們對於行動網路的未來感到興奮就可以了。"
+
+#~ msgid "Views from Cannes"
+#~ msgstr "來自坎城的讚賞"
+
+#~ msgid "Watch the flicks that topped our judges' list in 2012 and earned their filmmakers a trip to the Cannes Film Festival."
+#~ msgstr "看看 2012 年比賽中，評審所選出的最佳影片片單，這些影片的作者都贏得了參加坎城影展的機會。"
+
+#~ msgid "2012 Winners"
+#~ msgstr "2012 年的得獎者"
+
+#, fuzzy
+#~ msgid "Early entry"
+#~ msgstr "Early Entry Awards"
+
+#~ msgid "Full name"
+#~ msgstr "全名"
+
+#, fuzzy
+#~ msgid "I'm okay with you handling my info as you explain in your privacy policy"
+#~ msgstr "我接受讓 Mozilla 依照 <a href='{url}' target='_blank'>隱私權保護政策</a> 上所提到的方式處理我的資訊。"
+
+#, fuzzy
+#~ msgid "Oficjalny Regulamin konkursu Firefox Flicks"
+#~ msgstr "上傳您的 Firefox Flick 時發生錯誤"
+
+#, fuzzy
+#~ msgid "Regras Oficiais do Concurso Firefox Flicks"
+#~ msgstr "上傳您的 Firefox Flick 時發生錯誤"
+
+#~ msgid "Creative Brief"
+#~ msgstr "創意需求"
+
+#~ msgid "Firefox Flicks Creative Brief &#8212; Get all the details for building your video entry for the Firefox Flicks video contest."
+#~ msgstr "Firefox Flicks 創意需求 &#8212; 了解關於競賽作品的相關需求及條件。"
+
+#~ msgid "Call to Action"
+#~ msgstr "立即行動"
+
+#~ msgid "We need your help to tell the amazing story of Mozilla Firefox, our users and how one browser can build a brighter future for the Web."
+#~ msgstr "我們需要您幫忙，說個 Mozilla Firefox、Firefox 使用者、以及關於瀏覽器如何打造網路光明未來的精采故事。"
+
+#~ msgid "Project Description"
+#~ msgstr "專案介紹"
+
+#~ msgid ""
+#~ "Create a video ad or story (a &#34;flick&#34;) in one of <a href=\"#categories\">four categories</a> that helps people better understand the issues facing them online and shows how Firefox helps "
+#~ "them deal with these issues. In short, help us tell the story of Firefox &#8212; why we do what we do and how that helps users on the Web."
+#~ msgstr ""
+#~ "在 <a href=\"#categories\">四個分類</a> 中擇一，拍一段廣告或小故事的影片，幫助大家更了解這些網路上會遇到的議題，以及 Firefox 如何解決它們。簡而言之，請幫助我們說出 Firefox 的故事 &#8212; 為什麼我"
+#~ "們要這樣做，這樣做能如何幫助網路使用者。"
+
+#~ msgid "Project Summary"
+#~ msgstr "專案概要"
+
+#~ msgid ""
+#~ "Mozilla wants the world to know more about what makes Firefox different: that we're a non-profit organization aimed at keeping the power of the Web in people's hands. Our hope is that through "
+#~ "high-quality videos, we can help mainstream Internet users know more about the issues that affect their online lives and, more importantly, how Firefox addresses these issues. Winning videos "
+#~ "will be used in worldwide marketing campaigns and public service announcements."
+#~ msgstr ""
+#~ "Mozilla 想要讓世界更加了解，究竟是什麼讓 Firefox 與眾不同：我們是個非營利組織，致力於讓人們得以保持掌控網路的權力。我們希望透過高品質的影片，幫助網路上的一般使用者了解更多網路生活中會遇到的議題，"
+#~ "以及更重要的「Firefox 如何面對這些議題」。得獎的作品將會在全球活動與公益廣告當中公開宣傳。"
+
+#~ msgid "Objective"
+#~ msgstr "目標"
+
+#~ msgid "Help us educate consumers about one or all of the following online issues facing them today:"
+#~ msgstr "請幫我們向觀眾描述下列當今網路上的議題。您可以挑選其一描述，也可以全部都講："
+
+#~ msgid "Privacy: How are you being tracked online? How can you take control of it? Who owns your data and how do they use it?"
+#~ msgstr "隱私：您在線上是如何被追蹤的？該怎麼掌握線上體驗？誰擁有您的資料，他們又怎麼使用這些資料？"
+
+#~ msgid "Choice: How easy is it for you to experience the Web using the tools that you like and that suit your needs? Can you make it personal?"
+#~ msgstr "選擇性：使用符合您需求的工具來掌握網路體驗，有多簡單？網路體驗可以更個人化嗎？"
+
+#~ msgid "Interoperability: Can you use your favorite tools on all your devices, different computers or in different locations? Who decides when, where and how you use the Web and access your stuff?"
+#~ msgstr "互通性：您可以在所有的裝置、不同的電腦，或是不同的地點都使用最愛的工具嗎？究竟誰能決定您在何時、何地、又如何用網路存取您的資料？"
+
+#~ msgid "Opportunity: What tools do users need to help them make the Web they want? How does Firefox help?"
+#~ msgstr "機會：使用者需要什麼工具，才能打造心目中所嚮往的網路世界？Firefox 可以幫上什麼忙？"
+
+#~ msgid ""
+#~ "Also, drive awareness of our key brand attributes, specifically around the fact that Firefox is made by a non-profit organization that answers only to users, not shareholders. Have a look at our "
+#~ "<a href=\"%(brand)s\">Brand Platform</a> for more details and check out the video below."
+#~ msgstr ""
+#~ "另外，請讓大眾注意到我們品牌的關鍵態度，特別是關於「Firefox 係由非營利組織打造，向使用者而非股東負責」這件事。請查閱我們的 <a href=\"%(brand)s\">Brand Platform</a> 以深入了解詳情，也請參考下列影"
+#~ "片。"
+
+#~ msgid "Who are we Talking To?"
+#~ msgstr "我們要向誰發聲？"
+
+#~ msgid ""
+#~ "Your flick should target mainstream Internet users between the ages of 25 and 54 &#8212; people who use the Web to read the news, write e-mails, bank online and connect on social networks. Help "
+#~ "explain the challenges facing the Web in terms that these average everyday users will understand. As an extreme example, how would you explain the importance of having control over your own "
+#~ "online experience to someone who only understands the Firefox logo as the \"Internet\" button? We need you to communicate to this audience that Firefox is a non-profit doing good for the benefit "
+#~ "of people everywhere."
+#~ msgstr ""
+#~ "您的影片應該針對 25~54 歲間的一般網路使用者。這些人透過網路閱讀新聞、收發郵件、進行線上金融交易，並透過社群網路互相連結。請使用一般人都能明瞭的詞彙，來解釋網際網路正在面對的挑戰。舉一個極端的例"
+#~ "子：對於只知道按下 Firefox 就能上網的一般使用者，您要怎麼說明「能自行控制上網經驗」有多重要呢？我們需要您向這群人說明，Firefox 是個致力於公益的非營利組織。"
+
+#~ msgid "Primary Key Message"
+#~ msgstr "主要關鍵訊息"
+
+#~ msgid "Firefox prioritizes principles over profit to put you in control of your online experience and shape the future of the Web for the public good. Firefox answers to no one but you."
+#~ msgstr "Firefox 將這些理念看得比利潤還重要，讓您得以控制自己的線上體驗，並為了公益打造網路的未來。Firefox answers to no one but you."
+
+#~ msgid "Secondary Key Message Points:"
+#~ msgstr "次要關鍵訊息"
+
+#~ msgid "There are important online issues like privacy, choice, flexibility and opportunity facing you every day."
+#~ msgstr "您每天都會在網路上面對隱私、選擇性、彈性，以及機會等重要議題。"
+
+#~ msgid "Mozilla addresses these issues and works to ensure that the Web remains open and accessible to all."
+#~ msgstr "Mozilla 了解這些議題，並致力於確保網路開放，讓所有人都可以使用。"
+
+#~ msgid "Mozilla is proudly non-profit."
+#~ msgstr "Mozilla 以非營利為榮。"
+
+#~ msgid "Tell the world about Firefox. Encourage them to download Firefox today."
+#~ msgstr "告訴全世界 Firefox 有什麼不同，並鼓勵觀眾立刻就下載 Firefox。"
+
+#~ msgid "Mandatory Elements:"
+#~ msgstr "必備元素"
+
+#~ msgid "Firefox logo: Please see our <a href=\"%(brand)s\">Brand Toolkit</a> details on how to use our logo"
+#~ msgstr "Firefox 圖示：請查閱 <a href=\"%(brand)s\">Brand Toolkit</a>，了解使用商標與圖示的資訊"
+
+#~ msgid "Call to action"
+#~ msgstr "上述「立即行動」的請求"
+
+#~ msgid "Flicks must be submitted no later than midnight Pacific Standard Time on May 1, 2012."
+#~ msgstr "影片最晚必須在太平洋標準時間 2012 年 5 月 1 日午夜前送出（台灣時間為 5 月 2 日下午 4 點）"
+
+#~ msgid ""
+#~ "Entries should be available in English. They can be created in another language, but if so, please provide subtitles. (<a href=\"%(mail)s\">Contact us</a> if you're having trouble with "
+#~ "translation or subtitling. We can help.)"
+#~ msgstr "參加的影片必須為英語版本。可以使用其他語言拍攝，但請提供英語字幕。（若您無法上字幕或是翻譯字幕，我們可以幫忙，請<a href=\"%(mail)s\">聯絡我們</a>。）"
+
+#~ msgid "Know:"
+#~ msgstr "了解："
+
+#~ msgid "We are proudly non-profit and dedicated to doing good."
+#~ msgstr "我們以非營利精神為傲，且致力於做好事。"
+
+#~ msgid "We are competing with some of the world's biggest companies to put you in control of your online experience."
+#~ msgstr "我們正在與一些世界上最大的企業們對抗，讓您可以控制自己的線上體驗。"
+
+#~ msgid "Firefox is developed together with a global community in the open, driven by what's best for users everywhere."
+#~ msgstr "Firefox 是由全球社群一起公開開發，以所有使用者的利益為導向。"
+
+#~ msgid "We prioritize principles over profits."
+#~ msgstr "我們把這些信念看得比營利重要。"
+
+#~ msgid "Feel:"
+#~ msgstr "感受："
+
+#~ msgid "Your video should be more grassroots than corporate to reflect that Mozilla is a public benefit organization and not a for profit company."
+#~ msgstr "您的影片應該秉持草根精神，非單純以企業口吻描述，以對比出我們與那些營利企業的差異。"
+
+#~ msgid "It should inspire the viewer to be a part of the Mozilla Firefox movement."
+#~ msgstr "應該能啟發觀眾成為 Mozilla Firefox 運動的一員。"
+
+#~ msgid "It should help spread the word about what makes us different and how downloading Firefox makes the Web and world a better place."
+#~ msgstr "應該能幫助傳達出我們與他人的不同，以及下載 Firefox 為什麼能讓網路以及世界變得更好。"
+
+#~ msgid "Tone"
+#~ msgstr "調性"
+
+#~ msgid "Unconventional, Engaging, Honest, Human, Smart, Confident"
+#~ msgstr "非傳統、吸引人、誠懇、人性化、有自信、聰明"
+
+#~ msgid "Guidelines:"
+#~ msgstr "準則"
+
+#~ msgid "Take risks, but respect the brand (i.e. please don't make us look bad)."
+#~ msgstr "歡迎大膽呈現，但是請尊重這個品牌（例如別把我們拍醜了）。"
+
+#~ msgid "Your flick should function at the brand level, not the product level (you don't need to talk about product features &#8212; talk about how Firefox and the movement around it make you feel)."
+#~ msgstr "您的影片應該著重於品牌故事，而非產品內容（您不需要談到產品有什麼功能，而是探討 Firefox 這個品牌帶給您什麼感覺）。"
+
+#~ msgid "It can be fun and humorous, but keep it engaging."
+#~ msgstr "您可以拍得很好玩很幽默，但仍然請讓多數人都喜愛這部影片。"
+
+#~ msgid "All that said, these guidelines are just that: guidelines. Be creative, think outside the box and, most importantly, have fun."
+#~ msgstr "但不論怎麼說，這些準則都只是準則，請跳出框框發揮您的創意。最重要的，是玩得愉快！"
+
+#~ msgid "Take a look at the Mozilla Firefox <a href=\"%(brand)s\">Brand Toolkit</a> to see how we talk about ourselves."
+#~ msgstr "請參考 Mozilla Firefox <a href=\"%(brand)s\">Brand Toolkit</a>，看看我們怎麼描述自己。"
+
+#~ msgid "Categories (A grand prize winner will be selected from each region):"
+#~ msgstr "分類（將自每個地區選出一部大獎得獎作品）"
+
+#~ msgid "Best :30 Spot"
+#~ msgstr "最佳 30 秒短片獎"
+
+#~ msgid "Best Animation"
+#~ msgstr "最佳動畫獎"
+
+#~ msgid "Best Use of New Open Technology (e.g. Popcorn.js, HTML5)"
+#~ msgstr "最佳新技術使用獎（例如使用 Popcorn.js、HTML5 等）"
+
+#~ msgid "Best Public Service Announcement"
+#~ msgstr "最佳公益廣告 (PSA) 獎"
+
+#~ msgid "Inspiration"
+#~ msgstr "靈感"
+
+#~ msgid "Check out our videos for Firefox Flicks to get into movie making mode"
+#~ msgstr "您可以參考下列的 Firefox Flicks 影片來產生一些靈感"
+
+#~ msgid "Check the website for upcoming announcements and updates about our film festival events."
+#~ msgstr "請記得回來看看最新公告，以及我們接下來的影展活動的相關資訊。"
+
+#~ msgid "Get inspired!"
+#~ msgstr "找些靈感！"
+
+#~ msgid "Watch the flicks we took to Cannes last year before making your own."
+#~ msgstr "拍攝自己的短片前，看看我們去年參加坎城影展的短片激發您的靈感。"
+
+#~ msgid "Submissions open February 13"
+#~ msgstr "2 月 13 日起開放投稿"
+
+#~ msgid "Learn more in the FAQ"
+#~ msgstr "到「常見問題」了解更多資訊"
+
+#~ msgid "Read the creative brief to get started"
+#~ msgstr "閱讀創意需求開始動手"
+
+#~ msgid "Your privacy is important to us. Check back soon for our complete official contest rules."
+#~ msgstr "您的隱私權對我們來說相當重要。請晚點回來看看我們的官方競賽規則。"
+
+#~ msgid "The website will begin accepting entries on February 13, 2013, at 3:00 p.m. Pacific Standard Time (PST) (11:00 p.m. GMT)."
+#~ msgstr "網站將於美西太平洋時間 2013 年 2 月 13 日下午 3 點 (台灣時間隔日早上 7 點) 開始接受報名。"
+
+#~ msgid "Firefox Flicks Judges &#8212; Meet our panel of Hollywood judges excited to watch your Firefox video story."
+#~ msgstr "Firefox Flicks 評審 &#8212; 在此見過我們的好萊塢評審團，他們迫不及待的想看看您的 Firefox 故事影片。"
+
+#~ msgid "Shauna Robertson (Producer, Philanthropist)"
+#~ msgstr "Shauna Robertson (製片、慈善家)"
+
+#~ msgid "Jeffrey Silver (Producer)"
+#~ msgstr "Jeffrey Silver (製片)"
+
+#~ msgid ""
+#~ "Jeffrey Silver has produced over 30 feature films &#8212; through his production company Biscayne Pictures, and his partnership with Outlaw Productions. In the course of his career, Silver has "
+#~ "produced both studio and independent pictures, including &#34;Tron: Legacy&#34;, &#34;Terminator: Salvation&#34;, &#34;300&#34;, &#34;Training Day&#34;, &#34;The Santa Clause&#34; and its "
+#~ "sequels, and the TV series, The Wonder Years\", as well as many others."
+#~ msgstr ""
+#~ "Jeffrey Silver 曾透過他的 Biscayne Pictures 公司以及 Outlaw Productions 製作超過 30 部精采影片，在他的生涯中也參與過許多獨立影片的製作，包括《創：光速戰記》、《魔鬼終結者：未來救贖》、《300 壯"
+#~ "士：斯巴達的逆襲》、《震撼教育》、《聖誕快樂又瘋狂》及其續集，並參與電視影集《黃金年代》等多部作品。"
+
+#~ msgid "Ben Silverman (Founder &amp; Chairman, Electus)"
+#~ msgstr "Ben Silverman (Electus 創辦人兼主席)"
+
+#~ msgid ""
+#~ "Silverman is executive producer of the Emmy Award-winning NBC comedy &#34;The Office&#34; and the Golden Globe-winning comedy &#34;Ugly Betty&#34;, is co-creator and executive producer of the "
+#~ "hit reality show &#34;The Biggest Loser&#34; for NBC and the critically acclaimed series &#34;The Tudors&#34; for Showtime, as well as executive producer of VH1's &#34;Mob Wives&#34; and the "
+#~ "upcoming NBC hit &#34;Fashion Star&#34;."
+#~ msgstr ""
+#~ "Silverman 是艾美獎得獎影集《辦公室瘋雲》及金球獎得獎影集《醜女貝蒂》的執行製片，同時也是實境秀《減磅稱王》和備受好評的影集《都鐸王朝》的共同製作人，以及《Mob Wives》、《Fashion Star》的執行製片。"
+
+#~ msgid ""
+#~ "Previously, Silverman has served as Co-Chairman of NBC Entertainment and Universal Media Studios, founded the production and distribution company Reveille, ran the international packaging "
+#~ "division at William Morris Agency (WMA), served as vice president for New World/Marvel Entertainment and held posts at CBS and Warner Bros."
+#~ msgstr ""
+#~ "在此之前，Silverman 曾擔任 NBC Entertainment 以及 Universal Media Studios 的主席之一，也創辦製片發行公司 Reveille、協助 William Morris Agency (WMA) 的國際包裝部門運作，也曾擔任 New World/Marvel "
+#~ "Entertainment 的副總裁、並於 CBS 和 Warner Bros. 都佔有一席之地。"
+
+#~ msgid "Couper Samuelson (Producer)"
+#~ msgstr "Couper Samuelson (製片)"
+
+#~ msgid ""
+#~ "Couper Samuelson runs Jason Blum's Universal-based production company. Prior to that, he worked for producer Brad Weston at Paramount, where he produced the forthcoming &#34;Destination "
+#~ "Wedding&#34;, the first movie initiated by Paramount Insurge, the studio's low-budget division. He spent five years at 2929, Mark Cuban's financing company, where he co-produced &#34;We Own the "
+#~ "Night&#34;, starring Joaquin Phoenix and Mark Wahlberg among other 2929 features. He began his career as an assistant in the Motion Picture Department of the Creative Artists Agency."
+#~ msgstr ""
+#~ "Couper Samuelson 經營環球旗下的 Jason Blum 製作公司。在這之前，他的職業生涯起源於 Creative Artists Agenction 公司的電影部門助理。他曾在派拉蒙的製作人 Brad Weston 旗下製作了該公司低成本部門 "
+#~ "Paramount Insurge 的第一部影片《Destination Wedding》。他也曾在 Mark Cuban 的娛樂控股公司 2929 工作五年，共同製作了 Joaquin Phoenix 及 Mark Wahlberg 主演的《萬惡夜總會》。"
+
+#~ msgid "Youth Judges"
+#~ msgstr "青年評審"
+
+#~ msgid "Raymundo Archila"
+#~ msgstr "Raymundo Archila"
+
+#~ msgid ""
+#~ "Raymundo is a Senior at Hillsdale High school and an aspiring cinematographer. He has made a number of socially conscious pieces while at BAVC’s Factory filmmaking program, including a short "
+#~ "narrative about how alcoholism can tear a family apart, a PSA advocating for mental health awareness among teens, and a documentary about the preservation of a local Bonsai garden."
+#~ msgstr ""
+#~ "Raymundo 是 Hillsdale 中學的高二生，也是個有抱負的攝影師。他在 BAVC 的片場拍攝了一些有社會意識的作品，包含關於酗酒會導致家庭破碎的敘述片、促進青少年對於心理衛生議題有所了解的公益廣告，以及一部關"
+#~ "於保留本地盆栽庭園的紀錄片。"
+
+#~ msgid "Jaison Cabebe"
+#~ msgstr "Jaison Cabebe"
+
+#~ msgid ""
+#~ "16-year old Jaison Cabebe moved to the Bay Area from Southern California at the age of four. He is a Junior at George Washington High School in San Franciso, and is a member of BAVC's Factory "
+#~ "filmmaking program in Oakland. His first documentary was a short portrait of the famous &#34;Bucket Man&#34; street performer on Market Street. He is eager to continue making films and doing "
+#~ "what he loves &#8212; currently that involves editing a music video featuring the cooking of snails."
+#~ msgstr ""
+#~ "16 歲的 Jaison Cabebe ，在 4 歲的時候從南加州搬到灣區。他是加州喬治華盛頓中學的高一生，同時是 BAVC 奧克蘭片場拍攝計劃的成員之一。他的第一部片是一小段紀錄在 Market Street 進行表演的知名街頭藝人"
+#~ "「Bucket Man」的紀錄短片。他熱愛並持續投入於拍攝影片；他目前正參與剪輯一段有烹飪蝸牛劇情的音樂錄影帶。"
+
+#~ msgid "Jasmine Ehrhardt"
+#~ msgstr "Jasmine Ehrhardt"
+
+#~ msgid ""
+#~ "Jasmine is an 18-year old Senior at Lick-Wilmerding High School in San Francisco. She lives in Oakland, where her parents own an art gallery. Jasmine has attended BAVC's Factory filmmaking for "
+#~ "close to a year &#8212; her first project was a documentary about City Slicker Farms in West Oakland. In 2011, she was invited by the Mozilla Foundation to be one of the Keynote speakers at "
+#~ "Mozilla's annual conference in London."
+#~ msgstr ""
+#~ "Jasmine 是 18 歲的高二學生，目前在加州的 Lick-Wilmerding 中學就讀。她生活於奧克蘭，她的父母親在當地開設藝廊。Jasmine 已參與 BAVC 的片場拍攝計劃將近一年，她的第一個專案是拍攝西奧克蘭 City Slicker "
+#~ "農場的紀錄片。2011 年，他被 Mozilla 基金會邀請於倫敦的年度研討會當中擔任 Keynote 講者。"
+
+#~ msgid "Hanin Benchohra"
+#~ msgstr "Hanin Benchohra"
+
+#~ msgid ""
+#~ "Hanin Benchohra is a filmmaker and student based out of San Francisco. This year, Hanin became involved with the Bay Area Video Coalition's Digital Pathways Video Production Program. In this "
+#~ "program, Hanin developed skills in media literacy, video production, and audio sound engineering. Currently, Hanin is working on her first documentary film."
+#~ msgstr ""
+#~ "Hanin Benchohra 是一位來自舊金山的製片人及學生。今年，Hanin 加入了 BAVC 的 Digital Pathways Video Production 專案。在此專案當中，Hanin 學到了與媒體識讀、影片製作，以及聲音工程的相關能力。Hanin 目"
+#~ "前正在努力製作他的第一部紀錄片。"
+
+#~ msgid "Buffy Almendares"
+#~ msgstr "Buffy Almendares"
+
+#~ msgid ""
+#~ "Born and raised in the Bay Area, 16 year-old Buffy Almendares has great interest in the digital media field. She occupies her free time with audio engineering and filmmaking. Additionally, she "
+#~ "is involved in school sports and choir. Buffy has an interest in pursuing entertainment law and building an organization that teaches media literacy and technology skills to youth in developing "
+#~ "countries. Buffy is a firm believer that media can be used as a platform to help communities amplify their voices."
+#~ msgstr ""
+#~ "出生並成長於灣區，16 歲的 Buffy Almendares 對於數位媒體領域相當感興趣。他將聲音工程與影片製作填補空閒時間，此外，他也參加了學校的校隊與合唱團。Buffy 對於娛樂法規以及打造一個在開發中國家向年輕人教"
+#~ "導媒體識讀與科技能力的組織相當有興趣。Buffy 堅信，媒體可以作為一個平台，幫助社群們擴大它們的聲音。"
+
+#~ msgid "Tammy Hagans"
+#~ msgstr "Tammy Hagans"
+
+#~ msgid ""
+#~ "Tammy Hagans is currently enrolled at City College of San Francisco, studying to become a firefighter by night, photographer and graphic designer by day. She also studies video production with "
+#~ "plans of creating epic, life-changing films that are educational and help societies become aware or involved in their communities. &#34;If we are to teach real peace in this world, and if we are "
+#~ "to carry on a real war against war, we shall have to begin with the children.&#34; &#8212; Mahatma Gandhi"
+#~ msgstr ""
+#~ "Tammy Hagans 目前正就讀於舊金山市立學院，努力在夜間成為夜間消防員，並在日間成為攝影師以及平面設計師。她也學習了影視製作課程，計劃拍攝有教育意義，並能幫助社會參與社區事務的史詩級巨片。&#34;If we "
+#~ "are to teach real peace in this world, and if we are to carry on a real war against war, we shall have to begin with the children.&#34; &#8212; Mahatma Gandhi"
+
+#~ msgid "Firefox Flicks Partners &#8212; Review a list of all our partners, maybe become one too!"
+#~ msgstr "Firefox Flicks 夥伴名單 &#8212; 請參考下列的夥伴名單，也許您也可以加入我們！"
+
+#~ msgid "Events"
+#~ msgstr "活動"
+
+#~ msgid "April 19, 2012 &mdash; <a href=\"%(href)s\">Buenos Aires International Independent Film Festival</a>"
+#~ msgstr "2012 年 4 月 19 日 &mdash; <a href=\"%(href)s\">布宜諾斯艾利斯國際獨立影展</a>"
+
+#~ msgid "A Mozilla event featuring a screening of a few early Firefox Flicks entries from Latin America."
+#~ msgstr "Mozilla 將會於此活動中播放一些早期投稿至 Firefox Flicks 的拉丁美洲作品。"
+
+#~ msgid "A Mozilla event featuring a screening of a few early Firefox Flicks entries from North America."
+#~ msgstr "Mozilla 將會於此活動中播放一些早期投稿至 Firefox Flicks 的北美洲作品。"
+
+#~ msgid "May 1, 2012 &mdash; Firefox Flicks Submissions Closed"
+#~ msgstr "2012 年 5 月 1 日 &mdash; Firefox Flicks 結束收件"
+
+#~ msgid "May 17, 2012 &mdash; <a href=\"%(href)s\">Cannes International Film Festival</a>"
+#~ msgstr "2012 年 5 月 17 日 &mdash; <a href=\"%(href)s\">坎城影展</a>"
+
+#~ msgid "Wrap Party for Firefox Flicks honoring regional winners and the winner of the Panavision prize package."
+#~ msgstr "Firefox Flicks 的慶功宴，恭賀區域的大獎，以及 Panavision 大獎得獎者。"
+
+#~ msgid "Firefox Flicks Prizes &#8212; Learn more about the contest and check out the prizes you can win."
+#~ msgstr "Firefox Flicks 獎項 &#8212; 了解關於競賽獎項的資訊，也看看您能贏得什麼大獎。"
+
+#~ msgid "GRAND PRIZE &#8212; $10,000 (USD)"
+#~ msgstr "大獎 &#8212; 美金 10,000 元"
+
+#~ msgid ""
+#~ "The grand prize winners (1 from each region) will each receive $10000 (USD) in video equipment or cash to be used towards school expenses (if the winner is currently enrolled in an accredited "
+#~ "film school or film program at an accredited college or university)."
+#~ msgstr "每個區域當中的一名大獎得獎者將會得到價值 10,000 美金的攝影器材或獎學金（若得獎者正於受認可的大學或電影學校就讀）。"
+
+#~ msgid "CATEGORY PRIZES &#8212; $5,000 (USD)"
+#~ msgstr "分類獎 &#8212; 價值美金 5,000 元"
+
+#~ msgid ""
+#~ "The category winner (first place in each category in each region) will each receive $5,000 (USD) in video equipment or cash to be used towards school expenses (if the winner is currently "
+#~ "enrolled in an accredited film school or film program at an accredited college or university). The category runner up winner (second place in each category in each region) will each receive "
+#~ "$1,000 (USD) in video equipment or cash to be used towards school expenses (if the winner is currently enrolled in an accredited film school or film program at an accredited college or "
+#~ "university)."
+#~ msgstr ""
+#~ "每個分類的得獎者（每個區域當中各分類的第一名）將會得到價值 5,000 美金的攝影器材或獎學金用以支出學雜費。每個分類的第二名（每個區域當中各分類的第二名）則會得到價值 1,000 美金的攝影器材或獎學金。"
+#~ "（獲取獎學金的條件是得獎者正於受認可的大學或電影學校就讀。）"
+
+#~ msgid "PANAVISION PRIZE"
+#~ msgstr "PANAVISION 獎"
+
+#~ msgid ""
+#~ "The Panavision prize winner (one worldwide) will be awarded the use of Panavision's digital or film camera equipment, lenses and accessories for up to four weeks. The Panavision prize is "
+#~ "equivalent to a rental value of $60,000 (USD). For full Panavision prize details, please see the <a href=\"%(link)s#panavision\">Panavision prize legal requirements</a>."
+#~ msgstr ""
+#~ "Panavision 獎得獎者（自全球選出一位）將可以得到使用 Panavision 的數位或膠捲攝影機、鏡頭，及其他相關商品四周的權利。Panavision 獎的價值為六萬美金。有關 Panavision 獎的完整詳情，請參考 <a href="
+#~ "\"%(link)s#panavision\">Panavision 獎的法律資訊</a>。"
+
+#~ msgid "FIREFOX FLICKS YOUTH CONTEST"
+#~ msgstr "FIREFOX FLICKS 青年競賽"
+
+#~ msgid ""
+#~ "Firefox Flicks participants between the age of 13-19 are eligible to participate in the Firefox Flicks Youth Contest, in partnership with the <a href=\"%(bavc_link)s\">Bay Area Video Coalition</"
+#~ "a>. The winner will be chosen by a panel of youth judges. Prizes are: $500 (USD) for first place; $300 (USD) for second place and $200 (USD) for third. Full contest rules can be found <a href="
+#~ "\"%(rules_link)s\">here</a>."
+#~ msgstr ""
+#~ "年齡在 13-19 歲間的 Firefox Flicks 參賽者將可以參加另外的 Firefox Flicks Youth Contest（Firefox Flicks 青年競賽），透過與 <a href=\"%(bavc_link)s\">Bay Area Video Coalition</a> 的合作，得獎者將會"
+#~ "由一群青年評審選出。獎項內容為：第一名美金五百元，第二名美金三百元整，第三名美金兩百元整。您可於 <a href=\"%(rules_link)s\">此處</a> 找到完整的競賽規則。"
+
+#~ msgid ""
+#~ "Please note: If you are under 18 in the U.S. or the age of majority in your country of residence, you must submit a <a href=\"%(link)s\">Parental Consent form</a> before you upload your video. "
+#~ "Please send your completed form to <a href=\"mailto:%(email)s\">%(email)s</a>."
+#~ msgstr ""
+#~ "請注意：若您位於美國且未滿十八歲，或是未於您的國家成年（台灣為二十歲），您必須在上傳影片前繳交 <a href=\"%(link)s\">家長同意書</a>。請將填寫完成的同意書透過電子郵件寄至 <a href=\"mailto:%(email)s"
+#~ "\">%(email)s</a>。"
+
+#~ msgid "PRIZE PACKS"
+#~ msgstr "澎派大禮包"
+
+#~ msgid ""
+#~ "In addition to the above, everyone who enters and provides their mailing address will receive a Firefox Flicks prize pack. If a team enters, the individual who submitted the flick will receive "
+#~ "the prize pack."
+#~ msgstr "除了以上獎項，每一位參加比賽並提供了郵寄地址的參加者將獲得一份澎派大禮包。若以團隊名義報名，將只會寄送一份澎派大禮包給送出作品的組長。"
+
+#~ msgid "For full prize details please see the <a href=\"%(legal)s\">Firefox Flicks legal requirements</a>."
+#~ msgstr "針對完整的獎品資訊，請參考 <a href=\"%(legal)s\">Firefox Flicks 法律要求</a>。"
+
+#~ msgid "Firefox Flicks Legal &#8212; Review all the legals details you need to enter Firefox Flicks video contest"
+#~ msgstr "Firefox Flicks 法律要求 &#8212; 請閱讀參加 Firefox Flicks 影片競賽所必須了解的法律資訊"
+
+#~ msgid "Meet a Flicks Judge"
+#~ msgstr "見過 Flicks 競賽評審"
+
+#~ msgid ""
+#~ "Actor, director, producer and activist Edward Norton has been nominated for two Academy Awards and won a Golden Globe along with numerous other awards for his performances. <a href=\"%(judges)s"
+#~ "\" class=\"judge-promo\">Meet them all &#187;</a>"
+#~ msgstr ""
+#~ "演員、導演、製作人，社會運動積極份子 Edward Norton 已被提名兩座奧斯卡金像獎，並得過一座金球獎，已及許多其他的獎項。<a href=\"%(judges)s\" class=\"judge-promo\">見過我們所有的評審 &#187;</a>"
+
+#~ msgid "Firefox Flicks Events"
+#~ msgstr "Firefox Flicks 活動"
+
+#~ msgid "Check out the listing of Firefox Flicks events <a href=\"%(link)s\">around the world</a>."
+#~ msgstr "看看 <a href=\"%(link)s\">全世界</a> 有哪些 Firefox Flicks 的相關活動。"
+
+#~ msgid "New Panavision Prize!"
+#~ msgstr "新的 Panavision 大獎！"
+
+#~ msgid "You could win $60,000 (USD) towards the rental of Panavision camera, lenses and accessories for four weeks. <a href=\"%(link)s\">Learn more &raquo;</a>"
+#~ msgstr "您可以贏得價值六萬美金，租用四週 Panavision 攝影機、鏡頭及其他器材的權利。<a href=\"%(link)s\">了解更多資訊 &raquo;</a>"
+
+#~ msgid "Are you between the ages of 13-19? Make a 30 second video about Mozilla for the Firefox Flicks Youth Contest and <a href=\"%(link)s\">win great prizes</a>."
+#~ msgstr "您的年紀在 13-19 歲間嗎？拍一段 30 秒關於 Mozilla 的影片，就有機會 <a href=\"%(link)s\">贏得大獎</a>。"
+
+#~ msgid "Go"
+#~ msgstr "衝"
+
+#~ msgid "Share!"
+#~ msgstr "分享！"
+
+#~ msgid "Search"
+#~ msgstr "搜尋"
+
+#~ msgid "Nothing matching that <em>yet</em>, but we're sure people are working on it! Why not check <a href=\"%(videos)s\">these videos</a> in the meantime."
+#~ msgstr "目前找不到 <em>結果</em>，但我們相信還有人正在準備當中！您現在可以先看看 <a href=\"%(videos)s\">這些影片</a>。"
+
+#~ msgid "Category Winners"
+#~ msgstr "分類得獎者"
+
+#~ msgid "I am between 13 and 19 years of age and would like to opt into the <a href=\"{url}\">Firefox Flicks Youth Contest</a>."
+#~ msgstr "我的年紀在 13 至 19 歲之間，想要加入 <a href=\"{url}\">Firefox Flicks 青年競賽</a>。"
+
+#~ msgid "Bio"
+#~ msgstr "自傳"
+
+#~ msgid "Website"
+#~ msgstr "個人網站"
+
+#~ msgid "Edit your profile"
+#~ msgstr "編輯您的個人資料"
+
+#~ msgid "Videos"
+#~ msgstr "影片"
+
+#~ msgid "Create your profile"
+#~ msgstr "建立您的個人資料"
+
+#~ msgid "Sorry, but there were problems with the info you submitted. Please review the form, correct any errors, and try again."
+#~ msgstr "抱歉，您輸入的資訊有些問題。請重新檢查表單、修改錯誤並再試一次。"
+
+#~ msgid "Avatar"
+#~ msgstr "頭像"
+
+#~ msgid "to add or modify your avatar"
+#~ msgstr "以新增或修改您的頭像"
+
+#~ msgid ""
+#~ "We'd like to send you a prize pack to thank you for entering. If you'd like to receive it, please provide your mailing address. Your address will only be used for the purpose of sending you the "
+#~ "gift and will not be shared with anyone. If you'd rather not provide your address, we totally understand."
+#~ msgstr "我們想要透過寄送一份澎湃大禮包以感謝您的加入。若您想要的話，請提供您的郵件地址。您的地址將只會被用於寄送禮物，我們將不會分享給任何人。若您不想提供地址的話也沒關係，我們完全理解。"
+
+#~ msgid "Save"
+#~ msgstr "儲存"
+
+#~ msgid "All"
+#~ msgstr "全部"
+
+#~ msgid "I agree to the <a href=\"{contest}\" target=\"_blank\">Contest Rules<a/>, <a href=\"{url}\" target=\"_blank\">Vid.ly terms of service</a> and give Mozilla permission to use my video."
+#~ msgstr "我同意 <a href=\"{contest}\" target=\"_blank\">競賽規則<a/>、<a href=\"{url}\" target=\"_blank\">Vid.ly 的服務條款</a>，並授權 Mozilla 使用我的影片。"
+
+#~ msgid "Server error. This video is inaccessible right now. Please try again in a few minutes. Maybe go make some popcorn while we fix things."
+#~ msgstr "伺服器發生錯誤。目前暫時無法存取這部影片。請在幾分鐘後再試一次，您也可以在我們修復這些問題時去買個爆米花 :)"
+
+#~ msgid "Oops. It looks like we can't access the video you're trying to upload. Please make sure your file is in a publicly accessible space."
+#~ msgstr "喔喔，看來我們無法存取您想上傳的影片。請確定這個影片是在可以被大眾存取的空間當中。"
+
+#~ msgid "It looks like you're trying to upload a video from a video URL. Your video link must point directly at the video file. Please upload your video from a personal server or tool like Dropbox."
+#~ msgstr "看來您想直接透過網址上傳影片。您的影片鏈結必須直接指到影片檔案。請上傳您的影片到個人的網路硬碟，像是 Dropbox 等。"
+
+#~ msgid "This preview is approved for all Internet users."
+#~ msgstr "此預告片適合所有網路使用者觀賞"
+
+#~ msgid "An Open Web production"
+#~ msgstr "由開放網路製作"
+
+#~ msgid "You're impossibly fast and strong."
+#~ msgstr "你的速度超快、能力超強。"
+
+#~ msgid "You make me feel safe."
+#~ msgstr "讓我感到安全。"
+
+#~ msgid "Your fur is soft and warm... and bright orange."
+#~ msgstr "你的皮毛溫暖又柔軟... 而且是漂亮的橘色。"
+
+#~ msgid "Your eyes are kind and you're always thinking of others."
+#~ msgstr "你的眼神親切，總是為他人著想"
+
+#~ msgid "You're never closed and you never compromise."
+#~ msgstr "你永不妥協，也不會封閉自己。"
+
+#~ msgid "Please don't make me choose. Because it'll be him."
+#~ msgstr "別逼我選擇，我只會選他。"
+
+#~ msgid "Say it. Out loud."
+#~ msgstr "大聲說出來。"
+
+#~ msgid "From the moment she walked in, I could see she was in trouble."
+#~ msgstr "打她走進來開始，我就看出來她碰上麻煩了。"
+
+#~ msgid "She was wet from the rain, like one of those funny cats on the Net..."
+#~ msgstr "雨淋了她整身，就跟網路上那些好笑的貓一樣..."
+
+#~ msgid "but this cat wasn't L-O-Ling."
+#~ msgstr "只是眼前這隻貓並沒有大笑。"
+
+#~ msgid "She'd been hurt before."
+#~ msgstr "她以前也曾經受過傷害。"
+
+#~ msgid "Now she was looking for something and she needed help... something with speed, something safe."
+#~ msgstr "現在她又在找些什麼，需要人伸出援手... 也許是一些更快、更安全的東西。"
+
+#~ msgid "She needed... a better browser. She'd come to right place."
+#~ msgstr "她需要一個... 更好的瀏覽器。她來對地方了。"
+
+#~ msgid "Mozilla presents"
+#~ msgstr "Mozilla 隆重鉅獻"
+
+#~ msgid "A global contest to find the ultimate Firefox video"
+#~ msgstr "尋找最強 Firefox 影片的全球競賽"
+
+#~ msgid "Directed by YOU"
+#~ msgstr "由您執導"
+
+#~ msgid "Featuring great prizes"
+#~ msgstr "眾獎雲集"
+
+#~ msgid "and Hollywood judges including Edward Norton & Producers Shauna Robertson & Jeffrey Silver"
+#~ msgstr "以及好萊塢影視名人愛德華諾頓等 領銜評審"
+
+#~ msgid "Now playing at firefoxflicks.org"
+#~ msgstr "firefoxflicks.org 熱烈上映中"
+
+#~ msgid "Your Firefox Flick is ready!"
+#~ msgstr "您的影片已經處理好了！"
+
+#~ msgid "Check out '%(video_title)s' on Firefox Flicks. %(link)s"
+#~ msgstr "看看 Firefox Flicks 上的「%(video_title)s」影片。%(link)s"
+
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#~ msgid "Dear Firefox Flicks filmmaker,"
+#~ msgstr "親愛的 Firefox Flicks 影片導演，"
+
+#~ msgid ""
+#~ "There was an error in processing your video '%(title)s'. Please upload your video from a personal server or tool like Dropbox. If you are using Dropbox, please make sure to set your video to "
+#~ "public."
+#~ msgstr "處理您的「%(title)s」影片時發生錯誤。請上傳您的影片到個人伺服器或諸如 Dropbox 之類的線上服務。若您使用 Dropbox 的話，也請確認您已將影片放到公開分享資料夾。"
+
+#~ msgid "If you continue to have problems uploading, please contact us as %(email)s ."
+#~ msgstr "若您還是遇到上傳問題，請寫信到 %(email)s 聯絡我們。"
+
+#~ msgid "Yours,"
+#~ msgstr "敬祝順心"
+
+#~ msgid "Have a question about Firefox Flicks? Please contact us at %(email)s"
+#~ msgstr "對於 Firefox Flicks 有什麼問題？請聯絡我們： %(email)s"
+
+#~ msgid "Like Firefox Flicks on Facebook: %(link)s"
+#~ msgstr "在 Facebook 上給 Firefox Flicks 一個讚：%(link)s"
+
+#~ msgid "Follow Firefox Flicks on Twitter: %(link)s"
+#~ msgstr "在 Twitter 上關注 Firefox Flicks 的最新消息: %(link)s"
+
+#~ msgid "Thank you for submitting your video to Firefox Flicks! Your flick is now processed and ready for sharing."
+#~ msgstr "感謝您投稿 Firefox Flicks，您的影片已經處理完畢，可以分享了！"
+
+#~ msgid "Thanks and best of luck in the contest."
+#~ msgstr "謝謝，也祝您獲獎。"
+
+#~ msgid "Video Search Results"
+#~ msgstr "影片搜尋結果"
+
+#~ msgid "That's a wrap!"
+#~ msgstr "殺青了！"
+
+#~ msgid ""
+#~ "Thanks to everyone for the awesome flicks. Our judges are now sequestered (with plenty of popcorn) to choose the winners, but you can still watch the entries and share your favorites while you "
+#~ "wait for the big announcement on May 17."
+#~ msgstr "感謝所有投稿短片的參加者，評審們正在小房間裡挑選出得獎作品。您仍然可以觀賞影片並分享您的最愛。我們將會在 5 月 17 日公告得獎作品。"
+
+#~ msgid "Upload a Video"
+#~ msgstr "上傳影片"
+
+#~ msgid ""
+#~ "Upload your video to a personal server or to a service like <a href=\"%(dropbox)s\" title=\"Dropbox\">Dropbox</a>, then paste the URL for your flick below. We will be reposting all videos to a "
+#~ "contest gallery on <a href=\"%(vidly)s\" title=\"Vid.ly\">Vid.ly</a>. Don't forget to give your flick a title, select the video category you are entering it in and choose your region and then "
+#~ "press &#34;upload.&#34; We will email you when your entry has been processed."
+#~ msgstr ""
+#~ "請將您的短片上傳到個人伺服器或是 <a href=\"%(dropbox)s\" title=\"Dropbox\">Dropbox</a> 之類的服務，並將短片的公開網址貼到下列欄位。我們會將所有的短片轉載到 <a href=\"%(vidly)s\" title=\"Vid.ly"
+#~ "\">Vid.ly</a> 上面的競賽藝廊。別忘了給您的短片取個標題、選擇要報名的分類，並選擇您的區域再點下「上傳」。我們將會在您的短片處理完成時發出電子郵件通知您。"
+
+#~ msgid "Upload"
+#~ msgstr "上傳"
+
+#~ msgid "Your Video is Processing"
+#~ msgstr "正在處理您的影片"
+
+#~ msgid "Your Video is processing and will be ready shortly!"
+#~ msgstr "您的影片正在處理中，很快就會搞定！"
+
+#~ msgid ""
+#~ "Sit tight! You will get an e-mail when your video is ready for viewing and sharing. While you're waiting <a href=\"%(link)s\"> have a look at some of the other videos that have already been "
+#~ "submitted.</a>"
+#~ msgstr "坐好了！在影片處理完畢，可以觀看及分享時，你會收到一封電子郵件。在這段等待的時間中，你可以<a href=\"%(link)s\">看一下其他人已經送交的影片</a>。"
+
+#~ msgid "And the awards go to..."
+#~ msgstr "得獎者是…"
+
+#~ msgid ""
+#~ "Our illustrious judges have watched the flicks, laughed their laughs, shed their tears and they've made their decisions. It wasn't easy thanks to all the amazing entries, but here they are, "
+#~ "ladies and gentlemen, the winners of Firefox Flicks 2012."
+#~ msgstr "傑出的評審們已經看過短片，做出了決定，這真是不簡單。各位先生各位女士，讓我們感謝所有超棒的影片作者，以下是 Firefox Flicks 2012 的得獎名單。"
+
+#~ msgid "Firefox Flicks &#8212; A video contest to tell the story of your favorite browser. Submit your entry by May 1, 2012 and win prizes."
+#~ msgstr "Firefox Flicks 影片競賽 &#8212; 您最愛的瀏覽器，故事由您來說！請在 2012 年 5 月 1 日前送出您的作品，即可參與比賽並贏得大獎。"
+
+#~ msgid "Download Firefox"
+#~ msgstr "下載 Firefox"
+
+#~ msgid "My Profile"
+#~ msgstr "我的個人資料"
+
+#~ msgid "Log out"
+#~ msgstr "登出"
+
+#~ msgid "Firefox Flicks FAQ"
+#~ msgstr "Firefox Flicks 常見問題"
+
+#~ msgid "When will the contest open?"
+#~ msgstr "比賽將在什麼時候開始？"
+
+#~ msgid "The Firefox Flicks contest site is now open. You can now upload your video and vote on your favorites."
+#~ msgstr "Firefox 影片競賽網站已經正式開站了。您可以上傳影片，並投票選出您最愛的影片。"
+
+#~ msgid ""
+#~ "Yes. This contest is open to anyone in world. We will, however, choose one winner for North America, one winner for Latin America, one winner for Africa, Australia &amp; New Zealand and one "
+#~ "winner for Europe (or whichever of those is closest to where you're from)."
+#~ msgstr "沒錯，這個比賽開放給全世界的人參加。每個獎項我們都會從北美洲、拉丁美洲、歐洲、亞洲非洲及紐澳這四個地區各選出一個得獎者（以最靠近您的地區為準）。"
+
+#~ msgid "Entries will be judged in the following categories:"
+#~ msgstr "比賽將有下列獎項:"
+
+#~ msgid "Best Use of New Technology (e.g. Popcorn.js, shot entirely with a mobile device, 3D)"
+#~ msgstr "最佳新技術使用獎（例如使用 Popcorn.js、全程使用行動裝置拍攝、3D 影片等）"
+
+#~ msgid "A panel of judges will choose the grand prize winner from a selection of videos that have been voted on by the public."
+#~ msgstr "評審團將由大眾票選出的作品中，挑選出最後的大獎得獎作品。"
+
+#~ msgid ""
+#~ "But there's more! The grand prize winner in each region (North America, Latin America, EU and Asia, Australia &amp; New Zealand) will receive their choice of either $10,000 (USD) in video "
+#~ "equipment or cash to spend on film school expenses or your next project. There will be four category winners in each of the four regions, the winners will get $5,000 (USD) in video equipment or "
+#~ "cash to spend on film school expenses or your next project. There will also be runner ups in each of the four categories in each region, these winners will receive $1,000 (USD) in video "
+#~ "equipment or cash to spend on film school expenses or your next project."
+#~ msgstr ""
+#~ "不只是這樣！每個地區（北美洲、拉丁美洲、歐洲、亞洲非洲及紐澳）當中的大獎得獎者，將可以任選價值 10,000 美金的攝影器材、電影學校獎學金或用在你的下一個計畫上；四個地區中每個類型的首獎得主將可以得到 "
+#~ "5,000 美金等值的器材、獎學金或計畫贊助；各地區的各分類第二名能得到 1,000 美金等值的器材、獎學金或計畫贊助。"
+
+#~ msgid "The maximum video length is 120 seconds."
+#~ msgstr "最大的影片時間長度為 120 秒。"
+
+#~ msgid ""
+#~ "Fill out your filmmaker profile and submit your video <a href=\"%(video_upload)s\">here</a>. You will need to upload your video to a personal server or to a service like Dropbox. We will be "
+#~ "reposting all videos to a contest gallery on <a href=\"%(vidly)s\">Vid.ly</a>. You'll need to give your Flick a title, select the video category you are entering it in and your region."
+#~ msgstr ""
+#~ "請 <a href=\"%(video_upload)s\">在此</a> 填寫您的個人資料並送出影片。您將需要上傳您的影片到一個個人的伺服器或是如 Dropbox 之類的網路服務。我們會將這些影片轉載至 <a href=\"%(vidly)s\">Vid.ly</a> "
+#~ "的競賽藝廊。您將需要為您的短片想個標題、選擇分類以及您所在的區域。"
+
+#~ msgid "Who can I contact if I have additional questions on the contest?"
+#~ msgstr "若我還有問題，應該聯絡誰？"
+
+#~ msgid "Drop us a note at <a href=\"%(flicks_mail)s\">firefoxflicks@mozilla.org</a> and we'll get back to you as soon as we can."
+#~ msgstr "請寄信到 <a href=\"%(flicks_mail)s\">firefoxflicks@mozilla.org</a>，我們將會盡快回覆您的問題。"
+
+#~ msgid "What is a PSA?"
+#~ msgstr "公益廣告 (PSA) 是什麼？"
+
+#~ msgid ""
+#~ "A public service announcement (PSA) is a type of advertisement that intends to affect public attitudes by raising awareness of an issue and possibly inspiring action. If entering this category, "
+#~ "your video should focus more on the issues that affect people and their online lives, including privacy and security, and less about Firefox specifically."
+#~ msgstr ""
+#~ "公益廣告 (Public Service Announcement) 是一種目的為影響大眾對於某議題的了解、並啟發大家做出情動的廣告。若選擇此分類，您的影片應該更著重於人們與他們的線上生活當中的議題，包含隱私權、安全性，並且更"
+#~ "不著重於 Firefox 本身。"
+
+#~ msgid "News"
+#~ msgstr "新聞"
+
+#~ msgid "Mozilla"
+#~ msgstr "Mozilla"
+
+#~ msgid "Bay Area Video Coalition Prize"
+#~ msgstr "Bay Area Video Coalition 獎"
+
+#~ msgid "Upvote"
+#~ msgstr "投票"
+
+#~ msgid "Home Page"
+#~ msgstr "首頁"
+
+#~ msgid "The search for the <span>ultimate Firefox video</span> has begun"
+#~ msgstr "已經開始搜尋 <span>最佳 Firefox 影片</span>"
+
+#~ msgid "A teenage girl learns the truth about the fox. Check out our video and get inspired for your own."
+#~ msgstr "當少女遇見狐狸，開始認識真正的他。請看我們的影片，激發你的創意！"
+
+#~ msgid ""
+#~ "Enter our global contest today for your chance at some <a href=\"%(prizes)s\">amazing prizes</a>. Your video could even be seen by a panel of <a href=\"%(judges)s\">Hollywood judges</a>. Plus, "
+#~ "you'll get a Firefox prize pack just for entering. So <a href=\"%(creative)s\">read the brief</a> and starting filming."
+#~ msgstr ""
+#~ "今天就參加我們的全球大賽，您就有機會得到 <a href=\"%(prizes)s\">超棒的獎品</a>。您的影片將可以被一群 <a href=\"%(judges)s\">好萊塢評審</a> 看到。另外，您只要參加比賽就能收到 Firefox 澎湃大禮包。"
+#~ "馬上 <a href=\"%(creative)s\">閱讀比賽資訊</a> 開始拍攝吧。"
+
+#~ msgid "Contest closes May 1, 2012."
+#~ msgstr "競賽結束於 2012 年 5 月 1 日。"
+
+#~ msgid "Trailers"
+#~ msgstr "預告片"
+
+#~ msgid "Lights! Camera! Awesome!"
+#~ msgstr "FIREFOX 躍上大螢幕!"
+
+#~ msgid "Mozilla Presents!"
+#~ msgstr "Mozilla 向您呈獻!"
+
+#~ msgid ""
+#~ "The contest is now open for entries, so upload your flick today! As a non-profit, Firefox is the only browser that puts you first. Now we've put you in the director's chair to help spread our "
+#~ "message. Just create a short video for a chance to win some amazing prizes. You'll get a Firefox prize pack just for entering and your submission will be seen by Hollywood judges. You could even "
+#~ "meet them at one of four international events and we might feature your video in a global campaign."
+#~ msgstr ""
+#~ "比賽現在開始接受報名，立刻上傳您的短片吧！作為非營利組織，Firefox 是唯一視您為最優先的瀏覽器。現在我們想請您坐上導演椅，幫助我們傳遞理念。只要拍一段短片，就可以得到 Firefox 澎派大禮包，還有機會贏"
+#~ "得超棒的獎品！所有作品將會由好萊塢大導演與名人專家來評選，您不但有機會與這些名人齊聚一堂，作品還有機會在全球活動中強力播送。"
+
+#~ msgid "You can also check out the entries and vote on your favorite!"
+#~ msgstr "您也可以看看比賽作品並投票選出您的最愛！"
+
+#~ msgid "Logout"
+#~ msgstr "登出"
+
+#~ msgid "Sorry, no videos found. Please try another search."
+#~ msgstr "抱歉，找不到影片，請試著用其他字詞搜尋。"
+
+#~ msgid "Home"
+#~ msgstr "首頁"
+
+#~ msgid "Upload Date"
+#~ msgstr "上傳日期"
+
+#~ msgid "Views"
+#~ msgstr "檢視次數"
+
+#~ msgid "Africa"
+#~ msgstr "非洲"
+
+#, fuzzy
+#~ msgid "Search Results"
+#~ msgstr "搜尋"
+
+#~ msgid "Return Home"
+#~ msgstr "回到首頁"
+
+#~ msgid "The contest is now open for entries, so upload your flick today!"
+#~ msgstr "比賽現在開放接受作品報名，現在就立刻上傳您的短片吧！"
+
+#~ msgid "Join or log in to get started"
+#~ msgstr "註冊或登入以開始"
+
+#~ msgid "Brief"
+#~ msgstr "簡要資訊"
+
+#~ msgid "<a href=\"#\" title=\"%(category)s\">%(category)s</a> <span>for</span> <a href=\"#\" title=\"%(country)s\">%(country)s</a>"
+#~ msgstr "<a href=\"#\" title=\"%(country)s\">%(country)s</a> <span>的</span> <a href=\"#\" title=\"%(category)s\">%(category)s</a> "

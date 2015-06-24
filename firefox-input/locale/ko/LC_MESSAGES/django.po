@@ -1,0 +1,1758 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: input 1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-15 07:48-0700\n"
+"PO-Revision-Date: 2015-05-15 05:44+0000\n"
+"Last-Translator: Hyeonseok <hyeonseok@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1431668681.0\n"
+
+#: fjord/analytics/helpers.py:10 fjord/analytics/views.py:360 fjord/base/helpers.py:106 fjord/feedback/helpers.py:9
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#: fjord/analytics/views.py:123
+msgid "Firefox Input: {query}"
+msgstr "Firefox 사용자 평가: '{query}'"
+
+#: fjord/analytics/views.py:125 fjord/analytics/views.py:139 fjord/base/templates/500.html:8 fjord/base/templates/base.html:5 fjord/base/templates/mobile/base.html:4
+msgid "Firefox Input"
+msgstr "Firefox 사용자 평가"
+
+#: fjord/analytics/views.py:138
+msgid "Search Results From Firefox Input"
+msgstr "Firefox 사용자 평가 검색 결과"
+
+#: fjord/analytics/views.py:143 fjord/analytics/views.py:367 fjord/analytics/views.py:435 fjord/analytics/templates/analytics/dashboard.html:13 fjord/analytics/templates/analytics/response.html:29
+#: fjord/analytics/templates/analytics/mobile/response.html:18 fjord/feedback/models.py:344
+msgid "Happy"
+msgstr "행복"
+
+#: fjord/analytics/views.py:143 fjord/analytics/views.py:367 fjord/analytics/views.py:437 fjord/analytics/templates/analytics/dashboard.html:15 fjord/analytics/templates/analytics/response.html:31
+#: fjord/analytics/templates/analytics/mobile/response.html:20 fjord/feedback/models.py:345
+msgid "Sad"
+msgstr "슬픔"
+
+#: fjord/analytics/views.py:153 fjord/analytics/templates/analytics/response.html:24 fjord/analytics/templates/analytics/mobile/response.html:13
+msgid "Response id: {id}"
+msgstr "응답 아이디: {id}"
+
+#: fjord/analytics/views.py:281
+msgid "Bigram"
+msgstr ""
+
+#: fjord/analytics/views.py:366
+msgid "Sentiment"
+msgstr "느낌"
+
+#: fjord/analytics/views.py:373 fjord/analytics/templates/analytics/response.html:111
+msgid "Product"
+msgstr "제품 이름:"
+
+#: fjord/analytics/views.py:384 fjord/analytics/views.py:390 fjord/analytics/templates/analytics/response.html:115
+msgid "Version"
+msgstr "버전:"
+
+#: fjord/analytics/views.py:391
+msgid "Select product to see version breakdown"
+msgstr ""
+
+#: fjord/analytics/views.py:399 fjord/analytics/templates/analytics/response.html:99
+msgid "Platform"
+msgstr "플랫폼"
+
+#: fjord/analytics/views.py:405 fjord/analytics/templates/analytics/response.html:105
+msgid "Locale"
+msgstr "언어별"
+
+#: fjord/analytics/templates/analytics/dashboard.html:7
+msgid "Atom feed for this search"
+msgstr "검색 결과 ATOM 피드"
+
+#: fjord/analytics/templates/analytics/dashboard.html:45 fjord/analytics/templates/analytics/analyzer/search.html:78 fjord/analytics/templates/analytics/mobile/response.html:40
+msgid "Permalink"
+msgstr "영구링크"
+
+#: fjord/analytics/templates/analytics/dashboard.html:100
+msgid "When"
+msgstr "일시"
+
+#. Short for 1 day.
+#: fjord/analytics/templates/analytics/dashboard.html:102
+msgid "1d"
+msgstr "1일"
+
+#. Short for 7 days.
+#: fjord/analytics/templates/analytics/dashboard.html:104
+msgid "7d"
+msgstr "7일"
+
+#. Short for 30 days.
+#: fjord/analytics/templates/analytics/dashboard.html:106
+msgid "30d"
+msgstr "30일"
+
+#. Short for 90 days.
+#: fjord/analytics/templates/analytics/dashboard.html:108
+msgid "90d"
+msgstr "90일"
+
+#: fjord/analytics/templates/analytics/dashboard.html:110
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: fjord/analytics/templates/analytics/dashboard.html:114
+msgid "Start"
+msgstr "시작"
+
+#: fjord/analytics/templates/analytics/dashboard.html:116
+msgid "End"
+msgstr "끝"
+
+#: fjord/analytics/templates/analytics/dashboard.html:117
+msgid "Set"
+msgstr "설정"
+
+#: fjord/analytics/templates/analytics/dashboard.html:136
+msgid "Note: All dates and times are in Pacific Time."
+msgstr "주의: 모든 날짜와 시간은 태평양 표준시로 표시됩니다."
+
+#: fjord/analytics/templates/analytics/dashboard.html:141
+msgid "Feedback"
+msgstr "사용자 의견"
+
+#: fjord/analytics/templates/analytics/dashboard.html:145
+msgid "Search by keyword"
+msgstr "키워드 검색"
+
+#: fjord/analytics/templates/analytics/dashboard.html:163
+msgid "No feedback matches that criteria."
+msgstr ""
+
+#: fjord/analytics/templates/analytics/dashboard.html:169
+msgid "Older Messages"
+msgstr "이전 메시지"
+
+#: fjord/analytics/templates/analytics/dashboard.html:174
+msgid "Newer Messages"
+msgstr "다음 메시지"
+
+#: fjord/analytics/templates/analytics/dashboard.html:185
+msgid "Messages in specified time range"
+msgstr "특정 시간 범위 안의 메시지"
+
+#: fjord/analytics/templates/analytics/es_down.html:12
+msgid "Dashboard unavailable"
+msgstr "현황판 없음"
+
+#: fjord/analytics/templates/analytics/es_down.html:14
+msgid "Dashboard is currently unavailable. Please try again in 10 minutes."
+msgstr "대시보드를 현재 사용할 수 없습니다. 10분 뒤에 다시 시도해주세요."
+
+#: fjord/analytics/templates/analytics/response.html:45
+msgid "Category"
+msgstr "카테고리"
+
+#: fjord/analytics/templates/analytics/response.html:47 fjord/analytics/templates/analytics/response.html:125 fjord/analytics/templates/analytics/response.html:129
+#: fjord/analytics/templates/analytics/response.html:133 fjord/analytics/templates/analytics/response.html:137 fjord/analytics/templates/analytics/response.html:141
+#: fjord/analytics/templates/analytics/response.html:145
+msgid "None"
+msgstr "없음"
+
+#: fjord/analytics/templates/analytics/response.html:49
+msgid "Description"
+msgstr "성세설명"
+
+#: fjord/analytics/templates/analytics/response.html:53
+msgid "Translated"
+msgstr "번역됨"
+
+#: fjord/analytics/templates/analytics/response.html:64
+msgid "Translate (machine)"
+msgstr "번역하기(기계)"
+
+#: fjord/analytics/templates/analytics/response.html:70
+msgid "Translate (human)"
+msgstr "번역하기(사람)"
+
+#: fjord/analytics/templates/analytics/response.html:85
+msgid "Created"
+msgstr "생성됨"
+
+#: fjord/analytics/templates/analytics/response.html:119
+msgid "Channel"
+msgstr "채널"
+
+#: fjord/analytics/templates/analytics/response.html:123
+msgid "URL Domain"
+msgstr "URL 도메인"
+
+#: fjord/analytics/templates/analytics/response.html:127
+msgid "Source"
+msgstr "소스"
+
+#: fjord/analytics/templates/analytics/response.html:131
+msgid "Campaign"
+msgstr "캠페인"
+
+#: fjord/analytics/templates/analytics/response.html:135
+msgid "Browser"
+msgstr "브라우저"
+
+#: fjord/analytics/templates/analytics/response.html:139
+msgid "Browser Ver."
+msgstr "브라우저 버전"
+
+#: fjord/analytics/templates/analytics/response.html:143
+msgid "Browser Plat."
+msgstr "브라우저 플랫폼"
+
+#: fjord/analytics/templates/analytics/response.html:151
+msgid "Full URL"
+msgstr "전체 URL"
+
+#: fjord/analytics/templates/analytics/response.html:155 fjord/feedback/templates/feedback/fxos_feedback.html:94
+msgid "Country"
+msgstr "국가"
+
+#: fjord/analytics/templates/analytics/response.html:159
+msgid "Manufacturer"
+msgstr "제조사"
+
+#: fjord/analytics/templates/analytics/response.html:163 fjord/feedback/templates/feedback/fxos_feedback.html:116
+msgid "Device"
+msgstr "기기"
+
+#: fjord/analytics/templates/analytics/response.html:167
+msgid "User agent"
+msgstr "사용자 도구"
+
+#: fjord/analytics/templates/analytics/response.html:171
+msgid "Email"
+msgstr "이메일"
+
+#: fjord/analytics/templates/analytics/response.html:179
+msgid "Browser data"
+msgstr "브라우저 데이타"
+
+#: fjord/analytics/templates/analytics/response.html:182
+msgid "yes"
+msgstr "예"
+
+#: fjord/analytics/templates/analytics/response.html:187
+msgid "API version"
+msgstr "API 버전"
+
+#: fjord/analytics/templates/analytics/response.html:205
+msgid "Context"
+msgstr "문맥"
+
+#: fjord/analytics/templates/analytics/mobile/dashboard.html:4
+msgid "Dashboard is not available on mobile devices, yet."
+msgstr "대시보드는 아직 모바일 기기에서 사용할 수 없습니다."
+
+#: fjord/base/models.py:55
+msgid "JSON Object"
+msgstr "JSON 객체"
+
+#: fjord/base/templates/403.html:3 fjord/base/templates/403.html:9
+msgid "Forbidden"
+msgstr "금지됨"
+
+#: fjord/base/templates/403.html:12
+msgid "You do not have access to this page."
+msgstr "페이지 접근 권한이 없습니다."
+
+#: fjord/base/templates/403.html:14
+msgid "You do not have access to this page. If you have an account, try signing in."
+msgstr "페이지 접근 권한이 없습니다. 계정이 있으면 로그인해 주세요."
+
+#: fjord/base/templates/403.html:18 fjord/base/templates/404.html:14 fjord/base/templates/500.html:35 fjord/base/templates/includes/login_failure_text.html:8
+msgid "Return to the dashboard."
+msgstr "대시보드로 돌아가기."
+
+#: fjord/base/templates/404.html:3 fjord/base/templates/404.html:9
+msgid "Not Found"
+msgstr "검색 결과가 없음"
+
+#: fjord/base/templates/404.html:11
+msgid "The document could not be found."
+msgstr "문서를 찾지 못했습니다."
+
+#: fjord/base/templates/500.html:8
+msgid "Something has gone horribly wrong"
+msgstr "무엇인가 심하게 잘못되었습니다"
+
+#: fjord/base/templates/500.html:19 fjord/base/templates/base.html:44 fjord/base/templates/mobile/base.html:29
+msgid "<strong>Firefox</strong> Input"
+msgstr "<strong>Firefox</strong> Input"
+
+#: fjord/base/templates/500.html:25 fjord/base/templates/base.html:50 fjord/base/templates/mobile/base.html:35
+msgid "Dashboard"
+msgstr "사용자 평가 서비스"
+
+#: fjord/base/templates/500.html:33
+msgid "Something has gone horribly wrong."
+msgstr "무엇인가 심하게 잘못되었습니다."
+
+#: fjord/base/templates/500.html:34
+msgid "There was a problem on the server."
+msgstr "웹 서버에 문제가 있었습니다."
+
+#: fjord/base/templates/about.html:3 fjord/base/templates/includes/common.html:23
+msgid "About Firefox Input"
+msgstr "Firefox 사용자 평가 소개"
+
+#: fjord/base/templates/about.html:9
+msgid "Hello!"
+msgstr "안녕하세요!"
+
+#: fjord/base/templates/about.html:11
+#, fuzzy
+msgid ""
+"Firefox Input is Mozilla's primary feedback mechanism for products. It is set up to be a method of one-way communication about your experiences in using our products, the Internet you view it "
+"through, and what Mozilla can do to make that experience better. The system is available over a wide-variety of submission mechanisms and product builds."
+msgstr ""
+"Firefox Input은 Mozilla 제품 의견 서비스입니다. 여러분이 제공해 주신 의견은 Firefox를 좀 더 나은 제품으로 만드는 데 도움을 줄 것 입니다. 사용자 인터페이스, 프로그램 버그, 웹 사이트 문제 등 다양한 의"
+"견을 보내 주십시오."
+
+#: fjord/base/templates/about.html:21
+msgid "To submit feedback for a Mozilla product, please go to <a href=\"%(url)s\">the feedback submission page</a>!"
+msgstr "Mozilla 제품에 대한 의견을 보내려면 <a href=\"%(url)s\">의견 보내기</a>를 이용해 주십시오!"
+
+#: fjord/base/templates/about.html:27 fjord/base/templates/includes/common.html:20
+msgid "Privacy Policy"
+msgstr "개인 정보 정책"
+
+#: fjord/base/templates/about.html:29
+msgid "We adhere to the <a href=\"%(url)s\">Mozilla Privacy Policy</a>."
+msgstr "우리는 <a href=\"%(url)s\">Mozilla 개인정보 보호정책</a>을 준수합니다."
+
+#: fjord/base/templates/about.html:34
+msgid "Legal Disclaimers and Limitations"
+msgstr "법적 고지와 한계"
+
+#: fjord/base/templates/about.html:36
+msgid "We are covered by the <a href=\"%(url)s\">Mozilla legal disclaimers and limitations</a> document."
+msgstr "우리는 <a href=\"%(url)s\">Mozilla 법적 고지와 한계</a> 문서를 준수합니다."
+
+#: fjord/base/templates/about.html:42
+msgid "Data Retention Policy"
+msgstr "데이타 저장 정책"
+
+#: fjord/base/templates/about.html:44
+msgid "We have a data retention policy that covers data stored on this site:"
+msgstr "우리는 사이트에 저장되는 데이타에 대한 데이터 저장 정책을 가지고 있습니다:"
+
+#: fjord/base/templates/about.html:51
+msgid "We keep feedback data forever, but only the last 6 months of data is available on the public dashboard."
+msgstr "모든 의견 데이터를 저장하고 있지만 최근 6개월 데이터만 대시보드에 표시됩니다."
+
+#: fjord/base/templates/about.html:57
+msgid "We keep email addresses and contextual data associated with feedback data for 6 months and then delete it."
+msgstr "의견과 관련된 이메일 주소와 관련 정보는 6개월 이후에 삭제합니다."
+
+#: fjord/base/templates/about.html:64
+msgid "Open Data"
+msgstr "데이터 열기"
+
+#: fjord/base/templates/about.html:66
+msgid ""
+"We'd love to experiment more with this data, but we're only a few people. So, we need requests from you on questions you'd like to see answered! If you would like to experiment with our data, "
+"please contact us!"
+msgstr ""
+"이 데이터를 이용해 좀 더 많은 실험을 해보고 싶지만 사람이 많지 않습니다. 그래서 여러분이 알고 싶은 내용을 요청해주시면 도움이 많이 될 것 같습니다. 이 데이터를 가지고 직접 실험을 해보고 싶다면 저희에"
+"게 연락해 주세요."
+
+#: fjord/base/templates/about.html:74
+msgid "Source Code"
+msgstr "소스 코드"
+
+#: fjord/base/templates/about.html:76
+msgid "The code for the Firefox Input site can be <a href=\"%(url)s\">found on GitHub</a>!"
+msgstr "Firefox Input의 소스 코드는 <a href=\"%(url)s\">GitHub</a>에서 보실 수 있습니다!"
+
+#: fjord/base/templates/base.html:5 fjord/base/templates/mobile/base.html:4
+msgid "Welcome"
+msgstr "어서오세요!"
+
+#: fjord/base/templates/base.html:32 fjord/base/templates/mobile/base.html:21
+msgid "Proceed to main content"
+msgstr "콘텐츠로 가기"
+
+#: fjord/base/templates/base.html:33 fjord/base/templates/mobile/base.html:22
+msgid "Proceed to footer"
+msgstr "마지막으로 가기"
+
+#: fjord/base/templates/base.html:51
+msgid "Give Feedback"
+msgstr "의견 제시하기"
+
+#: fjord/base/templates/base.html:53
+msgid "Analytics"
+msgstr "분석"
+
+#: fjord/base/templates/base.html:59
+msgid "Hello, {username}"
+msgstr "안녕하세요, {username}님"
+
+#: fjord/base/templates/base.html:63
+msgid "Sign out"
+msgstr "로그아웃"
+
+#: fjord/base/templates/base.html:65
+msgid "Sign in"
+msgstr "로그 인"
+
+#: fjord/base/templates/csrf_failure.html:3 fjord/base/templates/includes/csrf_failure_text.html:1 fjord/base/templates/mobile/csrf_failure.html:3
+msgid "CSRF Failure"
+msgstr "CSRF 실패"
+
+#: fjord/base/templates/login_failure.html:3 fjord/base/templates/includes/login_failure_text.html:1 fjord/base/templates/mobile/login_failure.html:3
+msgid "Login Failure"
+msgstr "로그인 실패"
+
+#: fjord/base/templates/new_user.html:3 fjord/base/templates/mobile/new_user.html:3
+msgid "Welcome to Input!"
+msgstr "어서오세요!"
+
+#: fjord/base/templates/includes/common.html:7
+msgid "Other languages:"
+msgstr "기타 언어:"
+
+#: fjord/base/templates/includes/common.html:15
+msgid "Go"
+msgstr "이동"
+
+#: fjord/base/templates/includes/common.html:21
+msgid "Legal Notices"
+msgstr "법적 고지"
+
+#: fjord/base/templates/includes/common.html:22
+msgid "Report Trademark Abuse"
+msgstr "상표권 침해 신고"
+
+#: fjord/base/templates/includes/common.html:26
+#, fuzzy
+msgid ""
+"Except where otherwise <a href=\"%(legal_url)s\">noted</a>, content on this site is licensed under the <a href=\"%(license_url)s\">Creative Commons Attribution Share-Alike License v3.0</a> or any "
+"later version."
+msgstr ""
+"특별한 <a href=\"%(legal_url)s\">법적 고지</a>가 없는 한 본 사이트의 모든 정보는 <br/><a href=\"%(license_url)s\">Creative Commons Attribution Share-Alike License v3.0</a> 이후 버전을 따릅니다."
+
+#: fjord/base/templates/includes/csrf_failure_text.html:3
+msgid "Your submission failed a security check on our system."
+msgstr "보안 검증에 실패하였습니다."
+
+#: fjord/base/templates/includes/csrf_failure_text.html:8
+msgid "Please make sure you have cookies enabled, press the Back button in your browser, refresh the page, fill out the form, and try submitting your feedback again."
+msgstr "쿠키가 활성화되어 있는지 확인하고 브라우저의 뒤로 가기 버튼을 누른 다음에 페이지를 새로고침하고 서식을 작성한 후 다시 의견을 보내주세요."
+
+#: fjord/base/templates/includes/login_failure_text.html:3
+msgid "You've failed to authenticate with Persona. Please try again."
+msgstr "Persona 인증에 실패하였습니다. 다시 시도해 주세요."
+
+#: fjord/base/templates/includes/new_user_text.html:1
+msgid "Welcome!"
+msgstr "어서오세요!"
+
+#: fjord/base/templates/includes/new_user_text.html:3
+msgid "The identity you just logged in to Persona with ties you to your account on Input. Please remember which Persona identity you used."
+msgstr ""
+
+#: fjord/base/templates/includes/new_user_text.html:10
+msgid "Continue"
+msgstr ""
+
+#: fjord/feedback/config.py:10
+msgid "Colombia"
+msgstr "콜롬비아"
+
+#: fjord/feedback/config.py:11
+msgid "Venezuela"
+msgstr "베네주엘라"
+
+#: fjord/feedback/config.py:12
+msgid "Poland"
+msgstr "폴란드"
+
+#: fjord/feedback/config.py:13
+msgid "Spain"
+msgstr "스페인"
+
+#: fjord/feedback/config.py:14
+msgid "Brazil"
+msgstr "브라질"
+
+#: fjord/feedback/config.py:15
+msgid "Germany"
+msgstr "독일"
+
+#: fjord/feedback/config.py:16
+msgid "Greece"
+msgstr "그리스"
+
+#: fjord/feedback/config.py:17
+msgid "Hungary"
+msgstr "헝가리"
+
+#: fjord/feedback/config.py:18
+msgid "Serbia"
+msgstr "세르비아"
+
+#: fjord/feedback/config.py:19
+msgid "Montenegro"
+msgstr "몬테네그로"
+
+#: fjord/feedback/config.py:20
+msgid "Mexico"
+msgstr ""
+
+#: fjord/feedback/config.py:21
+msgid "Peru"
+msgstr ""
+
+#: fjord/feedback/config.py:22
+msgid "Uruguay"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/download_firefox.html:10 fjord/feedback/templates/feedback/mobile/download_firefox.html:7
+msgid "Download Firefox"
+msgstr "Firefox 다운로드"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:16
+msgid "Please Download Firefox"
+msgstr "Firefox를 다운로드 해주세요."
+
+#: fjord/feedback/templates/feedback/download_firefox.html:21 fjord/feedback/templates/feedback/mobile/download_firefox.html:21
+msgid "Oh! So, you want to offer us feedback on Firefox. Thank you, but you'll need to be on the latest version."
+msgstr "Firefox 에 대한 의견을 제공해 주셔서 감사합니다. 제안 사항은 다음 번 출시에서 확인해 주십시오."
+
+#: fjord/feedback/templates/feedback/download_firefox.html:27 fjord/feedback/templates/feedback/mobile/download_firefox.html:27
+msgid "To do that, simply go to our download page and install/update to the <a href=\"%(url)s\">latest version of Firefox!</a>"
+msgstr "다운로드 페이지에서 최신 <a href=\"%(url)s\">Firefox 정식</a>버전을 받아 설치 및 업데이트 하시기 바랍니다."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:7 fjord/feedback/templates/feedback/generic_feedback.html:7
+msgid "Submit Your Feedback"
+msgstr "의견 보내기"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:31 fjord/feedback/templates/feedback/generic_feedback.html:32
+#, fuzzy
+msgid "{product} feedback"
+msgstr "의견 보내기"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:36 fjord/feedback/templates/feedback/generic_feedback.html:37 fjord/feedback/templates/feedback/picker.html:28
+msgid "JavaScript is required to leave feedback. Please enable JavaScript in your browser and refresh this page."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:43
+msgid "Your feedback helps us improve Firefox OS."
+msgstr "여러분의 의견이 Firefox OS를 더 멋지게 만듭니다."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:58 fjord/feedback/templates/feedback/generic_feedback.html:60
+#, fuzzy
+msgid "%(product)s makes me happy"
+msgstr "Firefox가 좋습니다 ..."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:75 fjord/feedback/templates/feedback/generic_feedback.html:77
+#, fuzzy
+msgid "%(product)s makes me sad"
+msgstr "메시지 %(count)s개"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:84 fjord/feedback/templates/feedback/generic_feedback.html:86
+msgid "Is %(product)s not the product you want to give feedback on?<br /> <a href=\"%(url)s\">Pick a different product</a>."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:98
+msgid "In what country did you purchase your Firefox OS device?"
+msgstr "어느 나라에서 Firefox OS 기기를 구입하셨나요?"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:106 fjord/feedback/templates/feedback/fxos_feedback.html:128
+msgid "Other"
+msgstr "기타"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:110 fjord/feedback/templates/feedback/fxos_feedback.html:132
+msgid "Next"
+msgstr "다음"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:120
+msgid "What Firefox OS device are you using?"
+msgstr "어떤 Firefox OS 기기를 사용하고 계신가요?"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:137 fjord/feedback/templates/feedback/generic_feedback.html:95
+msgid "Details"
+msgstr "상세"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:142 fjord/feedback/templates/feedback/generic_feedback.html:100
+#, fuzzy
+msgid "Please describe what you like. The content of your feedback will be public, so please be sure not to include personal information such as email address, passwords or phone number."
+msgstr "의견의 내용은 공개됩니다. 이곳에 개인정보는 입력하지 마세요."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:150 fjord/feedback/templates/feedback/generic_feedback.html:108
+#, fuzzy
+msgid ""
+"Please describe your problem below and be as specific as you can. The content of your feedback will be public, so please be sure not to include personal information such as email address, passwords "
+"or phone number."
+msgstr "의견의 내용은 공개됩니다. 이곳에 개인정보는 입력하지 마세요."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:167 fjord/feedback/templates/feedback/generic_feedback.html:125
+#, fuzzy
+msgid "If your feedback is related to a website, you can include it here:"
+msgstr "웹사이트에 대한 피드백이 있을 경우, 여기에 입력하시면 됩니다."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:181 fjord/feedback/templates/feedback/generic_feedback.html:156
+#, fuzzy
+msgid "(Optional) Check here to let us contact you to follow up on your feedback. Your email address will be kept private."
+msgstr "우리가 의견에 대한 조치를 취하기 위해 여기를 확인해주세요."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:192
+msgid "Please enter a valid email address."
+msgstr "이메일 주소를 입력해 주세요."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:198 fjord/feedback/templates/feedback/generic_feedback.html:170
+#, fuzzy
+msgid "Submit"
+msgstr "의견 보내는 중..."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:204
+msgid "Submitting...."
+msgstr "의견 보내는 중..."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:212
+msgid "Success!"
+msgstr "성공!"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:216
+msgid "Thank you for your feedback! We will use it to help us create a better experience in future versions of Firefox OS."
+msgstr "의견 주셔서 감사합니다. 더 나은 다음 버전의 Firefox OS 개발에 도움이 될 것입니다."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:222
+msgid "Learn how you can <a href=\"%(url)s\">make Firefox OS and Mozilla better</a>."
+msgstr "<a href=\"%(url)s\">Firefox OS와 Mozilla</a>에 도움 주는 방법을 살펴보세요."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:231
+msgid "We're sorry!"
+msgstr "죄송합니다!"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:234
+msgid "Something has happened and we can't submit your feedback. Feedback will be saved on your device so you can try sending it again later."
+msgstr "문제가 발생해서 의견을 전송하지 못했습니다. 작성된 의견은 나중에 다시 보낼 수 있도록 기기에 저장되었습니다."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:240 fjord/feedback/templates/feedback/fxos_feedback.html:246 fjord/feedback/templates/feedback/fxos_feedback.html:255
+msgid "Try again"
+msgstr "다시 시도"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:241 fjord/feedback/templates/feedback/fxos_feedback.html:256
+msgid "Cancel"
+msgstr "취소"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:249
+msgid "You have unsubmitted feedback data. Would you like to try submitting it again?"
+msgstr "전송되지 않은 의견이 있습니다. 다시 보내시겠습니까?"
+
+#: fjord/feedback/templates/feedback/generic_feedback.html:43
+msgid "How does %(product)s make you feel?"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/generic_feedback.html:140
+msgid ""
+"Check here to provide technical information about your browser. This information helps us better understand our users and create better products. This information will be kept in accordance with "
+"our Privacy policy."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/picker.html:3
+#, fuzzy
+msgid "Select A Product"
+msgstr "제품 이름:"
+
+#: fjord/feedback/templates/feedback/picker.html:14
+msgid "Select a product"
+msgstr ""
+
+#: fjord/feedback/templates/feedback/picker.html:23
+#, fuzzy
+msgid "No products available."
+msgstr "현황판 없음"
+
+#: fjord/feedback/templates/feedback/picker.html:34
+msgid "Select a product to leave feedback for."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/thanks.html:3 fjord/feedback/templates/feedback/thanks_l10nized.html:3
+msgid "Thanks"
+msgstr "감사합니다!"
+
+#: fjord/feedback/templates/feedback/thanks.html:16 fjord/feedback/templates/feedback/thanks_l10nized.html:16
+msgid "Thanks for Your Feedback"
+msgstr "의견 주셔서 감사합니다."
+
+#: fjord/feedback/templates/feedback/thanks.html:25
+msgid "Your feedback will be used to create a better experience in future releases of Firefox."
+msgstr "여러분의 의견을 토대로 더 나은 경험을 줄 수 있는 Firefox를 만들 수 있습니다."
+
+#: fjord/feedback/templates/feedback/thanks.html:33 fjord/feedback/templates/feedback/thanks_l10nized.html:33
+#, fuzzy
+msgid "Suggestions from your feedback:"
+msgstr "의견을 공유해주세요."
+
+#: fjord/feedback/templates/feedback/thanks.html:49 fjord/feedback/templates/feedback/thanks_l10nized.html:49
+msgid "Having problems? Get help."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/thanks.html:51 fjord/feedback/templates/feedback/thanks_l10nized.html:51
+msgid "Go to our support forum where you can <a href=\"%(url)s\">get help and find answers</a>."
+msgstr ""
+
+#: fjord/feedback/templates/feedback/thanks.html:60 fjord/feedback/templates/feedback/thanks_l10nized.html:64
+msgid "Shape the future of Firefox."
+msgstr "Firefox 최근 소식 보기."
+
+#: fjord/feedback/templates/feedback/thanks.html:62
+msgid "Download <a href=\"%(download_url)s\">the build that is right for you</a>."
+msgstr "<a href=\"%(download_url)s\">현재 버전</a>을 다운로드합니다."
+
+#: fjord/feedback/templates/feedback/thanks.html:70 fjord/feedback/templates/feedback/thanks_l10nized.html:74
+msgid "Contribute to Mozilla."
+msgstr "Mozilla에 공헌하기"
+
+#: fjord/feedback/templates/feedback/thanks.html:72
+#, fuzzy
+msgid "Learn how you can <a href=\"%(url)s\">make Firefox and Mozilla better</a>."
+msgstr "<a href=\"%(url)s\">Firefox와 Mozilla</a>에 도움 주는 방법"
+
+#: fjord/feedback/templates/feedback/thanks.html:79
+msgid "Find the latest news about Firefox."
+msgstr "Firefox의 최근 소식을 찾습니다."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:25
+#, fuzzy
+msgid "Your feedback will be used to create a better experience in future releases of %(product)s."
+msgstr "여러분의 의견을 토대로 더 나은 경험을 줄 수 있는 Firefox를 만들 수 있습니다."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:66
+#, fuzzy
+msgid "Download <a href=\"%(download_url)s\">the Firefox build that is right for you</a>."
+msgstr "<a href=\"%(download_url)s\">현재 버전</a>을 다운로드합니다."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:76
+#, fuzzy
+msgid "Learn how you can <a href=\"%(url)s\">make %(product)s and Mozilla better</a>."
+msgstr "<a href=\"%(url)s\">Firefox와 Mozilla</a>에 도움 주는 방법"
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:84
+#, fuzzy
+msgid "Find the latest news about %(product)s."
+msgstr "Firefox의 최근 소식을 찾습니다."
+
+#: fjord/feedback/templates/feedback/mobile/download_firefox.html:16
+msgid "Please Download Firefox!"
+msgstr "Firefox를 다운로드 해주십시오!"
+
+#: fjord/suggest/providers/sumosuggest.py:180
+msgid "Ask a question in our support forum"
+msgstr ""
+
+#~ msgid "Submit feedback"
+#~ msgstr "의견 보내기"
+
+#~ msgid "Firefox OS made me happy"
+#~ msgstr "Firefox OS 기능 만족"
+
+#~ msgid "Firefox OS made me sad"
+#~ msgstr "Firefox OS 기능 불만족"
+
+#~ msgid "If you need help or have a problem with Firefox OS, please visit <a href=\"%(support_url)s\">Mozilla Support</a>."
+#~ msgstr "Firefox OS 사용에 문제가 있으시면 <a href=\"%(support_url)s\">사용자 지원</a>페이지를 참고하십시오."
+
+#~ msgid "Please describe what you liked."
+#~ msgstr "장점이라고 생각하는 점을 적어주세요."
+
+#~ msgid "Please describe your problem below and be as specific as you can."
+#~ msgstr "아래에 문제점을 최대한 상세하게 입력해 주세요."
+
+#~ msgid "The content of your feedback will be public, so please be sure not to include any personal information."
+#~ msgstr "의견의 내용은 공개됩니다. 이곳에 개인정보는 입력하지 마세요."
+
+#~ msgid "Can we contact you?"
+#~ msgstr "연락처를 알려주실 수 있나요?"
+
+#~ msgid "Check here to let us contact you to follow up on your feedback."
+#~ msgstr "우리가 의견에 대한 조치를 취하기 위해 여기를 확인해주세요."
+
+#~ msgid "Email address (optional):"
+#~ msgstr "이메일 주소(선택사항):"
+
+#~ msgid "Don't worry, your email will always be kept private."
+#~ msgstr "걱정하지 마세요. 이메일은 언제나 비공개로 보호됩니다."
+
+#~ msgid "Send Feedback"
+#~ msgstr "의견 보내기"
+
+#~ msgid "Your feedback helps us improve Firefox."
+#~ msgstr "여러분의 의견이 Firefox를 더 멋지게 만듭니다."
+
+#~ msgid "Firefox made me happy"
+#~ msgstr "Firefox 기능 만족"
+
+#~ msgid "Firefox made me sad"
+#~ msgstr "Firefox 기능 불만족"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit <a href=\"%(support_url)s\">Firefox Support</a>."
+#~ msgstr "Firefox 사용에 문제가 있으시면 <a href=\"%(support_url)s\">사용자 지원</a>페이지를 참고하십시오."
+
+#~ msgid "Please describe your problem below."
+#~ msgstr "여러분이 생각하는 문제점을 아래에 입력해 주세요."
+
+#~ msgid "Please be as specific as you can."
+#~ msgstr "가능한 구체적으로 작성해주세요."
+
+#~ msgid "If your feedback is related to a website, you can include it here."
+#~ msgstr "웹사이트에 대한 피드백이 있을 경우, 여기에 입력하시면 됩니다."
+
+#~ msgid "While your feedback will be publicly visible, email addresses are kept private. We understand your privacy is important."
+#~ msgstr "작성한 피드백은 공개되어도 이메일 주소는 공개되지 않습니다. 우리는 개인 정보 보호를 중요하게 생각합니다."
+
+#, fuzzy
+#~ msgid "Unknown product"
+#~ msgstr "알 수 없음"
+
+#, fuzzy
+#~ msgid "If you are here by mistake and want to leave feedback, you can do so <a href=\"%(url)s\">on our feedback form</a>."
+#~ msgstr "여러분이 보낸 의견을 보시고 싶으시면 <a href=\"%(url)s\">Firefox 사용자 평가 사이트</a>를 참고하십시오."
+
+#, fuzzy
+#~ msgid "<a href=\"%(feedback_url)s\">I want to give feedback about Firefox</a>"
+#~ msgstr "<a href=\"%(dash_url)s\">Firefox 의견 현황</a> 보기"
+
+#~ msgid "Input Services Monitor"
+#~ msgstr "입력 서비스 모니터"
+
+#~ msgid "List of components that Input uses and whether they are functioning correctly."
+#~ msgstr "기능이 바르게 동작하는 항목 목록"
+
+#~ msgid "Latest Feedback"
+#~ msgstr "최근 의견"
+
+#~ msgid "Messages"
+#~ msgstr "전체 메세지"
+
+#~ msgid "Either you don't have an account here or you used the wrong Persona account to log in."
+#~ msgstr "로그인 계정을 가지고 있지 않거나 잘못된 페로소나 계정을 사용한 경우."
+
+#~ msgid "Please enter a valid email address, or uncheck the box allowing us to contact you."
+#~ msgstr "올바른 이메일 주소를 넣거나 연락 가능 옵션을 체크하지 마세요."
+
+#~ msgid "This field is required."
+#~ msgstr "필수 항목 입니다."
+
+#~ msgid "Firefox Made Me Happy"
+#~ msgstr "Firefox 좋음"
+
+#~ msgid "Firefox Made Me Sad"
+#~ msgstr "Firefox 문제 있음"
+
+#~ msgid "Super! It's great to hear that you like our browser."
+#~ msgstr "멋집니다! 우리의 브라우저를 좋아해 주셔서 감사합니다."
+
+#~ msgid "We are sorry that you have not had a good experience with our browser. Please tell us why, so we can fix it."
+#~ msgstr "부정적인 결과를 드려서 매우 죄송합니다. 개선점을 알려 주시면 다음 버전에서 향상시키기 위해 노력하겠습니다!"
+
+#~ msgid "Go Back"
+#~ msgstr "이전으로"
+
+#~ msgid ""
+#~ "Please be as specific as you can in the allotted space. For example, if you are giving feedback about slowness, please tell us about relevant websites, if you notice it at the beginning or later "
+#~ "in the browsing session and if there are any actions that you perform in Firefox that are particularly problematic."
+#~ msgstr "가능한 한 최대한 자세하게 검색해 주세요. 예를 들면, 속도 저하에 관한 feedback일 경우 속도 저하가 나타나는 웹사이트를, "
+
+#~ msgid "For support requests, please go to <a href=\"%(url)s\">Mozilla Support</a> instead."
+#~ msgstr "문제가 지속되면 <a href=\"%(url)s\">Mozilla Support</a>사이트를 방문해 주십시오."
+
+#~ msgid "To protect your privacy, please ensure that no personally identifiable information is included in your feedback."
+#~ msgstr "개인 정보 보호를 위해 본 사이트는 개인 식별 정보를 요구하지 않습니다."
+
+#~ msgid "Submitting Feedback"
+#~ msgstr "의견 보내는 중"
+
+#~ msgid "Submit Feedback"
+#~ msgstr "의견 보내기"
+
+#~ msgid "Tweet feedback to your followers"
+#~ msgstr "친구로 부터 받은 Tweet 의견"
+
+#~ msgid "Want to see where your feedback goes?"
+#~ msgstr "의견 처리 과정을 보시겠습니까?"
+
+#~ msgid "For support requests, please go to <a href=\"%(support_url)s\">Mozilla Support</a> instead."
+#~ msgstr "사용 지원에 대한 문의는 <a href=\"%(support_url)s\">Mozilla Support</a>사이트를 방문해 주십시오."
+
+#~ msgid "Thank you for your feedback!"
+#~ msgstr "의견을 보내주셔서 감사합니다!"
+
+#~ msgid "Thanks for the feedback! We will use it to help create a better experience in future releases of Firefox."
+#~ msgstr "의견 주셔서 감사합니다. 더 나은 다음 버전의 Firefox 개발에 도움이 될 것입니다."
+
+#~ msgid "Want to know what's going on with Firefox? We have many ways of staying in touch:"
+#~ msgstr "파이어폭스에 대한 소식을 계속 받길 원하시나요? 계속 소식을 받는 데는 여러가지 방법이 있습니다:"
+
+#~ msgid "Download the build that is right for you"
+#~ msgstr "적합한 버전 다운 받기"
+
+#~ msgid "Learn how you can make Firefox and Mozilla better"
+#~ msgstr "Firefox와 Mozilla를 더 낫게 만드는 방법 배우기"
+
+#~ msgid "Visit the Firefox Feedback Dashboard"
+#~ msgstr "Firefox 의견 현황 보기"
+
+#~ msgid "Find the latest news about Mozilla."
+#~ msgstr "Mozilla의 최근 소식을 찾습니다."
+
+#~ msgid "Twitter"
+#~ msgstr "트위터"
+
+#~ msgid "Facebook"
+#~ msgstr "페이스북"
+
+#~ msgid "Planet Mozilla"
+#~ msgstr "Mozilla 블로그"
+
+#, fuzzy
+#~ msgid "Page not found"
+#~ msgstr "결과 없음"
+
+#, fuzzy
+#~ msgid "Sorry, but we couldn't find the page you're looking for."
+#~ msgstr "죄송합니다. 찾으시는 문서가 없습니다."
+
+#~ msgid "We already got your feedback! Thanks."
+#~ msgstr "평가 의견을 주셔서 감사합니다."
+
+#~ msgid "Describe your idea below."
+#~ msgstr "여러분의 생각을 입력해 주세요."
+
+#~ msgid "Praise"
+#~ msgstr "긍정적 의견"
+
+#~ msgid "Issue"
+#~ msgstr "이슈"
+
+#~ msgid "Your comment contains swear words (%s). In order to help us improve our products, please use words that help us create an action or to-do from your constructive feedback. Thanks!"
+#~ msgstr "의견 내용 중에 욕설(%s)이 담겨져 있습니다. 제품 개선을 위해 건설적인 의견을 보내 주시면 대단히 감사하겠습니다."
+
+#~ msgid "Feedback must not contain HTML."
+#~ msgstr "의견란에는 HTML을 포함해서는 안됩니다."
+
+#~ msgid "Your feedback seems to contain an email address. Please remove this and similar personal data from the text, then try again. Thanks!"
+#~ msgstr "의견란에 메일 주소를 포함하고 있습니다. 만약 개인 데이터를 담고 있다면 다시 한번 확인해 주십시오."
+
+#~ msgid "URLs with IP addresses must contain public IP addresses."
+#~ msgstr "공인 IP 주소가 포함되어야 합니다."
+
+#~ msgid "Your feedback seems to contain a URL. Please remove this and similar personal data from the text, then try again. Thanks!"
+#~ msgstr "의견란에 URL을 포함하고 있습니다. 만약 개인 데이터를 담고 있다면 다시 한번 확인해 주십시오."
+
+#~ msgid "User-Agent request header must be set."
+#~ msgstr "웹브라우저 종류가 설정되어 있지 않습니다."
+
+#~ msgid "It's great to hear you want to help Mozilla make your experience better!"
+#~ msgstr "Mozilla에 여러분의 경험을 제공해 주셔서 대단히 감사합니다!"
+
+#~ msgid "Please choose one of the following types of feedback that you would like to submit to us:"
+#~ msgstr "우리에게 보내실 의견 종류를 하나 선택해 주십시오:"
+
+#~ msgid "Firefox makes me happy because ..."
+#~ msgstr "Fireofox가 좋은 이유..."
+
+#~ msgid "Firefox makes me sad because ..."
+#~ msgstr "Firefox가 좋지 않은 이유..."
+
+#~ msgid "Firefox Logo"
+#~ msgstr "Firefox 로고"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit our <a href=\"%(support_url)s\">support page</a>."
+#~ msgstr "Firefox 사용에 문제가 있으시면 <a href=\"%(support_url)s\">사용자 지원</a>페이지를 참고하십시오."
+
+#~ msgid "I Have an Idea for Firefox"
+#~ msgstr "Firefox 위한 아이디어"
+
+#~ msgid "Have an idea how Firefox could be better? Let us know."
+#~ msgstr "Firefox를 위한 좋은 아이디어가 있으면 알려 주십시오!"
+
+#~ msgid "Include the URL of a site that worked better."
+#~ msgstr "더 나은 작업을 위해 사이트의 URL을 포함하세요."
+
+#~ msgid "Include the URL of the site with the problem."
+#~ msgstr "문제있는 사이트의 URL을 포함하세요."
+
+#~ msgid "If you have an idea to offer us instead, please use our"
+#~ msgstr "여러분에게 더 나은 아이디어가 있으면 보내 주십시오!"
+
+#~ msgid "suggestion box"
+#~ msgstr "제안하기"
+
+#~ msgid "Super! It's great to hear that you like our browser. Please explain what you specifically like!"
+#~ msgstr "멋집니다. 우리의 웹 브라우저를 사랑해 주셔서 감사합니다. 그 이유를 알려 주시기 바랍니다."
+
+#~ msgid "We are sorry that you have not had a good experience with our browser. Please tell us why, so we can fix it!"
+#~ msgstr "부정적인 결과를 드려서 매우 죄송합니다. 개선점을 알려 주시면 다음 버전에서 향상시키기 위해 노력하겠습니다!"
+
+#~ msgid "So, you'd like to make a suggestion on how to enhance Firefox? Awesome! Please enter your idea below:"
+#~ msgstr "Firefox 기능을 더 낳게 하는 방법을 알고 계신가요? 멋집니다! 아이디어를 넣어주세요:"
+
+#~ msgid "Know of a website that works better in this beta than it did in earlier versions of Firefox? Please add the URL, so we can keep track!"
+#~ msgstr "Firefox 이전 버전에서 제공되는 것이 제공되지 않은 사이트가 있다면 URL을 보내 주십시오. 살펴보겠습니다!"
+
+#~ msgid "Had an issue with a specific website? Please add the URL, so we can find the issue faster!"
+#~ msgstr "특정 웹사이트에 문제가 있습니까? URL을 입력해 주시면 빠르게 해결해 드립니다."
+
+#~ msgid "Please ensure that there is no personally identifiable information here."
+#~ msgstr "본 사이트는 개인 식별 정보를 요구하지 않습니다."
+
+#~ msgid "If you have an idea to offer us instead, please send it to us through our <a href=\"%(url_idea)s\">idea box</a>!"
+#~ msgstr "여러분에게 더 나은 아이디어가 있으면 <a href=\"%(url_idea)s\">아이디어 창구</a>로 보내 주십시오!"
+
+#~ msgid "Your feedback will be used to create a"
+#~ msgstr "여러분의 의견은 Firefox가 정식 출시 될 때 "
+
+#~ msgid "Thanks for helping Mozilla make your experience better!"
+#~ msgstr "여러분의 귀한 의견으로 Mozilla를 도와 주셔서 감사합니다!"
+
+#~ msgid "Please choose the type of feedback that you would like to submit to us:"
+#~ msgstr "우리에게 보내실 의견 종류를 선택해 주십시오:"
+
+#~ msgid "Firefox makes me sad ..."
+#~ msgstr "Firefox가 좋지 않습니다..."
+
+#~ msgid "Download Beta"
+#~ msgstr "베타 무료 다운로드"
+
+#~ msgid "Oh! So, you want to offer us feedback. You'll need the latest Beta! Head over to our beta page and <a href=\"%(url)s\">download it!</a>"
+#~ msgstr "Firefox에 대한 의견을 제공해 주셔서 감사합니다. <a href=\"%(url)s\">다운로드</a>해서 확인해 주십시오!"
+
+#~ msgid "Back to Dashboard"
+#~ msgstr "현황판으로 "
+
+#~ msgid "We're glad Firefox for Mobile made you happy! Please tell us what you liked."
+#~ msgstr "모바일 파이어폭스를 좋아해주셔서 감사합니다! 마음에 드는 기능이 무엇인지 저희에게 알려주세요."
+
+#~ msgid "We're sorry Firefox for Mobile made you sad. Please tell us what happened so we can fix it."
+#~ msgstr "Firefox 모바일 사용중 안 좋은 경험을 드려 죄송합니다. 문제점을 알려 주시면 빠르게 수정하겠습니다."
+
+#~ msgid "We love ideas for Firefox for Mobile! Please descibe your idea below."
+#~ msgstr "우리는 파이어폭스 모바일을에 대한 아이디어가 필요합니다! 아래에 당신의 아이디어를 적어주세요."
+
+#~ msgid "Got an idea? <a href=\"%(url)s\">Submit it instead.</a>"
+#~ msgstr "아이디어가 있으신가요? 바로 <a href=\"%(url)s\">보내주세요.</a>"
+
+#~ msgid "Include your last visited site?"
+#~ msgstr "마지막 방문 페이지를 추가하시겠습니까?"
+
+#~ msgid "For your privacy, please don't include any personally identifiable information in your feedback."
+#~ msgstr "개인 정보 보호를 위해 본 사이트는 개인 식별 정보를 요구하지 않습니다."
+
+#~ msgid "Super! Please tell us more!"
+#~ msgstr "감사합니다. 더 자세히 알려주세요."
+
+#~ msgid "Ack! Please tell us what to fix!"
+#~ msgstr "죄송합니다! 더 알려 주시기 바랍니다!"
+
+#~ msgid "Awesome! Please enter your idea below:"
+#~ msgstr "감사합니다! 여러분의 아이디어를 적어주십시오:"
+
+#~ msgid "Add URL of last visited page?"
+#~ msgstr "마지막 방문 페이지 URL을 추가하시겠습니까?"
+
+#~ msgid "Or submit your ideas with our <a href=\"%(url_idea)s\">idea box</a>!"
+#~ msgstr "또는 <a href=\"%(url_idea)s\">아이디어 창구</a>를 이용하세요!"
+
+#~ msgid "We love feedback about Firefox for Mobile! What would you like to tell us?"
+#~ msgstr "우리는 모바일 파이어폭스에 대한 의견이 필요합니다. 어떤 기능이 마음에 드는지 알려주시겠어요?"
+
+#~ msgid "I have an idea for Firefox"
+#~ msgstr "파이어 폭스에 대한 아이디어가 있습니다."
+
+#~ msgid "If you need help or have a problem with Firefox, please visit <a id=\"sumo-url\" href=\"%(url)s/\">Firefox Support</a>."
+#~ msgstr "Firefox 사용에 문제가 있으시면 <a href=\"%(url)s\">사용자 지원</a>페이지를 참고하십시오."
+
+#~ msgid "Tweet This"
+#~ msgstr "트윗 보내기"
+
+#~ msgid "Thanks for sharing your feedback!"
+#~ msgstr "의견을 주셔서 감사합니다!"
+
+#~ msgid "See where your feedback goes."
+#~ msgstr "여기에 의견을 작성해 주십시오."
+
+#~ msgid "Feedback Dashboard"
+#~ msgstr "사용자 평가 서비스"
+
+#~ msgid "Download the beta and give us feedback!"
+#~ msgstr "베타 다운로드 후 피드백 보내주세요!"
+
+#~ msgid "Follow us on Twitter."
+#~ msgstr "Twitter 팔로잉"
+
+#~ msgid "Let's be friends."
+#~ msgstr "친구 되기"
+
+#~ msgid "Firefox on Facebook"
+#~ msgstr "Facebook 계정"
+
+#~ msgid "Get the latest news on Firefox."
+#~ msgstr "Firefox 최근 소식 보기:"
+
+#~ msgid "Idea"
+#~ msgstr "아이디어"
+
+#~ msgid "Rating"
+#~ msgstr "평가"
+
+#~ msgid "Broken Website"
+#~ msgstr "문제 웹 사이트"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Mobile"
+#~ msgstr "모바일"
+
+#~ msgid "Windows XP"
+#~ msgstr "윈도 XP"
+
+#~ msgid "Windows 7"
+#~ msgstr "윈도 7"
+
+#~ msgid "Windows Vista"
+#~ msgstr "윈도 비스타"
+
+#~ msgid "Mac OS X"
+#~ msgstr "맥 OS X"
+
+#~ msgid "Maemo"
+#~ msgstr "Maemo"
+
+#~ msgid "Android"
+#~ msgstr "안드로이드"
+
+#~ msgid "Linux"
+#~ msgstr "리눅스"
+
+#~ msgid "{0} day ago"
+#~ msgid_plural "{0} days ago"
+#~ msgstr[0] "{0}일 전"
+
+#~ msgid "{0} hour ago"
+#~ msgid_plural "{0} hours ago"
+#~ msgstr[0] "{0}시간 전"
+
+#~ msgid "{0} minute ago"
+#~ msgid_plural "{0} minutes ago"
+#~ msgstr[0] "{0}분 전"
+
+#~ msgid "just now"
+#~ msgstr "지금"
+
+#~ msgid "Query has timed out."
+#~ msgstr "검색 시간이 너무 길어졌습니다."
+
+#~ msgid "Sphinx threw an unknown exception: %s"
+#~ msgstr "알수 없는 예외 오류: %s"
+
+#~ msgctxt "version_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- 전체 보기 --"
+
+#~ msgctxt "sentiment_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- 전체 보기 --"
+
+#~ msgid "Issues"
+#~ msgstr "이슈"
+
+#~ msgid "Ideas"
+#~ msgstr "아이디어"
+
+#~ msgctxt "platform_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- 전체 보기 --"
+
+#~ msgctxt "locale_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- 전체 보기 --"
+
+#~ msgid "Product:"
+#~ msgstr "제품 이름:"
+
+#~ msgid "Version:"
+#~ msgstr "버전:"
+
+#~ msgid "Locale:"
+#~ msgstr "언어별:"
+
+#~ msgid "PLATFORM:"
+#~ msgstr "플랫폼:"
+
+#~ msgid "Date range:"
+#~ msgstr "데이터 범위:"
+
+#~ msgid "to"
+#~ msgstr "-"
+
+#~ msgid "Show/Hide Options"
+#~ msgstr "보이기/숨기기 설정"
+
+#~ msgid "Toggle"
+#~ msgstr "토글"
+
+#~ msgid "More Locales"
+#~ msgstr "언어별"
+
+#~ msgid "More Options"
+#~ msgstr "고급 옵션"
+
+#~ msgid "Copy User Agent"
+#~ msgstr "프로그램명 복사"
+
+#~ msgid "No search results found."
+#~ msgstr "검색 결과가 없습니다."
+
+#~ msgid "You can adjust your search criteria or use fewer filters to find more opinions."
+#~ msgstr "더 많은 의견을 찾으시려면 검색 조건을 바꾸세요."
+
+#~ msgid "Note: Recently released versions of Firefox may have less feedback."
+#~ msgstr "주의: 최신 Firefox 버전의 의견은 많지 않습니다."
+
+#~ msgid "Type of Feedback"
+#~ msgstr "의견 형식"
+
+#~ msgid "Search Results"
+#~ msgstr "검색 결과"
+
+#~ msgid "Search"
+#~ msgstr "검색"
+
+#~ msgid "Advanced"
+#~ msgstr "고급"
+
+#~ msgid "While Visiting"
+#~ msgstr "웹 사이트별"
+
+#~ msgid "Often Mentioned"
+#~ msgstr "평가 주제별"
+
+#~ msgid "I'm sorry, there was an error with your search."
+#~ msgstr "죄송합니다. 찾으시는 검색 결과가 없습니다."
+
+#~ msgid "Our search engine might be currently unavailable. You may start over on the <a href=\"%(url)s\">dashboard</a> and try again later."
+#~ msgstr "현재 검색 서비스가 원활하지 않습니다. <a href=\"%(url)s\">첫화면</a>에서 다시 검색해 주십시오."
+
+#~ msgid "If the problem persists, please <a href=\"%(bug_url)s\">file a bug</a>, mentioning the URL you were accessing."
+#~ msgstr "문제가 지속되면, <a href=\"%(bug_url)s\">Bugzilla</a>에 URL을 제공해 주십시오."
+
+#~ msgid "Include the following error message in your bug report:"
+#~ msgstr "버그 보고서에 아래 오류 메시지도 포함해 주십시오."
+
+#~ msgid "Thanks!"
+#~ msgstr "감사합니다!"
+
+#~ msgid "All"
+#~ msgstr "전체"
+
+#~ msgid "Custom"
+#~ msgstr "사용자 정의"
+
+#~ msgid "{num} opinions on {day}"
+#~ msgstr "의견수: {num}개, 제공일: {day}"
+
+#~ msgid "%e %B %Y"
+#~ msgstr "%Y %B %e"
+
+#~ msgid "%e %b"
+#~ msgstr "%b %e "
+
+#~ msgid "Loading feedback history..."
+#~ msgstr "의견 기록 읽는 중..."
+
+#~ msgid "Loading ratings history..."
+#~ msgstr "평가 기록 읽는 중..."
+
+#~ msgid "Last day"
+#~ msgstr "하루"
+
+#~ msgid "Last 7 days"
+#~ msgstr "7일"
+
+#~ msgid "Last 30 days"
+#~ msgstr "30일"
+
+#~ msgid "No date limit"
+#~ msgstr "기간 제한 없음"
+
+#~ msgid "&infin;"
+#~ msgstr "&infin;"
+
+#~ msgid "Show More Locales"
+#~ msgstr "언어별 보기"
+
+#~ msgid "<strong>%(cnt)s</strong> message"
+#~ msgid_plural "<strong>%(cnt)s</strong> messages"
+#~ msgstr[0] "메시지 <strong>%(cnt)s</strong>개 "
+
+#~ msgid "Show More Platforms"
+#~ msgstr "플랫폼 보기"
+
+#~ msgid "Clear Search"
+#~ msgstr "검색 제거"
+
+#~ msgid "Feed"
+#~ msgstr "RSS피드"
+
+#~ msgid "Statistics"
+#~ msgstr "통계"
+
+#~ msgid "Trends"
+#~ msgstr "경향"
+
+#~ msgid "Settings"
+#~ msgstr "설정"
+
+#~ msgid "&laquo; Newer Feedback"
+#~ msgstr "&laquo; 이전 의견"
+
+#~ msgid "Older Feedback &raquo;"
+#~ msgstr "다음 의견 &raquo;"
+
+#~ msgid "Switch to Desktop Dashboard"
+#~ msgstr "데스크톱 버전 현황 보기"
+
+#~ msgid "For last:"
+#~ msgstr "마지막일:"
+
+#~ msgid "All feedback"
+#~ msgstr "전체 의견"
+
+#~ msgid "Praise only"
+#~ msgstr "긍정적 의견만"
+
+#~ msgid "Issues only"
+#~ msgstr "이슈만"
+
+#~ msgid "Ideas only"
+#~ msgstr "아이디어만"
+
+#~ msgid "All Platforms"
+#~ msgstr "플랫폼"
+
+#~ msgid "Themes"
+#~ msgstr "분류별"
+
+#~ msgid "Common Themes"
+#~ msgstr "일반 테마"
+
+#~ msgid "Theme"
+#~ msgstr "테마"
+
+#~ msgid "Back to all themes &raquo;"
+#~ msgstr "전체 테마 보기 &raquo;"
+
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "&laquo; 이전"
+
+#~ msgid "Next Page &raquo;"
+#~ msgstr "다음 &raquo;"
+
+#~ msgid "See all opinions"
+#~ msgstr "모든 의견 보기"
+
+#~ msgid "%(count)s similar message"
+#~ msgid_plural "%(count)s similar messages"
+#~ msgstr[0] "최종 메시지: %(count)s개"
+
+#~ msgctxt "website_issues_search"
+#~ msgid "Search for domain"
+#~ msgstr "도메인으로 검색"
+
+#~ msgid "Broken Sites"
+#~ msgstr "문제 있는 사이트"
+
+#~ msgid "Sites"
+#~ msgstr "사이트별"
+
+#~ msgctxt "sites_search_all_feedback"
+#~ msgid "All"
+#~ msgstr "전체"
+
+#~ msgid "Platforms"
+#~ msgstr "플랫폼"
+
+#~ msgctxt "sites_search_all_platforms"
+#~ msgid "All"
+#~ msgstr "전체"
+
+#~ msgid "All platforms"
+#~ msgstr "플랫폼"
+
+#~ msgid "Uncommon Sites"
+#~ msgstr "문제 있는 사이트"
+
+#~ msgid "More sites..."
+#~ msgstr "목록 더보기... "
+
+#~ msgid "Back to {domain} &raquo;"
+#~ msgstr "{domain}로 가기 &raquo;"
+
+#~ msgid "Back to all sites &raquo;"
+#~ msgstr "전체 사이트 보기 &raquo;"
+
+#~ msgid "Sites with only one message"
+#~ msgstr "한 메시지만 있는 사이트"
+
+#~ msgid "No results found!"
+#~ msgstr "검색 결과가 없습니다!"
+
+#~ msgid "reset my search"
+#~ msgstr "검색 재설정"
+
+#~ msgid "{percentage}% praise"
+#~ msgstr "긍정적: {percentage}%"
+
+#~ msgid "{percentage}% issues"
+#~ msgstr "부정적: {percentage}%"
+
+#~ msgid "%(count)s similar"
+#~ msgid_plural "%(count)s similar"
+#~ msgstr[0] "%(count)s 유사함"
+
+#~ msgid "Please start over on the <a href=\"%(dashboard_url)s\">dashboard</a>."
+#~ msgstr "<a href=\"%(dashboard_url)s\">요약 페이지</a>에서 시작하세요."
+
+#~ msgid "If you were following a broken link, please <a href=\"%(bug_url)s\">file a bug.</a> Thanks!"
+#~ msgstr "링크가 깨졌다면, <a href=\"%(bug_url)s\">Bugzilla</a>에 보고해 주십시오. 감사합니다!"
+
+#~ msgid "Internal Server Error"
+#~ msgstr "내부 서버 오류"
+
+#~ msgid "An unhandled error occurred in the application. The error has been logged and an administrator was notified. We apologize for the inconvenience!"
+#~ msgstr "알수 없는 오류가 발생하였습니다. 이 오류를 기록하고 관리자에게 알렸습니다. 불편을 끼쳐드려 죄송합니다."
+
+#~ msgid "If you have additional information how to reproduce this problem, please <a href=\"%(bug_url)s\">file a bug.</a> Thanks!"
+#~ msgstr "이 문제에 대해 계속 반복되고 있다면 이 정보를 <a href=\"%(bug_url)s\">Bugzilla</a>에 보고해 주십시오."
+
+#~ msgid "Input Dashboard"
+#~ msgstr "사용자 평가 서비스"
+
+#~ msgid "CSRF Protection Error"
+#~ msgstr "CSRF 인증 보호 에러"
+
+#~ msgid "There was an error verifying your CSRF token. Your request could not be processed. We apologize for the inconvenience!"
+#~ msgstr "CSRF 토큰을 확인하는 데 오류가 있습니다. 요청이 처리되지 못했습니다. 죄송합니다!"
+
+#~ msgid ""
+#~ "The most likely cause of this error is that your browser is set up <strong>not to accept cookies</strong> from us. Please follow <a href=\"%(cookies_url)s\">these instructions</a> to enable "
+#~ "cookies in Firefox, then try again."
+#~ msgstr "현재 오류의 대부분은 웹 브라우저에서 <strong>쿠키를 설정하지 않음</strong>으로 생기고 있습니다. 아래 항목을 참고하여 <a href=\"%(cookies_url)s\">쿠키 설정</a>을 켜시기 바랍니다."
+
+#~ msgid "Not Implemented"
+#~ msgstr "구현 암됨"
+
+#~ msgid "Clusters"
+#~ msgstr "모아보기"
+
+#~ msgid "Hit Ctrl+C (Cmd+C on Mac) to copy and close."
+#~ msgstr "복사하려면 Ctrl+C (맥에서 Cmd+C) 하시고 닫기를 하세요."
+
+#~ msgid "User agent copied"
+#~ msgstr "사용자 에이전트 복사됨"
+
+#~ msgid "Close"
+#~ msgstr "닫기"
+
+#~ msgid "<strong>Welcome to Firefox Input!</strong> This is Mozilla's primary user feedback application. <a href=\"%(about_url)s\">Learn more...</a>"
+#~ msgstr "<strong>Firefox 사용자 평가</strong>에 오신것을 환영 합니다. Mozilla 제품에 대한 사용자 의견을 받는 곳입니다. <a href=\"%(about_url)s\">더 자세히 보기...</a>"
+
+#~ msgid "Have more to say?"
+#~ msgstr "더 말씀하실게 있나요?"
+
+#~ msgid "Feel free to <a href=\"%(fb_url)s\">submit more feedback</a>"
+#~ msgstr "바로 <a href=\"%(fb_url)s\">의견 보내기</a>"
+
+#~ msgid "&laquo; Newer Messages"
+#~ msgstr "&laquo; 다음 의견"
+
+#~ msgid "Older Messages &raquo;"
+#~ msgstr "다음 메시지 &raquo;"
+
+#, fuzzy
+#~ msgid "Back to Feedback"
+#~ msgstr "최근 의견"
+
+#~ msgid "Invalid feedback type"
+#~ msgstr "유효하지 않은 의견 형식"
+
+#~ msgid "Find out the latest news from Mozilla:"
+#~ msgstr "Mozilla 최근 소식 보기:"
+
+#~ msgid "<strong>Firefox Release</strong> Input Dashboard"
+#~ msgstr "<strong>Firefox 정식버전</strong> Input 사용자 통계"
+
+#~ msgid "@MozMobile"
+#~ msgstr "@MozMobile"
+
+#~ msgid "Average Ratings Over Time"
+#~ msgstr "시간당 평균 평가점수"
+
+#~ msgid "Describe the problem with the website."
+#~ msgstr "웹 사이트 문제를 알려 주세요."
+
+#~ msgid "Does a website look or behave incorrectly in Firefox for Mobile? Provide us some details about the problem and we'll try to fix it."
+#~ msgstr "Firefox 모바일에서 웹 사이트가 잘 동작하지 않습니까? 상세한 정보를 알려 주시면 문제 해결에 최선을 다하겠습니다."
+
+#~ msgid "Does a website look or behave incorrectly in Firefox?"
+#~ msgstr "Firefox에서 웹 사이트가 이상하게 보이거나 동작하지 않습니까?"
+
+#~ msgid "Don't Care"
+#~ msgstr "관련 없음"
+
+#~ msgid "Enter your feedback here."
+#~ msgstr "여기에 의견을 작성해 주십시오."
+
+#~ msgid "Enter your ideas here."
+#~ msgstr "여기에 아이디어를 작성해 주십시오."
+
+#~ msgid "Example: Images were not loading, but the rest of the page was."
+#~ msgstr "예: 이미지가 보이지 않거나 페이지가 잘 보이지 않는 경우."
+
+#~ msgid "Excellent"
+#~ msgstr "멋짐"
+
+#~ msgid "Experience"
+#~ msgstr "경험"
+
+#~ msgid "Experience Ratings"
+#~ msgstr "별점"
+
+#~ msgid "Fair"
+#~ msgstr "일반"
+
+#~ msgid "Features"
+#~ msgstr "주요 기능"
+
+#~ msgid "Frequent Ideas"
+#~ msgstr "자주 올라오는 아이디어"
+
+#~ msgid "Good"
+#~ msgstr "좋음"
+
+#~ msgid "Have an idea how Firefox for Mobile could be better? Let us know!"
+#~ msgstr "Firefox 모바일에 대한 아이디어 있으면 알려주십시오!"
+
+#~ msgid "How frequently Firefox crashes or loses data"
+#~ msgstr "Firefox가 죽거나 데이터 분실 주기"
+
+#~ msgid "How long Firefox takes to start running"
+#~ msgstr "Firefox 구동되는데 걸리는 시간"
+
+#~ msgid "How long it takes for web pages to load"
+#~ msgstr "웹 페이지가 뜨는 데 걸리는 시간"
+
+#~ msgid "How quickly web pages respond once they have loaded"
+#~ msgstr "웹 페이지가 반응하는 데 걸리는 시간"
+
+#~ msgid "How well Firefox's built-in features serve your needs"
+#~ msgstr "Firefox 주요 기능 중 마음에 드는 것"
+
+#~ msgid "How would you rate these aspects of Firefox for Mobile?"
+#~ msgstr "Firefox 모바일의 여러 측면을 평가하시겠습니까?"
+
+#~ msgid "How would you rate these aspects of Firefox?"
+#~ msgstr "Firefox 기능에 대한 별점 평가"
+
+#~ msgid "Loading chart data."
+#~ msgstr "차트 읽는 중"
+
+#~ msgid "Nightly Channel"
+#~ msgstr "일일빌드 채널"
+
+#~ msgid "Oh! So, you want to offer us feedback on the next version of Firefox. Thank you, but you'll need to be on our latest beta."
+#~ msgstr "Firefox에 대한 의견을 제공해 주셔서 감사합니다. 제안 사항은 다음 번에 확인해 주십시오."
+
+#~ msgid "Page Load Time"
+#~ msgstr "페이지 로딩 시간"
+
+#~ msgid "Please rate at least one item."
+#~ msgstr "한 항목 이상을 평가해 주십시오."
+
+#~ msgid "Poor"
+#~ msgstr "나쁨"
+
+#~ msgid "Provide us some details about the problem and we'll try to fix it."
+#~ msgstr "저희가 고쳐야 할 문제점에 대한 상세한 설명을 보내 주십시오."
+
+#~ msgid "Rate Your Experience"
+#~ msgstr "별점 평가하기"
+
+#~ msgid "Release Channel"
+#~ msgstr "출시 채널"
+
+#~ msgid "Report a Site Issue"
+#~ msgstr "웹 사이트 이슈 신고"
+
+#~ msgid "Responsiveness"
+#~ msgstr "반응도"
+
+#~ msgid "Share an Idea"
+#~ msgstr "아이디어 보내기"
+
+#~ msgid "Stability"
+#~ msgstr "안정성"
+
+#~ msgid "Start-Up Time"
+#~ msgstr "구동 속도"
+
+#~ msgid "To do that, simply go to our download page and install/update to the <a href=\"%(url)s\">latest Firefox Beta!</a>"
+#~ msgstr "다운로드 페이지에서 최신 <a href=\"%(url)s\">Firefox 정식</a>버전을 받아 설치 및 업데이트 하시기 바랍니다."
+
+#~ msgid "What is the URL of the broken site?"
+#~ msgstr "문제 웹 사이트의 URL을 무엇입니까?"
+
+#~ msgid "What is the URL of the site?"
+#~ msgstr "웹사이트의 URL은 무엇입니까?"
+
+#~ msgid "{day}<br/>Average of {num}"
+#~ msgstr "{day}<br/>평균 f {num}"
+
+#~ msgid "&laquo; Next Page"
+#~ msgstr "&laquo; 다음 메시지"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page;"
+#~ msgstr "&laquo; 이전"
+
+#~ msgid "&laquo; previous"
+#~ msgstr "&laquo; 이전"
+
+#~ msgctxt "os_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- 전체 보기 --"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "1 day"
+#~ msgstr "하루"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "1 month"
+#~ msgstr "한 달"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "1 week"
+#~ msgstr "한 주"
+
+#, fuzzy
+#~ msgctxt "version_choice"
+#~ msgid "7d"
+#~ msgstr "7일"
+
+#~ msgid "<a href=\"%(url)s\">Total</a>: %(count)s"
+#~ msgstr "<a href=\"%(url)s\">합계</a>: %(count)s"
+
+#~ msgid "Beta"
+#~ msgstr "베타"
+
+#~ msgid "Clusters of Opinions"
+#~ msgstr "의견 모아보기"
+
+#~ msgid "Dates: <span class=\"opt\">%(start_date)s &ndash; %(end_date)s</span>"
+#~ msgstr "날짜: <span class=\"opt\">%(start_date)s &ndash; %(end_date)s</span>"
+
+#~ msgid "Demographics"
+#~ msgstr "통계 보기"
+
+#~ msgid "Description: <span class=\"opt\">\"%(query)s\"</span>;"
+#~ msgstr "설명: <span class=\"opt\">\"%(query)s\"</span>"
+
+#~ msgid "Due to software constraints, we can only show the last 1000 messages for this search query."
+#~ msgstr "서비스 성능 제약으로 인해 1,000개의 결과만 제공합니다."
+
+#, fuzzy
+#~ msgid "Enter your suggestions here."
+#~ msgstr "여기에 의견을 작성해 주십시오."
+
+#~ msgid "Latest Beta"
+#~ msgstr "최신 베타버전"
+
+#~ msgid "Locale: <span class=\"opt\">%(locale)s</span>;"
+#~ msgstr "언어별: <span class=\"opt\">%(locale)s</span>"
+
+#~ msgid "Locale: {locale}"
+#~ msgstr "언여별: {locale}"
+
+#~ msgid "No clusters of opinions found."
+#~ msgstr "의견 모음이 없습니다."
+
+#~ msgid "OS"
+#~ msgstr "운영체제"
+
+#~ msgid "OS:"
+#~ msgstr "운영체제:"
+
+#~ msgid "OS: <span class=\"opt\">%(os)s</span>"
+#~ msgstr "운영체제: <span class=\"opt\">%(os)s</span>"
+
+#~ msgid "OS: {os_name}"
+#~ msgstr "운영체제: {os_name}"
+
+#~ msgid "Opinion"
+#~ msgstr "의견"
+
+#~ msgid "Overview"
+#~ msgstr "전체 보기"
+
+#~ msgid "Please enable JavaScript to view this page."
+#~ msgstr "자바스크립트를 사용해야만 본 페이지를 볼 수 있습니다."
+
+#~ msgid "Show more"
+#~ msgstr "더 보기"
+
+#~ msgid "Showing the first {count}"
+#~ msgstr "최신 {count}개 보기"
+
+#~ msgid "Submitted User Agent is not the latest beta version."
+#~ msgstr "의견을 보내신 웹 브라우저가 최신 베타 버전이 아닙니다."
+
+#~ msgid "UA"
+#~ msgstr "브라우저 종류"
+
+#~ msgid "User agent string was not recognizable."
+#~ msgstr "웹브라우저 종류를 인식할 수 없습니다."
+
+#~ msgid "all"
+#~ msgstr "전체"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "all"
+#~ msgstr "전체"
+
+#~ msgid "happy face"
+#~ msgstr "행복한 얼굴"
+
+#~ msgid "page %(pagenum)s of %(total)s"
+#~ msgstr "페이지: %(pagenum)s 전체: %(total)s"
+
+#~ msgid "sad face"
+#~ msgstr "슬픈 표정"
+
+#~ msgid "visit &rarr;"
+#~ msgstr "방문 &rarr;"
+
+#~ msgid "{0} opinions for Firefox {1} {2}"
+#~ msgstr "{0} 의견- Firefox {1} {2}"
+
+#~ msgid "{0} opinions similar to <q>{1}</q>"
+#~ msgstr "{0} 의견- <q>{1}</q>와 유사함"

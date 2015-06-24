@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2011-04-30 00:24+0200\n"
+"Last-Translator: Enrique <eu@keko.me>\n"
+"Language-Team: none\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Produciuse un erro ao xerar a previsualización."
+
+#, fuzzy
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Produciuse un erro ao xerar a previsualización."
+
+#~ msgid "You replied"
+#~ msgstr "Respondeu"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Vostede e outro responderon"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Anexo de imaxe"
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Imaxe incorrecta. Seleccione un ficheiro de imaxe correcto."
+
+#, fuzzy
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Imaxe incorrecta. Seleccione un ficheiro de imaxe correcto."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Cancelouse a subida. Seleccione un ficheiro de imaxe."
+
+#, fuzzy
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Cancelouse a subida. Seleccione un ficheiro de imaxe."
+
+#~ msgid "Delete this image"
+#~ msgstr "Borrar esta imaxe"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "Subindo \"%s\"..."
+
+#, fuzzy
+#~ msgid "Loading..."
+#~ msgstr "Subindo \"%s\"..."
+
+#, fuzzy
+#~ msgid "Error loading graph"
+#~ msgstr "Produciuse un erro ao subir a imaxe"
+
+#, fuzzy
+#~ msgid "Support Forum"
+#~ msgstr "Artigo de asistencia:"
+
+#~ msgid "Bold"
+#~ msgstr "Negra"
+
+#~ msgid "bold text"
+#~ msgstr "Texto en negra"
+
+#~ msgid "Italic"
+#~ msgstr "Cursiva"
+
+#~ msgid "italic text"
+#~ msgstr "texto en cursiva"
+
+#~ msgid "Numbered List"
+#~ msgstr "Lista numerada"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Elemento da lista numerada"
+
+#~ msgid "Bulleted List"
+#~ msgstr "Lista con viñetas"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "Elemento da lista con viñetas"
+
+#~ msgid "Heading 1"
+#~ msgstr "Título 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "Título 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "Título 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Inserir unha ligazón..."
+
+#~ msgid "link text"
+#~ msgstr "texto da ligazón"
+
+#~ msgid "Link text:"
+#~ msgstr "Texto da ligazón:"
+
+#~ msgid "Link target:"
+#~ msgstr "Enderezo da ligazón:"
+
+#~ msgid "Support article:"
+#~ msgstr "Artigo de asistencia:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Escribe o nome do artigo"
+
+#~ msgid "External link:"
+#~ msgstr "Ligazón externa:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Escribe o URL da ligazón externa"
+
+#~ msgid "Insert Link"
+#~ msgstr "Inserir ligazón"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Artigo da base de coñecementos"
+
+#~ msgid "Insert media..."
+#~ msgstr "Inserir medio..."
+
+#~ msgid "media"
+#~ msgstr "medio"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Buscar na galería"
+
+#~ msgid "Show:"
+#~ msgstr "Mostrar:"
+
+#~ msgid "Images"
+#~ msgstr "Imaxes"
+
+#~ msgid "Videos"
+#~ msgstr "Vídeos"
+
+#, fuzzy
+#~ msgid "Show media for:"
+#~ msgstr "Mostrar para..."
+
+#~ msgid "Insert Media"
+#~ msgstr "Inserir medio"
+
+#~ msgid "Upload Media"
+#~ msgstr "Subir medio"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Seleccione unha imaxe ou un vídeo para inserir."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Vaia, produciuse un erro."
+
+#, fuzzy
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "Seleccione unha imaxe ou un vídeo para inserir."
+
+#, fuzzy
+#~ msgid "Insert Response"
+#~ msgstr "Inserir ligazón"
+
+#, fuzzy
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "Produciuse un erro comprobando a cola."
+
+#~ msgid "There was an error."
+#~ msgstr "Produciuse un erro."
+
+#, fuzzy
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Produciuse un erro ao xerar a previsualización."
+
+#~ msgid "Error uploading image"
+#~ msgstr "Produciuse un erro ao subir a imaxe"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Produciuse un erro ao borrar a imaxe"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Comprobe que estea conectado e tente de novo."
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Xa existe un documento con este título neste idioma."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "Xa existe un documento con este \"slug\" neste idioma."
+
+#~ msgid "Show for..."
+#~ msgstr "Mostrar para..."
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "Mostrar o contido só para versións específicas do Firefox ou do sistema operativo."
+
+#~ msgid "Add Rule"
+#~ msgstr "Engadir regra"
+
+#, fuzzy
+#~ msgid "Installing..."
+#~ msgstr "Subindo \"%s\"..."
+
+#~ msgid "[missing header]"
+#~ msgstr "[sen cabeceira]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Táboa de contidos"
+
+#, fuzzy
+#~ msgid "Insert a canned response..."
+#~ msgstr "Inserir unha ligazón..."
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "Vídeo incorrecto. Seleccione un ficheiro de vídeo correcto (%s)."
+
+#, fuzzy
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "Cancelouse a subida. Seleccione un ficheiro de imaxe."
+
+#, fuzzy
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "Cancelouse a subida. Seleccione un ficheiro de imaxe."
+
+#, fuzzy
+#~ msgid "Delete FLV video"
+#~ msgstr "Borrar o ficheiro %s"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "Vídeo incorrecto. Seleccione un ficheiro de vídeo correcto (%s)."
+
+#, fuzzy
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "Cancelouse a subida. Seleccione un ficheiro de imaxe."
+
+#, fuzzy
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "Cancelouse a subida. Seleccione un ficheiro de imaxe."
+
+#, fuzzy
+#~ msgid "Delete OGV video"
+#~ msgstr "Borrar o ficheiro %s"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "Vídeo incorrecto. Seleccione un ficheiro de vídeo correcto (%s)."
+
+#, fuzzy
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "Cancelouse a subida. Seleccione un ficheiro de imaxe."
+
+#, fuzzy
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "Cancelouse a subida. Seleccione un ficheiro de imaxe."
+
+#, fuzzy
+#~ msgid "Delete WebM video"
+#~ msgstr "Borrar o ficheiro %s"
+
+#, fuzzy
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "Produciuse un erro ao subir a imaxe"
+
+#~ msgid "We're open!"
+#~ msgstr "Estamos abertos!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Os nosos voluntarios están listos para axudar."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Axudantes conectados:"
+
+#~ msgid "Users waiting: "
+#~ msgstr "Usuarios agardando:"
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Espera estimada:"
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Iniciar a súa sesión de chat en vivo."
+
+#~ msgid "The queue is full."
+#~ msgstr "A cola está chea."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Os nosos voluntarios están ocupados axudando a outros usuarios."
+
+#~ msgid "We're closed."
+#~ msgstr "Estamos pechados."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "O chat en vivo agora está pechado."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "Produciuse un erro comprobando a cola."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Menos de 2 minutos."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "Máis de 20 minutos."
+
+#, fuzzy
+#~ msgid "Number of Votes"
+#~ msgstr "Táboa de contidos"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Informar desta mensaxe"
+
+#, fuzzy
+#~ msgid "Search: "
+#~ msgstr "Buscar na galería"
+
+#, fuzzy
+#~ msgid "Report this Article"
+#~ msgstr "Informar desta mensaxe"
+
+#, fuzzy
+#~ msgid "Article Link"
+#~ msgstr "Inserir ligazón"
+
+#, fuzzy
+#~ msgid "External Link"
+#~ msgstr "Ligazón externa:"
+
+#, fuzzy
+#~ msgid "external link"
+#~ msgstr "Ligazón externa:"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Vídeo incorrecto. Seleccione un ficheiro de vídeo correcto (%s)."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Cancelouse a subida. Seleccione un ficheiro de vídeo (%s)."
+
+#, fuzzy
+#~ msgid "Delete %s file"
+#~ msgstr "Borrar esta imaxe"
+
+#, fuzzy
+#~ msgid "There was an error :(."
+#~ msgstr "Produciuse un erro."

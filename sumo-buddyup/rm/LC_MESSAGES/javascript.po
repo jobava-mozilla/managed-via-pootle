@@ -1,0 +1,697 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2013-10-31 20:49+0000\n"
+"Last-Translator: Gion-Andri <gion-andri@gmx.ch>\n"
+"Language-Team: none\n"
+"Language: rm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1383252551.0\n"
+
+#~ msgid "An error occured."
+#~ msgstr "Ina errur è capitada."
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Ina errur è capitada durant crear la prevista."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Ina errur è capitada durant trametter tia vusch."
+
+#~ msgid "You replied"
+#~ msgstr "Ti has respundì"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Ti ed ina autra persuna avais respundì"
+
+#~ msgid "No differences found"
+#~ msgstr "Chattà naginas differenzas"
+
+#~ msgid "Cancel"
+#~ msgstr "Interrumper"
+
+#~ msgid "You are not watching this thread"
+#~ msgstr "Ti n'observeschas betg questa discussiun"
+
+#~ msgid "You are watching this thread"
+#~ msgstr "Ti observeschas questa discussiun"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Grafica en l'agiunta"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "Impussibel da chargiar si la datoteca. Emprova pli tard anc ina giada."
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Grafica nunvalida. Tscherna ina datoteca da grafica valida."
+
+#, fuzzy
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Grafica nunvalida. Tscherna ina datoteca da grafica valida."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Interrut il process da chargiar si. Tscherna ina datoteca da grafica."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Stizzà la datoteca. Tscherna ina datoteca da grafica."
+
+#~ msgid "Delete this image"
+#~ msgstr "Stizzar questa grafica"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "Chargiar si \"%s\"…"
+
+#~ msgid "Loading..."
+#~ msgstr "Chargiar…"
+
+#~ msgid "No votes data"
+#~ msgstr "Naginas datas da vuschs"
+
+#~ msgid "Error loading graph"
+#~ msgstr "Errur cun chargiar il diagram"
+
+#~ msgid "Votes"
+#~ msgstr "Vuschs"
+
+#~ msgid "Percent"
+#~ msgstr "pertschient"
+
+#~ msgid "Yes"
+#~ msgstr "Gea"
+
+#~ msgid "No"
+#~ msgstr "Na"
+
+#~ msgid "Questions"
+#~ msgstr "Dumondas"
+
+#, fuzzy
+#~ msgid "Solved"
+#~ msgstr "% schlià"
+
+#~ msgid "% Solved"
+#~ msgstr "% schlià"
+
+#, fuzzy
+#~ msgid "Responded in 24 hours"
+#~ msgstr "% respundì entaifer 24 uras"
+
+#~ msgid "% Responded in 24 hours"
+#~ msgstr "% respundì entaifer 24 uras"
+
+#, fuzzy
+#~ msgid "Responded in 72 hours"
+#~ msgstr "% respundì entaifer 72 uras"
+
+#~ msgid "% Responded in 72 hours"
+#~ msgstr "% respundì entaifer 72 uras"
+
+#, fuzzy
+#~ msgid "Not responded in 24 hours"
+#~ msgstr "% respundì entaifer 24 uras"
+
+#, fuzzy
+#~ msgid "Not responded in 72 hours"
+#~ msgstr "% respundì entaifer 72 uras"
+
+#~ msgid "Article Votes: % Helpful"
+#~ msgstr "Vuschs davart l'artitgel: % nizzaivel"
+
+#~ msgid "Answer Votes: % Helpful"
+#~ msgstr "Vuschs davart la resposta: % nizzaivel"
+
+#~ msgid "en-US KB"
+#~ msgstr "Basa da savida en-US"
+
+#~ msgid "non en-US KB"
+#~ msgstr "Basa da savida betg en-US"
+
+#~ msgid "Support Forum"
+#~ msgstr "Forum d'agid"
+
+#~ msgid "Army of Awesome"
+#~ msgstr "«Army of Awesome»"
+
+#~ msgid "Click Through Rate %"
+#~ msgstr "Rata da clics da la tschertga %"
+
+#~ msgid "Visitors"
+#~ msgstr "Visitaders"
+
+#~ msgid "L10n Coverage"
+#~ msgstr "Cumplettadad da l10n"
+
+#~ msgid "Percent Yes"
+#~ msgstr "Pertschient Gea"
+
+#~ msgid "I don't know"
+#~ msgstr "Na sai betg"
+
+#~ msgid "Bold"
+#~ msgstr "Grass"
+
+#~ msgid "bold text"
+#~ msgstr "text grass"
+
+#~ msgid "Italic"
+#~ msgstr "Cursiv"
+
+#~ msgid "italic text"
+#~ msgstr "text cursiv"
+
+#~ msgid "Numbered List"
+#~ msgstr "Glista numerada"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Element da la glista numerada"
+
+#~ msgid "Bulleted List"
+#~ msgstr "Glista enumerada"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "Element da la glista enumerada"
+
+#~ msgid "Heading 1"
+#~ msgstr "Titel 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "Titel 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "Titel 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Inserir ina colliaziun…"
+
+#~ msgid "link text"
+#~ msgstr "text da la colliaziun"
+
+#~ msgid "Link text:"
+#~ msgstr "Test da la colliaziun:"
+
+#~ msgid "Link target:"
+#~ msgstr "Destinaziun da la colliaziun:"
+
+#~ msgid "Support article:"
+#~ msgstr "Artitgel d'agid:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Endatescha il num da l'artitgel"
+
+#~ msgid "External link:"
+#~ msgstr "Colliaziun externa:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Endatescha l'URL da la colliaziun externa"
+
+#~ msgid "No sections found"
+#~ msgstr "Chattà naginas secziuns"
+
+#~ msgid "Insert Link"
+#~ msgstr "Inserir ina colliaziun"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Artitgel da la banca da datas da savida"
+
+#~ msgid "Insert media..."
+#~ msgstr "Inserir medias…"
+
+#~ msgid "media"
+#~ msgstr "medias"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Tschertgar en la galleria"
+
+#~ msgid "Show:"
+#~ msgstr "Mussar:"
+
+#~ msgid "Images"
+#~ msgstr "Graficas"
+
+#~ msgid "Videos"
+#~ msgstr "Videos"
+
+#~ msgid "Show media for:"
+#~ msgstr "Mussar medias per:"
+
+#~ msgid "Insert Media"
+#~ msgstr "Inserir medias"
+
+#~ msgid "Upload Media"
+#~ msgstr "Chargiar si medias"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Tscherna ina grafica u in video per inserir."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Uups, qua è capitada ina errur."
+
+#~ msgid "Common responses"
+#~ msgstr "Respostas frequentas"
+
+#~ msgid "cannedresponses"
+#~ msgstr "Respostas preparadas"
+
+#~ msgid "Search for common responses"
+#~ msgstr "Tschertgar respostas frequentas"
+
+#~ msgid "Categories"
+#~ msgstr "Categorias"
+
+#~ msgid "Responses"
+#~ msgstr "Respostas"
+
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "Tscherna ina categoria da la colonna avon u tschertga insatge."
+
+#~ msgid "Response editor"
+#~ msgstr "Editur da respostas"
+
+#~ msgid "Switch to preview mode"
+#~ msgstr "Midar al modus da prevista"
+
+#~ msgid "Insert Response"
+#~ msgstr "Inserir ina resposta"
+
+#~ msgid "Matching responses"
+#~ msgstr "Respostas adattadas"
+
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "Ina errur è capitada durant tschertgar respostas preparadas."
+
+#~ msgid "Response preview"
+#~ msgstr "Prevista da la resposta"
+
+#~ msgid "Switch to edit mode"
+#~ msgstr "Midar al modus da modifitgar"
+
+#~ msgid "Quote previous message..."
+#~ msgstr "Citar in messadi precedent…"
+
+#~ msgid " said"
+#~ msgstr " ha ditg"
+
+#~ msgid "Reply..."
+#~ msgstr "Respunder…"
+
+#~ msgid "There was an error."
+#~ msgstr "Ina errur è capitada."
+
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Ina errur è capitada. Emprova anc ina giada en in curt mument."
+
+#~ msgid "Daily"
+#~ msgstr "Quotidian"
+
+#~ msgid "Weekly"
+#~ msgstr "Emnil"
+
+#~ msgid "Monthly"
+#~ msgstr "Mensil"
+
+#~ msgid "Week beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "L'emna che cumenza ils %(date)s-%(month)s-%(year)s"
+
+#~ msgid "Month beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Il mais che cumenza ils %(date)s-%(month)s-%(year)s"
+
+#~ msgid "1m"
+#~ msgstr "1m"
+
+#~ msgid "3m"
+#~ msgstr "3m"
+
+#~ msgid "6m"
+#~ msgstr "6m"
+
+#~ msgid "YTD"
+#~ msgstr "dapi 1-1"
+
+#~ msgid "1y"
+#~ msgstr "1 onn"
+
+#~ msgid "All"
+#~ msgstr "tut"
+
+#~ msgid "From %(from_input)s to %(to_input)s"
+#~ msgstr "Da %(from_input)s a %(to_input)s"
+
+#~ msgid "Invalid tag entered: %s"
+#~ msgstr "Endatà in chavazzin nunvalid: %s"
+
+#~ msgid "No tags entered."
+#~ msgstr "Endatà nagins chavazzins."
+
+#~ msgid "Error uploading image"
+#~ msgstr "Errur cun chargiar si la grafica"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Errur cun stizzar la grafica"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Controllescha che ti es t'annunzià ed emprova danovamain."
+
+#~ msgid "Search for a user..."
+#~ msgstr "Tschertgar in utilisader…"
+
+#~ msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+#~ msgstr "ATTENZIUN! Vuls ti deactivar quest utilisader? Questa acziun na po betg vegnir revocada!"
+
+#~ msgid "All Articles: % Localized"
+#~ msgstr "Tut ils artitgels: % localisads"
+
+#~ msgid "Top 20 Articles: % Localized"
+#~ msgstr "Ils pli impurtants 20 artitgels: % localisads"
+
+#, fuzzy
+#~ msgid "Top 100 Articles: % Localized"
+#~ msgstr "Ils pli impurtants 20 artitgels: % localisads"
+
+#~ msgid "Active Contributors"
+#~ msgstr "Contribuents activs"
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "In document cun quest titel exista gia en questa lingua."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "In document cun quest num d'adressa exista gia en questa lingua."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "Tscherna las versiuns per cumparegliar"
+
+#~ msgid "Toggle syntax highlighting"
+#~ msgstr "Activar/deactivar la relevaziun da la sintaxa"
+
+#~ msgid "Toggle Diff"
+#~ msgstr "Midar il visualisader da differenzas"
+
+#~ msgid "Show for..."
+#~ msgstr "Mussar per…"
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "Mussar il cuntegn be per versiuns specificas da Firefox u per sistems operativs specifics."
+
+#~ msgid "Add Rule"
+#~ msgstr "Agiuntar regla"
+
+#~ msgid "Installing..."
+#~ msgstr "Installar…"
+
+#~ msgid "Answers"
+#~ msgstr "Respostas"
+
+#~ msgid "Unhelpful Answers"
+#~ msgstr "Respostas betg gidaivlas"
+
+#~ msgid "Solutions"
+#~ msgstr "Soluziuns"
+
+#~ msgid "Helpful Answers"
+#~ msgstr "Respostas gidaivlas"
+
+#~ msgid "First Answers"
+#~ msgstr "Emprimas respostas"
+
+#~ msgid "Signing you in..."
+#~ msgstr "S'annunziar tar…"
+
+#~ msgid "Mozilla Support"
+#~ msgstr "Agid da Mozilla"
+
+#~ msgid "[missing header]"
+#~ msgstr "[chau-pagina mancant]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Tavla da cuntegn"
+
+#~ msgid "Insert a canned response..."
+#~ msgstr "Inserir ina resposta preparada…"
+
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "Video nunvalid. Tscherna ina datoteca da video FLV valida."
+
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "Interrut il process da chargiar si. Tscherna in video FLV."
+
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "Stizzà la datoteca. Tscherna in video FLV."
+
+#~ msgid "Delete FLV video"
+#~ msgstr "Stizzar quest video FLV"
+
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "Video nunvalid. Tscherna ina datoteca da video OGV valida."
+
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "Interrut il process da chargiar si. Tscherna ina datoteca da video OGV."
+
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "Stizzà la datoteca. Tscherna ina datoteca da video OGV."
+
+#~ msgid "Delete OGV video"
+#~ msgstr "Stizzar quest video OGV"
+
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "Video nunvalid. Tscherna ina datoteca da video WebM valida."
+
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "Interrut il process da chargiar si. Tscherna ina datoteca da video WebM."
+
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "Stizzà la datoteca. Tscherna ina datoteca da video WebM."
+
+#~ msgid "Delete WebM video"
+#~ msgstr "Stizzar quest video WebM"
+
+#~ msgid "January"
+#~ msgstr "schaner"
+
+#~ msgid "February"
+#~ msgstr "favrer"
+
+#~ msgid "March"
+#~ msgstr "mars"
+
+#~ msgid "April"
+#~ msgstr "avril"
+
+#~ msgid "May"
+#~ msgstr "matg"
+
+#~ msgid "June"
+#~ msgstr "zercladur"
+
+#~ msgid "July"
+#~ msgstr "fanadur"
+
+#~ msgid "August"
+#~ msgstr "avust"
+
+#~ msgid "September"
+#~ msgstr "settember"
+
+#~ msgid "October"
+#~ msgstr "october"
+
+#~ msgid "November"
+#~ msgstr "november"
+
+#~ msgid "December"
+#~ msgstr "december"
+
+#~ msgid "Sunday"
+#~ msgstr "dumengia"
+
+#~ msgid "Monday"
+#~ msgstr "glindesdi"
+
+#~ msgid "Tuesday"
+#~ msgstr "mardi"
+
+#~ msgid "Wednesday"
+#~ msgstr "mesemna"
+
+#~ msgid "Thursday"
+#~ msgstr "gievgia"
+
+#~ msgid "Friday"
+#~ msgstr "venderdi"
+
+#~ msgid "Saturday"
+#~ msgstr "sonda"
+
+#~ msgid "Jan"
+#~ msgstr "schan"
+
+#~ msgid "Feb"
+#~ msgstr "favr"
+
+#~ msgid "Mar"
+#~ msgstr "mars"
+
+#~ msgid "Apr"
+#~ msgstr "avr"
+
+#~ msgid "Jun"
+#~ msgstr "zercl"
+
+#~ msgid "Jul"
+#~ msgstr "fan"
+
+#~ msgid "Aug"
+#~ msgstr "avust"
+
+#~ msgid "Sep"
+#~ msgstr "sett"
+
+#~ msgid "Oct"
+#~ msgstr "oct"
+
+#~ msgid "Nov"
+#~ msgstr "nov"
+
+#~ msgid "Dec"
+#~ msgstr "dec"
+
+#~ msgid "From"
+#~ msgstr "da"
+
+#~ msgid "To"
+#~ msgstr "a"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "Reset zoom"
+#~ msgstr "Redefinir il zoom"
+
+#~ msgid "Reset zoom level 1:1"
+#~ msgstr "Redefinir il level dal zoom a 1:1"
+
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "Errur cun chargiar il diagram. (Es ti t'annunzià?)"
+
+#~ msgid "Helpfulness Votes over 1 Month"
+#~ msgstr "Vuschs nizzaivlas durant 1 mais"
+
+#~ msgid "Current Percent of Helpfulness"
+#~ msgstr "Procentuala actuala da la nizzaivladad"
+
+#~ msgid "Percent Change in Helpfulness"
+#~ msgstr "Midada procentuala da la nizzaivladad"
+
+#~ msgid "Documents"
+#~ msgstr "Documents"
+
+#~ msgid "%s Votes"
+#~ msgstr "%s vuschs"
+
+#~ msgid "CTR %"
+#~ msgstr "Rata da clics en %"
+
+#~ msgid "We're open!"
+#~ msgstr "Nus avain avert!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Noss voluntaris èn pront da gidar."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Gidanters ch'èn online: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "Utilisaders che spetgan: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Temp da spetga calculà: "
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Cumenzar tia sesida da Live Chat."
+
+#~ msgid "The queue is full."
+#~ msgstr "Questa colonna da spetga è plaina."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Noss voluntaris èn dovran l'entira capacitad per auters utilisaders."
+
+#~ msgid "We're closed."
+#~ msgstr "Nus avain serrà."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "Il Live Chat è actualmain serrà."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "I è capità ina errur durant controllar la colonna da spetga."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "Ti pos empruvar da cumenzar ina sesida da chat."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Pli pauc che 2 minutas."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "Dapli che 20 minutas."
+
+#~ msgid "Daily Unique Visitors"
+#~ msgstr "Visitaders unics per di"
+
+#~ msgid "Query took: "
+#~ msgstr "Dumonda ha duvrà: "
+
+#~ msgid " seconds"
+#~ msgstr " secundas"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "Vuschs nizzaivlas"
+
+#~ msgid "Number of Votes"
+#~ msgstr "Dumber da vuschs"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Rapportar questa contribuziun"
+
+#~ msgid "Toggle L10n"
+#~ msgstr "Activar/deactivar l10n"
+
+#~ msgid "Search: "
+#~ msgstr "Tschertgar: "
+
+#~ msgid "Type here to filter the list of shown responses"
+#~ msgstr "Tippar qua per filtrar la glista da las respostas preparadas"
+
+#~ msgid "Active Support Forum Contributors"
+#~ msgstr "Contribuents activs en il forum"
+
+#~ msgid "Contributors"
+#~ msgstr "Contribuents"
+
+#~ msgid "Report this Article"
+#~ msgstr "Rapportar quest artitgel"
+
+#~ msgid "Article Link"
+#~ msgstr "Colliaziun a l'artitgel"
+
+#~ msgid "External Link"
+#~ msgstr "Colliaziun externa"
+
+#~ msgid "external link"
+#~ msgstr "colliaziun externa"
+
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Video nunvalid. Tscherna ina datoteca da video valida (%s)."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Interrut il process da chargiar si. Tscherna ina datoteca da video (%s)."
+
+#~ msgid "Delete %s file"
+#~ msgstr "Stizzar la datoteca %s"
+
+#~ msgid "There was an error :(."
+#~ msgstr "Ina errur è cumparida :(."

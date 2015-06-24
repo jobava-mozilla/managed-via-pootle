@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-24 09:50+0200\n"
+"PO-Revision-Date: 2013-07-27 15:06+0000\n"
+"Last-Translator: Raul <raul.malea@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1374937609.0\n"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/lib/email.js:40
+msgid "Confirm email address for Persona"
+msgstr "Confirmați adresa de email pentru Persona"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/authentication.ejs:5 /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/authentication.ejs:24
+msgid "Loading"
+msgstr "Încărcare"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:1
+msgid "Thank you for using Persona."
+msgstr "Vă mulțumim că folosiți Persona."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:3
+msgid ""
+"Use the PIN code below to confirm this email address is linked to your Yahoo "
+"account."
+msgstr ""
+"Utilizați codul PIN de mai jos pentru a confirma că această adresă de email "
+"este legată de contul dumneavoastră de Yahoo."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:6
+msgid ""
+"Note: If you are NOT trying to sign into a website with Persona, please "
+"ignore this email."
+msgstr ""
+"Notă: Dacă NU ați încercat să vă autentificați pe acest websait cu Persona, "
+"vă rugăm să ignorați acest email."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:8
+msgid "Thank you,"
+msgstr "Mulțumim,"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:9
+msgid "The Persona team"
+msgstr "Echipa Persona"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:5
+msgid "System Error, please try again later"
+msgstr "Eroare de sistem, vă rugăm să încercați mai târziu"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:27
+msgid "Sorry, we are unable to log you in as %s"
+msgstr "Ne pare rău, nu putem să te autentificăm ca și %s"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:28
+msgid "Something went wrong, please try again later"
+msgstr "Ceva nu a funcționat bine, vă rugăm să încercați mai târziu"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:29
+msgid "Try Again"
+msgstr "Încercați din nou"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:5 /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:27
+msgid "Accounts don't match"
+msgstr "Conturile nu se potrivesc"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:35
+msgid "Go back"
+msgstr "Mergi înapoi"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:36
+msgid "Continue"
+msgstr "Continuă"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:41
+msgid "Confirm your email address"
+msgstr "Confirmați adresa dumneavoastră de email"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:43
+msgid "Check your email at %(claimed)s."
+msgstr "Verificați emailul dumneavoastră de la %(claimed)s."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:47
+msgid "Please enter PIN from email:"
+msgstr "Vă rugăm introduceți codul PIN din email:"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:48
+msgid "Sorry, PIN doesn't match"
+msgstr "Ne pare rău, codul PIN nu se potrivește"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:52
+msgid "Sign in"
+msgstr "Autentificare"

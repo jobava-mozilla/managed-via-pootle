@@ -1,0 +1,1841 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 18:40+0000\n"
+"PO-Revision-Date: 2015-04-26 02:06:04\n"
+"Last-Translator: Mainak <rcmainak24@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bn_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+#. This acts as a placeholder/label for a form selection
+#: affiliates/banners/forms.py:21
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:36
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:45
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:54
+#: affiliates/base/forms.py:22
+msgid "-- select --"
+msgstr "-- নির্বাচন --"
+
+#: affiliates/banners/templates/banners/generator/banners.html:12
+#: affiliates/banners/templates/banners/generator/banners.html:20
+msgid "Choose a Banner"
+msgstr "একটি ব্যানার বাছুন"
+
+#: affiliates/banners/templates/banners/generator/categories.html:12
+#: affiliates/banners/templates/banners/generator/categories.html:20
+msgid "Choose a Category"
+msgstr "একটি বিভাগ পছন্দ করুন"
+
+#. The "Category" step is when you pick a category to see a list of banners
+#. within it.
+#: affiliates/banners/templates/banners/generator/macros.html:8
+#: affiliates/banners/templates/banners/generator/macros.html:10
+msgid "Category"
+msgstr "বিভাগ"
+
+#. The "Choose" step is when you choose a banner to use.
+#: affiliates/banners/templates/banners/generator/macros.html:17
+#: affiliates/banners/templates/banners/generator/macros.html:19
+#: affiliates/banners/templates/banners/generator/macros.html:21
+msgid "Choose"
+msgstr "বাছুন"
+
+#. The "Configure" step is when you select a specific variation of a banner.
+#: affiliates/banners/templates/banners/generator/macros.html:28
+#: affiliates/banners/templates/banners/generator/macros.html:30
+#: affiliates/banners/templates/banners/generator/macros.html:32
+msgid "Configure"
+msgstr "কনফিগার"
+
+#. The "Embed" step is when you copy HTML code to put in your webpage to embed
+#. the banner.
+#: affiliates/banners/templates/banners/generator/macros.html:39
+#: affiliates/banners/templates/banners/generator/macros.html:41
+msgid "Embed"
+msgstr "এম্বেড"
+
+#: affiliates/banners/templates/banners/generator/macros.html:50
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+#: affiliates/base/templates/base/about.html:119
+#: affiliates/base/templates/base/dashboard.html:100
+msgid "What are smart banners?"
+msgstr "স্মার্ট ব্যানার কি?"
+
+#: affiliates/banners/templates/banners/generator/macros.html:52
+#: affiliates/base/templates/base/about.html:122
+#: affiliates/base/templates/base/dashboard.html:102
+msgid ""
+"Smart Banners show visitors slightly different messages depending on their "
+"browser. For example, visitors on an older version of Firefox would be "
+"encouraged to upgrade, while visitors on Internet Explorer would be "
+"encouraged to switch."
+msgstr ""
+"স্মার্ট ব্যানার দর্শক তাদের ব্রাউজারের উপর নির্ভর করে কিছুটা ভিন্ন বার্তা "
+"প্রদর্শন. ইন্টারনেট এক্সপ্লোরার দর্শক সুইচ করার পরামর্শ দেওয়া হবে "
+"উদাহরণস্বরূপ, ফায়ারফক্স এর একটি পুরোনো সংস্করণ দর্শক, আপগ্রেড করার জন্য "
+"উত্সাহিত করা হবে."
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:12
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:25
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:14
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:22
+msgid "Configure Your Banner"
+msgstr "আপনার ব্যানারটি কনফিগার করুন"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:33
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:29
+msgid "Language"
+msgstr "ভাষা"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:42
+msgid "Size"
+msgstr "আকার"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:51
+msgid "Color"
+msgstr "রঙ"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:68
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:38
+#: affiliates/facebook/templates/facebook/banner_create.html:68
+#: affiliates/users/templates/users/profile.html:39
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:7
+msgid "Up to date Firefox and other browsers"
+msgstr "Firefox এবং অন্যান্য ব্রাউজার আপ টু ডেট"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:12
+msgid "Out of date Firefox"
+msgstr "তারিখ বহির্ভুত Firefox"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:6
+msgid "No preview available."
+msgstr "কোনো প্রিভিউ উপলব্ধ নয়।"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:10
+msgid "Text banner"
+msgstr "টেক্সট ব্যানার"
+
+#. Smart refers to a type of banner that changes the image depending on the
+#. user's Firefox version.
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+msgid "Smart"
+msgstr "স্মার্ট"
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: affiliates/base/forms.py:18 affiliates/base/templates/base/base.html:126
+#: affiliates/facebook/forms.py:200
+msgid "Text"
+msgstr "টেক্সট"
+
+#: affiliates/base/milestones.py:21
+msgid "Almost {0} clicks!"
+msgstr "প্রায় {0} ক্লিকস্!"
+
+#: affiliates/base/milestones.py:22
+msgid "Drove {0} clicks!"
+msgstr "ঘটেছে {0} ক্লিক!"
+
+#: affiliates/base/milestones.py:23
+msgid "Drove {0} clicks. That's {1} clicks away from the next milestone!"
+msgstr "ঘটেছে {0} ক্লিক করে. যে {1} পরবর্তী মাইলফলক ক্লিক দূরে থেকে এর!"
+
+#: affiliates/base/milestones.py:25
+msgid "Driven {0} clicks in total!"
+msgstr "চালিত {0} মোট ক্লিক!"
+
+#: affiliates/base/milestones.py:26
+msgid "Drive {0} clicks!"
+msgstr "ড্রাইভ {0} ক্লিক!"
+
+#: affiliates/base/milestones.py:29
+msgid "Almost {0} downloads!"
+msgstr "প্রায় {0} ডাউনলোড!"
+
+#: affiliates/base/milestones.py:30
+msgid "Drove {0} downloads!"
+msgstr "ঘটেছে {0} ডাউনলোড!"
+
+#: affiliates/base/milestones.py:31
+msgid ""
+"Drove {0} downloads. That's {1} downloads away from the next milestone!"
+msgstr "ঘটেছে {0} ডাউনলোড. যে {1} পরবর্তী মাইলফলক থেকে দূরে ডাউনলোড করুন!"
+
+#: affiliates/base/milestones.py:33
+msgid "Driven {0} downloads in total!"
+msgstr "মোট চালিত {0} ডাউনলোডসমূহ!"
+
+#: affiliates/base/milestones.py:34
+msgid "Drive {0} downloads!"
+msgstr "ড্রাইভ {0} ডাউনলোডসমূহ!"
+
+#: affiliates/base/milestones.py:37
+msgid "Create a banner!"
+msgstr "নতুন ব্যানার তৈরি করুন!"
+
+#: affiliates/base/milestones.py:38
+msgid "Almost {0} banners created!"
+msgstr "প্রায় {0} ব্যানার তৈরি হয়েছে!"
+
+#: affiliates/base/milestones.py:39
+msgid "Created {0} banners!"
+msgstr "তৈরী করা হয়েছে {0} ব্যানার!"
+
+#: affiliates/base/milestones.py:40
+msgid "Created a banner."
+msgstr "একটি ব্যানার তৈরি হয়েছে."
+
+#: affiliates/base/milestones.py:43
+msgid "Create a text link!"
+msgstr "একটি টেক্সট লিঙ্ক তৈরি করুন!"
+
+#: affiliates/base/milestones.py:44
+msgid "Almost {0} text links created!"
+msgstr "প্রায় {0} টেক্সট লিঙ্ক তৈরি হয়েছে!"
+
+#: affiliates/base/milestones.py:45
+msgid "Created {0} text links!"
+msgstr "তৈরী করা হয়েছে {0} টেক্সট লিঙ্ক!"
+
+#: affiliates/base/milestones.py:46
+msgid "Created a text link."
+msgstr "একটি টেক্সট লিঙ্ক তৈরি হয়েছে|"
+
+#: affiliates/base/templates/404.html:5 affiliates/base/templates/404.html:11
+msgid "Page not found"
+msgstr "পৃষ্ঠা খুঁজে পাওয়া যায়নি"
+
+#: affiliates/base/templates/404.html:13
+msgid "Sorry, but we couldn’t find the page you’re looking for."
+msgstr "দুঃখিত, কিন্তু আমরা কি আপনি যা খুঁজছেন পাতা খুঁজে না পারে."
+
+#: affiliates/base/templates/500.html:5
+msgid "Server error"
+msgstr "সার্ভার সমস্যা"
+
+#: affiliates/base/templates/500.html:11
+msgid "D’oh! Something went wrong!"
+msgstr "ওহ! কিছু একটা গন্ডগোল হয়েছে!"
+
+#: affiliates/base/templates/500.html:13
+msgid ""
+"Sorry, but something went wrong on our end and we couldn’t process your "
+"request. Please try again in a few minutes."
+msgstr ""
+"দুঃখিত, কিন্তু কিছু আমাদের শেষ ভুল হয়েছে এবং আমরা আপনার অনুরোধ প্রক্রিয়া "
+"করতে পারে না. কয়েক মিনিটের মধ্যে আবার চেষ্টা করুন|"
+
+#: affiliates/base/templates/base/about.html:6
+#: affiliates/base/templates/base/base.html:73
+msgid "About"
+msgstr "সম্বন্ধে"
+
+#: affiliates/base/templates/base/about.html:13
+msgid "About Firefox Affiliates"
+msgstr "ফায়ারফক্স জয়নুল আবেদীন সম্পর্কে"
+
+#: affiliates/base/templates/base/about.html:16
+#: affiliates/base/templates/base/about.html:46
+msgid ""
+"Firefox Affiliate buttons are bits of HTML code that you put on your website"
+" or blog to encourage visitors to download Firefox. When someone clicks a "
+"button on your site and visits the Firefox download page, you get credit for"
+" that click."
+msgstr ""
+"ফায়ারফক্স অ্যাফিলিয়েট বোতাম আপনি ফায়ারফক্স ডাউনলোড করতে দর্শক উত্সাহিত "
+"আপনার ওয়েবসাইট বা ব্লগের উপর করা যে HTML কোড বিট| কেউ আপনার সাইটে একটি বাটন"
+" ক্লিক করে এবং ফায়ারফক্স ডাউনলোড পাতা পরিদর্শন করেছে যখন, আপনি যে ক্লিকের "
+"জন্য ক্রেডিট পান|"
+
+#: affiliates/base/templates/base/about.html:25
+#: affiliates/base/templates/base/about.html:55
+msgid ""
+"Affiliates who get a lot of clicks will be featured on our leaderboard and "
+"be eligible for rewards, like Firefox T-shirts. While we do send out prizes "
+"and gifts to our affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox buttons."
+msgstr ""
+"ক্লিকের একটি অনেক পেতে যারা জয়নুল আবেদীন আমাদের লিডারবোর্ডে বৈশিষ্ট্যযুক্ত "
+"এবং ফায়ারফক্স টি-শার্ট মত, পুরস্কারের জন্য যোগ্য হতে হবে| আমরা সময় সময় "
+"আমাদের ঘটনাও থেকে পুরস্কার ও উপহার পাঠাতে আউট না, ফায়ারফক্স জয়নুল আবেদীন "
+"ফায়ারফক্স বোতাম হোস্টিং জন্য আর্থিক পুরস্কার প্রদান করা হয় না|"
+
+#: affiliates/base/templates/base/about.html:39
+msgid "Frequently Asked Questions"
+msgstr "প্রায়ই জিগাস্য প্রশ্ন"
+
+#: affiliates/base/templates/base/about.html:41
+msgid "Using Affiliate buttons"
+msgstr "অ্যাফিলিয়েট বাটন ব্যবহার করে"
+
+#: affiliates/base/templates/base/about.html:43
+msgid "How do affiliate buttons work?"
+msgstr "affiliate বাটনগুলি কিভাবে কাজ করে?"
+
+#: affiliates/base/templates/base/about.html:65
+msgid "How do I add an affiliate button to my website?"
+msgstr "আমি কিভাবে আমার ওয়েবসাইটে affiliate বাটন যোগ করব?"
+
+#: affiliates/base/templates/base/about.html:68
+msgid ""
+"It’s super easy! To start, choose a button and select the Firefox product or"
+" campaign you’d like to support. From there, simply pick your button’s "
+"style, shape and color, and then copy and paste the code into the HTML of "
+"your site. Done! Your unique affiliate ID will be in the code to make sure "
+"you get credit for every click you send our way."
+msgstr ""
+"এটা অতি সহজ! শুরু করার জন্য, একটি বাটন নির্বাচন করুন এবং ফায়ারফক্স পণ্য "
+"নির্বাচন করুন অথবা নির্বাচন আপনাকে সমর্থন করতে চান প্রচারাভিযান| সেখান থেকে "
+"কেবল, আপনার বাটন এর শৈলী, আকৃতি এবং রঙ বাছাই, এবং তারপর কপি এবং আপনার সাইটের"
+" HTML এর মধ্যে কোড পেস্ট করুন. সম্পন্ন! আপনার অনন্য অধিভুক্ত আইডি নিশ্চিত "
+"করুন যে আপনি আপনি আমাদের পথ পাঠাতে ক্লিক করুন প্রতি জন্য ক্রেডিট পান করতে "
+"কোড মধ্যে হতে হবে|"
+
+#: affiliates/base/templates/base/about.html:79
+msgid "How do I remove an affiliate button from my website?"
+msgstr "আমি কিভাবে আমার ওয়েবসাইট থেকে একটি শাখা বাটন অপসারণ না?"
+
+#: affiliates/base/templates/base/about.html:82
+msgid ""
+"This is also easy. Simply delete the code. If you want to put it back in "
+"again, just copy and paste it from the button picker."
+msgstr ""
+"এই সহজ| শুধু কোড মুছে দিন| আপনি আবার এটা করা করতে চান তাহলে, শুধু কপি এবং "
+"বাটন জুতো থেকে পেস্ট করুন|"
+
+#: affiliates/base/templates/base/about.html:89
+msgid "How do text links work?"
+msgstr "টেক্সট লিঙ্ক কিভাবে কাজ করে?"
+
+#: affiliates/base/templates/base/about.html:92
+msgid ""
+"Text links work very much like banners. You start by choosing the Firefox "
+"product or campaign you’d like to support, then select the text link you’d "
+"like to use. Copy and paste the link code into the HTML of your site, onto "
+"your email signature, or anywhere else you’d like to have it appear. Your "
+"unique affiliate ID will be in the code to make sure you get credit for "
+"every click you send our way."
+msgstr ""
+"টেক্সট লিঙ্ক ব্যানার মত অনেক কাজ| আপনি ফায়ারফক্স পণ্য বা আপনাকে সমর্থন করতে"
+" চান প্রচারণা চয়ন করে শুরু করুন, তারপর আপনি ব্যবহার করতে চান টেক্সট লিঙ্ক "
+"নির্বাচন করুন| কপি আপনার ইমেল স্বাক্ষর সম্মুখের দিকে আপনার সাইটে, HTML লিংক "
+"কোড পেস্ট করুন এবং, অথবা কোথাও আপনি এটি প্রদর্শিত চাই| আপনার অনন্য অধিভুক্ত "
+"আইডি নিশ্চিত করুন যে আপনি আপনি আমাদের পথ পাঠাতে ক্লিক করুন প্রতি জন্য "
+"ক্রেডিট পান করতে কোড মধ্যে হতে হবে|"
+
+#: affiliates/base/templates/base/about.html:104
+msgid "What happens when an affiliate button for a campaign is deactivated?"
+msgstr "একটি প্রচারের জন্য একটি শাখা বোতাম নিষ্ক্রিয় করা হয় তখন কি হবে?"
+
+#: affiliates/base/templates/base/about.html:107
+msgid ""
+"Sometimes we run special time-limited campaigns to encourage people to "
+"download Firefox. If you’re using an affiliate button for one of these "
+"campaigns, try to update your button as soon as you can. People who click on"
+" that button will be directed to a general Firefox download page. You’ll get"
+" credit for the click as an Affiliate, but you may not get credit for clicks"
+" for that specific campaign."
+msgstr ""
+"কখনও কখনও আমরা ফায়ারফক্স ডাউনলোড করতে উত্সাহিত বিশেষ সময় সীমিত প্রচারণা "
+"চালানো| আপনি এই প্রচারণা এক জন্য একটি শাখা বাটন ব্যবহার করছেন, যত তাড়াতাড়ি"
+" আপনি পারেন হিসাবে আপনার বোতাম আপডেট করার চেষ্টা করুন| যে বাটন ক্লিক করা "
+"লোকেদের একটি সাধারণ ফায়ারফক্স ডাউনলোড পাতা নির্দেশ করা হবে| আপনি একটি শাখা "
+"হিসেবে ক্লিকের জন্য ক্রেডিট পাবেন, কিন্তু আপনি যে নির্দিষ্ট প্রচারের জন্য "
+"ক্লিক জন্য ক্রেডিট পেতে পারে না|"
+
+#: affiliates/base/templates/base/about.html:132
+msgid "Leaderboard and user statistics"
+msgstr "লিদারবোর্ড এবং ব্যাবহারকারির পরিসংখান"
+
+#: affiliates/base/templates/base/about.html:134
+msgid "How often do leaderboard statistics update?"
+msgstr "কত দিন অন্তর লিডারবোর্ড পরিসংখান আপডেট হয়?"
+
+#: affiliates/base/templates/base/about.html:137
+msgid ""
+"Leaderboard stats update every night at midnight Pacific Time. No need to "
+"keep hitting refresh over and over again to see how you’re doing. Just check"
+" in the next day to see your progress."
+msgstr ""
+"লিডারবোর্ড পরিসংখ্যান মধ্যরাত প্যাসিফিক সময় প্রতি রাতে আপডেট করুন| কোন "
+"প্রয়োজন নেই কিভাবে আপনি করছেন দেখতে এবং উপর আবার রিফ্রেশ আঘাত রাখা| শুধু "
+"আপনার অগ্রগতি দেখতে পরের দিন চেক|"
+
+#: affiliates/base/templates/base/about.html:145
+#: affiliates/facebook/templates/facebook/faq.html:177
+msgid "Is there a prize for getting the most Firefox clicks?"
+msgstr "সবচেয়ে ফায়ারফক্স ক্লিক পাবার জন্য একটি পুরস্কার আছে কি?"
+
+#: affiliates/base/templates/base/about.html:147
+msgid ""
+"From time to time we will be sending out T-shirts and other prizes. In "
+"future versions of Firefox Affiliates we will have a rewards program and "
+"more opportunities to participate in affiliate challenges."
+msgstr ""
+"সময়ে সময়ে আমরা টি-শার্ট এবং অন্যান্য পুরস্কার আউট প্রেরণ করা হবে| "
+"ফায়ারফক্স জয়নুল আবেদীন ভবিষ্যত সংস্করণে আমরা অধিভুক্ত চ্যালেঞ্জ অংশগ্রহণ "
+"করতে একটি পুরষ্কার প্রোগ্রাম এবং আরো সুযোগ দেওয়া হবে|"
+
+#: affiliates/base/templates/base/about.html:156
+#: affiliates/facebook/templates/facebook/faq.html:194
+msgid "I think my click statistics are wrong. Is there any way to fix them?"
+msgstr ""
+"আমি আমার ক্লিক পরিসংখ্যান ভুল মনে হয়. তাদের ঠিক করা কোন উপায় আছে কি?"
+
+#: affiliates/base/templates/base/about.html:159
+msgid ""
+"If you think there is an error with your click statistics, drop us a note at"
+" <a href=\"%(email)s\">affiliates@mozilla.org</a> and we’ll do our best to "
+"help you out."
+msgstr ""
+"আপনি আপনার ক্লিক পরিসংখ্যান সঙ্গে একটি ত্রুটি আছে যদি মনে করেন,<a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>আমাদের একটি নোট ড্রপ করুন এবং "
+"আমরা আপনাকে সাহায্য করতে আমাদের যথাসাধ্য চেষ্টা করবো|"
+
+#: affiliates/base/templates/base/about.html:169
+msgid "My profile"
+msgstr "আমার প্রোফাইল"
+
+#: affiliates/base/templates/base/about.html:171
+msgid "How do I update my personal profile information?"
+msgstr "আমি কিভাবে আমার ব্যক্তিগত প্রোফাইল তথ্য আপডেট করতে পারি?"
+
+#: affiliates/base/templates/base/about.html:174
+msgid ""
+"Moved? Changed your name? Grew a moustache? Just visit your profile page and"
+" click on the edit profile link at the top."
+msgstr ""
+"সরানো হয়েছে? আপনার নাম পরিবর্তন হয়েছে? গোঁফ বৃদ্ধি? শুধু আপনার প্রফাইল "
+"পাতা যান এবং উপরের প্রোফাইল সম্পাদনা লিঙ্কে ক্লিক করুন|"
+
+#: affiliates/base/templates/base/about.html:178
+#: affiliates/users/templates/users/profile.html:44
+msgid ""
+"You can update your avatar picture at <a "
+"href=\"%(gravatar)s\">gravatar.com</a>."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:184
+msgid "How will you contact me if I win a prize?"
+msgstr "আমি একটি পুরস্কার জিতে কিভাবে যদি আপনি আমার সাথে যোগাযোগ করবে?"
+
+#: affiliates/base/templates/base/about.html:187
+msgid ""
+"If you qualify for an affiliates prize you will be notified that you have "
+"won via the email account in your affiliates profile."
+msgstr ""
+"আপনি যদি একটি অনুমোদিত পুরস্কার যোগ্যতা থাকে, তাহলে আপনি আপনার ঘটনাও "
+"প্রোফাইলে ইমেল অ্যাকাউন্টের মাধ্যমে জয়ী হয়েছে যে অবহিত করা হবে."
+
+#: affiliates/base/templates/base/about.html:196
+msgid "Getting involved With Firefox Affiliates"
+msgstr "ফায়ারফক্স সম্বন্ধযুক্ত জড়িত হচ্ছে"
+
+#: affiliates/base/templates/base/about.html:198
+msgid "I have an idea of a button. How can I share it?"
+msgstr "আমি একটি বাটন একটি ধারণা আছে| আমি কিভাবে এটা শেয়ার করতে পারেন?"
+
+#: affiliates/base/templates/base/about.html:201
+msgid ""
+"Mozilla and Firefox are all about community. If you have an idea, we want to"
+" hear it. Send us a note at <a href=\"%(email)s\">affiliates@mozilla.org</a>"
+" and tell us your amazing idea for the program."
+msgstr ""
+
+#: affiliates/base/templates/base/about.html:210
+msgid "Can I build my own button?"
+msgstr "আমি কি আমার নিজস্ব বাটন বানাতে পারি?"
+
+#: affiliates/base/templates/base/about.html:213
+msgid ""
+"Not yet… but soon. We're working on a way to make it easy for people to "
+"create their own Firefox buttons in their language. Look for this in future "
+"versions of Firefox Affiliates."
+msgstr ""
+"এখনো নেই ... কিন্তু শীঘ্রই| আমরা এটা সহজ মানুষ তাদের ভাষায় তাদের নিজস্ব "
+"ফায়ারফক্স বোতাম তৈরি করার জন্য একটি উপায় কাজ করছি| ফায়ারফক্স জয়নুল "
+"আবেদীন ভবিষ্যত সংস্করণ এই জন্য দল|"
+
+#: affiliates/base/templates/base/about.html:221
+msgid "I want to help make Firefox Affiliates better. How can I get involved?"
+msgstr ""
+"আমি ভাল ফায়ারফক্স জয়নুল আবেদীন করতে সাহায্য চাই| আমি কিভাবে জড়িত হতে "
+"পারে?"
+
+#: affiliates/base/templates/base/about.html:224
+msgid ""
+"If you’d like to help out with the affiliates program, contact us at <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>. We’d love your help with "
+"everything from coding to marketing."
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:12
+#: affiliates/base/templates/base/base.html:15
+#: affiliates/base/templates/base/base.html:21
+#: affiliates/base/templates/base/base.html:65
+#: affiliates/base/templates/base/home.html:15
+#: affiliates/facebook/templates/facebook/base.html:15
+#: affiliates/settings/base.py:152
+msgid "Firefox Affiliates"
+msgstr "ফায়ারফক্স জয়নুল আবেদীন"
+
+#: affiliates/base/templates/base/base.html:49
+msgid "Close"
+msgstr "বন্ধ"
+
+#: affiliates/base/templates/base/base.html:50
+msgid "This field is required."
+msgstr "এই ক্ষেত্রটি প্রয়োজন বোধ করা হয়|"
+
+#: affiliates/base/templates/base/base.html:51
+msgid "Thanks for subscribing!"
+msgstr "সাবস্ক্রাইব করার জন্য ধন্যবাদ!"
+
+#: affiliates/base/templates/base/base.html:52
+msgid "Sorry, there was an error. Please refresh and try again."
+msgstr "দুঃখিত, একটি ত্রুটি ছিল| রিফ্রেশ করুন এবং আবার চেষ্টা করুন|"
+
+#: affiliates/base/templates/base/base.html:60
+#: affiliates/base/templates/base/base.html:170
+#: affiliates/base/templates/base/strings.html:32
+msgid "Mozilla"
+msgstr "মোজিলা"
+
+#: affiliates/base/templates/base/base.html:71
+msgid "Menu"
+msgstr "মেনু"
+
+#. clicks on their banners.
+#: affiliates/base/templates/base/base.html:74
+#: affiliates/facebook/templates/facebook/base.html:45
+msgid "Leaderboard"
+msgstr "লিডারবোর্ড"
+
+#: affiliates/base/templates/base/base.html:75
+#: affiliates/statistics/templates/statistics/index.html:3
+#: affiliates/statistics/templates/statistics/index.html:17
+msgid "Performance"
+msgstr "পারফরম্যান্স"
+
+#: affiliates/base/templates/base/base.html:84
+#: affiliates/base/templates/base/dashboard.html:14
+#: affiliates/base/templates/base/dashboard.html:22
+#: affiliates/links/templates/links/detail.html:52
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড"
+
+#: affiliates/base/templates/base/base.html:85
+msgid "Profile"
+msgstr "প্রোফাইল"
+
+#: affiliates/base/templates/base/base.html:86
+msgid "Sign out"
+msgstr "সাইন আউট"
+
+#: affiliates/base/templates/base/base.html:90
+msgid "Sign in"
+msgstr "সাইন ইন"
+
+#: affiliates/base/templates/base/base.html:108
+msgid "Get Firefox Affiliates News"
+msgstr "ফায়ারফক্স জয়নুল আবেদীন খবর পান"
+
+#: affiliates/base/templates/base/base.html:111
+#: affiliates/facebook/forms.py:203
+#: affiliates/facebook/templates/facebook/base.html:159
+msgid "Your email address"
+msgstr "আপনার মেইল আইডি"
+
+#: affiliates/base/templates/base/base.html:116
+msgid "Country"
+msgstr "দেশ"
+
+#: affiliates/base/templates/base/base.html:121
+msgid "Format"
+msgstr "ফরম্যাট"
+
+#: affiliates/base/templates/base/base.html:132
+msgid "HTML"
+msgstr "HTML"
+
+#: affiliates/base/templates/base/base.html:142
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr ""
+
+#. Label used for the newsletter signup button.
+#: affiliates/base/templates/base/base.html:150
+#: affiliates/facebook/templates/facebook/base.html:180
+msgid "Sign me up!"
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:175
+msgid ""
+"Portions of this content are ©1998–%(thisyear)s by individual mozilla.org "
+"contributors. Content available under a <a href=\"%(license)s\">Creative "
+"Commons license</a>."
+msgstr ""
+
+#: affiliates/base/templates/base/base.html:182
+msgid "Source code"
+msgstr "সোরস্ কোড"
+
+#: affiliates/base/templates/base/base.html:187
+msgid "Contact Us"
+msgstr "আমাদের সাথে জোগাজোগ করুন"
+
+#: affiliates/base/templates/base/base.html:188
+msgid "Partner with Us"
+msgstr "অংশীদার হন"
+
+#: affiliates/base/templates/base/base.html:189
+msgid "Donate"
+msgstr "অনুদান দিন"
+
+#: affiliates/base/templates/base/base.html:190
+msgid "Privacy Policy"
+msgstr "গোপনীয়তা নীতি"
+
+#: affiliates/base/templates/base/base.html:191
+msgid "Legal Notices"
+msgstr "আইনি বিজ্ঞপ্তি"
+
+#: affiliates/base/templates/base/base.html:192
+msgid "Report Trademark Abuse"
+msgstr "ট্রেডমার্ক অপব্যবহার সম্বন্ধে রিপোর্ট"
+
+#: affiliates/base/templates/base/base.html:196
+msgid "Mozilla on Twitter"
+msgstr "Twitter-এ Mozilla"
+
+#: affiliates/base/templates/base/base.html:197
+msgid "Firefox on Twitter"
+msgstr "Twitter-এ Firefox"
+
+#: affiliates/base/templates/base/base.html:198
+msgid "Mozilla on Facebook"
+msgstr "ফেসবুকে মজিলা"
+
+#: affiliates/base/templates/base/base.html:199
+msgid "Firefox on Facebook"
+msgstr "ফেসবুকে ফায়ারফক্স"
+
+#: affiliates/base/templates/base/dashboard.html:23
+msgid ""
+"See how your banners are performing and where you rank among other Firefox "
+"Affiliates. Thanks for supporting Firefox and the Mozilla mission to build a"
+" better Web for all!"
+msgstr ""
+"আপনার ব্যানার সম্পাদন করা হয় তা দেখুন এবং আপনি অন্যান্য ফায়ারফক্স জয়নুল "
+"আবেদীন মধ্যে স্থান কোথায়| সব জন্য একটি ভাল ওয়েব নির্মাণ মোজিলা ফায়ারফক্স "
+"এবং মিশন সমর্থনের জন্য ধন্যবাদ!"
+
+#: affiliates/base/templates/base/dashboard.html:26
+msgid "My stats"
+msgstr "আমার পরিসংখান"
+
+#: affiliates/base/templates/base/dashboard.html:35
+msgid "My Banners"
+msgstr "আমার ব্যানারগুলি"
+
+#: affiliates/base/templates/base/dashboard.html:36
+#: affiliates/facebook/templates/facebook/banner_list.html:76
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:7
+msgid "Create a new banner"
+msgstr "নতুন ব্যানার বানান"
+
+#: affiliates/base/templates/base/dashboard.html:47
+msgid "You don’t have any banners yet. Why not create one now?"
+msgstr "আপনি এখনও কোনো ব্যানার হবে না| কেন না এখন এক তৈরি?"
+
+#: affiliates/base/templates/base/dashboard.html:52
+#: affiliates/base/templates/base/home.html:66
+msgid "1. Pick a banner"
+msgstr "১. একটি ব্যানার বাছুন"
+
+#: affiliates/base/templates/base/dashboard.html:53
+#: affiliates/base/templates/base/home.html:67
+msgid ""
+"Choose from a number of designs that support Firefox and other Mozilla "
+"products."
+msgstr ""
+"বিভিন্ন ডিজাইনের মধ্যে থেকে একটি নির্বাচন করুন যেগুলি Firefox এবং অন্যান্য "
+"Mozilla প্রোডাক্ট সাপোর্ট করে।"
+
+#: affiliates/base/templates/base/dashboard.html:56
+#: affiliates/base/templates/base/home.html:70
+msgid "2. Customize"
+msgstr "২. কাস্টমাইজ করুন"
+
+#: affiliates/base/templates/base/dashboard.html:57
+#: affiliates/base/templates/base/home.html:71
+msgid ""
+"Select the size and color that suits your site. Banners and links are also "
+"available in over 30 languages."
+msgstr ""
+"<pre class=\"tw-data-text vk_txt tw-ta tw-text-small\" data-"
+"placeholder=\"Translation\" id=\"tw-target-text\" data-fulltext=\"\" "
+"dir=\"ltr\" style=\"unicode-bidi: -webkit-isolate; border: none; padding-"
+"right: 0.14em; position: relative; margin-bottom: 0px; resize: none; font-"
+"family: inherit; overflow: hidden; text-align: left; width: 237.5px; white-"
+"space: pre-wrap; word-wrap: break-word; color: rgb(33, 33, 33); height: "
+"72px; background-color: rgb(255, 255, 255);\">আপনার সাইট অনুসারে যে আকার এবং"
+" রং নির্বাচন করুন. ব্যানার এবং লিঙ্ক উপর 30 টি ভাষায় পাওয়া যায়</pre>"
+
+#: affiliates/base/templates/base/dashboard.html:60
+#: affiliates/base/templates/base/home.html:74
+msgid "3. Post to your site"
+msgstr "৩. আপনার সাইটে পোস্ট করুন"
+
+#: affiliates/base/templates/base/dashboard.html:61
+#: affiliates/base/templates/base/home.html:75
+msgid ""
+"Copy and paste the HTML or text link into your site, email or wherever you’d"
+" like to share it."
+msgstr ""
+"<pre class=\"tw-data-text vk_txt tw-ta tw-text-small\" data-"
+"placeholder=\"Translation\" id=\"tw-target-text\" data-fulltext=\"\" "
+"dir=\"ltr\" style=\"unicode-bidi: -webkit-isolate; border: none; padding-"
+"right: 0.14em; position: relative; margin-bottom: 0px; resize: none; font-"
+"family: inherit; overflow: hidden; text-align: left; width: 237.5px; white-"
+"space: pre-wrap; word-wrap: break-word; color: rgb(33, 33, 33); height: "
+"96px; background-color: rgb(255, 255, 255);\">কপি ও&nbsp;<span style=\"font-"
+"family: inherit; line-height: 1.5;\">পেস্ট করুন&nbsp;</span><span style"
+"=\"font-family: inherit; line-height: 1.5;\">HTML</span><span style=\"font-"
+"family: inherit; line-height: 1.5;\">&nbsp;</span><span style=\"font-family:"
+" inherit; line-height: 1.5;\"> বা টেক্সট লিঙ্ক </span><span style=\"font-"
+"family: inherit; line-height: 1.5;\">আপনার সাইট&nbsp;</span><span style"
+"=\"font-family: inherit; line-height: 1.5;\">এ</span><span style=\"font-"
+"family: inherit; line-height: 1.5;\">,  </span><span style=\"font-family: "
+"inherit; line-height: 1.5;\">ইমেইল মধ্যে</span><span style=\"font-family: "
+"inherit; line-height: 1.5;\"> পেস্ট করুন অথবা যেখানেই থাকুন না কেন আপনি এটি "
+"শেয়ার করতে চাই</span></pre>"
+
+#: affiliates/base/templates/base/dashboard.html:71
+msgid "My Milestones"
+msgstr "আমার মাইলফলক"
+
+#: affiliates/base/templates/base/dashboard.html:79
+msgid "Affiliates News"
+msgstr "Affiliates-এর খবর"
+
+#: affiliates/base/templates/base/dashboard.html:84
+msgid "Become a Mozillian"
+msgstr "Mozillian হন"
+
+#: affiliates/base/templates/base/dashboard.html:86
+msgid ""
+"At Mozilla, doing good is part of our code. Our mission is to promote "
+"openness, innovation and opportunity on the Web, and we can only do it with "
+"awesome people like you. If you’d like to do even more to help our mission, "
+"we have volunteer opportunities available in a number of areas."
+msgstr ""
+"মোজিলা এ, ভাল করছেন আমাদের কোড অংশ| আমাদের লক্ষ্য ওয়েব অকপটতা, নতুনত্ব এবং "
+"সুযোগ উন্নীত করা হয়, এবং আমরা শুধুমাত্র আপনার মত সন্ত্রস্ত মানুষের সঙ্গে "
+"কাজ করতে পারেন| আপনি যদি আমাদের মিশন সাহায্য করার জন্য আরও কাজ করতে চান "
+"তাহলে, আমরা এলাকার একটি সংখ্যা পাওয়া স্বেচ্ছাসেবক সুযোগ আছে|"
+
+#: affiliates/base/templates/base/dashboard.html:93
+msgid "Learn more"
+msgstr "আরো জানুন"
+
+#: affiliates/base/templates/base/home.html:24
+#, fuzzy
+msgid "So long, <strong>Firefox Affiliates</strong>."
+msgstr "ফায়ারফক্স জয়নুল আবেদীন স্বাগতম"
+
+#: affiliates/base/templates/base/home.html:25
+msgid "Hello, <strong>Firefox Friends</strong>."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:27
+msgid ""
+"We’re moving our Affiliates program to Firefox Friends, an exciting new way "
+"to share what we do with the world. At Firefox Friends you’ll have "
+"opportunities to get recognized for making an impact — plus, you’ll be in "
+"the know for all the latest Mozilla news and announcements."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:33
+msgid ""
+"At the beginning of August, new banner creation for Affiliates will be "
+"disabled, so please join us at Firefox Friends to continue sharing Mozilla "
+"with world."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:36
+#, fuzzy
+msgid "Join Firefox Friends"
+msgstr "Firefox প্লাগ-ইন"
+
+#: affiliates/base/templates/base/home.html:38
+msgid "Click here for more information"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:49
+msgid "This site requires JavaScript."
+msgstr "এই সাইটটি JavaScript প্রয়োজন|"
+
+#: affiliates/base/templates/base/home.html:55
+msgid "Become a Firefox Affiliate today!"
+msgstr "একটি ফায়ারফক্স অ্যাফিলিয়েট আজ হয়ে উঠুন!"
+
+#: affiliates/base/templates/base/home.html:56
+msgid ""
+"Get everything you need to share Firefox – and the other Mozilla products "
+"you love – with the world. Climb the leaderboard to help us build a better "
+"Web."
+msgstr ""
+"সবকিছুই পান যা আপনি শেয়ার করতে চান Firefox-র সাথে – এবং অন্যান্য Mozilla "
+"প্রোডাক্টসমূহ যা আপনি ভালোবাসেন – সারা বিশ্বের সাথে। লিডারবোর্ডে ওপরের দিকে "
+"উঠুন আমাদের একটি উন্নত ওয়েব বানাতে সাহায্য করে।"
+
+#: affiliates/base/templates/base/home.html:57
+msgid "Get started"
+msgstr "শুরু করুন"
+
+#: affiliates/base/templates/base/home.html:63
+msgid "How it works"
+msgstr "এটি কিভাবে কাজ করে"
+
+#: affiliates/base/templates/base/home.html:83
+msgid "Earn rewards!"
+msgstr "পুরস্কার উপার্জন করুন!"
+
+#: affiliates/base/templates/base/home.html:84
+msgid ""
+"Climb the affiliates leaderboard for your chance to win awesome Firefox "
+"gear, and to get even more involved with Mozilla. The more you share, the "
+"higher you can climb."
+msgstr ""
+"<pre class=\"tw-data-text vk_txt tw-ta tw-text-small\" data-"
+"placeholder=\"Translation\" id=\"tw-target-text\" data-fulltext=\"\" "
+"dir=\"ltr\" style=\"unicode-bidi: -webkit-isolate; border: none; padding-"
+"right: 0.14em; position: relative; margin-bottom: 0px; resize: none; font-"
+"family: inherit; overflow: hidden; text-align: left; width: 237.5px; white-"
+"space: pre-wrap; word-wrap: break-word; color: rgb(33, 33, 33); height: "
+"120px; font-size: 16px !important; line-height: 24px !important; background-"
+"color: rgb(255, 255, 255);\">সন্ত্রস্ত ফায়ারফক্স গিয়ার জয় , এবং আরও বেশি "
+"জড়িত মোজিলা সঙ্গে পেতে আপনার সুযোগ জন্য অনুমোদিত লিডারবোর্ডে আরোহণ. আপনি "
+"আরো ভাগ , উচ্চ আপনি আরোহণ করতে পারেন.</pre>"
+
+#: affiliates/base/templates/base/home.html:97
+msgid "Top affiliates"
+msgstr "সেরা Affiliates"
+
+#: affiliates/base/templates/base/macros.html:49
+msgid "Someday soon!"
+msgstr "কিছুদিনের মধ্যে!"
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:64
+msgid "<strong>%(rank)s</strong> ranking"
+msgstr "<strong>%(rank)s</strong> র্যাংকিং"
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:69
+msgid "Not yet ranked"
+msgstr "এখনো তম স্থান নেই"
+
+#: affiliates/base/templates/base/macros.html:78
+msgid "<strong>%(count)s</strong> affiliate"
+msgid_plural "<strong>%(count)s</strong> affiliates"
+msgstr[0] "<strong>%(count)s</strong> affiliate"
+msgstr[1] "<strong>%(count)s</strong> affiliateসমূহ"
+
+#: affiliates/base/templates/base/macros.html:86
+msgid "<strong>%(count)s</strong> click"
+msgid_plural "<strong>%(count)s</strong> clicks"
+msgstr[0] "<strong>%(count)s</strong> ক্লিক"
+msgstr[1] "<strong>%(count)s</strong> ক্লিকসমূহ"
+
+#: affiliates/base/templates/base/macros.html:94
+msgid "<strong>%(count)s</strong> banner"
+msgid_plural "<strong>%(count)s</strong> banners"
+msgstr[0] "<strong>%(count)s</strong> ব্যানার"
+msgstr[1] "<strong>%(count)s</strong> ব্যানারসমূহ"
+
+#: affiliates/base/templates/base/strings.html:31
+msgid "Firefox"
+msgstr "ফায়ারফক্স"
+
+#: affiliates/base/templates/base/strings.html:33
+msgid "Firefox OS"
+msgstr "ফায়ারফক্স ওএস"
+
+#: affiliates/base/templates/base/strings.html:38
+msgid "Mozilla Recruiting"
+msgstr "মোজিলা রিক্রুটিং"
+
+#: affiliates/base/templates/base/strings.html:39
+msgid "Firefox for Mobile"
+msgstr "মোবাইল এর জন্য ফায়ারফক্স"
+
+#: affiliates/base/templates/base/strings.html:40
+msgid "Firefox for Desktop"
+msgstr "ডেস্কটপ এর জন্য ফায়ারফক্স"
+
+#: affiliates/base/templates/base/strings.html:41
+msgid "Firefox Plugins"
+msgstr "Firefox প্লাগ-ইন"
+
+#: affiliates/base/templates/base/strings.html:46
+msgid "Android"
+msgstr "অ্যান্ড্রয়েড"
+
+#: affiliates/base/templates/base/strings.html:47
+msgid "Upgrade"
+msgstr "আপগ্রেড করুন"
+
+#: affiliates/base/templates/base/strings.html:48
+msgid "Download: Fast, Fun, Awesome"
+msgstr "ডাউনলোড করুন: আরও দ্রুত, মজাদার এবং আকর্ষণীও"
+
+#: affiliates/base/templates/base/strings.html:49
+msgid "Work for Mozilla"
+msgstr "Mozilla-তে কাজ করুন"
+
+#: affiliates/base/templates/base/strings.html:50
+msgid "Plugin Checker"
+msgstr "প্লাগ-ইন পরীক্ষক"
+
+#: affiliates/base/templates/base/strings.html:51
+msgid "Download Aurora"
+msgstr "অরোরা সংস্করণটি ডাউনলোড করুন"
+
+#: affiliates/base/templates/base/strings.html:52
+msgid "Aurora for Android"
+msgstr "মোবাইলে ব্যবহারের <span>জন্য</span> অরোরা সংস্করণ"
+
+#: affiliates/base/templates/base/strings.html:53
+msgid "Download Beta"
+msgstr "বিটা সংস্করণ ডাউনলোড করুন"
+
+#. 3.6 refers to Firefox version 3.6
+#: affiliates/base/templates/base/strings.html:55
+msgid "3.6 Upgrade"
+msgstr "3.6 আপগ্রেড"
+
+#: affiliates/base/templates/base/strings.html:56
+msgid "Facebook Messenger for Firefox"
+msgstr "Firefox জন্য Facebook মেসেঞ্জার"
+
+#: affiliates/base/templates/base/strings.html:61
+msgid "Purple"
+msgstr "বেগুনী"
+
+#: affiliates/base/templates/base/strings.html:62
+msgid "Blue"
+msgstr "নীল"
+
+#: affiliates/base/templates/base/strings.html:63
+msgid "Green"
+msgstr "সবুজ"
+
+#: affiliates/base/templates/base/strings.html:64
+msgid "Red"
+msgstr "লাল"
+
+#: affiliates/base/templates/base/strings.html:65
+msgid "Orange"
+msgstr "কমলা"
+
+#: affiliates/base/templates/base/strings.html:66
+msgid "Yellow"
+msgstr "হলুদ"
+
+#: affiliates/base/templates/base/strings.html:67
+msgid "White"
+msgstr "সাদা"
+
+#: affiliates/base/templates/base/strings.html:68
+msgid "Black"
+msgstr "কালো"
+
+#: affiliates/base/templates/base/terms.html:6
+#: affiliates/base/templates/base/terms.html:14
+msgid "Terms of Service"
+msgstr "পরিষেবার শর্তাদি"
+
+#. L10n: &hellip; is an ellipses, the three dots like "I love Firefox
+#. because..."
+#: affiliates/facebook/forms.py:18
+msgid "I love Firefox because&hellip;"
+msgstr "আমি Firefox-কে ভালোবাসি কারণ&hellip;"
+
+#: affiliates/facebook/forms.py:28
+msgid "Enter e-mail"
+msgstr "ই-মেল আইডি দিন"
+
+#: affiliates/facebook/forms.py:93
+msgid ""
+"Sorry. Your message is too long. Please tell the world why you love Firefox "
+"in 90 characters or less."
+msgstr ""
+"দুঃখিত| আপনার বার্তাটি অত্যন্ত দীর্ঘ| আপনি 90 অক্ষর বা তার কম ফায়ারফক্স "
+"ভালোবাসি কেন বিশ্বের বলুন|"
+
+#. L10n: Used in a dropdown that lets users filter the Leaderboard by
+#. L10n: country. Refers to the default filter, which shows all countries
+#: affiliates/facebook/forms.py:179
+msgid "All"
+msgstr "সব"
+
+#. Account linking lets a user associate an Affiliates account with their
+#. Facebook app account. Description is in another string. :D
+#: affiliates/facebook/managers.py:139
+#: affiliates/facebook/templates/facebook/base.html:86
+msgid "Link your Firefox Affiliates account"
+msgstr "আপনার Firefox Affiliates অ্যাকাউন্ট যুক্ত করুন"
+
+#: affiliates/facebook/models.py:313
+msgid "Way to go! You've had {0} clicks on your Firefox banner."
+msgstr "যেতে উপায়! আপনি {0} আপনার ফায়ারফক্স ব্যানারে ক্লিক ছিল করেছি|"
+
+#: affiliates/facebook/models.py:315
+msgid ""
+"Amazing! You've had {0} clicks on your Firefox banner. Thanks for spreading "
+"the word."
+msgstr ""
+"অ্যামেজিং! আপনি {0} আপনার ফায়ারফক্স ব্যানারে ক্লিক ছিল করেছি. শব্দ ছড়াতে "
+"জন্য ধন্যবাদ|"
+
+#: affiliates/facebook/models.py:318
+msgid ""
+"Wow! Your banner has {0} clicks! It's ready to grow up and become a Firefox "
+"ad."
+msgstr ""
+"বাহ! আপনার ব্যানার {0} ক্লিক আছে! এটা বড় এবং একটি ফায়ারফক্স বিজ্ঞাপন হয়ে "
+"প্রস্তুত|"
+
+#: affiliates/facebook/models.py:320
+msgid "Congratulations! Your Firefox banner has now become a Facebook ad!"
+msgstr ""
+"অভিনন্দন! আপনার ফায়ারফক্স ব্যানার এখন একটি ফেসবুক বিজ্ঞাপন হয়ে গেছে!"
+
+#: affiliates/facebook/views.py:177
+msgid "Your banner has been deleted."
+msgstr "আপানার ব্যানারটি ডিলিট হয়ে গেছে।"
+
+#: affiliates/facebook/views.py:211
+msgid "You have successfully posted a banner to your wall !"
+msgstr "আপনি সফলভাবে আপনার প্রাচীর একটি ব্যানার পোস্ট করেছেন!"
+
+#: affiliates/facebook/views.py:303
+msgid "You have successfully sent a message to one of your friends!"
+msgstr "আপনি সফলভাবে আপনার বন্ধুদের এক একটি বার্তা পাঠানো হয়েছে!"
+
+#. Banner styles are images that will be used as the background of a banner
+#. that the user creates.
+#: affiliates/facebook/templates/facebook/banner_create.html:18
+msgid "First, choose one of the banner styles below."
+msgstr "প্রথমত, নিচে ব্যানার শৈলী একটি বেছে নিন|"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:24
+msgid "Please correct the errors in the form below."
+msgstr "নীচের ফর্মটি ত্রুটি সংশোধন করুন|"
+
+#. Used above a box showing what a banner will look like once it is created.
+#: affiliates/facebook/templates/facebook/banner_create.html:26
+msgid "Your banner preview"
+msgstr "আপনার ব্যানার প্রিভিউ"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:36
+msgid "Next, tell the world why you love Firefox in 90 characters or less."
+msgstr "আপনি 90 অক্ষর বা তার কম ফায়ারফক্স ভালোবাসি কেন এর পরে, বিশ্বের বলুন|"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:42
+msgid "Use my profile image"
+msgstr "আমার প্রোফাইলের ছবি ব্যাবহার করুন"
+
+#. Label for a checkbox that gives us permission to use the user's banner in a
+#. paid Facebook ad.
+#: affiliates/facebook/templates/facebook/banner_create.html:46
+msgid "Feature me in a paid Facebook ad."
+msgstr "একটি প্রদত্ত ফেসবুক বিজ্ঞাপন আমার বৈশিষ্ট্য|"
+
+#. Used on a link that, when clicked, pops up a text bubble with an
+#. explanation of a form field.
+#: affiliates/facebook/templates/facebook/banner_create.html:49
+msgid "What does this mean?"
+msgstr "এটার মানে কি?"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:52
+msgid ""
+"If you get %(click_count)s clicks or more, we would like to have permission "
+"to turn your banner into a paid ad on Facebook in your region. By checking "
+"this box you are granting us permission to use your banner in a paid "
+"Facebook ad, including your profile photo if you checked the box to include "
+"it in the banner, and the text you added to the banner. For a full "
+"description of the rights you are granting and more information, see the "
+"FAQs. Don't want to be featured in an ad? Make sure you don't opt in. If you"
+" opted in and don't want to be featured anymore, send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure your ad is "
+"removed."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/banner_create.html:69
+msgid "Save and Share"
+msgstr "সংরক্ষণ করুন এবং শেয়ার করুন"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:14
+msgid "Are you sure?"
+msgstr "আপনি নিশ্চিত?"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:15
+msgid "These are the banners you've created so far:"
+msgstr "এই ব্যানারগুলি আপনি এখনও পর্যন্ত তৈরি করেছেন:"
+
+#. Heading referring to when a banner was created.
+#: affiliates/facebook/templates/facebook/banner_list.html:26
+msgid "Creation date"
+msgstr "নির্মাণের তারিখ"
+
+#. Heading above the number of clicks a banner has received.
+#: affiliates/facebook/templates/facebook/banner_list.html:30
+msgid "Clicks"
+msgstr "ক্লিকস্"
+
+#. Link that, when clicked, shows a dialog for posting a banner to a user's
+#. Facebook feed.
+#: affiliates/facebook/templates/facebook/banner_list.html:37
+msgid "Post to Feed"
+msgstr "খাবার পোস্ট করুন"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:45
+msgid "Delete"
+msgstr "ডিলিট"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:67
+msgid "Click Goal: <span>%(count)s</span>"
+msgstr "গোল ক্লিক করুন: <span>%(count)s</span>"
+
+#: affiliates/facebook/templates/facebook/base.html:16
+msgid "Help us share Firefox with the world."
+msgstr "আমাদের বিশ্বের সঙ্গে ফায়ারফক্স ভাগ করতে সাহায্য করুন|"
+
+#: affiliates/facebook/templates/facebook/base.html:20
+#: affiliates/facebook/templates/facebook/base.html:148
+msgid "Invite your friends to Download Firefox!"
+msgstr "ফায়ারফক্স ডাউনলোড করুন আপনার বন্ধুদের আমন্ত্রণ জানান!"
+
+#: affiliates/facebook/templates/facebook/base.html:29
+msgid "My banners"
+msgstr "আমার ব্যানারগুলি"
+
+#. answers to common questions about the app.
+#. FAQs is an abbreviation for Frequently Asked Questions
+#: affiliates/facebook/templates/facebook/base.html:37
+#: affiliates/facebook/templates/facebook/faq.html:13
+msgid "FAQs"
+msgstr "জিজ্ঞাসা"
+
+#: affiliates/facebook/templates/facebook/base.html:92
+msgid ""
+"Do you already have an account from affiliates.mozilla.org? You can link "
+"your account to this application and you'll get credit for any clicks that "
+"you drive through Facebook. To connect your account, just click here and "
+"fill in your information. We'll send you an email to confirm. If you'd like "
+"to sign up for an account, just visit <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+
+#. Label used for the account linking button.
+#: affiliates/facebook/templates/facebook/base.html:103
+msgid "Submit"
+msgstr "জমা দিন"
+
+#: affiliates/facebook/templates/facebook/base.html:107
+msgid "Thanks for linking your affiliates.mozilla.org account."
+msgstr "আপনার affiliates.mozilla.org অ্যাকাউন্ট লিঙ্ক করার জন্য ধন্যবাদ|"
+
+#: affiliates/facebook/templates/facebook/base.html:108
+msgid ""
+"If the email address you entered has an account, you will receive a "
+"confirmation email."
+msgstr ""
+"আপনি প্রবেশ ইমেইল ঠিকানা একটি অ্যাকাউন্ট আছে, আপনি একটি নিশ্চিতকরণ ইমেল "
+"পাবেন|"
+
+#: affiliates/facebook/templates/facebook/base.html:113
+msgid "Linked to <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+msgstr "<a href=\"%(link)s\">affiliates.mozilla.org</a> লিঙ্ক"
+
+#: affiliates/facebook/templates/facebook/base.html:120
+msgid ""
+"This account is linked to affiliates.mozilla.org. You are credited for "
+"clicks from Facebook. You can unlink accounts by clicking below."
+msgstr ""
+"এই অ্যাকাউন্টটি affiliates.mozilla.org সাথে সংযুক্ত করা হয়| আপনি ফেসবুক "
+"থেকে ক্লিকের জন্য জমা হয়. আপনি নীচের ক্লিক করে অ্যাকাউন্ট বিযুক্ত করতে "
+"পারেন|"
+
+#. Text on a button that lets a user unlink their Facebook and Affiliates
+#. accounts.
+#: affiliates/facebook/templates/facebook/base.html:125
+msgid "Remove %(email_address)s"
+msgstr "সরান %(email_address)s"
+
+#: affiliates/facebook/templates/facebook/base.html:134
+msgid "Your Statistics Summary"
+msgstr "আপনার পরিসংখ্যানের সংক্ষিপ্তসার"
+
+#: affiliates/facebook/templates/facebook/base.html:138
+msgid ""
+"You can filter results by selecting a specific month using the calendar "
+"above."
+msgstr ""
+"আপনি উপরের থেকে একটি নির্দিষ্ট মাসের ক্যালেন্ডার ব্যবহার করে নির্বাচন করে "
+"ফলাফল ফিল্টার করতে পারেন।"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/base.html:139
+#: affiliates/facebook/templates/facebook/leaderboard.html:27
+msgid "Total clicks"
+msgstr "মোট ক্লিকস্"
+
+#: affiliates/facebook/templates/facebook/base.html:140
+msgid "Statistics are currently unavailable."
+msgstr "পরিসংখ্যান বর্তমানে অনুপলব্ধ।"
+
+#: affiliates/facebook/templates/facebook/base.html:144
+msgid "Be a part of the Firefox movement"
+msgstr "Firefox মুভমেন্টের অংশিদার হন"
+
+#: affiliates/facebook/templates/facebook/base.html:145
+msgid "It's easy!"
+msgstr "ইহা সোজা!"
+
+#: affiliates/facebook/templates/facebook/base.html:147
+msgid "Create your custom banner."
+msgstr "নিজস্ব ব্যানার বানান"
+
+#: affiliates/facebook/templates/facebook/base.html:149
+msgid "Get clicks and you could be featured in a paid Facebook ad."
+msgstr ""
+"ক্লিক করুন এবং আপনি একটি প্রদত্ত ফেসবুক বিজ্ঞাপন বৈশিষ্ট্যযুক্ত করা যেতে "
+"পারে|"
+
+#: affiliates/facebook/templates/facebook/base.html:155
+msgid "Get Firefox News"
+msgstr "ফায়ারফক্স খবর পান"
+
+#: affiliates/facebook/templates/facebook/base.html:171
+msgid "I agree to the <a href=\"%(link)s\">Privacy Policy</a>"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/base.html:175
+msgid "We will only send you Mozilla-related information."
+msgstr "আমরা শুধুমাত্র আপনার মজিলা সংক্রান্ত তথ্য পাঠাতে হবে|"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/base.html:184
+#: affiliates/facebook/templates/facebook/link_activation_email.html:13
+msgid "Thanks!"
+msgstr "ধন্যবাদ!"
+
+#: affiliates/facebook/templates/facebook/error.html:10
+msgid "Whoops!"
+msgstr "ওহ!"
+
+#: affiliates/facebook/templates/facebook/error.html:11
+msgid "What are you doing here?"
+msgstr "আপনি এখানে কি করছেন?"
+
+#: affiliates/facebook/templates/facebook/error.html:14
+msgid ""
+"Did you make a left at that last URL instead of a right? No problem. Here "
+"are some tips to get you back on your way:"
+msgstr ""
+"আপনি একটি বাম পরিবর্তে একটি অধিকার যে শেষ URL- এ করা? কোন অসুবিধা নাই| এখানে"
+" আপনার পথে আপনি ফিরে পেতে কিছু টিপস:"
+
+#: affiliates/facebook/templates/facebook/error.html:21
+msgid ""
+"If you typed in the address, check your spelling. Could just be a typo."
+msgstr ""
+"আপনি ঠিকানা টাইপ করেন, তাহলে আপনার বানান চেক করুন| শুধু একটি ত্রুটি লক্ষ্য "
+"করা যায়নি|"
+
+#: affiliates/facebook/templates/facebook/error.html:26
+msgid ""
+"If you followed a link, it’s probably broken. Please <a "
+"href=\"mailto:%(email)s\">contact us</a> and we’ll fix it."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/error.html:32
+msgid ""
+"If you're not sure what you're looking for, start at <a "
+"href=\"%(link)s\">mozilla.org</a>."
+msgstr ""
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:18
+msgid "Using Affiliate banners"
+msgstr "অ্যাফিলিয়েট ব্যানার ব্যবহার করে"
+
+#: affiliates/facebook/templates/facebook/faq.html:21
+msgid "What is Firefox Affiliates?"
+msgstr "ফায়ারফক্স জয়নুল আবেদীন কি?"
+
+#: affiliates/facebook/templates/facebook/faq.html:24
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"eligible for fun stuff like Firefox T-shirts and, if you opt in, we may "
+"feature your banner in a paid-ad on the Facebook ad network. While we do "
+"send out prizes and gifts to our Affiliates from time to time, Firefox "
+"Affiliates does not offer monetary rewards for hosting Firefox banners."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:43
+msgid "How do I add a banner to my Facebook profile?"
+msgstr "আমি কিভাবে আমার ফেসবুক প্রোফাইলে একটি ব্যানার যোগ করবেন?"
+
+#: affiliates/facebook/templates/facebook/faq.html:48
+msgid ""
+"Select a banner design that you like using the <a href=\"%(link)s\">banner "
+"builder</a>, add a personal message about why you love Firefox and then "
+"click \"share.\" This will post the banner to your Facebook timeline and "
+"into your friends' newsfeed."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:60
+msgid "How do I invite a friend to use Firefox?"
+msgstr "আমি কিভাবে ফায়ারফক্স ব্যবহার করার জন্য একটি বন্ধু আমন্ত্রণ না?"
+
+#: affiliates/facebook/templates/facebook/faq.html:64
+msgid ""
+"If you'd like to personally invite someone to use Firefox, just select "
+"\"Share ad with friends\" from the side menu and you will be able to send a "
+"Facebook message with a custom Firefox download link. If your friend clicks "
+"on the link, you'll also get credit for the click."
+msgstr ""
+"আপনি ব্যক্তিগতভাবে ফায়ারফক্স ব্যবহার কাউকে আমন্ত্রণ জানাতে চাই, শুধু দিকে "
+"মেনু থেকে \"বন্ধুদের সাথে শেয়ার করুন বিজ্ঞাপন\" নির্বাচন করুন এবং আপনি একটি"
+" কাস্টম ফায়ারফক্স ডাউনলোড লিঙ্ক সহ একটি ফেসবুক বার্তা পাঠাতে সক্ষম হবে| "
+"আপনার বন্ধুর লিঙ্কে ক্লিক থাকে, তাহলে আপনি ক্লিক জন্য ক্রেডিট পাবেন|"
+
+#: affiliates/facebook/templates/facebook/faq.html:76
+msgid "Can my banner become a paid Facebook ad?"
+msgstr "আমার ব্যানার একটি প্রদত্ত ফেসবুক বিজ্ঞাপন হয়ে যাবে না?"
+
+#: affiliates/facebook/templates/facebook/faq.html:80
+msgid ""
+"If you checked the box to allow your banner to be featured in a paid "
+"Facebook ad, once you've reached %(click_count)s clicks on a Facebook "
+"banner, your banner will become eligible to be a paid Facebook ad. This "
+"means that Mozilla will pay to have an ad placed on the Facebook ad network "
+"sharing your message of why you love Firefox. We will notify you if your "
+"banner is chosen to be a paid ad in your region. If you do not want to "
+"participate in this, don't click the opt-in when you build your banner. If "
+"you've opted in by accident, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure you aren't "
+"included in the ad selection."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:100
+msgid ""
+"If I opted in to having my banner become a paid Facebook ad, what exactly am"
+" I giving you permission to do?"
+msgstr ""
+"আমি আমার ব্যানার একটি প্রদত্ত ফেসবুক বিজ্ঞাপন হয়ে থাকার মধ্যে নির্বাচিত, "
+"ঠিক কি আমি আপনাকে যা করতে অনুমতি প্রদান করছি?"
+
+#: affiliates/facebook/templates/facebook/faq.html:108
+msgid ""
+"You are giving us permission to use, reproduce, distribute, edit, and "
+"display your photo, if it is included in your banner, and your message about"
+" why you love Firefox, for commercial purposes, specifically in a paid ad on"
+" Facebook. You are also acknowledging that you will not be paid for the use "
+"of your banner."
+msgstr ""
+"আপনি বিশেষভাবে ফেসবুকে একটি প্রদত্ত বিজ্ঞাপন, আমাদের পুনঃপ্রস্তুত, ব্যবহার, "
+"বিতরণ, সম্পাদনা, এবং এটি আপনার ব্যানার মধ্যে অন্তর্ভুক্ত করা হয়, আপনার ছবির"
+" প্রদর্শন করার অনুমতি দেওয়ার জন্য, এবং আপনি বাণিজ্যিক উদ্দেশ্যে, ফায়ারফক্স"
+" ভালোবাসি কেন সম্পর্কে আপনার বার্তা হয়| এছাড়াও আপনি আপনার ব্যানার "
+"ব্যবহারের জন্য দেওয়া হবে না স্বীকার করে নেওয়া হয়|"
+
+#: affiliates/facebook/templates/facebook/faq.html:119
+msgid "How do I remove the application?"
+msgstr "আমি কিভাবে আবেদন অপসারণ না?"
+
+#: affiliates/facebook/templates/facebook/faq.html:122
+msgid ""
+"To remove the application, access your applications in the Facebook settings"
+" menu. Delete the application from your list of authorized apps and we'll "
+"delete your Affiliates profile on Facebook and the information associated "
+"with it. Note: Deleting the application on Facebook will not delete your "
+"affiliates.mozilla.org profile if you had one prior to installing the "
+"application. To delete that profile, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a>."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:138
+msgid ""
+"How do I connect to my Firefox Affiliates account on affiliates.mozilla.org?"
+msgstr ""
+"আমি কিভাবে affiliates.mozilla.org আমার ফায়ারফক্স জয়নুল আবেদীন অ্যাকাউন্টের"
+" সাথে সংযোগ না?"
+
+#: affiliates/facebook/templates/facebook/faq.html:146
+msgid ""
+"To connect your affiliates.mozilla.org account to this application, please "
+"use the connection wizard on the My Banners page. We'll send you an email to"
+" confirm that we've connected the accounts. If you'd like to sign up for an "
+"account, just visit <a href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:159
+msgid "Leaderboard and User Statistics"
+msgstr "লিডারবোর্ড এবং ব্যবহারকারী পরিসংখ্যান"
+
+#: affiliates/facebook/templates/facebook/faq.html:163
+msgid "How often does the leaderboard get updated?"
+msgstr "কিভাবে প্রায়ই লিডারবোর্ডে আপডেট পেতে না?"
+
+#: affiliates/facebook/templates/facebook/faq.html:167
+msgid ""
+"The leaderboard updates every day at midnight Pacific Time, so be sure to "
+"check in to see where you stand."
+msgstr ""
+"লিডারবোর্ডে মধ্যরাত প্যাসিফিক সময় এ প্রতিদিন আপডেট, তাই আপনি যেখানে আপনি "
+"দাঁড়ানো দেখতে পরীক্ষা নিশ্চিত করা|"
+
+#: affiliates/facebook/templates/facebook/faq.html:182
+msgid ""
+"No, though from time to time we may run contests to see who can get the most"
+" clicks for different Firefox products and campaigns. The winners will get "
+"Firefox T-shirts, hoodies and other awesome things we have at Mozilla HQ."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/faq.html:202
+msgid ""
+"Let us know. Send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and tell us what the problem "
+"is."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/first_run.html:8
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:17
+msgid "Welcome to Firefox Affiliates"
+msgstr "ফায়ারফক্স জয়নুল আবেদীন স্বাগতম"
+
+#: affiliates/facebook/templates/facebook/first_run.html:11
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:20
+msgid ""
+"This is your one stop shop for telling the world about the only browser that"
+" puts you first: Firefox! Start now by building a banner to post on your "
+"Facebook profile. Get a ton of clicks and we may feature you in a Firefox ad"
+" (with your permission, of course) or send you some great Firefox gear."
+msgstr ""
+"ফায়ারফক্স: এই প্রথম আপনি রাখে যে শুধুমাত্র ব্রাউজারের সম্পর্কে বিশ্বের বলার"
+" জন্য আপনার এক স্টপ দোকান! আপনার ফেসবুক প্রফাইল পোস্ট করতে একটি ব্যানার তৈরি"
+" করে শুরু করা| ক্লিকের একটি টন পান এবং আমরা (অবশ্যই, আপনার অনুমতি) একটি "
+"ফায়ারফক্স বিজ্ঞাপন আপনি বৈশিষ্ট্য অথবা আপনি কিছু মহান ফায়ারফক্স গিয়ার "
+"পাঠাতে পারে|"
+
+#: affiliates/facebook/templates/facebook/first_run.html:20
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:31
+msgid "Let's go!"
+msgstr "চলুন!"
+
+#: affiliates/facebook/templates/facebook/leaderboard.html:11
+msgid "Affiliates with the most clicks"
+msgstr "সবচেয়ে ক্লিক সঙ্গে সম্বন্ধযুক্ত"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:23
+#: affiliates/links/templates/links/widgets/leaderboard.html:4
+msgid "Rank"
+msgstr "র‍্যাঙ্ক"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:25
+msgid "User"
+msgstr "ব্যাবহারকারি"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:2
+msgid "Hi there!"
+msgstr "নমস্কার!"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:5
+msgid ""
+"Thank you for linking your Firefox Affiliates account with the Affiliates "
+"Facebook application. Please click on the link below and you'll get credit "
+"for any clicks that you drive through Facebook on the main Affiliates "
+"leaderboard."
+msgstr ""
+"জয়নুল আবেদীন ফেসবুক অ্যাপ্লিকেশন সঙ্গে আপনার ফায়ারফক্স জয়নুল আবেদীন "
+"অ্যাকাউন্ট লিঙ্ক করার জন্য আপনাকে ধন্যবাদ| নীচের লিঙ্কে ক্লিক করুন এবং আপনি "
+"প্রধান জয়নুল আবেদীন লিডারবোর্ডে ফেসবুক মাধ্যমে যে কোন ক্লিকের জন্য ক্রেডিট "
+"পাবেন|"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:10
+msgid ""
+"If you didn't request to link your account, just ignore this e-mail and your"
+" account will not be linked."
+msgstr ""
+"আপনি আপনার একাউন্ট লিঙ্ক করতে অনুরোধ না করে থাকেন, শুধু এই ই-মেইল উপেক্ষা "
+"এবং আপনার অ্যাকাউন্টের সাথে সংযুক্ত করা হবে না|"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:15
+msgid "The Firefox Affiliates team"
+msgstr "ফায়ারফক্স জয়নুল আবেদীন দল"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:3
+msgid ""
+"Download Firefox (Large Firefox logo rising in front of an orange "
+"background)"
+msgstr ""
+"ফায়ারফক্স (বড় ফায়ারফক্স লোগো একটি কমলা পটভূমি সামনে ক্রমবর্ধমান) ডাউনলোড"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:5
+msgid "Download Firefox (Small Firefox logo on a light blue background)"
+msgstr "(একটি হালকা নীল পটভূমি ছোট ফায়ারফক্স লোগো) ফায়ারফক্স ডাউনলোড"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:7
+msgid ""
+"Download Firefox (Large Firefox logo resting on a light blue background)"
+msgstr ""
+"(একটি হালকা নীল পটভূমি বড় ফায়ারফক্স লোগো বিশ্রামের) ফায়ারফক্স ডাউনলোড"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:9
+msgid ""
+"Download Firefox (For Android. A mobile phone in front of a faded Firefox "
+"logo with a light blue background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:11
+msgid ""
+"Download Firefox (For Android. A mobile phone displaying a large Firefox "
+"logo on its screen, over a light blue background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:13
+msgid ""
+"Download Firefox (For Android. Firefox logo floating over a mobile phone "
+"resting on an orange background)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:15
+msgid ""
+"Download Firefox (Person in a Firefox costume jumping happily on a beach)"
+msgstr ""
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:17
+msgid ""
+"Download Firefox (For Android. A mobile phone running Firefox for Android "
+"next to a coffee cup with the Firefox logo on it)"
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/strings.html:21
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"elegible for fun stuff like Firefox T-shirts. While we do send out prizes "
+"and gifts to our Affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox banners."
+msgstr ""
+
+#: affiliates/facebook/templates/facebook/strings.html:22
+msgid "Mozilla Firefox"
+msgstr "মোজিলা ফায়ারফক্স"
+
+#: affiliates/facebook/templates/facebook/strings.html:23
+msgid ""
+"Different by design. It's fast, flexible and secure. Share Firefox with your"
+" friends today."
+msgstr ""
+"নকশা দ্বারা ভিন্ন| এটি দ্রুত, নমনীয় এবং নিরাপদ| আজ আপনার বন্ধুদের সাথে "
+"ফায়ারফক্স শেয়ার করুন|"
+
+#: affiliates/facebook/templates/facebook/strings.html:27
+msgid "You will lose credit for all your clicks on this banner."
+msgstr "আপনি এই ব্যানার আপনার সব ক্লিকের জন্য ক্রেডিট নষ্ট হয়ে যাবে|"
+
+#: affiliates/facebook/templates/facebook/strings.html:31
+msgid "Newsletter subscription unavailable at this time."
+msgstr "এই সময়ে অনুপলব্ধ নিউজলেটার সদস্যতা|"
+
+#: affiliates/facebook/templates/facebook/strings.html:32
+msgid ""
+"I'd like to receive the Firefox Affiliate newsletter and periodic Firefox "
+"Affiliates updates via email."
+msgstr ""
+"আমি ইমেইলের মাধ্যমে ফায়ারফক্স অ্যাফিলিয়েট নিউজলেটার এবং নির্ধারিত সময়ের "
+"ফায়ারফক্স জয়নুল আবেদীন আপডেট প্রাপ্ত করতে চাই|"
+
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:4
+msgid "Current banners"
+msgstr "বর্তমান ব্যানারগুলি"
+
+#. L10n: "Woot" (w00t) as in internet slang expressing happiness.
+#: affiliates/links/middleware.py:19
+msgid ""
+"Woot! You've driven {num_downloads} downloads and {num_clicks} clicks since "
+"your last visit. Keep rockin'!"
+msgstr ""
+
+#: affiliates/links/templates/links/detail.html:12
+#: affiliates/links/templates/links/detail.html:24
+msgid "Banner Details"
+msgstr "ব্যানার বিবরণ"
+
+#: affiliates/links/templates/links/detail.html:31
+msgid "Created:"
+msgstr "তৈরী করা হয়েছে:"
+
+#: affiliates/links/templates/links/detail.html:34
+msgid "Clicks:"
+msgstr "ক্লিকস্:"
+
+#: affiliates/links/templates/links/detail.html:36
+msgid "Linked URL:"
+msgstr "লিঙ্ক URL:"
+
+#: affiliates/links/templates/links/detail.html:40
+msgid "Size:"
+msgstr "ফাইলের আকার:"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Embed code:"
+msgstr "এম্বেড কোড:"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Use this code to embed this banner on your website."
+msgstr "আপনার ওয়েবসাইটে এই ব্যানার এম্বেড করার জন্য এই কোড ব্যবহার করুন|"
+
+#: affiliates/links/templates/links/leaderboard.html:15
+msgid "Top Affiliates"
+msgstr "সেরা Affiliates"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:5
+#: affiliates/users/models.py:18
+msgid "Affiliate"
+msgstr "শাখা"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:6
+msgid "Number of clicks"
+msgstr "ক্লিকের সংখ্যা"
+
+#: affiliates/statistics/templates/statistics/category.html:8
+msgid "{category} Metrics"
+msgstr "{বিভাগ} ম্যাট্রিক"
+
+#: affiliates/statistics/templates/statistics/category.html:26
+msgid "Banners"
+msgstr "ব্যানার সমূহ"
+
+#: affiliates/statistics/templates/statistics/index.html:18
+msgid ""
+"Take a look at the impact our Affiliates make on increasing awareness of "
+"Mozilla and its products."
+msgstr ""
+"আমাদের জয়নুল আবেদীন মোজিলা এবং তার পণ্য সম্পর্কে সচেতনতা বৃদ্ধি করতে প্রভাব"
+" কটাক্ষপাত করা|"
+
+#: affiliates/statistics/templates/statistics/index.html:22
+msgid "Key Metrics"
+msgstr "কী বৈশিষ্ট্যের মান"
+
+#: affiliates/statistics/templates/statistics/index.html:36
+msgid "Categories"
+msgstr "বিভাগ"
+
+#: affiliates/users/views.py:30
+msgid "Your profile has been updated!"
+msgstr "আপনার প্রোফাইল আপডেট করা হয়েছে!"
+
+#: affiliates/users/views.py:45
+msgid "You must be logged in to view that page."
+msgstr "আপনি যে পৃষ্ঠাটি দেখতে লগ ইন করতে হবে|"
+
+#: affiliates/users/templates/users/profile.html:21
+#, fuzzy
+msgid "Name: {display_name}"
+msgstr "আপনার প্রদর্শনের নাম"
+
+#: affiliates/users/templates/users/profile.html:26
+msgid "Biography: {biography_text}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:31
+msgid "Edit your profile"
+msgstr "আপনার প্রোফাইল সম্পাদনা করুন"
+
+#: affiliates/users/templates/users/profile.html:57
+msgid "Stats"
+msgstr "পরিসংখ্যান"
+
+#: affiliates/users/templates/users/profile.html:65
+msgid "Milestones"
+msgstr "মাইলফলক"
+
+#~ msgid ""
+#~ "Check out how many people have clicked to download Firefox. <br> Where are "
+#~ "you on the leaderboard? <br> Leaderboard statics are updated at midnight PT "
+#~ "each day."
+#~ msgstr ""
+#~ "পরীক্ষা করে দেখুন কতজন ক্লিক করে Firefox ডাউনলোড করেছে। <br>আপনি "
+#~ "লিডারবোর্ডের কথায় আছেন? <br>  লিডারবোর্ডের পয়েন্ট তালিকা প্রতিদিন মধ্যরাত্রে"
+#~ " আপডেট হয়।"
+
+#~ msgid "TOP 5 AFFILIATES WITH THE MOST FIREFOX CLICKS"
+#~ msgstr "সবচেয়ে বেশী ক্লিকসহ সর্বোচ্চ ৫ জন AFFILIATES "
+
+#~ msgid "USER"
+#~ msgstr "ব্যবহারকারী"
+
+#~ msgid "CLICKS"
+#~ msgstr "ক্লিক"
+
+#~ msgid "Follow these easy steps to create a new banner:"
+#~ msgstr "একটি নতুন ব্যানার তৈরি করার জন্য এই সহজ ধাপগুলি অনুসরণ করুন:"
+
+#~ msgid "Follow these easy steps to get started:"
+#~ msgstr "শুরু করার জন্য এই সহজ ধাপগুলি অনুসরণ করুন:"
+
+#~ msgid "PICK A CATEGORY"
+#~ msgstr "একটি বিভাগ বাছাই করুন"
+
+#~ msgid "PICK A BANNER"
+#~ msgstr "একটি ব্যানার বাছাই করুন"
+
+#~ msgid "CREATION DATE:"
+#~ msgstr "তৈরির তারিখ:"
+
+#~ msgid "CLICKS:"
+#~ msgstr "ক্লিক:"
+
+#~ msgid "LINKED URL:"
+#~ msgstr "লিঙ্ককরা URL:"
+
+#~ msgid "EMBED CODE:"
+#~ msgstr "কোড:"
+
+#~ msgid "You"
+#~ msgstr "আপনি"
+
+#~ msgid "Your total"
+#~ msgstr "আপনার মোট"
+
+#~ msgid "Start Spreading the Word!"
+#~ msgstr "শব্দ ছড়ানো শুরু করে দিন!"
+
+#~ msgid "You have <span>0</span> banners posted."
+#~ msgstr "আপনার <span>0</span>টি ব্যানার পোস্ট করা হয়েছে।"
+
+#~ msgid "Category: <span>%(category_name)s</span>"
+#~ msgstr "বিভাগ: <span>%(category_name)s</span>"
+
+#~ msgid ""
+#~ "Now choose the type of <span>%(subcategory_name)s</span> banner you want to "
+#~ "display on your website or blog:"
+#~ msgstr ""
+#~ "এখন <span>%(subcategory_name)s</span> ব্যানারের  প্রকৃতি নির্বাচন করুন যা "
+#~ "আপনি আপনার ওয়েবসাইট বা ব্লগে রাখতে চান:"
+
+#~ msgid ""
+#~ "Finally, choose the size and color of your <span>%(subcategory_name)s</span>"
+#~ " banner, then you can copy its code onto your website or blog."
+#~ msgstr ""
+#~ "পরিশেষে, </span>%(subcategory_name)s<span> ব্যানারের আকার এবং রঙ নির্বাচন "
+#~ "করুন "
+
+#~ msgid "%(width)sx%(height)s pixels"
+#~ msgstr "%(width)sx%(height)s পিক্সেল"
+
+#~ msgid "Save Banner &raquo;"
+#~ msgstr "ব্যানারটি সংরক্ষণ করুন &raquo;"
+
+#~ msgid "SIZE"
+#~ msgstr "আকার"
+
+#~ msgid "You're almost there!"
+#~ msgstr "আপনার প্রায়ই হয়েগেছে!"
+
+#~ msgid ""
+#~ "Fill out the form below to finish your registration and begin creating "
+#~ "banners."
+#~ msgstr ""
+#~ "আপনার রেজিস্ট্রেশন সম্পূর্ণ করার জন্য নিচের ফর্মটি ভর্তি করুন এবং ব্যানার "
+#~ "তৈরি করা শুরু করে দিন।"
+
+#~ msgid "Latest News"
+#~ msgstr "সাম্প্রতিক খবরাখবর"
+
+#~ msgid "The new Firefox Affiliates program is live!"
+#~ msgstr "নতুন Firefox Affiliates প্রোগ্রাম চালু হয়েছে!"
+
+#~ msgid ""
+#~ "Welcome to the new Firefox Affiliates program. Have a look around the site, "
+#~ "grab some buttons and get on the leaderboard. Have feedback? Let us know at "
+#~ "affiliates@mozilla.org."
+#~ msgstr ""
+#~ "নতুন Firefox Affiliates প্রোগ্রামে আপনাকে স্বাগতম। সাইটটিতে একবার নজর দিন, "
+#~ "কিছু বাটন দখল করুন এবং লিডারবোর্ডের শীর্ষে উঠে আসুন। আমাদের কিছু জানাতে চান?"
+#~ " affiliates@mozilla.org তে ইমেল করুন।"
+
+#~ msgid "Help us make Firefox Affiliates better"
+#~ msgstr "Firefox Affiliates কে আরও উন্নত করতে আমাদের সাহায্য করুন"
+
+#~ msgid ""
+#~ "Firefox Affiliates has been live for a while now, but we need your help to "
+#~ "keep making improvements to the system. If you are a web developer familiar "
+#~ "with HTML, CSS, Python or Django and want to get involved with Mozilla, "
+#~ "please contact us at affiliates@mozilla.org ."
+#~ msgstr ""
+#~ "Firefox Affiliates প্রোগ্রাম চালু হয়েছে, কিন্তু আমাদের আপনার সাহায্যের দরকার"
+#~ " সিস্টেমকে আরও উন্নত করার জন্য। যদি আপনি HTML, CSS, Python বা Django জানা "
+#~ "একজন ওয়েব ডিভেলপার হন এবং অংশগ্রহন করতে চান Mozilla-এর সাথে, তাহলে দয়া করে "
+#~ "affiliates@mozilla.org যোগাযোগ করুন।"
+
+#~ msgid ""
+#~ "The Firefox Affiliates program is a great way to share your love of Mozilla "
+#~ "Firefox."
+#~ msgstr ""
+#~ "Firefox Affiliates প্রোগ্রাম হল Mozilla Firefox-এর প্রতি আপনার ভালবাসা ভাগ "
+#~ "করার একটি দুর্দান্ত উপায়।"
+
+#~ msgid ""
+#~ "BrowserID could not verify your identity. Visit <a "
+#~ "href=\"{url}\">browserid.org</a> for more information."
+#~ msgstr ""
+#~ "BrowserID আপনার পরিচয় যাচাই করতে পারছেনা। বিশদ বিবরণের জন্য <a "
+#~ "href=\"{url}\">browserid.org</a> দেখুন।"
+
+#~ msgid "Create a New Banner &raquo;"
+#~ msgstr "নতুন ব্যানার তৈরি করুন &raquo;"

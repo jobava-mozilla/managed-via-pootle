@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html dir="{S_CONTENT_DIRECTION}" lang="{S_USER_LANG}" id="developer-mozilla-com">
+<head>
+  <meta charset="{S_CONTENT_ENCODING}">
+  <meta http-equiv="content-type" content="text/html; charset={S_CONTENT_ENCODING}">
+  <!--[if IE]>
+  <meta http-equiv="imagetoolbar" content="no">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  {META}
+  <title>{PAGE_TITLE} | <!-- IF S_IN_MCP -->{L_MCP} | <!-- ELSEIF S_IN_UCP -->{L_UCP} | <!-- ENDIF -->{SITENAME}</title>
+
+<!-- IF S_ENABLE_FEEDS -->
+	<!-- IF S_ENABLE_FEEDS_OVERALL --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {SITENAME}" href="{U_FEED}" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_NEWS --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_FEED_NEWS}" href="{U_FEED}?mode=news" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_FORUMS --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_ALL_FORUMS}" href="{U_FEED}?mode=forums" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_TOPICS --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_FEED_TOPICS_NEW}" href="{U_FEED}?mode=topics" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_TOPICS_ACTIVE --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_FEED_TOPICS_ACTIVE}" href="{U_FEED}?mode=topics_active" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_FORUM and S_FORUM_ID --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_FORUM} - {FORUM_NAME}" href="{U_FEED}?f={S_FORUM_ID}" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_TOPIC and S_TOPIC_ID --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_TOPIC} - {TOPIC_TITLE}" href="{U_FEED}?f={S_FORUM_ID}&amp;t={S_TOPIC_ID}" /><!-- ENDIF -->
+<!-- ENDIF -->
+
+  <script type="text/javascript">
+  // <![CDATA[
+    var jump_page = '{LA_JUMP_PAGE}:';
+    var on_page = '{ON_PAGE}';
+    var per_page = '{PER_PAGE}';
+    var base_url = '{A_BASE_URL}';
+    var style_cookie = 'phpBBstyle';
+    var style_cookie_settings = '{A_COOKIE_SETTINGS}';
+    var onload_functions = new Array();
+    var onunload_functions = new Array();
+    
+    <!-- IF S_USER_PM_POPUP -->
+    if ({S_NEW_PM}) {
+      var url = '{UA_POPUP_PM}';
+      window.open(url.replace(/&amp;/g, '&'), '_phpbbprivmsg', 'height=225,resizable=yes,scrollbars=yes, width=400');
+    }
+    <!-- ENDIF -->
+    
+    /**
+    * Find a member
+    */
+    function find_username(url) {
+      popup(url, 760, 570, '_usersearch');
+      return false;
+    }
+    
+    /**
+    * New function for handling multiple calls to window.onload and window.unload by pentapenguin
+    */
+    window.onload = function() {
+      for (var i = 0; i < onload_functions.length; i++) {
+        eval(onload_functions[i]);
+      }
+    }
+    
+    window.onunload = function() {
+      for (var i = 0; i < onunload_functions.length; i++) {
+        eval(onunload_functions[i]);
+      }
+    }    
+  // ]]>
+  </script>
+
+  <!--[if !IE 6]><!--><link rel="stylesheet" type="text/css" media="screen,projection,tv" href="{T_STYLESHEET_LINK}"><!--<![endif]-->
+  <!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="all" href="{T_THEME_PATH}/ie7.css"><![endif]-->
+  <!--[if lte IE 6]><link rel="stylesheet" type="text/css" media="all" href="{T_THEME_PATH}/ie6.css"><![endif]-->
+  <link rel="stylesheet" type="text/css" media="print" href="{T_THEME_PATH}/print.css">
+  <link rel="shortcut icon" href="{T_THEME_PATH}/favicon.ico">
+
+</head>
+
+<body id="forums" class="section-community section-{SCRIPT_NAME} {S_CONTENT_DIRECTION}" role="document">
+<!--[if lte IE 8]>
+<noscript><div class="global-notice">
+<p><strong>Warning:</strong> The Mozilla Developer Network website employs emerging web standards that may not be fully supported in some versions of MicroSoft Internet Explorer. You can improve your experience of this website by enabling JavaScript.</p>
+</div></noscript>
+<![endif]-->
+<header id="masthead">
+  <div class="wrap">
+    <ul id="nav-access">
+      <li><a href="#q">Skip to MDN search</a></li>
+      <li><a href="#keywords">Skip to forum search</a></li>
+      <li><a href="#content">Skip to main content</a></li>
+    </ul>
+
+    <div id="branding">
+      <h1 id="logo"><a href="/"><img src="{T_THEME_PATH}/images/mdn-logo-sm.png" alt="" title="" width="62" height="71"> Mozilla Developer Network</a></h1>
+    </div>
+    
+    <a id="moz-tab" href="http://mozilla.org">Mozilla</a>
+
+    <nav id="nav" role="menubar">
+      <ul id="nav-main">
+        <li id="nav-main-topics" class="menu"><a href="#nav-sub-topics" aria-haspopup="true" class="toggle" title="Explore other parts of MDN">Topics</a>
+          <ul id="nav-sub-topics" class="sub-menu" aria-hidden="true">
+            <li id="nav-sub-web"><a href="/web">Web</a></li>
+            <li id="nav-sub-apps"><a href="/apps">Apps</a></li>
+            <li id="nav-sub-mobile"><a href="/mobile">Mobile</a></li>
+            <li id="nav-sub-addons"><a href="/addons">Add-ons</a></li>
+            <li id="nav-sub-mozilla"><a href="/mozilla">Mozilla</a></li>
+          </ul>
+        </li>
+        <li id="nav-main-docs" class="menu"><a href="/docs" class="docs toggle" aria-haspopup="true" aria-labelledby="nav-main-docs">Docs</a>
+          <div id="nav-sub-docs" class="sub-menu" aria-hidden="true">
+            <ul>
+              <li>
+                <ul>
+                  <li><a href="/en/HTML">HTML</a></li>
+                  <li><a href="/en/DOM">DOM</a></li>
+                  <li><a href="/en/Using_audio_and_video_in_Firefox">Video</a></li>
+                  <li><a href="/en/Using_audio_and_video_in_Firefox">Audio</a></li>
+                  <li><a href="/en/SVG">SVG</a></li>
+                  <li><a href="/en/WebGL">WebGL</a></li>
+                </ul>
+              </li>
+              <li>
+                <ul>
+                  <li><a href="/en/HTML/HTML5">HTML5</a></li>
+                  <li><a href="/en/WebSockets">WebSockets</a></li>
+                  <li><a href="/en/Offline_resources_in_Firefox">Offline Cache</a></li>
+                  <li><a href="/en/DOM/Storage">Local Storage</a></li>
+                  <li><a href="/en/IndexedDB">IndexedDB</a></li>
+                  <li><a href="/en/Using_files_from_web_applications">File API</a></li>
+                </ul>
+              </li>
+              <li>
+                <ul>
+                  <li><a href="/en/CSS">CSS</a></li>
+                  <li><a href="/en/Using_gradients">Gradients</a></li>
+                  <li><a href="/en/CSS/Using_CSS_transforms">Transforms</a></li>
+                  <li><a href="/en/CSS/CSS_transitions">Transitions</a></li>
+                  <li><a href="/en/CSS/CSS_animations">Animations</a></li>
+                  <li><a href="/en/CSS/Media_queries">Media Queries</a></li>
+                </ul>
+              </li>
+              <li>
+                <ul>
+                  <li><a href="/en/JavaScript">JavaScript</a></li>
+                  <li><a href="/en/Ajax">Ajax</a></li>
+                  <li><a href="/en/HTML/Canvas">Canvas</a></li>
+                  <li><a href="/en/Using_geolocation">Geolocation</a></li>
+                  <li><a href="/en/DragDrop/Drag_and_Drop">Drag &amp; Drop</a></li>
+                  <li><a href="/en/Using_web_workers">Web Workers</a></li>
+                </ul>
+              </li>
+            </ul>
+            <p><a href="/docs">More docs&hellip;</a></p>
+          </div>
+        </li>
+        <li id="nav-main-demos" role="menuitem"><a href="/demos" class="demos">Demos</a></li>
+        <li id="nav-main-learning" role="menuitem"><a href="/learn" class="learning">Learning</a></li>
+        <li id="nav-main-community" class="menu"><a href="#nav-sub-community" class="community toggle" aria-haspopup="true" aria-labelledby="nav-main-community">Community</a>
+          <ul id="nav-sub-community" class="sub-menu" aria-hidden="true">
+            <li><a href="/events">Events</a></li>
+            <li><a href="/discussion">Discussions</a></li>
+            <li><a href="/promote">Promote</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  
+    <form id="site-search" method="get" action="http://www.google.com/search" data-url="/search">
+      <p>
+        <input type="text" role="search" placeholder="Search MDN" id="q" name="q">
+        <noscript><button type="submit">Search</button></noscript>
+      </p>
+      <input type="hidden" name="sitesearch" value="developer.mozilla.org">
+      <div id="site-search-gg"></div>
+    </form>
+
+  </div>
+</header>
+
+<section id="content">
+<div class="wrap">
+  <div id="content-main">  
+<!-- IF not S_IS_BOT and S_USER_LOGGED_IN -->
+  <ul id="user-util">
+    <!-- IF U_MCP --><li><a href="{U_MCP}">{L_MCP}</a></li><!-- ENDIF -->
+    <!-- IF U_ACP --><li><a href="{U_ACP}">{L_ACP}</a></li><!-- ENDIF -->
+    <li><a href="{U_PROFILE}" title="{L_PROFILE}" accesskey="e">{L_PROFILE}</a></li>
+    <!-- IF S_DISPLAY_PM --><li><a href="{U_PRIVATEMSGS}">{PRIVATE_MESSAGE_INFO}</a></li><!-- ENDIF -->
+    <!-- IF S_DISPLAY_SEARCH --><li><a href="{U_SEARCH_SELF}">{L_SEARCH_SELF}</a></li><!-- ENDIF -->
+    <!-- IF U_RESTORE_PERMISSIONS --><li><a href="{U_RESTORE_PERMISSIONS}">{L_RESTORE_PERMISSIONS}</a></li><!-- ENDIF -->
+  </ul>
+  <!-- IF S_BOARD_DISABLED -->
+  <div class="notice">
+	  <p><strong>{L_INFORMATION}:</strong> {L_BOARD_DISABLED}</p>
+	</div>
+  <!-- ENDIF -->
+<!-- ENDIF -->			

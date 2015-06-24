@@ -1,0 +1,718 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2015-05-03 18:42+0000\n"
+"Last-Translator: Artem <a.polivanchuk@outlook.com>\n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1430678550.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: Завершити вхід"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: Завершити відновлення паролю"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Кращий спосіб реєстрації"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Браузер не підтримується"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "Браузер без Watch не підтримується"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Куки вимкнені"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Про"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Умови надання послуг"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Політика приватності"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Завершити реєстрацію"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "Найпростіший спосіб входу."
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona замінює численні паролі"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Сайти на зразок <a %(webmakerLink)s>%(webmakerName)s</a>, <a %"
+"(openphotoLink)s>%(openphotoName)s</a> та <a %(voostLink)s>%(voostName)s</a> "
+"використовують Persona замість логінів для вашого входу."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"Це означає, що вам потрібен тільки один пароль для входу на багатьох сайтах."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "Один пароль для керування всім."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Використовуйте декілька адрес електронної пошти"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Persona гнучка"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"У Persona ви ідентифікуєтесь за поштовою адресою. Ви можете використовувати "
+"стільки поштових адрес, скільки побажаєте, але вам все одно потрібен тільки "
+"один пароль."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Справжня приватність."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Persona є некомерційною"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Persona створена Mozilla, некомерційною компанією, якій довіряють "
+"користувачі Інтернет у всьому світі. Нашою метою є створення технологій, які "
+"поєднують відкритість веб-платформи та приватність користувачів."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona оберігає вашу приватність"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona не стежить за вашою активністю в Інтернеті. Вона ставить стіну між "
+"вашою авторизацією та тим, що ви робите на сайтах. Історія відвіданих вами "
+"сайтів зберігається лише на вашому комп’ютері."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona для розробників"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Реалізуйте Persona на своєму сайті"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Інструкції для розробників та документація з API"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Завершити вхід до:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Останній крок!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "Адреса ел. пошти"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Ваша адреса ел. пошти"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Пароль"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Ваш пароль"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "Необхідно ввести пароль"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "Неправильний пароль"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "завершити"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona потребує куки щоб пам'ятати вас."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Будь ласка, закрийте це вікно, <a %s>увімкніть куки</a> та спробуйте знову"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "Увійти до %s через&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s більше не дозволяє вам входити в Persona з паролем %(idp)s. Для "
+"входу з цією адресою електронної пошти ви повинні скористатись вашим наявним "
+"паролем Persona."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Пароль Persona"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "адреса електронної пошти"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "Повинна бути адреса електронної пошти"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "Необхідно ввести адресу електронної пошти"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "Забули свій пароль?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "Введіть пароль"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "пароль"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Початкове підтвердження надіслане &ndash; зачекайте кілька хвилин, перед "
+"запитом іншого"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Продовжуючи, ви погоджуєтесь із <a %(terms)s>Умовами</a> та <a % "
+"(privacy)s>Політикою приватності</a> %(site)s."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "далі"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "продовжити"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "скасувати"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "увійти"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "ОК"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "З'єднання з Persona..."
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona.</strong> Спрощений вхід від некомерційної "
+"організації, яка створила Firefox. <a %s>Докладніше&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"З'єднуйтесь за допомогою Mozilla Persona, найбезпечнішим та найлегшим "
+"методом реєстрації."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>Ознайомитись</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "прибрати"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "Вперше у Mozilla Persona? <a %(learnMoreLink)s>Дізнатись більше</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Менеджер облікового запису"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Ваші адреси електронної пошти"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "редагувати"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "готово"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Старий пароль"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Новий пароль"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "Потрібен старий пароль"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "Старий пароль неправильний"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "Потрібен новий пароль"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "Паролі повинні відрізнятись"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Довжина пароля повинна бути від 8 до 80 символів"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "Ви можете будь-коли <a %(cancelLink)s>видалити свій обліковий запис</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Домашня сторінка Persona"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Як це працює"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "Обліковий запис"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Увійти"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Вийти"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "Від <a %s>Identity Team</a> з <a %s>Mozilla</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Приватність &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "Умови &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "Розробники &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Потрібна допомога? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "Вибачте, але для роботи Persona потрібно активувати Javascript."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Скинути пароль"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Створіть новий пароль для використання з %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Підтвердіть пароль"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "Потрібне підтвердження паролю"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "Паролі відрізняються!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">Вашу адресу</strong> було підтверджено!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"Ваша нова адреса встановлена і готова до роботи. Вас буде перенаправлено на "
+"%s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Перенаправлення через %s секунд"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Вибачте, але зараз ваш браузер не підтримується."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Логотип Firefox"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona працює з <a %(getFirefoxLink)s>Firefox</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "та іншими <a %(otherBrowserLink)s>сучасними браузерами.</a>"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr "На жаль, ваш браузер не підтримує вхід на цей веб-сайт."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"Власник цього веб-сайту повинен його оновити, щоб використовувати функцію <a "
+"%s>navigator.id.watch()</a> Persona."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona.</strong></a> Спрощений вхід від некомерційної "
+"організації, яка створила Firefox."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Перейдіть за цим посиланням, щоб підтвердити доступ до %(site)s:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr "Якщо ви не намагались здійснити вхід, ігноруйте цей лист."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr "Спрощений вхід від некомерційної організації, яка створила Firefox"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "Дізнатись більше на https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "Підтвердити вашу адресу зараз"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "Підтвердити ваш обліковий запис зараз"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "Забули свій пароль для Persona? З ким не буває."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Клацніть щоб скинути свій пароль:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr "Якщо ви не намагались відновити свій пароль, ігноруйте цей лист."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "Відновити ваш пароль зараз"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"Схоже, що у вашого провайдера електронної пошти виникли труднощі з "
+"підтримкою Persona."
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "Примітка: Якщо ви НЕ намагаєтесь скинути свій пароль, просто ігноруйте "
+#~ "цей лист."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Легкий вхід"
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s використовує Persona замість логінів для авторизації."
+
+#, fuzzy
+#~ msgid "Enter your email address"
+#~ msgstr "Підтвердіть вашу поштову адресу"
+
+#, fuzzy
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Скинути пароль Persona"
+
+#~ msgid "enter email address"
+#~ msgstr "введіть email адресу"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Дякуємо, що скористались Persona"
+
+#~ msgid "Thank you,"
+#~ msgstr "Дякуємо,"
+
+#~ msgid "The Persona team"
+#~ msgstr "Команда Persona"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Клацніть тут щоб скинути ваш пароль"
+
+#, fuzzy
+#~ msgid "Click to set your new password:"
+#~ msgstr "Клацніть щоб скинути ваш пароль:"
+
+#, fuzzy
+#~ msgid "The Persona Team"
+#~ msgstr "Команда Persona"
+
+#, fuzzy
+#~ msgid "Click here to set your new password."
+#~ msgstr "Клацніть тут щоб скинути ваш пароль"
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr "Акаунт не може бути підтверджений цим ім’ям користувача та паролем."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Ми щойно відправили листа на цю поштову адресу! Якщо ви хочете надіслати "
+#~ "ще одного, зачекайте хвилину чи дві та спробуйте ще раз."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Ця ел.адреса та пароль не збігаються."
+
+#~ msgid "The password field is required."
+#~ msgstr "Необхідно заповнити поле пароль"
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "Неправильній старий пароль, пароль не оновлено."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "Старий та новий паролі — однакові."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Щоб увійти за допомогою Persona, будь ласка, введіть свою електронну "
+#~ "адресу."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "Перевіряємо у вашого провайдера пошти."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "Вхід завершено"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Забули пароль"
+
+#~ msgid "Email Verification"
+#~ msgstr "Підтвердження email"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "Перевірте свою пошту на <strong %(checkId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr ""
+#~ "Перейдіть за посиланням у листі-підтвердженні. Тоді ваш пароль буде "
+#~ "змінено."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Такого користувача не існує!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "Неможливо змінити пароль цієї адреси."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Пам'ятаєте свій пароль? Авторизуйтесь."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr "Це вікно закриється та створення аккаунту продовжиться."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "Перевірте свою електронну пошту на <strong %(emailId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Перейдіть за посиланням у листі-підтвердженні. Ви негайно будете "
+#~ "авторизовані у Persona"
+
+#~ msgid "forgot your password?"
+#~ msgstr "забули свій пароль?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr ""
+#~ "Ваша поштова адреса нова для нас. Будь ласка, створіть пароль, щоб "
+#~ "вкористуватися Persona"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Продовжуючи, ви погоджуєтесь із <a "
+#~ "%(termsLink)s>Умовами</a> та <a %(privacyLink)s>Політикою "
+#~ "приватності</a> %(persona)s."
+
+#~ msgid "Next"
+#~ msgstr "Далі"
+
+#~ msgid "Verify Email"
+#~ msgstr "Підтвердити email"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "Щоб перевірити чи дійсно це ваша адреса (<strong %(emailId)s>this "
+#~ "address</strong>), вам потрібно увійти прямо зараз. Відкриється нове "
+#~ "вікно."
+
+#~ msgid "Verify"
+#~ msgstr "Перевірити"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Дякуємо, що зареєструвались у <strong>Persona</strong>. Тепер ви можете "
+#~ "використовувати ваш профіль <strong>Persona</strong> щоб <em>Входити</em> "
+#~ "чи <em>Реєструватись</em> на сайтах по всій мережі!"

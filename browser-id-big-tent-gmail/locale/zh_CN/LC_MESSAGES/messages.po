@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-24 09:50+0200\n"
+"PO-Revision-Date: 2013-06-07 04:39+0200\n"
+"Last-Translator: Shaohua <shaohua.wen@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/lib/email.js:40
+msgid "Confirm email address for Persona"
+msgstr "确认 Persona 电子邮件地址"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/authentication.ejs:5 /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/authentication.ejs:24
+msgid "Loading"
+msgstr "载入中"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:1
+msgid "Thank you for using Persona."
+msgstr "感谢您使用 Persona。"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:3
+msgid ""
+"Use the PIN code below to confirm this email address is linked to your Yahoo "
+"account."
+msgstr "使用下方的 PIN 码已确认您的电子邮件地址链接至您的 Yahoo 帐号。"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:6
+msgid ""
+"Note: If you are NOT trying to sign into a website with Persona, please "
+"ignore this email."
+msgstr "请注意：如果您没有要使用 Persona 登录网站，请忽略此邮件。"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:8
+msgid "Thank you,"
+msgstr "感谢您，"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/email_templates/pin_verification.ejs:9
+msgid "The Persona team"
+msgstr "Persona 团队"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:5
+msgid "System Error, please try again later"
+msgstr "系统错误，请稍后重试"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:27
+msgid "Sorry, we are unable to log you in as %s"
+msgstr "对不起，我们无法将您登录为 %s"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:28
+msgid "Something went wrong, please try again later"
+msgstr "出错了，请稍后重试"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/error.ejs:29
+msgid "Try Again"
+msgstr "重试"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:5 /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:27
+msgid "Accounts don't match"
+msgstr "帐号不符合"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:35
+msgid "Go back"
+msgstr "返回"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:36
+msgid "Continue"
+msgstr "继续"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:41
+msgid "Confirm your email address"
+msgstr "请确认您的电子邮件地址"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:43
+msgid "Check your email at %(claimed)s."
+msgstr "检查您的 %(claimed)s 电子邮件地址。"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:47
+msgid "Please enter PIN from email:"
+msgstr "请输入邮件中的 PIN 码："
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:48
+msgid "Sorry, PIN doesn't match"
+msgstr "对不起， PIN 码不正确"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-bigtent/server/views/id_mismatch.ejs:52
+msgid "Sign in"
+msgstr "登录"
+
+#~ msgid "Authentication Error"
+#~ msgstr "验证错误"
+
+#~ msgid ""
+#~ "Sorry, it looks like you were trying to log in as %s, but were logged in "
+#~ "to %s as a different address."
+#~ msgstr "对不起，看来您想登录为 %，但登录成不同的 %s 地址。"
+
+#~ msgid "Please visit %s and ensure that you are logged in as %s."
+#~ msgstr "请前往 %s 确认您已登录为 %s。"

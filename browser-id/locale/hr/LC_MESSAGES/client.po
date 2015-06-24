@@ -1,0 +1,755 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-12-05 17:19+0000\n"
+"Last-Translator: Sasa <sasa@tekovic.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1386263958.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"Pojavio se problem s Vašim linkom za prijavu. Je li ova adresa već "
+"registrirana?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Naišla je pogreška prilikom pokušavanja dovršetka registracije."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Persona zahtijeva da kolačići budu uključeni kako bi ostali zapamćeni."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Molimo zatvorite ovaj prozor, <a %s>dozvolite kolačiće</a> i pokušajte "
+"ponovno"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Greška pri komunikaciji"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Završavanje prijave..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Za samo trenutak bit ćete prijavljeni na Personu."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Žao nam je, ovo traje dulje nego što bi trebalo."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Ako se ovo samo ne riješi u roku od nekoliko sekundi, molimo Vas zatvorite "
+"prozor i pokušajte ponovno."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Provjera s Vašim pružateljem email usluga."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Odabrani email nije valjan ili je izbrisan."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Uklonite %(email)s s Vašeg korisničkog računa?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Uklanjanje posljednje adrese će poništiti Vaš Persona korisnički račun.\n"
+"Jeste li sigurni da želite nastaviti?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Jeste li sigurni da želite obrisati Vaš Persona korisnički račun?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+#, fuzzy
+msgid "Add an email address"
+msgstr "Dodaj drugu email adresu"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "email adresa"
+
+#: resources/static/dialog/views/add_email.ejs:15
+#, fuzzy
+msgid "Must be an email address"
+msgstr "Dodaj drugu email adresu"
+
+#: resources/static/dialog/views/add_email.ejs:19
+#, fuzzy
+msgid "Email field required"
+msgstr "Email polje je obavezno."
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "dodaj"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "odustani"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Nije moguće potvrditi %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s je potrebna adresa, ali ne možemo potvrditi posjedujete li ovu adresu."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+#, fuzzy
+msgid "%(email)s verified!"
+msgstr "Adresa potvrđena!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr ""
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+#, fuzzy
+msgid "Check your email"
+msgstr "Provjeri svoj email na %s."
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+#, fuzzy, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Kliknite na link u emailu potvrde. Tada ćete odmah biti prijavljeni na %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr ""
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Jako nam je žao."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Poslužitelj je pod velikim opterećenjem!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Molimo učitajte stranicu iznova i pokušajte ponovno."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Molimo zatvorite ovaj prozor i pokušajte ponovno."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Vidi više informacija"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr ""
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr ""
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* nije važeća email adresa!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"Da biste nastavili, molimo Vas da zatvorite prozor i unesete ispravnu "
+"adresu."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Sjećam li te se?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Koliko dugo želite ostati prijavljeni s Personom?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Jedan mjesec"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Vjerujem ovom računalu."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Samo ova sesija"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Ovo nije moje računalo."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Napomena: Možete se naravno odjaviti s Persone u bilo kojem trenutku."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Prijavite se s Personom"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Prijavite se na %s kao &hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+#, fuzzy
+msgid "Select an email address"
+msgstr "Dodaj drugu email adresu"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Dodaj drugu email adresu"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Ovo nisam ja"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Nastavkom, slažete se s %(site)s <a %(terms)s>Uvjetima korištenja</a> i <a %"
+"(privacy)s>Zaštitom privatnosti</a>."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "prijava"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"%(primary)s ne odgovara. Molimo pričekajte nekoliko minuta i pokušajte "
+"ponovno."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Odustani"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+#, fuzzy
+msgid "Cannot verify %(email)s"
+msgstr "Nije moguće potvrditi %s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+#, fuzzy
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Nastavkom, slažete se s %(site)s <a %(terms)s>Uvjetima korištenja</a> i <a %"
+"(privacy)s>Zaštitom privatnosti</a>."
+
+#: resources/static/dialog/views/set_password.ejs:7
+#, fuzzy
+msgid "Create a Password"
+msgstr "stvori lozinku"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s više ne dopušta da se prijavite u Personu sa %(idp)s lozinkom. "
+"Molimo kreirajte novu lozinku za korištenje s Vašim Persona korisničkim "
+"računom."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+#, fuzzy
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Vaša email adresa je nova za nas. Molimo stvorite lozinku za korištenje s "
+"Personom."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Vaša email adresa je nova za nas. Molimo stvorite lozinku za korištenje s "
+"Personom."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "stvori lozinku"
+
+#: resources/static/dialog/views/set_password.ejs:28
+#, fuzzy
+msgid "Password field required"
+msgstr "Lozinka je potrebna."
+
+#: resources/static/dialog/views/set_password.ejs:32
+#, fuzzy
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Lozinka mora biti između 8 i 80 znakova."
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Potvrdi lozinku"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "potvrdi lozinku"
+
+#: resources/static/dialog/views/set_password.ejs:44
+#, fuzzy
+msgid "Verification password required"
+msgstr "Potrebna je provjera lozinke."
+
+#: resources/static/dialog/views/set_password.ejs:52
+#, fuzzy
+msgid "Passwords don&rsquo;t match!"
+msgstr "Ove lozinke se ne podudaraju!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "gotovo"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr ""
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+#, fuzzy
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"Nakon što tamo potvrdite Vaš korisnički ​​račun, bit ćete prijavljeni na %"
+"(aWebsite)s."
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "potvrdi"
+
+#, fuzzy
+#~ msgid "signing in"
+#~ msgstr "prijava"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Potvrdi svoju email adresu"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Prijavi se kao..."
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Vaš identitet je potvrđen s email dobavljačem. Sada ćemo Vas pokušati "
+#~ "prijaviti."
+
+#~ msgid "Sign in using"
+#~ msgstr "Prijavi se koristeći"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Stranica zahtjeva da se prijavite koristeći"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Kako biste potvrdili vlasništvo ove adrese, morate se prijaviti sa Vašim "
+#~ "email dobavljačem. Ovaj prozor će biti preusmjeren na"
+
+#, fuzzy
+#~ msgid "Enter password"
+#~ msgstr "stvori lozinku"
+
+#~ msgid "forgot your password?"
+#~ msgstr "zaboravili ste lozinku?"
+
+#~ msgid "Password"
+#~ msgstr "Lozinka"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "Lozinka je potrebna."
+
+#~ msgid "verify email"
+#~ msgstr "potvrdite email"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s čini ovo jednostavnim"
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s."
+#~ msgstr ""
+#~ "Vaš %(emailProvider)s korisnički račun je nadograđen da bolje radi s "
+#~ "Personom. Preusmjerit ćemo Vas na %(emailProvider)s."
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona Vam omogućuje korištenje %(emailProvider)s korisničkog računa za "
+#~ "prijavu na stranice poput %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "prijavi se s %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Koristi drugu email adresu"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "U ovo polje potrebno je unijeti email adresu."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Upravo smo poslali email na tu adresu! Ako zaista želite poslati još "
+#~ "jedan, pričekajte minutu ili dvije i pokušajte ponovno."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Ta adresa je već dodana vašem korisničkom računu!"
+
+#~ msgid "Please choose an email address."
+#~ msgstr "Molimo odaberite e-mail adresu."
+
+#~ msgid "The password field is required."
+#~ msgstr "Polje za lozinku je obavezno."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Ova email adresa i lozinka se ne podudaraju."
+
+#~ msgid ""
+#~ "Your %(emailProvider)s account has been upgraded to work even better with "
+#~ "Persona. We will redirect you to %(emailProvider)s. Once you verify your "
+#~ "account there, you will be signed into %(aWebsite)s."
+#~ msgstr ""
+#~ "Vaš %(emailProvider)s korisnički račun je nadograđen da bolje radi s "
+#~ "Personom. Preusmjerit ćemo Vas na %(emailProvider)s. Nakon što tamo "
+#~ "potvrdite svoj korisnički račun, bit ćete prijavljeni na %(aWebsite)s."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Dodaj drugu email adresu svojoj Persona lozinci."
+
+#~ msgid "There has been an error!"
+#~ msgstr "Došlo je do pogreške!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Ponovo postavite Vašu lozinku"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Stvorite novu lozinku za korištenje s %s."
+
+#~ msgid "reset password"
+#~ msgstr "restiraj lozinku"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Napomena: Ova lozinka će se koristiti sa svim Vašim Persona email "
+#~ "adresama."
+
+#~ msgid "Sign In"
+#~ msgstr "Prijavite se"
+
+#~ msgid "Sign Up"
+#~ msgstr "Registrirajte se"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Molimo pričekajte prijavu na stranicu nekoliko sekundi."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s koristi Personu umjesto korisničkih imena kako bi Vas prijavio."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Kako biste se prijavili s Personom, molimo unesite Vašu email adresu."
+
+#~ msgid "enter email address"
+#~ msgstr "unesi email adresu"
+
+#~ msgid "password"
+#~ msgstr "lozinka"
+
+#~ msgid "next"
+#~ msgstr "sljedeći"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Zaboravili ste lozinku?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Nastavkom, slažete se s %s\\'s <a %s>Uvjetima korištenja</a> i <a "
+#~ "%s>Zaštitom privatnosti</a>."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Ova poruka će nestati kada se zahtjev završi (nadamo se uskoro). Ako "
+#~ "čekate predugo, zatvorite ovaj prozor i pokušajte ponovno."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr "Unesite email adresu kako biste se prijavili na <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr "Molimo pričekajte da dobijemo informacije o Vašem email dobavljaču."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr "Nije moguće prijaviti se sa ovim korisničkim imenom i lozinkom."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Poslali smo mail za potvrdu na <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr "Ako postoji greška, zanemari poslan mail i <a %s>odustani</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Ako postoji greška, zanemari poslan mail i <a %s>koristi drugu email "
+#~ "adresu</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Je li ovo Vaše računalo?"
+
+#~ msgid "yes"
+#~ msgstr "da"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Ako je, zadržat ćemo Vas prijavljenim dva tjedna."
+
+#~ msgid "no"
+#~ msgstr "ne"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Ako ste na javnom računalu, u knjižnici ili internet caffe-u, izaberite "
+#~ "ovo.  Od Vas ćemo tražiti lozinku za sat vremena zbog veće sigurnosti."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Dobrodošli u Personu!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Zatim, odaberite novu lozinku koje ćete koristiti kada se prijavite "
+#~ "pomoću Persone."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Ponovi lozinku"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID zahtijeva kolačiće"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "Ova email adresa izgleda novo, tako da je prvo moramo postaviti."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Uvijek se prijavi koristeći ovaj email"
+
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "BrowserID zahtjeva da su Kolačići u vašem pregledniku uključeni kako bi "
+#~ "radio. Molimo uključite Kolačiće u vašem pregledniku i pokušajte ponovno"
+
+#~ msgid "You are offline!"
+#~ msgstr "Niste povezani na mrežu!"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr "Nažalost, BrowserID ne radi ako niste povezani na mrežu!"
+
+#~ msgid "select email"
+#~ msgstr "odaberite email"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr ""
+#~ "Žao nam je, ali ne možemo komunicirati s BrowserID-om ako niste spojeni "
+#~ "na mrežu."
+
+#~ msgid "Authenticating User"
+#~ msgstr "Provjera Korisnika"
+
+#~ msgid "Adding Address"
+#~ msgstr "Dodavanje adrese"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "Dodavanje primarne email adrese Korisniku"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "Provjera informacija adrese"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "Provjera autentičnosti s tvrdnjom"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "Otkazivanje korisničkog računa"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "Provjera autentičnosti"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "Provjera inačice skripte"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "Završavanje registracije Korisnika"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "Provjera jesu li Kolačići uključeni"
+
+#~ msgid "Creating Account"
+#~ msgstr "Stvaranje korisničkog računa"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "Dobivanje tvrdnje"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "Provjera registracijske oznake"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "Provjera email adrese"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "Provjera autentifikacije Korisnika s Dobavljačem Identiteta"
+
+#~ msgid "Logout Failed"
+#~ msgstr "Odjava nije uspjela"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "Autentifikacija s Dobavljačem Identiteta"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr ""
+#~ "Komunikacija s Vašim pružateljem email usluga nije uspjela. Pokušajte "
+#~ "ponovo!"
+
+#~ msgid "Provisioning with Identity Provider"
+#~ msgstr "Omogućavanje uporabe Dobavljača Identiteta"
+
+#~ msgid "Provisioning Unsupported Identity Provider"
+#~ msgstr "Omogućavanje uporabe nepodržanog Dobavljača Identiteta"
+
+#~ msgid ""
+#~ "Unfortunately, the email address provided cannot act as a Primary "
+#~ "Identity Provider"
+#~ msgstr ""
+#~ "Nažalost, email adresa koju ste dali ne može poslužiti kao glavni "
+#~ "Dobavljač Identiteta"
+
+#~ msgid "Registration Failed"
+#~ msgstr "Registracija nije uspjela"
+
+#~ msgid "Establishing Relay"
+#~ msgstr "Uspostavljanje posrednika"
+
+#~ msgid "Relay frame could not be found"
+#~ msgstr "Blok za posredovanje nije moguće pronaći"
+
+#~ msgid "Signin Failed"
+#~ msgstr "Prijava nije uspjela"
+
+#~ msgid "Signup Failed"
+#~ msgstr "Registracija nije uspjela"
+
+#~ msgid "Syncing Address"
+#~ msgstr "Sinkronizacija adrese"
+
+#~ msgid "Syncing Email Addresses"
+#~ msgstr "Sinkronizacija email adresa"
+
+#~ msgid "Sync Keys for Address"
+#~ msgstr "Uskladi ključeve za adrese"
+
+#~ msgid "Getting Token Info"
+#~ msgstr "Dobivanje informacija o oznakama"
+
+#~ msgid "Updating password"
+#~ msgstr "Ažuriranje lozinke"

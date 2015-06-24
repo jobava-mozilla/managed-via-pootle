@@ -1,0 +1,712 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2015-04-30 07:15+0000\n"
+"Last-Translator: asteko <aserkant@yahoo.com>\n"
+"Language-Team: none\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1430378111.0\n"
+
+#~ msgid "An error occured."
+#~ msgstr "Bir hata oluştu."
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Önizleme oluşturulurken bir hata oluştu."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Oyunuz gönderilirken bir hata oluştu."
+
+#~ msgid "You replied"
+#~ msgstr "Yanıtladınız"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Siz ve 1 kişi daha yanıtladınız"
+
+#~ msgid "Account is now being ignored!"
+#~ msgstr "Hesap artık yok sayılıyor!"
+
+#~ msgid "This account is already being ignored!"
+#~ msgstr "Bu hesap zaten yok sayılıyor!"
+
+#~ msgid "1 user unbanned successfully!"
+#~ msgid_plural "%s users unbanned sucessfully!"
+#~ msgstr[0] "%s kullanıcının engeli başarıyla kaldırıldı!"
+
+#~ msgid "1 user removed from list!"
+#~ msgid_plural "%s users removed from list!"
+#~ msgstr[0] "%s kullanıcı listeden çıkartıldı!"
+
+#~ msgid "No users selected!"
+#~ msgstr "Hiçbir kullanıcı seçilmedi!"
+
+#~ msgid "%(num)s <small>of %(total)s</small>"
+#~ msgstr "%(num)s <small>/ %(total)s</small>"
+
+#~ msgid "No differences found"
+#~ msgstr "Hiç fark bulunamadı"
+
+#~ msgid "Cancel"
+#~ msgstr "Vazgeç"
+
+#~ msgid "You are not watching this thread"
+#~ msgstr "Bu konuyu izlemiyorsunuz"
+
+#~ msgid "You are watching this thread"
+#~ msgstr "Bu konuyu izliyorsunuz"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Resim Eki"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "Dosya yüklenemedi. Lütfen daha sonra tekrar deneyin."
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Geçersiz resim. Lütfen geçerli bir resim dosyası seçin."
+
+#, fuzzy
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Geçersiz resim. Lütfen geçerli bir resim dosyası seçin."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Yükleme iptal edildi. Lütfen bir resim dosyası seçin."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Dosya silindi. Lütfen bir resim dosyası seçin."
+
+#~ msgid "Delete this image"
+#~ msgstr "Bu resmi sil"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "\"%s\" yükleniyor..."
+
+#~ msgid "Loading..."
+#~ msgstr "Yükleniyor..."
+
+#~ msgid "No votes data"
+#~ msgstr "Oy verisi yok"
+
+#~ msgid "Error loading graph"
+#~ msgstr "Grafik yüklenirken hata oluştu"
+
+#~ msgid "Votes"
+#~ msgstr "Oylar"
+
+#~ msgid "Percent"
+#~ msgstr "Yüzde"
+
+#~ msgid "Yes"
+#~ msgstr "Evet"
+
+#~ msgid "No"
+#~ msgstr "Hayır"
+
+#~ msgid "Questions"
+#~ msgstr "Sorular"
+
+#~ msgid "Solved"
+#~ msgstr "Çözülen"
+
+#~ msgid "% Solved"
+#~ msgstr "Çözülen %"
+
+#~ msgid "Responded in 24 hours"
+#~ msgstr "24 saat içinde yanıtlanan"
+
+#~ msgid "% Responded in 24 hours"
+#~ msgstr "24 saat içinde yanıtlanan %"
+
+#~ msgid "Responded in 72 hours"
+#~ msgstr "72 saat içinde yanıtlanan"
+
+#~ msgid "% Responded in 72 hours"
+#~ msgstr "72 saat içinde yanıtlanan %"
+
+#~ msgid "Not responded in 24 hours"
+#~ msgstr "24 saat içinde yanıtlanmayan"
+
+#~ msgid "Not responded in 72 hours"
+#~ msgstr "72 saat içinde yanıtlanmayan"
+
+#~ msgid "Article Votes: % Helpful"
+#~ msgstr "Makale Oyları: % Yararlı"
+
+#~ msgid "Answer Votes: % Helpful"
+#~ msgstr "Cevap Oyları: % Yararlı"
+
+#~ msgid "en-US KB"
+#~ msgstr "en-US BB"
+
+#~ msgid "non en-US KB"
+#~ msgstr "en-US dışı BB"
+
+#~ msgid "Support Forum"
+#~ msgstr "Destek Forumu"
+
+#~ msgid "Army of Awesome"
+#~ msgstr "Şahaneler Ordusu"
+
+#~ msgid "Click Through Rate %"
+#~ msgstr "Tıklama Oranı %"
+
+#~ msgid "Visitors"
+#~ msgstr "Ziyaretçiler"
+
+#~ msgid "L10n Coverage"
+#~ msgstr "Yerelleştirme Kapsamı"
+
+#~ msgid "Percent Yes"
+#~ msgstr "Evet Yüzdesi"
+
+#~ msgid "I don't know"
+#~ msgstr "Bilmiyorum"
+
+#~ msgid "Bold"
+#~ msgstr "Kalın"
+
+#~ msgid "bold text"
+#~ msgstr "kalın metin"
+
+#~ msgid "Italic"
+#~ msgstr "İtalik"
+
+#~ msgid "italic text"
+#~ msgstr "italik metin"
+
+#~ msgid "Numbered List"
+#~ msgstr "Sıralı Liste"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Sıralı liste öğesi"
+
+#~ msgid "Bulleted List"
+#~ msgstr "Madde İmli Liste"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "Madde imli liste öğesi"
+
+#~ msgid "Heading 1"
+#~ msgstr "Başlık 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "Başlık 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "Başlık 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Bağlantı ekle..."
+
+#~ msgid "link text"
+#~ msgstr "bağlantı metni"
+
+#~ msgid "Link text:"
+#~ msgstr "Bağlantı metni:"
+
+#~ msgid "Link target:"
+#~ msgstr "Bağlantı hedefi:"
+
+#~ msgid "Support article:"
+#~ msgstr "Destek makalesi:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Makalenin adını girin"
+
+#~ msgid "External link:"
+#~ msgstr "Dış bağlantı:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Dış bağlantının adresini girin"
+
+#~ msgid "No sections found"
+#~ msgstr "Hiçbir bölüm bulunamadı"
+
+#~ msgid "Insert Link"
+#~ msgstr "Bağlantı Ekle"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Bilgi Bankası Makalesi"
+
+#~ msgid "Insert media..."
+#~ msgstr "Ortam ekle..."
+
+#~ msgid "media"
+#~ msgstr "ortam"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Galeride Ara"
+
+#~ msgid "Show:"
+#~ msgstr "Göster:"
+
+#~ msgid "Images"
+#~ msgstr "Resimler"
+
+#~ msgid "Videos"
+#~ msgstr "Videolar"
+
+#~ msgid "Show media for:"
+#~ msgstr "Ortamı göster:"
+
+#~ msgid "Insert Media"
+#~ msgstr "Ortam Ekle"
+
+#~ msgid "Upload Media"
+#~ msgstr "Ortam Yükle"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Lütfen eklenecek resim veya videoyu seçin."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Bir hata oluştu."
+
+#~ msgid "Common responses"
+#~ msgstr "Sık verilen yanıtlar"
+
+#~ msgid "cannedresponses"
+#~ msgstr "hazıryanıtlar"
+
+#~ msgid "Search for common responses"
+#~ msgstr "Sık verilen yanıtlarda ara"
+
+#~ msgid "Categories"
+#~ msgstr "Kategoriler"
+
+#~ msgid "Responses"
+#~ msgstr "Yanıtlar"
+
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "Lütfen önceki sütundan bir kategori seçin veya bir arama başlatın."
+
+#~ msgid "Response editor"
+#~ msgstr "Yanıt editörü"
+
+#~ msgid "Switch to preview mode"
+#~ msgstr "Ön izleme moduna geç"
+
+#~ msgid "Insert Response"
+#~ msgstr "Yanıt Ekle"
+
+#~ msgid "Matching responses"
+#~ msgstr "Eşleşen yanıtlar"
+
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "Hazır yanıtlar denetlenirken bir hata oluştu."
+
+#~ msgid "Response preview"
+#~ msgstr "Yanıt ön izlemesi"
+
+#~ msgid "Switch to edit mode"
+#~ msgstr "Düzenleme moduna geç"
+
+#~ msgid "Quote previous message..."
+#~ msgstr "Önceki mesajdan alıntı yap..."
+
+#~ msgid " said"
+#~ msgstr " dedi ki"
+
+#~ msgid "Reply..."
+#~ msgstr "Yanıtla..."
+
+#~ msgid "%s characters remaining"
+#~ msgstr "%s karakter aldı"
+
+#~ msgid "There was an error."
+#~ msgstr "Bir hata oluştu."
+
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Bir hata oluştu. Lütfen birazdan tekrar deneyin."
+
+#~ msgid "Daily"
+#~ msgstr "Günlük"
+
+#~ msgid "Weekly"
+#~ msgstr "Haftalık"
+
+#~ msgid "Monthly"
+#~ msgstr "Aylık"
+
+#~ msgid "Week beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "%(date)s.%(month)s.%(year)s ile başlayan hafta"
+
+#~ msgid "Month beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "%(date)s.%(month)s.%(year)s ile başlayan ay"
+
+#~ msgid "1m"
+#~ msgstr "1 ay"
+
+#~ msgid "3m"
+#~ msgstr "3 ay"
+
+#~ msgid "6m"
+#~ msgstr "6 ay"
+
+#~ msgid "YTD"
+#~ msgstr "Yıl başından"
+
+#~ msgid "1y"
+#~ msgstr "1 yıl"
+
+#~ msgid "All"
+#~ msgstr "Tümü"
+
+#~ msgid "From %(from_input)s to %(to_input)s"
+#~ msgstr "%(from_input)s - %(to_input)s arası"
+
+#~ msgid "Invalid tag entered: %s"
+#~ msgstr "Geçersiz etiket girildi: %s"
+
+#~ msgid "No tags entered."
+#~ msgstr "Etiket girilmedi."
+
+#~ msgid "No, ignore"
+#~ msgstr "Hayır, görmezden gel"
+
+#~ msgid "Did you mean %s?"
+#~ msgstr "Bunu mu demek istediniz?: %s"
+
+#~ msgid "Error uploading image"
+#~ msgstr "Resim yüklemede hata oluştu"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Resim silmede hata oluştu"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Lütfen oturum açtığınızdan emin olun ve tekrar deneyin."
+
+#~ msgid "Search for a user..."
+#~ msgstr "Kullanıcı ara..."
+
+#~ msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+#~ msgstr "UYARI! Bu kullanıcıyı devre dışı bırakmak istediğinize emin misiniz? Bu işlem geri alınamaz!"
+
+#~ msgid "All Articles: % Localized"
+#~ msgstr "Tüm makaleler: Çevrilen %"
+
+#~ msgid "Top 20 Articles: % Localized"
+#~ msgstr "En çok ziyaret edilen 20 makale: Çevrilen %"
+
+#, fuzzy
+#~ msgid "Top 100 Articles: % Localized"
+#~ msgstr "En çok ziyaret edilen 20 makale: Çevrilen %"
+
+#~ msgid "Active Contributors"
+#~ msgstr "Aktif Katkıda Bulunanlar"
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Bu başlığa sahip bir belge bu dilde zaten mevcut."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "Bu kısa isme sahip bir belge bu dilde zaten mevcut."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "Karşılaştırılacak revizyonları seçin"
+
+#~ msgid "Toggle syntax highlighting"
+#~ msgstr "Söz dizimi işaretlemeyi aç/kapat"
+
+#~ msgid "Toggle Diff"
+#~ msgstr "Diff'i Aç/Kapat"
+
+#~ msgid "Show for..."
+#~ msgstr "Göster..."
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "Yalnızca belli Firefox sürümlerine veya işletim sistemlerine yönelik içeriği göster."
+
+#~ msgid "Add Rule"
+#~ msgstr "Kural Ekle"
+
+#~ msgid "Installing..."
+#~ msgstr "Yükleniyor..."
+
+#~ msgid "Answers"
+#~ msgstr "Yanıtlar"
+
+#~ msgid "Unhelpful Answers"
+#~ msgstr "Yararı Olmayan Yanıtlar"
+
+#~ msgid "Solutions"
+#~ msgstr "Çözümler"
+
+#~ msgid "Helpful Answers"
+#~ msgstr "Yararlı Yanıtlar"
+
+#~ msgid "First Answers"
+#~ msgstr "İlk Yanıtlar"
+
+#~ msgid "Signing you in..."
+#~ msgstr "Oturum açılıyor..."
+
+#~ msgid "Mozilla Support"
+#~ msgstr "Mozilla Destek"
+
+#~ msgid "[missing header]"
+#~ msgstr "[başlık yok]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "İçindekiler"
+
+#~ msgid "Insert a canned response..."
+#~ msgstr "Hazır yanıt ekle..."
+
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "Geçersiz video. Lütfen geçerli bir FLV videosu seçin."
+
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "Yükleme iptal edildi. Lütfen bir FLV videosu seçin."
+
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "Dosya silindi. Lütfen bir FLV videosu seçin."
+
+#~ msgid "Delete FLV video"
+#~ msgstr "FLV videosunu sil"
+
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "Geçersiz video. Lütfen geçerli bir OGV videosu seçin."
+
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "Yükleme iptal edildi. Lütfen bir OGV videosu seçin."
+
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "Dosya silindi. Lütfen bir OGV videosu seçin."
+
+#~ msgid "Delete OGV video"
+#~ msgstr "OGV videosunu sil"
+
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "Geçersiz video. Lütfen geçerli bir WebM videosu seçin."
+
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "Yükleme iptal edildi. Lütfen bir WebM videosu seçin."
+
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "Dosya silindi. Lütfen bir WebM dosyası seçin."
+
+#~ msgid "Delete WebM video"
+#~ msgstr "WebM videosunu sil"
+
+#~ msgid "January"
+#~ msgstr "Ocak"
+
+#~ msgid "February"
+#~ msgstr "Şubat"
+
+#~ msgid "March"
+#~ msgstr "Mart"
+
+#~ msgid "April"
+#~ msgstr "Nisan"
+
+#~ msgid "May"
+#~ msgstr "Mayıs"
+
+#~ msgid "June"
+#~ msgstr "Haziran"
+
+#~ msgid "July"
+#~ msgstr "Temmuz"
+
+#~ msgid "August"
+#~ msgstr "Ağustos"
+
+#~ msgid "September"
+#~ msgstr "Eylül"
+
+#~ msgid "October"
+#~ msgstr "Ekim"
+
+#~ msgid "November"
+#~ msgstr "Kasım"
+
+#~ msgid "December"
+#~ msgstr "Aralık"
+
+#~ msgid "Sunday"
+#~ msgstr "Pazar"
+
+#~ msgid "Monday"
+#~ msgstr "Pazartesi"
+
+#~ msgid "Tuesday"
+#~ msgstr "Salı"
+
+#~ msgid "Wednesday"
+#~ msgstr "Çarşamba"
+
+#~ msgid "Thursday"
+#~ msgstr "Perşembe"
+
+#~ msgid "Friday"
+#~ msgstr "Cuma"
+
+#~ msgid "Saturday"
+#~ msgstr "Cumartesi"
+
+#~ msgid "Jan"
+#~ msgstr "Oca"
+
+#~ msgid "Feb"
+#~ msgstr "Şub"
+
+#~ msgid "Mar"
+#~ msgstr "Mar"
+
+#~ msgid "Apr"
+#~ msgstr "Nis"
+
+#~ msgid "Jun"
+#~ msgstr "Haz"
+
+#~ msgid "Jul"
+#~ msgstr "Tem"
+
+#~ msgid "Aug"
+#~ msgstr "Ağu"
+
+#~ msgid "Sep"
+#~ msgstr "Eyl"
+
+#~ msgid "Oct"
+#~ msgstr "Eki"
+
+#~ msgid "Nov"
+#~ msgstr "Kas"
+
+#~ msgid "Dec"
+#~ msgstr "Ara"
+
+#~ msgid "From"
+#~ msgstr "Başlangıç"
+
+#~ msgid "To"
+#~ msgstr "Bitiş"
+
+#~ msgid "Zoom"
+#~ msgstr "Yakınlaştır"
+
+#~ msgid "Reset zoom"
+#~ msgstr "Yakınlaştırmayı sıfırla"
+
+#~ msgid "Reset zoom level 1:1"
+#~ msgstr "Yakınlaştırmayı 1:1 olarak sıfırla"
+
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "Tablo yüklenirken hata oluştu. (Oturum açtınız mı?)"
+
+#~ msgid "Helpfulness Votes over 1 Month"
+#~ msgstr "Son 1 Ay İçindeki İşe Yararlık Oyları"
+
+#~ msgid "Current Percent of Helpfulness"
+#~ msgstr "İşe Yararlık Yüzdesi"
+
+#~ msgid "Percent Change in Helpfulness"
+#~ msgstr "İşe Yararlık Yüzdesi Değişikliği"
+
+#~ msgid "Documents"
+#~ msgstr "Belgeler"
+
+#~ msgid "%s Votes"
+#~ msgstr "%s Oy"
+
+#~ msgid "We're open!"
+#~ msgstr "Açığız!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Gönüllülerimiz yardıma hazır."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Çevrimiçi yardımseverler: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "Bekleyen kullanıcılar: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Tahminî bekleme: "
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Canlı Sohbet oturumunuzu başlatın."
+
+#~ msgid "The queue is full."
+#~ msgstr "Kuyruk dolu."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Gönüllülerimiz şu anda başka kullanıcılara yardım etmekle meşgul."
+
+#~ msgid "We're closed."
+#~ msgstr "Kapalıyız."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "Canlı Sohbet şu anda kapalı."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "Kuyruğun denetimi sırasında bir hata oluştu."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "Sohbet oturumu başlatmayı deneyebilirsiniz."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "2 dakikadan az."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "20 dakikadan fazla."
+
+#~ msgid "Daily Unique Visitors"
+#~ msgstr "Günlük Tekil Ziyaretçi"
+
+#~ msgid "Query took: "
+#~ msgstr "Sorgu süresi: "
+
+#~ msgid " seconds"
+#~ msgstr " saniye"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "İşe Yararlık Oyları"
+
+#~ msgid "Number of Votes"
+#~ msgstr "Oy Sayısı"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Bu mesajı rapor et"
+
+#~ msgid "Toggle L10n"
+#~ msgstr "Yerelleştirmeyi Aç/Kapat"
+
+#~ msgid "Search: "
+#~ msgstr "Ara: "
+
+#, fuzzy
+#~ msgid "Report this Article"
+#~ msgstr "Bu mesajı rapor et"
+
+#~ msgid "Article Link"
+#~ msgstr "Makale Bağlantısı"
+
+#~ msgid "External Link"
+#~ msgstr "Harici Bağlantı"
+
+#~ msgid "external link"
+#~ msgstr "harici bağlantı"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Geçersiz video. Lütfen geçerli bir video dosyası (%s) seçin."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Yükleme iptal edildi. Lütfen bir video dosyası (%s) seçin."
+
+#~ msgid "Delete %s file"
+#~ msgstr "%s dosyasını sil"
+
+#, fuzzy
+#~ msgid "There was an error :(."
+#~ msgstr "Bir hata oluştu :(."

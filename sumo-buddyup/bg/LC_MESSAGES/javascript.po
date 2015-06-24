@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2015-03-07 12:36+0000\n"
+"Last-Translator: Стоян <stoyan@gmx.com>\n"
+"Language-Team: none\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1425731808.0\n"
+
+#~ msgid "An error occured."
+#~ msgstr "Възникна грешка."
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Възникна грешка при генериране на прегледа."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Имаше проблем, при пускането на вашия глас."
+
+#~ msgid "You replied"
+#~ msgstr "Вече сте отговорили"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Отговорили сте вие и още 1"
+
+#~ msgid "No users selected!"
+#~ msgstr "Няма избран потребител!"
+
+#~ msgid "%(num)s <small>of %(total)s</small>"
+#~ msgstr "%(num)s <small>от %(total)s</small>"
+
+#~ msgid "No differences found"
+#~ msgstr "Няма разлики"
+
+#~ msgid "Cancel"
+#~ msgstr "Отмени"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Прикачено Изображение"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "Файлът не бе качен. Моля, опитайте отново."
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Невалидно изображение. Моля, изберете изображение."
+
+#, fuzzy
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Невалидно изображение. Моля, изберете изображение."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Качването е отменено. Моля, изберете файл с изображение."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Файлът е изтрит. Моля, изберете файл с изображение."
+
+#~ msgid "Delete this image"
+#~ msgstr "Изтриване на това изображение"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "Качване \"%s\"…"
+
+#~ msgid "Loading..."
+#~ msgstr "Зареждане…"
+
+#~ msgid "No votes data"
+#~ msgstr "Няма информация за гласове"
+
+#~ msgid "Error loading graph"
+#~ msgstr "Грешка при зареждане на диаграма"
+
+#~ msgid "Votes"
+#~ msgstr "Гласове"
+
+#~ msgid "Percent"
+#~ msgstr "Процент"
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "No"
+#~ msgstr "Не"
+
+#~ msgid "Questions"
+#~ msgstr "Въпроси"
+
+#~ msgid "Solved"
+#~ msgstr "Разрешени"
+
+#~ msgid "% Solved"
+#~ msgstr "% Разрешени"
+
+#~ msgid "Responded in 24 hours"
+#~ msgstr "Отговорено за 24 часа"
+
+#~ msgid "% Responded in 24 hours"
+#~ msgstr "% Отговорени за 24 часа"
+
+#~ msgid "Responded in 72 hours"
+#~ msgstr "Отговорено за 72 часа"
+
+#~ msgid "% Responded in 72 hours"
+#~ msgstr "% Отговорени за 72 часа"
+
+#~ msgid "Not responded in 24 hours"
+#~ msgstr "Неотговорено за 24 часа"
+
+#~ msgid "Not responded in 72 hours"
+#~ msgstr "Неотговорено за 72 часа"
+
+#~ msgid "en-US KB"
+#~ msgstr "en-US КБ"
+
+#~ msgid "non en-US KB"
+#~ msgstr "не-en-US KБ"
+
+#~ msgid "Support Forum"
+#~ msgstr "Помощен форум"
+
+#~ msgid "Visitors"
+#~ msgstr "Посетители"
+
+#~ msgid "Percent Yes"
+#~ msgstr "Процент „да“"
+
+#~ msgid "I don't know"
+#~ msgstr "Не зная"
+
+#~ msgid "Bold"
+#~ msgstr "Удебелен"
+
+#~ msgid "bold text"
+#~ msgstr "удебелен текст"
+
+#~ msgid "Italic"
+#~ msgstr "Курсив"
+
+#~ msgid "italic text"
+#~ msgstr "текст в курсив"
+
+#~ msgid "Numbered List"
+#~ msgstr "Номериран списък"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Елемент от номериран списък"
+
+#~ msgid "Bulleted List"
+#~ msgstr "Списък с водещи символи"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "Елемент от списък с водещи символи"
+
+#~ msgid "Heading 1"
+#~ msgstr "Заглавие 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "Заглавие 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "Заглавие 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Вмъкване на препратка..."
+
+#~ msgid "link text"
+#~ msgstr "текст на препратката"
+
+#~ msgid "Link text:"
+#~ msgstr "Текст на препратката:"
+
+#~ msgid "Link target:"
+#~ msgstr "Цел на препратката:"
+
+#~ msgid "Support article:"
+#~ msgstr "Помощна статия:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Въведете името на статията"
+
+#~ msgid "External link:"
+#~ msgstr "Външна препратка:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Въведете адреса на външната препратка"
+
+#~ msgid "Insert Link"
+#~ msgstr "Вмъкване препратка"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Статия от Базата Знания"
+
+#~ msgid "Insert media..."
+#~ msgstr "Вмъкване медия..."
+
+#~ msgid "media"
+#~ msgstr "медия"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Търсене в Галерията"
+
+#~ msgid "Show:"
+#~ msgstr "Показване:"
+
+#~ msgid "Images"
+#~ msgstr "Изображения"
+
+#~ msgid "Videos"
+#~ msgstr "Видеа"
+
+#~ msgid "Show media for:"
+#~ msgstr "Показване медия за:"
+
+#~ msgid "Insert Media"
+#~ msgstr "Вмъкване медия"
+
+#~ msgid "Upload Media"
+#~ msgstr "Качете медия"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Моля, изберете изображение или видео за вмъкване."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Опаа, имаше грешка."
+
+#~ msgid "Common responses"
+#~ msgstr "Чести отговори"
+
+#~ msgid "Search for common responses"
+#~ msgstr "Търсене за чести отговори"
+
+#~ msgid "Categories"
+#~ msgstr "Категории"
+
+#~ msgid "Responses"
+#~ msgstr "Отговора"
+
+#~ msgid "Response editor"
+#~ msgstr "Редактор на отговор"
+
+#~ msgid "Insert Response"
+#~ msgstr "Вмъкване на отговор"
+
+#~ msgid "Matching responses"
+#~ msgstr "Съвпадащи отговори"
+
+#~ msgid "Response preview"
+#~ msgstr "Преглед на отговор"
+
+#~ msgid "Quote previous message..."
+#~ msgstr "Цитиране на предното съобщение…"
+
+#~ msgid "Reply..."
+#~ msgstr "Отговор..."
+
+#~ msgid "%s characters remaining"
+#~ msgstr "%s символа остават"
+
+#~ msgid "There was an error."
+#~ msgstr "Имаше грешка."
+
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Възникна грешка. Моля, опитайте отново."
+
+#~ msgid "Daily"
+#~ msgstr "Ежедневно"
+
+#~ msgid "Weekly"
+#~ msgstr "Ежеседмично"
+
+#~ msgid "Monthly"
+#~ msgstr "Ежемесечно"
+
+#~ msgid "1m"
+#~ msgstr "1мес"
+
+#~ msgid "3m"
+#~ msgstr "3мес"
+
+#~ msgid "6m"
+#~ msgstr "6мес"
+
+#~ msgid "YTD"
+#~ msgstr "ГДД"
+
+#~ msgid "1y"
+#~ msgstr "1год"
+
+#~ msgid "All"
+#~ msgstr "Всички"
+
+#~ msgid "From %(from_input)s to %(to_input)s"
+#~ msgstr "От %(from_input)s до %(to_input)s"
+
+#~ msgid "Invalid tag entered: %s"
+#~ msgstr "Въведен е невалиден етикет: %s"
+
+#~ msgid "No tags entered."
+#~ msgstr "Не са въведени етикети."
+
+#~ msgid "Did you mean %s?"
+#~ msgstr "Може би имахте предвид %s?"
+
+#~ msgid "Error uploading image"
+#~ msgstr "Грешка при качване на изображението"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Грешка при изтриване на изображението"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Моля, проверете дали сте вписани и пробвайте отново."
+
+#~ msgid "Search for a user..."
+#~ msgstr "Търсене на потребител…"
+
+#~ msgid "All Articles: % Localized"
+#~ msgstr "Всички статии: % преведени"
+
+#, fuzzy
+#~ msgid "Top 100 Articles: % Localized"
+#~ msgstr "Всички статии: % преведени"
+
+#~ msgid "Active Contributors"
+#~ msgstr "Активни съдрудници"
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Документ с това име вече съществува за този език."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "Документ с такова кратко име вече съществува за този език."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "Изберете издание за сравнение"
+
+#~ msgid "Toggle syntax highlighting"
+#~ msgstr "Превключване на синтактичното оцветяване"
+
+#~ msgid "Toggle Diff"
+#~ msgstr "Превключи разлики"
+
+#~ msgid "Show for..."
+#~ msgstr "Показване за…"
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "Показване на съдържание за определени версии на Firefox или операционни системи."
+
+#~ msgid "Add Rule"
+#~ msgstr "Добави правило"
+
+#, fuzzy
+#~ msgid "Installing..."
+#~ msgstr "Зареждане..."
+
+#, fuzzy
+#~ msgid "Unhelpful Answers"
+#~ msgstr "Гласове за полезност на помоща"
+
+#, fuzzy
+#~ msgid "Helpful Answers"
+#~ msgstr "Гласове за полезност на помоща"
+
+#~ msgid "[missing header]"
+#~ msgstr "[липсваща заглавна част]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Съдържание"
+
+#, fuzzy
+#~ msgid "Insert a canned response..."
+#~ msgstr "Вмъкни препратка..."
+
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "Невалиден видео файл. Моля, посочете валиден FLV файл"
+
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "Качването е отменено. Моля, изберете FLV видео."
+
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "Файлът е изтрит. Моля, изберете FLV видео файл."
+
+#~ msgid "Delete FLV video"
+#~ msgstr "Изтриване на FLV файла"
+
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "Невалиден видео файл. Моля посочете валиден OGV файл."
+
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "Качването е отменено. Моля, изберете OGV видео файл."
+
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "Файлът е изтритказано. Моля, изберете OGV видео файл."
+
+#~ msgid "Delete OGV video"
+#~ msgstr "Изтриване на OGV видео файла"
+
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "Невалиден видео файл. Моля изберете валиден WebM видео файл."
+
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "Качването е отменено. Моля, изберете WebM видео файл."
+
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "Файлът е изтрит. Моля изберете WebM видео файл."
+
+#~ msgid "Delete WebM video"
+#~ msgstr "Изтриване на  WebM видео"
+
+#~ msgid "January"
+#~ msgstr "Януари"
+
+#~ msgid "February"
+#~ msgstr "Февруари"
+
+#~ msgid "March"
+#~ msgstr "Март"
+
+#~ msgid "April"
+#~ msgstr "Април"
+
+#~ msgid "May"
+#~ msgstr "Май"
+
+#~ msgid "June"
+#~ msgstr "Юни"
+
+#~ msgid "July"
+#~ msgstr "Юли"
+
+#~ msgid "August"
+#~ msgstr "Август"
+
+#~ msgid "September"
+#~ msgstr "Септември"
+
+#~ msgid "October"
+#~ msgstr "Октомври"
+
+#~ msgid "November"
+#~ msgstr "Ноември"
+
+#~ msgid "December"
+#~ msgstr "Декември"
+
+#~ msgid "Sunday"
+#~ msgstr "Неделя"
+
+#~ msgid "Monday"
+#~ msgstr "Понеделник"
+
+#~ msgid "Tuesday"
+#~ msgstr "Вторник"
+
+#~ msgid "Wednesday"
+#~ msgstr "Сряда"
+
+#~ msgid "Thursday"
+#~ msgstr "Четвъртък"
+
+#~ msgid "Friday"
+#~ msgstr "Петък"
+
+#~ msgid "Saturday"
+#~ msgstr "Събота"
+
+#, fuzzy
+#~ msgid "Jan"
+#~ msgstr "Януари"
+
+#, fuzzy
+#~ msgid "Mar"
+#~ msgstr "Март"
+
+#, fuzzy
+#~ msgid "Apr"
+#~ msgstr "Април"
+
+#, fuzzy
+#~ msgid "Jun"
+#~ msgstr "Юни"
+
+#, fuzzy
+#~ msgid "Jul"
+#~ msgstr "Юли"
+
+#, fuzzy
+#~ msgid "Aug"
+#~ msgstr "Август"
+
+#, fuzzy
+#~ msgid "Oct"
+#~ msgstr "Октомври"
+
+#~ msgid "From"
+#~ msgstr "От"
+
+#~ msgid "To"
+#~ msgstr "До"
+
+#~ msgid "Zoom"
+#~ msgstr "Увеличение"
+
+#~ msgid "Reset zoom"
+#~ msgstr "Махни увеличението"
+
+#~ msgid "Reset zoom level 1:1"
+#~ msgstr "Нулиране на увеличението 1:1"
+
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "Грешка при зареждането на графиката. (Дали сте влезели в акаунта си?)"
+
+#~ msgid "Helpfulness Votes over 1 Month"
+#~ msgstr "Гласувания за полезност за период от 1 месец"
+
+#~ msgid "Current Percent of Helpfulness"
+#~ msgstr "Настоящ процент на полезност на помоща"
+
+#~ msgid "Percent Change in Helpfulness"
+#~ msgstr "Процентно изменение в полезността"
+
+#~ msgid "Documents"
+#~ msgstr "Документи"
+
+#~ msgid "%s Votes"
+#~ msgstr "%s Гласове"
+
+#~ msgid "We're open!"
+#~ msgstr "Отворено е!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Нашите доброволци са готови да помогнат."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Помагащи на линия: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "Чакащи потребители: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Приблизително изчакване: "
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Започнете чат на живо."
+
+#~ msgid "The queue is full."
+#~ msgstr "Опашката е запълнена."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Доброволците ни са заети да помагат на други потребители."
+
+#~ msgid "We're closed."
+#~ msgstr "Затворено е."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "Чата на живо в момента е затворен."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "Възникна грешка при проверяването на опашката."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "Можете да опитате стартирането на чат сесия."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "По-малко от 2 минути."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "Повече от 20 мин."
+
+#~ msgid "Query took: "
+#~ msgstr "Справката отне: "
+
+#~ msgid " seconds"
+#~ msgstr " секунди"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "Гласове за полезност на помоща"
+
+#, fuzzy
+#~ msgid "Number of Votes"
+#~ msgstr "Съдържание"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Докладвайте тази публикация"
+
+#, fuzzy
+#~ msgid "Toggle L10n"
+#~ msgstr "Превключи разлики"
+
+#, fuzzy
+#~ msgid "Search: "
+#~ msgstr "Търси в Галерията"
+
+#, fuzzy
+#~ msgid "Report this Article"
+#~ msgstr "Помощна статия:"
+
+#~ msgid "Article Link"
+#~ msgstr "Препратка към статия"
+
+#~ msgid "External Link"
+#~ msgstr "Външна препратка"
+
+#~ msgid "external link"
+#~ msgstr "външна препратка"
+
+#, fuzzy
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Невалиден видео файл. Моля посочете валиден видео файл (%s)."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Качването е спряно. Изберете видео файл (%s)."
+
+#, fuzzy
+#~ msgid "Delete %s file"
+#~ msgstr "Изтрий снимката"
+
+#, fuzzy
+#~ msgid "There was an error :(."
+#~ msgstr "Има грешка :(."

@@ -1,0 +1,804 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-08-11 02:44+0000\n"
+"Last-Translator: Softblow <ccwpc@hanmail.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1407725050.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: 로그인 완료"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: 암호 재설정 완료"
+
+# 등록 확인 메일의 주의문
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "더 나은 로그인 방법"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "지원하지 않는 브라우저"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "Watch 없이는 지원하지 않는 브라우저"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "쿠키 사용 불가"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "소개"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "서비스 약관"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "개인 정보 보호 정책"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "등록 완료"
+
+# 등록 확인 메일의 주의문
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "간단한 로그인 방법입니다."
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona- 암호 하나로 서비스 이용"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"<a %(webmakerLink)s>%(webmakerName)s</a>와 <a %(openphotoLink)s>%"
+"(openphotoName)s</a>, <a %(voostLink)s>%(voostName)s</a>도 로그인에 Persona를 "
+"사용합니다."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr "여러 웹 사이트를 하나의 암호로 로그인할 수 있습니다."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "하나의 암호로 모든 사이트 이용 가능합니다."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "여러 이메일 주소 사용 가능"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "유연한 Persona 서비스"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"Persona에서는 이메일 주소가 신원을 확인합니다. 여러 메일 주소를 사용할 수 있"
+"으나 암호는 자신이 관리하는 하나를 이용합니다."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "현실적 개인 정보의 대안. "
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "비영리 서비스"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Persona는 웹 커뮤니티의 신뢰를 받는 비영리 재단인 Mozilla에서 개발되었으며, "
+"오픈 웹 플랫폼과 사람들의 개인 정보를 보호하는 균형을 잡는 기술로 만들어졌습"
+"니다."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "안전한 개인 정보 저장"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona는 웹에서 여러분의 활동을 추적하지 않습니다. 로그인과 개인 활동 추적 사이에 장벽을 만들어 주며, 여러분의 활동 내역은 "
+"자신의 컴퓨터에만 저장됩니다."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "개발자 정보"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "자신의 웹 사이트에 Persona 탑재하기"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "개발자 가이드와 API 문서"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "로그인 완료："
+
+# 등록 인증 후의 패스워드 입력 화면
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "마지막 단계!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "이메일 주소"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "암호"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "암호"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "암호 입력 필수"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "암호 틀림"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "완료"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona는 쿠키를 필요로 합니다."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "창을 닫고 <a %s>쿠키 사용을 허용</a>한 후 다시 시도해 주십시오."
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "%s에 로그인 중&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s가 더 이상 %(idp)s 비밀번호로 Persona에 로그인을 허용하지 않습니다. 이 이메일 주소의 기존 Persona "
+"비밀번호를 사용해서 로그인해야 합니다."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Persona 암호 "
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "이메일 주소"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "이메일 주소 입력 필수"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "이메일 주소 입력 필수"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "암호를 잊어 버리셨습니까?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "암호 입력"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "암호"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr "확인 메일 전송 &ndash; 몇 분만 기다리세요"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"계속 진행하시려면, %(site)s의 <a %(terms)s>서비스 약관</a>과 <a %(privacy)s>"
+"개인 정보 보호 정책</a>에 동의해 주십시오."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "다음"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "계속"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "취소"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "로그인"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "확인"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Persona에 연결중..."
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona</strong>. Firefox와 함께하는 간단한 로그인 방식입니다. <a %s>자세히 "
+"보기&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr "Mozilla Persona를 사용하면 더 빠르고 쉽게 로그인할 수 있습니다."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>사이트 둘러보기</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "삭제"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "Mozilla Persona가 처음이신가요? <a %(learnMoreLink)s>더 알아보기</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "계정 관리"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "이메일 주소"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "수정하기"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "완료"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "이전 암호"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "새로운 암호"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "이전 암호 입력 필수"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "이전 암호 맞지 않음"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "새 암호 입력 필수"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "서로 암호가 달라야 함"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "암호 길이는 8 문자 이상 80 문자여야함"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "언제든지 <a %(cancelLink)s>계정 취소</a>를 하실 수 있습니다."
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Persona 홈페이지"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "사용법"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "계정"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "로그인"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "로그아웃"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "개발: <a %s>Mozilla</a> <a %s>인증팀</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "개인 정보 보호 정책 &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "서비스 이용 계획 &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "개발자 &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "도움말 &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "죄송합니다. Persona 는 자바스크립트 옵션이 활성화 되어야 합니다."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "암호 재설정"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr " %s에서 사용하는 새로운 암호 설정"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "암호 검증"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "암호 재입력 필수"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "암호가 일치하지 않습니다!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">메일 주소</strong>는 검증되었습니다!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr "새 주소가 설정이 완료되어,  %s로 리다이렉트합니다."
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "%s초 후 다시시도하세요"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "죄송합니다만 현재 브라우저는 지원되지 않습니다."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Firefox 로고"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona는 <a %(getFirefoxLink)s>Firefox</a> 뿐만 아니라"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "다른 <a %(otherBrowserLink)s>최신 웹브라우저</a> 모두 지원합니다."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr "죄송합니다. 사용하시는 브라우저가 이 웹사이트에 로그인하는 것을 지원하지 않습니다."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr "웹사이트 관리자가 Persona의 <a %s>navigator.id.watch()</a> 기능을 사용하도록 갱신해야 합니다."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr "<a %s><strong>Mozilla Persona</strong></a>는 간단한 무료 로그인 방식입니다."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "%(site)s 사이트 접근을 확인하기 위해 이 링크를 누르세요:"
+
+# 등록 확인 메일의 주의문
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr "로그인 의향이 없으면, 현재 메일을 무시해 주십시오."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla 사용자"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr "Firefox에 의해 제공되는 간단한 로그인 방식"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "자세히 보기 https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "메일 주소 지금 확인"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "계정 지금 확인"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "Persona 암호를 잊으셨습니까? 최선을 다해 도와드립니다."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "암호화 초기화하기:"
+
+# 등록 확인 메일의 주의문
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr "암호를 재설정 하려 하지 않았다면, 이 이메일을 무시하십시오."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "암호 재설정"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr "여러분의 이메일 제공자가 Persona 지원에 문제가 생긴 것 같습니다."
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Persona 로그인"
+
+# 등록 확인 메일의 주의문
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "주의 : 암호를 재설정 하지 않으신다면, 현재 이메일을 동의하지 마십시오."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "간편 가입"
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s 가입하기 위해 사용자 이름대신 Persona를 사용합니다."
+
+#, fuzzy
+#~ msgid "Enter your email address"
+#~ msgstr "이메일 주소 확인"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "이제 여러분의 Persona 비밀번호를 입력하세요."
+
+#~ msgid "enter email address"
+#~ msgstr "이메일 주소 입력란"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Persona를 이용해 주셔서 감사합니다."
+
+# 등록 확인 메일의 주의문
+#~ msgid "Thank you,"
+#~ msgstr "감사합니다."
+
+#~ msgid "The Persona team"
+#~ msgstr "Persona 팀 드림"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "암호를 초기화하려면 여기를 클릭하세요."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "계속하려면, 이 이메일 주소를 재확인하고, 새로운 Persona 전용 비밀번호를 설"
+#~ "정할 필요가 있습니다."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "클릭하여 새로운 암호 설정:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Persona 팀"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "암호를 초기화하려면 여기를 클릭하세요."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr "계정을 아이디와 암호로 확인할 수 없ㄹ습다."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "이미 이메일을 전송하였습니다. 다른 곳으로 보내고 싶다면 잠시 기다린 후 다"
+#~ "시 시도해 주십시오."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "이메일 주소와 암호가 일치하지 않습니다."
+
+#~ msgid "The password field is required."
+#~ msgstr "암호는 반드시 입력하셔야 합니다."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "이전에 사용하셨던 암호가 틀립니다. 암호가 변경되지 않았습니다."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "이전에 사용하신 암호와 새로운 암호가 똑같습니다."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Persona 로그인을 위해 이메일주소를 입력해주세요."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "이메일 제공업체에 확인해 보고 있습니다."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "로그인 완료"
+
+#~ msgid "Forgot Password"
+#~ msgstr "암호 찾기"
+
+#~ msgid "Email Verification"
+#~ msgstr "메일 검증"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "<strong %(checkId)s></strong>에서 메일을 확인하세요."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr "확인 메일안에 링크를 클릭하시면 암호가 초기화됩니다."
+
+#~ msgid "Non existent user!"
+#~ msgstr "가입하지 않은 사용자 입니다!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "현재 메일 주소로는 암호를 재설정 할 수 없습니다."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "암호를 아시나요? 로그인하세요."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr "이 창은 닫히고 계정 만들기는 계속됩니다."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "<strong %(emailId)s></strong> 메일 주소를 확인해주세요."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr "확인 메일에서 링크를 클릭하세요. 곧 Persona로 로그인할 수 있습니다."
+
+#~ msgid "forgot your password?"
+#~ msgstr "암호를 잊어 버리셨습니까?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr ""
+#~ "이전에 등록되지 않은 이메일 주소입니다. Persona 사용을 위해 새로운 암호를 "
+#~ "설정하세요."
+
+#~ msgid "verify password"
+#~ msgstr "암호 확인"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "계속 진행하시려면, %(persona)s의 <a %(termsLink)s>서비스 약관</a>과 <a "
+#~ "%(privacyLink)s>개인 정보 보호 정책</a에 동의해 주십시오."
+
+#~ msgid "Next"
+#~ msgstr "다음"
+
+#~ msgid "Verify Email"
+#~ msgstr "이메일 주소 확인하기"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "<strong %(emailId)s>이메일 주소</strong>를 확인하시려면, 먼저 이메일 서비"
+#~ "스에 로그인하십시오. 곧 새 창이 열립니다."
+
+#~ msgid "Verify"
+#~ msgstr "인증하기"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "<strong>Persona</strong> 가입을 감사드립니다. 계정을 사용해 여러 웹 사이트"
+#~ "에 <em>로그인</em> 또는 <em>계정 등록</em>을 할 수 있습니다!"
+
+#~ msgid "Sign Up"
+#~ msgstr "회원 가입"
+
+#~ msgid ""
+#~ "<strong %(emailId)s>Email</strong> is not registered. Would you like to "
+#~ "<a %(signUpLink)s>sign up</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s>이메일 주소</strong>가 등록되어 있지 않습니다. <a "
+#~ "%(signUpLink)s>회원가입</a>하시겠습니까?"
+
+#~ msgid "New to Persona? Sign up today."
+#~ msgstr "Persona가 처음이세요? 지금 가입하세요."
+
+#~ msgid ""
+#~ "To verify that you own <strong %(primaryId)s>address</strong>, you must "
+#~ "sign in with your provider.  A new window will be opened."
+#~ msgstr ""
+#~ "<strong %(primaryId)s>이메일 주소</strong>를 인증하시려면, 먼저 서비스 제"
+#~ "공자에 로그인하셔야 합니다. 곧 새 창이 열립니다."
+
+#~ msgid ""
+#~ "<strong %(emailId)s></strong> is already registered. Would you like to <a "
+#~ "%(signInLink)s>sign in</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s></strong> 주소는 이미 등록되어 있습니다. <a "
+#~ "%(signInLink)s>로그인</a> 하시겠습니까?"
+
+#~ msgid "Existing account? Sign in."
+#~ msgstr "계정이 있습니까? 로그인하세요."
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Persona 이용 %s 로그인 완료"
+
+#~ msgid "Communicating with server"
+#~ msgstr "서버와 통신하고 있는 중"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "서버와 통신하고 있는 동안 조금 기다려 주세요."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "Mozilla Persona는 빠르고 안전한 로그인 수단입니다.  <a %s>자세히 보기 "
+#~ "&rarr;</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "메일 주소 등록 확인 감사합니다. 이 메세지는 %s  로그인을 완료하기 위해서 "
+#~ "전달 되었습니다."
+
+# 등록 확인 메일의 주의문
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "등록을 완료하려면 이 링크를 클릭해 주세요:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona 홈페이지"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "메일 주소 확인중에 에러가 발생했습니다.이 주소는 검증이 끝난 상태 입니까?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "등록 처리중에 에러가 발생했습니다."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "새롭게 설정된 메일 주소로 로그인해 주세요.현재 창을 닫고돌아옵니다: "
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "등록 확인용 링크에 문제가 있습니다. 이 링크가 있는 메일 주소는 등록되어 있"
+#~ "지 않습니까?"
+
+# 등록 확인 메일의 주의문
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "BrowserID 첫호면"
+
+#~ msgid "TOS"
+#~ msgstr "서비스 이용 약관"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "서버와 통신시에 에러가 발생했습니다."

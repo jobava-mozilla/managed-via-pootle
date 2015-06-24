@@ -1,0 +1,818 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-10-09 14:17+0000\n"
+"Last-Translator: Alessio <alessio.gastaldi@libero.it>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lij\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1381328230.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: Conplêto a-a proçedûa d'acèsso"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: Conplêto a reinpostaçión da paròlla segrêta"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Un mêgio mòddo de identificâse"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Navegatô no soportòu"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "Navegatô no soportòu sénsa Watch"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "I cookie én dizabilitæ"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Informaçioìn"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Tèrmini do serviççio"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Politìca da privacy"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Regitraçión conpletâ"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "Un mêgio mòddo de identificâse"
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona o sostitoìsce l'ûzo de ciù paròlle segrête"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Scîti cómme <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> e <a %(voostLink)s>%(voostName)s</a> adêuvian Persona "
+"invêce do nómme uténte pe intrâ."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"Quésto o veu dî che t'aviæ bezéugno de ina sôla paròlla segrêta pe acêde a "
+"tànti scîti."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "'Na paròlla segrêta sôla pe domâli tùtti."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Adêuvia ciù indirìssi email"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Persona o l'é flescìbile"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"Con Persona a teu identitæ a l'é o teu indirìsso email. Ti peu adêuviâ "
+"quànte email ti veu, ma te bàsta sôlo ina paròlla segrêta."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Vêa privacy."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Persona o l'é feaménte sénsa fìn de goâgno e pe ti"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Persona o l'é svilupòu da Mozilla, 'na conpàgna sénsa fìn de goâgno e bén "
+"bén conosciûa into Web. O nòstro obietîvo o l'é de creâ de tecnologîe che "
+"bilànsan 'na piatafórma Web avèrta co-a privacy de persónn-e."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona o presèrva a teu privacy"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona o no tràccia e teu ativitæ in sciô Web. Ma o crêa 'na miâgia fra "
+"quande ti ìntri inte 'n  scîto e cöse ti fæ dòppo. A stöia de quæ scîti ti "
+"vìxiti a l'é sarvâ sôlo inte o teu computer."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona pe-i svilupatoî"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Métti Persona into teu scîto"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Góida do svilupatô e documetaçión de API "
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Identificaçión conpletâ pe:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Ùrtimo pàsso!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "Indirìsso email"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "A teu email"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Paròlla segrêta"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "A teu paròlla segrêta"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "A paròlla segrêta a l'é obligatöia."
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "A paròlla segrêta a l'é sbaliâ"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "Fìn"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona o domànda i cookie pe aregordâse de ti."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Pe favô særa o barcón, <a %s>abìlita i cookie</a> e prêuva tórna"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, fuzzy, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "Són aprêuvo a intrâ into %s cómme…"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s o no te permétte ciù d'intrâ into Persona co-a teu paròlla segrêta "
+"%(idp)s. Ti ti dêvi adêuviâ a teu paròlla segrêta de Persona che l'èxiste za "
+"pe intrâ òua con st'indirìsso email."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Paròlla segrêta de Persona"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "indirìsso email"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "Sto cànpo o dev'êse un indirìsso email"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "A email a l'é obligatöia."
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "T'æ ascordòu a teu paròlla segrêta?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "Scrîvi a paròlla segrétta"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "paròlla segrêta"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Confèrma iniçiâ mandâ &ndash; aspêta quàrche menûto prìmma de domandâne "
+"'n'âtra"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Se ti væ avànti, ti saiæ d'acòrdio con %(site)s in sci <a %(terms)s>Tèrmini</"
+"a> e  <a %(privacy)s>Polìtica da Privacy</a>."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "pròscimo"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "contìnoa"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "anùlla"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "acêdi"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "Va bén"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Me conétto a Persona..."
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona.</strong> L'acèsso senplificòu fæto sénsa fìn de "
+"goâgno da quélli ch'àn fæto Firefox. <a %s>Pe savéine de ciù&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Conétite con Mozilla Persona, o mòddo ciù velôce &amp; fàçile pe intrâ."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>Panoràmica in sce Persona</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "scancélla"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr ""
+"No ti conósci Mozilla Persona? <a %(learnMoreLink)s>Informaçioìn in ciù</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Gestô Account"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "O teu indirìsso email"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "càngia"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "fæto"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Vêgia Paròlla segrêta"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Nêuva Paròlla segrêta"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "A vêgia paròlla segrêta a l'é obligatöia."
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "A vêgia paròlla segrêta a l'é obligatöia."
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "A nêuva paròlla segrêta a l'é obligatöia."
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "E paròlle segrête dévan êse divèrse"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "A longhéssa da paròlla segrêta a dêve êse tra 8 e 80 caràteri."
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "Ti peu, quànde t'eu, <a %(cancelLink)s>scancelâ o teu account</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Câza de Persona"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Cómme fonçionn-a"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "Account"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Acêdi"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Sciòrti"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "Fæto da <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Privacy &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "TOS &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "Svilopatoî &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "T'æ bezéugno de agiùtto? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "sémmo despiaxûi, Persona o domànda ch'o ségge abilitòu o Javascript."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Reinpósta a paròlla segrêta"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Crêa 'na nêuva paròlla segrêta d'adêuviâ con %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Verìfica a paròlla segrêta"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "Verìfica da paròlla segrêta obligatöia"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "E paròlle segrête no corispóndan!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr ""
+"O <strong class=\"email\">teu indirìsso email</strong> o l'é stæto verificòu."
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr "O teu nêuvo indirìsso o l'é prónto. Ti saiæ redireçionòu a %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Redireçiónn-o fra %s segóndi"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Sémmo despiaxûi, ma òua o teu navigatô o no l'é soportòu."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "logo de Firefox"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona travàggia con <a %(getFirefoxLink)s>Firefox</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "e âtri <a %(otherBrowserLink)s>navigatoî modèrni.</a>"
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr "Ne spiâxe, o navegatô o no l'é in gràddo de acêde inte sto scîto."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"Bezéugna che o propietâio de sto scîto web o l'agiórni o còdice pe adêuviâ "
+"Persona in mòddo da soportâ o método <a %s>navigator.id.watch()</a>."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona.</strong></a> L'acèsso senplificòu fæto sénsa "
+"fìn de goâgno da quélli ch'àn fæto Firefox."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Sciàcca o colegaménto pe confermâ l'acèsso a %(site)s:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr "Se NO ti çèrchi de acêde a-o scîto %(site)s, ignòra sto mesàggio."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr "L'acèsso senplificòu realizòu sénsa fìn de goâgno da quélli de Firefox"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "Âtre informaçioìn chi https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "Confèrma l'indirìsso email òua"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "Confèrma o teu account òua"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr ""
+"T'æ ascordòu a paròlla segrêta de Persona? Càpita ànche a-i mêgio de niâtri."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Sciàcca pe reinpostâ a paròlla segrêta:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr "Se NO ti çèrchi de reinpostâ a paròlla segrêta ignòra sta notìçia."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "Reinpósta a paròlla segrêta òua"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"Pâ che o teu provider de pòsta o l'àgge quàrche problêma con l'integraçión "
+"de Persona."
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Ìntra con Persona"
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr "Nòtta: Se NO ti çèrchi de reinpostâ a sto scîto ignòra sta notìçia."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Acésso senplificòu"
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s o l'adêuvia Persona in càngio do username pe fâte intrâ."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Scrîvi o teu indirìsso email"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Dìmme a teu nêuva paròlla segrêta de Persona."
+
+#~ msgid "enter email address"
+#~ msgstr "Dìmme l'indirìsso email"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Gràçie d'adêuviâ Persona."
+
+#~ msgid "Thank you,"
+#~ msgstr "Gràçie,"
+
+#~ msgid "The Persona team"
+#~ msgstr "Team de Persona"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Sciàcca chi pe reinpostâ a teu paròlla segrêta?"
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "Pe continoâ, ti dêvi verificâ tórna st'indirìsso email e inpostâ 'na "
+#~ "nêuva paròlla segrêta specìfica pe l'account Persona."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "Sciàcca pe reinpostâ a nêuva paròlla segrêta:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Quàddra de Persona"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "Sciàcca chi pe reinpostâ a teu nêuva paròlla segrêta."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr ""
+#~ "L'account o no se peu verificâ con sto nómme uténte e paròlla segrêta."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Niâtre t'émmo mandòu 'na email a st'indirìsso! Se ti veu mandâne 'n'âtra, "
+#~ "aspêta un menûto ò doî e prêuva tórna."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "A email e-a paròlla segrêta no corispóndan."
+
+#~ msgid "The password field is required."
+#~ msgstr "A paròlla segrêta a l'é obligatöia."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "Paròlla segrêta vêgia sbaliâ, paròlla segrêta no agiornâ."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "A vêgia e-a nêuva paròlla segrêta én pægie."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Pe intrâ in Persona, pe favô dìmme o teu indirìssi email."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "Contròllo co-o teu fornitô de l'email"
+
+#~ msgid "Sign In Complete"
+#~ msgstr "Acésso conpletòu"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Dimenticòu a paròlla segrêta"
+
+#~ msgid "Email Verification"
+#~ msgstr "Verìfica de l'email"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "Contròlla a teu email a <strong %(checkId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr ""
+#~ "Sciàcca into colegaménto inta email de confèrma. A teu paròlla segrêta a "
+#~ "saiâ reinpostâ."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Uténte no existénte!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "No pòsso reinpostâ a paròlla segrêta pe st'indirìsso."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Ti a sæ a teu paròlla segrêta? Ìntra."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr "Sto barcón o saiâ saròu òua e-a creaçión de l'account aniâ avànti."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "Contròlla a teu email a <strong %(emailId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Sciàcca in sciô colegaménto inta email de confèrma. E t'intriæ sùbito "
+#~ "into Persona."
+
+#~ msgid "forgot your password?"
+#~ msgstr "Ascordâ a teu paròlla segrêta?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr ""
+#~ "St'indirìsso o pâ nêuvo. Pe favô crêa 'na paròlla segrêta pe Persona."
+
+#~ msgid "verify password"
+#~ msgstr "verìfica paròlla segrêta"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Se ti væ avànti, ti saiæ d'acòrdio con %s in sci <a "
+#~ "%(termsLink)s>Tèrmini</a> e  <a %(privacyLink)s>Polìtica da Privacy</a>."
+
+#~ msgid "Next"
+#~ msgstr "Pròscimo"
+
+#~ msgid "Verify Email"
+#~ msgstr "Verìfica email"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "Pe verificâ o teu <strong %(emailId)s>indirìsso</strong>, ti dêvi acêde "
+#~ "co-o teu fornitô.  Un nêuvo barcón o saiâ avèrto."
+
+#~ msgid "Verify"
+#~ msgstr "Verìfica"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Gràçie asæ de avéi scélto o <strong>Persona</strong>. Òua ti peu "
+#~ "<em>Acêde</em> ò <em>Abonâte</em> in sci scîti web in gîo pe-a ræ!"
+
+#~ msgid "Sign Up"
+#~ msgstr "Acêdi"
+
+#~ msgid ""
+#~ "<strong %(emailId)s>Email</strong> is not registered. Would you like to "
+#~ "<a %(signUpLink)s>sign up</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s>Email</strong> no registrâ. T'eu <a "
+#~ "%(signUpLink)s>regitrâte</a> invêce?"
+
+#~ msgid "New to Persona? Sign up today."
+#~ msgstr "T'ê nêuvo de Persona? Registrâte ancheu"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(primaryId)s>address</strong>, you must "
+#~ "sign in with your provider.  A new window will be opened."
+#~ msgstr ""
+#~ "Pe verificâ o teu <strong %(primaryId)s>indirìsso</strong>, ti dêvi intrâ "
+#~ "co-o teu fornitô.  Un nêuvo barcón o saiâ avèrto."
+
+#~ msgid ""
+#~ "<strong %(emailId)s></strong> is already registered. Would you like to <a "
+#~ "%(signInLink)s>sign in</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s></strong> o l'é za registròu. T'eu <a "
+#~ "%(signInLink)s>registrâte</a> invêce?"
+
+#~ msgid "Existing account? Sign in."
+#~ msgstr "Account existénte? Ìntra."
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Conplêta l'acésso a %s con BrowserID"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Comunicaçión co-o server"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Aspêta in moménto, sémmo aprêuvo a comunicâ co-o server."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "O Mozilla Persona o l'è in mòddo segûo e velôce pe identificâse &mdash; "
+#~ "<a target=\"_blank\" href=\"/about\">pe savéine de ciù</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Gràçie de avéi verificòu o teu indirìsso email. Sta notìçia a t'é stæta "
+#~ "spédia pe conpletâ a teu registraçión a %s."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Finìsci a registraçión sciacàndo in sto colegaménto:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "S'é verificòu 'n'erô inta confèrma do teu indirìsso email. T'æ mîga za "
+#~ "verifcòu sto indirìsso into passòu?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "S'é verificòu 'n'erô into conpletâ a registraçión."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "O teu nêuvo indirìsso o l'é stæto scistemòu e ti peu adêuviâlo pe acêde. "
+#~ "Òua ti peu serâ sto barcón e tornâ a"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "S'é verificòu un problêma co-o colegaménto pe l'iscriçión. T'àivi za "
+#~ "registròu st'indirìsso email?"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "Câza do BrowserID"
+
+#~ msgid "TOS"
+#~ msgstr "Condiçioìn d'ûzo"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "Erô inta conesción co-o server."
+
+#~ msgid "Browser ID"
+#~ msgstr "Browser ID"

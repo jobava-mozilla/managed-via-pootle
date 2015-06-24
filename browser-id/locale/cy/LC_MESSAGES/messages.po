@@ -1,0 +1,824 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2013-10-16 15:02+0000\n"
+"Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
+"11) ? 2 : 3 ;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1381935762.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: Wedi cwblhau mewngofnodi"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: Cwblhewch ailosod y cyfrinair"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Ffordd Well o Fewngofnodi"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Porwr Heb ei Gynnal"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "Porwr Heb ei Gynnal heb Gwylio"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Cwcis wedi eu Hanablu"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Ynghylch"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Amodau'r Gwasanaeth"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Polisi Preifatrwydd"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Cwblhau'r Cofrestru"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "Ffordd well o fewngofnodi."
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Mae Persona yn cymryd lle cyfrineiriau lluosog"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Mae gwefannau fel <a %(webmakerLink)s>%(webmakerName)s</a>, <a "
+"%(openphotoLink)s>%(openphotoName)s</a> a <a %(voostLink)s>%(voostName)s</a> "
+"yn defnyddio Persona yn lle enw defnyddiwr i'ch mewngofnodi chi."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"Mae hyn yn golygu mai dim ond un cyfrinair sydd ei angen ar gyfer nifer fawr "
+"o wefannau."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "Un cyfrinair ar gyfer y cwbl."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Defnyddio cyfeiriadau e-bost lluosog"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Mae Persona yn hyblyg"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"O fewn Persona, eich hunaniaeth yw eich cyfeiriad e-bost. Mae modd i chi "
+"ddefnyddio gymaint o gyfeiriadau e-bost ag y dymunwch, ond dim ond un "
+"cyfrinair fydd ei angen."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Preifatrwydd go iawn."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Mae Persona'n falch o fod ddim er elw"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Mae Persona wedi ei ddatblygu gan Mozilla, cwmni nid er elw sy'n fawr ei "
+"barch yn y gymuned Gwe. Ein nod yw creu technolegau sy'n creu platfform gwe "
+"agored ac yn parchu preifatrwydd defnyddwyr."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Mae Persona'n diogelu eich preifatrwydd"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Nid yw Person yn cofnodi eich symudiadau o amgylch y we. Mae'n creu mur "
+"rhwng eich mewngofnodi a'r hyn wnewch chi unwaith rydych chi yno. Mae hanes "
+"pa wefannau rydych wedi ymweld â nhw'n cael eu cadw ar eich cyfrifiadur chi "
+"yn unig."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona ar gyfer datblygwyr"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Defnyddio Personas ar eich gwefan"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Canllawiau datblygwyr a dogfenaeth API"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Cwblhau mewngofnodi:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Y cam olaf!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "Cyfeiriad E-bost"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Eich E-bost"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Cyfrinair"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Eich Cyfrinair"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "Mae angen maes cyfrinair"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "Mae'r cyfrinair yn anghywir"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "gorffen"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Mae Persona angen cwcis i'ch cofio chi."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Caewch y ffenestr hon, <a %s>galluogwch y cwcis</a> a cheisiwch eto"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "Mewngofnodi i %s gyda&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"Nid yw %(idp)s yn caniatáu i chi fewngofnodi i Persona gyda'ch cyfrinair "
+"%(idp)s. Rhaid i chi ddefnyddio eich cyfrinair Persona cyfredol i "
+"fewngofnodi gyda'r cyfeiriad e-bost yma."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Cyfrinair Persona"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "cyfeiriad e-bost"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "Rhaid iddo fod yn gyfeiriad e-bost"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "Mae angen y maes e-bost"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "Wedi anghofio eich cyfrinair?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "Rhowch gyfrinair"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "cyfrinair"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Mae'r cadarnhad cychwynnol wedi ei anfon &ndash; arhoswch ychydig cyn gofyn "
+"am un arall"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Drwy barhau, rydych yn cytuno i <a %(terms)s>Amodau</a> a <a "
+"%(privacy)s>Pholisi Preifatrwydd %(site)s</a>."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "nesaf"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "parhau"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "diddymu"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "mewngofnodi"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "Iawn"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Cysylltu â Persona..."
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona.</strong> Mewngofnodi syml wedi ei greu gan gorff "
+"ddim am elw sy'n darparu Firefox. <a %s>Dysgu rhagor&rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Cysylltwch gyda Mozilla Persona, y ffordd mwyaf diogel a syml i fewngofnodi."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>Dewch i weld</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "tynnu"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr "Newydd i Mozilla Persona? <a %(learnMoreLink)s>Dysgu rhagor</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Rheolwr Cyfrif"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Eich Cyfeiriadau E-bost"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "golygu"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "gorffen"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Hen Gyfrinair"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Cyfrinair Newydd"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "Mae angen yr hen gyfrinair"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "Mae'r hen gyfrinair yn anghywir"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "Mae angen cyfrinair newydd"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "Rhaid i'r cyfrineiriau fod yn wahanol"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Rhaid i gyfrinair fod 8&ndash;80 nod o hyd"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr ""
+"Mae modd i chi, ar unrhyw adeg, <a %(cancelLink)s>ddiddymu eich cyfrif</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Cartref Persona"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Sut mae'n gweithio"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "Cyfrif"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "Mewngofnodi"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Allgofnodi"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "Gan yr <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Preifatrwydd &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "Amodau Gwasanaeth &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "Datblygwyr &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Angen Cymorth? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "Ymddiheuriadau, mae Persona angen i Javascript fod ar waith."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Ailosod Cyfrinair"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Crëwch gyfrinair newydd i'w ddefnyddio gyda %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Dilysu'r Cyfrinair"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "Mae angen cyfrinair dilysu"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "Nid yw'r cyfrineiriau'n cydweddu!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "Mae <strong class=\"email\">eich cyfeiriad</strong> wedi ei ddilysu!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr ""
+"Mae eich cyfeiriad newydd wedi ei osod ac yn barod i'w ddefnyddio. Byddwch "
+"yn cael eich ailgyfeirio i %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Ailgyfeirio ymhen %s eiliad"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Ymddiheuriadau, nid yw eich porwr yn cael ei gynnal ar hyn o bryd."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Logo Firefox"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Mae Persona yn gweithio gyda <a %(getFirefoxLink)s>Firefox</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "a <a %(otherBrowserLink)s>phorwyr modern</a> eraill."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr "Ymddiheuriadau, nid yw eich porwr yn cynnal mewngofnodi i'r wefan hon."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"Mae angen i berchennog y wefan ddiweddaru er mwyn defnyddio nodwedd <a "
+"%s>navigator.id.watch()</a> Persona."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona.</strong></a> Mewngofnodi syml wedi ei greu "
+"gan gorff ddim am elw sy'n darparu Firefox."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Cliciwch y ddolen i gadarnhau'r mynediad i %(site)s:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr "Os NAD ydych yn ceisio mewngofnodi, anwybyddwch yr e-bost hwn."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr ""
+"Mewngofnodi syml wedi ei greu gan y corff ddim am elw sy'n darparu Firefox"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "Dysgwch ragor yn https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "Cadarnhewch y cyfeiriad nawr"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "Cadarnhewch eich cyfrif nawr"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "Wedi anghofio eich cyfrinair Persona? Mae'n digwydd i bawb."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Cliciwch i ailosod eich cyfrinair:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr ""
+"Os NAD ydych yn ceisio ailosod eich cyfrinair, anwybyddwch yr e-bost hwn."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "Ailosodwch eich cyfrinair nawr"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"Mae'n edrych fel bod gan eich darparwr e-bost anhawster gyda'u cefnogaeth i "
+"Persona."
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "Mewngofnodi gyda Persona"
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "Nodyn: Os NAD ydych yn ceisio mewngofnodi i'r wefan hon, anwybyddwch yr e-"
+#~ "bost hwn."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Mewngofnodi symlach."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "Mae %s yn defnyddio Persona yn lle enw defnyddiwr i'ch mewngofnodi."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Rhowch eich cyfeiriad e-bost"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Cyflwynwch eich cyfrinair Persona."
+
+#~ msgid "enter email address"
+#~ msgstr "rhowch gyfeiriad e-bost"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Diolch am ddefnyddio Persona."
+
+#~ msgid "Thank you,"
+#~ msgstr "Diolch,"
+
+#~ msgid "The Persona team"
+#~ msgstr "Tîm Persona"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Cliciwch yma i ailosod eich cyfrinair."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "I barhau, rhaid ail gadarnhau'r cyfeiriad e-bost hwn a chreu cyfrinair "
+#~ "newydd yn benodol ar gyfer Persona."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "Cliciwch i osod eich cyfrinair newydd:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Tîm Persona"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "Cliciwch yma i osod eich cyfrinair newydd."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr ""
+#~ "Nid oes modd dilysu'r cyfrif gyda'r enw defnyddiwr a'r cyfrinair hwn."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Rydym newydd anfon e-bost i'r cyfeiriad hwnnw! Os ydych wir eisiau anfon "
+#~ "un arall, arhoswch funud neu ddau a cheisio eto."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Nid yw'r cyfeiriad e-bost a'r cyfrinair yn cydweddu."
+
+#~ msgid "The password field is required."
+#~ msgstr "Mae angen maes cyfrinair."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr "Hen gyfrif anghywir, cyfrinair heb ei ddiweddaru."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "Mae'r cyfrineiriau hen a newydd yr un peth."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "I fewngofnodi gyda Persona, rhowch eich cyfeiriad e-bost."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "Gwirio gyda'ch darparwr e-bost."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "Mewngofnodi wedi ei Gwblhau"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Wedi Anghofio eich Cyfrinair"
+
+#~ msgid "Email Verification"
+#~ msgstr "Dilysu'r E-bost"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "Gwiriwch eich e-bost yn <strong %(checkId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr ""
+#~ "Cliciwch ar y ddolen yn yr e-bost cadarnhau. Bydd eich cyfrinair yn cael "
+#~ "ei ailosod."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Defnyddiwr nad yw'n bod!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "Methu ailosod cyfrinair y cyfeiriad hwnnw."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Gwybod eich cyfrinair? Mewngofndwch."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr "Bydd y ffenestr yn cau a bydd creu'r cyfrif yn parhau."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "Gwiriwch eich e-bost yn <strong %(emailId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Cliciwch ar y ddolen yn yr e-bost cadarnhau. Byddwch yn cael eich "
+#~ "mewngofndi i Persona yn syth."
+
+#~ msgid "forgot your password?"
+#~ msgstr "wedi anghofio eich cyfrinair?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr ""
+#~ "Mae eich cyfeiriad e-bost yn un newydd i ni. Crëwch gyfrinair i'w "
+#~ "ddefnyddio gyda Persona."
+
+#~ msgid "verify password"
+#~ msgstr "dilysu'r cyfrinair"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Drwy barhau, rydych yn cytuno i <a %(termsLink)s>Amodau</a> a <a "
+#~ "%(privacyLink)s>Pholisi Preifatrwydd</a> %(persona)s."
+
+#~ msgid "Next"
+#~ msgstr "Nesaf"
+
+#~ msgid "Verify Email"
+#~ msgstr "Dilysu'r E-bost"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "I ddilysu mai chi sydd bia'r <strong %(emailId)s>cyfeiriad</strong>, "
+#~ "rhaid mewngofnodi drwy eich darparwr. Bydd ffenestr newydd yn agor."
+
+#~ msgid "Verify"
+#~ msgstr "Dilysu"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Diolch am ymuno â <strong>Persona</strong>. Mae modd i chi ddefnyddio "
+#~ "eich cyfrif Persona i <em>Fewngofnodi</em> neu <em>Ymuno â</em> gwefannau "
+#~ "ar draws y we!"
+
+#~ msgid "Sign Up"
+#~ msgstr "Ymuno"
+
+#~ msgid ""
+#~ "<strong %(emailId)s>Email</strong> is not registered. Would you like to "
+#~ "<a %(signUpLink)s>sign up</a> instead?"
+#~ msgstr ""
+#~ "Nid yw'r <strong %(emailId)s>e-bost</strong> yma wedi ei gofrestru. "
+#~ "Hoffech chi <a %(signUpLink)s>ymuno</a> yn lle hynny?"
+
+#~ msgid "New to Persona? Sign up today."
+#~ msgstr "Newydd i Persona? Ymunwch heddiw."
+
+#~ msgid ""
+#~ "To verify that you own <strong %(primaryId)s>address</strong>, you must "
+#~ "sign in with your provider.  A new window will be opened."
+#~ msgstr ""
+#~ "Er mwyn dilysu eich <strong %(primaryId)s>cyfeiriad</strong>, rhaid i chi "
+#~ "fewngofnodi gyda eich darparwr.  Bydd ffenestr newydd yn agor."
+
+#~ msgid ""
+#~ "<strong %(emailId)s></strong> is already registered. Would you like to <a "
+#~ "%(signInLink)s>sign in</a> instead?"
+#~ msgstr ""
+#~ "Mae <strong %(emailId)s></strong> eisoes wedi ei gofrestru. Hoffech chi "
+#~ "<a %(signInLink)s>fewngofnodi</a> y lle hynny?"
+
+#~ msgid "Existing account? Sign in."
+#~ msgstr "Cyfrif yn barod? Mewngofnodwch."
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "Cwblhau Mewngofnodi i %s gan ddefnyddio Persona"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Cyfathrebu gyda gweinydd"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Arhoswch am funud tra bod ni'n siarad gyda'r gweinydd."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "Mae Mozilla Persona yn ffordd gyflym a diogel o fewngofnodi.  <a %s>dysgu "
+#~ "rhagor &rarr;</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Diolch am wirio eich cyfeiriad e-bost. Mae'r neges hon yn cael ei anfon "
+#~ "atoch er mwyn cwblhau eich mewngofnodi i %s."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Cwblhewch y cofrestru drwy glicio ar y ddolen hon:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "Bu gwallau wrth geisio cadarnhau eich cyfeiriad. A ydych wedi dilysu'r "
+#~ "cyfeiriad hwn?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "Bu gwallau wrth geisio cwblhau'r cofrestru."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "Mae eich cyfeiriad newydd wedi ei osod ac mi ddylech fod wedi eich "
+#~ "mewngofnodi. Gallwch nawr gau'r ffenestr hon a mynd yn ôl i"
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "Bu anhawster gyda'ch dolen mewngofnodi. A yw'r cyfeiriad wedi ei "
+#~ "gofrestru eisoes?"
+
+#~ msgid "BrowserID"
+#~ msgstr "Persona"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "Cartref BrowserID"
+
+#~ msgid "TOS"
+#~ msgstr "TOS"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "Gwall wrth gyfathrebu gyda'r gweinydd."

@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-24 09:50+0200\n"
+"PO-Revision-Date: 2013-06-28 20:15+0200\n"
+"Last-Translator: Gion-Andri <gion-andri@gmx.ch>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: rm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js:235 /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js
+msgid "Loading..."
+msgstr "Chargiar…"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js:245 /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js
+msgid "Error"
+msgstr "Errur"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js:294
+msgid "Accounts don't match"
+msgstr "Ils acontos na correspundan betg"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error.ejs:3
+msgid "Something went wrong. Please try again later."
+msgstr "Ina errur è capitada. Emprova anc ina giada pli tard."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error_mismatch.ejs:3
+msgid "You're currently signed into Google as %s."
+msgstr "Ti es actualmain annunzià tar Google sco %s."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error_mismatch.ejs:6
+msgid "If you want to use %s, log out of Google and sign in again."
+msgstr ""
+"Sche ti vuls utilisar %s, sorta (logout) da Google e s'annunzia danovamain."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error_mismatch.ejs:10
+msgid "Force Google logout"
+msgstr "Sfurzar in logout tar Google"

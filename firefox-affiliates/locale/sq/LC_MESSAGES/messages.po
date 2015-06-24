@@ -1,0 +1,1807 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 18:40+0000\n"
+"PO-Revision-Date: 2015-01-28 13:00:31\n"
+"Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 0.9.5\n"
+"X-Generator: Pontoon\n"
+
+#. This acts as a placeholder/label for a form selection
+#: affiliates/banners/forms.py:21
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:36
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:45
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:54
+#: affiliates/base/forms.py:22
+msgid "-- select --"
+msgstr "-- përzgjidhni --"
+
+#: affiliates/banners/templates/banners/generator/banners.html:12
+#: affiliates/banners/templates/banners/generator/banners.html:20
+msgid "Choose a Banner"
+msgstr "Zgjidhni Stemë"
+
+#: affiliates/banners/templates/banners/generator/categories.html:12
+#: affiliates/banners/templates/banners/generator/categories.html:20
+msgid "Choose a Category"
+msgstr "Zgjidhni Kategori"
+
+#. The "Category" step is when you pick a category to see a list of banners
+#. within it.
+#: affiliates/banners/templates/banners/generator/macros.html:8
+#: affiliates/banners/templates/banners/generator/macros.html:10
+msgid "Category"
+msgstr "Kategori"
+
+#. The "Choose" step is when you choose a banner to use.
+#: affiliates/banners/templates/banners/generator/macros.html:17
+#: affiliates/banners/templates/banners/generator/macros.html:19
+#: affiliates/banners/templates/banners/generator/macros.html:21
+msgid "Choose"
+msgstr "Zgjidhni"
+
+#. The "Configure" step is when you select a specific variation of a banner.
+#: affiliates/banners/templates/banners/generator/macros.html:28
+#: affiliates/banners/templates/banners/generator/macros.html:30
+#: affiliates/banners/templates/banners/generator/macros.html:32
+msgid "Configure"
+msgstr "Formësojeni"
+
+#. The "Embed" step is when you copy HTML code to put in your webpage to embed
+#. the banner.
+#: affiliates/banners/templates/banners/generator/macros.html:39
+#: affiliates/banners/templates/banners/generator/macros.html:41
+msgid "Embed"
+msgstr "Trupëzojeni"
+
+#: affiliates/banners/templates/banners/generator/macros.html:50
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+#: affiliates/base/templates/base/about.html:119
+#: affiliates/base/templates/base/dashboard.html:100
+msgid "What are smart banners?"
+msgstr "Ç’janë stemat e mençura?"
+
+#: affiliates/banners/templates/banners/generator/macros.html:52
+#: affiliates/base/templates/base/about.html:122
+#: affiliates/base/templates/base/dashboard.html:102
+msgid ""
+"Smart Banners show visitors slightly different messages depending on their "
+"browser. For example, visitors on an older version of Firefox would be "
+"encouraged to upgrade, while visitors on Internet Explorer would be "
+"encouraged to switch."
+msgstr ""
+"Stemat e Mençura u tregojnë vizitorëve mesazhe paksa të ndryshëm, në varësi "
+"nga shfletuesi i tyre. Për shembull, vizitorët nën një version të vjetër të "
+"Firefox-it do të nxiteshin ta përmirësojnë, ndërsa vizitorët nën Internet "
+"Explorer do të nxiteshin ta ndërronin."
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:12
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:25
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:14
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:22
+msgid "Configure Your Banner"
+msgstr "Formësoni Stemën Tuaj"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:33
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:29
+msgid "Language"
+msgstr "Gjuhë"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:42
+msgid "Size"
+msgstr "Madhësi"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:51
+msgid "Color"
+msgstr "Ngjyrë"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:68
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:38
+#: affiliates/facebook/templates/facebook/banner_create.html:68
+#: affiliates/users/templates/users/profile.html:39
+msgid "Save"
+msgstr "Ruaje"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:7
+msgid "Up to date Firefox and other browsers"
+msgstr "Firefox dhe shfletues të tjerë të përditësuar"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:12
+msgid "Out of date Firefox"
+msgstr "Firefox i vjetruar"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:6
+msgid "No preview available."
+msgstr "Nuk ka paraparje gati"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:10
+msgid "Text banner"
+msgstr "Stemë tekst"
+
+#. Smart refers to a type of banner that changes the image depending on the
+#. user's Firefox version.
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+msgid "Smart"
+msgstr "Të mençur"
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: affiliates/base/forms.py:18 affiliates/base/templates/base/base.html:126
+#: affiliates/facebook/forms.py:200
+msgid "Text"
+msgstr "Tekst"
+
+#: affiliates/base/milestones.py:21
+msgid "Almost {0} clicks!"
+msgstr "Thuajse {0} klikime!"
+
+#: affiliates/base/milestones.py:22
+msgid "Drove {0} clicks!"
+msgstr "Ka nxitur {0} klikime!"
+
+#: affiliates/base/milestones.py:23
+msgid "Drove {0} clicks. That's {1} clicks away from the next milestone!"
+msgstr "Ka nxitur {0} klikime. Që janë {1} klikime larg nga piketa pasuese!"
+
+#: affiliates/base/milestones.py:25
+msgid "Driven {0} clicks in total!"
+msgstr "Ka nxitur {0} klikime gjithsej!"
+
+#: affiliates/base/milestones.py:26
+msgid "Drive {0} clicks!"
+msgstr "Të nxiten {0} klikime!"
+
+#: affiliates/base/milestones.py:29
+msgid "Almost {0} downloads!"
+msgstr "Thuajse {0} shkarkime!"
+
+#: affiliates/base/milestones.py:30
+msgid "Drove {0} downloads!"
+msgstr "Ka nxitur {0} shkarkime!"
+
+#: affiliates/base/milestones.py:31
+msgid ""
+"Drove {0} downloads. That's {1} downloads away from the next milestone!"
+msgstr ""
+"Ka nxitur {0} shkarkime. Që janë {1} shkarkime larg nga piketa pasuese!"
+
+#: affiliates/base/milestones.py:33
+msgid "Driven {0} downloads in total!"
+msgstr "Ka nxitur {0} shkarkime gjithsej!"
+
+#: affiliates/base/milestones.py:34
+msgid "Drive {0} downloads!"
+msgstr "Të nxiten {0} shkarkime!"
+
+#: affiliates/base/milestones.py:37
+msgid "Create a banner!"
+msgstr "Krijoni një stemë!"
+
+#: affiliates/base/milestones.py:38
+msgid "Almost {0} banners created!"
+msgstr "Thuajset {0} stema të krijuara!"
+
+#: affiliates/base/milestones.py:39
+msgid "Created {0} banners!"
+msgstr "Ka krijuar {0} stema!"
+
+#: affiliates/base/milestones.py:40
+msgid "Created a banner."
+msgstr "Krijoi një stemë."
+
+#: affiliates/base/milestones.py:43
+msgid "Create a text link!"
+msgstr "Krijoni një lidhje tekst!"
+
+#: affiliates/base/milestones.py:44
+msgid "Almost {0} text links created!"
+msgstr "Thuajse {0} lidhje tekst të krijuara!"
+
+#: affiliates/base/milestones.py:45
+msgid "Created {0} text links!"
+msgstr "Ka krijuar {0} lidhje tekst!"
+
+#: affiliates/base/milestones.py:46
+msgid "Created a text link."
+msgstr "Krijoi një lidhje tekst."
+
+#: affiliates/base/templates/404.html:5 affiliates/base/templates/404.html:11
+msgid "Page not found"
+msgstr "Faqja nuk u gjet"
+
+#: affiliates/base/templates/404.html:13
+msgid "Sorry, but we couldn’t find the page you’re looking for."
+msgstr "Na ndjeni, por nuk e gjetëm dot faqen që po kërkoni."
+
+#: affiliates/base/templates/500.html:5
+msgid "Server error"
+msgstr "Gabim shërbyesi"
+
+#: affiliates/base/templates/500.html:11
+msgid "D’oh! Something went wrong!"
+msgstr "Oh! Diçka shkoi ters!"
+
+#: affiliates/base/templates/500.html:13
+msgid ""
+"Sorry, but something went wrong on our end and we couldn’t process your "
+"request. Please try again in a few minutes."
+msgstr ""
+"Na ndjeni, por diçka shkoi ters në anën tonë dhe nuk e përpunuam dot "
+"kërkesën tuaj. Ju lutemi, riprovoni pas pak minutash."
+
+#: affiliates/base/templates/base/about.html:6
+#: affiliates/base/templates/base/base.html:73
+msgid "About"
+msgstr "Rreth"
+
+#: affiliates/base/templates/base/about.html:13
+msgid "About Firefox Affiliates"
+msgstr "Rreth Përhapësve të Firefox-it"
+
+#: affiliates/base/templates/base/about.html:16
+#: affiliates/base/templates/base/about.html:46
+msgid ""
+"Firefox Affiliate buttons are bits of HTML code that you put on your website"
+" or blog to encourage visitors to download Firefox. When someone clicks a "
+"button on your site and visits the Firefox download page, you get credit for"
+" that click."
+msgstr ""
+"Butonat e Përhapësve të Firefox-it janë copëza kodi HTML që i vendosni në "
+"sajtin tuaj ose blogun tuaj për të nxitur vizitorët të shkarkojnë Firefox-"
+"in. Kur një vizitor te sajti juaj klikon mbi një buton atje dhe viziton "
+"faqen e shkarkimit të Firefox-it, ju përfitoni pikë prej atij klikimi."
+
+#: affiliates/base/templates/base/about.html:25
+#: affiliates/base/templates/base/about.html:55
+msgid ""
+"Affiliates who get a lot of clicks will be featured on our leaderboard and "
+"be eligible for rewards, like Firefox T-shirts. While we do send out prizes "
+"and gifts to our affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox buttons."
+msgstr ""
+"Përhapësit që grumbullojnë shumë klikime prej sajteve të tyre do të "
+"paraqiten te tabela jonë e nderit dhe do të kenë mundësi të fitojnë gjëra të"
+" lezetshme, të tilla si bluza Firefox. Edhe pse për përhapësit dërgojmë herë"
+" pas here çmime dhe dhurata, Përhapësit e Firefox-it nuk ofron shpërblime në"
+" të holla për strehimin e butonave Firefox."
+
+#: affiliates/base/templates/base/about.html:39
+msgid "Frequently Asked Questions"
+msgstr "Pyetje të Bëra Shpesh"
+
+#: affiliates/base/templates/base/about.html:41
+msgid "Using Affiliate buttons"
+msgstr "Përdorimi i butonave të Përhapësit"
+
+#: affiliates/base/templates/base/about.html:43
+msgid "How do affiliate buttons work?"
+msgstr "Si funksionon një buton përhapësi?"
+
+#: affiliates/base/templates/base/about.html:65
+msgid "How do I add an affiliate button to my website?"
+msgstr "Si të shtoj te sajti im një buton përhapësi?"
+
+#: affiliates/base/templates/base/about.html:68
+msgid ""
+"It’s super easy! To start, choose a button and select the Firefox product or"
+" campaign you’d like to support. From there, simply pick your button’s "
+"style, shape and color, and then copy and paste the code into the HTML of "
+"your site. Done! Your unique affiliate ID will be in the code to make sure "
+"you get credit for every click you send our way."
+msgstr ""
+"Është e lehtë! Që t’ia filloni, zgjidhni një buton dhe përzgjidhni produktin"
+" ose fushatën Firefox që dëshironi të përkrahni. Po aty zgjidhni stilin e "
+"butonit tuaj, formën dhe ngjyrën, mandej kopjoni dhe ngjitni kodin përkatës "
+"te HTML-ja e sajtit tuaj. ID-ja juaj unike si përhapës gjendet brenda atij "
+"kodi, dhe kështu merrni pikë për çdo klikim që na dërgoni."
+
+#: affiliates/base/templates/base/about.html:79
+msgid "How do I remove an affiliate button from my website?"
+msgstr "Si ta heq një buton përhapësi prej sajtit tim?"
+
+#: affiliates/base/templates/base/about.html:82
+msgid ""
+"This is also easy. Simply delete the code. If you want to put it back in "
+"again, just copy and paste it from the button picker."
+msgstr ""
+"Edhe kjo është e lehtë. Thjesht fshijeni kodin. Nëse doni ta riktheni, "
+"thjesht kopjojeni prapë prej zgjedhësit të butonave dhe ngjiteni."
+
+#: affiliates/base/templates/base/about.html:89
+msgid "How do text links work?"
+msgstr "Si funksionojnë lidhjet tekst?"
+
+#: affiliates/base/templates/base/about.html:92
+msgid ""
+"Text links work very much like banners. You start by choosing the Firefox "
+"product or campaign you’d like to support, then select the text link you’d "
+"like to use. Copy and paste the link code into the HTML of your site, onto "
+"your email signature, or anywhere else you’d like to have it appear. Your "
+"unique affiliate ID will be in the code to make sure you get credit for "
+"every click you send our way."
+msgstr ""
+"Lidhjet tekst funksionojnë në mënyrë shumë të ngjashme me stemat. Fillojani "
+"duke zgjedhur produktin ose fushatën Firefox që dëshironi të përkrahni, "
+"mandej përzgjidhni lidhjen tekst që do të donit të përdornit. Kopjoni dhe "
+"ngjitni kodin përkatës te html-ja e sajtit tuaj, te nënshkrimi juaj email, "
+"ose kudo qoftë tjetër, ku do të donit të shfaqet. ID-ja juaj unike si "
+"përhapës gjendet brenda atij kodi, për të bërë të mundur të fitoni pikë për "
+"çdo klikim që na dërgoni."
+
+#: affiliates/base/templates/base/about.html:104
+msgid "What happens when an affiliate button for a campaign is deactivated?"
+msgstr "Ç’ndodh kur butoni për përhapje i një fushate çaktivizohet?"
+
+#: affiliates/base/templates/base/about.html:107
+msgid ""
+"Sometimes we run special time-limited campaigns to encourage people to "
+"download Firefox. If you’re using an affiliate button for one of these "
+"campaigns, try to update your button as soon as you can. People who click on"
+" that button will be directed to a general Firefox download page. You’ll get"
+" credit for the click as an Affiliate, but you may not get credit for clicks"
+" for that specific campaign."
+msgstr ""
+"Herë pas here organizojmë fushata speciale të kufizuara në kohë, për nxitjen"
+" e njerëzve që të shkarkojnë Firefox-in. Nëse përdorni një buton përhapësi "
+"për ndonjërën prej këtyre fushatave, provoni ta përditësoni butonin sa më "
+"shpejt që mundeni. Personat që klikojnë mbi atë buton do të drejtohen te një"
+" faqe e përgjithshme shkarkimi të Firefox-it. Do të fitoni pikë për "
+"klikimin, meqë jeni një Përhapës, por mund të mos merrni pikë nga klikimet "
+"për fushatën e dhënë."
+
+#: affiliates/base/templates/base/about.html:132
+msgid "Leaderboard and user statistics"
+msgstr "Statistika përdoruesish dhe Tabele Nderi"
+
+#: affiliates/base/templates/base/about.html:134
+msgid "How often do leaderboard statistics update?"
+msgstr "Sa shpesh përditësohen statistikat e tabelës së nderit?"
+
+#: affiliates/base/templates/base/about.html:137
+msgid ""
+"Leaderboard stats update every night at midnight Pacific Time. No need to "
+"keep hitting refresh over and over again to see how you’re doing. Just check"
+" in the next day to see your progress."
+msgstr ""
+"Statistikat e tabelës së nderit përditësohen çdo natë në mesnatë PT. Nuk ka "
+"nevojë të shtypni butonin e rifreskimit gjithë ditën, që të shihni se si "
+"keni dalë. Që të shihni përparimin tuaj, thjesht kontrollojeni ditën "
+"pasuese."
+
+#: affiliates/base/templates/base/about.html:145
+#: affiliates/facebook/templates/facebook/faq.html:177
+msgid "Is there a prize for getting the most Firefox clicks?"
+msgstr "Jepet ndonjë çmim për atë që ka më shumë klikime Firefox-i?"
+
+#: affiliates/base/templates/base/about.html:147
+msgid ""
+"From time to time we will be sending out T-shirts and other prizes. In "
+"future versions of Firefox Affiliates we will have a rewards program and "
+"more opportunities to participate in affiliate challenges."
+msgstr ""
+"Herë pas here do të dërgojmë bluza tonat dhe çmime të tjera. Në versionet e "
+"ardhshme të Përhapësve do të kemi një program shpërblimi dhe më tepër "
+"mundësi për të marrë pjesë në konkurse përhapësish."
+
+#: affiliates/base/templates/base/about.html:156
+#: affiliates/facebook/templates/facebook/faq.html:194
+msgid "I think my click statistics are wrong. Is there any way to fix them?"
+msgstr ""
+"Mendoj se statistikat për klikimet e mia janë gabim. Ka ndonjë mënyrë për "
+"t’i ndrequr?"
+
+#: affiliates/base/templates/base/about.html:159
+msgid ""
+"If you think there is an error with your click statistics, drop us a note at"
+" <a href=\"%(email)s\">affiliates@mozilla.org</a> and we’ll do our best to "
+"help you out."
+msgstr ""
+"Nëse mendoni se ka gabim te statistikat për klikimet tuaja, na shkruani dy "
+"rreshta te <a href=\"%(email)s\">affiliates@mozilla.org</a> dhe do të bëjmë "
+"ç’është e mundur për t’ju ardhur në ndihmë."
+
+#: affiliates/base/templates/base/about.html:169
+msgid "My profile"
+msgstr "Profili im"
+
+#: affiliates/base/templates/base/about.html:171
+msgid "How do I update my personal profile information?"
+msgstr "Si i përditësoj të dhënat personale të profilit tim?"
+
+#: affiliates/base/templates/base/about.html:174
+msgid ""
+"Moved? Changed your name? Grew a moustache? Just visit your profile page and"
+" click on the edit profile link at the top."
+msgstr ""
+"Lëvizët gjetkë? Ndërruat emrin? Latë mustaqe? Thjesht vizitoni faqen e "
+"profilit tuaj dhe klikoni te lidhja e përpunimit të profilit tuaj në krye."
+
+#: affiliates/base/templates/base/about.html:178
+#: affiliates/users/templates/users/profile.html:44
+msgid ""
+"You can update your avatar picture at <a "
+"href=\"%(gravatar)s\">gravatar.com</a>."
+msgstr ""
+"Mund të ngarkoni figurën e avatarit tuaj te <a "
+"href=\"%(gravatar)s\">gravatar.com</a>."
+
+#: affiliates/base/templates/base/about.html:184
+msgid "How will you contact me if I win a prize?"
+msgstr "Si do të lidheni me mua, nëse fitoj një çmim?"
+
+#: affiliates/base/templates/base/about.html:187
+msgid ""
+"If you qualify for an affiliates prize you will be notified that you have "
+"won via the email account in your affiliates profile."
+msgstr ""
+"Nëse i plotësoni kushtet për një çmim përhapësi, do të njoftoheni se keni "
+"fituar, përmes llogarisë email te profili juaj i përhapësit."
+
+#: affiliates/base/templates/base/about.html:196
+msgid "Getting involved With Firefox Affiliates"
+msgstr "Si të përfshiheni te Përhapësit e Firefox-it"
+
+#: affiliates/base/templates/base/about.html:198
+msgid "I have an idea of a button. How can I share it?"
+msgstr "Kam një ide për buton. Ku ta jap?"
+
+#: affiliates/base/templates/base/about.html:201
+msgid ""
+"Mozilla and Firefox are all about community. If you have an idea, we want to"
+" hear it. Send us a note at <a href=\"%(email)s\">affiliates@mozilla.org</a>"
+" and tell us your amazing idea for the program."
+msgstr ""
+"Gjithë çështja me Mozilla-n dhe Firefox-in është te bashkësia. Nëse keni një"
+" ide, do të na pëlqente ta dëgjonim. Na dërgoni dy rreshta te <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a> dhe na tregoni idenë tuaj të "
+"shkëlqyer lidhur me programin."
+
+#: affiliates/base/templates/base/about.html:210
+msgid "Can I build my own button?"
+msgstr "A mund të krijoj butonin tim?"
+
+#: affiliates/base/templates/base/about.html:213
+msgid ""
+"Not yet… but soon. We're working on a way to make it easy for people to "
+"create their own Firefox buttons in their language. Look for this in future "
+"versions of Firefox Affiliates."
+msgstr ""
+"Ende jo... por së shpejti. Po punojmë për t’ua bërë të kollajtë njerëzve "
+"krijimin e butonave Firefox në gjuhën e tyre. Shihni për këtë në versionet e"
+" ardhshme të Përhapësve të Firefox-it."
+
+#: affiliates/base/templates/base/about.html:221
+msgid "I want to help make Firefox Affiliates better. How can I get involved?"
+msgstr ""
+"Dua të ndihmoj në përmirësimin e Përhapësve të Firefox-it. Si mund të "
+"përfshihem në këtë fushë?"
+
+#: affiliates/base/templates/base/about.html:224
+msgid ""
+"If you’d like to help out with the affiliates program, contact us at <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>. We’d love your help with "
+"everything from coding to marketing."
+msgstr ""
+"Nëse dëshironi të ndihmoni te programi i përhapësve, lidhuni me ne përmes <a"
+" href=\"%(email)s\">affiliates@mozilla.org</a>. Do ta çmonim ndihmën tuaj në"
+" çdo gjë, që nga programimi deri te marketingu."
+
+#: affiliates/base/templates/base/base.html:12
+#: affiliates/base/templates/base/base.html:15
+#: affiliates/base/templates/base/base.html:21
+#: affiliates/base/templates/base/base.html:65
+#: affiliates/base/templates/base/home.html:15
+#: affiliates/facebook/templates/facebook/base.html:15
+#: affiliates/settings/base.py:152
+msgid "Firefox Affiliates"
+msgstr "Përhapës të Firefox-it"
+
+#: affiliates/base/templates/base/base.html:49
+msgid "Close"
+msgstr "Mbylle"
+
+#: affiliates/base/templates/base/base.html:50
+msgid "This field is required."
+msgstr "Kjo fushë është e domosdoshme."
+
+#: affiliates/base/templates/base/base.html:51
+msgid "Thanks for subscribing!"
+msgstr "Faleminderit që u regjistruat!"
+
+#: affiliates/base/templates/base/base.html:52
+msgid "Sorry, there was an error. Please refresh and try again."
+msgstr "Na ndjeni, pati një gabim. Ju lutemi, ringarkojeni dhe riprovoni."
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/base.html:60
+#: affiliates/base/templates/base/base.html:170
+#: affiliates/base/templates/base/strings.html:32
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: affiliates/base/templates/base/base.html:71
+msgid "Menu"
+msgstr "Menu"
+
+#. clicks on their banners.
+#: affiliates/base/templates/base/base.html:74
+#: affiliates/facebook/templates/facebook/base.html:45
+msgid "Leaderboard"
+msgstr "Tabela e Nderit"
+
+#: affiliates/base/templates/base/base.html:75
+#: affiliates/statistics/templates/statistics/index.html:3
+#: affiliates/statistics/templates/statistics/index.html:17
+msgid "Performance"
+msgstr "Suksesshmëri"
+
+#: affiliates/base/templates/base/base.html:84
+#: affiliates/base/templates/base/dashboard.html:14
+#: affiliates/base/templates/base/dashboard.html:22
+#: affiliates/links/templates/links/detail.html:52
+msgid "Dashboard"
+msgstr "Pult"
+
+#: affiliates/base/templates/base/base.html:85
+msgid "Profile"
+msgstr "Profil"
+
+#: affiliates/base/templates/base/base.html:86
+msgid "Sign out"
+msgstr "Dilni!"
+
+#: affiliates/base/templates/base/base.html:90
+msgid "Sign in"
+msgstr "Hyni"
+
+#: affiliates/base/templates/base/base.html:108
+msgid "Get Firefox Affiliates News"
+msgstr "Merrni Lajme nga Ekipi i Përhapësve të Firefox-it"
+
+#: affiliates/base/templates/base/base.html:111
+#: affiliates/facebook/forms.py:203
+#: affiliates/facebook/templates/facebook/base.html:159
+msgid "Your email address"
+msgstr "Adresa juaj email"
+
+#: affiliates/base/templates/base/base.html:116
+msgid "Country"
+msgstr "Vend"
+
+#: affiliates/base/templates/base/base.html:121
+msgid "Format"
+msgstr "Format"
+
+#: affiliates/base/templates/base/base.html:132
+msgid "HTML"
+msgstr "HTML"
+
+#: affiliates/base/templates/base/base.html:142
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr ""
+"E miratoj përdorimin e të dhënave të mia nga Mozilla, siç e shpjegoni te <a "
+"href=\"%s\">këto Rregulla Privatësie</a>"
+
+#. Label used for the newsletter signup button.
+#: affiliates/base/templates/base/base.html:150
+#: affiliates/facebook/templates/facebook/base.html:180
+msgid "Sign me up!"
+msgstr "Regjistromë!"
+
+#: affiliates/base/templates/base/base.html:175
+msgid ""
+"Portions of this content are ©1998–%(thisyear)s by individual mozilla.org "
+"contributors. Content available under a <a href=\"%(license)s\">Creative "
+"Commons license</a>."
+msgstr ""
+"Pjesë të kësaj lënde janë të drejta kopjimi ©1998–%(thisyear)s nga "
+"kontributorë individualë te mozilla.org. Lëndë që mund të përdoret sipas "
+"licencës <a href=\"%(license)s\">Creative Commons license</a>."
+
+#: affiliates/base/templates/base/base.html:182
+msgid "Source code"
+msgstr "Kodi burim"
+
+#: affiliates/base/templates/base/base.html:187
+msgid "Contact Us"
+msgstr "Lidhuni me Ne"
+
+#: affiliates/base/templates/base/base.html:188
+msgid "Partner with Us"
+msgstr "Partneritet me Ne"
+
+#: affiliates/base/templates/base/base.html:189
+msgid "Donate"
+msgstr "Dhuroni"
+
+#: affiliates/base/templates/base/base.html:190
+msgid "Privacy Policy"
+msgstr "Rregulla Privatësie"
+
+#: affiliates/base/templates/base/base.html:191
+msgid "Legal Notices"
+msgstr "Shënime Ligjore"
+
+#: affiliates/base/templates/base/base.html:192
+msgid "Report Trademark Abuse"
+msgstr "Njoftoni Dhunim Shenjash Tregtare"
+
+#: affiliates/base/templates/base/base.html:196
+msgid "Mozilla on Twitter"
+msgstr "Mozilla në Twitter"
+
+#: affiliates/base/templates/base/base.html:197
+msgid "Firefox on Twitter"
+msgstr "Firefox-i në Twitter"
+
+#: affiliates/base/templates/base/base.html:198
+msgid "Mozilla on Facebook"
+msgstr "Mozilla në Facebook"
+
+#: affiliates/base/templates/base/base.html:199
+msgid "Firefox on Facebook"
+msgstr "Firefox-i në Facebook"
+
+#: affiliates/base/templates/base/dashboard.html:23
+msgid ""
+"See how your banners are performing and where you rank among other Firefox "
+"Affiliates. Thanks for supporting Firefox and the Mozilla mission to build a"
+" better Web for all!"
+msgstr ""
+"Shihni se si po ecin stemat tuaja dhe se ç’vend zini mes Përhapësve të "
+"Firefox-it. Faleminderit që përkrahni Firefox-in dhe misionin e  Mozilla-s "
+"për ndërtimin e një Web-i më të mirë për të gjithë!"
+
+#: affiliates/base/templates/base/dashboard.html:26
+msgid "My stats"
+msgstr "Statistikat e mia"
+
+#: affiliates/base/templates/base/dashboard.html:35
+msgid "My Banners"
+msgstr "Stemat e Mia"
+
+#: affiliates/base/templates/base/dashboard.html:36
+#: affiliates/facebook/templates/facebook/banner_list.html:76
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:7
+msgid "Create a new banner"
+msgstr "Krijoni një stemë të re"
+
+#: affiliates/base/templates/base/dashboard.html:47
+msgid "You don’t have any banners yet. Why not create one now?"
+msgstr "Nuk keni ende stema? Po sikur të krijoni një të tillë tani?"
+
+#: affiliates/base/templates/base/dashboard.html:52
+#: affiliates/base/templates/base/home.html:66
+msgid "1. Pick a banner"
+msgstr "1. Zgjidhni një stemë"
+
+#: affiliates/base/templates/base/dashboard.html:53
+#: affiliates/base/templates/base/home.html:67
+msgid ""
+"Choose from a number of designs that support Firefox and other Mozilla "
+"products."
+msgstr ""
+"Zgjidhni prej një numri skemash që mbulojnë Firefox-in dhe të tjera produkte"
+" Mozilla."
+
+#: affiliates/base/templates/base/dashboard.html:56
+#: affiliates/base/templates/base/home.html:70
+msgid "2. Customize"
+msgstr "2. Përshtateni"
+
+#: affiliates/base/templates/base/dashboard.html:57
+#: affiliates/base/templates/base/home.html:71
+msgid ""
+"Select the size and color that suits your site. Banners and links are also "
+"available in over 30 languages."
+msgstr ""
+"Përzgjidhni madhësinë dhe ngjyrën që i përshtaten sajtit tuaj. Stemat dhe "
+"lidhjet mund të kihen në mbi 30 gjuhë."
+
+#: affiliates/base/templates/base/dashboard.html:60
+#: affiliates/base/templates/base/home.html:74
+msgid "3. Post to your site"
+msgstr "3. Postojeni te sajti juaj"
+
+#: affiliates/base/templates/base/dashboard.html:61
+#: affiliates/base/templates/base/home.html:75
+msgid ""
+"Copy and paste the HTML or text link into your site, email or wherever you’d"
+" like to share it."
+msgstr ""
+"Kopjoni dhe hidheni HTML-në ose lidhjen tekst te sajti juaj, email-i ose "
+"kudo tjetër ku do të donit ta ndanit me të tjerët."
+
+#: affiliates/base/templates/base/dashboard.html:71
+msgid "My Milestones"
+msgstr "Piketat e Mia"
+
+#: affiliates/base/templates/base/dashboard.html:79
+msgid "Affiliates News"
+msgstr "Lajme Përhapësish"
+
+#: affiliates/base/templates/base/dashboard.html:84
+msgid "Become a Mozillian"
+msgstr "Bëhuni Moxillian"
+
+#: affiliates/base/templates/base/dashboard.html:86
+msgid ""
+"At Mozilla, doing good is part of our code. Our mission is to promote "
+"openness, innovation and opportunity on the Web, and we can only do it with "
+"awesome people like you. If you’d like to do even more to help our mission, "
+"we have volunteer opportunities available in a number of areas."
+msgstr ""
+"Te Mozilla, kontributi për të mirën është pjesë e kodit tonë. Misioni ynë "
+"është të nxisim të qenët të hapur, risitë dhe mundësitë në Web, dhe mund ta "
+"arrijmë vetëm me persona të mrekullueshëm si ju. Nëse doni të jepni edhe më "
+"tepër ndihmesë lidhur me misionin tonë, keni mundësi vullnetarizmi në një "
+"numër fushash."
+
+#: affiliates/base/templates/base/dashboard.html:93
+msgid "Learn more"
+msgstr "Mësoni më tepër"
+
+#: affiliates/base/templates/base/home.html:24
+#, fuzzy
+msgid "So long, <strong>Firefox Affiliates</strong>."
+msgstr "Mirë se vini te Përhapësit e Firefox-it"
+
+#: affiliates/base/templates/base/home.html:25
+msgid "Hello, <strong>Firefox Friends</strong>."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:27
+msgid ""
+"We’re moving our Affiliates program to Firefox Friends, an exciting new way "
+"to share what we do with the world. At Firefox Friends you’ll have "
+"opportunities to get recognized for making an impact — plus, you’ll be in "
+"the know for all the latest Mozilla news and announcements."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:33
+msgid ""
+"At the beginning of August, new banner creation for Affiliates will be "
+"disabled, so please join us at Firefox Friends to continue sharing Mozilla "
+"with world."
+msgstr ""
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/home.html:36
+#, fuzzy
+msgid "Join Firefox Friends"
+msgstr "Shtojca Firefox-i"
+
+#: affiliates/base/templates/base/home.html:38
+msgid "Click here for more information"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:49
+msgid "This site requires JavaScript."
+msgstr "Ky sajt lyp JavaScript."
+
+#: affiliates/base/templates/base/home.html:55
+msgid "Become a Firefox Affiliate today!"
+msgstr "Bëhuni që sot një Përhapës i Firefox-it!"
+
+#: affiliates/base/templates/base/home.html:56
+msgid ""
+"Get everything you need to share Firefox – and the other Mozilla products "
+"you love – with the world. Climb the leaderboard to help us build a better "
+"Web."
+msgstr ""
+"Merrni gjithçka që ju duhet për ta ndarë Firefox-in – dhe të tjera produkte "
+"të dashura Mozilla – me botën. Ngjituni sipër në tabelën e nderit, duke na "
+"ndihmuar të krijojmë një Web më të mirë."
+
+#: affiliates/base/templates/base/home.html:57
+msgid "Get started"
+msgstr "Nisjani"
+
+#: affiliates/base/templates/base/home.html:63
+msgid "How it works"
+msgstr "Si funksionon"
+
+#: affiliates/base/templates/base/home.html:83
+msgid "Earn rewards!"
+msgstr "Fitoni shpërblime!"
+
+#: affiliates/base/templates/base/home.html:84
+msgid ""
+"Climb the affiliates leaderboard for your chance to win awesome Firefox "
+"gear, and to get even more involved with Mozilla. The more you share, the "
+"higher you can climb."
+msgstr ""
+"Climb the affiliates leaderboard for your chance to win awesome Firefox "
+"gear, and to get even more involved with Mozilla. The more you share, the "
+"higher you can climb."
+
+#: affiliates/base/templates/base/home.html:97
+msgid "Top affiliates"
+msgstr "Përhapësit kryesues"
+
+#: affiliates/base/templates/base/macros.html:49
+msgid "Someday soon!"
+msgstr "Së shepjti!"
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:64
+msgid "<strong>%(rank)s</strong> ranking"
+msgstr "<strong>%(rank)s</strong> në renditje"
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:69
+msgid "Not yet ranked"
+msgstr "Ende i parenditur"
+
+#: affiliates/base/templates/base/macros.html:78
+msgid "<strong>%(count)s</strong> affiliate"
+msgid_plural "<strong>%(count)s</strong> affiliates"
+msgstr[0] "<strong>%(count)s</strong> përkrahës"
+msgstr[1] "<strong>%(count)s</strong> përkrahës"
+
+#: affiliates/base/templates/base/macros.html:86
+msgid "<strong>%(count)s</strong> click"
+msgid_plural "<strong>%(count)s</strong> clicks"
+msgstr[0] "<strong>%(count)s</strong> klikim"
+msgstr[1] "<strong>%(count)s</strong> klikime"
+
+#: affiliates/base/templates/base/macros.html:94
+msgid "<strong>%(count)s</strong> banner"
+msgid_plural "<strong>%(count)s</strong> banners"
+msgstr[0] "<strong>%(count)s</strong> stemë"
+msgstr[1] "<strong>%(count)s</strong> stema"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:31
+msgid "Firefox"
+msgstr "Firefox"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:33
+msgid "Firefox OS"
+msgstr "Firefox OS"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:38
+msgid "Mozilla Recruiting"
+msgstr "Punësime Mozilla"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:39
+msgid "Firefox for Mobile"
+msgstr "Firefox për Celular"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:40
+msgid "Firefox for Desktop"
+msgstr "Firefox për Desktop"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:41
+msgid "Firefox Plugins"
+msgstr "Shtojca Firefox-i"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:46
+msgid "Android"
+msgstr "Android"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:47
+msgid "Upgrade"
+msgstr "Përditëso"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:48
+msgid "Download: Fast, Fun, Awesome"
+msgstr "Shkarkojeni: I shpejtë, Zbavitës, I mahnitshëm"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:49
+msgid "Work for Mozilla"
+msgstr "Punoni për Mozilla-n"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:50
+msgid "Plugin Checker"
+msgstr "Kontrollor Shtojce"
+
+#: affiliates/base/templates/base/strings.html:51
+msgid "Download Aurora"
+msgstr "Shkarkoni Aurora-n"
+
+#: affiliates/base/templates/base/strings.html:52
+msgid "Aurora for Android"
+msgstr "Aurora për Android"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:53
+msgid "Download Beta"
+msgstr "Shkarkoni Beta-n"
+
+#. 3.6 refers to Firefox version 3.6
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:55
+msgid "3.6 Upgrade"
+msgstr "Përditësim për 3.6"
+
+#: affiliates/base/templates/base/strings.html:56
+msgid "Facebook Messenger for Firefox"
+msgstr "Facebook Messenger për Firefox"
+
+#: affiliates/base/templates/base/strings.html:61
+msgid "Purple"
+msgstr "E purpurt"
+
+# Color for badge images.
+#: affiliates/base/templates/base/strings.html:62
+msgid "Blue"
+msgstr "Blu"
+
+#: affiliates/base/templates/base/strings.html:63
+msgid "Green"
+msgstr "E gjelbër"
+
+#: affiliates/base/templates/base/strings.html:64
+msgid "Red"
+msgstr "E kuqe"
+
+#: affiliates/base/templates/base/strings.html:65
+msgid "Orange"
+msgstr "Portokalli"
+
+#: affiliates/base/templates/base/strings.html:66
+msgid "Yellow"
+msgstr "E verdhë"
+
+#: affiliates/base/templates/base/strings.html:67
+msgid "White"
+msgstr "E bardhë"
+
+#: affiliates/base/templates/base/strings.html:68
+msgid "Black"
+msgstr "E zezë"
+
+#: affiliates/base/templates/base/terms.html:6
+#: affiliates/base/templates/base/terms.html:14
+msgid "Terms of Service"
+msgstr "Kushtet e Shërbimit"
+
+#. L10n: &hellip; is an ellipses, the three dots like "I love Firefox
+#. because..."
+#: affiliates/facebook/forms.py:18
+msgid "I love Firefox because&hellip;"
+msgstr "E dua Firefox-in sepse &hellip;"
+
+#: affiliates/facebook/forms.py:28
+msgid "Enter e-mail"
+msgstr "Jepni e-mail"
+
+#: affiliates/facebook/forms.py:93
+msgid ""
+"Sorry. Your message is too long. Please tell the world why you love Firefox "
+"in 90 characters or less."
+msgstr ""
+"Na ndjeni. Mesazhi juaj është shumë i gjatë. Ju lutemi, dashurinë tuaj për "
+"Firefox-in shpreheni me 90 ose më pak shkronja."
+
+#. L10n: Used in a dropdown that lets users filter the Leaderboard by
+#. L10n: country. Refers to the default filter, which shows all countries
+#: affiliates/facebook/forms.py:179
+msgid "All"
+msgstr "Krejt"
+
+#. Account linking lets a user associate an Affiliates account with their
+#. Facebook app account. Description is in another string. :D
+#: affiliates/facebook/managers.py:139
+#: affiliates/facebook/templates/facebook/base.html:86
+msgid "Link your Firefox Affiliates account"
+msgstr "Krijoni lidhje për te llogaria juaj e Përhapësit të Firefox-it"
+
+#: affiliates/facebook/models.py:313
+msgid "Way to go! You've had {0} clicks on your Firefox banner."
+msgstr ""
+"Shumë rrugë për të bërë! Keni patur {0} klikime te stema juaj e Firefox-it."
+
+#: affiliates/facebook/models.py:315
+msgid ""
+"Amazing! You've had {0} clicks on your Firefox banner. Thanks for spreading "
+"the word."
+msgstr ""
+"Shkëlqyeshëm! Keni {0} klikime te stema juaj për Firefox-in. Faleminderit "
+"për përhapjen e lajmit."
+
+#: affiliates/facebook/models.py:318
+msgid ""
+"Wow! Your banner has {0} clicks! It's ready to grow up and become a Firefox "
+"ad."
+msgstr ""
+"Ou! Stema juaj ka {0} klikime! Është gati për rritje dhe për t’u bërë një "
+"reklamë Firefox-i."
+
+#: affiliates/facebook/models.py:320
+msgid "Congratulations! Your Firefox banner has now become a Facebook ad!"
+msgstr ""
+"Përgëzime! Stema juaj Firefox është bërë tani një reklamë Facebook me "
+"pagesë!"
+
+#: affiliates/facebook/views.py:177
+msgid "Your banner has been deleted."
+msgstr "Stema juaj u fshi."
+
+#: affiliates/facebook/views.py:211
+msgid "You have successfully posted a banner to your wall !"
+msgstr "Postuat me sukses një stemë te muri juaj!"
+
+#: affiliates/facebook/views.py:303
+msgid "You have successfully sent a message to one of your friends!"
+msgstr "I dërguat me sukses një mesazh njërit prej miqve tuaj!"
+
+#. Banner styles are images that will be used as the background of a banner
+#. that the user creates.
+#: affiliates/facebook/templates/facebook/banner_create.html:18
+msgid "First, choose one of the banner styles below."
+msgstr "Së pari, zgjidhni një nga stilet e stemave më poshtë."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:24
+msgid "Please correct the errors in the form below."
+msgstr "Ju lutemi, ndreqni gabimet në formularin e mëposhtëm."
+
+#. Used above a box showing what a banner will look like once it is created.
+#: affiliates/facebook/templates/facebook/banner_create.html:26
+msgid "Your banner preview"
+msgstr "Paraparje e stemës suaj"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:36
+msgid "Next, tell the world why you love Firefox in 90 characters or less."
+msgstr ""
+"Më tej, me 90 shkronja ose më pak, tregojini botës përse e doni Firefox-in."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:42
+msgid "Use my profile image"
+msgstr "Përdor figurën e profilit tim"
+
+#. Label for a checkbox that gives us permission to use the user's banner in a
+#. paid Facebook ad.
+#: affiliates/facebook/templates/facebook/banner_create.html:46
+msgid "Feature me in a paid Facebook ad."
+msgstr "Përfshimëni në një reklamë Facebook-u me pagesë."
+
+#. Used on a link that, when clicked, pops up a text bubble with an
+#. explanation of a form field.
+#: affiliates/facebook/templates/facebook/banner_create.html:49
+msgid "What does this mean?"
+msgstr "Ç’do të thotë kjo?"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:52
+msgid ""
+"If you get %(click_count)s clicks or more, we would like to have permission "
+"to turn your banner into a paid ad on Facebook in your region. By checking "
+"this box you are granting us permission to use your banner in a paid "
+"Facebook ad, including your profile photo if you checked the box to include "
+"it in the banner, and the text you added to the banner. For a full "
+"description of the rights you are granting and more information, see the "
+"FAQs. Don't want to be featured in an ad? Make sure you don't opt in. If you"
+" opted in and don't want to be featured anymore, send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure your ad is "
+"removed."
+msgstr ""
+"Nëse përfitoni %(click_count)s ose më shumë klikime, do të donim të kishim "
+"lejen tuaj për ta shndërruar stemën tuaj në një reklamë Facebook-u me pagesë"
+" për rajonin tuaj. Duke i vënë shenjë kësaj kutie na akordoni lejen për ta "
+"përdorur stemën tuaj në një reklamë Facebook-u me pagesë, përfshi këtu foton"
+" tuaj të profilit, po qe se i vutë shenjë edhe kutizës për përfshirjen e saj"
+" te stema, si dhe tekstin që i shtuat stemës. Për një përshkrim të plotë të "
+"të drejtave që po akordoni dhe për më tepër të dhëna, shihni FAQ. Nuk "
+"dëshironi të përfshiheni në një reklamë? Sigurohuni që nuk keni zgjedhur të "
+"kundërtën. Nëse kështu zgjodhët, por nuk dëshironi të përfshiheni më, na "
+"dërgoni një shënim te <a href=\"%(link)s\">affiliates@mozilla.org</a> dhe do"
+" të bëjmë të mundur që reklama juaj të hiqet."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:69
+msgid "Save and Share"
+msgstr "Ruajeni dhe Ndajeni me të Tjerët"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:14
+msgid "Are you sure?"
+msgstr "Jeni i sigurt?"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:15
+msgid "These are the banners you've created so far:"
+msgstr "Këto janë stemat që keni krijuar deri këtu:"
+
+#. Heading referring to when a banner was created.
+#: affiliates/facebook/templates/facebook/banner_list.html:26
+msgid "Creation date"
+msgstr "Datë krijimi"
+
+#. Heading above the number of clicks a banner has received.
+#: affiliates/facebook/templates/facebook/banner_list.html:30
+msgid "Clicks"
+msgstr "Klikime"
+
+#. Link that, when clicked, shows a dialog for posting a banner to a user's
+#. Facebook feed.
+#: affiliates/facebook/templates/facebook/banner_list.html:37
+msgid "Post to Feed"
+msgstr "Postoje te Prurja"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:45
+msgid "Delete"
+msgstr "Fshije"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:67
+msgid "Click Goal: <span>%(count)s</span>"
+msgstr "Synim për Klikimet: <span>%(count)s</span>"
+
+#: affiliates/facebook/templates/facebook/base.html:16
+msgid "Help us share Firefox with the world."
+msgstr "Na ndihmoni ta ndajmë Firefox-in me botën."
+
+#: affiliates/facebook/templates/facebook/base.html:20
+#: affiliates/facebook/templates/facebook/base.html:148
+msgid "Invite your friends to Download Firefox!"
+msgstr "Ftoni miqtë tuaj të Shkarkojnë Firefox-in!"
+
+#: affiliates/facebook/templates/facebook/base.html:29
+msgid "My banners"
+msgstr "Stemat e mia"
+
+#. answers to common questions about the app.
+#. FAQs is an abbreviation for Frequently Asked Questions
+#: affiliates/facebook/templates/facebook/base.html:37
+#: affiliates/facebook/templates/facebook/faq.html:13
+msgid "FAQs"
+msgstr "FAQ"
+
+#: affiliates/facebook/templates/facebook/base.html:92
+msgid ""
+"Do you already have an account from affiliates.mozilla.org? You can link "
+"your account to this application and you'll get credit for any clicks that "
+"you drive through Facebook. To connect your account, just click here and "
+"fill in your information. We'll send you an email to confirm. If you'd like "
+"to sign up for an account, just visit <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"Keni tashmë një llogari te affiliates.mozilla.org? Mund ta lidhni llogarinë "
+"tuaj te ky aplikacion dhe do të përfitoni pikë për çdo klikim që sillni "
+"përmes Facebook-ut. Për t’u lidhur te llogaria juaj, thjesht klikoni këtu "
+"dhe plotësoni të dhënat tuaja. Do t’ju dërgojmë një email ripohimi. Nëse "
+"dëshironi të regjistroni një llogari, thjesht vizitoni <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+
+#. Label used for the account linking button.
+#: affiliates/facebook/templates/facebook/base.html:103
+msgid "Submit"
+msgstr "Parashtroje"
+
+#: affiliates/facebook/templates/facebook/base.html:107
+msgid "Thanks for linking your affiliates.mozilla.org account."
+msgstr ""
+"Faleminderit për lidhjen e krijuar te llogaria juaj affiliates.mozilla.org."
+
+#: affiliates/facebook/templates/facebook/base.html:108
+msgid ""
+"If the email address you entered has an account, you will receive a "
+"confirmation email."
+msgstr ""
+"Nëse adresa email që dhatë ka një llogari, do të merrni një email ripohimi."
+
+#: affiliates/facebook/templates/facebook/base.html:113
+msgid "Linked to <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+msgstr "U krijua lidhje te <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+
+#: affiliates/facebook/templates/facebook/base.html:120
+msgid ""
+"This account is linked to affiliates.mozilla.org. You are credited for "
+"clicks from Facebook. You can unlink accounts by clicking below."
+msgstr ""
+"Kjo llogari është e lidhur te affiliates.mozilla.org. Përfitoni pikë për "
+"klikime nga Facebook-u. Llogaritë mund t’i shkëputni duke klikuar më poshtë."
+
+#. Text on a button that lets a user unlink their Facebook and Affiliates
+#. accounts.
+#: affiliates/facebook/templates/facebook/base.html:125
+msgid "Remove %(email_address)s"
+msgstr "Hiqe %(email_address)s"
+
+#: affiliates/facebook/templates/facebook/base.html:134
+msgid "Your Statistics Summary"
+msgstr "Përmbledhje e Statistikave Tuaja"
+
+#: affiliates/facebook/templates/facebook/base.html:138
+msgid ""
+"You can filter results by selecting a specific month using the calendar "
+"above."
+msgstr ""
+"Përfundimet mund t’i filtroni duke përzgjedhur një muaj të dhënë te "
+"kalendari më sipër."
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/base.html:139
+#: affiliates/facebook/templates/facebook/leaderboard.html:27
+msgid "Total clicks"
+msgstr "Klikime gjithsej"
+
+#: affiliates/facebook/templates/facebook/base.html:140
+msgid "Statistics are currently unavailable."
+msgstr "Statistikat nuk janë të passhme këtë çast."
+
+#: affiliates/facebook/templates/facebook/base.html:144
+msgid "Be a part of the Firefox movement"
+msgstr "Bëhuni pjesë e lëvizjes Firefox"
+
+#: affiliates/facebook/templates/facebook/base.html:145
+msgid "It's easy!"
+msgstr "Është e lehtë!"
+
+#: affiliates/facebook/templates/facebook/base.html:147
+msgid "Create your custom banner."
+msgstr "Krijoni stemën tuaj të personalizuar"
+
+#: affiliates/facebook/templates/facebook/base.html:149
+msgid "Get clicks and you could be featured in a paid Facebook ad."
+msgstr ""
+"Përfitoni klikime dhe mundet që të përfshiheni te një reklamë me pagesë në "
+"Facebook."
+
+#: affiliates/facebook/templates/facebook/base.html:155
+msgid "Get Firefox News"
+msgstr "Merrni Lajme mbi Firefox-in"
+
+#: affiliates/facebook/templates/facebook/base.html:171
+msgid "I agree to the <a href=\"%(link)s\">Privacy Policy</a>"
+msgstr "Pajtohem me <a href=\"%(link)s\">Rregullat e Privatësisë</a>"
+
+#: affiliates/facebook/templates/facebook/base.html:175
+msgid "We will only send you Mozilla-related information."
+msgstr "Do t’ju dërgojmë vetëm të dhëna që kanë lidhje me Mozilla-n."
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/base.html:184
+#: affiliates/facebook/templates/facebook/link_activation_email.html:13
+msgid "Thanks!"
+msgstr "Faleminderit!"
+
+#: affiliates/facebook/templates/facebook/error.html:10
+msgid "Whoops!"
+msgstr "Oooh!"
+
+#: affiliates/facebook/templates/facebook/error.html:11
+msgid "What are you doing here?"
+msgstr "Ç’bëni këtu?"
+
+#: affiliates/facebook/templates/facebook/error.html:14
+msgid ""
+"Did you make a left at that last URL instead of a right? No problem. Here "
+"are some tips to get you back on your way:"
+msgstr ""
+"Mos u kthyet majtas te URL-ja e fundit, në vend se të ktheheshit djathtas? "
+"S’ka problem. Ja pak ndihmë për t’ju kthyer në drejtimin e duhur:"
+
+#: affiliates/facebook/templates/facebook/error.html:21
+msgid ""
+"If you typed in the address, check your spelling. Could just be a typo."
+msgstr ""
+"Po qe se e shtypët adresën, kontrollojini drejtshkrimin. Mundet të jetë "
+"gabim shkrimi."
+
+#: affiliates/facebook/templates/facebook/error.html:26
+msgid ""
+"If you followed a link, it’s probably broken. Please <a "
+"href=\"mailto:%(email)s\">contact us</a> and we’ll fix it."
+msgstr ""
+"Nëse mbërritët këtu përmes një lidhjeje, ndoshta është e dëmtuar. Ju lutemi,"
+" <a href=\"mailto:%(email)s\">lidhuni me ne</a> dhe do ta ndreqim."
+
+#: affiliates/facebook/templates/facebook/error.html:32
+msgid ""
+"If you're not sure what you're looking for, start at <a "
+"href=\"%(link)s\">mozilla.org</a>."
+msgstr ""
+"Nëse nuk jeni i sigurt për çfarë po shihni, fillojani me <a "
+"href=\"%(link)s\">mozilla.org</a>."
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:18
+msgid "Using Affiliate banners"
+msgstr "Përdorimi i stemave të Përhapësve"
+
+#: affiliates/facebook/templates/facebook/faq.html:21
+msgid "What is Firefox Affiliates?"
+msgstr "Çfarë janë Përhapësit e Firefox-it?"
+
+#: affiliates/facebook/templates/facebook/faq.html:24
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"eligible for fun stuff like Firefox T-shirts and, if you opt in, we may "
+"feature your banner in a paid-ad on the Facebook ad network. While we do "
+"send out prizes and gifts to our Affiliates from time to time, Firefox "
+"Affiliates does not offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Përhapësit e Firefox-it ju mundësojnë të krijoni stema dhe t’i vendosni ato "
+"te profili juaj Facebook që të nxitni vizitorët të shkarkojnë Firefox-in. "
+"Kur një vizitor i faqes suaj ose një që sheh përditësimin e gjendjes suaj "
+"klikon mbi një nga butonat dhe viziton faqen e shkarkimit të Firefox-it, ju "
+"përfitoni pikë nga ai shkarkim. Përhapësit që grumbullojnë shumë shkarkime "
+"përmes profilit të tyre do të paraqiten te tabela jonë e nderit dhe do të "
+"kenë mundësi të fitojnë gjëra të lezetshme, të tilla si bluza Firefox, dhe, "
+"po qe se e zgjidhni këtë mundësi, mund ta përfshijmë stemën tuaj në një "
+"reklamë me pagesë te rrjeti i reklamave të Facebook-ut. Edhe pse dërgojmë "
+"herë pas here çmime dhe dhurata, Përhapësit e Firefox-it nuk ofron "
+"shpërblime në të holla për strehimin e stemave Firefox."
+
+#: affiliates/facebook/templates/facebook/faq.html:43
+msgid "How do I add a banner to my Facebook profile?"
+msgstr "Si ta shtoj një stemë te profili im Facebook?"
+
+#: affiliates/facebook/templates/facebook/faq.html:48
+msgid ""
+"Select a banner design that you like using the <a href=\"%(link)s\">banner "
+"builder</a>, add a personal message about why you love Firefox and then "
+"click \"share.\" This will post the banner to your Facebook timeline and "
+"into your friends' newsfeed."
+msgstr ""
+"Përzgjidhni një nga stemat që ju pëlqen, duke përdorur <a "
+"href=\"%(link)s\">krijuesin e stemave</a>, shtojini një mesazh personal "
+"rreth arsyes së dashurisë suaj për Firefox-in dhe mandej klikoni \"ndajeni "
+"me të tjerët.\" Kjo do të bëjë që stema të postohet te rrjedha juaj kohore e"
+" Facebook-ut dhe te prurja e lajmeve në miqtë tuaj."
+
+#: affiliates/facebook/templates/facebook/faq.html:60
+msgid "How do I invite a friend to use Firefox?"
+msgstr "Si ta ftoj një shok të përdorë Firefox-in?"
+
+#: affiliates/facebook/templates/facebook/faq.html:64
+msgid ""
+"If you'd like to personally invite someone to use Firefox, just select "
+"\"Share ad with friends\" from the side menu and you will be able to send a "
+"Facebook message with a custom Firefox download link. If your friend clicks "
+"on the link, you'll also get credit for the click."
+msgstr ""
+"Nëse do të donit të ftonit personalisht dikë të përdorë Firefox-in, thjesht "
+"përzgjidhni \"Ndajeni reklamën me miqtë\" te menuja anash dhe do të jeni në "
+"gjendje të dërgoni një mesazh nga Facebook-u me një lidhje të personalizuar "
+"shkarkimi Firefox-i. Nëse miqtë tuaj klikojnë te lidhja, ju përfitoni pikë "
+"nga këto klikime."
+
+#: affiliates/facebook/templates/facebook/faq.html:76
+msgid "Can my banner become a paid Facebook ad?"
+msgstr "A mund të bëhet stema ime një reklamë Facebook me pagesë?"
+
+#: affiliates/facebook/templates/facebook/faq.html:80
+msgid ""
+"If you checked the box to allow your banner to be featured in a paid "
+"Facebook ad, once you've reached %(click_count)s clicks on a Facebook "
+"banner, your banner will become eligible to be a paid Facebook ad. This "
+"means that Mozilla will pay to have an ad placed on the Facebook ad network "
+"sharing your message of why you love Firefox. We will notify you if your "
+"banner is chosen to be a paid ad in your region. If you do not want to "
+"participate in this, don't click the opt-in when you build your banner. If "
+"you've opted in by accident, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure you aren't "
+"included in the ad selection."
+msgstr ""
+"Nëse i vutë shenjë kutizës që të lejoni stemën tuaj të bëhet pjesë e një "
+"reklame me pagesë në Facebook, sapo të keni kapur %(click_count)s klikime "
+"mbi një stemë Facebook-u, stema juaj do të jetë e përzgjedhshme për të qenë "
+"reklamë Facebook me pagesë. Kjo do të thotë që Mozilla do të paguajë për të "
+"pasur një reklamë te rrjeti i reklamave Facebook, e cila paraqet mesazhin "
+"tuaj rreth pse e doni Firefox-in. Nëse stema juaj zgjidhet për të qenë një "
+"reklamë me pagesë në zonën tuaj, do t’jua bëjmë të ditur. Nëse nuk doni "
+"gjëra të tilla, mos i vini shenjë zgjedhjes kur krijoni stemën tuaj. Nëse i "
+"vutë shenjë padashka, ju lutemi, lidhuni me ne përmes <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> dhe të sigurojmë mospërfshirjen"
+" tuaj te përzgjedhja për reklamat."
+
+#: affiliates/facebook/templates/facebook/faq.html:100
+msgid ""
+"If I opted in to having my banner become a paid Facebook ad, what exactly am"
+" I giving you permission to do?"
+msgstr ""
+"Po qe se kam zgjedhur që stema ime të mund të bëhet reklamë e paguar në "
+"Facebook, çfarë lejesh po ju jap saktësisht?"
+
+#: affiliates/facebook/templates/facebook/faq.html:108
+msgid ""
+"You are giving us permission to use, reproduce, distribute, edit, and "
+"display your photo, if it is included in your banner, and your message about"
+" why you love Firefox, for commercial purposes, specifically in a paid ad on"
+" Facebook. You are also acknowledging that you will not be paid for the use "
+"of your banner."
+msgstr ""
+"Po na jepni leje që të përdorim, riprodhojmë, shpërndajmë, përpunojmë dhe "
+"shfaqim foton tuaj, po qe se një e tillë përfshihet te stema, dhe mesazhin "
+"tuaj se pse e doni Firefox-in, për qëllime komerciale, specifikisht në një "
+"reklamë Facebook-u me pagesë. Njëkohësisht pranoni që nuk do të paguheni pse"
+" ju përdoret stema."
+
+#: affiliates/facebook/templates/facebook/faq.html:119
+msgid "How do I remove the application?"
+msgstr "Si ta heq aplikacionin?"
+
+#: affiliates/facebook/templates/facebook/faq.html:122
+msgid ""
+"To remove the application, access your applications in the Facebook settings"
+" menu. Delete the application from your list of authorized apps and we'll "
+"delete your Affiliates profile on Facebook and the information associated "
+"with it. Note: Deleting the application on Facebook will not delete your "
+"affiliates.mozilla.org profile if you had one prior to installing the "
+"application. To delete that profile, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a>."
+msgstr ""
+"Për ta hequr aplikacionin, hyni te aplikacionet tuaja te menuja e "
+"rregullimeve për Facebook-un. Fshijeni aplikacionin nga lista juaj për "
+"aplikacione të autorizuara dhe ne do ta fshijmë profilin tuaj si Përhapës në"
+" Facebook dhe të dhënat e përshoqëruara me të. Shënim: Fshirja e "
+"aplikacionit në Facebook nuk do të fshijë profilin tuaj te "
+"affiliates.mozilla.org, nëse patët të tillë përpara se të instalonit "
+"aplikacionin. Për të fshirë atë profil, ju lutemi, lidhuni me ne te <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a>."
+
+#: affiliates/facebook/templates/facebook/faq.html:138
+msgid ""
+"How do I connect to my Firefox Affiliates account on affiliates.mozilla.org?"
+msgstr ""
+"Si të lidhem te llogaria ime Përhapës i Firefox-it te "
+"affiliates.mozilla.org?"
+
+#: affiliates/facebook/templates/facebook/faq.html:146
+msgid ""
+"To connect your affiliates.mozilla.org account to this application, please "
+"use the connection wizard on the My Banners page. We'll send you an email to"
+" confirm that we've connected the accounts. If you'd like to sign up for an "
+"account, just visit <a href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"Për të lidhur llogarinë tuaj në affiliates.mozilla.org me këtë aplikacion, "
+"ju lutemi, përdorni mekanizmin e lidhjeve te faqja Stemat e Mia. Do t’ju "
+"dërgojmë një email si ripohim se i kemi përshoqëruar llogaritë. Nëse "
+"dëshironi të regjistroni një llogari, thjesht vizitoni <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:159
+msgid "Leaderboard and User Statistics"
+msgstr "Tabela e Nderit dhe Statistika Përdoruesish"
+
+#: affiliates/facebook/templates/facebook/faq.html:163
+msgid "How often does the leaderboard get updated?"
+msgstr "Sa shpesh përditësohet tabela e nderit?"
+
+#: affiliates/facebook/templates/facebook/faq.html:167
+msgid ""
+"The leaderboard updates every day at midnight Pacific Time, so be sure to "
+"check in to see where you stand."
+msgstr ""
+"Tabela e nderit përditësohet çdo mesnatë, sipas Kohës së Paqësorit, ndaj mos"
+" harroni ta kontrolloni për të parë se ç’vend zini."
+
+#: affiliates/facebook/templates/facebook/faq.html:182
+msgid ""
+"No, though from time to time we may run contests to see who can get the most"
+" clicks for different Firefox products and campaigns. The winners will get "
+"Firefox T-shirts, hoodies and other awesome things we have at Mozilla HQ."
+msgstr ""
+"Jo, edhe pse herë pas here mund të organizojmë gara për të parë se kush merr"
+" më shumë klikime për produkte apo fushata të ndryshme Firefox. Fituesit do "
+"të marrin bluza Firefox, dhe të tjera sende të lezetshme nga ato që kemi në "
+"Shtabin e Mozilla-s."
+
+#: affiliates/facebook/templates/facebook/faq.html:202
+msgid ""
+"Let us know. Send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and tell us what the problem "
+"is."
+msgstr ""
+"Na e bëni të ditur. Dërgonani një shënim te <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> dhe na tregoni se cili është "
+"problemi."
+
+#: affiliates/facebook/templates/facebook/first_run.html:8
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:17
+msgid "Welcome to Firefox Affiliates"
+msgstr "Mirë se vini te Përhapësit e Firefox-it"
+
+#: affiliates/facebook/templates/facebook/first_run.html:11
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:20
+msgid ""
+"This is your one stop shop for telling the world about the only browser that"
+" puts you first: Firefox! Start now by building a banner to post on your "
+"Facebook profile. Get a ton of clicks and we may feature you in a Firefox ad"
+" (with your permission, of course) or send you some great Firefox gear."
+msgstr ""
+"Rruga më e plotë për t’i treguar botës rreth shfletuesit të vetëm që së pari"
+" mendon për ju: Firefox! Fillojani që tani duke krijuar një stemë për ta "
+"postuar te profili juaj Facebook. Merrni klikime me thasë dhe  mund t’ju "
+"përzgjedhim për një reklamë Firefox-i me pagesë, (me lejen tuaj, sigurisht),"
+" ose t’ju dërgojmë ca sende të lezetshme Firefox."
+
+#: affiliates/facebook/templates/facebook/first_run.html:20
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:31
+msgid "Let's go!"
+msgstr "Shkojmë!"
+
+#: affiliates/facebook/templates/facebook/leaderboard.html:11
+msgid "Affiliates with the most clicks"
+msgstr "Përhapësit me më shumë klikime"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:23
+#: affiliates/links/templates/links/widgets/leaderboard.html:4
+msgid "Rank"
+msgstr "Renditje"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:25
+msgid "User"
+msgstr "Përdorues"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:2
+msgid "Hi there!"
+msgstr "Njatjeta!"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:5
+msgid ""
+"Thank you for linking your Firefox Affiliates account with the Affiliates "
+"Facebook application. Please click on the link below and you'll get credit "
+"for any clicks that you drive through Facebook on the main Affiliates "
+"leaderboard."
+msgstr ""
+"Faleminderit që krijuat lidhje mes llogarisë suaj si Përhapës i Firefox-it "
+"dhe aplikacionit Affiliates Facebook. Ju lutemi, klikoni mbi lidhjen e "
+"mëposhtme dhe do të përfitoni pikë për çdo klikim që dërgoni përmes "
+"Facebook-ut te tabela kryesore e Përhapësve."
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:10
+msgid ""
+"If you didn't request to link your account, just ignore this e-mail and your"
+" account will not be linked."
+msgstr ""
+"Nëse nuk kërkuat të lidhet llogaria juaj, thjesht shpërfilleni këtë e-mail "
+"dhe lidhja për te llogaria juaj nuk ka për t’u krijuar."
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:15
+msgid "The Firefox Affiliates team"
+msgstr "Ekipi i Përhapësve të Firefox-it"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:3
+msgid ""
+"Download Firefox (Large Firefox logo rising in front of an orange "
+"background)"
+msgstr ""
+"Shkarkoni Firefox-in (Logo e madhe e Firefox-it përpara një sfondi "
+"portokalli)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:5
+msgid "Download Firefox (Small Firefox logo on a light blue background)"
+msgstr ""
+"Shkarkoni Firefox-in (Logo e vogël e Firefox-it në një sfond blu të çelët)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:7
+msgid ""
+"Download Firefox (Large Firefox logo resting on a light blue background)"
+msgstr ""
+"Shkarkoni Firefox-in (Logo e madhe e Firefox-it në një sfond blu të çelët)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:9
+msgid ""
+"Download Firefox (For Android. A mobile phone in front of a faded Firefox "
+"logo with a light blue background)"
+msgstr ""
+"Shkarkoni Firefox-in (Për Android. Një telefon celular përpara një steme të "
+"zbehur Firefox-i me një sfond blu të çelët)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:11
+msgid ""
+"Download Firefox (For Android. A mobile phone displaying a large Firefox "
+"logo on its screen, over a light blue background)"
+msgstr ""
+"Shkarkoni Firefox-in (Për Android. Një telefon celular ku duket një stemë e "
+"madhe Firefox-i, mbi një sfond blu të çelët)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:13
+msgid ""
+"Download Firefox (For Android. Firefox logo floating over a mobile phone "
+"resting on an orange background)"
+msgstr ""
+"Shkarkoni Firefox-in (Për Android. Logoja e Firefox-it pezull mbi një "
+"telefon celular që gjendet në një sfond portokalli)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:15
+msgid ""
+"Download Firefox (Person in a Firefox costume jumping happily on a beach)"
+msgstr ""
+"Shkarkoni Firefox-in (Një person veshur si Firefox-i e që kërcen nga gëzimi "
+"në një plazh)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:17
+msgid ""
+"Download Firefox (For Android. A mobile phone running Firefox for Android "
+"next to a coffee cup with the Firefox logo on it)"
+msgstr ""
+"Shkarkoni Firefox-in (Për Android. Një telefon celular që xhiron Firefox-in "
+"për Android ngjitur te një filxhan kafeje m logon e Firefox-it në të)"
+
+#: affiliates/facebook/templates/facebook/strings.html:21
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"elegible for fun stuff like Firefox T-shirts. While we do send out prizes "
+"and gifts to our Affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"Përhapësit e Firefox-it ju mundësojnë të krijoni stema dhe t’i vendosni ato "
+"te profili juaj Facebook që të nxitni vizitorët të shkarkojnë Firefox-in. "
+"Kur një vizitor i faqes suaj ose një që sheh përditësimin e gjendjes suaj "
+"klikon mbi një nga butonat dhe viziton faqen e shkarkimit të Firefox-it, ju "
+"përfitoni pikë nga ai shkarkim. Përhapësit që grumbullojnë shumë shkarkime "
+"përmes profilit të tyre do të paraqiten te tabela jonë e nderit dhe do të "
+"kenë mundësi të fitojnë gjëra të lezetshme, të tilla si bluza Firefox. Edhe "
+"pse dërgojmë herë pas here çmime dhe dhurata, Përhapësit e Firefox-it nuk "
+"ofron shpërblime në të holla për strehimin e stemave Firefox."
+
+#: affiliates/facebook/templates/facebook/strings.html:22
+msgid "Mozilla Firefox"
+msgstr "Mozilla Firefox"
+
+#: affiliates/facebook/templates/facebook/strings.html:23
+msgid ""
+"Different by design. It's fast, flexible and secure. Share Firefox with your"
+" friends today."
+msgstr ""
+"I ndryshëm që në konceptim. Është i shpejtë, i zhdërvjellët dhe i sigurt. "
+"Ndajeni që sot Firefox-in me miqtë tuaj."
+
+#: affiliates/facebook/templates/facebook/strings.html:27
+msgid "You will lose credit for all your clicks on this banner."
+msgstr "Do të humbni pikë për çdo klikim tuajin mbi këtë stemë."
+
+#: affiliates/facebook/templates/facebook/strings.html:31
+msgid "Newsletter subscription unavailable at this time."
+msgstr "Pajtimi tek buletini nuk është i mundshëm në këtë kohë."
+
+#: affiliates/facebook/templates/facebook/strings.html:32
+msgid ""
+"I'd like to receive the Firefox Affiliate newsletter and periodic Firefox "
+"Affiliates updates via email."
+msgstr ""
+"Do të doja të merrja përmes email-i buletinin e Përhapësve të Firefox-it dhe"
+"  përditësime periodike rreth tyre."
+
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:4
+msgid "Current banners"
+msgstr "Stemat e tanishme"
+
+#. L10n: "Woot" (w00t) as in internet slang expressing happiness.
+#: affiliates/links/middleware.py:19
+msgid ""
+"Woot! You've driven {num_downloads} downloads and {num_clicks} clicks since "
+"your last visit. Keep rockin'!"
+msgstr ""
+"Woot! Keni nxitur {num_downloads} shkarkime dhe {num_clicks} klikime që prej"
+" vizitës suaj të fundit. Kështu edhe më tej!"
+
+#: affiliates/links/templates/links/detail.html:12
+#: affiliates/links/templates/links/detail.html:24
+msgid "Banner Details"
+msgstr "Hollësi Steme"
+
+#: affiliates/links/templates/links/detail.html:31
+msgid "Created:"
+msgstr "Krijuar më:"
+
+#: affiliates/links/templates/links/detail.html:34
+msgid "Clicks:"
+msgstr "Klikime:"
+
+#: affiliates/links/templates/links/detail.html:36
+msgid "Linked URL:"
+msgstr "URL e lidhur:"
+
+#: affiliates/links/templates/links/detail.html:40
+msgid "Size:"
+msgstr "Madhësi:"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Embed code:"
+msgstr "Kod trupëzimi:"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Use this code to embed this banner on your website."
+msgstr "Përdoreni këtë kod që të trupëzoni këtë stemë te sajti juaj."
+
+#: affiliates/links/templates/links/leaderboard.html:15
+msgid "Top Affiliates"
+msgstr "Përhapësit Kryesues"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:5
+#: affiliates/users/models.py:18
+msgid "Affiliate"
+msgstr "Përhapës"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:6
+msgid "Number of clicks"
+msgstr "Numër klikimesh"
+
+#: affiliates/statistics/templates/statistics/category.html:8
+msgid "{category} Metrics"
+msgstr "Shifra për {category}"
+
+#: affiliates/statistics/templates/statistics/category.html:26
+msgid "Banners"
+msgstr "Stema"
+
+#: affiliates/statistics/templates/statistics/index.html:18
+msgid ""
+"Take a look at the impact our Affiliates make on increasing awareness of "
+"Mozilla and its products."
+msgstr ""
+"Hidhini një sy ndikimit që Përkrahësit tanë kanë në rritjen e "
+"ndërgjegjësimit mbi Mozilla-n dhe produktet e saj"
+
+#: affiliates/statistics/templates/statistics/index.html:22
+msgid "Key Metrics"
+msgstr "Shifra Bazë"
+
+#: affiliates/statistics/templates/statistics/index.html:36
+msgid "Categories"
+msgstr "Kategori"
+
+#: affiliates/users/views.py:30
+msgid "Your profile has been updated!"
+msgstr "Profili juaj u përditësua!"
+
+#: affiliates/users/views.py:45
+msgid "You must be logged in to view that page."
+msgstr "Që të shihni atë faqe, duhet të jeni i futur"
+
+#: affiliates/users/templates/users/profile.html:21
+msgid "Name: {display_name}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:26
+msgid "Biography: {biography_text}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:31
+msgid "Edit your profile"
+msgstr "Përpunoni profilin tuaj"
+
+#: affiliates/users/templates/users/profile.html:57
+msgid "Stats"
+msgstr "Statistika"
+
+#: affiliates/users/templates/users/profile.html:65
+msgid "Milestones"
+msgstr "Piketa"

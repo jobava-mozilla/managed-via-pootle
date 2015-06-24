@@ -1,0 +1,588 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# F Wolff <friedel@translate.org.za>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2015-05-12 07:06+0000\n"
+"Last-Translator: Friedel <friedel@translate.org.za>\n"
+"Language-Team: translate-discuss-af@lists.sourceforge.net\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1431414387.0\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr ""
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+#, fuzzy
+msgid "Persona requires cookies to remember you."
+msgstr "Persona benodig koekies"
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr "Sluit dié venster, <a %s>aktiveer koekies</a> en probeer weer"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Kommunikasiefout"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Finaliseer aanmelding..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Oor enkele oomblikke sal u aangemeld wees by Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+#, fuzzy
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Jammer, maar hierdie versoek vat rêrig lank."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Bevestig tans met u e-posverskaffer."
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "Die gekose e-posadres is ongeldig of is geskrap."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr ""
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Voeg 'n e-posadres by"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "e-posadres"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Moet 'n geldige e-posadres wees"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Die e-posadresveld is nodig"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "voeg by"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "kanselleer"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Kan nie %s bevestig nie"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s is 'n vereisde adres, maar ons kan nie verifieer dat u dié adres besit "
+"nie."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s is bevestig!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr ""
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Kyk gou e-pos"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Klik die skakel in die bevestigings-e-pos aan %s om onmiddellik aan te meld "
+"by %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Fout"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Dit spyt ons."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Die bediener is onder groot las!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Herlaai asb. die bladsy en probeer weer."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Sluit asb. die venster en probeer weer."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Meer inligting"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr ""
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr ""
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* is nie ’n geldige e-posadres nie."
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "Om voort te gaan, sluit die venster en gee 'n geldige e-posadres."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Onthou aanmelding?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Hoe lank wil u aangemeld bly met Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Een maand"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Ek vertrou dié rekenaar."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Slegs hierdie sessie"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Hierdie is nie my rekenaar nie."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Let wel: Mens kan natuurlik enige tyd afmeld van Persona."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Meld aan met Persona"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Meld aan by %s as&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Kies 'n e-posadres"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+#, fuzzy
+msgid "Add another email address"
+msgstr "Voeg nog 'n e-posadres by"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+#, fuzzy
+msgid "This is not me"
+msgstr "Dis nie ek nie..."
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Deur voort te gaan, stem u in tot %(site)s se <a %s>Gebruiksvoorwaardes</a> "
+"en <a %s>Privaatheidsbeleid</a>."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "meld aan"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Kanselleer"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Kan nie %(email)s bevestig nie"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"U stem ook in tot %(site)s se <a %s>Gebruiksvoorwaardes</a> en <a %"
+"s>Privaatheidsbeleid</a>."
+
+#: resources/static/dialog/views/set_password.ejs:7
+#, fuzzy
+msgid "Create a Password"
+msgstr "stel wagwoord terug"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"U e-posadres is vir ons nuut. Skep asb. 'n wagwoord om met FirefoxOS te "
+"gebruik."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"U e-posadres is vir ons nuut. Skep asb. 'n wagwoord om met Persona te "
+"gebruik."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "skep wagwoord"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Wagwoordveld is nodig"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Wagwoorde moet tussen 8 en 80 karakters lank wees"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Bevestig wagwoord"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "bevestig wagwoord"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Wagwoord vir bevestiging is nodig"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Wagwoorde stem nie ooreen nie!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "klaar"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Goeie nuus!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "bevestig"
+
+#, fuzzy
+#~ msgid "signing in"
+#~ msgstr "meld aan"
+
+#, fuzzy
+#~ msgid "Confirm your email address"
+#~ msgstr "Nuwe e-posadres"
+
+#, fuzzy
+#~ msgid "Sign in as..."
+#~ msgstr "Meld aan met"
+
+#~ msgid "Email"
+#~ msgstr "E-pos"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "U identiteit is bevestig met u e-posverskaffer. Ons gaan nou voort na "
+#~ "aanmelding."
+
+#~ msgid "Sign in using"
+#~ msgstr "Meld aan met"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "Dié werf vra dat u aanmeld met"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "U moet aanmeld met u e-posverskaffer om eienaarskap van dié adres te "
+#~ "bevestig. Dié venster gaan aanstuur na"
+
+#, fuzzy
+#~ msgid "Enter password"
+#~ msgstr "stel wagwoord terug"
+
+#~ msgid "forgot your password?"
+#~ msgstr "wagwoord vergeet?"
+
+#~ msgid "Password"
+#~ msgstr "Wagwoord"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "'n Wagwoord word benodig."
+
+#~ msgid "verify email"
+#~ msgstr "bevestig e-posadres"
+
+#, fuzzy
+#~ msgid "sign in with %s"
+#~ msgstr "meld aan"
+
+#, fuzzy
+#~ msgid "Use a different email address"
+#~ msgstr "Gebruik 'n ander e-posadres"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Dié veld moet 'n e-posadres wees."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Ons het pas 'n e-pos na daai adres gestuur! As u werklik nog een wil laat "
+#~ "stuur, wag 'n paar minute en probeer weer."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Daardie adres is reeds by u rekening gevoeg!"
+
+#, fuzzy
+#~ msgid "Please choose an email address."
+#~ msgstr "Dié veld moet 'n e-posadres wees."
+
+#~ msgid "The password field is required."
+#~ msgstr "Die wagwoordveld is nodig."
+
+#, fuzzy
+#~ msgid "This email address and password do not match."
+#~ msgstr "Wagwoorde stem nie ooreen nie."
+
+#~ msgid "There has been an error!"
+#~ msgstr "'n Fout het voorgekom!"
+
+#, fuzzy
+#~ msgid "Reset your password"
+#~ msgstr "stel wagwoord terug"
+
+#, fuzzy
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Kies 'n nuwe wagwoord om te gebruik vir aanmelding met Persona."
+
+#~ msgid "reset password"
+#~ msgstr "stel wagwoord terug"
+
+#, fuzzy
+#~ msgid "Sign In"
+#~ msgstr "meld aan"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Wag asb. 'n oomblik terwyl ons u aanmeld by die werf."
+
+#, fuzzy
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr ""
+#~ "Om klaar in te skryf, klik die bevestigingskakel wat na u e-posadres "
+#~ "gestuur is."
+
+#, fuzzy
+#~ msgid "enter email address"
+#~ msgstr "Nuwe e-posadres"
+
+#, fuzzy
+#~ msgid "password"
+#~ msgstr "Wagwoord"
+
+#~ msgid "next"
+#~ msgstr "volgende"
+
+#, fuzzy
+#~ msgid "Forgot your password?"
+#~ msgstr "wagwoord vergeet?"
+
+#, fuzzy
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Deur op %s te klik, bevestig u dat u die werf se <a "
+#~ "%s>Gebruiksvoowaardes</a> en <a %s>Privaatheidsbeleid</a> aanvaar."
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Dié boodskap sal weggaan wanneer die versoek klaarmaak (hopelik "
+#~ "binnekort). Indien dit te lank vat, sluit dié venster en probeer weer."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr "Gee u e-posadres om aan te meld by <strong>%s</strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr "Wag asb. terwyl ons inligting oor u e-posverskaffer kry."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "Kan nie aanmeld by die rekening met dié gebruikernaam en wagwoord nie."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Ons het 'n boodskap vir bevestiging gestuur aan <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "As dit 'n fout is, ignoreer die gestuurde boodskap en <a %s>kanselleer</"
+#~ "a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "As dit 'n fout is, ignoreer die gestuurde boodskap en <a %s>gebruik 'n "
+#~ "ander e-posadres</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Is hierdie u eie rekenaar?"
+
+#~ msgid "yes"
+#~ msgstr "ja"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Indien wel, hou ons u aangemeld vir twee weke."
+
+#~ msgid "no"
+#~ msgstr "nee"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Kies hierdie indien u by 'n publieke rekenaar is soos by 'n biblioteek of "
+#~ "internetkafee .  Ons sal oor 'n uur vra vir u wagwoord vir beter "
+#~ "sekuriteit."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Welkom by Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr "Kies nou 'n nuwe wagwoord om te gebruik vir aanmelding met Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Herhaal wagwoord"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID benodig koekies"
+
+#, fuzzy
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "Dié e-posadres lyk nuut. Laat ons dit gou opstel."
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Meld altyd aan met dié e-posadres"
+
+#~ msgid "select email"
+#~ msgstr "kies e-posadres"
+
+#~ msgid ""
+#~ "We are sorry, but we cannot communicate with BrowserID while you are "
+#~ "offline."
+#~ msgstr ""
+#~ "Ons kan ongelukkig nie met BrowserID kommunikeer terwyl u vanlyn is nie."

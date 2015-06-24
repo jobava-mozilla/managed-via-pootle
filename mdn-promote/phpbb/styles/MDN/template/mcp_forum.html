@@ -1,0 +1,107 @@
+<!-- INCLUDE mcp_header.html -->
+
+<!-- DEFINE $CUSTOM_FIELDSET_CLASS = 'forum-selection2' -->
+<!-- INCLUDE jumpbox.html -->
+<form method="post" id="mcp" action="{S_MCP_ACTION}" class="user-input">
+
+  <h2 class="section-title"><a href="{U_VIEW_FORUM}">{FORUM_NAME}</a></h2>
+	<!-- IF PAGINATION or TOTAL_TOPICS -->
+		<div class="actions">
+			<p class="pages">
+				<!-- IF TOTAL_TOPICS --> {TOTAL_TOPICS}<!-- ENDIF -->
+				<!-- IF PAGE_NUMBER --><!-- IF PAGINATION --> | <a href="#" onclick="jumpto(); return false;" title="{L_JUMP_TO_PAGE}">{PAGE_NUMBER}</a> | <span class="pagination">{PAGINATION}</span><!-- ELSE --> | {PAGE_NUMBER}<!-- ENDIF --><!-- ENDIF -->
+			</p>
+		</div>
+	<!-- ENDIF -->
+<!-- row['topic_type'] == POST_STICKY -->
+  <!-- IF .topicrow -->
+		<table class="topiclist">
+			<thead>
+				<tr>
+					<th scope="col" class="info">{L_TOPICS}</th>
+					<th scope="col" class="posts">{L_REPLIES}</th>
+					<th scope="col" class="lastpost">{L_LAST_POST}</th>
+					<!-- IF not S_MERGE_SELECT --><th class="select">{L_MARK}</th><!-- ENDIF -->
+				</tr>
+			</thead>
+			<tbody>
+
+  		<!-- BEGIN topicrow -->
+  		  <tr class="<!-- IF topicrow.S_ROW_COUNT is odd --> bg1<!-- ELSE --> bg2<!-- ENDIF --><!-- IF topicrow.S_POST_GLOBAL --> global<!-- ENDIF --><!-- IF topicrow.S_POST_ANNOUNCE --> announce<!-- ENDIF --><!-- IF topicrow.S_POST_STICKY --> sticky<!-- ENDIF --><!-- IF topicrow.S_TOPIC_REPORTED --> reported<!-- ENDIF --><!-- IF topicrow.S_MOVED_TOPIC --> moved<!-- ENDIF --><!-- IF topicrow.S_TOPIC_UNAPPROVED or topicrow.S_POSTS_UNAPPROVED --> pending<!-- ENDIF -->">
+  				<td class="info" <!-- IF topicrow.TOPIC_ICON_IMG -->style="background-image: url({T_ICONS_PATH}{topicrow.TOPIC_ICON_IMG}); background-repeat: no-repeat;"<!-- ENDIF -->>
+  					<!-- IF topicrow.S_SELECT_TOPIC --><a href="{topicrow.U_SELECT_TOPIC}">[ {L_SELECT_MERGE} ]</a><!-- ENDIF -->
+  					<strong>{topicrow.TOPIC_TYPE}</strong>
+  					<h3 class="title">
+  				    <!-- IF topicrow.S_TOPIC_UNAPPROVED or topicrow.S_POSTS_UNAPPROVED --><a href="{topicrow.U_MCP_QUEUE}">{topicrow.UNAPPROVED_IMG}</a> <!-- ENDIF -->
+  				    <!-- IF topicrow.S_TOPIC_REPORTED --><a href="{topicrow.U_MCP_REPORT}">{REPORTED_IMG}</a><!-- ENDIF -->
+              <a class="view" href="{topicrow.U_VIEW_TOPIC}">{topicrow.TOPIC_TITLE}</a>
+  					</h3>
+  					<!-- IF topicrow.S_MOVED_TOPIC and S_CAN_DELETE --><p class="meta"><a href="{topicrow.U_DELETE_TOPIC}">[ {L_DELETE_SHADOW_TOPIC} ]</a></p><!-- ENDIF -->
+  					<p class="meta"><!-- IF topicrow.ATTACH_ICON_IMG -->{topicrow.ATTACH_ICON_IMG} <!-- ENDIF -->{L_POST_BY_AUTHOR} {topicrow.TOPIC_AUTHOR_FULL} :: {topicrow.FIRST_POST_TIME}</p>
+  				  <!-- IF topicrow.PAGINATION --><p class="pagination">Pages: {topicrow.PAGINATION}</p><!-- ENDIF -->
+  				</td>
+  				<td class="posts">{topicrow.REPLIES} {L_REPLIES}</td>
+  				<td class="lastpost">
+  		      {L_LAST_POST} {L_POST_BY_AUTHOR} {topicrow.LAST_POST_AUTHOR_FULL}
+  				  <br />{topicrow.LAST_POST_TIME}
+          </td>
+  				
+  				<!-- IF not S_MERGE_SELECT -->
+  				<td class="select">
+  					<!-- IF not topicrow.S_MOVED_TOPIC --><input type="checkbox" name="topic_id_list[]" value="{topicrow.TOPIC_ID}"<!-- IF topicrow.S_TOPIC_CHECKED --> checked="checked"<!-- ENDIF --> /><!-- ELSE -->&nbsp;<!-- ENDIF -->
+  				</td>
+  				<!-- ENDIF -->
+  		  </tr>
+  		<!-- END topicrow -->
+		
+		  </tbody>
+    </table>
+
+  <!-- ELSE -->
+    <p class="panel"><strong>{L_NO_TOPICS}</strong></p>
+  <!-- ENDIF -->
+
+	<fieldset class="display-options actions foot">
+		<!-- IF PREVIOUS_PAGE or NEXT_PAGE -->
+		<ul class="nav-paging">
+			<!-- IF PREVIOUS_PAGE --><li class="prev"><a href="{PREVIOUS_PAGE}" class="prev {S_CONTENT_FLOW_BEGIN}">{L_PREVIOUS}</a></li><!-- ENDIF -->
+			<!-- IF NEXT_PAGE --><li class="next"><a href="{NEXT_PAGE}" class="next {S_CONTENT_FLOW_END}">{L_NEXT}</a></li><!-- ENDIF -->
+		</ul>
+		<!-- ENDIF -->
+    <p class="sorting">
+			<label>{L_DISPLAY_TOPICS} {S_SELECT_SORT_DAYS}</label> 
+			<label>{L_SORT_BY} {S_SELECT_SORT_KEY}</label> 
+			<label>{S_SELECT_SORT_DIR}</label>
+			<button type="submit" name="sort" class="btn-sub">{L_GO}</button>
+		</p>
+		<p class="pages"><!-- IF PAGE_NUMBER --><!-- IF PAGINATION --><a href="#" onclick="jumpto(); return false;" title="{L_JUMP_TO_PAGE}">{PAGE_NUMBER}</a> | <span class="pagination">{PAGINATION}</span><!-- ELSE --> {PAGE_NUMBER}<!-- ENDIF --><!-- ENDIF --></p>
+	</fieldset>
+
+  <fieldset class="actions foot">
+    <p class="mark"><a href="#" onclick="marklist('mcp', 'topic_id_list', true); return false;">{L_MARK_ALL}</a> | <a href="#" onclick="marklist('mcp', 'topic_id_list', false); return false;">{L_UNMARK_ALL}</a></p>
+  
+  	<!-- IF not S_MERGE_SELECT -->
+  	<p class="buttons">
+    	<select name="action">
+    		<option value="" selected="selected">{L_SELECT_ACTION}</option>
+    		<!-- IF S_CAN_DELETE --><option value="delete_topic">{L_DELETE}</option><!-- ENDIF -->
+    		<!-- IF S_CAN_MERGE --><option value="merge_topics">{L_MERGE}</option><!-- ENDIF -->
+    		<!-- IF S_CAN_MOVE --><option value="move">{L_MOVE}</option><!-- ENDIF -->
+    		<!-- IF S_CAN_FORK --><option value="fork">{L_FORK}</option><!-- ENDIF -->
+    		<!-- IF S_CAN_LOCK --><option value="lock">{L_LOCK}</option><option value="unlock">{L_UNLOCK}</option><!-- ENDIF -->
+    		<!-- IF S_CAN_SYNC --><option value="resync">{L_RESYNC}</option><!-- ENDIF -->
+    		<!-- IF S_CAN_MAKE_NORMAL --><option value="make_normal">{L_MAKE_NORMAL}</option><!-- ENDIF -->
+    		<!-- IF S_CAN_MAKE_STICKY --><option value="make_sticky">{L_MAKE_STICKY}</option><!-- ENDIF -->
+    		<!-- IF S_CAN_MAKE_ANNOUNCE -->
+    			<option value="make_announce">{L_MAKE_ANNOUNCE}</option>
+    			<option value="make_global">{L_MAKE_GLOBAL}</option>
+    		<!-- ENDIF -->
+    	</select>
+    	<button type="submit" value="{L_SUBMIT}">{L_SUBMIT}</button>
+  	</p>
+  	<!-- ENDIF -->
+  	{S_FORM_TOKEN}
+  </fieldset>
+</form>
+
+<!-- INCLUDE mcp_footer.html -->

@@ -1,0 +1,723 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2015-03-31 20:17+0000\n"
+"Last-Translator: Branislav <rozbora@mozilla.sk>\n"
+"Language-Team: none\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1427833066.0\n"
+
+#~ msgid "An error occured."
+#~ msgstr "Nastala chyba."
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Pri vytváraní náhľadu nastala chyba."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Pri odosielaní vášho hlasu nastala chyba."
+
+#~ msgid "You replied"
+#~ msgstr "Vaše odpovede"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Vaše a jedna ďalšia odpoveď"
+
+#~ msgid "Account banned successfully!"
+#~ msgstr "Účet bol úspešne zablokovaný!"
+
+#~ msgid "Username not provided."
+#~ msgstr "Meno používateľa nebolo zadané."
+
+#~ msgid "This account is already banned!"
+#~ msgstr "Tento účet bol už zablokovaný!"
+
+#~ msgid "Account is now being ignored!"
+#~ msgstr "Účet bude teraz ignorovaný!"
+
+#~ msgid "This account is already being ignored!"
+#~ msgstr "Tento účet je už ignorovaný!"
+
+#~ msgid "1 user unbanned successfully!"
+#~ msgid_plural "%s users unbanned sucessfully!"
+#~ msgstr[0] "1 používateľ bol úspešne zablokovaný!"
+#~ msgstr[1] "%s používatelia boli úspešne zablokovaný!"
+#~ msgstr[2] "%s používateľov bolo úspešne zablokovaných!"
+
+#~ msgid "1 user removed from list!"
+#~ msgid_plural "%s users removed from list!"
+#~ msgstr[0] "1 používateľ bol odstránený zo zoznamu!"
+#~ msgstr[1] "% používatelia boli odstránený zo zoznamu!"
+#~ msgstr[2] "% používateľov bolo odstránených zo zoznamu!"
+
+#~ msgid "No users selected!"
+#~ msgstr "Nebol vybraný žiadny používateľ!"
+
+#~ msgid "%(num)s <small>of %(total)s</small>"
+#~ msgstr "%(num)s <small>z %(total)s</small>"
+
+#~ msgid "No differences found"
+#~ msgstr "Nebol nájdený žiadny rozdiel"
+
+#~ msgid "Cancel"
+#~ msgstr "Zrušiť"
+
+#~ msgid "You are not watching this thread"
+#~ msgstr "Túto tému nesledujete"
+
+#~ msgid "You are watching this thread"
+#~ msgstr "Túto tému sledujete"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Priložený obrázok"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "Súbor nemožno načítať. Prosím vyskúšajte to neskôr."
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Chybný obrázok. Prosím vyberte platný súbor obrázka."
+
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Obrázok je moc veľký. Prosím vyberte súbor obrázka s menšou veľkosťou."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Nahrávanie bolo zrušené. Vyberte prosím súbor s obrázkom."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Súbor bol odstránený. Vyberte prosím súbor s obrázkom."
+
+#~ msgid "Delete this image"
+#~ msgstr "Odstrániť tento obrázok"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "Nahráva sa \"%s\"..."
+
+#~ msgid "Loading..."
+#~ msgstr "Načítava sa..."
+
+#~ msgid "No votes data"
+#~ msgstr "Žiadne údaje o hlasovaní"
+
+#~ msgid "Error loading graph"
+#~ msgstr "Chyba pri načítaní grafu"
+
+#~ msgid "Votes"
+#~ msgstr "Hlasy"
+
+#~ msgid "Percent"
+#~ msgstr "Percento"
+
+#~ msgid "Yes"
+#~ msgstr "Áno"
+
+#~ msgid "No"
+#~ msgstr "Nie"
+
+#~ msgid "Questions"
+#~ msgstr "Otázky"
+
+#~ msgid "Solved"
+#~ msgstr "Vyriešené"
+
+#~ msgid "% Solved"
+#~ msgstr "% vyriešených"
+
+#~ msgid "Responded in 24 hours"
+#~ msgstr "Zodpovedané za 24 hodín"
+
+#~ msgid "% Responded in 24 hours"
+#~ msgstr "% zodpovedaných za 24 hodín"
+
+#~ msgid "Responded in 72 hours"
+#~ msgstr "Zodpovedané za 72 hodín"
+
+#~ msgid "% Responded in 72 hours"
+#~ msgstr "% zodpovedaných za 72 hodín"
+
+#~ msgid "Not responded in 24 hours"
+#~ msgstr "Nezodpovedané do 24 hodín"
+
+#~ msgid "Not responded in 72 hours"
+#~ msgstr "Nezodpovedané do 72 hodín"
+
+#~ msgid "Article Votes: % Helpful"
+#~ msgstr "Hlasovanie o článkoch: % užitočnosť"
+
+#~ msgid "Answer Votes: % Helpful"
+#~ msgstr "Hlasovanie o odpovediach: % užitočnosť"
+
+#~ msgid "en-US KB"
+#~ msgstr "Anglická KB"
+
+#~ msgid "non en-US KB"
+#~ msgstr "Neanglická KB"
+
+#~ msgid "Support Forum"
+#~ msgstr "Fórum podpory"
+
+#~ msgid "Army of Awesome"
+#~ msgstr "Army of Awesome"
+
+#~ msgid "Click Through Rate %"
+#~ msgstr "Miera preklikov %"
+
+#~ msgid "Visitors"
+#~ msgstr "Návštevníci"
+
+#~ msgid "L10n Coverage"
+#~ msgstr "Pokryté lokalizáciou"
+
+#~ msgid "Percent Yes"
+#~ msgstr "Percent Áno"
+
+#~ msgid "I don't know"
+#~ msgstr "Neviem"
+
+#~ msgid "Bold"
+#~ msgstr "Tučné"
+
+#~ msgid "bold text"
+#~ msgstr "tučný text"
+
+#~ msgid "Italic"
+#~ msgstr "Kurzíva"
+
+#~ msgid "italic text"
+#~ msgstr "kurzíva"
+
+#~ msgid "Numbered List"
+#~ msgstr "Číslovanie"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Položka číslovaného zoznamu"
+
+#~ msgid "Bulleted List"
+#~ msgstr "Odrážky"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "Položka odrážkového zoznamu"
+
+#~ msgid "Heading 1"
+#~ msgstr "Nadpis 1"
+
+#~ msgid "Heading 2"
+#~ msgstr "Nadpis 2"
+
+#~ msgid "Heading 3"
+#~ msgstr "Nadpis 3"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Vloženie odkazu..."
+
+#~ msgid "link text"
+#~ msgstr "text odkazu"
+
+#~ msgid "Link text:"
+#~ msgstr "Text:"
+
+#~ msgid "Link target:"
+#~ msgstr "Cieľ:"
+
+#~ msgid "Support article:"
+#~ msgstr "Článok podpory:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Zadajte názov článku"
+
+#~ msgid "External link:"
+#~ msgstr "Externý odkaz:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Zadajte URL adresu externého odkazu"
+
+#~ msgid "No sections found"
+#~ msgstr "Nebola nájdená žiadna sekcia"
+
+#~ msgid "Insert Link"
+#~ msgstr "Vložiť odkaz"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Článok databázy vedomostí"
+
+#~ msgid "Insert media..."
+#~ msgstr "Vloženie multimédií..."
+
+#~ msgid "media"
+#~ msgstr "médiá"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Vyhľadávanie v galérii"
+
+#~ msgid "Show:"
+#~ msgstr "Zobraziť:"
+
+#~ msgid "Images"
+#~ msgstr "Obrázky"
+
+#~ msgid "Videos"
+#~ msgstr "Videá"
+
+#~ msgid "Show media for:"
+#~ msgstr "Zobraziť médiá pre:"
+
+#~ msgid "Insert Media"
+#~ msgstr "Vložiť multimédiá"
+
+#~ msgid "Upload Media"
+#~ msgstr "Nahrať multimédiá"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Vyberte prosím video alebo obrázok, ktoré chcete vložiť."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Nastala chyba."
+
+#~ msgid "Common responses"
+#~ msgstr "Najčastejšie odpovede"
+
+#~ msgid "cannedresponses"
+#~ msgstr "cannedresponses"
+
+#~ msgid "Search for common responses"
+#~ msgstr "Vyhľadať najčastejšie odpovede"
+
+#~ msgid "Categories"
+#~ msgstr "Kategórie"
+
+#~ msgid "Responses"
+#~ msgstr "Odpovede"
+
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "Vyberte prosím kategóriu z predchádzajúceho stĺpca, alebo začnite nové hľadanie."
+
+#~ msgid "Response editor"
+#~ msgstr "Editor odpovedí"
+
+#~ msgid "Switch to preview mode"
+#~ msgstr "Prepnúť do režimu náhľadu"
+
+#~ msgid "Insert Response"
+#~ msgstr "Vložiť odpoveď"
+
+#~ msgid "Matching responses"
+#~ msgstr "Vyhovujúce odpovede"
+
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "Pri kontrole pripravených odpovedí nastala chyba."
+
+#~ msgid "Response preview"
+#~ msgstr "Náhľad odpovede"
+
+#~ msgid "Switch to edit mode"
+#~ msgstr "Prepnúť do režimu editácie"
+
+#~ msgid "Quote previous message..."
+#~ msgstr "Vložiť predchádzajúcu správu..."
+
+#~ msgid " said"
+#~ msgstr " povedal(a)"
+
+#~ msgid "Reply..."
+#~ msgstr "Odpoveď..."
+
+#~ msgid "%s characters remaining"
+#~ msgstr "Ostáva %s znakov"
+
+#~ msgid "There was an error."
+#~ msgstr "Nastala chyba."
+
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Nastala chyba. Skúste to prosím znovu neskôr."
+
+#~ msgid "Daily"
+#~ msgstr "Denne"
+
+#~ msgid "Weekly"
+#~ msgstr "Týždenne"
+
+#~ msgid "Monthly"
+#~ msgstr "Mesačne"
+
+#~ msgid "Week beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Týždeň začínajúci %(year)s-%(month)s-%(date)s"
+
+#~ msgid "Month beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Mesiac začínajúci %(year)s-%(month)s-%(date)s"
+
+#~ msgid "1m"
+#~ msgstr "1m"
+
+#~ msgid "3m"
+#~ msgstr "3m"
+
+#~ msgid "6m"
+#~ msgstr "6m"
+
+#~ msgid "YTD"
+#~ msgstr "YTD"
+
+#~ msgid "1y"
+#~ msgstr "1r"
+
+#~ msgid "All"
+#~ msgstr "Všetko"
+
+#~ msgid "From %(from_input)s to %(to_input)s"
+#~ msgstr "Od %(from_input)s do %(to_input)s"
+
+#~ msgid "Invalid tag entered: %s"
+#~ msgstr "Vložená neplatná značka: %s"
+
+#~ msgid "No tags entered."
+#~ msgstr "Neboli vložené žiadne značky."
+
+#~ msgid "No, ignore"
+#~ msgstr "Nie, ignorovať"
+
+#~ msgid "Did you mean %s?"
+#~ msgstr "Myslíte %s?"
+
+#~ msgid "Error uploading image"
+#~ msgstr "Chyba pri nahrávaní obrázka"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Chyba pri odstraňovaní obrázka"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Prosím skontrolujte či ste prihlásený a skúste to znova."
+
+#~ msgid "Search for a user..."
+#~ msgstr "Vyhľadať používateľa..."
+
+#~ msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+#~ msgstr "UPOZORNENIE! Naozaj chcete deaktivovať tohto používateľa? Túto akciu nemožno vrátiť späť!"
+
+#~ msgid "All Articles: % Localized"
+#~ msgstr "Všetky články: % lokalizovaných"
+
+#~ msgid "Top 20 Articles: % Localized"
+#~ msgstr "20 hlavných článkov: % lokalizovaných"
+
+#, fuzzy
+#~ msgid "Top 100 Articles: % Localized"
+#~ msgstr "20 hlavných článkov: % lokalizovaných"
+
+#~ msgid "Active Contributors"
+#~ msgstr "Aktívni prispievatelia"
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Dokument s týmto názvom pre tento jazyk už existuje."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "Dokument s touto URL adresou pre tento jazyk už existuje."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "Vyberte revíziu pre porovnanie"
+
+#~ msgid "Toggle syntax highlighting"
+#~ msgstr "Prepnúť zvýraznenie syntaxov"
+
+#~ msgid "Toggle Diff"
+#~ msgstr "Prepnúť Diff"
+
+#~ msgid "Show for..."
+#~ msgstr "Zobraziť pre..."
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "Zobraziť obsah len pre konkrétne verzie Firefoxu a operačných systémov."
+
+#~ msgid "Add Rule"
+#~ msgstr "Pridať pravidlo"
+
+#~ msgid "Installing..."
+#~ msgstr "Prebieha inštalácia..."
+
+#~ msgid "Answers"
+#~ msgstr "Odpovede"
+
+#~ msgid "Unhelpful Answers"
+#~ msgstr "Neužitočné odpovede"
+
+#~ msgid "Solutions"
+#~ msgstr "Riešenia"
+
+#~ msgid "Helpful Answers"
+#~ msgstr "Užitočné odpovede"
+
+#~ msgid "First Answers"
+#~ msgstr "Prvé odpovede"
+
+#~ msgid "Signing you in..."
+#~ msgstr "Prebieha prihlasovanie..."
+
+#~ msgid "Mozilla Support"
+#~ msgstr "Podpora Mozilly"
+
+#~ msgid "[missing header]"
+#~ msgstr "[chýbajúca hlavička]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Štruktúra článku"
+
+#~ msgid "Insert a canned response..."
+#~ msgstr "Vložiť pripravenú odpoveď..."
+
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "Neplatné video. Vyberte prosím platný súbor vo formáte FLV."
+
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "Nahrávanie bolo zrušené. Vyberte prosím video vo formáte FLV."
+
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "Súbor bol odstránený. Vyberte prosím video vo formáte FLV."
+
+#~ msgid "Delete FLV video"
+#~ msgstr "Odstrániť FLV video"
+
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "Neplatné video. Vyberte prosím platný súbor vo formáte OGV."
+
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "Nahrávanie bolo zrušené. Vyberte prosím video vo formáte OGV."
+
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "Súbor bol odstránený. Vyberte prosím video vo formáte OGV."
+
+#~ msgid "Delete OGV video"
+#~ msgstr "Odstrániť OGV video"
+
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "Neplatné video. Vyberte prosím platný súbor vo formáte WebM."
+
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "Nahrávanie bolo zrušené. Vyberte prosím video vo formáte WebM."
+
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "Súbor bol odstránený. Vyberte prosím video vo formáte WebM."
+
+#~ msgid "Delete WebM video"
+#~ msgstr "Odstrániť WebM video"
+
+#~ msgid "Upgrade Firefox"
+#~ msgstr "Aktualizácia Firefoxu"
+
+#~ msgid "Your Firefox is out of date and may contain a security risk!"
+#~ msgstr "Váš Firefox je neaktuálny a môže obsahovať bezpečnostné problémy!"
+
+#~ msgid "January"
+#~ msgstr "Január"
+
+#~ msgid "February"
+#~ msgstr "Február"
+
+#~ msgid "March"
+#~ msgstr "Marec"
+
+#~ msgid "April"
+#~ msgstr "Apríl"
+
+#~ msgid "May"
+#~ msgstr "Máj"
+
+#~ msgid "June"
+#~ msgstr "Jún"
+
+#~ msgid "July"
+#~ msgstr "Júl"
+
+#~ msgid "August"
+#~ msgstr "August"
+
+#~ msgid "September"
+#~ msgstr "September"
+
+#~ msgid "October"
+#~ msgstr "Október"
+
+#~ msgid "November"
+#~ msgstr "November"
+
+#~ msgid "December"
+#~ msgstr "December"
+
+#~ msgid "Sunday"
+#~ msgstr "Nedeľa"
+
+#~ msgid "Monday"
+#~ msgstr "Pondelok"
+
+#~ msgid "Tuesday"
+#~ msgstr "Utorok"
+
+#~ msgid "Wednesday"
+#~ msgstr "Streda"
+
+#~ msgid "Thursday"
+#~ msgstr "Štvrtok"
+
+#~ msgid "Friday"
+#~ msgstr "Piatok"
+
+#~ msgid "Saturday"
+#~ msgstr "Sobota"
+
+#~ msgid "Jan"
+#~ msgstr "Jan"
+
+#~ msgid "Feb"
+#~ msgstr "Feb"
+
+#~ msgid "Mar"
+#~ msgstr "Mar"
+
+#~ msgid "Apr"
+#~ msgstr "Apr"
+
+#~ msgid "Jun"
+#~ msgstr "Jún"
+
+#~ msgid "Jul"
+#~ msgstr "Júl"
+
+#~ msgid "Aug"
+#~ msgstr "Aug"
+
+#~ msgid "Sep"
+#~ msgstr "Sep"
+
+#~ msgid "Oct"
+#~ msgstr "Okt"
+
+#~ msgid "Nov"
+#~ msgstr "Nov"
+
+#~ msgid "Dec"
+#~ msgstr "Dec"
+
+#~ msgid "From"
+#~ msgstr "Od"
+
+#~ msgid "To"
+#~ msgstr "Komu"
+
+#~ msgid "Zoom"
+#~ msgstr "Zväčšiť"
+
+#~ msgid "Reset zoom"
+#~ msgstr "Pôvodná veľkosť"
+
+#~ msgid "Reset zoom level 1:1"
+#~ msgstr "Obnoviť veľkosť na 1:1"
+
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "Chyba pri nahrávaní grafu. (Ste prihlásený?)"
+
+#~ msgid "Helpfulness Votes over 1 Month"
+#~ msgstr "Hlasov o užitočnosti po viac ako 1 mesiaci"
+
+#~ msgid "Current Percent of Helpfulness"
+#~ msgstr "Aktuálne percento užitočnosti"
+
+#~ msgid "Percent Change in Helpfulness"
+#~ msgstr "Percentuálna zmena užitočnosti"
+
+#~ msgid "Documents"
+#~ msgstr "Dokumenty"
+
+#~ msgid "%s Votes"
+#~ msgstr "%s hlasov"
+
+#~ msgid "CTR %"
+#~ msgstr "CTR %"
+
+#~ msgid "We're open!"
+#~ msgstr "Máte otvorené!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Naši dobrovoľníci sú pripravení vám pomôcť."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Pomocníci, ktorí sú online: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "Čakajúci používatelia: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Odhadovaná doba čakania: "
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Zahájiť živý rozhovor."
+
+#~ msgid "The queue is full."
+#~ msgstr "Fronta je plná."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Naši dobrovoľníci práve pomáhajú iným používateľom."
+
+#~ msgid "We're closed."
+#~ msgstr "Máme zatvorené."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "Živý rozhovor je momentálne uzatvorený."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "Pri kontrole fronty nastala chyba."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "Môžete vyskúšať zahájiť živý rozhovor."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Menej než 2 minúty."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "Viac ako 20 minút."
+
+#~ msgid "Daily Unique Visitors"
+#~ msgstr "Unikátny denný návštevníci"
+
+#~ msgid "Query took: "
+#~ msgstr "Požiadavka trvala: "
+
+#~ msgid " seconds"
+#~ msgstr " sekúnd"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "Hlasovanie o užitočnosti"
+
+#~ msgid "Number of Votes"
+#~ msgstr "Počet hlasov"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Nahlásiť tento príspevok"
+
+#~ msgid "Toggle L10n"
+#~ msgstr "Prepnúť L10n"
+
+#~ msgid "Search: "
+#~ msgstr "Vyhľadávanie:"
+
+#~ msgid "Active Support Forum Contributors"
+#~ msgstr "Aktívny prispievatelia do fóra podpory"
+
+#~ msgid "Contributors"
+#~ msgstr "Prispievatelia"
+
+#, fuzzy
+#~ msgid "External Link"
+#~ msgstr "externý odkaz"
+
+#~ msgid "external link"
+#~ msgstr "externý odkaz"
+
+#, fuzzy
+#~ msgid "Delete %s file"
+#~ msgstr "zmazať vybrané súbory"

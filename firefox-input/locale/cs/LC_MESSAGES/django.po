@@ -1,0 +1,1803 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Firefox Input\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-15 07:48-0700\n"
+"PO-Revision-Date: 2015-01-17 09:38+0000\n"
+"Last-Translator: Michal <michal.stanke@mikk.cz>\n"
+"Language-Team: cs <info@mozilla.cz>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1421487493.0\n"
+
+#: fjord/analytics/helpers.py:10 fjord/analytics/views.py:360 fjord/base/helpers.py:106 fjord/feedback/helpers.py:9
+msgid "Unknown"
+msgstr "Neznámý"
+
+#: fjord/analytics/views.py:123
+msgid "Firefox Input: {query}"
+msgstr "Firefox Input: {query}"
+
+#: fjord/analytics/views.py:125 fjord/analytics/views.py:139 fjord/base/templates/500.html:8 fjord/base/templates/base.html:5 fjord/base/templates/mobile/base.html:4
+msgid "Firefox Input"
+msgstr "Firefox Input"
+
+#: fjord/analytics/views.py:138
+msgid "Search Results From Firefox Input"
+msgstr "Výsledky vyhledávání ve Firefox Input"
+
+#: fjord/analytics/views.py:143 fjord/analytics/views.py:367 fjord/analytics/views.py:435 fjord/analytics/templates/analytics/dashboard.html:13 fjord/analytics/templates/analytics/response.html:29
+#: fjord/analytics/templates/analytics/mobile/response.html:18 fjord/feedback/models.py:344
+msgid "Happy"
+msgstr "Šťastný"
+
+#: fjord/analytics/views.py:143 fjord/analytics/views.py:367 fjord/analytics/views.py:437 fjord/analytics/templates/analytics/dashboard.html:15 fjord/analytics/templates/analytics/response.html:31
+#: fjord/analytics/templates/analytics/mobile/response.html:20 fjord/feedback/models.py:345
+msgid "Sad"
+msgstr "Smutný"
+
+#: fjord/analytics/views.py:153 fjord/analytics/templates/analytics/response.html:24 fjord/analytics/templates/analytics/mobile/response.html:13
+msgid "Response id: {id}"
+msgstr "Id odpovědi: {id}"
+
+#: fjord/analytics/views.py:281
+msgid "Bigram"
+msgstr "Bigram"
+
+#: fjord/analytics/views.py:366
+msgid "Sentiment"
+msgstr "Pocit"
+
+#: fjord/analytics/views.py:373 fjord/analytics/templates/analytics/response.html:111
+msgid "Product"
+msgstr "Produkt"
+
+#: fjord/analytics/views.py:384 fjord/analytics/views.py:390 fjord/analytics/templates/analytics/response.html:115
+msgid "Version"
+msgstr "Verze"
+
+#: fjord/analytics/views.py:391
+msgid "Select product to see version breakdown"
+msgstr "Vyberte produkt, pro který chcete vidět rozpis verzí"
+
+#: fjord/analytics/views.py:399 fjord/analytics/templates/analytics/response.html:99
+msgid "Platform"
+msgstr "Platforma"
+
+#: fjord/analytics/views.py:405 fjord/analytics/templates/analytics/response.html:105
+msgid "Locale"
+msgstr "Jazyk"
+
+#: fjord/analytics/templates/analytics/dashboard.html:7
+msgid "Atom feed for this search"
+msgstr "ATOM pro toto vyhledávání"
+
+#: fjord/analytics/templates/analytics/dashboard.html:45 fjord/analytics/templates/analytics/analyzer/search.html:78 fjord/analytics/templates/analytics/mobile/response.html:40
+msgid "Permalink"
+msgstr "Trvalý odkaz"
+
+#: fjord/analytics/templates/analytics/dashboard.html:100
+msgid "When"
+msgstr "Kdy"
+
+#. Short for 1 day.
+#: fjord/analytics/templates/analytics/dashboard.html:102
+msgid "1d"
+msgstr "1d"
+
+#. Short for 7 days.
+#: fjord/analytics/templates/analytics/dashboard.html:104
+msgid "7d"
+msgstr "7d"
+
+#. Short for 30 days.
+#: fjord/analytics/templates/analytics/dashboard.html:106
+msgid "30d"
+msgstr "30d"
+
+#. Short for 90 days.
+#: fjord/analytics/templates/analytics/dashboard.html:108
+msgid "90d"
+msgstr "90d"
+
+#: fjord/analytics/templates/analytics/dashboard.html:110
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: fjord/analytics/templates/analytics/dashboard.html:114
+msgid "Start"
+msgstr "Začátek"
+
+#: fjord/analytics/templates/analytics/dashboard.html:116
+msgid "End"
+msgstr "Konec"
+
+#: fjord/analytics/templates/analytics/dashboard.html:117
+msgid "Set"
+msgstr "Nastavit"
+
+#: fjord/analytics/templates/analytics/dashboard.html:136
+msgid "Note: All dates and times are in Pacific Time."
+msgstr "Poznámka: Všechny data a časy jsou pacifického času."
+
+#: fjord/analytics/templates/analytics/dashboard.html:141
+msgid "Feedback"
+msgstr "Reakce"
+
+#: fjord/analytics/templates/analytics/dashboard.html:145
+msgid "Search by keyword"
+msgstr "Hledání dle klíčového slova"
+
+#: fjord/analytics/templates/analytics/dashboard.html:163
+msgid "No feedback matches that criteria."
+msgstr "Žádná zpětná vazba neodpovídá zadaným kritériím."
+
+#: fjord/analytics/templates/analytics/dashboard.html:169
+msgid "Older Messages"
+msgstr "Starší zprávy"
+
+#: fjord/analytics/templates/analytics/dashboard.html:174
+msgid "Newer Messages"
+msgstr "Novější zprávy"
+
+#: fjord/analytics/templates/analytics/dashboard.html:185
+msgid "Messages in specified time range"
+msgstr "Zprávy v zadaném období"
+
+#: fjord/analytics/templates/analytics/es_down.html:12
+msgid "Dashboard unavailable"
+msgstr "Nástěnka není dostupná"
+
+#: fjord/analytics/templates/analytics/es_down.html:14
+msgid "Dashboard is currently unavailable. Please try again in 10 minutes."
+msgstr "Nástěnka aktuálně není dostupná. Zkuste to prosím za 10 minut."
+
+#: fjord/analytics/templates/analytics/response.html:45
+msgid "Category"
+msgstr "Kategorie"
+
+#: fjord/analytics/templates/analytics/response.html:47 fjord/analytics/templates/analytics/response.html:125 fjord/analytics/templates/analytics/response.html:129
+#: fjord/analytics/templates/analytics/response.html:133 fjord/analytics/templates/analytics/response.html:137 fjord/analytics/templates/analytics/response.html:141
+#: fjord/analytics/templates/analytics/response.html:145
+msgid "None"
+msgstr "Žádný"
+
+#: fjord/analytics/templates/analytics/response.html:49
+msgid "Description"
+msgstr "Popis"
+
+#: fjord/analytics/templates/analytics/response.html:53
+msgid "Translated"
+msgstr "Přeloženo"
+
+#: fjord/analytics/templates/analytics/response.html:64
+msgid "Translate (machine)"
+msgstr "Přeložit (strojově)"
+
+#: fjord/analytics/templates/analytics/response.html:70
+msgid "Translate (human)"
+msgstr "Přeložit (člověk)"
+
+#: fjord/analytics/templates/analytics/response.html:85
+msgid "Created"
+msgstr "Vytvořeno"
+
+#: fjord/analytics/templates/analytics/response.html:119
+msgid "Channel"
+msgstr "Kanál"
+
+#: fjord/analytics/templates/analytics/response.html:123
+msgid "URL Domain"
+msgstr "URL domény"
+
+#: fjord/analytics/templates/analytics/response.html:127
+msgid "Source"
+msgstr "Zdroj"
+
+#: fjord/analytics/templates/analytics/response.html:131
+msgid "Campaign"
+msgstr "Kampaň"
+
+#: fjord/analytics/templates/analytics/response.html:135
+msgid "Browser"
+msgstr "Prohlížeč"
+
+#: fjord/analytics/templates/analytics/response.html:139
+msgid "Browser Ver."
+msgstr "Verze prohlížeče"
+
+#: fjord/analytics/templates/analytics/response.html:143
+msgid "Browser Plat."
+msgstr "Platforma prohlížeče"
+
+#: fjord/analytics/templates/analytics/response.html:151
+msgid "Full URL"
+msgstr "Celá URL"
+
+#: fjord/analytics/templates/analytics/response.html:155 fjord/feedback/templates/feedback/fxos_feedback.html:94
+msgid "Country"
+msgstr "Země"
+
+#: fjord/analytics/templates/analytics/response.html:159
+msgid "Manufacturer"
+msgstr "Výrobce"
+
+#: fjord/analytics/templates/analytics/response.html:163 fjord/feedback/templates/feedback/fxos_feedback.html:116
+msgid "Device"
+msgstr "Zařízení"
+
+#: fjord/analytics/templates/analytics/response.html:167
+msgid "User agent"
+msgstr "Identifikace prohlížeče"
+
+#: fjord/analytics/templates/analytics/response.html:171
+msgid "Email"
+msgstr "E-mail"
+
+#: fjord/analytics/templates/analytics/response.html:179
+msgid "Browser data"
+msgstr "Data prohlížeče"
+
+#: fjord/analytics/templates/analytics/response.html:182
+msgid "yes"
+msgstr "ano"
+
+#: fjord/analytics/templates/analytics/response.html:187
+msgid "API version"
+msgstr "Verze API"
+
+#: fjord/analytics/templates/analytics/response.html:205
+msgid "Context"
+msgstr "Kontext"
+
+#: fjord/analytics/templates/analytics/mobile/dashboard.html:4
+msgid "Dashboard is not available on mobile devices, yet."
+msgstr "Nástěnka prozatím není dostupná pro mobilní zařízení."
+
+#: fjord/base/models.py:55
+msgid "JSON Object"
+msgstr "JSON object"
+
+#: fjord/base/templates/403.html:3 fjord/base/templates/403.html:9
+msgid "Forbidden"
+msgstr "Zamítnuto"
+
+#: fjord/base/templates/403.html:12
+msgid "You do not have access to this page."
+msgstr "Na tuto stránku nemáte přístup."
+
+#: fjord/base/templates/403.html:14
+msgid "You do not have access to this page. If you have an account, try signing in."
+msgstr "Na tuto stránku nemáte přístup. Pokud máte účet, zkuste se přihlásit."
+
+#: fjord/base/templates/403.html:18 fjord/base/templates/404.html:14 fjord/base/templates/500.html:35 fjord/base/templates/includes/login_failure_text.html:8
+msgid "Return to the dashboard."
+msgstr "Zpět na nástěnku"
+
+#: fjord/base/templates/404.html:3 fjord/base/templates/404.html:9
+msgid "Not Found"
+msgstr "Nenalezeno"
+
+#: fjord/base/templates/404.html:11
+msgid "The document could not be found."
+msgstr "Dokument nebyl nalezen"
+
+#: fjord/base/templates/500.html:8
+msgid "Something has gone horribly wrong"
+msgstr "Něco je strašlivě špatně"
+
+#: fjord/base/templates/500.html:19 fjord/base/templates/base.html:44 fjord/base/templates/mobile/base.html:29
+msgid "<strong>Firefox</strong> Input"
+msgstr "<strong>Firefox</strong> Input"
+
+#: fjord/base/templates/500.html:25 fjord/base/templates/base.html:50 fjord/base/templates/mobile/base.html:35
+msgid "Dashboard"
+msgstr "Nástěnka"
+
+#: fjord/base/templates/500.html:33
+msgid "Something has gone horribly wrong."
+msgstr "Něco je strašně špatně."
+
+#: fjord/base/templates/500.html:34
+msgid "There was a problem on the server."
+msgstr "Na serveru nastal problém."
+
+#: fjord/base/templates/about.html:3 fjord/base/templates/includes/common.html:23
+msgid "About Firefox Input"
+msgstr "O Firefox Input"
+
+#: fjord/base/templates/about.html:9
+msgid "Hello!"
+msgstr "Zdravíčko!"
+
+#: fjord/base/templates/about.html:11
+msgid ""
+"Firefox Input is Mozilla's primary feedback mechanism for products. It is set up to be a method of one-way communication about your experiences in using our products, the Internet you view it "
+"through, and what Mozilla can do to make that experience better. The system is available over a wide-variety of submission mechanisms and product builds."
+msgstr ""
+"Firefox Input je hlavní mechanismus pro sběr reakcí k produktům Mozilla. Byla vytvořena pro jednosměrnou komunikaci o vašich zkušenostech s používáním našich produktů, prohlížením internetu, a o "
+"tom, co Mozilla může v této oblasti zlepšit. Systém je dostupný pro širokou řadu forem odeslání reakcí k jednotlivým sestavením každého produktu."
+
+#: fjord/base/templates/about.html:21
+msgid "To submit feedback for a Mozilla product, please go to <a href=\"%(url)s\">the feedback submission page</a>!"
+msgstr "Pro odeslání reakce k produktu Mozilly prosím přejděte na <a href=\"%(url)s\">stránku pro odeslání reakce</a>!"
+
+#: fjord/base/templates/about.html:27 fjord/base/templates/includes/common.html:20
+msgid "Privacy Policy"
+msgstr "Zásady ochrany soukromí"
+
+#: fjord/base/templates/about.html:29
+msgid "We adhere to the <a href=\"%(url)s\">Mozilla Privacy Policy</a>."
+msgstr "Dodržujeme <a href=\"%(url)s\">Zásady ochrany soukromí Mozilly</a>."
+
+#: fjord/base/templates/about.html:34
+msgid "Legal Disclaimers and Limitations"
+msgstr "Právní prohlášení a omezení"
+
+#: fjord/base/templates/about.html:36
+msgid "We are covered by the <a href=\"%(url)s\">Mozilla legal disclaimers and limitations</a> document."
+msgstr "Na tuto službu se vztahují <a href=\"%(url)s\">Právní podmínky Mozilly a omezení dle tohoto dokumentu</a>."
+
+#: fjord/base/templates/about.html:42
+msgid "Data Retention Policy"
+msgstr "Uchovávání údajů"
+
+#: fjord/base/templates/about.html:44
+msgid "We have a data retention policy that covers data stored on this site:"
+msgstr "Máme také podmínky pro uchovávání údajů, které jsou na táto stránce ukládány:"
+
+#: fjord/base/templates/about.html:51
+msgid "We keep feedback data forever, but only the last 6 months of data is available on the public dashboard."
+msgstr "Data z reakcí uchováváme natrvalo, na veřejné nástěnce jsou ale dostupná pouze za posledních 6 měsíců."
+
+#: fjord/base/templates/about.html:57
+msgid "We keep email addresses and contextual data associated with feedback data for 6 months and then delete it."
+msgstr "E-mailové adresy a kontextové informace asociované se zpětnou vazbou uchováváme 6 měsíců, a poté je mažeme."
+
+#: fjord/base/templates/about.html:64
+msgid "Open Data"
+msgstr "Otevřená data"
+
+#: fjord/base/templates/about.html:66
+msgid ""
+"We'd love to experiment more with this data, but we're only a few people. So, we need requests from you on questions you'd like to see answered! If you would like to experiment with our data, "
+"please contact us!"
+msgstr "Rádi bychom s těmito daty experimentovali více, ale je nás pouze pár. Pokud byste s nimi rádi experimentovali vy, kontaktujte nás!"
+
+#: fjord/base/templates/about.html:74
+msgid "Source Code"
+msgstr "Zdrojový kód"
+
+#: fjord/base/templates/about.html:76
+msgid "The code for the Firefox Input site can be <a href=\"%(url)s\">found on GitHub</a>!"
+msgstr "Kód webové aplikace Firefox Input můžete nalézt <a href=\"%(url)s\">na serveru GitHub</a>!"
+
+#: fjord/base/templates/base.html:5 fjord/base/templates/mobile/base.html:4
+msgid "Welcome"
+msgstr "Vítejte!"
+
+#: fjord/base/templates/base.html:32 fjord/base/templates/mobile/base.html:21
+msgid "Proceed to main content"
+msgstr "Přechod na hlavní obsah"
+
+#: fjord/base/templates/base.html:33 fjord/base/templates/mobile/base.html:22
+msgid "Proceed to footer"
+msgstr "Přechod na patičku"
+
+#: fjord/base/templates/base.html:51
+msgid "Give Feedback"
+msgstr "Poskytnout reakci"
+
+#: fjord/base/templates/base.html:53
+msgid "Analytics"
+msgstr "Analytika"
+
+#: fjord/base/templates/base.html:59
+msgid "Hello, {username}"
+msgstr "Vítej, {username}"
+
+#: fjord/base/templates/base.html:63
+msgid "Sign out"
+msgstr "Odhlášení"
+
+#: fjord/base/templates/base.html:65
+msgid "Sign in"
+msgstr "Přihlášení"
+
+#: fjord/base/templates/csrf_failure.html:3 fjord/base/templates/includes/csrf_failure_text.html:1 fjord/base/templates/mobile/csrf_failure.html:3
+msgid "CSRF Failure"
+msgstr "Selhání CSRF"
+
+#: fjord/base/templates/login_failure.html:3 fjord/base/templates/includes/login_failure_text.html:1 fjord/base/templates/mobile/login_failure.html:3
+msgid "Login Failure"
+msgstr "Přihlášení selhalo"
+
+#: fjord/base/templates/new_user.html:3 fjord/base/templates/mobile/new_user.html:3
+msgid "Welcome to Input!"
+msgstr "Vítejte v Input!"
+
+#: fjord/base/templates/includes/common.html:7
+msgid "Other languages:"
+msgstr "Další jazyky:"
+
+#: fjord/base/templates/includes/common.html:15
+msgid "Go"
+msgstr "Přejít"
+
+#: fjord/base/templates/includes/common.html:21
+msgid "Legal Notices"
+msgstr "Právní informace"
+
+#: fjord/base/templates/includes/common.html:22
+msgid "Report Trademark Abuse"
+msgstr "Nahlásit zneužití ochranných známek"
+
+#: fjord/base/templates/includes/common.html:26
+#, fuzzy
+msgid ""
+"Except where otherwise <a href=\"%(legal_url)s\">noted</a>, content on this site is licensed under the <a href=\"%(license_url)s\">Creative Commons Attribution Share-Alike License v3.0</a> or any "
+"later version."
+msgstr ""
+"Pokud není <a href=\"%(legal_url)s\">uvedeno</a> jinak, je obsah tohoto webu pod <br/> <a href=\"%(license_url)s\">Creative Commons Attribution Share-Alike License v3.0</a> či jakoukoliv novější "
+"verzí."
+
+#: fjord/base/templates/includes/csrf_failure_text.html:3
+msgid "Your submission failed a security check on our system."
+msgstr "Vaše odeslání neprošlo bezpečnostní kontrolou našeho systému."
+
+#: fjord/base/templates/includes/csrf_failure_text.html:8
+msgid "Please make sure you have cookies enabled, press the Back button in your browser, refresh the page, fill out the form, and try submitting your feedback again."
+msgstr "Ujistěte se prosím, že máte povolené cookies. Poté klepněte na tlačítko Zpět ve vašem prohlížeči, obnovte stránku, vyplňte formulář a zkuste prosím reakci odeslat znovu."
+
+#: fjord/base/templates/includes/login_failure_text.html:3
+msgid "You've failed to authenticate with Persona. Please try again."
+msgstr "Ověření pomocí Persona nebylo úspěšné. Zkuste to prosím znovu."
+
+#: fjord/base/templates/includes/new_user_text.html:1
+msgid "Welcome!"
+msgstr "Vítejte!"
+
+#: fjord/base/templates/includes/new_user_text.html:3
+msgid "The identity you just logged in to Persona with ties you to your account on Input. Please remember which Persona identity you used."
+msgstr "Účet Persona, kterým jste se právě přihlásili, vás spojuje s účtem pro vstup zde na Input. Zapamatujte si prosím, který účet Persona jste použili."
+
+#: fjord/base/templates/includes/new_user_text.html:10
+msgid "Continue"
+msgstr "Pokračovat"
+
+#: fjord/feedback/config.py:10
+msgid "Colombia"
+msgstr "Kolumbie"
+
+#: fjord/feedback/config.py:11
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: fjord/feedback/config.py:12
+msgid "Poland"
+msgstr "Polsko"
+
+#: fjord/feedback/config.py:13
+msgid "Spain"
+msgstr "Španělsko"
+
+#: fjord/feedback/config.py:14
+msgid "Brazil"
+msgstr "Brazílie"
+
+#: fjord/feedback/config.py:15
+msgid "Germany"
+msgstr "Německo"
+
+#: fjord/feedback/config.py:16
+msgid "Greece"
+msgstr "Řecko"
+
+#: fjord/feedback/config.py:17
+msgid "Hungary"
+msgstr "Maďarsko"
+
+#: fjord/feedback/config.py:18
+msgid "Serbia"
+msgstr "Srbsko"
+
+#: fjord/feedback/config.py:19
+msgid "Montenegro"
+msgstr "Černá Hora"
+
+#: fjord/feedback/config.py:20
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: fjord/feedback/config.py:21
+msgid "Peru"
+msgstr "Peru"
+
+#: fjord/feedback/config.py:22
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:10 fjord/feedback/templates/feedback/mobile/download_firefox.html:7
+msgid "Download Firefox"
+msgstr "Stáhnout Firefox"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:16
+msgid "Please Download Firefox"
+msgstr "Stáhněte si prosím Firefox"
+
+#: fjord/feedback/templates/feedback/download_firefox.html:21 fjord/feedback/templates/feedback/mobile/download_firefox.html:21
+msgid "Oh! So, you want to offer us feedback on Firefox. Thank you, but you'll need to be on the latest version."
+msgstr "Zdá se, že chcete poslat reakci k Firefoxu. Děkujeme, ale musíte mít jeho poslední verzi."
+
+#: fjord/feedback/templates/feedback/download_firefox.html:27 fjord/feedback/templates/feedback/mobile/download_firefox.html:27
+msgid "To do that, simply go to our download page and install/update to the <a href=\"%(url)s\">latest version of Firefox!</a>"
+msgstr "Pro jeho získání jednoduše přejděte na naši stránku ke stažení a nainstalujte si <a href=\"%(url)s\">poslední verzi</a>!"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:7 fjord/feedback/templates/feedback/generic_feedback.html:7
+msgid "Submit Your Feedback"
+msgstr "Odešlete svou reakci"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:31 fjord/feedback/templates/feedback/generic_feedback.html:32
+msgid "{product} feedback"
+msgstr "Zpětná vazba k aplikaci {product}"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:36 fjord/feedback/templates/feedback/generic_feedback.html:37 fjord/feedback/templates/feedback/picker.html:28
+msgid "JavaScript is required to leave feedback. Please enable JavaScript in your browser and refresh this page."
+msgstr "Pro odeslání zpětné vazby je potřeba JavaScript. Povolte prosím JavaScript ve svém prohlížeči a obnovte tuto stránku."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:43
+msgid "Your feedback helps us improve Firefox OS."
+msgstr "Vaše reakce nám pomůže vylepšit Firefox OS."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:58 fjord/feedback/templates/feedback/generic_feedback.html:60
+msgid "%(product)s makes me happy"
+msgstr "%(product)s mě činí šťastným"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:75 fjord/feedback/templates/feedback/generic_feedback.html:77
+msgid "%(product)s makes me sad"
+msgstr "%(product)s mě zklamal"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:84 fjord/feedback/templates/feedback/generic_feedback.html:86
+msgid "Is %(product)s not the product you want to give feedback on?<br /> <a href=\"%(url)s\">Pick a different product</a>."
+msgstr "Není %(product)s tím produktem, pro který chcete odeslat zpětnou vazbu?<br /> <a href=\"%(url)s\">Vyberte jiný</a>."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:98
+msgid "In what country did you purchase your Firefox OS device?"
+msgstr "V které zemi jste si zakoupil(a) zařízení s Firefox OS?"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:106 fjord/feedback/templates/feedback/fxos_feedback.html:128
+msgid "Other"
+msgstr "Ostatní"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:110 fjord/feedback/templates/feedback/fxos_feedback.html:132
+msgid "Next"
+msgstr "Další"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:120
+msgid "What Firefox OS device are you using?"
+msgstr "Jaké zařízení s Firefox OS používáte?"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:137 fjord/feedback/templates/feedback/generic_feedback.html:95
+msgid "Details"
+msgstr "Detaily"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:142 fjord/feedback/templates/feedback/generic_feedback.html:100
+msgid "Please describe what you like. The content of your feedback will be public, so please be sure not to include personal information such as email address, passwords or phone number."
+msgstr "Popište prosím, co potřebujete. Obsah vaší reakce bude veřejný, proto se prosím ujistěte, že do ní nevkládáte žádné osobní informace jako e-mailovou adresu, hesla nebo telefonní číslo."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:150 fjord/feedback/templates/feedback/generic_feedback.html:108
+msgid ""
+"Please describe your problem below and be as specific as you can. The content of your feedback will be public, so please be sure not to include personal information such as email address, passwords "
+"or phone number."
+msgstr ""
+"Popište prosím svůj problém co nejpřesněji dokážete. Obsah vaší reakce bude veřejný, proto se prosím ujistěte, že do ní nevkládáte žádné osobní informace jako e-mailovou adresu, hesla nebo "
+"telefonní číslo."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:167 fjord/feedback/templates/feedback/generic_feedback.html:125
+msgid "If your feedback is related to a website, you can include it here:"
+msgstr "Pokud se vaše reakce týká konkrétní webové stránky, můžete ji sem přidat:"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:181 fjord/feedback/templates/feedback/generic_feedback.html:156
+msgid "(Optional) Check here to let us contact you to follow up on your feedback. Your email address will be kept private."
+msgstr "(Nepovinné) Zaškrtněte, pokud si přejete, abychom vás mohli kontaktovat. Vaše e-mailová adresa zůstane skrytá."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:192
+msgid "Please enter a valid email address."
+msgstr "Vložte prosím platnou e-mailovou adresu."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:198 fjord/feedback/templates/feedback/generic_feedback.html:170
+msgid "Submit"
+msgstr "Odeslat"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:204
+msgid "Submitting...."
+msgstr "Probíhá odesílání..."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:212
+msgid "Success!"
+msgstr "Úspěch!"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:216
+msgid "Thank you for your feedback! We will use it to help us create a better experience in future versions of Firefox OS."
+msgstr "Děkujeme za reakci! Použijeme ji pro vytvoření lepších budoucích verzí Firefox OS."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:222
+msgid "Learn how you can <a href=\"%(url)s\">make Firefox OS and Mozilla better</a>."
+msgstr "Přečtěte si, jak můžete <a href=\"%(url)s\">učinit Firefox OS a Mozillu lepšími</a>."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:231
+msgid "We're sorry!"
+msgstr "Omlouváme se!"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:234
+msgid "Something has happened and we can't submit your feedback. Feedback will be saved on your device so you can try sending it again later."
+msgstr "Něco se pokazilo a my nemůžeme odeslat vaši reakci. Reakce bude uložena na vašem zařízení, takže budete mít možnost ji odeslat později."
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:240 fjord/feedback/templates/feedback/fxos_feedback.html:246 fjord/feedback/templates/feedback/fxos_feedback.html:255
+msgid "Try again"
+msgstr "Zkusit znovu"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:241 fjord/feedback/templates/feedback/fxos_feedback.html:256
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: fjord/feedback/templates/feedback/fxos_feedback.html:249
+msgid "You have unsubmitted feedback data. Would you like to try submitting it again?"
+msgstr "Na vašem zařízení se nachází neodeslané reakce. Chcete je zkusit znovu odeslat?"
+
+#: fjord/feedback/templates/feedback/generic_feedback.html:43
+msgid "How does %(product)s make you feel?"
+msgstr "Jaký máte pocit z produktu %(product)s?"
+
+#: fjord/feedback/templates/feedback/generic_feedback.html:140
+msgid ""
+"Check here to provide technical information about your browser. This information helps us better understand our users and create better products. This information will be kept in accordance with "
+"our Privacy policy."
+msgstr ""
+"(Volitelné) Poskytněte technické informace o svém prohlížeči. Tato informace nám pomůže lépe porozumět našim uživatelům a vytvářet lepší produkty. Data budou uchována v souladu s našimi Zásadami "
+"ochrany soukromí."
+
+#: fjord/feedback/templates/feedback/picker.html:3
+msgid "Select A Product"
+msgstr "Vyberte produkt"
+
+#: fjord/feedback/templates/feedback/picker.html:14
+msgid "Select a product"
+msgstr "Vyberte produkt"
+
+#: fjord/feedback/templates/feedback/picker.html:23
+msgid "No products available."
+msgstr "Žádné produkty nejsou dostupné."
+
+#: fjord/feedback/templates/feedback/picker.html:34
+msgid "Select a product to leave feedback for."
+msgstr "Vyberte produkt pro odeslání reakce."
+
+#: fjord/feedback/templates/feedback/thanks.html:3 fjord/feedback/templates/feedback/thanks_l10nized.html:3
+msgid "Thanks"
+msgstr "Děkujeme"
+
+#: fjord/feedback/templates/feedback/thanks.html:16 fjord/feedback/templates/feedback/thanks_l10nized.html:16
+msgid "Thanks for Your Feedback"
+msgstr "Děkujeme za vaši reakci."
+
+#: fjord/feedback/templates/feedback/thanks.html:25
+msgid "Your feedback will be used to create a better experience in future releases of Firefox."
+msgstr "Vaše reakce bude použita pro vytvoření lepších verzí Firefoxu."
+
+#: fjord/feedback/templates/feedback/thanks.html:33 fjord/feedback/templates/feedback/thanks_l10nized.html:33
+#, fuzzy
+msgid "Suggestions from your feedback:"
+msgstr "Sdílet svou reakci."
+
+#: fjord/feedback/templates/feedback/thanks.html:49 fjord/feedback/templates/feedback/thanks_l10nized.html:49
+msgid "Having problems? Get help."
+msgstr "Narazili jste na problém? Zde je pomoc."
+
+#: fjord/feedback/templates/feedback/thanks.html:51 fjord/feedback/templates/feedback/thanks_l10nized.html:51
+msgid "Go to our support forum where you can <a href=\"%(url)s\">get help and find answers</a>."
+msgstr "Přejděte na naše fórum podpory, kde vám <a href=\"%(url)s\">pomůžeme a odpovíme</a> na vaše otázky."
+
+#: fjord/feedback/templates/feedback/thanks.html:60 fjord/feedback/templates/feedback/thanks_l10nized.html:64
+msgid "Shape the future of Firefox."
+msgstr "Objevte budoucnost Firefoxu."
+
+#: fjord/feedback/templates/feedback/thanks.html:62
+msgid "Download <a href=\"%(download_url)s\">the build that is right for you</a>."
+msgstr "Stáhněte si <a href=\"%(download_url)s\">verzi, která vám nejvíce vyhovuje</a>."
+
+#: fjord/feedback/templates/feedback/thanks.html:70 fjord/feedback/templates/feedback/thanks_l10nized.html:74
+msgid "Contribute to Mozilla."
+msgstr "Přispět do projektu Mozilla."
+
+#: fjord/feedback/templates/feedback/thanks.html:72
+msgid "Learn how you can <a href=\"%(url)s\">make Firefox and Mozilla better</a>."
+msgstr "Přečtěte si, jak můžete <a href=\"%(url)s\">učinit Firefox a Mozillu lepšími</a>."
+
+#: fjord/feedback/templates/feedback/thanks.html:79
+msgid "Find the latest news about Firefox."
+msgstr "Přečíst si poslední novinky o Firefoxu."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:25
+#, fuzzy
+msgid "Your feedback will be used to create a better experience in future releases of %(product)s."
+msgstr "Vaše reakce bude použita pro vytvoření lepších verzí Firefoxu."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:66
+#, fuzzy
+msgid "Download <a href=\"%(download_url)s\">the Firefox build that is right for you</a>."
+msgstr "Stáhněte si <a href=\"%(download_url)s\">verzi, která vám nejvíce vyhovuje</a>."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:76
+#, fuzzy
+msgid "Learn how you can <a href=\"%(url)s\">make %(product)s and Mozilla better</a>."
+msgstr "Přečtěte si, jak můžete <a href=\"%(url)s\">učinit Firefox a Mozillu lepšími</a>."
+
+#: fjord/feedback/templates/feedback/thanks_l10nized.html:84
+#, fuzzy
+msgid "Find the latest news about %(product)s."
+msgstr "Přečíst si poslední novinky o Firefoxu."
+
+#: fjord/feedback/templates/feedback/mobile/download_firefox.html:16
+msgid "Please Download Firefox!"
+msgstr "Stáhněte si prosím Firefox!"
+
+#: fjord/suggest/providers/sumosuggest.py:180
+msgid "Ask a question in our support forum"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Go to our support forum where you can get help and find answers."
+#~ msgstr "Přejděte na naše fórum podpory, kde vám <a href=\"%(url)s\">pomůžeme a odpovíme</a> na vaše otázky."
+
+#~ msgid "Submit feedback"
+#~ msgstr "Odeslat reakci"
+
+#~ msgid "Firefox OS made me happy"
+#~ msgstr "Firefox OS mě činí šťastným"
+
+#~ msgid "Firefox OS made me sad"
+#~ msgstr "Firefox OS mě zklamal"
+
+#~ msgid "If you need help or have a problem with Firefox OS, please visit <a href=\"%(support_url)s\">Mozilla Support</a>."
+#~ msgstr "Pokud potřebujete pomoc nebo máte problém s Firefox OS, navštivte naše <a href=\"%(support_url)s\">stránky podpory</a>."
+
+#~ msgid "Please describe what you liked."
+#~ msgstr "Popište prosím, co se vám líbilo."
+
+#~ msgid "Please describe your problem below and be as specific as you can."
+#~ msgstr "Popište prosím níže svůj problém a zkuste být co nejvíce konkrétní."
+
+#~ msgid "The content of your feedback will be public, so please be sure not to include any personal information."
+#~ msgstr "Obsah vaší reakce bude veřejně přístupný, takže v ní prosím neuvádějte žádné osobní informace."
+
+#~ msgid "Can we contact you?"
+#~ msgstr "Můžeme vás kontaktovat?"
+
+#~ msgid "Check here to let us contact you to follow up on your feedback."
+#~ msgstr "Zaškrtněte, pokud si přejete, abychom vás mohli kontaktovat."
+
+#~ msgid "Email address (optional):"
+#~ msgstr "E-mailová adresa (volitelné):"
+
+#~ msgid "Don't worry, your email will always be kept private."
+#~ msgstr "Nemusíte se obávat, vaše e-mailová adresa bude vždy považována za soukromou."
+
+#~ msgid "Send Feedback"
+#~ msgstr "Poslat reakci"
+
+#~ msgid "(Optional) Check here to provide technical information about your browser. This will help us diagnose problems more quickly. This data will be kept private."
+#~ msgstr "(Volitelné) Poskytněte technické informace o svém prohlížeči. Pomůže nám to rychleji nalézt problémy."
+
+#~ msgid "Your feedback helps us improve Firefox."
+#~ msgstr "Vaše reakce nám pomůže vylepšit Firefox."
+
+#~ msgid "Firefox made me happy"
+#~ msgstr "Firefox mě činí šťastným"
+
+#~ msgid "Firefox made me sad"
+#~ msgstr "Firefox mě zklamal"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit <a href=\"%(support_url)s\">Firefox Support</a>."
+#~ msgstr "Pokud potřebujete pomoc nebo máte problém s Firefoxem, navštivte naše <a href=\"%(support_url)s\">stránky podpory</a>."
+
+#~ msgid "Please describe your problem below."
+#~ msgstr "Popište prosím níže svůj problém."
+
+#~ msgid "Please be as specific as you can."
+#~ msgstr "Buďte prosím co nejvíce konkrétní."
+
+#~ msgid "If your feedback is related to a website, you can include it here."
+#~ msgstr "Pokud se vaše reakce týká konkrétní webové stránky, můžete ji sem přidat."
+
+#~ msgid "While your feedback will be publicly visible, email addresses are kept private. We understand your privacy is important."
+#~ msgstr "Ačkoliv bude vaše reakce zobrazena veřejně, e-mailová adresa bude považována za soukromou. Rozumíme, že je ochrana vašeho soukromí důležitá."
+
+#~ msgid "Unknown product"
+#~ msgstr "Neznámý produkt"
+
+#~ msgid "Input doesn't know about \"<em>%(product)s</em>\". If you think this is an error, please let us know by <a href=\"%(url)s\">writing up a bug</a>."
+#~ msgstr "Input nezná produkt \"<em>%(product)s</em>\". Pokud si myslíte, že jde o chybu, <a href=\"%(url)s\">dejte nám prosím vědět</a>."
+
+#~ msgid "If you are here by mistake and want to leave feedback, you can do so <a href=\"%(url)s\">on our feedback form</a>."
+#~ msgstr "Pokud jste zde omylem a chcete zanechat zpětnou vazbu, můžete tak učinit <a href=\"%(url)s\">pomocí našeho formuláře</a>."
+
+#~ msgid "Total # responses"
+#~ msgstr "Celkový počet odpovědí"
+
+#~ msgid "Want to help? <a href=\"%(survey_url)s\">Fill out this quick survey</a> about how you use Input."
+#~ msgstr "Chcete pomoci? <a href=\"%(survey_url)s\">Vyplňte tento krátký dotazník</a> o tom, jak používáte Input."
+
+#~ msgid "<a href=\"%(survey_url)s\">Fill out this quick survey</a> about how you use Input."
+#~ msgstr "<a href=\"%(survey_url)s\">Vyplňte tento krátký dotazník</a> o tom, jak používáte Input."
+
+#~ msgid "Need some data right now? We're happy to help! <a href=\"%(bug_url)s\">File a bug</a>."
+#~ msgstr "Potřebujete nějaká data nyní? Rádi pomůžeme! <a href=\"%(bug_url)s\">Zadejte bug</a>."
+
+#~ msgid "<a href=\"%(feedback_url)s\">I want to give feedback about Firefox</a>"
+#~ msgstr "<a href=\"%(feedback_url)s\">Chci odeslat zpětnou vazbu o Firefoxu</a>"
+
+#~ msgid "Input Services Monitor"
+#~ msgstr "Input Services Monitor"
+
+#~ msgid "List of components that Input uses and whether they are functioning correctly."
+#~ msgstr "Seznam komponent, které Input používá a to, zda jsou nyní korektně funkční."
+
+#~ msgid "Latest Feedback"
+#~ msgstr "Poslední reakce"
+
+#~ msgid "Messages"
+#~ msgstr "Zprávy"
+
+#~ msgid "Either you don't have an account here or you used the wrong Persona account to log in."
+#~ msgstr "Případně zde nemáte účet či jste použil(a) pro přihlášení špatný účet Persona."
+
+#~ msgid "Please enter a valid email address, or uncheck the box allowing us to contact you."
+#~ msgstr "Zadejte prosím platnou e-mailovou adresu či odškrtněte políčko, které nám povoluje vás kontaktovat."
+
+#~ msgid "This field is required."
+#~ msgstr "Pole je vyžadováno."
+
+#~ msgid "Firefox Made Me Happy"
+#~ msgstr "Firefox mě činí šťastným"
+
+#~ msgid "Firefox Made Me Sad"
+#~ msgstr "Firefox mě zklamal"
+
+#~ msgid "Super! It's great to hear that you like our browser."
+#~ msgstr "Skvělé! Je hezké slyšet, že se vám náš prohlížeč líbí."
+
+#~ msgid "We are sorry that you have not had a good experience with our browser. Please tell us why, so we can fix it."
+#~ msgstr "Je nám líto, že máte špatnou zkušenost s našim prohlížečem. Řekněte nám prosím proč, abychom to mohli změnit."
+
+#~ msgid "Go Back"
+#~ msgstr "Přejít zpět"
+
+#~ msgid ""
+#~ "Please be as specific as you can in the allotted space. For example, if you are giving feedback about slowness, please tell us about relevant websites, if you notice it at the beginning or later "
+#~ "in the browsing session and if there are any actions that you perform in Firefox that are particularly problematic."
+#~ msgstr ""
+#~ "Buďte prosím ve vyhrazeném prostoru co možná nejvíce konkrétní. Pokud se například vaše reakce týká pomalosti, řekněte nám prosím o konkrétních webových stránkách, na kterých ji pociťujete, či "
+#~ "popište konkrétní akce ve Firefoxu, u kterých pomalost pozorujete."
+
+#~ msgid "For support requests, please go to <a href=\"%(url)s\">Mozilla Support</a> instead."
+#~ msgstr "Pro žádosti o podporu navštivte spíše web <a href=\"%(url)s\">Podpora Mozilly</a>."
+
+#~ msgid "To protect your privacy, please ensure that no personally identifiable information is included in your feedback."
+#~ msgstr "Pro ochranu vašeho soukromí se ujistěte, že ve vaší reakci nejsou zahrnuty žádné osobní identifikační údaje."
+
+#~ msgid "Submitting Feedback"
+#~ msgstr "Probíhá odesílání reakce"
+
+#~ msgid "Submit Feedback"
+#~ msgstr "Odeslat reakci"
+
+#~ msgid "Tweet feedback to your followers"
+#~ msgstr "Poslat reakci mým sledovatelům na Twiteru"
+
+#~ msgid "Want to see where your feedback goes?"
+#~ msgstr "Chcete vidět, kde se octla vaše reakce?"
+
+#~ msgid "For support requests, please go to <a href=\"%(support_url)s\">Mozilla Support</a> instead."
+#~ msgstr "Pokud potřebujete pomoci, navštivte web <a href=\"%(support_url)s\">Podpora Mozilly</a>."
+
+#~ msgid "Thank you for your feedback!"
+#~ msgstr "Děkujeme za vaši reakci!"
+
+#~ msgid "Thanks for the feedback! We will use it to help create a better experience in future releases of Firefox."
+#~ msgstr "Děkujeme za reakci! Použijeme ji pro vytvoření lepších budoucích verzí Firefoxu."
+
+#~ msgid "Want to know what's going on with Firefox? We have many ways of staying in touch:"
+#~ msgstr "Chcete vědět, co se děje okolo Firefoxu? Existuje řada způsobů, jak zůstat v obraze:"
+
+#~ msgid "Download the build that is right for you"
+#~ msgstr "Stáhněte si verzi, která vám nejvíce vyhovuje"
+
+#~ msgid "Learn how you can make Firefox and Mozilla better"
+#~ msgstr "Přečtěte si, jak můžete učinit Firefoxu a Mozillu lepším."
+
+#~ msgid "Visit the Firefox Feedback Dashboard"
+#~ msgstr "Navštivte nástěnku Firefox Feedback"
+
+#~ msgid "Find the latest news about Mozilla."
+#~ msgstr "Přečtěte si poslední novinky o Mozille."
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Planet Mozilla"
+#~ msgstr "Planet Mozilla"
+
+#~ msgid "Page not found"
+#~ msgstr "Stránka nebyla nalezena"
+
+#~ msgid "Sorry, but we couldn't find the page you're looking for."
+#~ msgstr "Omlouváme se, ale nepodařilo se nalézt to, co hledáte."
+
+#~ msgid "Sorry, but something went wrong."
+#~ msgstr "Omlouváme se, ale něco se pokazilo."
+
+#~ msgid "We already got your feedback! Thanks."
+#~ msgstr "Již jsme vaši reakci získali. Díky!"
+
+#~ msgid "Describe your idea below."
+#~ msgstr "Níže popište svůj nápad."
+
+#~ msgid "Praise"
+#~ msgstr "Pochvala"
+
+#~ msgid "Issue"
+#~ msgstr "Problém"
+
+#~ msgid "Your comment contains swear words (%s). In order to help us improve our products, please use words that help us create an action or to-do from your constructive feedback. Thanks!"
+#~ msgstr "Váš komentář obsahuje některá nevhodná slova (%s). Pokud chcete pomoci vylepšit naše produkty, pište prosím reakci konstruktivně. Děkujeme!"
+
+#~ msgid "Feedback must not contain HTML."
+#~ msgstr "Reakce nesmí obsahovat HTML."
+
+#~ msgid "Your feedback seems to contain an email address. Please remove this and similar personal data from the text, then try again. Thanks!"
+#~ msgstr "Zdá se, že vaše reakce obsahuje e-mailovou adresu. Odstraňte ji prosím spolu s dalšími případnými osobními údaji a zkuste to znovu. Děkujeme!"
+
+#~ msgid "URLs with IP addresses must contain public IP addresses."
+#~ msgstr "U adres s IP adresami se musí jednat o veřejné IP adresy."
+
+#~ msgid "Your feedback seems to contain a URL. Please remove this and similar personal data from the text, then try again. Thanks!"
+#~ msgstr "Zdá se, že vaše reakce obsahuje URL. Proveďte prosím její odstranění spolu s odstraněním jakýchkoliv osobních dat a zkuste to znovu. Děkujeme!"
+
+#~ msgid "User-Agent request header must be set."
+#~ msgstr "Hlavička user-agent musí být nastavena."
+
+#~ msgid "It's great to hear you want to help Mozilla make your experience better!"
+#~ msgstr "Je skvělé slyšet, že chcete pomoci Mozille vytvářet lepší produkty!"
+
+#~ msgid "Please choose one of the following types of feedback that you would like to submit to us:"
+#~ msgstr "Zadejte prosím jeden z následujících typů reakcí, kterou byste nám rádi zaslali:"
+
+#~ msgid "Firefox makes me happy because ..."
+#~ msgstr "Firefox mě činí šťastným, protože ..."
+
+#~ msgid "Firefox makes me sad because ..."
+#~ msgstr "Firefox mě zklamal, protože ..."
+
+#~ msgid "Firefox Logo"
+#~ msgstr "Logo Firefoxu"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit our <a href=\"%(support_url)s\">support page</a>."
+#~ msgstr "Pokud potřebujete pomoc nebo máte problém s Firefoxem, navštivte naše <a href=\"%(support_url)s\">stránky podpory</a>."
+
+#~ msgid "I Have an Idea for Firefox"
+#~ msgstr "Mám nápad ohledně Firefoxu"
+
+#~ msgid "Have an idea how Firefox could be better? Let us know."
+#~ msgstr "Máte nápad, jak učinit Firefox lepším? Dejte nám vědět."
+
+#~ msgid "Include the URL of a site that worked better."
+#~ msgstr "Zahrnout URL stránky, která fungovala lépe."
+
+#~ msgid "Include the URL of the site with the problem."
+#~ msgstr "Zahrnout URL stránky s problémem."
+
+#~ msgid "If you have an idea to offer us instead, please use our"
+#~ msgstr "Pokud nám na místo toho chcete poslat nápad, pošlete jej skrze"
+
+#~ msgid "suggestion box"
+#~ msgstr "pole pro zasílání návrhů"
+
+#~ msgid "Super! It's great to hear that you like our browser. Please explain what you specifically like!"
+#~ msgstr "Skvělé! Je hezké slyšet, že se vám náš prohlížeč líbí. Řekněte nám, co se vám konkrétně líbí!"
+
+#~ msgid "We are sorry that you have not had a good experience with our browser. Please tell us why, so we can fix it!"
+#~ msgstr "Je nám líto, že máte špatnou zkušenost s našim prohlížečem. Řekněte nám prosím proč, abychom to mohli změnit! "
+
+#~ msgid "So, you'd like to make a suggestion on how to enhance Firefox? Awesome! Please enter your idea below:"
+#~ msgstr "Rádi byste nám zaslali návrh, jak vylepšit Firefoxu? Skvělé! Napište svůj nápad níže:"
+
+#~ msgid "Know of a website that works better in this beta than it did in earlier versions of Firefox? Please add the URL, so we can keep track!"
+#~ msgstr "Víte o webové stránce, která v této betaverzi funguje lépe než v předchozích verzích Firefoxu? Vložte prosím její URL, abychom o tí věděli!"
+
+#~ msgid "Had an issue with a specific website? Please add the URL, so we can find the issue faster!"
+#~ msgstr "Máte problém s konkrétního webovou stránkou? Vyplňte URL a my tak budeme moci chybu rychleji nalézt!"
+
+#~ msgid "Please ensure that there is no personally identifiable information here."
+#~ msgstr "Ujistěte se prosím, že nezadáváte žádné osobní údaje."
+
+#~ msgid "If you have an idea to offer us instead, please send it to us through our <a href=\"%(url_idea)s\">idea box</a>!"
+#~ msgstr "Pokud nám na místo toho chcete poslat nápad, pošlete jej skrze <a href=\"%(url_idea)s\">formulář pro zadání návrhu</a>!"
+
+#~ msgid "Your feedback will be used to create a"
+#~ msgstr "Vaše reakce bude použita pro vylepšení"
+
+#~ msgid "Thanks for helping Mozilla make your experience better!"
+#~ msgstr "Děkujeme, že pomáháte Mozille vytvářet lepší produkty pro vás!"
+
+#~ msgid "Please choose the type of feedback that you would like to submit to us:"
+#~ msgstr "Zvolte prosím typ reakce, kterou nám chcete zaslat:"
+
+#~ msgid "Firefox makes me sad ..."
+#~ msgstr "Firefox mě zklamal ..."
+
+#~ msgid "Download Beta"
+#~ msgstr "Stáhnout betaverzi"
+
+#~ msgid "Oh! So, you want to offer us feedback. You'll need the latest Beta! Head over to our beta page and <a href=\"%(url)s\">download it!</a>"
+#~ msgstr "Zdá se, že chcete přidat reakci, ale k tomu potřebujete poslední betaverzi! Navštivte naši stránku o betě  a <a href=\"%(url)s\">stáhněte si ji</a>!"
+
+#~ msgid "Back to Dashboard"
+#~ msgstr "Zpět na nástěnku"
+
+#~ msgid "We're glad Firefox for Mobile made you happy! Please tell us what you liked."
+#~ msgstr "Jsme rádi, že se vám Firefox pro mobily líbí! Řekněte nám, co se vám na něm líbí."
+
+#~ msgid "We're sorry Firefox for Mobile made you sad. Please tell us what happened so we can fix it."
+#~ msgstr "Je nám líto, že máte špatnou zkušenost s Firefoxem pro mobily. Řekněte nám prosím proč, abychom to mohli změnit."
+
+#~ msgid "We love ideas for Firefox for Mobile! Please descibe your idea below."
+#~ msgstr "Jsme rádi, že máte nápad na zlepšení Firefoxu pro mobily. Níže prosím napište svůj nápad."
+
+#~ msgid "Got an idea? <a href=\"%(url)s\">Submit it instead.</a>"
+#~ msgstr "Máte nápad? <a href=\"%(url)s\">Pošlete nám ho.</a>"
+
+#~ msgid "Include your last visited site?"
+#~ msgstr "Zahrnout poslední vámi navštívenou stránku?"
+
+#~ msgid "For your privacy, please don't include any personally identifiable information in your feedback."
+#~ msgstr "Pro ochranu vašeho soukromí se ujistěte, že ve vaší reakci nejsou zahrnuty žádné osobní identifikační údaje."
+
+#~ msgid "Super! Please tell us more!"
+#~ msgstr "Skvělé! Řekněte nám o tom více!"
+
+#~ msgid "Ack! Please tell us what to fix!"
+#~ msgstr "Omlouváme se! Řekněte nám o tom prosím více!"
+
+#~ msgid "Awesome! Please enter your idea below:"
+#~ msgstr "Skvělé! Napište prosím svůj návrh níže:"
+
+#~ msgid "Add URL of last visited page?"
+#~ msgstr "Přidat URL poslední navštívené stránky?"
+
+#~ msgid "Or submit your ideas with our <a href=\"%(url_idea)s\">idea box</a>!"
+#~ msgstr "Nebo nám zašlete své nápady pomocí <a href=\"%(url_idea)s\">formuláře pro zaslání návrhu</a>!"
+
+#~ msgid "We love feedback about Firefox for Mobile! What would you like to tell us?"
+#~ msgstr "Za vaši reakci na Firefox pro mobily jsme rádi. Co byste nám rádi sdělili?"
+
+#~ msgid "I have an idea for Firefox"
+#~ msgstr "Mám nápad k Firefoxu"
+
+#~ msgid "If you need help or have a problem with Firefox, please visit <a id=\"sumo-url\" href=\"%(url)s/\">Firefox Support</a>."
+#~ msgstr "Pokud potřebujete pomoc nebo máte problém s Firefoxem, navštivte naše <a id=\"sumo-url\" href=\"%(url)s/\">stránky podpory</a>."
+
+#~ msgid "Tweet This"
+#~ msgstr "Poslat na Twitter"
+
+#~ msgid "Thanks for sharing your feedback!"
+#~ msgstr "Děkujeme za odeslání reakce!"
+
+#~ msgid "See where your feedback goes."
+#~ msgstr "Podívejte se, co se děje s vaší reakcí."
+
+#~ msgid "Feedback Dashboard"
+#~ msgstr "Nástěnka reakcí"
+
+#~ msgid "Download the beta and give us feedback!"
+#~ msgstr "Stáhněte si betaverzi a dejte nám vědět, co si myslíte!"
+
+#~ msgid "Follow us on Twitter."
+#~ msgstr "Sledujte nás na Twitteru"
+
+#~ msgid "Let's be friends."
+#~ msgstr "Buďte přátelští."
+
+#~ msgid "Firefox on Facebook"
+#~ msgstr "Firefox na Facebooku"
+
+#~ msgid "Get the latest news on Firefox."
+#~ msgstr "Přečíst si poslední novinky o Firefoxu."
+
+#~ msgid "Idea"
+#~ msgstr "Nápad"
+
+#~ msgid "Rating"
+#~ msgstr "Hodnocení"
+
+#~ msgid "Broken Website"
+#~ msgstr "Rozbitá stránka"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobilní"
+
+#~ msgid "Windows XP"
+#~ msgstr "Windows XP"
+
+#~ msgid "Windows 7"
+#~ msgstr "Windows 7"
+
+#~ msgid "Windows Vista"
+#~ msgstr "Windows Vista"
+
+#~ msgid "Mac OS X"
+#~ msgstr "Mac OS X"
+
+#~ msgid "Maemo"
+#~ msgstr "Maemo"
+
+#~ msgid "Android"
+#~ msgstr "Android"
+
+#~ msgid "Linux"
+#~ msgstr "Linux"
+
+#~ msgid "{0} day ago"
+#~ msgid_plural "{0} days ago"
+#~ msgstr[0] "před {0} dnem"
+#~ msgstr[1] "před {0} dny"
+#~ msgstr[2] "před {0} dny"
+
+#~ msgid "{0} hour ago"
+#~ msgid_plural "{0} hours ago"
+#~ msgstr[0] "před {0} hodinou"
+#~ msgstr[1] "před {0} hodinami"
+#~ msgstr[2] "před {0} hodinami"
+
+#~ msgid "{0} minute ago"
+#~ msgid_plural "{0} minutes ago"
+#~ msgstr[0] "před {0} minutou"
+#~ msgstr[1] "před {0} minutami"
+#~ msgstr[2] "před {0} minutami"
+
+#~ msgid "just now"
+#~ msgstr "pouze nyní"
+
+#~ msgid "Query has timed out."
+#~ msgstr "Platnost dotazu vypršela."
+
+#~ msgid "Sphinx threw an unknown exception: %s"
+#~ msgstr "Sphinx vyhodil neznámou výjimku: %s"
+
+#~ msgctxt "version_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- vše --"
+
+#~ msgctxt "sentiment_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- vše --"
+
+#~ msgid "Issues"
+#~ msgstr "Problémy"
+
+#~ msgid "Ideas"
+#~ msgstr "Nápady"
+
+#~ msgctxt "platform_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- vše --"
+
+#~ msgctxt "locale_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- vše --"
+
+#~ msgid "Product:"
+#~ msgstr "Produkt:"
+
+#~ msgid "Version:"
+#~ msgstr "Verze:"
+
+#~ msgid "Locale:"
+#~ msgstr "Jazyk:"
+
+#~ msgid "PLATFORM:"
+#~ msgstr "PLATFORMA:"
+
+#~ msgid "Date range:"
+#~ msgstr "Časové rozmezí:"
+
+#~ msgid "to"
+#~ msgstr "do"
+
+#~ msgid "Show/Hide Options"
+#~ msgstr "Zobrazit/skrýt možnosti"
+
+#~ msgid "Toggle"
+#~ msgstr "Přepnout"
+
+#~ msgid "More Locales"
+#~ msgstr "Více jazyků"
+
+#~ msgid "More Options"
+#~ msgstr "Více možností"
+
+#~ msgid "Copy User Agent"
+#~ msgstr "Kopírovat user agent"
+
+#~ msgid "No search results found."
+#~ msgstr "Nebyly nalezeny žádné výsledky vyhledávání."
+
+#~ msgid "You can adjust your search criteria or use fewer filters to find more opinions."
+#~ msgstr "Můžete vylepšit vaše hledací kritéria nebo použít méně filtrů, abyste toho nalezli více."
+
+#~ msgid "Note: Recently released versions of Firefox may have less feedback."
+#~ msgstr "Poznámka: U nedávno vydaných verzí Firefoxu nemusí být tolik reakcí."
+
+#~ msgid "Type of Feedback"
+#~ msgstr "Typ reakce"
+
+#~ msgid "Search Results"
+#~ msgstr "Výsledky vyhledávání"
+
+#~ msgid "Search"
+#~ msgstr "Vyhledat"
+
+#~ msgid "Advanced"
+#~ msgstr "Rozšířené"
+
+#~ msgid "While Visiting"
+#~ msgstr "Při návštěvě"
+
+#~ msgid "Often Mentioned"
+#~ msgstr "Často zmíněno"
+
+#~ msgid "I'm sorry, there was an error with your search."
+#~ msgstr "Omlouváme se, ale při vyhledávání se vyskytla chyba."
+
+#~ msgid "Our search engine might be currently unavailable. You may start over on the <a href=\"%(url)s\">dashboard</a> and try again later."
+#~ msgstr "Náš vyhledávač může být aktuálně nedostupný. Můžete pokračovat  na <a href=\"%(url)s\">titulní stránku</a> a zkusit to později znovu."
+
+#~ msgid "If the problem persists, please <a href=\"%(bug_url)s\">file a bug</a>, mentioning the URL you were accessing."
+#~ msgstr "Pokud tento problém přetrvá, <a href=\"%(bug_url)s\">nahlašte prosím chybu</a> s informací o URL, ke kterému přistupujete."
+
+#~ msgid "Include the following error message in your bug report:"
+#~ msgstr "Do vašeho hlášení o chybě zahrňte následující chybové hlášení:"
+
+#~ msgid "Thanks!"
+#~ msgstr "Děkujeme!"
+
+#~ msgid "All"
+#~ msgstr "vše"
+
+#~ msgid "Custom"
+#~ msgstr "Vlastní"
+
+#~ msgid "{num} opinions on {day}"
+#~ msgstr "{num} názorů dne {day}"
+
+#~ msgid "%e %B %Y"
+#~ msgstr "%e. %B %Y"
+
+#~ msgid "%e %b"
+#~ msgstr "%e %b"
+
+#~ msgid "Loading feedback history..."
+#~ msgstr "Probíhá načítání historie reakcí..."
+
+#~ msgid "Loading ratings history..."
+#~ msgstr "Probíhá načítání historie hodnocení..."
+
+#~ msgid "Last day"
+#~ msgstr "Poslední den"
+
+#~ msgid "Last 7 days"
+#~ msgstr "Posledních 7 dní"
+
+#~ msgid "Last 30 days"
+#~ msgstr "Posledních 30 dní"
+
+#~ msgid "No date limit"
+#~ msgstr "Bez limitu"
+
+#~ msgid "&infin;"
+#~ msgstr "&infin;"
+
+#~ msgid "Show More Locales"
+#~ msgstr "Zobrazit více jazyků"
+
+#~ msgid "<strong>%(cnt)s</strong> message"
+#~ msgid_plural "<strong>%(cnt)s</strong> messages"
+#~ msgstr[0] "%(cnt)s zpráva"
+#~ msgstr[1] "%(cnt)s zprávy"
+#~ msgstr[2] "%(cnt)s zpráv"
+
+#~ msgid "Show More Platforms"
+#~ msgstr "Zobrazit více platforem"
+
+#~ msgid "Clear Search"
+#~ msgstr "Vymazat hledání"
+
+#~ msgid "Feed"
+#~ msgstr "Reakce"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistiky"
+
+#~ msgid "Trends"
+#~ msgstr "Trendy"
+
+#~ msgid "Settings"
+#~ msgstr "Nastavení"
+
+#~ msgid "&laquo; Newer Feedback"
+#~ msgstr "&laquo; Novější ohlasy"
+
+#~ msgid "Older Feedback &raquo;"
+#~ msgstr "Starší zprávy &raquo;"
+
+#~ msgid "Switch to Desktop Dashboard"
+#~ msgstr "Přepnout na desktopovou verzi nástěnky"
+
+#~ msgid "For last:"
+#~ msgstr "Za dobu:"
+
+#~ msgid "All feedback"
+#~ msgstr "Všechny reakce"
+
+#~ msgid "Praise only"
+#~ msgstr "Pouze pochvalné"
+
+#~ msgid "Issues only"
+#~ msgstr "Pouze problémy"
+
+#~ msgid "Ideas only"
+#~ msgstr "Pouze nápady"
+
+#~ msgid "All Platforms"
+#~ msgstr "Všechny platformy"
+
+#~ msgid "Themes"
+#~ msgstr "Seskupení"
+
+#~ msgid "Common Themes"
+#~ msgstr "Seskupení"
+
+#~ msgid "Theme"
+#~ msgstr "Seskupení"
+
+#~ msgid "Back to all themes &raquo;"
+#~ msgstr "Zpět na všechna seskupení &raquo;"
+
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "&laquo; Předchozí stránka"
+
+#~ msgid "Next Page &raquo;"
+#~ msgstr "Další stránka &raquo;"
+
+#~ msgid "See all opinions"
+#~ msgstr "Zobrazit všechny názory"
+
+#~ msgid "%(count)s similar message"
+#~ msgid_plural "%(count)s similar messages"
+#~ msgstr[0] "%(count)s podobná zpráva"
+#~ msgstr[1] "%(count)s podobné zprávy"
+#~ msgstr[2] "%(count)s podobných zpráv"
+
+#~ msgctxt "website_issues_search"
+#~ msgid "Search for domain"
+#~ msgstr "Hledat dle domény"
+
+#~ msgid "Broken Sites"
+#~ msgstr "Rozbité stránky"
+
+#~ msgid "Sites"
+#~ msgstr "Stránky"
+
+#~ msgctxt "sites_search_all_feedback"
+#~ msgid "All"
+#~ msgstr "vše"
+
+#~ msgid "Platforms"
+#~ msgstr "Platformy"
+
+#~ msgctxt "sites_search_all_platforms"
+#~ msgid "All"
+#~ msgstr "vše"
+
+#~ msgid "All platforms"
+#~ msgstr "Všechny platformy"
+
+#~ msgid "Uncommon Sites"
+#~ msgstr "Neobvyklé stránky"
+
+#~ msgid "More sites..."
+#~ msgstr "Více stránek..."
+
+#~ msgid "Back to {domain} &raquo;"
+#~ msgstr "Zpět na {domain} &raquo;"
+
+#~ msgid "Theme for {domain}"
+#~ msgstr "Seskupení pro doménu {domain}"
+
+#~ msgid "Back to all sites &raquo;"
+#~ msgstr "Zpět na všechny weby &raquo;"
+
+#~ msgid "Sites with only one message"
+#~ msgstr "Stránky pouze s jednou zprávou"
+
+#~ msgid "No results found!"
+#~ msgstr "Nebyly nalezeny žádné výsledky vyhledávání."
+
+#~ msgid "reset my search"
+#~ msgstr "zrušit vyhledávání"
+
+#~ msgid "{percentage}% praise"
+#~ msgstr "{percentage}% chvála"
+
+#~ msgid "{percentage}% issues"
+#~ msgstr "{percentage}% problém"
+
+#~ msgid "%(count)s similar"
+#~ msgid_plural "%(count)s similar"
+#~ msgstr[0] "%(count)s podobný"
+#~ msgstr[1] "%(count)s podobné"
+#~ msgstr[2] "%(count)s podobných"
+
+#~ msgid "Please start over on the <a href=\"%(dashboard_url)s\">dashboard</a>."
+#~ msgstr "Začněte na <a href=\"%(dashboard_url)s\">hlavní stránce</a>."
+
+#~ msgid "If you were following a broken link, please <a href=\"%(bug_url)s\">file a bug.</a> Thanks!"
+#~ msgstr "Pokud jste někde klepli na chybný odkaz, <a href=\"%(bug_url)s\">nahlašte prosím chybu</a>. Děkujeme!"
+
+#~ msgid "Internal Server Error"
+#~ msgstr "Interní chyba serveru"
+
+#~ msgid "An unhandled error occurred in the application. The error has been logged and an administrator was notified. We apologize for the inconvenience!"
+#~ msgstr "V aplikaci se vyskytla nezachycená výjimka. Chyba byla zalogována a byl o ní informován administrátor. Omlouváme se za problémy!"
+
+#~ msgid "If you have additional information how to reproduce this problem, please <a href=\"%(bug_url)s\">file a bug.</a> Thanks!"
+#~ msgstr "Pokud máte další informace, jak zreprodukovat tento problém, <a href=\"%(bug_url)s\">nahlašte prosím chybu</a>. Děkujeme!"
+
+#~ msgid "Input Dashboard"
+#~ msgstr "Nástěnka názorů"
+
+#~ msgid "CSRF Protection Error"
+#~ msgstr "Chyba ochrany CSRF"
+
+#~ msgid "There was an error verifying your CSRF token. Your request could not be processed. We apologize for the inconvenience!"
+#~ msgstr "Při ověřování vašeho CSRF tokenu nastala chyba. Váš požadavek nemohl být zpracován. Omlouváme se za problémy!"
+
+#~ msgid ""
+#~ "The most likely cause of this error is that your browser is set up <strong>not to accept cookies</strong> from us. Please follow <a href=\"%(cookies_url)s\">these instructions</a> to enable "
+#~ "cookies in Firefox, then try again."
+#~ msgstr ""
+#~ "Pravděpodobnou příčinou této chyby je, že váš prohlížeč od nás <strong>neakceptuje cookies</strong>. Pro povolení cookies ve Firefoxu si prosím přečtěte <a href=\"%(cookies_url)s\">tyto "
+#~ "instrukce</a>. Poté to zkuste znovu."
+
+#~ msgid "Not Implemented"
+#~ msgstr "Neimplementováno"
+
+#~ msgid "Clusters"
+#~ msgstr "Seskupení"
+
+#~ msgid "Hit Ctrl+C (Cmd+C on Mac) to copy and close."
+#~ msgstr "Pro kopírování a zavření použijte klávesovou zkratku Ctrl+C (Cmd+C na Macu)."
+
+#~ msgid "User agent copied"
+#~ msgstr "Identifikace prohlížeče byla zkopírována"
+
+#~ msgid "Close"
+#~ msgstr "Zavřít"
+
+#~ msgid "<strong>Welcome to Firefox Input!</strong> This is Mozilla's primary user feedback application. <a href=\"%(about_url)s\">Learn more...</a>"
+#~ msgstr "<strong>Vítá vás Firefox Input!</strong> Jedná se o aplikaci pro sběr reakcí uživatelů. <a href=\"%(about_url)s\">Dozvědět se více...</a>"
+
+#~ msgid "Have more to say?"
+#~ msgstr "Chcete říci více?"
+
+#~ msgid "Feel free to <a href=\"%(fb_url)s\">submit more feedback</a>"
+#~ msgstr "Nebojte se využít <a href=\"%(fb_url)s\">možnosti zaslat další reakci</a>"
+
+#~ msgid "&laquo; Newer Messages"
+#~ msgstr "&laquo; Novější zprávy"
+
+#~ msgid "Older Messages &raquo;"
+#~ msgstr "Starší zprávy &raquo;"
+
+#~ msgid "Back to Feedback"
+#~ msgstr "Zpět na reakce"
+
+#~ msgid "Invalid feedback type"
+#~ msgstr "Neplatný typ reakce"
+
+#~ msgid "Find out the latest news from Mozilla:"
+#~ msgstr "Podívejte se na poslední novinky od Mozilly:"
+
+#~ msgid "<strong>Firefox Release</strong> Input Dashboard"
+#~ msgstr "<strong>Firefox Release</strong> Input Dashboard"
+
+#~ msgid "@MozMobile"
+#~ msgstr "@MozMobile"
+
+#~ msgid "Average Ratings Over Time"
+#~ msgstr "Průměrné hodnocení v čase"
+
+#~ msgid "Describe the problem with the website."
+#~ msgstr "Popište svůj problém s webovou stránkou."
+
+#~ msgid "Does a website look or behave incorrectly in Firefox for Mobile? Provide us some details about the problem and we'll try to fix it."
+#~ msgstr "Vypadá webová stránka ve Firefoxu pro mobily chybně či se chová nekorektně? Řekněte nám o tom více a my se pokusíme to opravit."
+
+#~ msgid "Does a website look or behave incorrectly in Firefox?"
+#~ msgstr "Vypadá nebo se stránka chová ve Firefoxu nekorektně?"
+
+#~ msgid "Don't Care"
+#~ msgstr "Neutrální"
+
+#~ msgid "Enter your feedback here."
+#~ msgstr "Zde vložte svou reakci."
+
+#~ msgid "Enter your ideas here."
+#~ msgstr "Zde vložte své nápady."
+
+#~ msgid "Example: Images were not loading, but the rest of the page was."
+#~ msgstr "Například: Obrázky se nenačetly, na rozdíl od zbytku stránky."
+
+#~ msgid "Excellent"
+#~ msgstr "Ekcelentní"
+
+#~ msgid "Experience"
+#~ msgstr "Hodnocení"
+
+#~ msgid "Experience Ratings"
+#~ msgstr "Hodnocení spokojenosti"
+
+#~ msgid "Fair"
+#~ msgstr "Nic moc"
+
+#~ msgid "Features"
+#~ msgstr "Funkce"
+
+#~ msgid "Frequent Ideas"
+#~ msgstr "Časté nápady"
+
+#~ msgid "Good"
+#~ msgstr "Dobrá "
+
+#~ msgid "Have an idea how Firefox for Mobile could be better? Let us know!"
+#~ msgstr "Máte nápad, jak učinit Firefox pro mobilní zařízení lepším? Dejte nám vědět!"
+
+#~ msgid "How frequently Firefox crashes or loses data"
+#~ msgstr "Jak často Firefox padá nebo se ztrácí data"
+
+#~ msgid "How long Firefox takes to start running"
+#~ msgstr "Jak dlouho trvá Firefoxu než naběhne"
+
+#~ msgid "How long it takes for web pages to load"
+#~ msgstr "Jak dlouho trvá načítání webových stránek"
+
+#~ msgid "How quickly web pages respond once they have loaded"
+#~ msgstr "Jak rychle webové stránky reagují po načtení"
+
+#~ msgid "How well Firefox's built-in features serve your needs"
+#~ msgstr "Zda má Firefoxu zabudované funkce, které potřebujete"
+
+#~ msgid "How would you rate these aspects of Firefox for Mobile?"
+#~ msgstr "Jak byste ohodnotil(a) tyto vlastnosti Firefoxu pro mobilní zařízení?"
+
+#~ msgid "How would you rate these aspects of Firefox?"
+#~ msgstr "Jak byste ohodnotil(a) tyto vlastnosti Firefoxu?"
+
+#~ msgid "Loading chart data."
+#~ msgstr "Probíhá načítání dat grafu"
+
+#~ msgid "Nightly Channel"
+#~ msgstr "Noční verze"
+
+#~ msgid "Oh! So, you want to offer us feedback on the next version of Firefox. Thank you, but you'll need to be on our latest beta."
+#~ msgstr "Oh! So, you want to offer us feedback on the next version of Firefox. Thank you, but you'll need to be on our latest beta."
+
+#~ msgid "Page Load Time"
+#~ msgstr "Rychlost načítání stránek"
+
+#~ msgid "Please rate at least one item."
+#~ msgstr "Ohodnoťte prosím alespoň jednu položku."
+
+#~ msgid "Poor"
+#~ msgstr "Mizerná"
+
+#~ msgid "Provide us some details about the problem and we'll try to fix it."
+#~ msgstr "Poskytněte nám některé detaily o vašem problému a my to zkusíme opravit."
+
+#~ msgid "Rate Your Experience"
+#~ msgstr "Ohodnoťte svou zkušenost"
+
+#~ msgid "Release Channel"
+#~ msgstr "Stabilní verze"
+
+#~ msgid "Report a Site Issue"
+#~ msgstr "Nahlásit problém se stránkou"
+
+#~ msgid "Responsiveness"
+#~ msgstr "Odezva"
+
+#~ msgid "Share an Idea"
+#~ msgstr "Přidejte nápad"
+
+#~ msgid "Stability"
+#~ msgstr "Stabilita"
+
+#~ msgid "Start-Up Time"
+#~ msgstr "Délka spouštění"
+
+#~ msgid "To do that, simply go to our download page and install/update to the <a href=\"%(url)s\">latest Firefox Beta!</a>"
+#~ msgstr "To do that, simply go to our download page and install/update to the <a href=\"%(url)s\">latest Firefox Beta!</a>"
+
+#~ msgid "What is the URL of the broken site?"
+#~ msgstr "Jaké je URL rozbité stránky?"
+
+#~ msgid "What is the URL of the site?"
+#~ msgstr "Jaké je URL stránky?"
+
+#~ msgid "{day}<br/>Average of {num}"
+#~ msgstr "{day}<br/>Průměrné hodnocení: {num}"
+
+#~ msgid "&laquo; Next Page"
+#~ msgstr "&laquo; Další stránka"
+
+#~ msgid "&laquo; Previous Page;"
+#~ msgstr "&laquo; Předchozí stránka;"
+
+#~ msgid "&laquo; previous"
+#~ msgstr "&laquo; předchozí"
+
+#~ msgctxt "os_choice"
+#~ msgid "-- all --"
+#~ msgstr "-- vše --"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "1 day"
+#~ msgstr "1 den"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "1 month"
+#~ msgstr "1 měsíc"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "1 week"
+#~ msgstr "1 týden"
+
+#, fuzzy
+#~ msgctxt "version_choice"
+#~ msgid "7d"
+#~ msgstr "7d"
+
+#~ msgid "<a href=\"%(url)s\">Total</a>: %(count)s"
+#~ msgstr "<a href=\"%(url)s\">Celkem</a>: %(count)s"
+
+#~ msgid "Beta"
+#~ msgstr "Beta"
+
+#~ msgid "Clusters of Opinions"
+#~ msgstr "Seskupené reakce"
+
+#~ msgid "Dates: <span class=\"opt\">%(start_date)s &ndash; %(end_date)s</span>"
+#~ msgstr "Data: <span class=\"opt\">%(start_date)s &ndash; %(end_date)s</span>"
+
+#~ msgid "Demographics"
+#~ msgstr "Demografie"
+
+#~ msgid "Description: <span class=\"opt\">\"%(query)s\"</span>;"
+#~ msgstr "Popis: <span class=\"opt\">\"%(query)s\"</span>;"
+
+#~ msgid "Due to software constraints, we can only show the last 1000 messages for this search query."
+#~ msgstr "Vzhledem k omezení software lze u vašeho vyhledávání zobrazit nejvýše 1000 zpráv."
+
+#~ msgid "Enter your suggestions here."
+#~ msgstr "Zde napište svůj nápad."
+
+#~ msgid "Latest Beta"
+#~ msgstr "Poslední betaverze"
+
+#~ msgid "Locale: <span class=\"opt\">%(locale)s</span>;"
+#~ msgstr "Jazyk: <span class=\"opt\">%(locale)s</span>;"
+
+#~ msgid "Locale: {locale}"
+#~ msgstr "Jazyk: {locale}"
+
+#~ msgid "Most Recent Message"
+#~ msgid_plural "Last %(count)s Messages"
+#~ msgstr[0] "Poslední zpráva"
+#~ msgstr[1] "Poslední %(count)s zprávy"
+#~ msgstr[2] "Posledních %(count)s zpráv"
+
+#~ msgid "No clusters of opinions found."
+#~ msgstr "Nebyly nalezeny žádné seskupené názory."
+
+#~ msgid "OS"
+#~ msgstr "OS"
+
+#~ msgid "OS:"
+#~ msgstr "OS:"
+
+#~ msgid "OS: <span class=\"opt\">%(os)s</span>"
+#~ msgstr "OS: <span class=\"opt\">%(os)s</span>"
+
+#~ msgid "OS: {os_name}"
+#~ msgstr "OS: {os_name}"
+
+#~ msgid "Opinion"
+#~ msgstr "Názor"
+
+#~ msgid "Overview"
+#~ msgstr "Přehled"
+
+#~ msgid "Please enable JavaScript to view this page."
+#~ msgstr "Pro zobrazení této stránky prosím povolte JavaScript"
+
+#~ msgid "Previous Page &raquo;"
+#~ msgstr "Předchozí stránka &raquo;"
+
+#~ msgid "Show more"
+#~ msgstr "Zobrazit více zpráv"
+
+#~ msgid "Showing the first {count}"
+#~ msgstr "Zobrazit prvních {count}"
+
+#~ msgid "Submitted User Agent is not the latest beta version."
+#~ msgstr "Přijmutý user agent neodpovídá poslední betaverzi."
+
+#~ msgid "Suggestions"
+#~ msgstr "Návrhy"
+
+#~ msgid "Suggestions only"
+#~ msgstr "Pouze návrhy"
+
+#~ msgid "UA"
+#~ msgstr "UA"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "User agent string was not recognizable."
+#~ msgstr "User agent řetězec nebyl rozpoznán."
+
+#~ msgid "all"
+#~ msgstr "vše"
+
+#~ msgctxt "dashboard_period"
+#~ msgid "all"
+#~ msgstr "vše"
+
+#~ msgid "happy face"
+#~ msgstr "veselá tvář"
+
+#~ msgid "page %(pagenum)s of %(total)s"
+#~ msgstr "stránka %(pagenum)s z %(total)s"
+
+#~ msgid "sad face"
+#~ msgstr "smutná tvář"
+
+#~ msgid "visit &rarr;"
+#~ msgstr "navštívit &rarr;"
+
+#~ msgid "{0} opinions for Firefox {1} {2}"
+#~ msgstr "{0} názory pro Firefox {1} {2}"
+
+#~ msgid "{0} opinions similar to <q>{1}</q>"
+#~ msgstr "{0} názory podobných <q>{1}</q>"

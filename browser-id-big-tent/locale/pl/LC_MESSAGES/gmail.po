@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-24 09:50+0200\n"
+"PO-Revision-Date: 2013-06-28 22:23+0100\n"
+"Last-Translator: Leszek Życzkowski <leszekz@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js:235
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js
+msgid "Loading..."
+msgstr "Wczytywanie…"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js:245
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js
+msgid "Error"
+msgstr "Błąd"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/bin/sideshow.js:294
+msgid "Accounts don't match"
+msgstr "Konta nie pasują do siebie"
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error.ejs:3
+msgid "Something went wrong. Please try again later."
+msgstr "Próba się nie powiodła. Spobuj ponownie za chwilę."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error_mismatch.ejs:3
+msgid "You're currently signed into Google as %s."
+msgstr "Jesteś zalogowany/zalogowana do Google jako %s."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error_mismatch.ejs:6
+msgid "If you want to use %s, log out of Google and sign in again."
+msgstr "Jeśli chcesz używać %s, wyloguj się i zaloguj ponownie do Google."
+
+#: /Users/mathjazz/Mozilla/l10n/browserid-sideshow/views/error_mismatch.ejs:10
+msgid "Force Google logout"
+msgstr "Wymuś wylogowanie z Google"

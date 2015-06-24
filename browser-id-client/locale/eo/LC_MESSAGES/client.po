@@ -1,0 +1,670 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2012-08-06 17:16-0300\n"
+"Last-Translator: Eduardo Trápani <eduardo@esperanto.org.uy>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"Okazis problemo kun via registra ligilo. Ĉu eble tiu ĉi adreso jam estas "
+"registrita?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Okazis eraro dum la klopodo fini la registradon."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Persona postulas kuketojn por povi memori vin."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Bonvolu fermi tiun ĉi fenestron, <a %s>aktivigi kuketojn</a> kaj klopodi "
+"denove"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Komunika eraro"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Finado de la konekto ..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Post momento vi estos registrita en Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Ni bedaŭras, tio ĉi daŭras pli longe ol atendite."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Se tio ne solviĝas sola post kelkaj sekundoj, bonvolu femi la fenestron kaj "
+"provi denove."
+
+#: resources/static/dialog/js/modules/authenticate.js:115
+#: resources/static/dialog//js/modules/authenticate.js:115
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Kontroli ĉe via provizanto de retpoŝto"
+
+#: resources/static/dialog/js/modules/pick_email.js:49
+#: resources/static/dialog//js/modules/pick_email.js:49
+msgid "The selected email is invalid or has been deleted."
+msgstr "La elektita retpoŝtadreso estas nevalida aŭ ĝi estis forigita."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Ĉu forigi %(email)s el via konto de Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Forigi la lastan adreson nuligos vian konton de Persona.\n"
+"Ĉu vi certas ke vi volas daŭrigi?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Ĉu vi certas ke vi volas nuligi vian konton de Persona?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Aldoni retpoŝtan adreson"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "retpoŝta adreso"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Tio devus esti retpoŝta adreso"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "La retpoŝta kampo estas deviga."
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Jam aldonita!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "aldoni"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "nuligi"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Ne eblas kontroli %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr "%s estas postulata adreso, sed ni ne povas kontroli ĉu vi posedas ĝin."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s kontrolita!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr ""
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Kontrolu vian retpoŝton."
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Klaku la ligilon en la konfirma retpoŝto sendita al %s. Vi estos tuj konektita al %s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Eraro"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Ni tre bedaŭras."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "La servilo estas ekstreme ŝargita"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Bonvolu reŝargi la paĝon kaj klopodi denove."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Bonvolu fermi tiun ĉi fenestron kaj klopodi denove."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Montri pli da informo"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Fermi"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "Akcepti"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* ne estas valida retpoŝta adreso!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr "Por daŭrigi, bonvolu fermi la fenestron kaj enigi validan adreson."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "Ĉu memori vin?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Kiel longe vi ŝatus resti konektita ĉe Persona?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Unu monato"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "Mi fidas je tiu ĉi komputilo."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Nur en tiu ĉi seanco"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Tiu ĉi ne estas mia komputilo."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr "Noto: kompreneble vi povas malkonekti Persona iam ajn."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+#, fuzzy
+msgid "Sign in with Persona"
+msgstr "konekti per %s"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr ""
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Elekti retpoŝtan adreson"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Aldoni alian retpoŝtan adreson"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Tiu ne estas mi"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:18
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Daŭringinte vi deklaros al %(site)s la akceptadon de la <a "
+"%(terms)s>kondiĉojn de uzo</a> kaj la <a %(privacy)s>politikon pri "
+"privateco</a>."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "konekto"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Nuligi"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+#, fuzzy
+msgid "Cannot verify %(email)s"
+msgstr "Ne eblas kontroli %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+#, fuzzy
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Daŭringinte vi deklaros al %(site)s la akceptadon de la <a "
+"%(terms)s>kondiĉojn de uzo</a> kaj la <a %(privacy)s>politikon pri "
+"privateco</a>."
+
+#: resources/static/dialog/views/set_password.ejs:7
+#, fuzzy
+msgid "Create a Password"
+msgstr "krei pasvorton"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+#, fuzzy
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Via retpoŝta adreso estas nova por ni. Bonvolu krei pasvorton por uzi kun "
+"Persona."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Via retpoŝta adreso estas nova por ni. Bonvolu krei pasvorton por uzi kun "
+"Persona."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "krei pasvorton"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "La kampo pasvorta kampo estas deviga."
+
+#: resources/static/dialog/views/set_password.ejs:32
+#, fuzzy
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Pasvortoj devas havi inter 8 kaj 80 signojn."
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Kontroli pasvorton"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "kontroli pasvorton"
+
+#: resources/static/dialog/views/set_password.ejs:44
+#, fuzzy
+msgid "Verification password required"
+msgstr "La kontrola pasvorto estas deviga."
+
+#: resources/static/dialog/views/set_password.ejs:52
+#, fuzzy
+msgid "Passwords don&rsquo;t match!"
+msgstr "Tiuj pasvortoj ne kongruas!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "finita"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr ""
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+#, fuzzy
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr "Post kontrolado de via tiea konto, vi estos konektita al %(aWebsite)s."
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "kontroli"
+
+#, fuzzy
+#~ msgid "signing in"
+#~ msgstr "konekto"
+
+#~ msgid "Confirm your email address"
+#~ msgstr "Konfirmu vian retpoŝtan adreson"
+
+#~ msgid "Sign in as..."
+#~ msgstr "Konekti kiel ..."
+
+#~ msgid "Email"
+#~ msgstr "Retpoŝta adreso"
+
+#~ msgid ""
+#~ "Your identity has been verified with your email provider, we will now try "
+#~ "to sign you in."
+#~ msgstr ""
+#~ "Via idento estis kontrolita kun via provizanto de retpoŝto, ni nun "
+#~ "klopodos registri vin."
+
+#~ msgid "Sign in using"
+#~ msgstr "Konekto per"
+
+#~ msgid "The site requested you sign in using"
+#~ msgstr "La retejo petis al vi identiĝi per"
+
+#~ msgid ""
+#~ "You must sign in with your email provider to verify ownership of this "
+#~ "address. This window will be redirected to"
+#~ msgstr ""
+#~ "Vi devas konekti vian provizanton de retpoŝto por kontroli la posedon de "
+#~ "tiu ĉi adreso. Tiu ĉi fenestro nun estos resendita al"
+
+#, fuzzy
+#~ msgid "Enter password"
+#~ msgstr "krei pasvorton"
+
+#~ msgid "forgot your password?"
+#~ msgstr "ĉu vi forgesis vian pasvorton?"
+
+#~ msgid "Password"
+#~ msgstr "Pasvorto"
+
+#, fuzzy
+#~ msgid "Password incorrect"
+#~ msgstr "La pasvorto estas deviga."
+
+#~ msgid "verify email"
+#~ msgstr "kontroli retpoŝtan adreson"
+
+#~ msgid "%s makes this easy"
+#~ msgstr "%s igas tion facila"
+
+#~ msgid ""
+#~ "Persona lets you use your %(emailProvider)s account to sign into sites "
+#~ "like %(aWebsite)s."
+#~ msgstr ""
+#~ "Persona permesas al vi uzi vian konton ĉe %(emailProvider)s por konekti "
+#~ "al retejoj kiel %(aWebsite)s."
+
+#~ msgid "sign in with %s"
+#~ msgstr "konekti per %s"
+
+#~ msgid "Use a different email address"
+#~ msgstr "Uzi alian retpoŝtan adreson"
+
+#~ msgid "This field must be an email address."
+#~ msgstr "Tiu teksto devas esti retpoŝta adreso."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Ni ĵus sendis retmesaĝon al tiu adreso!  Se vi vere volas sendi alian, "
+#~ "atendu unu aŭ du minutojn kaj klopodu denove."
+
+#~ msgid "That address is already added to your account!"
+#~ msgstr "Tiu adreso jam estis aldonita al via konto"
+
+#, fuzzy
+#~ msgid "Please choose an email address."
+#~ msgstr "Tiu teksto devas esti retpoŝta adreso."
+
+#~ msgid "The password field is required."
+#~ msgstr "Enigi la pasvorton estas devige."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "La retpoŝta adreso kaj la pasvorto ne kongruas."
+
+#~ msgid "Add another email address to your Persona password."
+#~ msgstr "Aldoni alian retpoŝtan adreson al via pasvorto de Persona"
+
+#~ msgid "There has been an error!"
+#~ msgstr "Okazis eraro!"
+
+#~ msgid "Reset your password"
+#~ msgstr "Reakiri vian pasvorton"
+
+#~ msgid "Create a new password to use with %s."
+#~ msgstr "Krei novan pasvorton por uzi kun %s."
+
+#~ msgid "reset password"
+#~ msgstr "reakiri pasvorton"
+
+#~ msgid ""
+#~ "Note: This password will be used with all of your Persona email addresses."
+#~ msgstr ""
+#~ "Noto: tiu pasvorto estos uzata kune kun ĉiuj viaj retpoŝtadresoj de "
+#~ "Persona."
+
+#, fuzzy
+#~ msgid "Sign In"
+#~ msgstr "konekto"
+
+#~ msgid "Please wait a few seconds while we sign you into the site."
+#~ msgstr "Bonvolu atendi kelkajn sekundojn dum ni registras vin."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr "%s uzas Persona-n anstataŭ uzantonomojn por konekti vin."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Por identigi vin per Persona, bonvolu enigi vian retpoŝtan adreson."
+
+#~ msgid "enter email address"
+#~ msgstr "tajpu retpoŝtan adreson"
+
+#~ msgid "password"
+#~ msgstr "pasvorto"
+
+#~ msgid "next"
+#~ msgstr "venonta"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Ĉu vi forgesis vian pasvorton?"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %s\\'s <a %s>Terms</a> and <a %s>Privacy "
+#~ "Policy</a>."
+#~ msgstr ""
+#~ "Daŭriginte, vi akceptos la <a %s>kondiĉojn</a> kaj la <a %s>politikon pri "
+#~ "privateco</a>"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "This message will go away when the request completes (hopefully soon). If "
+#~ "you wait too long, close this window and try again."
+#~ msgstr ""
+#~ "Tiu ĉi mesaĝo malaperos kiam la peto estos plenumita (espereble baldaŭ). "
+#~ "Se vi devas atendi tro longe, fermu tiun ĉi fenestron kaj klopodu denove."
+
+#~ msgid "Enter your email address to sign in to <strong>%s</strong>"
+#~ msgstr ""
+#~ "Bonvolu tajpi vian retpoŝtan adreson por konekti vin al <strong>%s</"
+#~ "strong>"
+
+#~ msgid "Please hold on while we get information about your email provider."
+#~ msgstr ""
+#~ "Bonvolu atendi, dum ni ricevas informon pri via provizanto de retpoŝto."
+
+#~ msgid "The account cannot be logged in with this username and password."
+#~ msgstr ""
+#~ "La konto ne povas esti identigita per tiu nomo de uzanto kaj pasvorto."
+
+#~ msgid "We sent a confirmation email to <strong>%s</strong>"
+#~ msgstr "Ni sendis konfirman retmesaĝon al <strong>%s</strong>"
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>cancel</a>."
+#~ msgstr ""
+#~ "Se tio estas eraro, simple ignoru la senditan retmesaĝon kaj <a "
+#~ "%s>nuligu</a>."
+
+#~ msgid ""
+#~ "If this is a mistake, just ignore the sent email and <a %s>use another "
+#~ "email address</a>."
+#~ msgstr ""
+#~ "Se tio estas eraro, simple ignoru la senditan retmesaĝon kaj <a %s>uzi "
+#~ "alian retpoŝtan adreson</a>."
+
+#~ msgid "If you don't mind me asking, is this your computer?"
+#~ msgstr "Se mi rajtas tion demandi, ĉu tiu ĉi estas via komputilo?"
+
+#~ msgid "yes"
+#~ msgstr "jes"
+
+#~ msgid "If so, we'll keep you logged in for two weeks."
+#~ msgstr "Se jes, ni lasos vin konektita dum du semajnoj."
+
+#~ msgid "no"
+#~ msgstr "ne"
+
+#~ msgid ""
+#~ "If you're at a public computer such as a library or internet cafe, choose "
+#~ "this.  We'll prompt you for your password in an hour for greater security."
+#~ msgstr ""
+#~ "Elektu tion ĉi se vi estas antaŭ publika komputilo, kiel tiu de "
+#~ "biblioteko aŭ retkafejo.  Pro sekurecaj kialoj ni petos al vi vian "
+#~ "pasvorton post unu horo."
+
+#~ msgid "Welcome to Persona!"
+#~ msgstr "Bonvenon al Persona!"
+
+#~ msgid ""
+#~ "Next, choose a new password you'll use when you sign in with Persona."
+#~ msgstr ""
+#~ "Poste, elektu novan pasvorton kiun vi uzos kiam vi konektiĝos per Persona."
+
+#~ msgid "Repeat Password"
+#~ msgstr "Ripeti pasvorton"
+
+#~ msgid "BrowserID requires cookies"
+#~ msgstr "BrowserID postulas kuketojn"
+
+#~ msgid "This email looks new, so let's get you set up."
+#~ msgstr "Tiu ĉi retpoŝta adreso aspektas nove, do ni agordos ĝin"
+
+#~ msgid "Always sign in using this email"
+#~ msgstr "Ĉiam identigi pero tiu ĉi retpoŝta adreso"
+
+#, fuzzy
+#~ msgid ""
+#~ "BrowserID requires your browser's cookies to be enabled to operate. "
+#~ "Please enable your browser's cookies and try again"
+#~ msgstr ""
+#~ "BrowserID postulas ke kuketoj estu aktivaj en via retesplorilo. Bonvolu "
+#~ "aktivigi la kuketojn kaj klopodi denove."
+
+#~ msgid "You are offline!"
+#~ msgstr "Vi ne estas konektita!"
+
+#~ msgid "Unfortunately, BrowserID cannot communicate while offline!"
+#~ msgstr "Bedaŭrinde BrowserID ne povas komunikiĝi se vi ne estas konektita!"
+
+#~ msgid "Adding Address"
+#~ msgstr "Aldonado de adreso"
+
+#~ msgid "Adding Primary Email Address to User"
+#~ msgstr "Aldonado de ĉefa adreso de la uzanto"
+
+#~ msgid "Checking Address Info"
+#~ msgstr "Kontrolado de la informo de la adreso"
+
+#~ msgid "Authenticating with Assertion"
+#~ msgstr "Aŭtentikigado kun aserto"
+
+#~ msgid "Cancelling User Account"
+#~ msgstr "Nuligado de la konto de uzanto"
+
+#~ msgid "Checking Authentication"
+#~ msgstr "Kontrolado de aŭtentikigado"
+
+#~ msgid "Checking Script Version"
+#~ msgstr "Kontrolado de la versio de skripto"
+
+#~ msgid "Completing User Registration"
+#~ msgstr "Finado de la registrado de uzanto"
+
+#~ msgid "Checking if Cookies are Enabled"
+#~ msgstr "Kontrolado de la aktiveco de kuketoj"
+
+#~ msgid "Creating Account"
+#~ msgstr "Kreado de konto"
+
+#~ msgid "Getting Assertion"
+#~ msgstr "Akirado de aserto"
+
+#~ msgid "Checking Registration Token"
+#~ msgstr "Kontrolado de la registra ĵetono"
+
+#~ msgid "Checking Email Address"
+#~ msgstr "Kontrolado de la retpoŝta adreso"
+
+#~ msgid "Checking Whether User is Authenticated with IdP"
+#~ msgstr "Ĉu la uzanto estis aŭtentikigita de IdP?"
+
+#~ msgid "Logout Failed"
+#~ msgstr "Malkonektiĝo malsukcesa"
+
+#~ msgid "Authenticating with Identity Provider"
+#~ msgstr "Aŭtentikigado kun provizanto de idento"
+
+#~ msgid ""
+#~ "We had trouble communicating with your email provider, please try again!"
+#~ msgstr ""
+#~ "Ni havis problemojn komunikajn kun via retpoŝtprovizanto, bonvolu klopodi "
+#~ "denove!"

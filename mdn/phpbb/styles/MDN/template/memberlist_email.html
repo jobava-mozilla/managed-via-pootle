@@ -1,0 +1,51 @@
+<!-- INCLUDE overall_header.html -->
+
+<h2 class="page-title">{L_SEND_EMAIL_USER} {USERNAME}</h2>
+
+<form method="post" class="panel user-input" action="{S_POST_ACTION}" id="post">
+
+<!-- IF ERROR_MESSAGE --><p class="error">{ERROR_MESSAGE}</p><!-- ENDIF -->
+
+  <fieldset>
+		<ol>
+		<!-- IF S_SEND_USER -->
+			<li>
+				<span class="label">{L_RECIPIENT}</span>
+				<strong>{USERNAME}</strong>
+			</li>
+			<li>
+				<label for="subject">{L_SUBJECT}</label>
+				<input type="text" name="subject" id="subject" size="50" tabindex="1" value="{SUBJECT}" />
+			</li>
+		<!-- ELSE -->
+			<li>
+				<label for="email">{L_EMAIL_ADDRESS}</label>
+				<input type="text" name="email" id="email" size="50" maxlength="100" tabindex="2" value="{EMAIL}" />
+			</li>
+			<li>
+				<label for="name">{L_REAL_NAME}</label>
+				<input type="text" name="name" id="name" size="50" tabindex="3" value="{NAME}" />
+			</li>
+			<li>
+				<label for="lang">{L_DEST_LANG} <span class="note">{L_DEST_LANG_EXPLAIN}</span></label>					
+				<select name="lang">{S_LANG_OPTIONS}</select>
+			</li>
+		<!-- ENDIF -->
+  		<li>
+  			<label for="message">{L_MESSAGE_BODY} <span class="note">{L_EMAIL_BODY_EXPLAIN}</span></label>
+  			<textarea class="inputbox" name="message" id="message" rows="15" cols="76" tabindex="4">{MESSAGE}</textarea>
+  		</li>
+  		<li class="check">
+  			<label for="cc_email"><input type="checkbox" name="cc_email" id="cc_email" value="1" checked="checked" tabindex="5" /> {L_CC_EMAIL}</label>
+  		</li>
+		</ol>
+  </fieldset>
+
+	<fieldset class="submit-buttons">
+		<button type="submit" tabindex="6" name="submit" value="{L_SEND_EMAIL}">{L_SEND_EMAIL}</button>
+		{S_FORM_TOKEN}
+	</fieldset>
+
+</form>
+
+<!-- INCLUDE overall_footer.html -->

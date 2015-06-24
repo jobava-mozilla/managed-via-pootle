@@ -1,0 +1,1792 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 18:40+0000\n"
+"PO-Revision-Date: 2015-02-25 13:27:32\n"
+"Last-Translator: Dipak kumar <kumar.dpkkmr.dipak@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 0.9.5\n"
+"X-Generator: Pontoon\n"
+
+#. This acts as a placeholder/label for a form selection
+#: affiliates/banners/forms.py:21
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:36
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:45
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:54
+#: affiliates/base/forms.py:22
+msgid "-- select --"
+msgstr "-- चयन करें --"
+
+#: affiliates/banners/templates/banners/generator/banners.html:12
+#: affiliates/banners/templates/banners/generator/banners.html:20
+msgid "Choose a Banner"
+msgstr "एक बैनर चुनें"
+
+#: affiliates/banners/templates/banners/generator/categories.html:12
+#: affiliates/banners/templates/banners/generator/categories.html:20
+msgid "Choose a Category"
+msgstr "कोई श्रेणी चुनें"
+
+#. The "Category" step is when you pick a category to see a list of banners
+#. within it.
+#: affiliates/banners/templates/banners/generator/macros.html:8
+#: affiliates/banners/templates/banners/generator/macros.html:10
+msgid "Category"
+msgstr "श्रेणी"
+
+#. The "Choose" step is when you choose a banner to use.
+#: affiliates/banners/templates/banners/generator/macros.html:17
+#: affiliates/banners/templates/banners/generator/macros.html:19
+#: affiliates/banners/templates/banners/generator/macros.html:21
+msgid "Choose"
+msgstr "चुनना"
+
+#. The "Configure" step is when you select a specific variation of a banner.
+#: affiliates/banners/templates/banners/generator/macros.html:28
+#: affiliates/banners/templates/banners/generator/macros.html:30
+#: affiliates/banners/templates/banners/generator/macros.html:32
+msgid "Configure"
+msgstr "विन्यस्त करें"
+
+#. The "Embed" step is when you copy HTML code to put in your webpage to embed
+#. the banner.
+#: affiliates/banners/templates/banners/generator/macros.html:39
+#: affiliates/banners/templates/banners/generator/macros.html:41
+msgid "Embed"
+msgstr "जड़ना"
+
+#: affiliates/banners/templates/banners/generator/macros.html:50
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+#: affiliates/base/templates/base/about.html:119
+#: affiliates/base/templates/base/dashboard.html:100
+msgid "What are smart banners?"
+msgstr "स्मार्ट बैनर क्या हैं?"
+
+#: affiliates/banners/templates/banners/generator/macros.html:52
+#: affiliates/base/templates/base/about.html:122
+#: affiliates/base/templates/base/dashboard.html:102
+msgid ""
+"Smart Banners show visitors slightly different messages depending on their "
+"browser. For example, visitors on an older version of Firefox would be "
+"encouraged to upgrade, while visitors on Internet Explorer would be "
+"encouraged to switch."
+msgstr ""
+"स्मार्ट बैनरों आगंतुकों को अपने ब्राउज़र पर निर्भर करता है थोड़ा अलग संदेशों"
+" को दिखाते हैं. इंटरनेट एक्सप्लोरर पर आगंतुकों को स्विच करने के लिए "
+"प्रोत्साहित किया जाएगा, जबकि उदाहरण के लिए, फ़ायरफ़ॉक्स के एक पुराने संस्करण"
+" पर आगंतुकों, उन्नत करने के लिए प्रोत्साहित किया जाएगा."
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:12
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:25
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:14
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:22
+msgid "Configure Your Banner"
+msgstr "अपने बैनर विन्यस्त करें"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:33
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:29
+msgid "Language"
+msgstr "भाषा"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:42
+msgid "Size"
+msgstr "आकार"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:51
+msgid "Color"
+msgstr "रंग"
+
+#: affiliates/banners/templates/banners/generator/customize/image_banner.html:68
+#: affiliates/banners/templates/banners/generator/customize/text_banner.html:38
+#: affiliates/facebook/templates/facebook/banner_create.html:68
+#: affiliates/users/templates/users/profile.html:39
+msgid "Save"
+msgstr "सेव"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:7
+msgid "Up to date Firefox and other browsers"
+msgstr "फ़ायरफ़ॉक्स और अन्य ब्राउज़रों की तारीख तक"
+
+#: affiliates/banners/templates/banners/generator/customize/upgrade_banner.html:12
+msgid "Out of date Firefox"
+msgstr "फ़ायरफ़ॉक्स की तारीख से बाहर"
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:6
+msgid "No preview available."
+msgstr "कोई पूर्वावलोकन उपलब्ध नहीं."
+
+#: affiliates/banners/templates/banners/previews/text_banner.html:10
+msgid "Text banner"
+msgstr "पाठ बैनर"
+
+#. Smart refers to a type of banner that changes the image depending on the
+#. user's Firefox version.
+#: affiliates/banners/templates/banners/previews/upgrade_banner.html:7
+msgid "Smart"
+msgstr "स्मार्ट"
+
+#. L10n: Used in a choice field where users can choose between receiving
+#. L10n: HTML-based or Text-only newsletter emails.
+#: affiliates/base/forms.py:18 affiliates/base/templates/base/base.html:126
+#: affiliates/facebook/forms.py:200
+msgid "Text"
+msgstr "टेक्स्ट"
+
+#: affiliates/base/milestones.py:21
+msgid "Almost {0} clicks!"
+msgstr "लगभग {0} क्लिक करता है!"
+
+#: affiliates/base/milestones.py:22
+msgid "Drove {0} clicks!"
+msgstr "क्लिक्स {0} दिया!"
+
+#: affiliates/base/milestones.py:23
+msgid "Drove {0} clicks. That's {1} clicks away from the next milestone!"
+msgstr "गल्ला {0} क्लिक करता है. यही {1} अगले मील का पत्थर से क्लिक दूर है!"
+
+#: affiliates/base/milestones.py:25
+msgid "Driven {0} clicks in total!"
+msgstr "प्रेरित {0} में कुल क्लिक करता है!"
+
+#: affiliates/base/milestones.py:26
+msgid "Drive {0} clicks!"
+msgstr "ड्राइव {0} क्लिक करता है!"
+
+#: affiliates/base/milestones.py:29
+msgid "Almost {0} downloads!"
+msgstr "लगभग {0} डाउनलोड!"
+
+#: affiliates/base/milestones.py:30
+msgid "Drove {0} downloads!"
+msgstr "डाउनलोड {0} दिया!"
+
+#: affiliates/base/milestones.py:31
+msgid ""
+"Drove {0} downloads. That's {1} downloads away from the next milestone!"
+msgstr "डाउनलोड {0} चलाई. यही {1} अगले मील का पत्थर से दूर डाउनलोड करता है!"
+
+#: affiliates/base/milestones.py:33
+msgid "Driven {0} downloads in total!"
+msgstr "कुल में संचालित {0} डाउनलोड!"
+
+#: affiliates/base/milestones.py:34
+msgid "Drive {0} downloads!"
+msgstr "ड्राइव {0} डाउनलोड!"
+
+#: affiliates/base/milestones.py:37
+msgid "Create a banner!"
+msgstr "एक बैनर बनाने के लिए!"
+
+#: affiliates/base/milestones.py:38
+msgid "Almost {0} banners created!"
+msgstr "लगभग {0} बैनर बनाया!"
+
+#: affiliates/base/milestones.py:39
+msgid "Created {0} banners!"
+msgstr "बनाया गया {0} बैनर!"
+
+#: affiliates/base/milestones.py:40
+msgid "Created a banner."
+msgstr "एक बैनर बनाया गया."
+
+#: affiliates/base/milestones.py:43
+msgid "Create a text link!"
+msgstr "एक पाठ लिंक बनाएँ!"
+
+#: affiliates/base/milestones.py:44
+msgid "Almost {0} text links created!"
+msgstr "लगभग {0} पाठ लिंक बनाया!"
+
+#: affiliates/base/milestones.py:45
+msgid "Created {0} text links!"
+msgstr "बनाया गया {0} पाठ लिंक!"
+
+#: affiliates/base/milestones.py:46
+msgid "Created a text link."
+msgstr "एक पाठ लिंक बनाया गया."
+
+#: affiliates/base/templates/404.html:5 affiliates/base/templates/404.html:11
+msgid "Page not found"
+msgstr "पृष्ठ नहीं मिला"
+
+#: affiliates/base/templates/404.html:13
+msgid "Sorry, but we couldn’t find the page you’re looking for."
+msgstr "क्षमा करें, लेकिन हम आप के लिए देख रहे हैं पृष्ठ नहीं मिल सकता है."
+
+#: affiliates/base/templates/500.html:5
+msgid "Server error"
+msgstr "सर्वर त्रुटि"
+
+#: affiliates/base/templates/500.html:11
+msgid "D’oh! Something went wrong!"
+msgstr "ओह डी ! कुछ गलत हो गया!"
+
+#: affiliates/base/templates/500.html:13
+msgid ""
+"Sorry, but something went wrong on our end and we couldn’t process your "
+"request. Please try again in a few minutes."
+msgstr ""
+"क्षमा करें, लेकिन कुछ हमारे अंत पर गलत हो गया था और हम आपके अनुरोध पर "
+"कार्रवाई नहीं कर सका. कुछ ही मिनटों में पुनः प्रयास करें."
+
+#: affiliates/base/templates/base/about.html:6
+#: affiliates/base/templates/base/base.html:73
+msgid "About"
+msgstr "तकरीबन"
+
+#: affiliates/base/templates/base/about.html:13
+msgid "About Firefox Affiliates"
+msgstr "फ़ायरफ़ॉक्स सहयोगी कंपनियों के बारे में"
+
+#: affiliates/base/templates/base/about.html:16
+#: affiliates/base/templates/base/about.html:46
+msgid ""
+"Firefox Affiliate buttons are bits of HTML code that you put on your website"
+" or blog to encourage visitors to download Firefox. When someone clicks a "
+"button on your site and visits the Firefox download page, you get credit for"
+" that click."
+msgstr ""
+"फ़ायरफ़ॉक्स संबद्ध बटन आप Firefox डाउनलोड करने के लिए आगंतुकों को "
+"प्रोत्साहित करने के लिए अपनी वेबसाइट या ब्लॉग पर डाल दिया है कि HTML कोड के "
+"टुकड़े कर रहे हैं. किसी को अपनी साइट पर एक बटन क्लिक करता है और Firefox "
+"डाउनलोड पृष्ठ पर जाता है, तो आप उस क्लिक के लिए ऋण मिलता है."
+
+#: affiliates/base/templates/base/about.html:25
+#: affiliates/base/templates/base/about.html:55
+msgid ""
+"Affiliates who get a lot of clicks will be featured on our leaderboard and "
+"be eligible for rewards, like Firefox T-shirts. While we do send out prizes "
+"and gifts to our affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox buttons."
+msgstr ""
+"क्लिक के एक बहुत कुछ मिलता सहयोगी है जो हमारे लीडरबोर्ड पर छापा और Firefox "
+"टी शर्ट, जैसे पुरस्कार के लिए पात्र हो जाएगा. हम समय-समय पर हमारे सहयोगियों "
+"के लिए पुरस्कार और उपहार भेजने के बाहर करते हैं, Firefox के सहयोगी कंपनियों "
+"फ़ायरफ़ॉक्स बटन की मेजबानी के लिए मौद्रिक पुरस्कार प्रदान नहीं करता है."
+
+#: affiliates/base/templates/base/about.html:39
+msgid "Frequently Asked Questions"
+msgstr "सामान्यतःपूछे जाने वाले प्रश्न"
+
+#: affiliates/base/templates/base/about.html:41
+msgid "Using Affiliate buttons"
+msgstr "संबद्ध बटन का प्रयोग"
+
+#: affiliates/base/templates/base/about.html:43
+msgid "How do affiliate buttons work?"
+msgstr "सहबद्ध बटन कैसे काम करते हैं?"
+
+#: affiliates/base/templates/base/about.html:65
+msgid "How do I add an affiliate button to my website?"
+msgstr "मैं अपनी वेबसाइट के लिए एक सहयोगी के बटन जोड़ सकता हूँ?"
+
+#: affiliates/base/templates/base/about.html:68
+msgid ""
+"It’s super easy! To start, choose a button and select the Firefox product or"
+" campaign you’d like to support. From there, simply pick your button’s "
+"style, shape and color, and then copy and paste the code into the HTML of "
+"your site. Done! Your unique affiliate ID will be in the code to make sure "
+"you get credit for every click you send our way."
+msgstr ""
+"यह सुपर आसान है! प्रारंभ करने के लिए एक बटन का चयन और Firefox उत्पाद का चयन "
+"करें या आप का समर्थन करना चाहते हैं अभियान. वहाँ से, बस अपने बटन की शैली, "
+"आकार और रंग लेने, और फिर कॉपी और आपकी साइट के HTML में कोड पेस्ट करें. हो "
+"गया! अपने अद्वितीय सहबद्ध आईडी सुनिश्चित करें कि आप हमारे रास्ते भेज क्लिक "
+"करें हर के लिए ऋण प्राप्त करने के लिए कोड में होगा."
+
+#: affiliates/base/templates/base/about.html:79
+msgid "How do I remove an affiliate button from my website?"
+msgstr "मैं अपनी वेबसाइट से एक सहयोगी के बटन को दूर करते हैं?"
+
+#: affiliates/base/templates/base/about.html:82
+msgid ""
+"This is also easy. Simply delete the code. If you want to put it back in "
+"again, just copy and paste it from the button picker."
+msgstr ""
+"यह भी आसान है। बस कोड को हटा दें. आप फिर से वापस में डाल करना चाहते हैं, बस "
+"कॉपी और बटन कुदाल से चिपका दें."
+
+#: affiliates/base/templates/base/about.html:89
+msgid "How do text links work?"
+msgstr "पाठ लिंक कैसे काम करते हैं?"
+
+#: affiliates/base/templates/base/about.html:92
+msgid ""
+"Text links work very much like banners. You start by choosing the Firefox "
+"product or campaign you’d like to support, then select the text link you’d "
+"like to use. Copy and paste the link code into the HTML of your site, onto "
+"your email signature, or anywhere else you’d like to have it appear. Your "
+"unique affiliate ID will be in the code to make sure you get credit for "
+"every click you send our way."
+msgstr ""
+"पाठ लिंक बैनर की तरह बहुत ज्यादा काम करते हैं. आप फ़ायरफ़ॉक्स उत्पाद या आप "
+"का समर्थन करना चाहते हैं अभियान चुनने के द्वारा शुरू करते हैं, तो आप उपयोग "
+"करना चाहते हैं पाठ लिंक का चयन करें. कॉपी अपने ईमेल हस्ताक्षर पर अपनी साइट "
+"के HTML में कड़ी कोड पेस्ट करें और, या कहीं और आप इसे प्रकट करना चाहते हैं. "
+"अपने अद्वितीय सहबद्ध आईडी सुनिश्चित करें कि आप हमारे रास्ते भेज क्लिक करें "
+"हर के लिए ऋण प्राप्त करने के लिए कोड में होगा."
+
+#: affiliates/base/templates/base/about.html:104
+msgid "What happens when an affiliate button for a campaign is deactivated?"
+msgstr "एक अभियान के लिए एक सहयोगी के बटन निष्क्रिय है तो क्या होता है?"
+
+#: affiliates/base/templates/base/about.html:107
+msgid ""
+"Sometimes we run special time-limited campaigns to encourage people to "
+"download Firefox. If you’re using an affiliate button for one of these "
+"campaigns, try to update your button as soon as you can. People who click on"
+" that button will be directed to a general Firefox download page. You’ll get"
+" credit for the click as an Affiliate, but you may not get credit for clicks"
+" for that specific campaign."
+msgstr ""
+"कभी-कभी हम फ़ायरफ़ॉक्स डाउनलोड करने के लिए लोगों को प्रोत्साहित करने के लिए "
+"विशेष समय सीमित अभियान चलाने. आप इन अभियानों में से एक के लिए एक सहयोगी के "
+"बटन का प्रयोग कर रहे हैं, जैसे ही आप कर सकते हैं के रूप में अपने बटन को "
+"अद्यतन करने का प्रयास करें. उस बटन पर क्लिक करने वाले लोगों को एक सामान्य "
+"Firefox डाउनलोड पृष्ठ के लिए निर्देशित किया जाएगा. आप एक सहबद्ध के रूप में "
+"क्लिक के लिए क्रेडिट मिलेगा, लेकिन आपको लगता है कि विशेष अभियान के लिए क्लिक"
+" के लिए क्रेडिट नहीं मिल सकता है."
+
+#: affiliates/base/templates/base/about.html:132
+msgid "Leaderboard and user statistics"
+msgstr "लीडरबोर्ड और उपयोगकर्ता आँकड़े"
+
+#: affiliates/base/templates/base/about.html:134
+msgid "How often do leaderboard statistics update?"
+msgstr "कितनी बार लीडरबोर्ड के आँकड़े को अद्यतन करते हैं?"
+
+#: affiliates/base/templates/base/about.html:137
+msgid ""
+"Leaderboard stats update every night at midnight Pacific Time. No need to "
+"keep hitting refresh over and over again to see how you’re doing. Just check"
+" in the next day to see your progress."
+msgstr ""
+"लीडरबोर्ड आँकड़े आधी रात प्रशांत समय पर हर रात को अपडेट करें. कोई ज़रूरत "
+"नहीं है कि आप क्या कर रहे हैं कि कैसे को देखने के लिए और फिर से ताज़ा करे "
+"मार रखने के लिए. बस अपनी प्रगति को देखने के लिए अगले दिन में जाँच करें."
+
+#: affiliates/base/templates/base/about.html:145
+#: affiliates/facebook/templates/facebook/faq.html:177
+msgid "Is there a prize for getting the most Firefox clicks?"
+msgstr "सबसे फ़ायरफ़ॉक्स क्लिक्स प्राप्त करने के लिए एक पुरस्कार है?"
+
+#: affiliates/base/templates/base/about.html:147
+msgid ""
+"From time to time we will be sending out T-shirts and other prizes. In "
+"future versions of Firefox Affiliates we will have a rewards program and "
+"more opportunities to participate in affiliate challenges."
+msgstr ""
+"समय-समय पर हम टी शर्ट और अन्य पुरस्कार बाहर भेज दिया जाएगा. फ़ायरफ़ॉक्स "
+"सहयोगी कंपनियों के भविष्य के संस्करणों में हम संबद्ध चुनौतियों में भाग लेने "
+"के लिए एक पुरस्कार कार्यक्रम और अधिक अवसर होगा."
+
+#: affiliates/base/templates/base/about.html:156
+#: affiliates/facebook/templates/facebook/faq.html:194
+msgid "I think my click statistics are wrong. Is there any way to fix them?"
+msgstr ""
+"मैं अपने लिए क्लिक करें आँकड़े गलत कर रहे हैं लगता है. उन्हें ठीक करने के "
+"लिए कोई रास्ता नहीं है?"
+
+#: affiliates/base/templates/base/about.html:159
+msgid ""
+"If you think there is an error with your click statistics, drop us a note at"
+" <a href=\"%(email)s\">affiliates@mozilla.org</a> and we’ll do our best to "
+"help you out."
+msgstr ""
+"आप अपने लिए क्लिक करें आँकड़ों के साथ एक त्रुटि लगता है कि वहाँ है, तो <a "
+"href=\"%(email)s\">affiliates@mozilla.org </a> पर हमें एक नोट ड्रॉप और हम "
+"तुम्हारी मदद करने के लिए हमारी पूरी कोशिश करूँगा."
+
+#: affiliates/base/templates/base/about.html:169
+msgid "My profile"
+msgstr "मेरी प्रोफाइल"
+
+#: affiliates/base/templates/base/about.html:171
+msgid "How do I update my personal profile information?"
+msgstr "मैं अपने व्यक्तिगत प्रोफ़ाइल जानकारी को अपडेट करते हैं?"
+
+#: affiliates/base/templates/base/about.html:174
+msgid ""
+"Moved? Changed your name? Grew a moustache? Just visit your profile page and"
+" click on the edit profile link at the top."
+msgstr ""
+"चले गए? अपना नाम बदल गया है? एक मूंछें बढ़ी? बस अपने प्रोफाइल पेज पर जाएं और"
+" शीर्ष पर प्रोफ़ाइल संपादित करें लिंक पर क्लिक करें."
+
+#: affiliates/base/templates/base/about.html:178
+#: affiliates/users/templates/users/profile.html:44
+msgid ""
+"You can update your avatar picture at <a "
+"href=\"%(gravatar)s\">gravatar.com</a>."
+msgstr ""
+"आप <a href=\"%(gravatar)s\">gravatar.com</a>पर अपने अवतार तस्वीर अपडेट कर "
+"सकते हैं."
+
+#: affiliates/base/templates/base/about.html:184
+msgid "How will you contact me if I win a prize?"
+msgstr "मैं एक पुरस्कार जीत अगर तुम मुझे कैसे संपर्क करेंगे?"
+
+#: affiliates/base/templates/base/about.html:187
+msgid ""
+"If you qualify for an affiliates prize you will be notified that you have "
+"won via the email account in your affiliates profile."
+msgstr ""
+"आप एक सहयोगी संगठनों के पुरस्कार के लिए अर्हता प्राप्त अगर आप आप अपने "
+"सहयोगियों प्रोफ़ाइल में ईमेल खाते के माध्यम से जीत लिया है कि अधिसूचित किया "
+"जाएगा."
+
+#: affiliates/base/templates/base/about.html:196
+msgid "Getting involved With Firefox Affiliates"
+msgstr "फ़ायरफ़ॉक्स सहयोगी संगठनों के साथ शामिल हो रही है"
+
+#: affiliates/base/templates/base/about.html:198
+msgid "I have an idea of a button. How can I share it?"
+msgstr "मैं एक बटन के एक विचार है. मैं इसे कैसे साझा कर सकते हैं?"
+
+#: affiliates/base/templates/base/about.html:201
+msgid ""
+"Mozilla and Firefox are all about community. If you have an idea, we want to"
+" hear it. Send us a note at <a href=\"%(email)s\">affiliates@mozilla.org</a>"
+" and tell us your amazing idea for the program."
+msgstr ""
+"मोज़िला और फ़ायरफ़ॉक्स सभी समुदाय के बारे में हैं. आप एक विचार है, तो हम यह "
+"जानना चाहते हैं. <a href=\"%(email)s\">affiliates@mozilla.org </a> पर हमें "
+"एक नोट भेजें और हमें इस कार्यक्रम के लिए अपने अद्भुत विचार बताओ."
+
+#: affiliates/base/templates/base/about.html:210
+msgid "Can I build my own button?"
+msgstr "मैं अपना खुद का बटन का निर्माण कर सकते हैं?"
+
+#: affiliates/base/templates/base/about.html:213
+msgid ""
+"Not yet… but soon. We're working on a way to make it easy for people to "
+"create their own Firefox buttons in their language. Look for this in future "
+"versions of Firefox Affiliates."
+msgstr ""
+"अभी नहीं... लेकिन जल्द ही. हम इसे आसानी से लोगों को अपनी भाषा में अपने स्वयं"
+" के लिए फ़ायरफ़ॉक्स बटन बनाने के लिए के लिए रास्ता बनाने के लिए काम कर रहे "
+"हैं. फ़ायरफ़ॉक्स सहयोगी कंपनियों के भविष्य के संस्करणों में इस बात के लिए "
+"देखो."
+
+#: affiliates/base/templates/base/about.html:221
+msgid "I want to help make Firefox Affiliates better. How can I get involved?"
+msgstr ""
+"मैं बेहतर फ़ायरफ़ॉक्स सहबद्धों बनाने में मदद करना चाहते हैं. मैं कैसे शामिल "
+"हो सकता हूं?"
+
+#: affiliates/base/templates/base/about.html:224
+msgid ""
+"If you’d like to help out with the affiliates program, contact us at <a "
+"href=\"%(email)s\">affiliates@mozilla.org</a>. We’d love your help with "
+"everything from coding to marketing."
+msgstr ""
+"आप सहयोगी कार्यक्रम के साथ बाहर की मदद करना चाहते हैं, तो <a "
+"href=\"%(email)s\">affiliates@mozilla.org </a>पर हमसे संपर्क करें. हम विपणन "
+"के लिए कोडिंग से सब कुछ के साथ आपकी मदद के लिए प्यार करता हूँ."
+
+#: affiliates/base/templates/base/base.html:12
+#: affiliates/base/templates/base/base.html:15
+#: affiliates/base/templates/base/base.html:21
+#: affiliates/base/templates/base/base.html:65
+#: affiliates/base/templates/base/home.html:15
+#: affiliates/facebook/templates/facebook/base.html:15
+#: affiliates/settings/base.py:152
+msgid "Firefox Affiliates"
+msgstr "फ़ायरफ़ॉक्स सहबद्धों"
+
+#: affiliates/base/templates/base/base.html:49
+msgid "Close"
+msgstr "बंद"
+
+#: affiliates/base/templates/base/base.html:50
+msgid "This field is required."
+msgstr "यह फ़ील्ड आवश्यक है."
+
+#: affiliates/base/templates/base/base.html:51
+msgid "Thanks for subscribing!"
+msgstr "ग्राहक बनने के लिए आपको धन्यवाद!"
+
+#: affiliates/base/templates/base/base.html:52
+msgid "Sorry, there was an error. Please refresh and try again."
+msgstr "माफ़ कीजिए, इसमें एक त्रुटि थी। ताज़ा और फिर कोशिश करें."
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/base.html:60
+#: affiliates/base/templates/base/base.html:170
+#: affiliates/base/templates/base/strings.html:32
+msgid "Mozilla"
+msgstr "मोज़िला"
+
+#: affiliates/base/templates/base/base.html:71
+msgid "Menu"
+msgstr "मीनू"
+
+#. clicks on their banners.
+#: affiliates/base/templates/base/base.html:74
+#: affiliates/facebook/templates/facebook/base.html:45
+msgid "Leaderboard"
+msgstr "लीडरबोर्ड"
+
+#: affiliates/base/templates/base/base.html:75
+#: affiliates/statistics/templates/statistics/index.html:3
+#: affiliates/statistics/templates/statistics/index.html:17
+msgid "Performance"
+msgstr "निष्पादन"
+
+#: affiliates/base/templates/base/base.html:84
+#: affiliates/base/templates/base/dashboard.html:14
+#: affiliates/base/templates/base/dashboard.html:22
+#: affiliates/links/templates/links/detail.html:52
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+#: affiliates/base/templates/base/base.html:85
+msgid "Profile"
+msgstr "प्रोफ़ाइल"
+
+#: affiliates/base/templates/base/base.html:86
+msgid "Sign out"
+msgstr "साइन आउट"
+
+#: affiliates/base/templates/base/base.html:90
+msgid "Sign in"
+msgstr "साइन इन करें"
+
+#: affiliates/base/templates/base/base.html:108
+msgid "Get Firefox Affiliates News"
+msgstr "फ़ायरफ़ॉक्स सहबद्धों समाचार प्राप्त करें"
+
+#: affiliates/base/templates/base/base.html:111
+#: affiliates/facebook/forms.py:203
+#: affiliates/facebook/templates/facebook/base.html:159
+msgid "Your email address"
+msgstr "आपका ईमेल पता"
+
+#: affiliates/base/templates/base/base.html:116
+msgid "Country"
+msgstr "कंट्री"
+
+#: affiliates/base/templates/base/base.html:121
+msgid "Format"
+msgstr "प्रारूप"
+
+#: affiliates/base/templates/base/base.html:132
+msgid "HTML"
+msgstr "HTML"
+
+#: affiliates/base/templates/base/base.html:142
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr ""
+"मैं<a href=\"%s\"> इस गोपनीयता नीति</a>के रूप में समझाया मोज़िला मेरी "
+"जानकारी को संभालने के साथ ठीक हूँ"
+
+#. Label used for the newsletter signup button.
+#: affiliates/base/templates/base/base.html:150
+#: affiliates/facebook/templates/facebook/base.html:180
+msgid "Sign me up!"
+msgstr "मुझे साइन अप!"
+
+#: affiliates/base/templates/base/base.html:175
+msgid ""
+"Portions of this content are ©1998–%(thisyear)s by individual mozilla.org "
+"contributors. Content available under a <a href=\"%(license)s\">Creative "
+"Commons license</a>."
+msgstr ""
+"व्यक्तिगत mozilla.org योगदानकर्ताओं द्वारा %(thisyear) एस - इस सामग्री के "
+"भाग ©1998 हैं. एक<a href=\"%(license)s\">क्रिएटिव कॉमन्स लाइसेंस</a>के तहत "
+"उपलब्ध सामग्री."
+
+#: affiliates/base/templates/base/base.html:182
+msgid "Source code"
+msgstr "सोर्स कोड"
+
+#: affiliates/base/templates/base/base.html:187
+msgid "Contact Us"
+msgstr "हमसे संपर्क करें"
+
+#: affiliates/base/templates/base/base.html:188
+msgid "Partner with Us"
+msgstr "हमारे साथ साथी"
+
+#: affiliates/base/templates/base/base.html:189
+msgid "Donate"
+msgstr "दान करना"
+
+#: affiliates/base/templates/base/base.html:190
+msgid "Privacy Policy"
+msgstr "गोपनीयता नीति"
+
+#: affiliates/base/templates/base/base.html:191
+msgid "Legal Notices"
+msgstr "कानूनी नोटिस"
+
+#: affiliates/base/templates/base/base.html:192
+msgid "Report Trademark Abuse"
+msgstr "रिपोर्ट ट्रेडमार्क दुर्व्यवहार"
+
+#: affiliates/base/templates/base/base.html:196
+msgid "Mozilla on Twitter"
+msgstr "ट्विटर पर मोज़िला"
+
+#: affiliates/base/templates/base/base.html:197
+msgid "Firefox on Twitter"
+msgstr "ट्विटर पर फ़ायरफ़ॉक्स"
+
+#: affiliates/base/templates/base/base.html:198
+msgid "Mozilla on Facebook"
+msgstr "फेसबुक पर मोज़िला"
+
+#: affiliates/base/templates/base/base.html:199
+msgid "Firefox on Facebook"
+msgstr "फेसबुक पर फ़ायरफ़ॉक्स"
+
+#: affiliates/base/templates/base/dashboard.html:23
+msgid ""
+"See how your banners are performing and where you rank among other Firefox "
+"Affiliates. Thanks for supporting Firefox and the Mozilla mission to build a"
+" better Web for all!"
+msgstr ""
+"अपने बैनर प्रदर्शन कर रहे हैं कि कैसे देखते हैं और आप अन्य फ़ायरफ़ॉक्स "
+"सहयोगी संगठनों के बीच रैंक है. सभी के लिए एक बेहतर वेब निर्माण करने के लिए "
+"फायरफॉक्स और मोज़िला मिशन का समर्थन करने के लिए धन्यवाद!"
+
+#: affiliates/base/templates/base/dashboard.html:26
+msgid "My stats"
+msgstr "मेरे आंकड़े"
+
+#: affiliates/base/templates/base/dashboard.html:35
+msgid "My Banners"
+msgstr "मेरा बैनरों"
+
+#: affiliates/base/templates/base/dashboard.html:36
+#: affiliates/facebook/templates/facebook/banner_list.html:76
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:7
+msgid "Create a new banner"
+msgstr "एक नए बैनर बनाएँ"
+
+#: affiliates/base/templates/base/dashboard.html:47
+msgid "You don’t have any banners yet. Why not create one now?"
+msgstr "आपने अभी तक कोई बैनर नहीं है. अब क्यों नहीं एक बना?"
+
+#: affiliates/base/templates/base/dashboard.html:52
+#: affiliates/base/templates/base/home.html:66
+msgid "1. Pick a banner"
+msgstr "1. एक बैनर उठाओ"
+
+#: affiliates/base/templates/base/dashboard.html:53
+#: affiliates/base/templates/base/home.html:67
+msgid ""
+"Choose from a number of designs that support Firefox and other Mozilla "
+"products."
+msgstr ""
+"फ़ायरफ़ॉक्स और अन्य मोज़िला उत्पादों का समर्थन करने वाले डिजाइन की एक संख्या"
+" से चुनें."
+
+#: affiliates/base/templates/base/dashboard.html:56
+#: affiliates/base/templates/base/home.html:70
+msgid "2. Customize"
+msgstr "2. अनुकूलित"
+
+#: affiliates/base/templates/base/dashboard.html:57
+#: affiliates/base/templates/base/home.html:71
+msgid ""
+"Select the size and color that suits your site. Banners and links are also "
+"available in over 30 languages."
+msgstr ""
+"अपनी साइट पर जंचता है कि आकार और रंग का चयन करें। बैनर और लिंक भी 30 से अधिक"
+" भाषाओं में उपलब्ध हैं."
+
+#: affiliates/base/templates/base/dashboard.html:60
+#: affiliates/base/templates/base/home.html:74
+msgid "3. Post to your site"
+msgstr "3. आपकी साइट के लिए पोस्ट"
+
+#: affiliates/base/templates/base/dashboard.html:61
+#: affiliates/base/templates/base/home.html:75
+msgid ""
+"Copy and paste the HTML or text link into your site, email or wherever you’d"
+" like to share it."
+msgstr ""
+"कॉपी करें और अपनी साइट, ईमेल में HTML या पाठ लिंक पेस्ट या जहाँ आप इसे साझा "
+"करना चाहते हैं."
+
+#: affiliates/base/templates/base/dashboard.html:71
+msgid "My Milestones"
+msgstr "मेरा मील के पत्थर"
+
+#: affiliates/base/templates/base/dashboard.html:79
+msgid "Affiliates News"
+msgstr "सहयोगी कंपनियों के समाचार"
+
+#: affiliates/base/templates/base/dashboard.html:84
+msgid "Become a Mozillian"
+msgstr "एक Mozillian बनें"
+
+#: affiliates/base/templates/base/dashboard.html:86
+msgid ""
+"At Mozilla, doing good is part of our code. Our mission is to promote "
+"openness, innovation and opportunity on the Web, and we can only do it with "
+"awesome people like you. If you’d like to do even more to help our mission, "
+"we have volunteer opportunities available in a number of areas."
+msgstr ""
+"मोज़िला पर, अच्छा कर रही हमारी कोड का हिस्सा है. हमारे मिशन के लिए वेब पर "
+"खुलापन, नवाचार और बढ़ावा देने का अवसर है, और हम केवल आप जैसे भयानक लोगों के "
+"साथ ऐसा कर सकते हैं. यदि आप हमारे मिशन में मदद करने के लिए और भी अधिक करने "
+"के लिए करना चाहते हैं, हम क्षेत्रों की संख्या में उपलब्ध स्वयंसेवक अवसर है."
+
+#: affiliates/base/templates/base/dashboard.html:93
+msgid "Learn more"
+msgstr "और अधिक जानें"
+
+#: affiliates/base/templates/base/home.html:24
+#, fuzzy
+msgid "So long, <strong>Firefox Affiliates</strong>."
+msgstr "फ़ायरफ़ॉक्स सहयोगी कंपनियों में आपका स्वागत है"
+
+#: affiliates/base/templates/base/home.html:25
+msgid "Hello, <strong>Firefox Friends</strong>."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:27
+msgid ""
+"We’re moving our Affiliates program to Firefox Friends, an exciting new way "
+"to share what we do with the world. At Firefox Friends you’ll have "
+"opportunities to get recognized for making an impact — plus, you’ll be in "
+"the know for all the latest Mozilla news and announcements."
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:33
+msgid ""
+"At the beginning of August, new banner creation for Affiliates will be "
+"disabled, so please join us at Firefox Friends to continue sharing Mozilla "
+"with world."
+msgstr ""
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/home.html:36
+#, fuzzy
+msgid "Join Firefox Friends"
+msgstr "फ़ायरफ़ॉक्स प्लगइन्स"
+
+#: affiliates/base/templates/base/home.html:38
+msgid "Click here for more information"
+msgstr ""
+
+#: affiliates/base/templates/base/home.html:49
+msgid "This site requires JavaScript."
+msgstr "यह साइट JavaScript की आवश्यकता है."
+
+#: affiliates/base/templates/base/home.html:55
+msgid "Become a Firefox Affiliate today!"
+msgstr "एक फ़ायरफ़ॉक्स संबद्ध आज बनें!"
+
+#: affiliates/base/templates/base/home.html:56
+msgid ""
+"Get everything you need to share Firefox – and the other Mozilla products "
+"you love – with the world. Climb the leaderboard to help us build a better "
+"Web."
+msgstr ""
+"और तुमसे प्यार करता हूँ अन्य मोज़िला उत्पादों - दुनिया के साथ आप Firefox "
+"साझा करने के लिए जरूरत है सब कुछ मिलता है. हमें एक बेहतर वेब के निर्माण में "
+"मदद करने के लिए लीडरबोर्ड चढ़ाई."
+
+#: affiliates/base/templates/base/home.html:57
+msgid "Get started"
+msgstr "शुरू हो जाओ"
+
+#: affiliates/base/templates/base/home.html:63
+msgid "How it works"
+msgstr "यह काम किस प्रकार करता है"
+
+#: affiliates/base/templates/base/home.html:83
+msgid "Earn rewards!"
+msgstr "पुरस्कार अर्जित करें!"
+
+#: affiliates/base/templates/base/home.html:84
+msgid ""
+"Climb the affiliates leaderboard for your chance to win awesome Firefox "
+"gear, and to get even more involved with Mozilla. The more you share, the "
+"higher you can climb."
+msgstr ""
+"भयानक फ़ायरफ़ॉक्स गियर को जीतने के लिए, और भी अधिक शामिल मोज़िला के साथ पाने"
+" के लिए अपने मौका के लिए सहयोगी कंपनियों लीडरबोर्ड चढ़ाई. जितना अधिक आप "
+"साझा, उच्च आप चढ़ाई कर सकते हैं."
+
+#: affiliates/base/templates/base/home.html:97
+msgid "Top affiliates"
+msgstr "शीर्ष सहयोगी"
+
+#: affiliates/base/templates/base/macros.html:49
+msgid "Someday soon!"
+msgstr "जल्दी ही किसी दिन!"
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:64
+msgid "<strong>%(rank)s</strong> ranking"
+msgstr "<strong>%(rank)s</strong> की रैंकिंग"
+
+#. Ranking is the user's position on a leaderboard of users ranked by banner
+#. clicks.
+#: affiliates/base/templates/base/macros.html:69
+msgid "Not yet ranked"
+msgstr "अभी तक रैंक नहीं"
+
+#: affiliates/base/templates/base/macros.html:78
+msgid "<strong>%(count)s</strong> affiliate"
+msgid_plural "<strong>%(count)s</strong> affiliates"
+msgstr[0] "<strong>%(count)s</strong> के संबद्ध"
+msgstr[1] "<strong>%(count)s</strong> के संबद्ध"
+
+#: affiliates/base/templates/base/macros.html:86
+msgid "<strong>%(count)s</strong> click"
+msgid_plural "<strong>%(count)s</strong> clicks"
+msgstr[0] "<strong>%(count)s</strong> क्लिक"
+msgstr[1] "<strong>%(count)s</strong> क्लिक करें"
+
+#: affiliates/base/templates/base/macros.html:94
+msgid "<strong>%(count)s</strong> banner"
+msgid_plural "<strong>%(count)s</strong> banners"
+msgstr[0] "<strong>%(count)s</strong> बैनर"
+msgstr[1] "<strong>%(count)s</strong> के बैनर"
+
+# Category of badges to choose from.
+#: affiliates/base/templates/base/strings.html:31
+msgid "Firefox"
+msgstr "फ़ायरफ़ॉक्स"
+
+#: affiliates/base/templates/base/strings.html:33
+msgid "Firefox OS"
+msgstr "Firefox OS"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:38
+msgid "Mozilla Recruiting"
+msgstr "मोज़िला भर्ती"
+
+#: affiliates/base/templates/base/strings.html:39
+msgid "Firefox for Mobile"
+msgstr "मोबाइल के लिए फ़ायरफ़ॉक्स"
+
+#: affiliates/base/templates/base/strings.html:40
+msgid "Firefox for Desktop"
+msgstr "डेस्कटॉप के लिए फ़ायरफ़ॉक्स"
+
+# Subcategory of badges to choose from.
+#: affiliates/base/templates/base/strings.html:41
+msgid "Firefox Plugins"
+msgstr "फ़ायरफ़ॉक्स प्लगइन्स"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:46
+msgid "Android"
+msgstr "एंड्रॉयड"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:47
+msgid "Upgrade"
+msgstr "नवीनीकरण"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:48
+msgid "Download: Fast, Fun, Awesome"
+msgstr "डाउनलोड: मज़ा, बहुत बढ़िया, फास्ट"
+
+#: affiliates/base/templates/base/strings.html:49
+msgid "Work for Mozilla"
+msgstr "मोज़िला के लिए काम"
+
+# Badge that user can display on their website.
+#: affiliates/base/templates/base/strings.html:50
+msgid "Plugin Checker"
+msgstr "प्लगइन परीक्षक"
+
+#: affiliates/base/templates/base/strings.html:51
+msgid "Download Aurora"
+msgstr "अरोड़ा डाउनलोड"
+
+#: affiliates/base/templates/base/strings.html:52
+msgid "Aurora for Android"
+msgstr "एंड्रॉयड के लिए अरोड़ा"
+
+#: affiliates/base/templates/base/strings.html:53
+msgid "Download Beta"
+msgstr "डाउनलोड बीटा"
+
+#. 3.6 refers to Firefox version 3.6
+#: affiliates/base/templates/base/strings.html:55
+msgid "3.6 Upgrade"
+msgstr "3.6 अपग्रेड"
+
+#: affiliates/base/templates/base/strings.html:56
+msgid "Facebook Messenger for Firefox"
+msgstr "फ़ायरफ़ॉक्स के लिए फेसबुक मैसेंजर"
+
+#: affiliates/base/templates/base/strings.html:61
+msgid "Purple"
+msgstr "बैंगनी"
+
+# Color for badge images.
+#: affiliates/base/templates/base/strings.html:62
+msgid "Blue"
+msgstr "ब्लू"
+
+#: affiliates/base/templates/base/strings.html:63
+msgid "Green"
+msgstr "हरा"
+
+#: affiliates/base/templates/base/strings.html:64
+msgid "Red"
+msgstr "रेड"
+
+#: affiliates/base/templates/base/strings.html:65
+msgid "Orange"
+msgstr "नारंगी"
+
+#: affiliates/base/templates/base/strings.html:66
+msgid "Yellow"
+msgstr "पीले"
+
+#: affiliates/base/templates/base/strings.html:67
+msgid "White"
+msgstr "सफेद"
+
+#: affiliates/base/templates/base/strings.html:68
+msgid "Black"
+msgstr "काला"
+
+#: affiliates/base/templates/base/terms.html:6
+#: affiliates/base/templates/base/terms.html:14
+msgid "Terms of Service"
+msgstr "सेवा की शर्तें"
+
+#. L10n: &hellip; is an ellipses, the three dots like "I love Firefox
+#. because..."
+#: affiliates/facebook/forms.py:18
+msgid "I love Firefox because&hellip;"
+msgstr "मैं फ़ायरफ़ॉक्स पसंद है&hellip;"
+
+#: affiliates/facebook/forms.py:28
+msgid "Enter e-mail"
+msgstr "ईमेल दर्ज करें"
+
+#: affiliates/facebook/forms.py:93
+msgid ""
+"Sorry. Your message is too long. Please tell the world why you love Firefox "
+"in 90 characters or less."
+msgstr ""
+"सॉरी. आपका संदेश बहुत लंबा है. आप 90 वर्ण या उससे कम समय में फ़ायरफ़ॉक्स "
+"प्यार क्यों दुनिया को बता देते हैं."
+
+#. L10n: Used in a dropdown that lets users filter the Leaderboard by
+#. L10n: country. Refers to the default filter, which shows all countries
+#: affiliates/facebook/forms.py:179
+msgid "All"
+msgstr "सभी"
+
+#. Account linking lets a user associate an Affiliates account with their
+#. Facebook app account. Description is in another string. :D
+#: affiliates/facebook/managers.py:139
+#: affiliates/facebook/templates/facebook/base.html:86
+msgid "Link your Firefox Affiliates account"
+msgstr "अपने फ़ायरफ़ॉक्स सहबद्धों खाता लिंक"
+
+#: affiliates/facebook/models.py:313
+msgid "Way to go! You've had {0} clicks on your Firefox banner."
+msgstr ""
+"जाने के लिए रास्ता! आप {0} अपने फ़ायरफ़ॉक्स बैनर पर क्लिक करता है लिया है."
+
+#: affiliates/facebook/models.py:315
+msgid ""
+"Amazing! You've had {0} clicks on your Firefox banner. Thanks for spreading "
+"the word."
+msgstr ""
+"अद्भुत! आप {0} अपने फ़ायरफ़ॉक्स बैनर पर क्लिक करता है लिया है. शब्द के "
+"प्रसार के लिए धन्यवाद."
+
+#: affiliates/facebook/models.py:318
+msgid ""
+"Wow! Your banner has {0} clicks! It's ready to grow up and become a Firefox "
+"ad."
+msgstr ""
+"वाह! अपने बैनर {0} क्लिक्स है! यह बड़े होते हैं और एक फ़ायरफ़ॉक्स विज्ञापन "
+"बनने के लिए तैयार है."
+
+#: affiliates/facebook/models.py:320
+msgid "Congratulations! Your Firefox banner has now become a Facebook ad!"
+msgstr "बधाई हो! अपने फ़ायरफ़ॉक्स बैनर अब एक फेसबुक विज्ञापन बन गया है!"
+
+#: affiliates/facebook/views.py:177
+msgid "Your banner has been deleted."
+msgstr "अपने बैनर हटा दिया गया है."
+
+#: affiliates/facebook/views.py:211
+msgid "You have successfully posted a banner to your wall !"
+msgstr "आपने सफलतापूर्वक अपना दीवार के लिए एक बैनर पोस्ट किया है !"
+
+#: affiliates/facebook/views.py:303
+msgid "You have successfully sent a message to one of your friends!"
+msgstr "आप सफलतापूर्वक अपने मित्रों में से एक के लिए एक संदेश भेजा है!"
+
+#. Banner styles are images that will be used as the background of a banner
+#. that the user creates.
+#: affiliates/facebook/templates/facebook/banner_create.html:18
+msgid "First, choose one of the banner styles below."
+msgstr "सबसे पहले, बैनर के नीचे शैलियों में से एक का चयन करें."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:24
+msgid "Please correct the errors in the form below."
+msgstr "नीचे दिए गए फॉर्म में त्रुटियों को ठीक करें."
+
+#. Used above a box showing what a banner will look like once it is created.
+#: affiliates/facebook/templates/facebook/banner_create.html:26
+msgid "Your banner preview"
+msgstr "अपने बैनर पूर्वावलोकन"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:36
+msgid "Next, tell the world why you love Firefox in 90 characters or less."
+msgstr ""
+"आप 90 वर्ण या उससे कम समय में फ़ायरफ़ॉक्स प्यार क्यों आगे, दुनिया को बताना "
+"है."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:42
+msgid "Use my profile image"
+msgstr "मेरे प्रोफ़ाइल छवि का प्रयोग करें"
+
+#. Label for a checkbox that gives us permission to use the user's banner in a
+#. paid Facebook ad.
+#: affiliates/facebook/templates/facebook/banner_create.html:46
+msgid "Feature me in a paid Facebook ad."
+msgstr "एक भुगतान फेसबुक विज्ञापन में मुझे शामिल हैं."
+
+#. Used on a link that, when clicked, pops up a text bubble with an
+#. explanation of a form field.
+#: affiliates/facebook/templates/facebook/banner_create.html:49
+msgid "What does this mean?"
+msgstr "इसका क्या अर्थ है?"
+
+#: affiliates/facebook/templates/facebook/banner_create.html:52
+msgid ""
+"If you get %(click_count)s clicks or more, we would like to have permission "
+"to turn your banner into a paid ad on Facebook in your region. By checking "
+"this box you are granting us permission to use your banner in a paid "
+"Facebook ad, including your profile photo if you checked the box to include "
+"it in the banner, and the text you added to the banner. For a full "
+"description of the rights you are granting and more information, see the "
+"FAQs. Don't want to be featured in an ad? Make sure you don't opt in. If you"
+" opted in and don't want to be featured anymore, send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure your ad is "
+"removed."
+msgstr ""
+"आप %(click_count)s एस क्लिक या अधिक मिलता है, तो हम अपने क्षेत्र में फेसबुक "
+"पर एक भुगतान किया विज्ञापन में अपने बैनर बारी करने के लिए अनुमति की तरह होता"
+" है. आप बैनर में इसे शामिल करने के लिए बॉक्स की जाँच अगर इस बॉक्स को चेक "
+"करके आप अपने प्रोफाइल फोटो सहित, एक भुगतान फेसबुक विज्ञापन में अपने बैनर का "
+"उपयोग करने के लिए हमें अनुमति प्रदान कर रहे हैं, और पाठ आप बैनर के लिए कहा. "
+"आप प्रदान कर रहे हैं अधिकार और अधिक जानकारी के लिए एक पूर्ण विवरण के लिए "
+"पूछे जाने वाले FAQs देखें. एक विज्ञापन में चित्रित किया जा नहीं करना चाहते "
+"हैं? आप में शामिल हुए हैं. सुनिश्चित करें कि आप में नहीं चुनते हैं बनाओ और "
+"अब और जाने की जरूरत नहीं है, <a href=\"%(link)s\">affiliates@mozilla.org</a>"
+" पर हमें एक नोट भेजने और हम अपने विज्ञापन हटा दिया जाता है सुनिश्चित करेंगे."
+
+#: affiliates/facebook/templates/facebook/banner_create.html:69
+msgid "Save and Share"
+msgstr "सहेजें और साझा करें"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:14
+msgid "Are you sure?"
+msgstr "क्या आपको यकीन है?"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:15
+msgid "These are the banners you've created so far:"
+msgstr "ये आप अब तक बना लिया बैनर कर रहे हैं:"
+
+#. Heading referring to when a banner was created.
+#: affiliates/facebook/templates/facebook/banner_list.html:26
+msgid "Creation date"
+msgstr "निर्माण तिथि"
+
+#. Heading above the number of clicks a banner has received.
+#: affiliates/facebook/templates/facebook/banner_list.html:30
+msgid "Clicks"
+msgstr "क्लिक्स"
+
+#. Link that, when clicked, shows a dialog for posting a banner to a user's
+#. Facebook feed.
+#: affiliates/facebook/templates/facebook/banner_list.html:37
+msgid "Post to Feed"
+msgstr "फ़ीड करने के लिए पोस्ट"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:45
+msgid "Delete"
+msgstr "हटाना"
+
+#: affiliates/facebook/templates/facebook/banner_list.html:67
+msgid "Click Goal: <span>%(count)s</span>"
+msgstr "लक्ष्य पर क्लिक करें: <span>%(count)s</span>"
+
+#: affiliates/facebook/templates/facebook/base.html:16
+msgid "Help us share Firefox with the world."
+msgstr "हमें दुनिया के साथ फ़ायरफ़ॉक्स साझा करने में मदद."
+
+#: affiliates/facebook/templates/facebook/base.html:20
+#: affiliates/facebook/templates/facebook/base.html:148
+msgid "Invite your friends to Download Firefox!"
+msgstr "फ़ायरफ़ॉक्स डाउनलोड करने के लिए अपने मित्रों को आमंत्रित करें!"
+
+#: affiliates/facebook/templates/facebook/base.html:29
+msgid "My banners"
+msgstr "मेरा बैनर"
+
+#. answers to common questions about the app.
+#. FAQs is an abbreviation for Frequently Asked Questions
+#: affiliates/facebook/templates/facebook/base.html:37
+#: affiliates/facebook/templates/facebook/faq.html:13
+msgid "FAQs"
+msgstr "FAQs"
+
+#: affiliates/facebook/templates/facebook/base.html:92
+msgid ""
+"Do you already have an account from affiliates.mozilla.org? You can link "
+"your account to this application and you'll get credit for any clicks that "
+"you drive through Facebook. To connect your account, just click here and "
+"fill in your information. We'll send you an email to confirm. If you'd like "
+"to sign up for an account, just visit <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"आप पहले से ही affiliates.mozilla.org से एक खाता है? आप इस आवेदन करने के लिए "
+"अपने खाते लिंक कर सकते हैं और क्या आप फेसबुक के माध्यम से ड्राइव उस क्लिक के"
+" लिए क्रेडिट मिलेगा. अपने खाते से कनेक्ट करने के लिए, बस यहाँ क्लिक करें और "
+"आपकी जानकारी में भरें. हम इस बात की पुष्टि करने के लिए आपको एक ईमेल भेज "
+"देंगे. यदि आप एक खाते के लिए साइन अप करना चाहते हैं तो बस <a "
+"href=\"%(link)s\">affiliates.mozilla.org</a>जाएँ."
+
+#. Label used for the account linking button.
+#: affiliates/facebook/templates/facebook/base.html:103
+msgid "Submit"
+msgstr "प्रस्तुत करना"
+
+#: affiliates/facebook/templates/facebook/base.html:107
+msgid "Thanks for linking your affiliates.mozilla.org account."
+msgstr "अपने affiliates.mozilla.org खाते को जोड़ने के लिए धन्यवाद."
+
+#: affiliates/facebook/templates/facebook/base.html:108
+msgid ""
+"If the email address you entered has an account, you will receive a "
+"confirmation email."
+msgstr ""
+"आपके द्वारा दर्ज ईमेल पते एक खाता है, तो आपको एक पुष्टिकरण ईमेल प्राप्त "
+"होगा."
+
+#: affiliates/facebook/templates/facebook/base.html:113
+msgid "Linked to <a href=\"%(link)s\">affiliates.mozilla.org</a>"
+msgstr "<a href=\"%(link)s\">affiliates.mozilla.org</a>के लिए लिंक"
+
+#: affiliates/facebook/templates/facebook/base.html:120
+msgid ""
+"This account is linked to affiliates.mozilla.org. You are credited for "
+"clicks from Facebook. You can unlink accounts by clicking below."
+msgstr ""
+"यह खाता affiliates.mozilla.org से जुड़ा हुआ है. आप फेसबुक से क्लिक के लिए "
+"श्रेय दिया जाता है. आप नीचे क्लिक करके खातों लिंक रद्द कर सकते हैं."
+
+#. Text on a button that lets a user unlink their Facebook and Affiliates
+#. accounts.
+#: affiliates/facebook/templates/facebook/base.html:125
+msgid "Remove %(email_address)s"
+msgstr "एस %(email_address)s निकालें"
+
+#: affiliates/facebook/templates/facebook/base.html:134
+msgid "Your Statistics Summary"
+msgstr "अपने आँकड़ों सारांश"
+
+#: affiliates/facebook/templates/facebook/base.html:138
+msgid ""
+"You can filter results by selecting a specific month using the calendar "
+"above."
+msgstr ""
+"आप ऊपर के कैलेंडर का उपयोग कर एक विशिष्ट महीने का चयन करके परिणाम फ़िल्टर कर"
+" सकते हैं."
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/base.html:139
+#: affiliates/facebook/templates/facebook/leaderboard.html:27
+msgid "Total clicks"
+msgstr "कुल क्लिक"
+
+#: affiliates/facebook/templates/facebook/base.html:140
+msgid "Statistics are currently unavailable."
+msgstr "आंकड़े बताते हैं कि वर्तमान में उपलब्ध नहीं हैं."
+
+#: affiliates/facebook/templates/facebook/base.html:144
+msgid "Be a part of the Firefox movement"
+msgstr "फ़ायरफ़ॉक्स आंदोलन का एक हिस्सा बनो"
+
+#: affiliates/facebook/templates/facebook/base.html:145
+msgid "It's easy!"
+msgstr "यह आसान है!"
+
+#: affiliates/facebook/templates/facebook/base.html:147
+msgid "Create your custom banner."
+msgstr "अपने कस्टम बैनर बनाएँ."
+
+#: affiliates/facebook/templates/facebook/base.html:149
+msgid "Get clicks and you could be featured in a paid Facebook ad."
+msgstr ""
+"क्लिक पाने और आप एक भुगतान फेसबुक विज्ञापन में चित्रित किया जा सकता है."
+
+#: affiliates/facebook/templates/facebook/base.html:155
+msgid "Get Firefox News"
+msgstr "फ़ायरफ़ॉक्स समाचार प्राप्त करें"
+
+#: affiliates/facebook/templates/facebook/base.html:171
+msgid "I agree to the <a href=\"%(link)s\">Privacy Policy</a>"
+msgstr "मैं <a href=\"%(link)s\">गोपनीयता नीति</a>करने के लिए सहमत"
+
+#: affiliates/facebook/templates/facebook/base.html:175
+msgid "We will only send you Mozilla-related information."
+msgstr "हम केवल आप मोज़िला से संबंधित जानकारी भेज देंगे."
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/base.html:184
+#: affiliates/facebook/templates/facebook/link_activation_email.html:13
+msgid "Thanks!"
+msgstr "शुक्रिया!"
+
+#: affiliates/facebook/templates/facebook/error.html:10
+msgid "Whoops!"
+msgstr "ओह!"
+
+#: affiliates/facebook/templates/facebook/error.html:11
+msgid "What are you doing here?"
+msgstr "तुम यहां क्या कर रहे हो?"
+
+#: affiliates/facebook/templates/facebook/error.html:14
+msgid ""
+"Did you make a left at that last URL instead of a right? No problem. Here "
+"are some tips to get you back on your way:"
+msgstr ""
+"आप एक बाएं बजाय एक सही की है कि पिछले URL पर बना था? कोई बात नहीं. यहाँ आप "
+"अपने रास्ते पर वापस लाने के लिए कुछ सुझाव दिए गए हैं:"
+
+#: affiliates/facebook/templates/facebook/error.html:21
+msgid ""
+"If you typed in the address, check your spelling. Could just be a typo."
+msgstr ""
+"आप पते में टाइप करते हैं, तो अपनी वर्तनी की जाँच करें. सिर्फ एक टाइपो हो "
+"सकता है."
+
+#: affiliates/facebook/templates/facebook/error.html:26
+msgid ""
+"If you followed a link, it’s probably broken. Please <a "
+"href=\"mailto:%(email)s\">contact us</a> and we’ll fix it."
+msgstr ""
+"आप एक लिंक का अनुसरण करते हैं, यह शायद टूट गया है. <a "
+"href=\"mailto:%(email)s\"> हमसे संपर्क करें</a>और हम इसे ठीक कर देंगे कृपया."
+
+#: affiliates/facebook/templates/facebook/error.html:32
+msgid ""
+"If you're not sure what you're looking for, start at <a "
+"href=\"%(link)s\">mozilla.org</a>."
+msgstr ""
+"क्या आप के लिए क्या देख रहे हैं यकीन नहीं कर रहे हैं, तो <a "
+"href=\"%(link)s\">mozilla.org</a>में शुरू करो."
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:18
+msgid "Using Affiliate banners"
+msgstr "संबद्ध बैनर का उपयोग"
+
+#: affiliates/facebook/templates/facebook/faq.html:21
+msgid "What is Firefox Affiliates?"
+msgstr "फ़ायरफ़ॉक्स सहबद्धों क्या है?"
+
+#: affiliates/facebook/templates/facebook/faq.html:24
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"eligible for fun stuff like Firefox T-shirts and, if you opt in, we may "
+"feature your banner in a paid-ad on the Facebook ad network. While we do "
+"send out prizes and gifts to our Affiliates from time to time, Firefox "
+"Affiliates does not offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"फ़ायरफ़ॉक्स सहबद्धों आप बैनर बनाने के लिए और फ़ायरफ़ॉक्स डाउनलोड करने के लिए"
+" आगंतुकों को प्रोत्साहित करने के लिए अपने फेसबुक प्रोफाइल पर उन्हें जगह की "
+"अनुमति देता है. अपने पृष्ठ या स्थिति अद्यतन करने के लिए एक आगंतुक एक बैनर पर"
+" क्लिक करता है और फ़ायरफ़ॉक्स डाउनलोड पृष्ठ पर जाता है, तो आप उस क्लिक के "
+"लिए ऋण मिलता है. उनके प्रोफाइल के माध्यम से क्लिक के एक बहुत कुछ मिलता "
+"सहयोगी है जो आप चुनते हैं, तो हम फेसबुक विज्ञापन नेटवर्क पर एक भुगतान किया "
+"विज्ञापन में अपने बैनर सुविधा हो सकती है, हमारे लीडरबोर्ड पर छापा और "
+"फ़ायरफ़ॉक्स टी शर्ट की तरह मज़ा सामान के लिए पात्र हो सकता है और किया जाएगा."
+" हम समय-समय पर हमारे सहयोगियों को पुरस्कार और उपहार भेजने के बाहर करते हैं, "
+"फ़ायरफ़ॉक्स के सहयोगी कंपनियों फ़ायरफ़ॉक्स बैनर की मेजबानी के लिए मौद्रिक "
+"पुरस्कार प्रदान नहीं करता है."
+
+#: affiliates/facebook/templates/facebook/faq.html:43
+msgid "How do I add a banner to my Facebook profile?"
+msgstr "कैसे मैं अपने फेसबुक प्रोफाइल के लिए एक बैनर जोड़ सकता हूँ?"
+
+#: affiliates/facebook/templates/facebook/faq.html:48
+msgid ""
+"Select a banner design that you like using the <a href=\"%(link)s\">banner "
+"builder</a>, add a personal message about why you love Firefox and then "
+"click \"share.\" This will post the banner to your Facebook timeline and "
+"into your friends' newsfeed."
+msgstr ""
+"आप <a href=\"%(link)s\">बैनर बिल्डर</a> का उपयोग कर लगता है कि जैसे एक बैनर "
+"डिजाइन का चयन करें, आप फ़ायरफ़ॉक्स प्यार करता हूँ और फिर क्लिक करें के बारे "
+"में क्यों एक व्यक्तिगत संदेश जोड़ने के \"शेयर.\" यह आपके फेसबुक समय के लिए "
+"और अपने मित्रों के समाचारफ़ीड में बैनर पोस्ट करेंगे."
+
+#: affiliates/facebook/templates/facebook/faq.html:60
+msgid "How do I invite a friend to use Firefox?"
+msgstr ""
+"मैं कैसे फ़ायरफ़ॉक्स का उपयोग करने के लिए एक दोस्त को आमंत्रित करते हैं?"
+
+#: affiliates/facebook/templates/facebook/faq.html:64
+msgid ""
+"If you'd like to personally invite someone to use Firefox, just select "
+"\"Share ad with friends\" from the side menu and you will be able to send a "
+"Facebook message with a custom Firefox download link. If your friend clicks "
+"on the link, you'll also get credit for the click."
+msgstr ""
+"आप व्यक्तिगत रूप से फ़ायरफ़ॉक्स का उपयोग करने के लिए किसी को आमंत्रित करना "
+"चाहते हैं, तो बस ओर मेनू से \"मित्रों के साथ साझा करें विज्ञापन\" का चयन "
+"करें और आप एक कस्टम फ़ायरफ़ॉक्स डाउनलोड लिंक के साथ एक फेसबुक संदेश भेजने "
+"में सक्षम हो जाएगा. अपने दोस्त के लिंक पर क्लिक करता है, तो आप भी क्लिक के "
+"लिए क्रेडिट मिलेगा."
+
+#: affiliates/facebook/templates/facebook/faq.html:76
+msgid "Can my banner become a paid Facebook ad?"
+msgstr "मेरे बैनर एक भुगतान फेसबुक विज्ञापन बन सकता है?"
+
+#: affiliates/facebook/templates/facebook/faq.html:80
+msgid ""
+"If you checked the box to allow your banner to be featured in a paid "
+"Facebook ad, once you've reached %(click_count)s clicks on a Facebook "
+"banner, your banner will become eligible to be a paid Facebook ad. This "
+"means that Mozilla will pay to have an ad placed on the Facebook ad network "
+"sharing your message of why you love Firefox. We will notify you if your "
+"banner is chosen to be a paid ad in your region. If you do not want to "
+"participate in this, don't click the opt-in when you build your banner. If "
+"you've opted in by accident, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and we'll make sure you aren't "
+"included in the ad selection."
+msgstr ""
+"आप एक फेसबुक बैनर पर आप %(click_count)s पर पहुंच गया है एक बार अपने बैनर, एक"
+" भुगतान फेसबुक विज्ञापन में दिखाए जाने की अनुमति क्लिक करने के लिए बॉक्स की "
+"जाँच की है, तो अपने बैनर एक भुगतान फेसबुक विज्ञापन होने के लिए पात्र हो "
+"जाएगा. इस मोज़िला आप फ़ायरफ़ॉक्स प्यार क्यों की अपने संदेश को साझा करें "
+"फेसबुक विज्ञापन नेटवर्क पर रखा एक विज्ञापन है करने के लिए भुगतान करना होगा "
+"कि इसका मतलब है. अपने बैनर अपने क्षेत्र में एक भुगतान किया विज्ञापन होने के "
+"लिए चुना जाता है, तो हम आपको सूचित करेंगे. आप इस में भाग लेने के लिए नहीं "
+"चाहते, तो आप अपने बैनर का निर्माण करते हैं, ऑप्ट में क्लिक नहीं करते. आप "
+"दुर्घटना से में चुना है, <a href=\"%(link)s\">affiliates@mozilla.org</a> पर "
+"हमसे संपर्क करें और हम आपको विज्ञापन चयन में शामिल नहीं कर रहे हैं सुनिश्चित"
+" करेंगे."
+
+#: affiliates/facebook/templates/facebook/faq.html:100
+msgid ""
+"If I opted in to having my banner become a paid Facebook ad, what exactly am"
+" I giving you permission to do?"
+msgstr ""
+"मैं अपने बैनर एक भुगतान फेसबुक विज्ञापन बनने के बाद में शामिल हुए हैं, क्या "
+"वास्तव में मैं तुम्हें ऐसा करने की अनुमति दे रहा हूँ?"
+
+#: affiliates/facebook/templates/facebook/faq.html:108
+msgid ""
+"You are giving us permission to use, reproduce, distribute, edit, and "
+"display your photo, if it is included in your banner, and your message about"
+" why you love Firefox, for commercial purposes, specifically in a paid ad on"
+" Facebook. You are also acknowledging that you will not be paid for the use "
+"of your banner."
+msgstr ""
+"आप विशेष रूप से फेसबुक पर एक भुगतान किया विज्ञापन में, अमेरिका, उपयोग, "
+"प्रतिलिपि, वितरित, संपादित करें, और इसे अपने बैनर में शामिल है, तो आपकी "
+"तस्वीर को प्रदर्शित करने की अनुमति दे रही है, और आप वाणिज्यिक प्रयोजनों के "
+"लिए, फ़ायरफ़ॉक्स प्यार क्यों के बारे में अपने संदेश जाता है. तुम भी अपने "
+"बैनर के उपयोग के लिए भुगतान नहीं किया जाएगा कि स्वीकार कर रहे हैं."
+
+#: affiliates/facebook/templates/facebook/faq.html:119
+msgid "How do I remove the application?"
+msgstr "मैं कैसे आवेदन को दूर करते हैं?"
+
+#: affiliates/facebook/templates/facebook/faq.html:122
+msgid ""
+"To remove the application, access your applications in the Facebook settings"
+" menu. Delete the application from your list of authorized apps and we'll "
+"delete your Affiliates profile on Facebook and the information associated "
+"with it. Note: Deleting the application on Facebook will not delete your "
+"affiliates.mozilla.org profile if you had one prior to installing the "
+"application. To delete that profile, please contact us at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a>."
+msgstr ""
+"आवेदन को निकालने के लिए फेसबुक सेटिंग्स मेनू में अपनी अनुप्रयोगों का उपयोग. "
+"अधिकृत क्षुधा की अपनी सूची से आवेदन हटाएँ और हम अपने सहयोगियों फेसबुक और "
+"इसके साथ जुड़े जानकारी पर प्रोफ़ाइल हटा देंगे. नोट: यदि आप आवेदन स्थापित "
+"करने से पहले एक था अगर फेसबुक पर आवेदन को हटाने से आपके "
+"affiliates.mozilla.org प्रोफाइल को नष्ट नहीं होगा. उस प्रोफाइल को हटाने के "
+"लिए, <a href=\"%(link)s\">affiliates@mozilla.org</a>पर संपर्क करें."
+
+#: affiliates/facebook/templates/facebook/faq.html:138
+msgid ""
+"How do I connect to my Firefox Affiliates account on affiliates.mozilla.org?"
+msgstr ""
+"मैं कैसे affiliates.mozilla.org पर मेरे फ़ायरफ़ॉक्स सहयोगी कंपनियों के लिए "
+"खाता कनेक्ट करते हैं?"
+
+#: affiliates/facebook/templates/facebook/faq.html:146
+msgid ""
+"To connect your affiliates.mozilla.org account to this application, please "
+"use the connection wizard on the My Banners page. We'll send you an email to"
+" confirm that we've connected the accounts. If you'd like to sign up for an "
+"account, just visit <a href=\"%(link)s\">affiliates.mozilla.org</a>."
+msgstr ""
+"इस आवेदन करने के लिए अपने affiliates.mozilla.org खाते से कनेक्ट करने के लिए,"
+" मेरे बैनर पृष्ठ पर कनेक्शन विज़ार्ड का उपयोग करें. हम खातों जुड़ा है कि "
+"पुष्टि करने के लिए आपको एक ईमेल भेज देंगे. यदि आप एक खाते के लिए साइन अप "
+"करना चाहते हैं तो बस <a href=\"%(link)s\">affiliates.mozilla.org</a>जाएँ."
+
+#. Title of a category of questions on the help page
+#: affiliates/facebook/templates/facebook/faq.html:159
+msgid "Leaderboard and User Statistics"
+msgstr "लीडरबोर्ड और प्रयोक्ता सांख्यिकी"
+
+#: affiliates/facebook/templates/facebook/faq.html:163
+msgid "How often does the leaderboard get updated?"
+msgstr "कितनी बार लीडरबोर्ड अद्यतन प्राप्त करता है?"
+
+#: affiliates/facebook/templates/facebook/faq.html:167
+msgid ""
+"The leaderboard updates every day at midnight Pacific Time, so be sure to "
+"check in to see where you stand."
+msgstr ""
+"लीडरबोर्ड आधी रात प्रशांत समय पर हर दिन अद्यतन है, इसलिए आप कहां खड़े हैं "
+"देखने के लिए जाँच करने के लिए सुनिश्चित हो."
+
+#: affiliates/facebook/templates/facebook/faq.html:182
+msgid ""
+"No, though from time to time we may run contests to see who can get the most"
+" clicks for different Firefox products and campaigns. The winners will get "
+"Firefox T-shirts, hoodies and other awesome things we have at Mozilla HQ."
+msgstr ""
+"नहीं, हालांकि समय-समय पर हम अलग फ़ायरफ़ॉक्स उत्पादों और अभियानों के लिए सबसे"
+" अधिक क्लिक प्राप्त कर सकते हैं देखने के लिए जो प्रतियोगिता चल सकते हैं. "
+"विजेताओं फ़ायरफ़ॉक्स टी शर्ट, हूडीएस और हम मोज़िला मुख्यालय में है अन्य "
+"भयानक चीजें मिल जाएगा."
+
+#: affiliates/facebook/templates/facebook/faq.html:202
+msgid ""
+"Let us know. Send us a note at <a "
+"href=\"%(link)s\">affiliates@mozilla.org</a> and tell us what the problem "
+"is."
+msgstr ""
+"हमें बताइए. <a href=\"%(link)s\">affiliates@mozilla.org</a> पर हमें एक नोट "
+"भेजें और समस्या क्या है हमें बताओ."
+
+#: affiliates/facebook/templates/facebook/first_run.html:8
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:17
+msgid "Welcome to Firefox Affiliates"
+msgstr "फ़ायरफ़ॉक्स सहयोगी कंपनियों में आपका स्वागत है"
+
+#: affiliates/facebook/templates/facebook/first_run.html:11
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:20
+msgid ""
+"This is your one stop shop for telling the world about the only browser that"
+" puts you first: Firefox! Start now by building a banner to post on your "
+"Facebook profile. Get a ton of clicks and we may feature you in a Firefox ad"
+" (with your permission, of course) or send you some great Firefox gear."
+msgstr ""
+"फ़ायरफ़ॉक्स: यह पहली डालता है कि केवल ब्राउज़र के बारे में दुनिया को बताने "
+"के लिए अपने एक बंद दुकान है! अपने फेसबुक प्रोफाइल पर पोस्ट करने के लिए एक "
+"बैनर के निर्माण से अब शुरू करो. क्लिक्स की एक टन हो और हम (बेशक, आपकी अनुमति"
+" के साथ) एक फ़ायरफ़ॉक्स विज्ञापन में आप की सुविधा है या आप कुछ महान "
+"फ़ायरफ़ॉक्स गियर भेज सकते हैं."
+
+#: affiliates/facebook/templates/facebook/first_run.html:20
+#: affiliates/facebook/templates/facebook/pre_auth_promo.html:31
+msgid "Let's go!"
+msgstr "चलो चलो!"
+
+#: affiliates/facebook/templates/facebook/leaderboard.html:11
+msgid "Affiliates with the most clicks"
+msgstr "सबसे क्लिक के साथ सहबद्धों"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:23
+#: affiliates/links/templates/links/widgets/leaderboard.html:4
+msgid "Rank"
+msgstr "पद"
+
+#. Column heading in the leaderboard
+#: affiliates/facebook/templates/facebook/leaderboard.html:25
+msgid "User"
+msgstr "प्रयोक्ता"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:2
+msgid "Hi there!"
+msgstr "नमस्ते!"
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:5
+msgid ""
+"Thank you for linking your Firefox Affiliates account with the Affiliates "
+"Facebook application. Please click on the link below and you'll get credit "
+"for any clicks that you drive through Facebook on the main Affiliates "
+"leaderboard."
+msgstr ""
+"सहबद्धों फेसबुक आवेदन के साथ अपने फ़ायरफ़ॉक्स सहयोगी कंपनियों के खाते में "
+"जोड़ने के लिए धन्यवाद. नीचे दिए गए लिंक पर क्लिक करें और आप आप मुख्य सहयोगी "
+"कंपनियों लीडरबोर्ड पर फेसबुक के माध्यम से ड्राइव उस क्लिक के लिए ऋण प्राप्त "
+"करेंगे."
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:10
+msgid ""
+"If you didn't request to link your account, just ignore this e-mail and your"
+" account will not be linked."
+msgstr ""
+"यदि आप अपने खाते से जोड़ने के लिए अनुरोध नहीं किया था, तो बस इस ई-मेल की "
+"उपेक्षा और अपने खाते लिंक नहीं किया जाएगा."
+
+#. Text used in email sent by application.
+#: affiliates/facebook/templates/facebook/link_activation_email.html:15
+msgid "The Firefox Affiliates team"
+msgstr "फ़ायरफ़ॉक्स सहबद्धों टीम"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:3
+msgid ""
+"Download Firefox (Large Firefox logo rising in front of an orange "
+"background)"
+msgstr ""
+"फ़ायरफ़ॉक्स (बड़े फ़ायरफ़ॉक्स लोगो एक नारंगी रंग की पृष्ठभूमि के सामने "
+"बढ़ती) डाउनलोड"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:5
+msgid "Download Firefox (Small Firefox logo on a light blue background)"
+msgstr ""
+"(एक हल्के नीले रंग की पृष्ठभूमि पर छोटे फ़ायरफ़ॉक्स लोगो) फ़ायरफ़ॉक्स "
+"डाउनलोड करें"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:7
+msgid ""
+"Download Firefox (Large Firefox logo resting on a light blue background)"
+msgstr ""
+"(एक हल्के नीले रंग की पृष्ठभूमि पर बड़े फ़ायरफ़ॉक्स लोगो विश्राम) "
+"फ़ायरफ़ॉक्स डाउनलोड करें"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:9
+msgid ""
+"Download Firefox (For Android. A mobile phone in front of a faded Firefox "
+"logo with a light blue background)"
+msgstr ""
+"(एंड्रॉयड के लिए. एक मोबाइल फोन एक फीका फ़ायरफ़ॉक्स लोगो के सामने एक हल्के "
+"नीले रंग की पृष्ठभूमि के साथ) डाउनलोड फ़ायरफ़ॉक्स"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:11
+msgid ""
+"Download Firefox (For Android. A mobile phone displaying a large Firefox "
+"logo on its screen, over a light blue background)"
+msgstr ""
+"(एंड्रॉयड के लिए. अपनी स्क्रीन पर एक बड़ी फ़ायरफ़ॉक्स लोगो प्रदर्शित कर एक "
+"मोबाइल फोन, एक हल्के नीले रंग की पृष्ठभूमि पर) फ़ायरफ़ॉक्स डाउनलोड करें"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:13
+msgid ""
+"Download Firefox (For Android. Firefox logo floating over a mobile phone "
+"resting on an orange background)"
+msgstr ""
+"फ़ायरफ़ॉक्स डाउनलोड (एक नारंगी रंग की पृष्ठभूमि पर आराम कर रही एक मोबाइल फोन"
+" पर तैरते एंड्रॉयड के लिए. फ़ायरफ़ॉक्स लोगो)"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:15
+msgid ""
+"Download Firefox (Person in a Firefox costume jumping happily on a beach)"
+msgstr ""
+"(एक समुद्र तट पर खुशी से कूद एक फ़ायरफ़ॉक्स पोशाक में व्यक्ति) फ़ायरफ़ॉक्स "
+"डाउनलोड करें"
+
+#. Description of a banner for use in alt attribute for accessibility.
+#: affiliates/facebook/templates/facebook/strings.html:17
+msgid ""
+"Download Firefox (For Android. A mobile phone running Firefox for Android "
+"next to a coffee cup with the Firefox logo on it)"
+msgstr ""
+"डाउनलोड फ़ायरफ़ॉक्स (एंड्रॉयड के लिए. एंड्रॉयड के लिए फ़ायरफ़ॉक्स चल रही एक "
+"मोबाइल फोन पर फ़ायरफ़ॉक्स के लोगो के साथ एक कप कॉफी के बगल में)"
+
+#: affiliates/facebook/templates/facebook/strings.html:21
+msgid ""
+"Firefox Affiliates allows you to build banners and place them on your "
+"Facebook profile to encourage visitors to download Firefox. When a visitor "
+"to your page or status update clicks on a banner and visits the Firefox "
+"download page, you get credit for that click. Affiliates who get a lot of "
+"clicks through their profile will be featured on our leaderboard and be "
+"elegible for fun stuff like Firefox T-shirts. While we do send out prizes "
+"and gifts to our Affiliates from time to time, Firefox Affiliates does not "
+"offer monetary rewards for hosting Firefox banners."
+msgstr ""
+"फ़ायरफ़ॉक्स सहबद्धों आप बैनर बनाने के लिए और फ़ायरफ़ॉक्स डाउनलोड करने के लिए"
+" आगंतुकों को प्रोत्साहित करने के लिए अपने फेसबुक प्रोफाइल पर उन्हें जगह की "
+"अनुमति देता है. अपने पृष्ठ या स्थिति अद्यतन करने के लिए एक आगंतुक एक बैनर पर"
+" क्लिक करता है और फ़ायरफ़ॉक्स डाउनलोड पृष्ठ पर जाता है, तो आप उस क्लिक के "
+"लिए ऋण मिलता है. उनके प्रोफाइल के माध्यम से क्लिक के एक बहुत कुछ मिलता "
+"सहयोगी है जो हमारे लीडरबोर्ड पर छापा और फ़ायरफ़ॉक्स टी शर्ट की तरह मज़ा "
+"सामान के लिए योग्य हो जाएगा. हम समय-समय पर हमारे सहयोगियों को पुरस्कार और "
+"उपहार भेजने के बाहर करते हैं, फ़ायरफ़ॉक्स के सहयोगी कंपनियों फ़ायरफ़ॉक्स "
+"बैनर की मेजबानी के लिए मौद्रिक पुरस्कार प्रदान नहीं करता है."
+
+#: affiliates/facebook/templates/facebook/strings.html:22
+msgid "Mozilla Firefox"
+msgstr "मोज़िला फ़ायरफ़ॉक्स"
+
+#: affiliates/facebook/templates/facebook/strings.html:23
+msgid ""
+"Different by design. It's fast, flexible and secure. Share Firefox with your"
+" friends today."
+msgstr ""
+"डिजाइन द्वारा अलग. यह तेज़, लचीला और सुरक्षित है. आज अपने दोस्तों के साथ "
+"फ़ायरफ़ॉक्स साझा करें."
+
+#: affiliates/facebook/templates/facebook/strings.html:27
+msgid "You will lose credit for all your clicks on this banner."
+msgstr "आप इस बैनर पर अपने सभी क्लिक के लिए क्रेडिट खो देंगे."
+
+#: affiliates/facebook/templates/facebook/strings.html:31
+msgid "Newsletter subscription unavailable at this time."
+msgstr "इस समय अनुपलब्ध न्यूज़लेटर सदस्यता."
+
+#: affiliates/facebook/templates/facebook/strings.html:32
+msgid ""
+"I'd like to receive the Firefox Affiliate newsletter and periodic Firefox "
+"Affiliates updates via email."
+msgstr ""
+"मैं ईमेल के माध्यम से फ़ायरफ़ॉक्स संबद्ध न्यूजलेटर और आवधिक फ़ायरफ़ॉक्स "
+"सहबद्धों अपडेट प्राप्त करना चाहते हैं."
+
+#: affiliates/facebook/templates/facebook/include/sub-nav.html:4
+msgid "Current banners"
+msgstr "वर्तमान बैनर"
+
+#. L10n: "Woot" (w00t) as in internet slang expressing happiness.
+#: affiliates/links/middleware.py:19
+msgid ""
+"Woot! You've driven {num_downloads} downloads and {num_clicks} clicks since "
+"your last visit. Keep rockin'!"
+msgstr ""
+"Woot! आप {num_downloads} डाउनलोड और अपनी पिछली यात्रा के बाद से {num_clicks}"
+" क्लिक्स संचालित है। धमाल मचाते रहो '!"
+
+#: affiliates/links/templates/links/detail.html:12
+#: affiliates/links/templates/links/detail.html:24
+msgid "Banner Details"
+msgstr "बैनर विवरण"
+
+#: affiliates/links/templates/links/detail.html:31
+msgid "Created:"
+msgstr "बनाया गया:"
+
+#: affiliates/links/templates/links/detail.html:34
+msgid "Clicks:"
+msgstr "क्लिक:"
+
+#: affiliates/links/templates/links/detail.html:36
+msgid "Linked URL:"
+msgstr "लिंक्ड URL:"
+
+#: affiliates/links/templates/links/detail.html:40
+msgid "Size:"
+msgstr "आकार:"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Embed code:"
+msgstr "लागु किया गया संहिता:"
+
+#: affiliates/links/templates/links/detail.html:46
+msgid "Use this code to embed this banner on your website."
+msgstr "अपनी वेबसाइट पर इस बैनर एम्बेड करने के लिए इस कोड का प्रयोग करें."
+
+#: affiliates/links/templates/links/leaderboard.html:15
+msgid "Top Affiliates"
+msgstr "शीर्ष सहयोगी"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:5
+#: affiliates/users/models.py:18
+msgid "Affiliate"
+msgstr "संबद्ध"
+
+#: affiliates/links/templates/links/widgets/leaderboard.html:6
+msgid "Number of clicks"
+msgstr "क्लिक की संख्या"
+
+#: affiliates/statistics/templates/statistics/category.html:8
+msgid "{category} Metrics"
+msgstr "{श्रेणी} मेट्रिक्स"
+
+#: affiliates/statistics/templates/statistics/category.html:26
+msgid "Banners"
+msgstr "बैनरों"
+
+#: affiliates/statistics/templates/statistics/index.html:18
+msgid ""
+"Take a look at the impact our Affiliates make on increasing awareness of "
+"Mozilla and its products."
+msgstr ""
+"हमारे सहयोगियों मोज़िला और उसके उत्पादों के बारे में जागरूकता बढ़ाने पर "
+"बनाने के प्रभाव पर एक नजर डालें."
+
+#: affiliates/statistics/templates/statistics/index.html:22
+msgid "Key Metrics"
+msgstr "प्रमुख मैट्रिक्स"
+
+#: affiliates/statistics/templates/statistics/index.html:36
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+#: affiliates/users/views.py:30
+msgid "Your profile has been updated!"
+msgstr "आपका प्रोफाइल अपडेट किया गया है!"
+
+#: affiliates/users/views.py:45
+msgid "You must be logged in to view that page."
+msgstr "आप उस पृष्ठ को देखने के लिए में लॉग इन होना चाहिए."
+
+#: affiliates/users/templates/users/profile.html:21
+msgid "Name: {display_name}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:26
+msgid "Biography: {biography_text}"
+msgstr ""
+
+#: affiliates/users/templates/users/profile.html:31
+msgid "Edit your profile"
+msgstr "अपने प्रोफ़ाइल संपादित करें"
+
+#: affiliates/users/templates/users/profile.html:57
+msgid "Stats"
+msgstr "आँकड़े"
+
+#: affiliates/users/templates/users/profile.html:65
+msgid "Milestones"
+msgstr "मील के पत्थर"

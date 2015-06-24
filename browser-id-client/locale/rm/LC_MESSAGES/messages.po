@@ -1,0 +1,840 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-25 19:01+0200\n"
+"PO-Revision-Date: 2014-04-12 10:20+0000\n"
+"Last-Translator: Davent <davent@gmx.ch>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: rm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1397298058.0\n"
+
+#: lib/email.js:43 lib/email.js:55 lib/email.js:61
+msgid "%(site)s: Complete sign-in"
+msgstr "%(site)s: Cumplettà l'annunzia"
+
+#: lib/email.js:49
+msgid "%(site)s: Complete password reset"
+msgstr "%(site)s: Redefinr il pled-clav"
+
+#: lib/static/views.js:211 lib/static/views.js:272
+msgid "A Better Way to Sign In"
+msgstr "Ina meglra via per s'annunziar"
+
+#: lib/static/views.js:229
+msgid "Unsupported Browser"
+msgstr "Navigatur betg sustegnì"
+
+#: lib/static/views.js:241
+msgid "Unsupported Browser without Watch"
+msgstr "Navigatur betg sustegnì senza Watch"
+
+#: lib/static/views.js:253
+msgid "Cookies Are Disabled"
+msgstr "Ils cookies èn deactivads"
+
+#: lib/static/views.js:276
+msgid "About"
+msgstr "Davart"
+
+#: lib/static/views.js:292 lib/static/views.js:300
+msgid "Terms of Service"
+msgstr "Cundiziuns d'utilisaziun"
+
+#: lib/static/views.js:308 lib/static/views.js:316
+msgid "Privacy Policy"
+msgstr "Directivas per la protecziun da datas"
+
+#: lib/static/views.js:324
+msgid "Complete Registration"
+msgstr "Concluder la registraziun"
+
+#: resources/views/about.ejs:8
+msgid "A simpler way to sign in."
+msgstr "Ina via pli simpla per s'annunziar."
+
+#: resources/views/about.ejs:11
+msgid "Persona replaces multiple passwords"
+msgstr "Persona remplazza plirs pleds-clav"
+
+#: resources/views/about.ejs:12
+msgid ""
+"Sites such as <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> and <a %(voostLink)s>%(voostName)s</a> use Persona "
+"instead of usernames to sign you in."
+msgstr ""
+"Paginas sco <a %(webmakerLink)s>%(webmakerName)s</a>, <a %(openphotoLink)s>"
+"%(openphotoName)s</a> e <a %(voostLink)s>%(voostName)s</a> utiliseschan "
+"Persona empè da nums d'utilisader per s'annunziar."
+
+#: resources/views/about.ejs:21
+msgid "This means you only need one password to sign in to many sites."
+msgstr ""
+"Quai munta che ti dovras be in pled-clav per s'annunziar tar differentas "
+"paginas."
+
+#: resources/views/about.ejs:25
+msgid "One password to rule them all."
+msgstr "In pled-clav per controllar tuts."
+
+#: resources/views/about.ejs:31
+msgid "Use multiple email addresses"
+msgstr "Utilisar diversas adressas dad e-mail"
+
+#: resources/views/about.ejs:35
+msgid "Persona is flexible"
+msgstr "Persona è flexibel"
+
+#: resources/views/about.ejs:36
+msgid ""
+"Within Persona, your identity is your email address. You can use as many "
+"email addresses as you want, but you still only need one password."
+msgstr ""
+"Cun persona è tia adressa dad e-mail tia identitad. Ti pos utilisar tantas "
+"adressas dad e-mail sco ti vuls, tuttina dovras ti be in pled-clav."
+
+#: resources/views/about.ejs:42
+msgid "Real privacy."
+msgstr "Protecziun da datas verdaivla."
+
+#: resources/views/about.ejs:45
+msgid "Persona is proudly non-profit for you"
+msgstr "Persona è losch dad esser senza finamira da profit"
+
+#: resources/views/about.ejs:46
+msgid ""
+"Persona is developed by Mozilla, a not-for-profit company trusted throughout "
+"the Web community. Our goal is to create technologies that balance an open "
+"Web platform with people's privacy."
+msgstr ""
+"Persona vegn sviluppà da Mozilla, ina organisaziun senza finamira da profit "
+"cun fidanza d'ina gronda communitad dal web. Nossa finamira è da crear in "
+"equiliber tranter tecnologias dal web avertas ed la protecziun da tias datas."
+
+#: resources/views/about.ejs:49
+msgid "Persona preserves your privacy"
+msgstr "Persona mantegna tia sfera privata"
+
+#: resources/views/about.ejs:50
+msgid ""
+"Persona does not track your activity around the Web. It creates a wall "
+"between signing you in and what you do once you're there. The history of "
+"what sites you visit is stored only on your own computer."
+msgstr ""
+"Persona na suanda betg tias activitads en il web. Persona creescha ina "
+"paraid tranter l'annunzia e quai che ti fas sche ti es annunzià sin la "
+"pagina. La cronologia da las paginas che ti visitas vegn be memorisada sin "
+"tes computer."
+
+#: resources/views/about.ejs:54
+msgid "Persona for developers"
+msgstr "Persona per sviluppaders"
+
+#: resources/views/about.ejs:54
+msgid "Implement Persona on your site"
+msgstr "Implementescha Persona sin tia pagina"
+
+#: resources/views/about.ejs:54
+msgid "Developer guides and API documentation"
+msgstr "Manual per sviluppaders e la documentaziun da l'API"
+
+#: resources/views/confirm.ejs:9 resources/views/reset_password.ejs:9
+msgid "Finish signing into:"
+msgstr "Terminar da s'annunziar tar:"
+
+#: resources/views/confirm.ejs:12
+msgid "Last step!"
+msgstr "Ultim pass!"
+
+#: resources/views/confirm.ejs:16 resources/views/reset_password.ejs:16
+msgid "Email Address"
+msgstr "Adressa dad e-mail"
+
+#: resources/views/confirm.ejs:17 resources/views/reset_password.ejs:17
+msgid "Your Email"
+msgstr "Tia adressa dad e-mail"
+
+#: resources/views/confirm.ejs:21 resources/views/dialog.ejs:70
+#: resources/views/index.ejs:56 resources/views/reset_password.ejs:22
+msgid "Password"
+msgstr "Pled-clav"
+
+#: resources/views/confirm.ejs:22 resources/views/reset_password.ejs:25
+msgid "Your Password"
+msgstr "Tes pled-clav"
+
+#: resources/views/confirm.ejs:25 resources/views/dialog.ejs:76
+#: resources/views/reset_password.ejs:28
+msgid "Password field required"
+msgstr "Il champ da pled-clav è obligatoric"
+
+#: resources/views/confirm.ejs:29 resources/views/dialog.ejs:84
+msgid "Password incorrect"
+msgstr "Il pled-clav n'è betg correct"
+
+#: resources/views/confirm.ejs:35 resources/views/reset_password.ejs:53
+msgid "finish"
+msgstr "terminar"
+
+#: resources/views/cookies_disabled.ejs:9
+msgid "Persona requires cookies to remember you."
+msgstr "Persona basegna cookies per sa regurdar da tai."
+
+#: resources/views/cookies_disabled.ejs:13
+#, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Serra per plaschair questa fanestra, <a %s>activescha ils cookies</a> ed "
+"emprova anc ina giada"
+
+#: resources/views/dialog.ejs:25 resources/views/dialog.ejs:35
+#, php-format
+msgid "Sign in to %s with&hellip;"
+msgstr "S'annunziar tar %s cun&hellip;"
+
+#: resources/views/dialog.ejs:39
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"You must now use your existing Persona password to log in with this email "
+"address."
+msgstr ""
+"%(idp)s na ta lubescha betg pli da s'annunziar tar Persona cun tes pled-clav "
+"da %(idp)s. Ti stos ussa utilisar tes pled-clav da Persona existent per "
+"s'annunziar cun questa adressa dad e-mail."
+
+#: resources/views/dialog.ejs:43
+msgid "Persona password"
+msgstr "Pled-clav da Persona"
+
+#: resources/views/dialog.ejs:49 resources/views/dialog.ejs:50
+msgid "email address"
+msgstr "adressa dad e-mail"
+
+#: resources/views/dialog.ejs:53
+msgid "Must be an email address"
+msgstr "Sto esser ina adressa dad e-mail"
+
+#: resources/views/dialog.ejs:57
+msgid "Email field required"
+msgstr "Il champ dad e-mail è obligatoric"
+
+#: resources/views/dialog.ejs:66 resources/views/dialog.ejs:93
+#: resources/views/dialog.ejs:137
+msgid "Forgot your password?"
+msgstr "Emblidà tes pled-clav?"
+
+#: resources/views/dialog.ejs:72
+msgid "Enter password"
+msgstr "Endatar il pled-clav"
+
+#: resources/views/dialog.ejs:73
+msgid "password"
+msgstr "pled-clav"
+
+#: resources/views/dialog.ejs:80
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"La confermaziun iniziala è vegnida tramessa  &ndash; spetga in mument avant "
+"che dumandar per in'autra"
+
+#: resources/views/dialog.ejs:99
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Cun cuntinuar decleras ti che ti es d'accord cun las <a "
+"%(terms)s>cundiziuns</a> e las <a %(privacy)s>directivas per la protecziun "
+"da datas</a> da %(site)s."
+
+#: resources/views/dialog.ejs:113
+msgid "next"
+msgstr "enavant"
+
+#: resources/views/dialog.ejs:117
+msgid "continue"
+msgstr "cuntinuar"
+
+#: resources/views/dialog.ejs:121 resources/views/dialog.ejs:129
+#: resources/views/dialog.ejs:133 resources/views/index.ejs:59
+msgid "cancel"
+msgstr "interrumper"
+
+#: resources/views/dialog.ejs:125
+msgid "sign in"
+msgstr "s'annunziar"
+
+#: resources/views/dialog.ejs:172
+msgid "OK"
+msgstr "OK"
+
+#: resources/views/dialog_layout.ejs:37 resources/views/layout.ejs:21
+#, php-format
+msgid "Mozilla Persona: %s"
+msgstr "Mozilla Persona: %s"
+
+#: resources/views/dialog_layout.ejs:58
+msgid "Connecting to Persona..."
+msgstr "Connectar a Persona…"
+
+#: resources/views/dialog_layout.ejs:68
+#, php-format
+msgid ""
+"<strong>Mozilla Persona.</strong> Simple sign-in from the non-profit behind "
+"Firefox. <a %s>Learn more&rarr;</a>"
+msgstr ""
+"<strong>Mozilla Persona.</strong> Il sistem d'annunzia simpel, creà da "
+"l'organisaziun senza finamira da profit che fa Firefox. <a %s>Ulteriuras "
+"infurmaziuns &rarr;</a>"
+
+#: resources/views/index.ejs:10
+msgid "Connect with Mozilla Persona, the safest &amp; easiest way to sign in."
+msgstr ""
+"Ta collia cun Mozilla Persona, la via la pli segira e simpla per s'annunziar."
+
+#: resources/views/index.ejs:12
+msgid "<a %(aboutLink)s>Take the tour</a>"
+msgstr "<a %(aboutLink)s>Scuvrir Persona</a>"
+
+#: resources/views/index.ejs:29
+msgid "remove"
+msgstr "allontanar"
+
+#: resources/views/index.ejs:36
+msgid "New to Mozilla Persona? <a %(learnMoreLink)s>Learn more</a>"
+msgstr ""
+"Nov tar Mozilla Persona? <a %(learnMoreLink)s>Ulteriuras infurmaziuns</a>"
+
+#: resources/views/index.ejs:40
+msgid "Account Manager"
+msgstr "Administraziun dal conto"
+
+#: resources/views/index.ejs:44
+msgid "Your Email Addresses"
+msgstr "Tia adressa dad e-mail"
+
+#: resources/views/index.ejs:46 resources/views/index.ejs:58
+msgid "edit"
+msgstr "modifitgar"
+
+#: resources/views/index.ejs:47 resources/views/index.ejs:69
+msgid "done"
+msgstr "terminar"
+
+#: resources/views/index.ejs:63
+msgid "Old Password"
+msgstr "Pled-clav vegl"
+
+#: resources/views/index.ejs:66
+msgid "New Password"
+msgstr "Pled-clav nov"
+
+#: resources/views/index.ejs:72
+msgid "Old password required"
+msgstr "Il pled-clav vegl è obligatoric"
+
+#: resources/views/index.ejs:75
+msgid "Old password incorrect"
+msgstr "Il pled-clav vegl n'è betg correct"
+
+#: resources/views/index.ejs:78
+msgid "New password required"
+msgstr "Il pled-clav nov è obligatoric"
+
+#: resources/views/index.ejs:81
+msgid "Passwords must be different"
+msgstr "Ils pleds-clav ston esser differents"
+
+#: resources/views/index.ejs:84 resources/views/reset_password.ejs:32
+msgid "Password must be 8&ndash;80 characters long"
+msgstr "Il pled-clav sto cuntegnair tranter 8 ed 80 caracters"
+
+#: resources/views/index.ejs:90
+msgid "You may, at any time, <a %(cancelLink)s>cancel your account</a>"
+msgstr "Ti pos adina <a %(cancelLink)s>stizzar tes conto</a>"
+
+#: resources/views/layout.ejs:32
+msgid "Persona Home"
+msgstr "Partenza da Persona"
+
+#: resources/views/layout.ejs:35
+msgid "How it works"
+msgstr "Co funcziunescha quai?"
+
+#: resources/views/layout.ejs:36
+msgid "Account"
+msgstr "Conto"
+
+#: resources/views/layout.ejs:38
+msgid "Sign In"
+msgstr "S'annunziar"
+
+#: resources/views/layout.ejs:39
+msgid "Sign Out"
+msgstr "Sortir"
+
+#: resources/views/layout.ejs:56
+#, php-format
+msgid "By the <a %s>Identity Team</a> @ <a %s>Mozilla</a>"
+msgstr "Da l'<a %s>Identity Team</a> da <a %s>Mozilla</a>"
+
+#: resources/views/layout.ejs:58
+msgid "Privacy &rarr;"
+msgstr "Protecziun da datas &rarr;"
+
+#: resources/views/layout.ejs:59
+msgid "TOS &rarr;"
+msgstr "Cundiziuns d'utilisaziun &rarr;"
+
+#: resources/views/layout.ejs:60
+msgid "Developers &rarr;"
+msgstr "Sviluppaders &rarr;"
+
+#: resources/views/layout.ejs:62
+msgid "Need Help? &rarr;"
+msgstr "Dovras agid? &rarr;"
+
+#: resources/views/partial/noscript-warning.ejs:5
+msgid "We're sorry, Persona requires that Javascript is enabled."
+msgstr "Perstgisa, ma per utilisar Persona stos ti activar JavaScript."
+
+#: resources/views/reset_password.ejs:12
+msgid "Reset Password"
+msgstr "Redefinir il pled-clav"
+
+#: resources/views/reset_password.ejs:24
+#, php-format
+msgid "Create a new password to use with %s"
+msgstr "Crear in nov pled-clav per utilisar cun %s"
+
+#: resources/views/reset_password.ejs:37 resources/views/reset_password.ejs:38
+msgid "Verify Password"
+msgstr "Verifitgar il pled-clav"
+
+#: resources/views/reset_password.ejs:41
+msgid "Verification password required"
+msgstr "La verificaziun dal pled-clav è necessaria"
+
+#: resources/views/reset_password.ejs:45
+msgid "Passwords don&rsquo;t match!"
+msgstr "Quests pleds-clav na correspundan betg!"
+
+#: resources/views/reset_password.ejs:60
+msgid "<strong class=\"email\">Your address</strong> has been verified!"
+msgstr "<strong class=\"email\">Tia adressa</strong> è vegnida verifitgada!"
+
+#: resources/views/reset_password.ejs:64
+#, php-format
+msgid ""
+"Your new address is set up and ready to go. You will be redirected to %s"
+msgstr "Tia nova adressa è configurada e pronta. Ti vegns renvià a %s"
+
+#: resources/views/reset_password.ejs:68
+#, php-format
+msgid "Redirecting in %s seconds"
+msgstr "Renviar en %s secundas"
+
+#: resources/views/unsupported_dialog.ejs:9
+msgid "We are sorry, but currently your browser is not supported."
+msgstr "Perstgisa, ma tes navigatur na vegn actualmain betg sustegnì."
+
+#: resources/views/unsupported_dialog.ejs:14
+msgid "Firefox logo"
+msgstr "Logo da Firefox"
+
+#: resources/views/unsupported_dialog.ejs:18
+msgid "Persona works with <a %(getFirefoxLink)s>Firefox</a>"
+msgstr "Persona funcziunescha cun <a %(getFirefoxLink)s>Firefox</a>"
+
+#: resources/views/unsupported_dialog.ejs:20
+msgid "and other <a %(otherBrowserLink)s>modern browsers.</a>"
+msgstr "ed auters <a %(otherBrowserLink)s>navigaturs moderns</a>."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:9
+msgid "Sorry, your browser does not support signing in to this website."
+msgstr ""
+"Perstgisa, tes navigatur na lubescha betg da s'annunziar tar questa pagina "
+"d'internet."
+
+#: resources/views/unsupported_dialog_without_watch.ejs:13
+#, php-format
+msgid ""
+"The owner of this website needs to update to use Persona's <a %s>navigator."
+"id.watch()</a> feature."
+msgstr ""
+"Il possessur da questa paigna d'internet sto far ina actualisaziun, per "
+"utilisar la funcziun <a %s>navigator.id.watch()</a>."
+
+#: resources/email_templates/_footer.html.ejs:17
+#, php-format
+msgid ""
+"<a %s><strong>Mozilla Persona.</strong></a> Simple sign-in from the non-"
+"profit behind Firefox."
+msgstr ""
+"<a %s><strong>Mozilla Persona.</strong></a> Il sistem d'annunzia simpel, "
+"creà da l'organisaziun senza finamira da profit che fa Firefox."
+
+#: resources/email_templates/confirm.ejs:1
+#: resources/email_templates/confirm.html.ejs:5
+#: resources/email_templates/new.ejs:1
+#: resources/email_templates/new.html.ejs:6
+#: resources/email_templates/transition.ejs:3
+#: resources/email_templates/transition.html.ejs:8
+msgid "Click this link to confirm access to %(site)s:"
+msgstr "Clicca sin questa colliaziun per confermar l'annunzia tar %(site)s:"
+
+#: resources/email_templates/confirm.ejs:4
+#: resources/email_templates/confirm.html.ejs:29
+#: resources/email_templates/new.ejs:4
+#: resources/email_templates/new.html.ejs:30
+#: resources/email_templates/transition.ejs:6
+#: resources/email_templates/transition.html.ejs:32
+msgid "If you were NOT attempting this sign-in, please ignore this email."
+msgstr ""
+"Sche ti n'has BETG empruvà da t'annunziar, ignorescha p.pl. quest e-mail."
+
+#: resources/email_templates/confirm.ejs:6 resources/email_templates/new.ejs:6
+#: resources/email_templates/reset.ejs:8
+#: resources/email_templates/transition.ejs:8
+msgid "Mozilla Persona"
+msgstr "Mozilla Persona"
+
+#: resources/email_templates/confirm.ejs:7 resources/email_templates/new.ejs:7
+#: resources/email_templates/reset.ejs:9
+#: resources/email_templates/transition.ejs:9
+msgid "Simple sign-in from the non-profit behind Firefox"
+msgstr ""
+"Il sistem d'annunzia simpel, creà da l'organisaziun senza finamira da profit "
+"che fa Firefox"
+
+#: resources/email_templates/confirm.ejs:8 resources/email_templates/new.ejs:8
+#: resources/email_templates/reset.ejs:10
+#: resources/email_templates/transition.ejs:10
+msgid "Learn more at https://login.persona.org/about"
+msgstr "Dapli infurmaziuns sin https://login.persona.org/about"
+
+#: resources/email_templates/confirm.html.ejs:17
+#: resources/email_templates/transition.html.ejs:20
+msgid "Confirm your address now"
+msgstr "Conferma tia adressa dad e-mail"
+
+#: resources/email_templates/new.html.ejs:18
+msgid "Confirm your account now"
+msgstr "Conferma uss tes conto"
+
+#: resources/email_templates/reset.ejs:1
+#: resources/email_templates/reset.html.ejs:5
+msgid "Forgot your password for Persona? It happens to the best of us."
+msgstr "Has emblidà tes pled-clav per Persona? Quai po capitar a nus tuts."
+
+#: resources/email_templates/reset.ejs:3
+msgid "Click to reset your password:"
+msgstr "Clicca per redefinir tes pled-clav:"
+
+#: resources/email_templates/reset.ejs:6
+#: resources/email_templates/reset.html.ejs:29
+msgid ""
+"If you were NOT attempting to reset your password, please ignore this email."
+msgstr ""
+"Sche ti n'emprovas BETG da redefinir tes pled-clav, ignorescha simplamain "
+"quest e-mail."
+
+#: resources/email_templates/reset.html.ejs:17
+msgid "Reset your password now"
+msgstr "Redefinescha uss tes pled-clav"
+
+#: resources/email_templates/transition.ejs:1
+#: resources/email_templates/transition.html.ejs:5
+msgid ""
+"It looks like your email provider is having trouble with their Persona "
+"support."
+msgstr ""
+"Sco para ha tes purschider dad e-mail difficultads cun il sustegn da Persona."
+
+#~ msgid "Sign in with Persona"
+#~ msgstr "S'annunziar cun Persona"
+
+#~ msgid ""
+#~ "Note: If you did NOT ask to reset your password, please ignore this email."
+#~ msgstr ""
+#~ "Remartga: Sche ti n'emprovas BETG da redefinir tes pled-clav, ignorescha "
+#~ "simplamain quest e-mail."
+
+#~ msgid "Simplified sign-on."
+#~ msgstr "Annunzia simplifitgada."
+
+#~ msgid "%s uses Persona instead of usernames to sign you in."
+#~ msgstr ""
+#~ "%s utilisescha Persona empè d'in num d'utilisader che ti pos s'annunziar."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Endatar tia adressa dad e-mail"
+
+#~ msgid "Now enter your Persona password."
+#~ msgstr "Endatar ussa tes pled-clav da Persona."
+
+#~ msgid "enter email address"
+#~ msgstr "endatar l'adressa dad e-mail"
+
+#~ msgid "Thank you for using Persona."
+#~ msgstr "Grazia per utilisar Persona."
+
+#~ msgid "Thank you,"
+#~ msgstr "Grazia,"
+
+#~ msgid "The Persona team"
+#~ msgstr "Il team da Persona"
+
+#~ msgid "Click here to reset your password."
+#~ msgstr "Clicca qua per redefinir tes pled-clav."
+
+#~ msgid ""
+#~ "To continue, you need to re-confirm this email address and set up a new, "
+#~ "Persona-specific password."
+#~ msgstr ""
+#~ "Per cuntinuar stos ti re-confermar questa adressa dad e-mail e definir in "
+#~ "pled-clav nov, specific per Persona."
+
+#~ msgid "Click to set your new password:"
+#~ msgstr "Clicca per definir tes pled-clav:"
+
+#~ msgid "The Persona Team"
+#~ msgstr "Il team da Persona"
+
+#~ msgid "Click here to set your new password."
+#~ msgstr "Clicca qua per definir tes nov pled-clav."
+
+#~ msgid "The account cannot be verified with this username and password."
+#~ msgstr ""
+#~ "Il conto na po betg vegnir verifitgà cun quest num d'utilisader e quest "
+#~ "pled-clav."
+
+#~ msgid ""
+#~ "We just sent an email to that address! If you really want to send "
+#~ "another, wait a minute or two and try again."
+#~ msgstr ""
+#~ "Nus avain gist tramess in e-mail a questa adressa! Sche ti vuls propi "
+#~ "trametter anc in stos ti spetgar ina u duas minutas ed alura empruvar anc "
+#~ "ina giada."
+
+#~ msgid "This email address and password do not match."
+#~ msgstr "Questa adressa dad e-mail ed il pled-clav na tutgan betg ensemen."
+
+#~ msgid "The password field is required."
+#~ msgstr "Il champ da pled-clav è obligatoric."
+
+#~ msgid "Incorrect old password, password not updated."
+#~ msgstr ""
+#~ "Il pled-clav vegl n'è betg correct, il pled-clav n'è betg vegnì midà."
+
+#~ msgid "Old and new passwords are the same."
+#~ msgstr "Il pled-clav vegl ed il pled-clav nov èn il medem."
+
+#~ msgid "To sign in with Persona, please enter your email address."
+#~ msgstr "Endatescha tia adressa dad e-mail per s'annunziar cun Persona."
+
+#~ msgid "Checking with your email provider."
+#~ msgstr "Controllar tar tes purschider dad e-mails."
+
+#~ msgid "Sign In Complete"
+#~ msgstr "S'annunzià cumplettamain"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Emblidà il pled-clav"
+
+#~ msgid "Email Verification"
+#~ msgstr "Verificaziun da l'adressa dad e-mail"
+
+#~ msgid "Check your email at <strong %(checkId)s></strong>."
+#~ msgstr "Legia tes e-mails tar <strong %(checkId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. Your password will then be "
+#~ "reset."
+#~ msgstr ""
+#~ "Clicca sin la colliaziun en l'e-mail da confermaziun. Tes pled-clav vegn "
+#~ "redefinì."
+
+#~ msgid "Non existent user!"
+#~ msgstr "Utilisader betg existent!"
+
+#~ msgid "Cannot reset the password of that address."
+#~ msgstr "Il pled-clav da questa adressa na po betg vegnir redefinida."
+
+#~ msgid "Know your password? Sign in."
+#~ msgstr "Enconuschas ti tes pled-clav? S'annunzia."
+
+#~ msgid "This window will now close and account creation will continue."
+#~ msgstr ""
+#~ "Questa fanestra vegn ussa a sa serrar e la creaziun dal conto vegn "
+#~ "cuntinuar."
+
+#~ msgid "Check your email at <strong %(emailId)s></strong>."
+#~ msgstr "Legia tes e-mails tar <strong %(emailId)s></strong>."
+
+#~ msgid ""
+#~ "Click the link in the confirmation email. You'll then immediately be "
+#~ "signed into Persona."
+#~ msgstr ""
+#~ "Clicca sin la colliaziun en l'e-mail da confermaziun. Ti vegns alura "
+#~ "immediatamain annunzià tar Persona."
+
+#~ msgid "forgot your password?"
+#~ msgstr "emblidà tes pled-clav?"
+
+#~ msgid ""
+#~ "Your email address is new to us. Please create a password to use with "
+#~ "Persona."
+#~ msgstr ""
+#~ "Tia adressa dad e-mail è nova per nus. Creescha p.pl. in pled-clav per "
+#~ "utilisar cun Persona."
+
+#~ msgid "verify password"
+#~ msgstr "verifitgar il pled-clav"
+
+#~ msgid ""
+#~ "By proceeding, you agree to %(persona)s's <a %(termsLink)s>Terms</a> and "
+#~ "<a %(privacyLink)s>Privacy Policy</a>."
+#~ msgstr ""
+#~ "Cun cuntinuar decleras ti che ti es d'accord cun las <a "
+#~ "%(termsLink)s>cundiziuns</a> e las <a %(privacyLink)s>directivas per la "
+#~ "protecziun da datas</a> da %(persona)s."
+
+#~ msgid "Next"
+#~ msgstr "Enavant"
+
+#~ msgid "Verify Email"
+#~ msgstr "Verifitgar l'adressa dad e-mail"
+
+#~ msgid ""
+#~ "To verify that you own <strong %(emailId)s>this address</strong>, you "
+#~ "must sign in with your provider. A new window will be opened."
+#~ msgstr ""
+#~ "Per verifitgar che ti possedas <strong %(emailId)s>questa adressa</"
+#~ "strong>, stos ti s'annunziar tar tes purschider. Ina nova fanestra vegn "
+#~ "averta."
+
+#~ msgid "Verify"
+#~ msgstr "Verifitgar"
+
+#~ msgid ""
+#~ "Thank you for signing up with <strong>Persona</strong>. You can now use "
+#~ "your Persona account to <em>Sign In</em> or <em>Sign Up</em> to websites "
+#~ "all across the web!"
+#~ msgstr ""
+#~ "Grazia per ta registrar tar <strong>Persona</strong>. Ussa pos ti "
+#~ "utilisar tes conto da Persona per <em>t'annunziar</em> u <em>ta "
+#~ "registrar</em> tar websites en tut l'internet!"
+
+#~ msgid "Sign Up"
+#~ msgstr "Ta registrar"
+
+#~ msgid ""
+#~ "<strong %(emailId)s>Email</strong> is not registered. Would you like to "
+#~ "<a %(signUpLink)s>sign up</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s>L'adressa dad e-mail</strong> n'è betg registrada. "
+#~ "Vuls ti <a %(signUpLink)s>ta registrar</a>?"
+
+#~ msgid "New to Persona? Sign up today."
+#~ msgstr "Nov tar Persona? Ta registrescha anc oz."
+
+#~ msgid ""
+#~ "To verify that you own <strong %(primaryId)s>address</strong>, you must "
+#~ "sign in with your provider.  A new window will be opened."
+#~ msgstr ""
+#~ "Per verifitgar che ti possedas questa <strong %(primaryId)s>adressa</"
+#~ "strong>, stos ti s'annunziar cun tes purschider. Ina nova fanestra vegn "
+#~ "averta."
+
+#~ msgid ""
+#~ "<strong %(emailId)s></strong> is already registered. Would you like to <a "
+#~ "%(signInLink)s>sign in</a> instead?"
+#~ msgstr ""
+#~ "<strong %(emailId)s></strong> è gia registrà. Vuls ti <a "
+#~ "%(signInLink)s>s'annunziar</a>?"
+
+#~ msgid "Existing account? Sign in."
+#~ msgstr "Conto existent? S'annunziar."
+
+#~ msgid "Complete Login to %s using Persona"
+#~ msgstr "S'annunziar tar %s cun Persona"
+
+#~ msgid "Communicating with server"
+#~ msgstr "Communitgar cun il server"
+
+#~ msgid "Just a moment while we talk with the server."
+#~ msgstr "Be in mument durant che nus communitgain cun il server."
+
+#~ msgid ""
+#~ "Mozilla Persona is the fast and secure way to sign in.  <a %s>Learn more "
+#~ "&rarr;</a>"
+#~ msgstr ""
+#~ "Mozilla Persona è la via sperta e segira per s'annunziar.  <a "
+#~ "%s>Ulteriuras infurmaziuns</a>"
+
+#~ msgid ""
+#~ "Thanks for verifying your email address. This message is being sent to "
+#~ "you to complete your sign-in to %s."
+#~ msgstr ""
+#~ "Grazia per verifitgar tia adressa dad e-mail. Quest messadi ta vegn "
+#~ "tramess per cumplettar tia annunzia tar %s."
+
+#~ msgid "Finish registration by clicking this link:"
+#~ msgstr "Terminescha la registraziun cun suandar a questa colliaziun:"
+
+#~ msgid "Persona"
+#~ msgstr "Persona"
+
+#~ msgid ""
+#~ "Error encountered while attempting to confirm your address. Have you "
+#~ "previously verified this address?"
+#~ msgstr ""
+#~ "Ina errur è cumparida durant confermar tia adressa. Has ti gia confermà "
+#~ "pli baud questa adressa?"
+
+#~ msgid "Error encountered trying to complete registration."
+#~ msgstr "Ina errur è cumparida durant l'emprova da terminar la registraziun."
+
+#~ msgid ""
+#~ "Your new address is set up and you should now be signed in. You may now "
+#~ "close this window and go back to"
+#~ msgstr ""
+#~ "Tia nova adressa è registrada e ti duessas ussa esser t'annunzià. Ti pos "
+#~ "ussa serrar questa fanestra e returnar a "
+
+#~ msgid ""
+#~ "There was a problem with your signup link. Has this address already been "
+#~ "registered?"
+#~ msgstr ""
+#~ "Ina errur è cumparida cun tes link da s'annunziar. È questa adressa gia "
+#~ "vegnida registrada?"
+
+#~ msgid "BrowserID"
+#~ msgstr "BrowserID"
+
+#~ msgid "BrowserID: %s"
+#~ msgstr "BrowserID: %s"
+
+#~ msgid "BrowserID Home"
+#~ msgstr "Partenza da BrowserID"
+
+#~ msgid "TOS"
+#~ msgstr "Cundiziuns d'utilisaziun"
+
+#~ msgid "Error communicating with server."
+#~ msgstr "Errur durant communitgar cun il server."
+
+#~ msgid "Browser ID"
+#~ msgstr "BrowserID"

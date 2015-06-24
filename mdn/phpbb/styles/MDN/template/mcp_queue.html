@@ -1,0 +1,82 @@
+<!-- INCLUDE mcp_header.html -->
+
+<form id="mcp" method="post" action="{S_MCP_ACTION}" class="user-input">
+
+<fieldset class="forum-selection">
+	<label for="fo">{L_FORUM}: <select name="f" id="fo">{S_FORUM_OPTIONS}</select></label>
+	<button type="submit" name="sort" value="{L_GO}" class="btn-sub">{L_GO}</button>
+	{S_FORM_TOKEN}
+</fieldset>
+
+<h2 class="section-title">{L_TITLE}</h2>
+<p>{L_EXPLAIN}</p>
+
+	<!-- IF .postrow -->
+		<div class="actions">
+			<p class="pages">
+				<!-- IF TOTAL --> {TOTAL}<!-- ENDIF -->
+				<!-- IF PAGE_NUMBER --><!-- IF PAGINATION --> | <a href="#" onclick="jumpto(); return false;" title="{L_JUMP_TO_PAGE}">{PAGE_NUMBER}</a> | <span class="pagination">{PAGINATION}</span><!-- ELSE --> | {PAGE_NUMBER}<!-- ENDIF --><!-- ENDIF -->
+			</p>
+		</div>
+		
+		<table class="topiclist">
+			<thead>
+				<tr>
+					<th scope="col" class="info"><!-- IF S_TOPICS -->{L_TOPIC}<!-- ELSE -->{L_POST}<!-- ENDIF --></th>
+					<th scope="col"><!-- IF not S_TOPICS -->{L_TOPIC} &amp; <!-- ENDIF -->{L_FORUM}</th>
+					<th scope="col" class="select">{L_MARK}</th>
+				</tr>
+			</thead>
+			<tbody>
+		<!-- BEGIN postrow -->
+		  <tr class="row<!-- IF postrow.S_ROW_COUNT is odd --> bg1<!-- ELSE --> bg2<!-- ENDIF -->">
+		<!-- IF postrow.S_DELETED_TOPIC -->
+        <td colspan="3">{L_DELETED_TOPIC}</td>
+    <!-- ELSE -->
+				<td class="info">
+					<h3 class="title"><a class="view" href="{postrow.U_VIEW_DETAILS}">{postrow.POST_SUBJECT}</a></h3>
+					<p class="meta">{L_POSTED} {L_POST_BY_AUTHOR} {postrow.POST_AUTHOR_FULL} :: {postrow.POST_TIME}</p>
+				</td>
+				<td>
+						<!-- IF S_TOPICS --><!-- ELSE -->{L_TOPIC}: <a href="{postrow.U_TOPIC}">{postrow.TOPIC_TITLE}</a> <br /><!-- ENDIF -->
+						{L_FORUM}: <a href="{postrow.U_VIEWFORUM}">{postrow.FORUM_NAME}</a>
+				</td>
+		 		<td class="select"><input type="checkbox" name="post_id_list[]" value="{postrow.POST_ID}" /></td>
+		<!-- ENDIF -->
+		  </tr>
+		<!-- END postrow -->
+		</tbody>
+  </table>
+
+		<fieldset class="display-options actions foot">
+		<!-- IF NEXT_PAGE or PREVIOUS_PAGE -->
+		  <ul class="nav-paging">
+			<!-- IF NEXT_PAGE --><li class="next"><a href="{NEXT_PAGE}" class="btn-sub {S_CONTENT_FLOW_END}">{L_NEXT}</a></li><!-- ENDIF -->
+			<!-- IF PREVIOUS_PAGE --><li class="prev"><a href="{PREVIOUS_PAGE}" class="btn-sub {S_CONTENT_FLOW_BEGIN}">{L_PREVIOUS}</a></li><!-- ENDIF -->
+			</ul>
+		<!-- ENDIF -->
+		  <p class="sorting">
+  			<label>{L_DISPLAY_POSTS}: {S_SELECT_SORT_DAYS}</label>
+  			<label>{L_SORT_BY} {S_SELECT_SORT_KEY}</label><label>{S_SELECT_SORT_DIR}</label>
+  			<!-- IF TOPIC_ID --><label><input type="checkbox" class="radio" name="t" value="{TOPIC_ID}" checked="checked" />&nbsp; <strong>{L_ONLY_TOPIC}</strong></label><!-- ENDIF -->
+  			<button type="submit" name="sort" value="{L_GO}" class="btn-sub">{L_GO}</button>
+  		</p>
+			<p class="pages"><!-- IF PAGE_NUMBER --><!-- IF PAGINATION --><a href="#" onclick="jumpto(); return false;" title="{L_JUMP_TO_PAGE}">{PAGE_NUMBER}</a> | <span class="pagination">{PAGINATION}</span><!-- ELSE --> | {PAGE_NUMBER}<!-- ENDIF --><!-- ENDIF --></p>
+		</fieldset>
+
+		<div class="actions foot">
+			<!-- IF .postrow -->
+    		<p class="mark"><a href="#" onclick="marklist('mcp', 'post_id_list', true); return false;">{L_MARK_ALL}</a> | <a href="#" onclick="marklist('mcp', 'post_id_list', false); return false;">{L_UNMARK_ALL}</a></p>
+        <p class="buttons">
+    		  <button type="submit" name="action[disapprove]" value="{L_DISAPPROVE}">{L_DISAPPROVE}</button>
+    		  <button type="submit" name="action[approve]" value="{L_APPROVE}">{L_APPROVE}</button>
+    		</p>
+      <!-- ENDIF -->
+		</div>
+	<!-- ELSE -->
+		<p><strong><!-- IF S_TOPICS -->{L_NO_TOPICS_QUEUE}<!-- ELSE -->{L_UNAPPROVED_POSTS_ZERO_TOTAL}<!-- ENDIF --></strong></p>
+	<!-- ENDIF -->
+
+</form>
+
+<!-- INCLUDE mcp_footer.html -->

@@ -1,0 +1,389 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Besnik Bleta <besnik@programeshqip.org>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-26 16:03+0200\n"
+"PO-Revision-Date: 2013-08-07 17:18+0200\n"
+"Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: resources/static/common/js/error-messages.js:38
+msgid ""
+"There was a problem with your signup link. Has this address already been "
+"registered?"
+msgstr ""
+"Pati një problem me lidhjen për regjistrimin tuaj. Mos vallë kjo adresë "
+"është regjistruar një herë?"
+
+#: resources/static/common/js/error-messages.js:42
+msgid "Error encountered trying to complete registration."
+msgstr "Gabim i ndeshur gjatë provës për plotësimin e regjistrimit."
+
+#: resources/static/common/js/error-messages.js:58
+#: resources/static/dialog/views/error.ejs:16
+msgid "Persona requires cookies to remember you."
+msgstr "Që t'ju mbajë mend, Persona lyp \"cookies\"."
+
+#: resources/static/common/js/error-messages.js:59
+#: resources/static/dialog/views/error.ejs:18
+#, perl-format, php-format
+msgid "Please close this window, <a %s>enable cookies</a> and try again"
+msgstr ""
+"Ju lutemi, mbylleni këtë dritare, <a %s>aktivizoni cookie-t</a> dhe riprovoni"
+
+#: resources/static/common/js/error-messages.js:160
+msgid "Communication Error"
+msgstr "Gabim Ndërlidhjeje"
+
+#: resources/static/common/js/wait-messages.js:9
+msgid "Finishing Sign In..."
+msgstr "Po përfundohet Hyrja..."
+
+#: resources/static/common/js/wait-messages.js:10
+msgid "In just a moment you'll be signed into Persona."
+msgstr "Edhe një çast edhe do të jeni futur te Persona."
+
+#: resources/static/common/js/wait-messages.js:14
+msgid "We are sorry, this is taking longer than it should."
+msgstr "Na ndjeni, kjo po ha më shumë kohë se sa do të duhej."
+
+#: resources/static/common/js/wait-messages.js:15
+msgid ""
+"If this doesn't resolve itself within a few seconds, please close the window "
+"and try again."
+msgstr ""
+"Nëse kjo nuk zgjidhet brenda pak sekondash, ju lutemi, mbylleni dritaren dhe "
+"riprovoni."
+
+#: resources/static/dialog/js/modules/authenticate.js:113
+#: resources/static/dialog//js/modules/authenticate.js:113
+#: resources/static/dialog/views/add_email.ejs:32
+msgid "Checking with your email provider."
+msgstr "Po kontrollohet me mundësuesin tuaj të email-it."
+
+#: resources/static/dialog/js/modules/pick_email.js:52
+#: resources/static/dialog//js/modules/pick_email.js:52
+msgid "The selected email is invalid or has been deleted."
+msgstr "Email-i i përzgjedhur është i pavlefshëm ose është fshirë."
+
+#: resources/static/pages/js/manage_account.js:54
+msgid "Remove %(email)s from your Persona account?"
+msgstr "Të hiqet %(email)s nga llogaria juaj Persona?"
+
+#: resources/static/pages/js/manage_account.js:65
+msgid ""
+"Removing the last address will cancel your Persona account.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Heqja e adresës së fundit do të shkaktojë mbylljen e llogarisë suaj "
+"Persona.\n"
+"Jeni i sigurt se doni të vazhdohet?"
+
+#: resources/static/pages/js/manage_account.js:106
+msgid "Are you sure you want to delete your Persona account?"
+msgstr "Jeni i sigurt që doni të fshini llogarinë tuaj Persona?"
+
+#: resources/static/dialog/views/add_email.ejs:7
+#: resources/static/dialog/views/pick_email.ejs:35
+msgid "Add an email address"
+msgstr "Shtoni një adresë email"
+
+#: resources/static/dialog/views/add_email.ejs:12
+msgid "email address"
+msgstr "adresë email"
+
+#: resources/static/dialog/views/add_email.ejs:15
+msgid "Must be an email address"
+msgstr "Duhet të jetë një adresë email"
+
+#: resources/static/dialog/views/add_email.ejs:19
+msgid "Email field required"
+msgstr "Fusha e email-it është e domosdoshme"
+
+#: resources/static/dialog/views/add_email.ejs:23
+#: resources/static/dialog/views/set_password.ejs:48
+msgid ""
+"Initial confirmation sent &ndash; wait a few minutes before requesting "
+"another"
+msgstr ""
+"Ripohimi fillestar u dërgua &ndash; prisni disa minuta përpara se të kërkoni "
+"një tjetër"
+
+#: resources/static/dialog/views/add_email.ejs:27
+msgid "Already added!"
+msgstr "Është shtuar tashmë!"
+
+#: resources/static/dialog/views/add_email.ejs:37
+msgid "add"
+msgstr "shtojeni"
+
+#: resources/static/dialog/views/add_email.ejs:38
+#: resources/static/dialog/views/pick_email.ejs:56
+#: resources/static/dialog/views/set_password.ejs:75
+#: resources/static/dialog/views/verify_primary_user.ejs:18
+msgid "cancel"
+msgstr "anulojeni"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:6
+#, php-format
+msgid "Cannot verify %s"
+msgstr "Nuk verifikohet dot %s"
+
+#: resources/static/dialog/views/cannot_verify_required_email.ejs:9
+#, php-format
+msgid ""
+"%s is a required address, but we cannot verify that you own this address."
+msgstr ""
+"%s është adresë e domosdoshme, por nuk verifikojmë dot që jeni i zoti i "
+"kësaj adrese."
+
+#: resources/static/dialog/views/complete_sign_in.ejs:7
+msgid "%(email)s verified!"
+msgstr "%(email)s u verifikua!"
+
+#: resources/static/dialog/views/complete_sign_in.ejs:13
+msgid "Signing you in&hellip;"
+msgstr "Po ju fusim te&hellip;"
+
+#: resources/static/dialog/views/confirm_email.ejs:5
+msgid "Check your email"
+msgstr "Kontrolloni email-in tuaj"
+
+#: resources/static/dialog/views/confirm_email.ejs:8
+#, php-format
+msgid ""
+"Click the link in the confirmation email sent to %s to immediately be signed "
+"in to %s."
+msgstr ""
+"Klikoni lidhjen te email-i i ripohimit dërguar për %s, që të hyni menjëherë te "
+"%s."
+
+#: resources/static/dialog/views/error.ejs:8
+msgid "Error"
+msgstr "Gabim"
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "We are very sorry."
+msgstr "Na vjen shumë keq."
+
+#: resources/static/dialog/views/error.ejs:12
+msgid "The server is under extreme load!"
+msgstr "Shërbyesi gjendet nën ngarkesë të skajshme!"
+
+#: resources/static/dialog/views/error.ejs:28
+msgid "Please reload the page and try again."
+msgstr "Ju lutemi, ringarkoni faqen dhe riprovoni."
+
+#: resources/static/dialog/views/error.ejs:30
+msgid "Please close this window and try again."
+msgstr "Ju lutemi, mbylleni këtë dritare dhe riprovoni."
+
+#: resources/static/dialog/views/error.ejs:37
+msgid "See more info"
+msgstr "Shihni më tepër të dhëna"
+
+#: resources/static/dialog/views/inline_tospp.ejs:7
+msgid "Close"
+msgstr "Mbylle"
+
+#: resources/static/dialog/views/inline_tospp.ejs:23
+msgid "OK"
+msgstr "OK"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:6
+#, php-format
+msgid "*%s* is not a valid email address!"
+msgstr "*%s* nuk është adresë email e vlefshme!"
+
+#: resources/static/dialog/views/invalid_required_email.ejs:9
+msgid "To continue, please close the window and enter a valid address."
+msgstr ""
+"Që të vazhdohet, ju lutemi, mbylleni dritaren dhe jepni si adresë të "
+"vlefshme."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:6
+msgid "Remember You?"
+msgstr "T'ju Mbajë Mend?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:7
+msgid "How long would you like to remain signed in with Persona?"
+msgstr "Sa kohë doni të mbeteni i futur përmes Persona-s?"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:10
+msgid "One month"
+msgstr "Një muaj"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:11
+msgid "I trust this computer."
+msgstr "E besoj këtë kompjuter."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:15
+msgid "This session only"
+msgstr "Vetëm këtë sesion"
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:16
+msgid "This is not my computer."
+msgstr "Ky nuk është kompjuteri im."
+
+#: resources/static/dialog/views/is_this_your_computer.ejs:19
+msgid "Note: You can of course sign out of Persona at any time."
+msgstr ""
+"Shënim: Sigurisht që mund të dilni nga llogaria juaj Persona në çfarëdo kohe."
+
+#: resources/static/dialog/views/pick_email.ejs:8
+msgid "Sign in with Persona"
+msgstr "Hyni me Persona-n"
+
+#: resources/static/dialog/views/pick_email.ejs:11
+#, php-format
+msgid "Sign in to %s as&hellip;"
+msgstr "Hyni te %s si&hellip;"
+
+#: resources/static/dialog/views/pick_email.ejs:28
+msgid "Select an email address"
+msgstr "Përzgjidhni një adresë email"
+
+#: resources/static/dialog/views/pick_email.ejs:31
+msgid "Add another email address"
+msgstr "Shtoni një tjetër adresë email"
+
+#: resources/static/dialog/views/pick_email.ejs:32
+#: resources/static/dialog/views/pick_email.ejs:39
+msgid "This is not me"
+msgstr "Ky nuk jam unë"
+
+#: resources/static/dialog/views/pick_email.ejs:44
+#: resources/static/dialog/views/rp_info.ejs:22
+msgid ""
+"By proceeding, you agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Duke e kryer, pajtoheni me <a %(terms)s>Kushtet</a> dhe <a "
+"%(privacy)s>Rregullat e Privatësisë</a> së %(site)s-s."
+
+#: resources/static/dialog/views/pick_email.ejs:55
+#: resources/static/dialog/views/verify_primary_user.ejs:17
+msgid "sign in"
+msgstr "hyni"
+
+#: resources/static/dialog/views/primary_offline.ejs:7
+msgid "%(primary)s is not responding. Please wait a few minutes and try again."
+msgstr ""
+"%(primary)s nuk po përgjigjet. Ju lutemi, prisni pak minuta dhe riprovoni."
+
+#: resources/static/dialog/views/primary_offline.ejs:9
+msgid "Cancel"
+msgstr "Anuloje"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:7
+msgid "Cannot verify %(email)s"
+msgstr "Nuk verifikohet dot %(email)s"
+
+#: resources/static/dialog/views/primary_user_not_verified.ejs:15
+msgid ""
+"This may be due to your browser blocking third-party cookies.  Please ensure "
+"your browser\\'s privacy preferences are set to accept third-party cookies "
+"for %(idpName)s and try again."
+msgstr ""
+"Kjo mund të vijë ngaqë shfletuesi juaj bllokon cookie palësh të treta.  Ju "
+"lutemi, sigurohuni që parapëlqimet e privatësisë për shfletuesin tuaj janë "
+"rregulluar që të pranojnë cookies palësh të treta për %(idpName)s dhe "
+"riprovoni."
+
+#: resources/static/dialog/views/rp_info_mobile.ejs:6
+msgid ""
+"You also agree to %(site)s's <a %(terms)s>Terms</a> and <a "
+"%(privacy)s>Privacy Policy</a>."
+msgstr ""
+"Pajtoheni gjithashtu me <a %(terms)s>Kushtet</a> dhe <a "
+"%(privacy)s>Rregullat e Privatësisë</a> së %(site)s."
+
+#: resources/static/dialog/views/set_password.ejs:7
+msgid "Create a Password"
+msgstr "Krijoni një Fjalëkalim"
+
+#: resources/static/dialog/views/set_password.ejs:13
+#: resources/static/dialog/views/set_password.ejs:61
+msgid ""
+"%(idp)s no longer allows you to log into Persona with your %(idp)s password. "
+"Please create a new password to use with your Persona account."
+msgstr ""
+"%(idp)s nuk ju lejon më të hyni te Persona me fjalëkalimin tuaj %(idp)s. Ju "
+"lutemi, krijoni një fjalëkalim të ri që ta përdorni me llogarinë tuaj "
+"Persona."
+
+#: resources/static/dialog/views/set_password.ejs:15
+#: resources/static/dialog/views/set_password.ejs:63
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"FirefoxOS."
+msgstr ""
+"Adresa juaj email është e re për ne. Ju lutemi, krijoni një fjalëkalim që ta "
+"përdorni me FirefoxOS-in."
+
+#: resources/static/dialog/views/set_password.ejs:17
+#: resources/static/dialog/views/set_password.ejs:65
+msgid ""
+"Your email address is new to us. Please create a password to use with "
+"Persona."
+msgstr ""
+"Adresa juaj email është e re për ne. Ju lutemi, krijoni një fjalëkalim që ta "
+"përdorni me Persona-n."
+
+#: resources/static/dialog/views/set_password.ejs:25
+msgid "create password"
+msgstr "krijoni fjalëkalimin"
+
+#: resources/static/dialog/views/set_password.ejs:28
+msgid "Password field required"
+msgstr "Fjalëkalimi është i domosdoshëm"
+
+#: resources/static/dialog/views/set_password.ejs:32
+msgid "Passwords must be 8&ndash;80 characters long"
+msgstr "Fjalëkalimet duhet të jenë 8&ndash;80 shenja të gjatë"
+
+#: resources/static/dialog/views/set_password.ejs:39
+msgid "Verify Password"
+msgstr "Verifikoni Fjalëkalimin"
+
+#: resources/static/dialog/views/set_password.ejs:41
+msgid "verify password"
+msgstr "verifikoni fjalëkalimin"
+
+#: resources/static/dialog/views/set_password.ejs:44
+msgid "Verification password required"
+msgstr "Verifikimi i fjalëkalimit është i domosdoshëm"
+
+#: resources/static/dialog/views/set_password.ejs:52
+msgid "Passwords don&rsquo;t match!"
+msgstr "Fjalëkalimet nuk përputhen!"
+
+#: resources/static/dialog/views/set_password.ejs:71
+msgid "done"
+msgstr "u bë"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:7
+msgid "Good news!"
+msgstr "Lajme të mira!"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:10
+msgid ""
+"%(email)s no longer requires an extra password. Verify your account and you "
+"will immediately be signed in to %(aWebsite)s"
+msgstr ""
+"%(email)s nuk lyp më fjalëkalim ekstra. Verifikoni llogarinë tuaj dhe "
+"menjëherë do t'ju bëhet hyrja te %(aWebsite)s"
+
+#: resources/static/dialog/views/verify_primary_user.ejs:16
+msgid "verify"
+msgstr "verifikoje"
